@@ -9,7 +9,7 @@ df = pd.read_csv(
 )
 
 
-def generate_table(dataframe, max_rows=10):
+def generate_table(dataframe: pd.DataFrame, max_rows: int = 10) -> html.Table:
     return html.Table([
         html.Thead(html.Tr([html.Th(col) for col in dataframe.columns])),
         html.Tbody([
