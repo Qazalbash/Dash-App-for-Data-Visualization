@@ -1,0 +1,1485 @@
+,date,county,state,fips,cases,deaths
+18880,2020-03-29,Alleghany,North Carolina,37005.0,1,0.0
+19459,2020-03-29,Alleghany,Virginia,51005.0,1,0.0
+20920,2020-03-30,Alleghany,North Carolina,37005.0,2,0.0
+21522,2020-03-30,Alleghany,Virginia,51005.0,1,0.0
+23044,2020-03-31,Alleghany,North Carolina,37005.0,2,0.0
+23661,2020-03-31,Alleghany,Virginia,51005.0,1,0.0
+25238,2020-04-01,Alleghany,North Carolina,37005.0,2,0.0
+25876,2020-04-01,Alleghany,Virginia,51005.0,1,0.0
+27499,2020-04-02,Alleghany,North Carolina,37005.0,2,0.0
+28165,2020-04-02,Alleghany,Virginia,51005.0,2,0.0
+29823,2020-04-03,Alleghany,North Carolina,37005.0,2,0.0
+30508,2020-04-03,Alleghany,Virginia,51005.0,2,0.0
+32209,2020-04-04,Alleghany,North Carolina,37005.0,2,0.0
+32906,2020-04-04,Alleghany,Virginia,51005.0,2,0.0
+34640,2020-04-05,Alleghany,North Carolina,37005.0,2,0.0
+35344,2020-04-05,Alleghany,Virginia,51005.0,2,0.0
+37109,2020-04-06,Alleghany,North Carolina,37005.0,2,0.0
+37825,2020-04-06,Alleghany,Virginia,51005.0,2,0.0
+39624,2020-04-07,Alleghany,North Carolina,37005.0,2,0.0
+40355,2020-04-07,Alleghany,Virginia,51005.0,2,0.0
+42181,2020-04-08,Alleghany,North Carolina,37005.0,2,0.0
+42924,2020-04-08,Alleghany,Virginia,51005.0,2,0.0
+44764,2020-04-09,Alleghany,North Carolina,37005.0,2,0.0
+45518,2020-04-09,Alleghany,Virginia,51005.0,2,0.0
+47377,2020-04-10,Alleghany,North Carolina,37005.0,2,0.0
+48142,2020-04-10,Alleghany,Virginia,51005.0,2,0.0
+50032,2020-04-11,Alleghany,North Carolina,37005.0,2,0.0
+50800,2020-04-11,Alleghany,Virginia,51005.0,4,0.0
+52705,2020-04-12,Alleghany,North Carolina,37005.0,2,0.0
+53475,2020-04-12,Alleghany,Virginia,51005.0,4,0.0
+55388,2020-04-13,Alleghany,North Carolina,37005.0,2,0.0
+56164,2020-04-13,Alleghany,Virginia,51005.0,4,0.0
+58088,2020-04-14,Alleghany,North Carolina,37005.0,2,0.0
+58870,2020-04-14,Alleghany,Virginia,51005.0,4,0.0
+60802,2020-04-15,Alleghany,North Carolina,37005.0,2,0.0
+61589,2020-04-15,Alleghany,Virginia,51005.0,4,0.0
+63528,2020-04-16,Alleghany,North Carolina,37005.0,2,0.0
+64321,2020-04-16,Alleghany,Virginia,51005.0,4,0.0
+66271,2020-04-17,Alleghany,North Carolina,37005.0,2,0.0
+67069,2020-04-17,Alleghany,Virginia,51005.0,4,0.0
+69028,2020-04-18,Alleghany,North Carolina,37005.0,2,0.0
+69831,2020-04-18,Alleghany,Virginia,51005.0,4,0.0
+71794,2020-04-19,Alleghany,North Carolina,37005.0,2,0.0
+72601,2020-04-19,Alleghany,Virginia,51005.0,5,0.0
+74569,2020-04-20,Alleghany,North Carolina,37005.0,2,0.0
+75377,2020-04-20,Alleghany,Virginia,51005.0,5,0.0
+77350,2020-04-21,Alleghany,North Carolina,37005.0,2,0.0
+78159,2020-04-21,Alleghany,Virginia,51005.0,5,0.0
+80139,2020-04-22,Alleghany,North Carolina,37005.0,2,0.0
+80951,2020-04-22,Alleghany,Virginia,51005.0,5,0.0
+82938,2020-04-23,Alleghany,North Carolina,37005.0,2,0.0
+83752,2020-04-23,Alleghany,Virginia,51005.0,5,0.0
+85742,2020-04-24,Alleghany,North Carolina,37005.0,2,0.0
+86559,2020-04-24,Alleghany,Virginia,51005.0,5,0.0
+88554,2020-04-25,Alleghany,North Carolina,37005.0,2,0.0
+89374,2020-04-25,Alleghany,Virginia,51005.0,5,0.0
+91369,2020-04-26,Alleghany,North Carolina,37005.0,2,0.0
+92191,2020-04-26,Alleghany,Virginia,51005.0,5,0.0
+94194,2020-04-27,Alleghany,North Carolina,37005.0,2,0.0
+95020,2020-04-27,Alleghany,Virginia,51005.0,5,0.0
+97030,2020-04-28,Alleghany,North Carolina,37005.0,2,0.0
+97862,2020-04-28,Alleghany,Virginia,51005.0,5,0.0
+99877,2020-04-29,Alleghany,North Carolina,37005.0,2,0.0
+100712,2020-04-29,Alleghany,Virginia,51005.0,6,0.0
+102730,2020-04-30,Alleghany,North Carolina,37005.0,3,0.0
+103567,2020-04-30,Alleghany,Virginia,51005.0,6,0.0
+105592,2020-05-01,Alleghany,North Carolina,37005.0,4,0.0
+106431,2020-05-01,Alleghany,Virginia,51005.0,6,0.0
+108459,2020-05-02,Alleghany,North Carolina,37005.0,6,0.0
+109300,2020-05-02,Alleghany,Virginia,51005.0,6,0.0
+111332,2020-05-03,Alleghany,North Carolina,37005.0,6,0.0
+112174,2020-05-03,Alleghany,Virginia,51005.0,6,0.0
+114213,2020-05-04,Alleghany,North Carolina,37005.0,6,0.0
+115057,2020-05-04,Alleghany,Virginia,51005.0,6,0.0
+117093,2020-05-05,Alleghany,North Carolina,37005.0,6,0.0
+118016,2020-05-05,Alleghany,Virginia,51005.0,6,0.0
+120054,2020-05-06,Alleghany,North Carolina,37005.0,7,0.0
+120980,2020-05-06,Alleghany,Virginia,51005.0,6,0.0
+123029,2020-05-07,Alleghany,North Carolina,37005.0,7,0.0
+123961,2020-05-07,Alleghany,Virginia,51005.0,6,0.0
+126012,2020-05-08,Alleghany,North Carolina,37005.0,7,0.0
+126946,2020-05-08,Alleghany,Virginia,51005.0,6,0.0
+129001,2020-05-09,Alleghany,North Carolina,37005.0,7,0.0
+129935,2020-05-09,Alleghany,Virginia,51005.0,6,0.0
+131990,2020-05-10,Alleghany,North Carolina,37005.0,8,0.0
+132925,2020-05-10,Alleghany,Virginia,51005.0,6,0.0
+134981,2020-05-11,Alleghany,North Carolina,37005.0,8,0.0
+135915,2020-05-11,Alleghany,Virginia,51005.0,6,0.0
+137971,2020-05-12,Alleghany,North Carolina,37005.0,8,0.0
+138906,2020-05-12,Alleghany,Virginia,51005.0,6,0.0
+140967,2020-05-13,Alleghany,North Carolina,37005.0,9,0.0
+141902,2020-05-13,Alleghany,Virginia,51005.0,6,0.0
+143962,2020-05-14,Alleghany,North Carolina,37005.0,10,0.0
+144899,2020-05-14,Alleghany,Virginia,51005.0,6,0.0
+146963,2020-05-15,Alleghany,North Carolina,37005.0,10,0.0
+147902,2020-05-15,Alleghany,Virginia,51005.0,6,0.0
+149970,2020-05-16,Alleghany,North Carolina,37005.0,11,0.0
+150911,2020-05-16,Alleghany,Virginia,51005.0,6,0.0
+152980,2020-05-17,Alleghany,North Carolina,37005.0,11,0.0
+153922,2020-05-17,Alleghany,Virginia,51005.0,7,0.0
+155997,2020-05-18,Alleghany,North Carolina,37005.0,12,0.0
+156939,2020-05-18,Alleghany,Virginia,51005.0,9,0.0
+159015,2020-05-19,Alleghany,North Carolina,37005.0,12,0.0
+159963,2020-05-19,Alleghany,Virginia,51005.0,9,0.0
+162042,2020-05-20,Alleghany,North Carolina,37005.0,12,0.0
+162991,2020-05-20,Alleghany,Virginia,51005.0,10,0.0
+165071,2020-05-21,Alleghany,North Carolina,37005.0,12,0.0
+166020,2020-05-21,Alleghany,Virginia,51005.0,9,0.0
+168106,2020-05-22,Alleghany,North Carolina,37005.0,12,0.0
+169056,2020-05-22,Alleghany,Virginia,51005.0,10,2.0
+171145,2020-05-23,Alleghany,North Carolina,37005.0,12,0.0
+172097,2020-05-23,Alleghany,Virginia,51005.0,13,2.0
+174187,2020-05-24,Alleghany,North Carolina,37005.0,12,0.0
+175140,2020-05-24,Alleghany,Virginia,51005.0,13,2.0
+177231,2020-05-25,Alleghany,North Carolina,37005.0,13,0.0
+178185,2020-05-25,Alleghany,Virginia,51005.0,13,2.0
+180274,2020-05-26,Alleghany,North Carolina,37005.0,13,0.0
+181229,2020-05-26,Alleghany,Virginia,51005.0,16,2.0
+183322,2020-05-27,Alleghany,North Carolina,37005.0,14,0.0
+184280,2020-05-27,Alleghany,Virginia,51005.0,16,2.0
+186379,2020-05-28,Alleghany,North Carolina,37005.0,14,0.0
+187337,2020-05-28,Alleghany,Virginia,51005.0,17,2.0
+189439,2020-05-29,Alleghany,North Carolina,37005.0,14,0.0
+190401,2020-05-29,Alleghany,Virginia,51005.0,19,2.0
+192503,2020-05-30,Alleghany,North Carolina,37005.0,15,0.0
+193467,2020-05-30,Alleghany,Virginia,51005.0,20,2.0
+195573,2020-05-31,Alleghany,North Carolina,37005.0,16,0.0
+196537,2020-05-31,Alleghany,Virginia,51005.0,20,2.0
+198646,2020-06-01,Alleghany,North Carolina,37005.0,17,0.0
+199610,2020-06-01,Alleghany,Virginia,51005.0,23,2.0
+201720,2020-06-02,Alleghany,North Carolina,37005.0,18,0.0
+202686,2020-06-02,Alleghany,Virginia,51005.0,24,2.0
+204797,2020-06-03,Alleghany,North Carolina,37005.0,18,0.0
+205765,2020-06-03,Alleghany,Virginia,51005.0,24,2.0
+207878,2020-06-04,Alleghany,North Carolina,37005.0,22,0.0
+208847,2020-06-04,Alleghany,Virginia,51005.0,24,2.0
+210960,2020-06-05,Alleghany,North Carolina,37005.0,24,0.0
+211932,2020-06-05,Alleghany,Virginia,51005.0,24,2.0
+214044,2020-06-06,Alleghany,North Carolina,37005.0,28,0.0
+215019,2020-06-06,Alleghany,Virginia,51005.0,26,2.0
+217134,2020-06-07,Alleghany,North Carolina,37005.0,28,0.0
+218109,2020-06-07,Alleghany,Virginia,51005.0,26,2.0
+220226,2020-06-08,Alleghany,North Carolina,37005.0,29,0.0
+221201,2020-06-08,Alleghany,Virginia,51005.0,26,2.0
+223320,2020-06-09,Alleghany,North Carolina,37005.0,30,0.0
+224297,2020-06-09,Alleghany,Virginia,51005.0,26,2.0
+226420,2020-06-10,Alleghany,North Carolina,37005.0,30,0.0
+227397,2020-06-10,Alleghany,Virginia,51005.0,26,2.0
+229524,2020-06-11,Alleghany,North Carolina,37005.0,30,0.0
+230501,2020-06-11,Alleghany,Virginia,51005.0,26,2.0
+232629,2020-06-12,Alleghany,North Carolina,37005.0,30,0.0
+233606,2020-06-12,Alleghany,Virginia,51005.0,27,2.0
+235734,2020-06-13,Alleghany,North Carolina,37005.0,30,0.0
+236713,2020-06-13,Alleghany,Virginia,51005.0,28,2.0
+238842,2020-06-14,Alleghany,North Carolina,37005.0,30,0.0
+239821,2020-06-14,Alleghany,Virginia,51005.0,28,2.0
+241951,2020-06-15,Alleghany,North Carolina,37005.0,30,0.0
+242932,2020-06-15,Alleghany,Virginia,51005.0,28,2.0
+245063,2020-06-16,Alleghany,North Carolina,37005.0,30,0.0
+246044,2020-06-16,Alleghany,Virginia,51005.0,30,2.0
+248176,2020-06-17,Alleghany,North Carolina,37005.0,30,0.0
+249156,2020-06-17,Alleghany,Virginia,51005.0,30,2.0
+251291,2020-06-18,Alleghany,North Carolina,37005.0,30,0.0
+252271,2020-06-18,Alleghany,Virginia,51005.0,30,2.0
+254406,2020-06-19,Alleghany,North Carolina,37005.0,30,0.0
+255389,2020-06-19,Alleghany,Virginia,51005.0,30,2.0
+257529,2020-06-20,Alleghany,North Carolina,37005.0,30,0.0
+258516,2020-06-20,Alleghany,Virginia,51005.0,30,2.0
+260656,2020-06-21,Alleghany,North Carolina,37005.0,30,0.0
+261643,2020-06-21,Alleghany,Virginia,51005.0,30,2.0
+263784,2020-06-22,Alleghany,North Carolina,37005.0,30,0.0
+264772,2020-06-22,Alleghany,Virginia,51005.0,31,2.0
+266912,2020-06-23,Alleghany,North Carolina,37005.0,30,0.0
+267901,2020-06-23,Alleghany,Virginia,51005.0,31,2.0
+270046,2020-06-24,Alleghany,North Carolina,37005.0,31,0.0
+271035,2020-06-24,Alleghany,Virginia,51005.0,31,2.0
+273185,2020-06-25,Alleghany,North Carolina,37005.0,31,0.0
+274175,2020-06-25,Alleghany,Virginia,51005.0,31,2.0
+276331,2020-06-26,Alleghany,North Carolina,37005.0,31,0.0
+277323,2020-06-26,Alleghany,Virginia,51005.0,31,2.0
+279479,2020-06-27,Alleghany,North Carolina,37005.0,31,0.0
+280471,2020-06-27,Alleghany,Virginia,51005.0,31,2.0
+282625,2020-06-28,Alleghany,North Carolina,37005.0,31,0.0
+283617,2020-06-28,Alleghany,Virginia,51005.0,31,2.0
+285770,2020-06-29,Alleghany,North Carolina,37005.0,31,0.0
+286763,2020-06-29,Alleghany,Virginia,51005.0,31,2.0
+288920,2020-06-30,Alleghany,North Carolina,37005.0,31,0.0
+289913,2020-06-30,Alleghany,Virginia,51005.0,31,2.0
+292072,2020-07-01,Alleghany,North Carolina,37005.0,32,0.0
+293066,2020-07-01,Alleghany,Virginia,51005.0,33,2.0
+295227,2020-07-02,Alleghany,North Carolina,37005.0,36,0.0
+296221,2020-07-02,Alleghany,Virginia,51005.0,33,2.0
+298387,2020-07-03,Alleghany,North Carolina,37005.0,36,0.0
+299383,2020-07-03,Alleghany,Virginia,51005.0,34,2.0
+301550,2020-07-04,Alleghany,North Carolina,37005.0,36,0.0
+302547,2020-07-04,Alleghany,Virginia,51005.0,35,2.0
+304713,2020-07-05,Alleghany,North Carolina,37005.0,37,0.0
+305711,2020-07-05,Alleghany,Virginia,51005.0,35,2.0
+307880,2020-07-06,Alleghany,North Carolina,37005.0,37,0.0
+308879,2020-07-06,Alleghany,Virginia,51005.0,36,2.0
+311048,2020-07-07,Alleghany,North Carolina,37005.0,37,0.0
+312048,2020-07-07,Alleghany,Virginia,51005.0,38,2.0
+314219,2020-07-08,Alleghany,North Carolina,37005.0,37,0.0
+315222,2020-07-08,Alleghany,Virginia,51005.0,39,2.0
+317393,2020-07-09,Alleghany,North Carolina,37005.0,39,0.0
+318395,2020-07-09,Alleghany,Virginia,51005.0,39,2.0
+320570,2020-07-10,Alleghany,North Carolina,37005.0,41,0.0
+321574,2020-07-10,Alleghany,Virginia,51005.0,39,2.0
+323750,2020-07-11,Alleghany,North Carolina,37005.0,41,0.0
+324755,2020-07-11,Alleghany,Virginia,51005.0,40,2.0
+326934,2020-07-12,Alleghany,North Carolina,37005.0,41,0.0
+327940,2020-07-12,Alleghany,Virginia,51005.0,52,2.0
+330121,2020-07-13,Alleghany,North Carolina,37005.0,42,0.0
+331126,2020-07-13,Alleghany,Virginia,51005.0,52,2.0
+333311,2020-07-14,Alleghany,North Carolina,37005.0,43,0.0
+334319,2020-07-14,Alleghany,Virginia,51005.0,52,2.0
+336505,2020-07-15,Alleghany,North Carolina,37005.0,44,0.0
+337514,2020-07-15,Alleghany,Virginia,51005.0,53,2.0
+339701,2020-07-16,Alleghany,North Carolina,37005.0,46,0.0
+340710,2020-07-16,Alleghany,Virginia,51005.0,54,2.0
+342899,2020-07-17,Alleghany,North Carolina,37005.0,50,0.0
+343909,2020-07-17,Alleghany,Virginia,51005.0,54,2.0
+346098,2020-07-18,Alleghany,North Carolina,37005.0,51,0.0
+347109,2020-07-18,Alleghany,Virginia,51005.0,54,2.0
+349299,2020-07-19,Alleghany,North Carolina,37005.0,53,0.0
+350310,2020-07-19,Alleghany,Virginia,51005.0,55,2.0
+352502,2020-07-20,Alleghany,North Carolina,37005.0,54,0.0
+353512,2020-07-20,Alleghany,Virginia,51005.0,55,2.0
+355705,2020-07-21,Alleghany,North Carolina,37005.0,52,0.0
+356715,2020-07-21,Alleghany,Virginia,51005.0,55,2.0
+358909,2020-07-22,Alleghany,North Carolina,37005.0,53,0.0
+359920,2020-07-22,Alleghany,Virginia,51005.0,56,2.0
+362115,2020-07-23,Alleghany,North Carolina,37005.0,55,0.0
+363126,2020-07-23,Alleghany,Virginia,51005.0,56,2.0
+365321,2020-07-24,Alleghany,North Carolina,37005.0,56,0.0
+366332,2020-07-24,Alleghany,Virginia,51005.0,56,2.0
+368530,2020-07-25,Alleghany,North Carolina,37005.0,61,0.0
+369541,2020-07-25,Alleghany,Virginia,51005.0,56,2.0
+371742,2020-07-26,Alleghany,North Carolina,37005.0,62,0.0
+372753,2020-07-26,Alleghany,Virginia,51005.0,57,2.0
+374954,2020-07-27,Alleghany,North Carolina,37005.0,62,0.0
+375967,2020-07-27,Alleghany,Virginia,51005.0,57,2.0
+378170,2020-07-28,Alleghany,North Carolina,37005.0,63,0.0
+379183,2020-07-28,Alleghany,Virginia,51005.0,57,2.0
+381387,2020-07-29,Alleghany,North Carolina,37005.0,64,0.0
+382400,2020-07-29,Alleghany,Virginia,51005.0,56,2.0
+384605,2020-07-30,Alleghany,North Carolina,37005.0,66,0.0
+385618,2020-07-30,Alleghany,Virginia,51005.0,56,3.0
+387822,2020-07-31,Alleghany,North Carolina,37005.0,67,0.0
+388835,2020-07-31,Alleghany,Virginia,51005.0,56,3.0
+391039,2020-08-01,Alleghany,North Carolina,37005.0,67,0.0
+392052,2020-08-01,Alleghany,Virginia,51005.0,56,3.0
+394255,2020-08-02,Alleghany,North Carolina,37005.0,98,0.0
+395268,2020-08-02,Alleghany,Virginia,51005.0,56,3.0
+397472,2020-08-03,Alleghany,North Carolina,37005.0,156,0.0
+398484,2020-08-03,Alleghany,Virginia,51005.0,56,3.0
+400687,2020-08-04,Alleghany,North Carolina,37005.0,164,0.0
+401700,2020-08-04,Alleghany,Virginia,51005.0,56,3.0
+403905,2020-08-05,Alleghany,North Carolina,37005.0,164,0.0
+404918,2020-08-05,Alleghany,Virginia,51005.0,57,4.0
+407124,2020-08-06,Alleghany,North Carolina,37005.0,165,0.0
+408138,2020-08-06,Alleghany,Virginia,51005.0,58,4.0
+410344,2020-08-07,Alleghany,North Carolina,37005.0,166,0.0
+411357,2020-08-07,Alleghany,Virginia,51005.0,61,4.0
+413564,2020-08-08,Alleghany,North Carolina,37005.0,167,0.0
+414577,2020-08-08,Alleghany,Virginia,51005.0,62,4.0
+416785,2020-08-09,Alleghany,North Carolina,37005.0,167,0.0
+417798,2020-08-09,Alleghany,Virginia,51005.0,62,4.0
+420005,2020-08-10,Alleghany,North Carolina,37005.0,169,0.0
+421019,2020-08-10,Alleghany,Virginia,51005.0,62,4.0
+423228,2020-08-11,Alleghany,North Carolina,37005.0,169,0.0
+424240,2020-08-11,Alleghany,Virginia,51005.0,62,4.0
+426451,2020-08-12,Alleghany,North Carolina,37005.0,170,0.0
+427464,2020-08-12,Alleghany,Virginia,51005.0,62,4.0
+429676,2020-08-13,Alleghany,North Carolina,37005.0,171,0.0
+430692,2020-08-13,Alleghany,Virginia,51005.0,62,4.0
+432902,2020-08-14,Alleghany,North Carolina,37005.0,172,0.0
+433917,2020-08-14,Alleghany,Virginia,51005.0,62,4.0
+436128,2020-08-15,Alleghany,North Carolina,37005.0,177,0.0
+437143,2020-08-15,Alleghany,Virginia,51005.0,59,4.0
+439353,2020-08-16,Alleghany,North Carolina,37005.0,179,0.0
+440369,2020-08-16,Alleghany,Virginia,51005.0,60,4.0
+442580,2020-08-17,Alleghany,North Carolina,37005.0,180,0.0
+443595,2020-08-17,Alleghany,Virginia,51005.0,60,4.0
+445806,2020-08-18,Alleghany,North Carolina,37005.0,181,0.0
+446822,2020-08-18,Alleghany,Virginia,51005.0,59,4.0
+449034,2020-08-19,Alleghany,North Carolina,37005.0,182,0.0
+450050,2020-08-19,Alleghany,Virginia,51005.0,59,4.0
+452262,2020-08-20,Alleghany,North Carolina,37005.0,181,0.0
+453278,2020-08-20,Alleghany,Virginia,51005.0,59,4.0
+455490,2020-08-21,Alleghany,North Carolina,37005.0,184,0.0
+456506,2020-08-21,Alleghany,Virginia,51005.0,60,4.0
+458718,2020-08-22,Alleghany,North Carolina,37005.0,186,0.0
+459733,2020-08-22,Alleghany,Virginia,51005.0,61,4.0
+461946,2020-08-23,Alleghany,North Carolina,37005.0,189,0.0
+462962,2020-08-23,Alleghany,Virginia,51005.0,61,4.0
+465175,2020-08-24,Alleghany,North Carolina,37005.0,191,0.0
+466191,2020-08-24,Alleghany,Virginia,51005.0,61,4.0
+468403,2020-08-25,Alleghany,North Carolina,37005.0,193,0.0
+469420,2020-08-25,Alleghany,Virginia,51005.0,61,4.0
+471635,2020-08-26,Alleghany,North Carolina,37005.0,193,0.0
+472652,2020-08-26,Alleghany,Virginia,51005.0,63,4.0
+474869,2020-08-27,Alleghany,North Carolina,37005.0,195,0.0
+475885,2020-08-27,Alleghany,Virginia,51005.0,63,4.0
+478102,2020-08-28,Alleghany,North Carolina,37005.0,199,0.0
+479118,2020-08-28,Alleghany,Virginia,51005.0,64,4.0
+481335,2020-08-29,Alleghany,North Carolina,37005.0,203,0.0
+482352,2020-08-29,Alleghany,Virginia,51005.0,64,4.0
+484570,2020-08-30,Alleghany,North Carolina,37005.0,203,0.0
+485587,2020-08-30,Alleghany,Virginia,51005.0,64,4.0
+487803,2020-08-31,Alleghany,North Carolina,37005.0,203,0.0
+488820,2020-08-31,Alleghany,Virginia,51005.0,65,4.0
+491036,2020-09-01,Alleghany,North Carolina,37005.0,202,0.0
+492053,2020-09-01,Alleghany,Virginia,51005.0,65,4.0
+494270,2020-09-02,Alleghany,North Carolina,37005.0,202,0.0
+495287,2020-09-02,Alleghany,Virginia,51005.0,68,4.0
+497503,2020-09-03,Alleghany,North Carolina,37005.0,205,0.0
+498520,2020-09-03,Alleghany,Virginia,51005.0,68,4.0
+500737,2020-09-04,Alleghany,North Carolina,37005.0,206,0.0
+501754,2020-09-04,Alleghany,Virginia,51005.0,69,4.0
+503971,2020-09-05,Alleghany,North Carolina,37005.0,207,0.0
+504988,2020-09-05,Alleghany,Virginia,51005.0,69,4.0
+507203,2020-09-06,Alleghany,North Carolina,37005.0,207,0.0
+508220,2020-09-06,Alleghany,Virginia,51005.0,71,4.0
+510436,2020-09-07,Alleghany,North Carolina,37005.0,210,0.0
+511453,2020-09-07,Alleghany,Virginia,51005.0,71,4.0
+513669,2020-09-08,Alleghany,North Carolina,37005.0,210,0.0
+514686,2020-09-08,Alleghany,Virginia,51005.0,71,4.0
+516904,2020-09-09,Alleghany,North Carolina,37005.0,211,0.0
+517921,2020-09-09,Alleghany,Virginia,51005.0,71,4.0
+520140,2020-09-10,Alleghany,North Carolina,37005.0,210,0.0
+521158,2020-09-10,Alleghany,Virginia,51005.0,73,4.0
+523376,2020-09-11,Alleghany,North Carolina,37005.0,214,0.0
+524394,2020-09-11,Alleghany,Virginia,51005.0,75,4.0
+526612,2020-09-12,Alleghany,North Carolina,37005.0,215,0.0
+527630,2020-09-12,Alleghany,Virginia,51005.0,74,4.0
+529849,2020-09-13,Alleghany,North Carolina,37005.0,217,0.0
+530867,2020-09-13,Alleghany,Virginia,51005.0,74,4.0
+533084,2020-09-14,Alleghany,North Carolina,37005.0,217,0.0
+534102,2020-09-14,Alleghany,Virginia,51005.0,76,4.0
+536320,2020-09-15,Alleghany,North Carolina,37005.0,217,0.0
+537338,2020-09-15,Alleghany,Virginia,51005.0,75,4.0
+539557,2020-09-16,Alleghany,North Carolina,37005.0,217,0.0
+540575,2020-09-16,Alleghany,Virginia,51005.0,77,4.0
+542793,2020-09-17,Alleghany,North Carolina,37005.0,218,0.0
+543811,2020-09-17,Alleghany,Virginia,51005.0,77,4.0
+546030,2020-09-18,Alleghany,North Carolina,37005.0,219,0.0
+547048,2020-09-18,Alleghany,Virginia,51005.0,78,4.0
+549269,2020-09-19,Alleghany,North Carolina,37005.0,219,0.0
+550287,2020-09-19,Alleghany,Virginia,51005.0,78,4.0
+552508,2020-09-20,Alleghany,North Carolina,37005.0,220,0.0
+553526,2020-09-20,Alleghany,Virginia,51005.0,78,4.0
+555745,2020-09-21,Alleghany,North Carolina,37005.0,220,0.0
+556763,2020-09-21,Alleghany,Virginia,51005.0,77,4.0
+558982,2020-09-22,Alleghany,North Carolina,37005.0,220,0.0
+559999,2020-09-22,Alleghany,Virginia,51005.0,77,4.0
+562219,2020-09-23,Alleghany,North Carolina,37005.0,220,0.0
+563238,2020-09-23,Alleghany,Virginia,51005.0,77,4.0
+565460,2020-09-24,Alleghany,North Carolina,37005.0,224,0.0
+566479,2020-09-24,Alleghany,Virginia,51005.0,77,4.0
+568701,2020-09-25,Alleghany,North Carolina,37005.0,226,0.0
+569720,2020-09-25,Alleghany,Virginia,51005.0,78,4.0
+571943,2020-09-26,Alleghany,North Carolina,37005.0,229,0.0
+572962,2020-09-26,Alleghany,Virginia,51005.0,78,4.0
+575187,2020-09-27,Alleghany,North Carolina,37005.0,231,0.0
+576206,2020-09-27,Alleghany,Virginia,51005.0,79,4.0
+578428,2020-09-28,Alleghany,North Carolina,37005.0,233,0.0
+579447,2020-09-28,Alleghany,Virginia,51005.0,79,4.0
+581668,2020-09-29,Alleghany,North Carolina,37005.0,236,0.0
+582686,2020-09-29,Alleghany,Virginia,51005.0,79,4.0
+584909,2020-09-30,Alleghany,North Carolina,37005.0,237,0.0
+585926,2020-09-30,Alleghany,Virginia,51005.0,79,4.0
+588149,2020-10-01,Alleghany,North Carolina,37005.0,238,0.0
+589167,2020-10-01,Alleghany,Virginia,51005.0,79,4.0
+591390,2020-10-02,Alleghany,North Carolina,37005.0,239,0.0
+592407,2020-10-02,Alleghany,Virginia,51005.0,80,4.0
+594631,2020-10-03,Alleghany,North Carolina,37005.0,239,0.0
+595649,2020-10-03,Alleghany,Virginia,51005.0,80,4.0
+597874,2020-10-04,Alleghany,North Carolina,37005.0,239,0.0
+598892,2020-10-04,Alleghany,Virginia,51005.0,80,4.0
+601117,2020-10-05,Alleghany,North Carolina,37005.0,246,0.0
+602135,2020-10-05,Alleghany,Virginia,51005.0,81,4.0
+604359,2020-10-06,Alleghany,North Carolina,37005.0,244,0.0
+605377,2020-10-06,Alleghany,Virginia,51005.0,81,4.0
+607602,2020-10-07,Alleghany,North Carolina,37005.0,245,0.0
+608620,2020-10-07,Alleghany,Virginia,51005.0,81,4.0
+610844,2020-10-08,Alleghany,North Carolina,37005.0,245,0.0
+611862,2020-10-08,Alleghany,Virginia,51005.0,81,4.0
+614085,2020-10-09,Alleghany,North Carolina,37005.0,245,0.0
+615103,2020-10-09,Alleghany,Virginia,51005.0,82,4.0
+617327,2020-10-10,Alleghany,North Carolina,37005.0,249,1.0
+618345,2020-10-10,Alleghany,Virginia,51005.0,82,4.0
+620569,2020-10-11,Alleghany,North Carolina,37005.0,251,1.0
+621588,2020-10-11,Alleghany,Virginia,51005.0,82,4.0
+623812,2020-10-12,Alleghany,North Carolina,37005.0,257,1.0
+624831,2020-10-12,Alleghany,Virginia,51005.0,83,4.0
+627054,2020-10-13,Alleghany,North Carolina,37005.0,257,1.0
+628074,2020-10-13,Alleghany,Virginia,51005.0,83,4.0
+630298,2020-10-14,Alleghany,North Carolina,37005.0,258,1.0
+631318,2020-10-14,Alleghany,Virginia,51005.0,83,4.0
+633543,2020-10-15,Alleghany,North Carolina,37005.0,261,1.0
+634563,2020-10-15,Alleghany,Virginia,51005.0,83,4.0
+636789,2020-10-16,Alleghany,North Carolina,37005.0,262,1.0
+637808,2020-10-16,Alleghany,Virginia,51005.0,84,4.0
+640035,2020-10-17,Alleghany,North Carolina,37005.0,264,1.0
+641055,2020-10-17,Alleghany,Virginia,51005.0,84,4.0
+643283,2020-10-18,Alleghany,North Carolina,37005.0,265,1.0
+644303,2020-10-18,Alleghany,Virginia,51005.0,84,4.0
+646529,2020-10-19,Alleghany,North Carolina,37005.0,269,1.0
+647549,2020-10-19,Alleghany,Virginia,51005.0,84,4.0
+649773,2020-10-20,Alleghany,North Carolina,37005.0,270,1.0
+650793,2020-10-20,Alleghany,Virginia,51005.0,89,4.0
+653018,2020-10-21,Alleghany,North Carolina,37005.0,271,1.0
+654038,2020-10-21,Alleghany,Virginia,51005.0,92,4.0
+656263,2020-10-22,Alleghany,North Carolina,37005.0,275,2.0
+657283,2020-10-22,Alleghany,Virginia,51005.0,95,4.0
+659507,2020-10-23,Alleghany,North Carolina,37005.0,286,2.0
+660527,2020-10-23,Alleghany,Virginia,51005.0,105,4.0
+662751,2020-10-24,Alleghany,North Carolina,37005.0,289,2.0
+663771,2020-10-24,Alleghany,Virginia,51005.0,109,4.0
+665996,2020-10-25,Alleghany,North Carolina,37005.0,289,2.0
+667016,2020-10-25,Alleghany,Virginia,51005.0,111,4.0
+669240,2020-10-26,Alleghany,North Carolina,37005.0,294,2.0
+670259,2020-10-26,Alleghany,Virginia,51005.0,113,4.0
+672482,2020-10-27,Alleghany,North Carolina,37005.0,296,2.0
+673501,2020-10-27,Alleghany,Virginia,51005.0,113,4.0
+675725,2020-10-28,Alleghany,North Carolina,37005.0,297,2.0
+676744,2020-10-28,Alleghany,Virginia,51005.0,112,4.0
+678968,2020-10-29,Alleghany,North Carolina,37005.0,304,2.0
+679987,2020-10-29,Alleghany,Virginia,51005.0,114,4.0
+682211,2020-10-30,Alleghany,North Carolina,37005.0,307,1.0
+683230,2020-10-30,Alleghany,Virginia,51005.0,115,4.0
+685454,2020-10-31,Alleghany,North Carolina,37005.0,311,1.0
+686473,2020-10-31,Alleghany,Virginia,51005.0,123,4.0
+688699,2020-11-01,Alleghany,North Carolina,37005.0,316,1.0
+689718,2020-11-01,Alleghany,Virginia,51005.0,154,4.0
+691943,2020-11-02,Alleghany,North Carolina,37005.0,319,1.0
+692962,2020-11-02,Alleghany,Virginia,51005.0,154,4.0
+695185,2020-11-03,Alleghany,North Carolina,37005.0,326,1.0
+696204,2020-11-03,Alleghany,Virginia,51005.0,154,4.0
+698428,2020-11-04,Alleghany,North Carolina,37005.0,326,1.0
+699448,2020-11-04,Alleghany,Virginia,51005.0,161,4.0
+701672,2020-11-05,Alleghany,North Carolina,37005.0,340,1.0
+702691,2020-11-05,Alleghany,Virginia,51005.0,161,4.0
+704915,2020-11-06,Alleghany,North Carolina,37005.0,345,1.0
+705934,2020-11-06,Alleghany,Virginia,51005.0,168,4.0
+708158,2020-11-07,Alleghany,North Carolina,37005.0,348,1.0
+709178,2020-11-07,Alleghany,Virginia,51005.0,218,4.0
+711402,2020-11-08,Alleghany,North Carolina,37005.0,351,1.0
+712422,2020-11-08,Alleghany,Virginia,51005.0,218,4.0
+714646,2020-11-09,Alleghany,North Carolina,37005.0,352,1.0
+715666,2020-11-09,Alleghany,Virginia,51005.0,219,4.0
+717889,2020-11-10,Alleghany,North Carolina,37005.0,353,1.0
+718909,2020-11-10,Alleghany,Virginia,51005.0,224,4.0
+721132,2020-11-11,Alleghany,North Carolina,37005.0,354,1.0
+722152,2020-11-11,Alleghany,Virginia,51005.0,226,4.0
+724375,2020-11-12,Alleghany,North Carolina,37005.0,355,1.0
+725395,2020-11-12,Alleghany,Virginia,51005.0,230,6.0
+727619,2020-11-13,Alleghany,North Carolina,37005.0,356,1.0
+728638,2020-11-13,Alleghany,Virginia,51005.0,228,6.0
+730863,2020-11-14,Alleghany,North Carolina,37005.0,359,1.0
+731883,2020-11-14,Alleghany,Virginia,51005.0,234,6.0
+734109,2020-11-15,Alleghany,North Carolina,37005.0,359,1.0
+735129,2020-11-15,Alleghany,Virginia,51005.0,239,6.0
+737353,2020-11-16,Alleghany,North Carolina,37005.0,360,1.0
+738373,2020-11-16,Alleghany,Virginia,51005.0,238,6.0
+740598,2020-11-17,Alleghany,North Carolina,37005.0,363,1.0
+741620,2020-11-17,Alleghany,Virginia,51005.0,246,6.0
+743845,2020-11-18,Alleghany,North Carolina,37005.0,365,1.0
+744867,2020-11-18,Alleghany,Virginia,51005.0,245,6.0
+747091,2020-11-19,Alleghany,North Carolina,37005.0,367,1.0
+748113,2020-11-19,Alleghany,Virginia,51005.0,259,6.0
+750337,2020-11-20,Alleghany,North Carolina,37005.0,370,1.0
+751359,2020-11-20,Alleghany,Virginia,51005.0,262,6.0
+753583,2020-11-21,Alleghany,North Carolina,37005.0,373,1.0
+754605,2020-11-21,Alleghany,Virginia,51005.0,271,7.0
+756830,2020-11-22,Alleghany,North Carolina,37005.0,375,1.0
+757852,2020-11-22,Alleghany,Virginia,51005.0,276,7.0
+760076,2020-11-23,Alleghany,North Carolina,37005.0,376,1.0
+761097,2020-11-23,Alleghany,Virginia,51005.0,280,7.0
+763321,2020-11-24,Alleghany,North Carolina,37005.0,377,1.0
+764342,2020-11-24,Alleghany,Virginia,51005.0,293,7.0
+766566,2020-11-25,Alleghany,North Carolina,37005.0,378,1.0
+767587,2020-11-25,Alleghany,Virginia,51005.0,301,7.0
+769812,2020-11-26,Alleghany,North Carolina,37005.0,378,1.0
+770833,2020-11-26,Alleghany,Virginia,51005.0,307,7.0
+773057,2020-11-27,Alleghany,North Carolina,37005.0,381,1.0
+774078,2020-11-27,Alleghany,Virginia,51005.0,313,7.0
+776302,2020-11-28,Alleghany,North Carolina,37005.0,384,1.0
+777323,2020-11-28,Alleghany,Virginia,51005.0,316,7.0
+779547,2020-11-29,Alleghany,North Carolina,37005.0,390,1.0
+780569,2020-11-29,Alleghany,Virginia,51005.0,318,7.0
+782793,2020-11-30,Alleghany,North Carolina,37005.0,393,1.0
+783814,2020-11-30,Alleghany,Virginia,51005.0,320,7.0
+786037,2020-12-01,Alleghany,North Carolina,37005.0,397,1.0
+787058,2020-12-01,Alleghany,Virginia,51005.0,340,7.0
+789282,2020-12-02,Alleghany,North Carolina,37005.0,403,1.0
+790303,2020-12-02,Alleghany,Virginia,51005.0,343,7.0
+792527,2020-12-03,Alleghany,North Carolina,37005.0,409,1.0
+793548,2020-12-03,Alleghany,Virginia,51005.0,344,11.0
+795772,2020-12-04,Alleghany,North Carolina,37005.0,413,1.0
+796793,2020-12-04,Alleghany,Virginia,51005.0,355,15.0
+799017,2020-12-05,Alleghany,North Carolina,37005.0,416,1.0
+800038,2020-12-05,Alleghany,Virginia,51005.0,374,15.0
+802262,2020-12-06,Alleghany,North Carolina,37005.0,422,1.0
+803283,2020-12-06,Alleghany,Virginia,51005.0,382,15.0
+805507,2020-12-07,Alleghany,North Carolina,37005.0,432,1.0
+806528,2020-12-07,Alleghany,Virginia,51005.0,387,15.0
+808752,2020-12-08,Alleghany,North Carolina,37005.0,436,1.0
+809773,2020-12-08,Alleghany,Virginia,51005.0,417,18.0
+811997,2020-12-09,Alleghany,North Carolina,37005.0,445,1.0
+813017,2020-12-09,Alleghany,Virginia,51005.0,430,18.0
+815242,2020-12-10,Alleghany,North Carolina,37005.0,455,1.0
+816263,2020-12-10,Alleghany,Virginia,51005.0,454,18.0
+818488,2020-12-11,Alleghany,North Carolina,37005.0,458,1.0
+819509,2020-12-11,Alleghany,Virginia,51005.0,470,18.0
+821734,2020-12-12,Alleghany,North Carolina,37005.0,471,1.0
+822755,2020-12-12,Alleghany,Virginia,51005.0,493,18.0
+824981,2020-12-13,Alleghany,North Carolina,37005.0,485,1.0
+826002,2020-12-13,Alleghany,Virginia,51005.0,497,18.0
+828227,2020-12-14,Alleghany,North Carolina,37005.0,505,1.0
+829248,2020-12-14,Alleghany,Virginia,51005.0,497,18.0
+831474,2020-12-15,Alleghany,North Carolina,37005.0,507,1.0
+832495,2020-12-15,Alleghany,Virginia,51005.0,517,18.0
+834720,2020-12-16,Alleghany,North Carolina,37005.0,515,2.0
+835741,2020-12-16,Alleghany,Virginia,51005.0,541,18.0
+837966,2020-12-17,Alleghany,North Carolina,37005.0,519,2.0
+838987,2020-12-17,Alleghany,Virginia,51005.0,556,18.0
+841211,2020-12-18,Alleghany,North Carolina,37005.0,529,2.0
+842232,2020-12-18,Alleghany,Virginia,51005.0,562,20.0
+844457,2020-12-19,Alleghany,North Carolina,37005.0,533,2.0
+845478,2020-12-19,Alleghany,Virginia,51005.0,582,20.0
+847702,2020-12-20,Alleghany,North Carolina,37005.0,537,2.0
+848723,2020-12-20,Alleghany,Virginia,51005.0,586,20.0
+850947,2020-12-21,Alleghany,North Carolina,37005.0,538,2.0
+851968,2020-12-21,Alleghany,Virginia,51005.0,600,20.0
+854192,2020-12-22,Alleghany,North Carolina,37005.0,551,2.0
+855213,2020-12-22,Alleghany,Virginia,51005.0,612,20.0
+857437,2020-12-23,Alleghany,North Carolina,37005.0,559,2.0
+858458,2020-12-23,Alleghany,Virginia,51005.0,653,21.0
+860682,2020-12-24,Alleghany,North Carolina,37005.0,559,2.0
+861703,2020-12-24,Alleghany,Virginia,51005.0,674,22.0
+863927,2020-12-25,Alleghany,North Carolina,37005.0,559,2.0
+864948,2020-12-25,Alleghany,Virginia,51005.0,689,22.0
+867172,2020-12-26,Alleghany,North Carolina,37005.0,603,2.0
+868193,2020-12-26,Alleghany,Virginia,51005.0,694,22.0
+870417,2020-12-27,Alleghany,North Carolina,37005.0,611,2.0
+871438,2020-12-27,Alleghany,Virginia,51005.0,698,22.0
+873662,2020-12-28,Alleghany,North Carolina,37005.0,611,2.0
+874683,2020-12-28,Alleghany,Virginia,51005.0,713,22.0
+876907,2020-12-29,Alleghany,North Carolina,37005.0,619,2.0
+877928,2020-12-29,Alleghany,Virginia,51005.0,738,22.0
+880152,2020-12-30,Alleghany,North Carolina,37005.0,633,2.0
+881173,2020-12-30,Alleghany,Virginia,51005.0,747,23.0
+883397,2020-12-31,Alleghany,North Carolina,37005.0,638,2.0
+884418,2020-12-31,Alleghany,Virginia,51005.0,767,23.0
+886642,2021-01-01,Alleghany,North Carolina,37005.0,638,2.0
+887663,2021-01-01,Alleghany,Virginia,51005.0,783,22.0
+889889,2021-01-02,Alleghany,North Carolina,37005.0,670,2.0
+890910,2021-01-02,Alleghany,Virginia,51005.0,811,22.0
+893135,2021-01-03,Alleghany,North Carolina,37005.0,674,2.0
+894156,2021-01-03,Alleghany,Virginia,51005.0,819,22.0
+896381,2021-01-04,Alleghany,North Carolina,37005.0,675,2.0
+897402,2021-01-04,Alleghany,Virginia,51005.0,836,22.0
+899626,2021-01-05,Alleghany,North Carolina,37005.0,681,2.0
+900647,2021-01-05,Alleghany,Virginia,51005.0,842,23.0
+902871,2021-01-06,Alleghany,North Carolina,37005.0,693,2.0
+903892,2021-01-06,Alleghany,Virginia,51005.0,848,23.0
+906117,2021-01-07,Alleghany,North Carolina,37005.0,711,2.0
+907138,2021-01-07,Alleghany,Virginia,51005.0,864,24.0
+909362,2021-01-08,Alleghany,North Carolina,37005.0,724,3.0
+910383,2021-01-08,Alleghany,Virginia,51005.0,871,24.0
+912607,2021-01-09,Alleghany,North Carolina,37005.0,733,3.0
+913628,2021-01-09,Alleghany,Virginia,51005.0,882,26.0
+915852,2021-01-10,Alleghany,North Carolina,37005.0,736,3.0
+916873,2021-01-10,Alleghany,Virginia,51005.0,897,26.0
+919097,2021-01-11,Alleghany,North Carolina,37005.0,737,3.0
+920118,2021-01-11,Alleghany,Virginia,51005.0,909,26.0
+922342,2021-01-12,Alleghany,North Carolina,37005.0,739,3.0
+923363,2021-01-12,Alleghany,Virginia,51005.0,932,26.0
+925588,2021-01-13,Alleghany,North Carolina,37005.0,744,3.0
+926609,2021-01-13,Alleghany,Virginia,51005.0,919,26.0
+928833,2021-01-14,Alleghany,North Carolina,37005.0,752,3.0
+929854,2021-01-14,Alleghany,Virginia,51005.0,926,27.0
+932078,2021-01-15,Alleghany,North Carolina,37005.0,757,3.0
+933099,2021-01-15,Alleghany,Virginia,51005.0,947,27.0
+935323,2021-01-16,Alleghany,North Carolina,37005.0,761,3.0
+936344,2021-01-16,Alleghany,Virginia,51005.0,983,27.0
+938568,2021-01-17,Alleghany,North Carolina,37005.0,768,3.0
+939589,2021-01-17,Alleghany,Virginia,51005.0,1000,27.0
+941813,2021-01-18,Alleghany,North Carolina,37005.0,768,3.0
+942834,2021-01-18,Alleghany,Virginia,51005.0,1009,28.0
+945059,2021-01-19,Alleghany,North Carolina,37005.0,771,3.0
+946081,2021-01-19,Alleghany,Virginia,51005.0,1014,28.0
+948306,2021-01-20,Alleghany,North Carolina,37005.0,783,3.0
+949327,2021-01-20,Alleghany,Virginia,51005.0,1028,28.0
+951551,2021-01-21,Alleghany,North Carolina,37005.0,793,3.0
+952572,2021-01-21,Alleghany,Virginia,51005.0,1035,29.0
+954796,2021-01-22,Alleghany,North Carolina,37005.0,798,3.0
+955817,2021-01-22,Alleghany,Virginia,51005.0,1047,29.0
+958042,2021-01-23,Alleghany,North Carolina,37005.0,800,3.0
+959063,2021-01-23,Alleghany,Virginia,51005.0,1058,30.0
+961287,2021-01-24,Alleghany,North Carolina,37005.0,808,3.0
+962308,2021-01-24,Alleghany,Virginia,51005.0,1069,30.0
+964532,2021-01-25,Alleghany,North Carolina,37005.0,809,3.0
+965553,2021-01-25,Alleghany,Virginia,51005.0,1081,30.0
+967776,2021-01-26,Alleghany,North Carolina,37005.0,810,3.0
+968797,2021-01-26,Alleghany,Virginia,51005.0,1091,31.0
+971021,2021-01-27,Alleghany,North Carolina,37005.0,814,3.0
+972042,2021-01-27,Alleghany,Virginia,51005.0,1096,31.0
+974266,2021-01-28,Alleghany,North Carolina,37005.0,819,3.0
+975287,2021-01-28,Alleghany,Virginia,51005.0,1101,31.0
+977511,2021-01-29,Alleghany,North Carolina,37005.0,821,3.0
+978532,2021-01-29,Alleghany,Virginia,51005.0,1113,31.0
+980757,2021-01-30,Alleghany,North Carolina,37005.0,821,3.0
+981778,2021-01-30,Alleghany,Virginia,51005.0,1116,31.0
+984004,2021-01-31,Alleghany,North Carolina,37005.0,827,4.0
+985025,2021-01-31,Alleghany,Virginia,51005.0,1122,31.0
+987251,2021-02-01,Alleghany,North Carolina,37005.0,830,4.0
+988272,2021-02-01,Alleghany,Virginia,51005.0,1123,31.0
+990497,2021-02-02,Alleghany,North Carolina,37005.0,834,4.0
+991518,2021-02-02,Alleghany,Virginia,51005.0,1136,31.0
+993743,2021-02-03,Alleghany,North Carolina,37005.0,844,4.0
+994764,2021-02-03,Alleghany,Virginia,51005.0,1142,31.0
+996989,2021-02-04,Alleghany,North Carolina,37005.0,846,4.0
+998010,2021-02-04,Alleghany,Virginia,51005.0,1148,31.0
+1000235,2021-02-05,Alleghany,North Carolina,37005.0,849,4.0
+1001256,2021-02-05,Alleghany,Virginia,51005.0,1155,31.0
+1003481,2021-02-06,Alleghany,North Carolina,37005.0,849,4.0
+1004502,2021-02-06,Alleghany,Virginia,51005.0,1162,31.0
+1006727,2021-02-07,Alleghany,North Carolina,37005.0,861,4.0
+1007748,2021-02-07,Alleghany,Virginia,51005.0,1162,31.0
+1009973,2021-02-08,Alleghany,North Carolina,37005.0,866,4.0
+1010994,2021-02-08,Alleghany,Virginia,51005.0,1163,31.0
+1013218,2021-02-09,Alleghany,North Carolina,37005.0,869,4.0
+1014239,2021-02-09,Alleghany,Virginia,51005.0,1149,32.0
+1016463,2021-02-10,Alleghany,North Carolina,37005.0,872,4.0
+1017484,2021-02-10,Alleghany,Virginia,51005.0,1146,32.0
+1019708,2021-02-11,Alleghany,North Carolina,37005.0,874,4.0
+1020729,2021-02-11,Alleghany,Virginia,51005.0,1149,32.0
+1022953,2021-02-12,Alleghany,North Carolina,37005.0,877,4.0
+1023974,2021-02-12,Alleghany,Virginia,51005.0,1154,32.0
+1026198,2021-02-13,Alleghany,North Carolina,37005.0,879,4.0
+1027219,2021-02-13,Alleghany,Virginia,51005.0,1156,39.0
+1029445,2021-02-14,Alleghany,North Carolina,37005.0,885,4.0
+1030466,2021-02-14,Alleghany,Virginia,51005.0,1156,39.0
+1032691,2021-02-15,Alleghany,North Carolina,37005.0,888,4.0
+1033712,2021-02-15,Alleghany,Virginia,51005.0,1156,39.0
+1035936,2021-02-16,Alleghany,North Carolina,37005.0,889,4.0
+1036957,2021-02-16,Alleghany,Virginia,51005.0,1150,39.0
+1039181,2021-02-17,Alleghany,North Carolina,37005.0,895,4.0
+1040202,2021-02-17,Alleghany,Virginia,51005.0,1152,39.0
+1042426,2021-02-18,Alleghany,North Carolina,37005.0,896,4.0
+1043447,2021-02-18,Alleghany,Virginia,51005.0,1151,39.0
+1045671,2021-02-19,Alleghany,North Carolina,37005.0,898,4.0
+1046692,2021-02-19,Alleghany,Virginia,51005.0,1154,39.0
+1048918,2021-02-20,Alleghany,North Carolina,37005.0,901,4.0
+1049939,2021-02-20,Alleghany,Virginia,51005.0,1141,39.0
+1052165,2021-02-21,Alleghany,North Carolina,37005.0,902,4.0
+1053186,2021-02-21,Alleghany,Virginia,51005.0,1143,39.0
+1055411,2021-02-22,Alleghany,North Carolina,37005.0,905,4.0
+1056432,2021-02-22,Alleghany,Virginia,51005.0,1145,39.0
+1058657,2021-02-23,Alleghany,North Carolina,37005.0,906,4.0
+1059678,2021-02-23,Alleghany,Virginia,51005.0,1163,38.0
+1061903,2021-02-24,Alleghany,North Carolina,37005.0,906,4.0
+1062923,2021-02-24,Alleghany,Virginia,51005.0,1224,41.0
+1065147,2021-02-25,Alleghany,North Carolina,37005.0,909,4.0
+1066168,2021-02-25,Alleghany,Virginia,51005.0,1234,42.0
+1068392,2021-02-26,Alleghany,North Carolina,37005.0,909,4.0
+1069413,2021-02-26,Alleghany,Virginia,51005.0,1230,43.0
+1071638,2021-02-27,Alleghany,North Carolina,37005.0,909,4.0
+1072659,2021-02-27,Alleghany,Virginia,51005.0,1249,44.0
+1074884,2021-02-28,Alleghany,North Carolina,37005.0,909,4.0
+1075905,2021-02-28,Alleghany,Virginia,51005.0,1250,44.0
+1078129,2021-03-01,Alleghany,North Carolina,37005.0,911,4.0
+1079150,2021-03-01,Alleghany,Virginia,51005.0,1251,45.0
+1081375,2021-03-02,Alleghany,North Carolina,37005.0,913,4.0
+1082396,2021-03-02,Alleghany,Virginia,51005.0,1255,45.0
+1084621,2021-03-03,Alleghany,North Carolina,37005.0,913,4.0
+1085642,2021-03-03,Alleghany,Virginia,51005.0,1248,47.0
+1087866,2021-03-04,Alleghany,North Carolina,37005.0,917,5.0
+1088887,2021-03-04,Alleghany,Virginia,51005.0,1252,47.0
+1091111,2021-03-05,Alleghany,North Carolina,37005.0,920,5.0
+1092133,2021-03-05,Alleghany,Virginia,51005.0,1251,47.0
+1094357,2021-03-06,Alleghany,North Carolina,37005.0,928,5.0
+1095379,2021-03-06,Alleghany,Virginia,51005.0,1252,47.0
+1097605,2021-03-07,Alleghany,North Carolina,37005.0,928,5.0
+1098627,2021-03-07,Alleghany,Virginia,51005.0,1252,47.0
+1100851,2021-03-08,Alleghany,North Carolina,37005.0,930,5.0
+1101873,2021-03-08,Alleghany,Virginia,51005.0,1252,47.0
+1104097,2021-03-09,Alleghany,North Carolina,37005.0,931,5.0
+1105119,2021-03-09,Alleghany,Virginia,51005.0,1255,48.0
+1107343,2021-03-10,Alleghany,North Carolina,37005.0,932,5.0
+1108365,2021-03-10,Alleghany,Virginia,51005.0,1260,48.0
+1110589,2021-03-11,Alleghany,North Carolina,37005.0,933,5.0
+1111611,2021-03-11,Alleghany,Virginia,51005.0,1252,48.0
+1113835,2021-03-12,Alleghany,North Carolina,37005.0,933,5.0
+1114857,2021-03-12,Alleghany,Virginia,51005.0,1257,48.0
+1117082,2021-03-13,Alleghany,North Carolina,37005.0,934,5.0
+1118104,2021-03-13,Alleghany,Virginia,51005.0,1254,48.0
+1120329,2021-03-14,Alleghany,North Carolina,37005.0,934,5.0
+1121351,2021-03-14,Alleghany,Virginia,51005.0,1256,48.0
+1123575,2021-03-15,Alleghany,North Carolina,37005.0,934,5.0
+1124597,2021-03-15,Alleghany,Virginia,51005.0,1256,48.0
+1126821,2021-03-16,Alleghany,North Carolina,37005.0,934,5.0
+1127843,2021-03-16,Alleghany,Virginia,51005.0,1256,48.0
+1130068,2021-03-17,Alleghany,North Carolina,37005.0,934,5.0
+1131090,2021-03-17,Alleghany,Virginia,51005.0,1256,48.0
+1133316,2021-03-18,Alleghany,North Carolina,37005.0,936,5.0
+1134338,2021-03-18,Alleghany,Virginia,51005.0,1264,48.0
+1136562,2021-03-19,Alleghany,North Carolina,37005.0,936,5.0
+1137584,2021-03-19,Alleghany,Virginia,51005.0,1261,48.0
+1139808,2021-03-20,Alleghany,North Carolina,37005.0,936,5.0
+1140830,2021-03-20,Alleghany,Virginia,51005.0,1263,48.0
+1143055,2021-03-21,Alleghany,North Carolina,37005.0,936,5.0
+1144077,2021-03-21,Alleghany,Virginia,51005.0,1263,48.0
+1146302,2021-03-22,Alleghany,North Carolina,37005.0,937,5.0
+1147324,2021-03-22,Alleghany,Virginia,51005.0,1263,48.0
+1149549,2021-03-23,Alleghany,North Carolina,37005.0,937,5.0
+1150571,2021-03-23,Alleghany,Virginia,51005.0,1263,49.0
+1152796,2021-03-24,Alleghany,North Carolina,37005.0,937,5.0
+1153818,2021-03-24,Alleghany,Virginia,51005.0,1264,49.0
+1156043,2021-03-25,Alleghany,North Carolina,37005.0,938,5.0
+1157065,2021-03-25,Alleghany,Virginia,51005.0,1267,49.0
+1159290,2021-03-26,Alleghany,North Carolina,37005.0,939,5.0
+1160313,2021-03-26,Alleghany,Virginia,51005.0,1268,49.0
+1162539,2021-03-27,Alleghany,North Carolina,37005.0,939,5.0
+1163561,2021-03-27,Alleghany,Virginia,51005.0,1271,49.0
+1165787,2021-03-28,Alleghany,North Carolina,37005.0,939,5.0
+1166809,2021-03-28,Alleghany,Virginia,51005.0,1272,49.0
+1169035,2021-03-29,Alleghany,North Carolina,37005.0,940,5.0
+1170057,2021-03-29,Alleghany,Virginia,51005.0,1272,49.0
+1172282,2021-03-30,Alleghany,North Carolina,37005.0,942,5.0
+1173304,2021-03-30,Alleghany,Virginia,51005.0,1271,48.0
+1175529,2021-03-31,Alleghany,North Carolina,37005.0,944,5.0
+1176551,2021-03-31,Alleghany,Virginia,51005.0,1267,48.0
+1178776,2021-04-01,Alleghany,North Carolina,37005.0,945,5.0
+1179798,2021-04-01,Alleghany,Virginia,51005.0,1270,48.0
+1182023,2021-04-02,Alleghany,North Carolina,37005.0,945,5.0
+1183045,2021-04-02,Alleghany,Virginia,51005.0,1273,48.0
+1185270,2021-04-03,Alleghany,North Carolina,37005.0,945,5.0
+1186292,2021-04-03,Alleghany,Virginia,51005.0,1273,48.0
+1188517,2021-04-04,Alleghany,North Carolina,37005.0,945,5.0
+1189539,2021-04-04,Alleghany,Virginia,51005.0,1274,48.0
+1191766,2021-04-05,Alleghany,North Carolina,37005.0,949,5.0
+1192789,2021-04-05,Alleghany,Virginia,51005.0,1276,48.0
+1195014,2021-04-06,Alleghany,North Carolina,37005.0,950,5.0
+1196037,2021-04-06,Alleghany,Virginia,51005.0,1277,48.0
+1198263,2021-04-07,Alleghany,North Carolina,37005.0,957,5.0
+1199286,2021-04-07,Alleghany,Virginia,51005.0,1277,48.0
+1201512,2021-04-08,Alleghany,North Carolina,37005.0,959,5.0
+1202534,2021-04-08,Alleghany,Virginia,51005.0,1283,48.0
+1204760,2021-04-09,Alleghany,North Carolina,37005.0,962,5.0
+1205782,2021-04-09,Alleghany,Virginia,51005.0,1287,48.0
+1208008,2021-04-10,Alleghany,North Carolina,37005.0,962,5.0
+1209030,2021-04-10,Alleghany,Virginia,51005.0,1288,48.0
+1211257,2021-04-11,Alleghany,North Carolina,37005.0,962,5.0
+1212279,2021-04-11,Alleghany,Virginia,51005.0,1293,48.0
+1214504,2021-04-12,Alleghany,North Carolina,37005.0,968,5.0
+1215526,2021-04-12,Alleghany,Virginia,51005.0,1294,48.0
+1217752,2021-04-13,Alleghany,North Carolina,37005.0,969,5.0
+1218774,2021-04-13,Alleghany,Virginia,51005.0,1296,48.0
+1221000,2021-04-14,Alleghany,North Carolina,37005.0,971,5.0
+1222022,2021-04-14,Alleghany,Virginia,51005.0,1299,48.0
+1224247,2021-04-15,Alleghany,North Carolina,37005.0,972,5.0
+1225269,2021-04-15,Alleghany,Virginia,51005.0,1298,48.0
+1227495,2021-04-16,Alleghany,North Carolina,37005.0,975,5.0
+1228517,2021-04-16,Alleghany,Virginia,51005.0,1298,48.0
+1230743,2021-04-17,Alleghany,North Carolina,37005.0,975,5.0
+1231765,2021-04-17,Alleghany,Virginia,51005.0,1299,48.0
+1233991,2021-04-18,Alleghany,North Carolina,37005.0,975,5.0
+1235013,2021-04-18,Alleghany,Virginia,51005.0,1299,48.0
+1237238,2021-04-19,Alleghany,North Carolina,37005.0,987,5.0
+1238260,2021-04-19,Alleghany,Virginia,51005.0,1299,48.0
+1240485,2021-04-20,Alleghany,North Carolina,37005.0,987,5.0
+1241507,2021-04-20,Alleghany,Virginia,51005.0,1302,48.0
+1243732,2021-04-21,Alleghany,North Carolina,37005.0,990,5.0
+1244754,2021-04-21,Alleghany,Virginia,51005.0,1299,48.0
+1246979,2021-04-22,Alleghany,North Carolina,37005.0,993,5.0
+1248001,2021-04-22,Alleghany,Virginia,51005.0,1302,48.0
+1250226,2021-04-23,Alleghany,North Carolina,37005.0,995,5.0
+1251248,2021-04-23,Alleghany,Virginia,51005.0,1303,48.0
+1253473,2021-04-24,Alleghany,North Carolina,37005.0,995,5.0
+1254495,2021-04-24,Alleghany,Virginia,51005.0,1307,48.0
+1256720,2021-04-25,Alleghany,North Carolina,37005.0,995,5.0
+1257742,2021-04-25,Alleghany,Virginia,51005.0,1311,48.0
+1259967,2021-04-26,Alleghany,North Carolina,37005.0,999,5.0
+1260989,2021-04-26,Alleghany,Virginia,51005.0,1312,48.0
+1263214,2021-04-27,Alleghany,North Carolina,37005.0,1001,5.0
+1264236,2021-04-27,Alleghany,Virginia,51005.0,1321,48.0
+1266461,2021-04-28,Alleghany,North Carolina,37005.0,1005,5.0
+1267483,2021-04-28,Alleghany,Virginia,51005.0,1325,48.0
+1269708,2021-04-29,Alleghany,North Carolina,37005.0,1008,5.0
+1270730,2021-04-29,Alleghany,Virginia,51005.0,1331,48.0
+1272955,2021-04-30,Alleghany,North Carolina,37005.0,1011,5.0
+1273977,2021-04-30,Alleghany,Virginia,51005.0,1336,48.0
+1276202,2021-05-01,Alleghany,North Carolina,37005.0,1011,5.0
+1277224,2021-05-01,Alleghany,Virginia,51005.0,1326,48.0
+1279449,2021-05-02,Alleghany,North Carolina,37005.0,1011,5.0
+1280471,2021-05-02,Alleghany,Virginia,51005.0,1326,48.0
+1282696,2021-05-03,Alleghany,North Carolina,37005.0,1021,5.0
+1283718,2021-05-03,Alleghany,Virginia,51005.0,1327,48.0
+1285942,2021-05-04,Alleghany,North Carolina,37005.0,1024,5.0
+1286964,2021-05-04,Alleghany,Virginia,51005.0,1318,49.0
+1289188,2021-05-05,Alleghany,North Carolina,37005.0,1026,5.0
+1290210,2021-05-05,Alleghany,Virginia,51005.0,1323,49.0
+1292434,2021-05-06,Alleghany,North Carolina,37005.0,1031,5.0
+1293456,2021-05-06,Alleghany,Virginia,51005.0,1325,49.0
+1295680,2021-05-07,Alleghany,North Carolina,37005.0,1036,5.0
+1296702,2021-05-07,Alleghany,Virginia,51005.0,1334,49.0
+1298926,2021-05-08,Alleghany,North Carolina,37005.0,1036,5.0
+1299949,2021-05-08,Alleghany,Virginia,51005.0,1331,48.0
+1302174,2021-05-09,Alleghany,North Carolina,37005.0,1036,5.0
+1303196,2021-05-09,Alleghany,Virginia,51005.0,1331,48.0
+1305420,2021-05-10,Alleghany,North Carolina,37005.0,1047,5.0
+1306442,2021-05-10,Alleghany,Virginia,51005.0,1332,48.0
+1308666,2021-05-11,Alleghany,North Carolina,37005.0,1047,5.0
+1309688,2021-05-11,Alleghany,Virginia,51005.0,1338,48.0
+1311913,2021-05-12,Alleghany,North Carolina,37005.0,1049,5.0
+1312935,2021-05-12,Alleghany,Virginia,51005.0,1338,48.0
+1315159,2021-05-13,Alleghany,North Carolina,37005.0,1051,5.0
+1316181,2021-05-13,Alleghany,Virginia,51005.0,1342,48.0
+1318407,2021-05-14,Alleghany,North Carolina,37005.0,1052,5.0
+1319429,2021-05-14,Alleghany,Virginia,51005.0,1349,48.0
+1321653,2021-05-15,Alleghany,North Carolina,37005.0,1052,5.0
+1322675,2021-05-15,Alleghany,Virginia,51005.0,1351,48.0
+1324899,2021-05-16,Alleghany,North Carolina,37005.0,1052,5.0
+1325921,2021-05-16,Alleghany,Virginia,51005.0,1352,48.0
+1328145,2021-05-17,Alleghany,North Carolina,37005.0,1056,5.0
+1329167,2021-05-17,Alleghany,Virginia,51005.0,1353,48.0
+1331392,2021-05-18,Alleghany,North Carolina,37005.0,1056,5.0
+1332414,2021-05-18,Alleghany,Virginia,51005.0,1351,48.0
+1334639,2021-05-19,Alleghany,North Carolina,37005.0,1060,5.0
+1335661,2021-05-19,Alleghany,Virginia,51005.0,1358,48.0
+1337886,2021-05-20,Alleghany,North Carolina,37005.0,1062,5.0
+1338908,2021-05-20,Alleghany,Virginia,51005.0,1366,48.0
+1341134,2021-05-21,Alleghany,North Carolina,37005.0,1064,5.0
+1342156,2021-05-21,Alleghany,Virginia,51005.0,1364,48.0
+1344382,2021-05-22,Alleghany,North Carolina,37005.0,1064,5.0
+1345404,2021-05-22,Alleghany,Virginia,51005.0,1361,48.0
+1347630,2021-05-23,Alleghany,North Carolina,37005.0,1064,5.0
+1348652,2021-05-23,Alleghany,Virginia,51005.0,1364,48.0
+1350876,2021-05-24,Alleghany,North Carolina,37005.0,1067,5.0
+1351898,2021-05-24,Alleghany,Virginia,51005.0,1363,49.0
+1354122,2021-05-25,Alleghany,North Carolina,37005.0,1069,5.0
+1355144,2021-05-25,Alleghany,Virginia,51005.0,1356,49.0
+1357368,2021-05-26,Alleghany,North Carolina,37005.0,1070,5.0
+1358390,2021-05-26,Alleghany,Virginia,51005.0,1359,49.0
+1360614,2021-05-27,Alleghany,North Carolina,37005.0,1071,5.0
+1361636,2021-05-27,Alleghany,Virginia,51005.0,1360,49.0
+1363860,2021-05-28,Alleghany,North Carolina,37005.0,1072,5.0
+1364882,2021-05-28,Alleghany,Virginia,51005.0,1363,49.0
+1367106,2021-05-29,Alleghany,North Carolina,37005.0,1072,5.0
+1368128,2021-05-29,Alleghany,Virginia,51005.0,1363,49.0
+1370352,2021-05-30,Alleghany,North Carolina,37005.0,1072,5.0
+1371374,2021-05-30,Alleghany,Virginia,51005.0,1363,49.0
+1373597,2021-05-31,Alleghany,North Carolina,37005.0,1072,5.0
+1374619,2021-05-31,Alleghany,Virginia,51005.0,1364,49.0
+1376843,2021-06-01,Alleghany,North Carolina,37005.0,1073,5.0
+1377865,2021-06-01,Alleghany,Virginia,51005.0,1364,49.0
+1380088,2021-06-02,Alleghany,North Carolina,37005.0,1074,5.0
+1381110,2021-06-02,Alleghany,Virginia,51005.0,1364,49.0
+1383334,2021-06-03,Alleghany,North Carolina,37005.0,1078,5.0
+1384356,2021-06-03,Alleghany,Virginia,51005.0,1362,49.0
+1386579,2021-06-04,Alleghany,North Carolina,37005.0,1080,5.0
+1387601,2021-06-04,Alleghany,Virginia,51005.0,1362,49.0
+1389824,2021-06-05,Alleghany,North Carolina,37005.0,1080,5.0
+1390846,2021-06-05,Alleghany,Virginia,51005.0,1364,49.0
+1393069,2021-06-06,Alleghany,North Carolina,37005.0,1080,5.0
+1394091,2021-06-06,Alleghany,Virginia,51005.0,1366,49.0
+1396316,2021-06-07,Alleghany,North Carolina,37005.0,1082,5.0
+1397338,2021-06-07,Alleghany,Virginia,51005.0,1367,49.0
+1399561,2021-06-08,Alleghany,North Carolina,37005.0,1083,5.0
+1400583,2021-06-08,Alleghany,Virginia,51005.0,1369,49.0
+1402806,2021-06-09,Alleghany,North Carolina,37005.0,1084,5.0
+1403828,2021-06-09,Alleghany,Virginia,51005.0,1371,49.0
+1406052,2021-06-10,Alleghany,North Carolina,37005.0,1084,5.0
+1407074,2021-06-10,Alleghany,Virginia,51005.0,1372,49.0
+1409297,2021-06-11,Alleghany,North Carolina,37005.0,1085,5.0
+1410319,2021-06-11,Alleghany,Virginia,51005.0,1369,49.0
+1412542,2021-06-12,Alleghany,North Carolina,37005.0,1085,5.0
+1413564,2021-06-12,Alleghany,Virginia,51005.0,1368,49.0
+1415788,2021-06-13,Alleghany,North Carolina,37005.0,1085,5.0
+1416810,2021-06-13,Alleghany,Virginia,51005.0,1368,49.0
+1419033,2021-06-14,Alleghany,North Carolina,37005.0,1086,5.0
+1420055,2021-06-14,Alleghany,Virginia,51005.0,1367,49.0
+1422279,2021-06-15,Alleghany,North Carolina,37005.0,1088,5.0
+1423302,2021-06-15,Alleghany,Virginia,51005.0,1369,49.0
+1425526,2021-06-16,Alleghany,North Carolina,37005.0,1088,5.0
+1426548,2021-06-16,Alleghany,Virginia,51005.0,1370,49.0
+1428771,2021-06-17,Alleghany,North Carolina,37005.0,1088,5.0
+1429793,2021-06-17,Alleghany,Virginia,51005.0,1372,49.0
+1432017,2021-06-18,Alleghany,North Carolina,37005.0,1089,5.0
+1433039,2021-06-18,Alleghany,Virginia,51005.0,1372,49.0
+1435264,2021-06-19,Alleghany,North Carolina,37005.0,1089,5.0
+1436286,2021-06-19,Alleghany,Virginia,51005.0,1371,49.0
+1438511,2021-06-20,Alleghany,North Carolina,37005.0,1089,5.0
+1439533,2021-06-20,Alleghany,Virginia,51005.0,1371,49.0
+1441756,2021-06-21,Alleghany,North Carolina,37005.0,1089,5.0
+1442778,2021-06-21,Alleghany,Virginia,51005.0,1371,50.0
+1445001,2021-06-22,Alleghany,North Carolina,37005.0,1089,5.0
+1446023,2021-06-22,Alleghany,Virginia,51005.0,1371,50.0
+1448246,2021-06-23,Alleghany,North Carolina,37005.0,1091,5.0
+1449268,2021-06-23,Alleghany,Virginia,51005.0,1370,50.0
+1451492,2021-06-24,Alleghany,North Carolina,37005.0,1094,5.0
+1452514,2021-06-24,Alleghany,Virginia,51005.0,1371,50.0
+1454737,2021-06-25,Alleghany,North Carolina,37005.0,1095,5.0
+1455759,2021-06-25,Alleghany,Virginia,51005.0,1373,50.0
+1457982,2021-06-26,Alleghany,North Carolina,37005.0,1095,5.0
+1459004,2021-06-26,Alleghany,Virginia,51005.0,1374,50.0
+1461227,2021-06-27,Alleghany,North Carolina,37005.0,1095,5.0
+1462249,2021-06-27,Alleghany,Virginia,51005.0,1375,50.0
+1464472,2021-06-28,Alleghany,North Carolina,37005.0,1096,5.0
+1465494,2021-06-28,Alleghany,Virginia,51005.0,1376,50.0
+1467717,2021-06-29,Alleghany,North Carolina,37005.0,1096,5.0
+1468739,2021-06-29,Alleghany,Virginia,51005.0,1379,50.0
+1470962,2021-06-30,Alleghany,North Carolina,37005.0,1096,5.0
+1471984,2021-06-30,Alleghany,Virginia,51005.0,1380,50.0
+1474208,2021-07-01,Alleghany,North Carolina,37005.0,1095,5.0
+1475230,2021-07-01,Alleghany,Virginia,51005.0,1381,50.0
+1477454,2021-07-02,Alleghany,North Carolina,37005.0,1095,5.0
+1478476,2021-07-02,Alleghany,Virginia,51005.0,1383,50.0
+1480701,2021-07-03,Alleghany,North Carolina,37005.0,1095,5.0
+1481723,2021-07-03,Alleghany,Virginia,51005.0,1385,50.0
+1483947,2021-07-04,Alleghany,North Carolina,37005.0,1095,5.0
+1484969,2021-07-04,Alleghany,Virginia,51005.0,1386,50.0
+1487193,2021-07-05,Alleghany,North Carolina,37005.0,1095,5.0
+1488216,2021-07-05,Alleghany,Virginia,51005.0,1387,50.0
+1490440,2021-07-06,Alleghany,North Carolina,37005.0,1098,5.0
+1491463,2021-07-06,Alleghany,Virginia,51005.0,1387,50.0
+1493687,2021-07-07,Alleghany,North Carolina,37005.0,1098,5.0
+1494710,2021-07-07,Alleghany,Virginia,51005.0,1387,50.0
+1496934,2021-07-08,Alleghany,North Carolina,37005.0,1098,5.0
+1497957,2021-07-08,Alleghany,Virginia,51005.0,1388,50.0
+1500180,2021-07-09,Alleghany,North Carolina,37005.0,1099,5.0
+1501203,2021-07-09,Alleghany,Virginia,51005.0,1387,50.0
+1503426,2021-07-10,Alleghany,North Carolina,37005.0,1099,5.0
+1504449,2021-07-10,Alleghany,Virginia,51005.0,1387,50.0
+1506672,2021-07-11,Alleghany,North Carolina,37005.0,1099,5.0
+1507695,2021-07-11,Alleghany,Virginia,51005.0,1389,50.0
+1509919,2021-07-12,Alleghany,North Carolina,37005.0,1099,5.0
+1510942,2021-07-12,Alleghany,Virginia,51005.0,1390,50.0
+1513165,2021-07-13,Alleghany,North Carolina,37005.0,1103,5.0
+1514188,2021-07-13,Alleghany,Virginia,51005.0,1391,50.0
+1516412,2021-07-14,Alleghany,North Carolina,37005.0,1103,5.0
+1517435,2021-07-14,Alleghany,Virginia,51005.0,1392,50.0
+1519660,2021-07-15,Alleghany,North Carolina,37005.0,1103,5.0
+1520683,2021-07-15,Alleghany,Virginia,51005.0,1393,50.0
+1522908,2021-07-16,Alleghany,North Carolina,37005.0,1103,5.0
+1523931,2021-07-16,Alleghany,Virginia,51005.0,1393,50.0
+1526155,2021-07-17,Alleghany,North Carolina,37005.0,1103,5.0
+1527178,2021-07-17,Alleghany,Virginia,51005.0,1393,50.0
+1529402,2021-07-18,Alleghany,North Carolina,37005.0,1103,5.0
+1530425,2021-07-18,Alleghany,Virginia,51005.0,1393,50.0
+1532649,2021-07-19,Alleghany,North Carolina,37005.0,1104,5.0
+1533672,2021-07-19,Alleghany,Virginia,51005.0,1396,50.0
+1535897,2021-07-20,Alleghany,North Carolina,37005.0,1104,5.0
+1536920,2021-07-20,Alleghany,Virginia,51005.0,1399,50.0
+1539144,2021-07-21,Alleghany,North Carolina,37005.0,1104,5.0
+1540167,2021-07-21,Alleghany,Virginia,51005.0,1400,50.0
+1542392,2021-07-22,Alleghany,North Carolina,37005.0,1103,5.0
+1543415,2021-07-22,Alleghany,Virginia,51005.0,1402,50.0
+1545639,2021-07-23,Alleghany,North Carolina,37005.0,1103,5.0
+1546662,2021-07-23,Alleghany,Virginia,51005.0,1402,50.0
+1548886,2021-07-24,Alleghany,North Carolina,37005.0,1103,5.0
+1549909,2021-07-24,Alleghany,Virginia,51005.0,1402,50.0
+1552133,2021-07-25,Alleghany,North Carolina,37005.0,1103,5.0
+1553156,2021-07-25,Alleghany,Virginia,51005.0,1402,50.0
+1555380,2021-07-26,Alleghany,North Carolina,37005.0,1105,5.0
+1556403,2021-07-26,Alleghany,Virginia,51005.0,1404,50.0
+1558627,2021-07-27,Alleghany,North Carolina,37005.0,1105,5.0
+1559650,2021-07-27,Alleghany,Virginia,51005.0,1404,50.0
+1561875,2021-07-28,Alleghany,North Carolina,37005.0,1105,5.0
+1562898,2021-07-28,Alleghany,Virginia,51005.0,1405,50.0
+1565123,2021-07-29,Alleghany,North Carolina,37005.0,1106,5.0
+1566146,2021-07-29,Alleghany,Virginia,51005.0,1405,50.0
+1568371,2021-07-30,Alleghany,North Carolina,37005.0,1107,5.0
+1569394,2021-07-30,Alleghany,Virginia,51005.0,1405,50.0
+1571619,2021-07-31,Alleghany,North Carolina,37005.0,1107,5.0
+1572642,2021-07-31,Alleghany,Virginia,51005.0,1405,50.0
+1574867,2021-08-01,Alleghany,North Carolina,37005.0,1107,5.0
+1575890,2021-08-01,Alleghany,Virginia,51005.0,1405,50.0
+1578115,2021-08-02,Alleghany,North Carolina,37005.0,1111,5.0
+1579138,2021-08-02,Alleghany,Virginia,51005.0,1412,50.0
+1581364,2021-08-03,Alleghany,North Carolina,37005.0,1111,5.0
+1582388,2021-08-03,Alleghany,Virginia,51005.0,1417,50.0
+1584614,2021-08-04,Alleghany,North Carolina,37005.0,1112,5.0
+1585638,2021-08-04,Alleghany,Virginia,51005.0,1416,50.0
+1587864,2021-08-05,Alleghany,North Carolina,37005.0,1113,5.0
+1588887,2021-08-05,Alleghany,Virginia,51005.0,1417,50.0
+1591113,2021-08-06,Alleghany,North Carolina,37005.0,1117,5.0
+1592136,2021-08-06,Alleghany,Virginia,51005.0,1417,50.0
+1594362,2021-08-07,Alleghany,North Carolina,37005.0,1117,5.0
+1595385,2021-08-07,Alleghany,Virginia,51005.0,1417,50.0
+1597611,2021-08-08,Alleghany,North Carolina,37005.0,1117,5.0
+1598634,2021-08-08,Alleghany,Virginia,51005.0,1417,50.0
+1600859,2021-08-09,Alleghany,North Carolina,37005.0,1127,5.0
+1601882,2021-08-09,Alleghany,Virginia,51005.0,1420,50.0
+1604108,2021-08-10,Alleghany,North Carolina,37005.0,1132,5.0
+1605132,2021-08-10,Alleghany,Virginia,51005.0,1422,50.0
+1607357,2021-08-11,Alleghany,North Carolina,37005.0,1132,5.0
+1608381,2021-08-11,Alleghany,Virginia,51005.0,1423,50.0
+1610605,2021-08-12,Alleghany,North Carolina,37005.0,1134,5.0
+1611628,2021-08-12,Alleghany,Virginia,51005.0,1427,50.0
+1613854,2021-08-13,Alleghany,North Carolina,37005.0,1138,5.0
+1614877,2021-08-13,Alleghany,Virginia,51005.0,1427,50.0
+1617102,2021-08-14,Alleghany,North Carolina,37005.0,1138,5.0
+1618125,2021-08-14,Alleghany,Virginia,51005.0,1427,50.0
+1620350,2021-08-15,Alleghany,North Carolina,37005.0,1138,5.0
+1621373,2021-08-15,Alleghany,Virginia,51005.0,1427,50.0
+1623597,2021-08-16,Alleghany,North Carolina,37005.0,1143,5.0
+1624620,2021-08-16,Alleghany,Virginia,51005.0,1434,50.0
+1626844,2021-08-17,Alleghany,North Carolina,37005.0,1145,5.0
+1627867,2021-08-17,Alleghany,Virginia,51005.0,1436,50.0
+1630091,2021-08-18,Alleghany,North Carolina,37005.0,1150,5.0
+1631114,2021-08-18,Alleghany,Virginia,51005.0,1448,50.0
+1633338,2021-08-19,Alleghany,North Carolina,37005.0,1154,5.0
+1634362,2021-08-19,Alleghany,Virginia,51005.0,1451,50.0
+1636588,2021-08-20,Alleghany,North Carolina,37005.0,1156,5.0
+1637612,2021-08-20,Alleghany,Virginia,51005.0,1455,50.0
+1639838,2021-08-21,Alleghany,North Carolina,37005.0,1156,5.0
+1640862,2021-08-21,Alleghany,Virginia,51005.0,1455,50.0
+1643088,2021-08-22,Alleghany,North Carolina,37005.0,1156,5.0
+1644112,2021-08-22,Alleghany,Virginia,51005.0,1455,50.0
+1646337,2021-08-23,Alleghany,North Carolina,37005.0,1159,5.0
+1647361,2021-08-23,Alleghany,Virginia,51005.0,1465,50.0
+1649586,2021-08-24,Alleghany,North Carolina,37005.0,1162,5.0
+1650610,2021-08-24,Alleghany,Virginia,51005.0,1467,50.0
+1652834,2021-08-25,Alleghany,North Carolina,37005.0,1167,5.0
+1653856,2021-08-25,Alleghany,Virginia,51005.0,1490,51.0
+1656081,2021-08-26,Alleghany,North Carolina,37005.0,1174,5.0
+1657103,2021-08-26,Alleghany,Virginia,51005.0,1498,51.0
+1659330,2021-08-27,Alleghany,North Carolina,37005.0,1177,5.0
+1660352,2021-08-27,Alleghany,Virginia,51005.0,1506,51.0
+1662578,2021-08-28,Alleghany,North Carolina,37005.0,1177,5.0
+1663600,2021-08-28,Alleghany,Virginia,51005.0,1506,51.0
+1665826,2021-08-29,Alleghany,North Carolina,37005.0,1177,5.0
+1666848,2021-08-29,Alleghany,Virginia,51005.0,1506,51.0
+1669073,2021-08-30,Alleghany,North Carolina,37005.0,1198,5.0
+1670095,2021-08-30,Alleghany,Virginia,51005.0,1553,52.0
+1672321,2021-08-31,Alleghany,North Carolina,37005.0,1210,5.0
+1673343,2021-08-31,Alleghany,Virginia,51005.0,1565,52.0
+1675568,2021-09-01,Alleghany,North Carolina,37005.0,1216,5.0
+1676590,2021-09-01,Alleghany,Virginia,51005.0,1587,52.0
+1678816,2021-09-02,Alleghany,North Carolina,37005.0,1226,5.0
+1679838,2021-09-02,Alleghany,Virginia,51005.0,1600,52.0
+1682065,2021-09-03,Alleghany,North Carolina,37005.0,1255,5.0
+1683088,2021-09-03,Alleghany,Virginia,51005.0,1611,52.0
+1685316,2021-09-04,Alleghany,North Carolina,37005.0,1255,5.0
+1686339,2021-09-04,Alleghany,Virginia,51005.0,1611,52.0
+1688566,2021-09-05,Alleghany,North Carolina,37005.0,1255,5.0
+1689589,2021-09-05,Alleghany,Virginia,51005.0,1611,52.0
+1691816,2021-09-06,Alleghany,North Carolina,37005.0,1255,5.0
+1692838,2021-09-06,Alleghany,Virginia,51005.0,1632,52.0
+1695064,2021-09-07,Alleghany,North Carolina,37005.0,1319,5.0
+1696086,2021-09-07,Alleghany,Virginia,51005.0,1637,52.0
+1698312,2021-09-08,Alleghany,North Carolina,37005.0,1329,5.0
+1699334,2021-09-08,Alleghany,Virginia,51005.0,1654,52.0
+1701561,2021-09-09,Alleghany,North Carolina,37005.0,1332,5.0
+1702583,2021-09-09,Alleghany,Virginia,51005.0,1672,52.0
+1704811,2021-09-10,Alleghany,North Carolina,37005.0,1336,5.0
+1705833,2021-09-10,Alleghany,Virginia,51005.0,1687,53.0
+1708058,2021-09-11,Alleghany,North Carolina,37005.0,1336,5.0
+1709080,2021-09-11,Alleghany,Virginia,51005.0,1687,53.0
+1711305,2021-09-12,Alleghany,North Carolina,37005.0,1336,5.0
+1712327,2021-09-12,Alleghany,Virginia,51005.0,1687,53.0
+1714551,2021-09-13,Alleghany,North Carolina,37005.0,1390,5.0
+1715573,2021-09-13,Alleghany,Virginia,51005.0,1720,59.0
+1717799,2021-09-14,Alleghany,North Carolina,37005.0,1401,5.0
+1718821,2021-09-14,Alleghany,Virginia,51005.0,1727,59.0
+1721047,2021-09-15,Alleghany,North Carolina,37005.0,1403,5.0
+1722069,2021-09-15,Alleghany,Virginia,51005.0,1756,59.0
+1724296,2021-09-16,Alleghany,North Carolina,37005.0,1409,5.0
+1725318,2021-09-16,Alleghany,Virginia,51005.0,1771,59.0
+1727545,2021-09-17,Alleghany,North Carolina,37005.0,1437,5.0
+1728568,2021-09-17,Alleghany,Virginia,51005.0,1788,59.0
+1730795,2021-09-18,Alleghany,North Carolina,37005.0,1437,5.0
+1731818,2021-09-18,Alleghany,Virginia,51005.0,1788,59.0
+1734045,2021-09-19,Alleghany,North Carolina,37005.0,1437,5.0
+1735068,2021-09-19,Alleghany,Virginia,51005.0,1788,59.0
+1737295,2021-09-20,Alleghany,North Carolina,37005.0,1470,5.0
+1738317,2021-09-20,Alleghany,Virginia,51005.0,1826,60.0
+1740544,2021-09-21,Alleghany,North Carolina,37005.0,1476,5.0
+1741566,2021-09-21,Alleghany,Virginia,51005.0,1833,60.0
+1743793,2021-09-22,Alleghany,North Carolina,37005.0,1477,5.0
+1744815,2021-09-22,Alleghany,Virginia,51005.0,1857,60.0
+1747042,2021-09-23,Alleghany,North Carolina,37005.0,1498,5.0
+1748065,2021-09-23,Alleghany,Virginia,51005.0,1874,60.0
+1750292,2021-09-24,Alleghany,North Carolina,37005.0,1501,5.0
+1751314,2021-09-24,Alleghany,Virginia,51005.0,1883,61.0
+1753540,2021-09-25,Alleghany,North Carolina,37005.0,1501,5.0
+1754562,2021-09-25,Alleghany,Virginia,51005.0,1883,61.0
+1756788,2021-09-26,Alleghany,North Carolina,37005.0,1501,5.0
+1757810,2021-09-26,Alleghany,Virginia,51005.0,1883,61.0
+1760036,2021-09-27,Alleghany,North Carolina,37005.0,1517,5.0
+1761058,2021-09-27,Alleghany,Virginia,51005.0,1911,61.0
+1763285,2021-09-28,Alleghany,North Carolina,37005.0,1520,5.0
+1764307,2021-09-28,Alleghany,Virginia,51005.0,1920,61.0
+1766534,2021-09-29,Alleghany,North Carolina,37005.0,1528,5.0
+1767556,2021-09-29,Alleghany,Virginia,51005.0,1938,61.0
+1769783,2021-09-30,Alleghany,North Carolina,37005.0,1533,5.0
+1770805,2021-09-30,Alleghany,Virginia,51005.0,1945,61.0
+1773033,2021-10-01,Alleghany,North Carolina,37005.0,1540,5.0
+1774055,2021-10-01,Alleghany,Virginia,51005.0,1947,61.0
+1776283,2021-10-02,Alleghany,North Carolina,37005.0,1540,5.0
+1777305,2021-10-02,Alleghany,Virginia,51005.0,1947,61.0
+1779533,2021-10-03,Alleghany,North Carolina,37005.0,1540,5.0
+1780555,2021-10-03,Alleghany,Virginia,51005.0,1947,61.0
+1782782,2021-10-04,Alleghany,North Carolina,37005.0,1552,5.0
+1783804,2021-10-04,Alleghany,Virginia,51005.0,1976,61.0
+1786031,2021-10-05,Alleghany,North Carolina,37005.0,1556,5.0
+1787053,2021-10-05,Alleghany,Virginia,51005.0,1975,61.0
+1789279,2021-10-06,Alleghany,North Carolina,37005.0,1564,5.0
+1790301,2021-10-06,Alleghany,Virginia,51005.0,1991,61.0
+1792528,2021-10-07,Alleghany,North Carolina,37005.0,1568,5.0
+1793550,2021-10-07,Alleghany,Virginia,51005.0,1998,61.0
+1795777,2021-10-08,Alleghany,North Carolina,37005.0,1573,5.0
+1796799,2021-10-08,Alleghany,Virginia,51005.0,2014,61.0
+1799026,2021-10-09,Alleghany,North Carolina,37005.0,1573,5.0
+1800048,2021-10-09,Alleghany,Virginia,51005.0,2014,61.0
+1802275,2021-10-10,Alleghany,North Carolina,37005.0,1573,5.0
+1803297,2021-10-10,Alleghany,Virginia,51005.0,2014,61.0
+1805524,2021-10-11,Alleghany,North Carolina,37005.0,1579,5.0
+1806547,2021-10-11,Alleghany,Virginia,51005.0,2014,61.0
+1808775,2021-10-12,Alleghany,North Carolina,37005.0,1580,5.0
+1809797,2021-10-12,Alleghany,Virginia,51005.0,2029,63.0
+1812024,2021-10-13,Alleghany,North Carolina,37005.0,1586,5.0
+1813046,2021-10-13,Alleghany,Virginia,51005.0,2037,63.0
+1815272,2021-10-14,Alleghany,North Carolina,37005.0,1589,5.0
+1816294,2021-10-14,Alleghany,Virginia,51005.0,2051,64.0
+1818521,2021-10-15,Alleghany,North Carolina,37005.0,1590,6.0
+1819543,2021-10-15,Alleghany,Virginia,51005.0,2058,65.0
+1821770,2021-10-16,Alleghany,North Carolina,37005.0,1590,6.0
+1822792,2021-10-16,Alleghany,Virginia,51005.0,2058,65.0
+1825019,2021-10-17,Alleghany,North Carolina,37005.0,1590,6.0
+1826041,2021-10-17,Alleghany,Virginia,51005.0,2058,65.0
+1828268,2021-10-18,Alleghany,North Carolina,37005.0,1599,6.0
+1829290,2021-10-18,Alleghany,Virginia,51005.0,2062,68.0
+1831517,2021-10-19,Alleghany,North Carolina,37005.0,1599,6.0
+1832539,2021-10-19,Alleghany,Virginia,51005.0,2068,69.0
+1834766,2021-10-20,Alleghany,North Carolina,37005.0,1599,6.0
+1835788,2021-10-20,Alleghany,Virginia,51005.0,2079,71.0
+1838015,2021-10-21,Alleghany,North Carolina,37005.0,1604,6.0
+1839037,2021-10-21,Alleghany,Virginia,51005.0,2090,73.0
+1841264,2021-10-22,Alleghany,North Carolina,37005.0,1606,6.0
+1842286,2021-10-22,Alleghany,Virginia,51005.0,2094,74.0
+1844514,2021-10-23,Alleghany,North Carolina,37005.0,1606,6.0
+1845536,2021-10-23,Alleghany,Virginia,51005.0,2094,74.0
+1847764,2021-10-24,Alleghany,North Carolina,37005.0,1606,6.0
+1848786,2021-10-24,Alleghany,Virginia,51005.0,2094,74.0
+1851014,2021-10-25,Alleghany,North Carolina,37005.0,1609,6.0
+1852036,2021-10-25,Alleghany,Virginia,51005.0,2104,74.0
+1854263,2021-10-26,Alleghany,North Carolina,37005.0,1609,6.0
+1855285,2021-10-26,Alleghany,Virginia,51005.0,2107,74.0
+1857512,2021-10-27,Alleghany,North Carolina,37005.0,1608,6.0
+1858534,2021-10-27,Alleghany,Virginia,51005.0,2116,74.0
+1860761,2021-10-28,Alleghany,North Carolina,37005.0,1614,6.0
+1861783,2021-10-28,Alleghany,Virginia,51005.0,2120,75.0
+1864010,2021-10-29,Alleghany,North Carolina,37005.0,1614,6.0
+1865032,2021-10-29,Alleghany,Virginia,51005.0,2124,77.0
+1867259,2021-10-30,Alleghany,North Carolina,37005.0,1614,6.0
+1868281,2021-10-30,Alleghany,Virginia,51005.0,2124,77.0
+1870508,2021-10-31,Alleghany,North Carolina,37005.0,1614,6.0
+1871530,2021-10-31,Alleghany,Virginia,51005.0,2124,77.0
+1873757,2021-11-01,Alleghany,North Carolina,37005.0,1621,6.0
+1874779,2021-11-01,Alleghany,Virginia,51005.0,2133,78.0
+1877006,2021-11-02,Alleghany,North Carolina,37005.0,1621,6.0
+1878028,2021-11-02,Alleghany,Virginia,51005.0,2136,78.0
+1880255,2021-11-03,Alleghany,North Carolina,37005.0,1623,6.0
+1881277,2021-11-03,Alleghany,Virginia,51005.0,2140,78.0
+1883504,2021-11-04,Alleghany,North Carolina,37005.0,1623,6.0
+1884526,2021-11-04,Alleghany,Virginia,51005.0,2147,78.0
+1886753,2021-11-05,Alleghany,North Carolina,37005.0,1625,6.0
+1887776,2021-11-05,Alleghany,Virginia,51005.0,2152,78.0
+1890003,2021-11-06,Alleghany,North Carolina,37005.0,1625,6.0
+1891026,2021-11-06,Alleghany,Virginia,51005.0,2152,78.0
+1893253,2021-11-07,Alleghany,North Carolina,37005.0,1625,6.0
+1894276,2021-11-07,Alleghany,Virginia,51005.0,2152,78.0
+1896503,2021-11-08,Alleghany,North Carolina,37005.0,1639,6.0
+1897526,2021-11-08,Alleghany,Virginia,51005.0,2160,79.0
+1899753,2021-11-09,Alleghany,North Carolina,37005.0,1646,6.0
+1900776,2021-11-09,Alleghany,Virginia,51005.0,2167,79.0
+1903003,2021-11-10,Alleghany,North Carolina,37005.0,1651,6.0
+1904026,2021-11-10,Alleghany,Virginia,51005.0,2174,79.0
+1906252,2021-11-11,Alleghany,North Carolina,37005.0,1651,6.0
+1907275,2021-11-11,Alleghany,Virginia,51005.0,2178,80.0
+1909501,2021-11-12,Alleghany,North Carolina,37005.0,1658,6.0
+1910524,2021-11-12,Alleghany,Virginia,51005.0,2184,81.0
+1912751,2021-11-13,Alleghany,North Carolina,37005.0,1658,6.0
+1913774,2021-11-13,Alleghany,Virginia,51005.0,2184,81.0
+1916001,2021-11-14,Alleghany,North Carolina,37005.0,1658,6.0
+1917024,2021-11-14,Alleghany,Virginia,51005.0,2184,81.0
+1919251,2021-11-15,Alleghany,North Carolina,37005.0,1681,6.0
+1920274,2021-11-15,Alleghany,Virginia,51005.0,2198,82.0
+1922501,2021-11-16,Alleghany,North Carolina,37005.0,1697,6.0
+1923523,2021-11-16,Alleghany,Virginia,51005.0,2200,82.0
+1925750,2021-11-17,Alleghany,North Carolina,37005.0,1702,6.0
+1926773,2021-11-17,Alleghany,Virginia,51005.0,2215,82.0
+1929000,2021-11-18,Alleghany,North Carolina,37005.0,1713,6.0
+1930023,2021-11-18,Alleghany,Virginia,51005.0,2219,82.0
+1932251,2021-11-19,Alleghany,North Carolina,37005.0,1719,6.0
+1933275,2021-11-19,Alleghany,Virginia,51005.0,2221,82.0
+1935501,2021-11-20,Alleghany,North Carolina,37005.0,1719,6.0
+1936525,2021-11-20,Alleghany,Virginia,51005.0,2221,82.0
+1938751,2021-11-21,Alleghany,North Carolina,37005.0,1719,6.0
+1939775,2021-11-21,Alleghany,Virginia,51005.0,2221,82.0
+1942001,2021-11-22,Alleghany,North Carolina,37005.0,1760,6.0
+1943025,2021-11-22,Alleghany,Virginia,51005.0,2226,82.0
+1945252,2021-11-23,Alleghany,North Carolina,37005.0,1761,6.0
+1946276,2021-11-23,Alleghany,Virginia,51005.0,2232,82.0
+1948503,2021-11-24,Alleghany,North Carolina,37005.0,1777,6.0
+1949527,2021-11-24,Alleghany,Virginia,51005.0,2232,83.0
+1951754,2021-11-25,Alleghany,North Carolina,37005.0,1777,6.0
+1952778,2021-11-25,Alleghany,Virginia,51005.0,2236,83.0
+1955005,2021-11-26,Alleghany,North Carolina,37005.0,1777,6.0
+1956029,2021-11-26,Alleghany,Virginia,51005.0,2245,83.0
+1958256,2021-11-27,Alleghany,North Carolina,37005.0,1777,6.0
+1959280,2021-11-27,Alleghany,Virginia,51005.0,2245,83.0
+1961507,2021-11-28,Alleghany,North Carolina,37005.0,1777,6.0
+1962531,2021-11-28,Alleghany,Virginia,51005.0,2245,83.0
+1964759,2021-11-29,Alleghany,North Carolina,37005.0,1799,6.0
+1965783,2021-11-29,Alleghany,Virginia,51005.0,2258,83.0
+1968010,2021-11-30,Alleghany,North Carolina,37005.0,1807,6.0
+1969033,2021-11-30,Alleghany,Virginia,51005.0,2266,83.0
+1971260,2021-12-01,Alleghany,North Carolina,37005.0,1815,6.0
+1972283,2021-12-01,Alleghany,Virginia,51005.0,2275,83.0
+1974509,2021-12-02,Alleghany,North Carolina,37005.0,1818,6.0
+1975532,2021-12-02,Alleghany,Virginia,51005.0,2285,83.0
+1977759,2021-12-03,Alleghany,North Carolina,37005.0,1826,6.0
+1978782,2021-12-03,Alleghany,Virginia,51005.0,2290,83.0
+1981009,2021-12-04,Alleghany,North Carolina,37005.0,1826,6.0
+1982032,2021-12-04,Alleghany,Virginia,51005.0,2290,83.0
+1984259,2021-12-05,Alleghany,North Carolina,37005.0,1826,6.0
+1985282,2021-12-05,Alleghany,Virginia,51005.0,2290,83.0
+1987509,2021-12-06,Alleghany,North Carolina,37005.0,1847,6.0
+1988532,2021-12-06,Alleghany,Virginia,51005.0,2309,83.0
+1990760,2021-12-07,Alleghany,North Carolina,37005.0,1852,6.0
+1991783,2021-12-07,Alleghany,Virginia,51005.0,2320,83.0
+1994011,2021-12-08,Alleghany,North Carolina,37005.0,1882,6.0
+1995034,2021-12-08,Alleghany,Virginia,51005.0,2337,84.0
+1997262,2021-12-09,Alleghany,North Carolina,37005.0,1890,6.0
+1998285,2021-12-09,Alleghany,Virginia,51005.0,2344,84.0
+2000512,2021-12-10,Alleghany,North Carolina,37005.0,1911,6.0
+2001535,2021-12-10,Alleghany,Virginia,51005.0,2342,84.0
+2003763,2021-12-11,Alleghany,North Carolina,37005.0,1911,6.0
+2004786,2021-12-11,Alleghany,Virginia,51005.0,2342,84.0
+2007014,2021-12-12,Alleghany,North Carolina,37005.0,1911,6.0
+2008037,2021-12-12,Alleghany,Virginia,51005.0,2342,84.0
+2010265,2021-12-13,Alleghany,North Carolina,37005.0,1944,6.0
+2011288,2021-12-13,Alleghany,Virginia,51005.0,2353,85.0
+2013516,2021-12-14,Alleghany,North Carolina,37005.0,1947,6.0
+2014539,2021-12-14,Alleghany,Virginia,51005.0,2366,85.0
+2016766,2021-12-15,Alleghany,North Carolina,37005.0,1962,6.0
+2017789,2021-12-15,Alleghany,Virginia,51005.0,2383,85.0
+2020017,2021-12-16,Alleghany,North Carolina,37005.0,1972,6.0
+2021040,2021-12-16,Alleghany,Virginia,51005.0,2391,85.0
+2023268,2021-12-17,Alleghany,North Carolina,37005.0,1979,6.0
+2024291,2021-12-17,Alleghany,Virginia,51005.0,2397,85.0
+2026519,2021-12-18,Alleghany,North Carolina,37005.0,1979,6.0
+2027542,2021-12-18,Alleghany,Virginia,51005.0,2397,85.0
+2029770,2021-12-19,Alleghany,North Carolina,37005.0,1979,6.0
+2030793,2021-12-19,Alleghany,Virginia,51005.0,2397,85.0
+2033020,2021-12-20,Alleghany,North Carolina,37005.0,2013,6.0
+2034043,2021-12-20,Alleghany,Virginia,51005.0,2423,85.0
+2036270,2021-12-21,Alleghany,North Carolina,37005.0,2017,6.0
+2037293,2021-12-21,Alleghany,Virginia,51005.0,2436,85.0
+2039520,2021-12-22,Alleghany,North Carolina,37005.0,2028,6.0
+2040543,2021-12-22,Alleghany,Virginia,51005.0,2449,86.0
+2042769,2021-12-23,Alleghany,North Carolina,37005.0,2028,6.0
+2043792,2021-12-23,Alleghany,Virginia,51005.0,2451,86.0
+2046019,2021-12-24,Alleghany,North Carolina,37005.0,2028,6.0
+2047042,2021-12-24,Alleghany,Virginia,51005.0,2460,86.0
+2049269,2021-12-25,Alleghany,North Carolina,37005.0,2028,6.0
+2050292,2021-12-25,Alleghany,Virginia,51005.0,2460,86.0
+2052519,2021-12-26,Alleghany,North Carolina,37005.0,2028,6.0
+2053542,2021-12-26,Alleghany,Virginia,51005.0,2460,86.0
+2055769,2021-12-27,Alleghany,North Carolina,37005.0,2028,6.0
+2056791,2021-12-27,Alleghany,Virginia,51005.0,2481,86.0
+2059018,2021-12-28,Alleghany,North Carolina,37005.0,2063,6.0
+2060040,2021-12-28,Alleghany,Virginia,51005.0,2483,86.0
+2062267,2021-12-29,Alleghany,North Carolina,37005.0,2063,7.0
+2063290,2021-12-29,Alleghany,Virginia,51005.0,2493,87.0
+2065517,2021-12-30,Alleghany,North Carolina,37005.0,2077,7.0
+2066540,2021-12-30,Alleghany,Virginia,51005.0,2501,87.0
+2068768,2021-12-31,Alleghany,North Carolina,37005.0,2090,7.0
+2069791,2021-12-31,Alleghany,Virginia,51005.0,2512,87.0
+2072019,2022-01-01,Alleghany,North Carolina,37005.0,2090,7.0
+2073042,2022-01-01,Alleghany,Virginia,51005.0,2512,87.0
+2075270,2022-01-02,Alleghany,North Carolina,37005.0,2090,7.0
+2076293,2022-01-02,Alleghany,Virginia,51005.0,2512,87.0
+2078521,2022-01-03,Alleghany,North Carolina,37005.0,2117,7.0
+2079545,2022-01-03,Alleghany,Virginia,51005.0,2533,88.0
+2081773,2022-01-04,Alleghany,North Carolina,37005.0,2122,8.0
+2082797,2022-01-04,Alleghany,Virginia,51005.0,2547,88.0
+2085025,2022-01-05,Alleghany,North Carolina,37005.0,2128,8.0
+2086049,2022-01-05,Alleghany,Virginia,51005.0,2562,88.0
+2088277,2022-01-06,Alleghany,North Carolina,37005.0,2140,10.0
+2089300,2022-01-06,Alleghany,Virginia,51005.0,2575,88.0
+2091528,2022-01-07,Alleghany,North Carolina,37005.0,2162,10.0
+2092552,2022-01-07,Alleghany,Virginia,51005.0,2583,88.0
+2094780,2022-01-08,Alleghany,North Carolina,37005.0,2162,10.0
+2095804,2022-01-08,Alleghany,Virginia,51005.0,2583,88.0
+2098032,2022-01-09,Alleghany,North Carolina,37005.0,2162,10.0
+2099055,2022-01-09,Alleghany,Virginia,51005.0,2583,88.0
+2101283,2022-01-10,Alleghany,North Carolina,37005.0,2215,10.0
+2102306,2022-01-10,Alleghany,Virginia,51005.0,2666,88.0
+2104534,2022-01-11,Alleghany,North Carolina,37005.0,2233,10.0
+2105557,2022-01-11,Alleghany,Virginia,51005.0,2695,89.0
+2107785,2022-01-12,Alleghany,North Carolina,37005.0,2261,10.0
+2108808,2022-01-12,Alleghany,Virginia,51005.0,2728,90.0
+2111037,2022-01-13,Alleghany,North Carolina,37005.0,2283,10.0
+2112060,2022-01-13,Alleghany,Virginia,51005.0,2755,90.0
+2114289,2022-01-14,Alleghany,North Carolina,37005.0,2305,10.0
+2115312,2022-01-14,Alleghany,Virginia,51005.0,2770,90.0
+2117540,2022-01-15,Alleghany,North Carolina,37005.0,2305,10.0
+2118564,2022-01-15,Alleghany,Virginia,51005.0,2770,90.0
+2120792,2022-01-16,Alleghany,North Carolina,37005.0,2305,10.0
+2121816,2022-01-16,Alleghany,Virginia,51005.0,2770,90.0
+2124044,2022-01-17,Alleghany,North Carolina,37005.0,2305,10.0
+2125068,2022-01-17,Alleghany,Virginia,51005.0,2882,90.0
+2127296,2022-01-18,Alleghany,North Carolina,37005.0,2405,10.0
+2128321,2022-01-18,Alleghany,Virginia,51005.0,2904,90.0
+2130550,2022-01-19,Alleghany,North Carolina,37005.0,2420,11.0
+2131575,2022-01-19,Alleghany,Virginia,51005.0,2933,90.0
+2133802,2022-01-20,Alleghany,North Carolina,37005.0,2435,11.0
+2134827,2022-01-20,Alleghany,Virginia,51005.0,2969,90.0
+2137055,2022-01-21,Alleghany,North Carolina,37005.0,2447,11.0
+2138081,2022-01-21,Alleghany,Virginia,51005.0,3016,90.0
+2140311,2022-01-22,Alleghany,North Carolina,37005.0,2447,11.0
+2141337,2022-01-22,Alleghany,Virginia,51005.0,3016,90.0
+2143566,2022-01-23,Alleghany,North Carolina,37005.0,2447,11.0
+2144592,2022-01-23,Alleghany,Virginia,51005.0,3016,90.0
+2146820,2022-01-24,Alleghany,North Carolina,37005.0,2513,11.0
+2147845,2022-01-24,Alleghany,Virginia,51005.0,3109,90.0
+2150072,2022-01-25,Alleghany,North Carolina,37005.0,2529,11.0
+2151097,2022-01-25,Alleghany,Virginia,51005.0,3124,90.0
+2153324,2022-01-26,Alleghany,North Carolina,37005.0,2547,11.0
+2154350,2022-01-26,Alleghany,Virginia,51005.0,3158,90.0
+2156577,2022-01-27,Alleghany,North Carolina,37005.0,2565,11.0
+2157603,2022-01-27,Alleghany,Virginia,51005.0,3183,90.0
+2159832,2022-01-28,Alleghany,North Carolina,37005.0,2599,11.0
+2160859,2022-01-28,Alleghany,Virginia,51005.0,3229,90.0
+2163087,2022-01-29,Alleghany,North Carolina,37005.0,2599,11.0
+2164114,2022-01-29,Alleghany,Virginia,51005.0,3229,90.0
+2166342,2022-01-30,Alleghany,North Carolina,37005.0,2599,11.0
+2167369,2022-01-30,Alleghany,Virginia,51005.0,3229,90.0
+2169597,2022-01-31,Alleghany,North Carolina,37005.0,2656,11.0
+2170622,2022-01-31,Alleghany,Virginia,51005.0,3285,90.0
+2172850,2022-02-01,Alleghany,North Carolina,37005.0,2668,11.0
+2173874,2022-02-01,Alleghany,Virginia,51005.0,3310,90.0
+2176103,2022-02-02,Alleghany,North Carolina,37005.0,2673,11.0
+2177127,2022-02-02,Alleghany,Virginia,51005.0,3334,90.0
+2179354,2022-02-03,Alleghany,North Carolina,37005.0,2697,11.0
+2180378,2022-02-03,Alleghany,Virginia,51005.0,3342,90.0
+2182606,2022-02-04,Alleghany,North Carolina,37005.0,2725,11.0
+2183630,2022-02-04,Alleghany,Virginia,51005.0,3356,90.0
+2185858,2022-02-05,Alleghany,North Carolina,37005.0,2725,11.0
+2186883,2022-02-05,Alleghany,Virginia,51005.0,3356,90.0
+2189111,2022-02-06,Alleghany,North Carolina,37005.0,2725,11.0
+2190136,2022-02-06,Alleghany,Virginia,51005.0,3356,90.0
+2192365,2022-02-07,Alleghany,North Carolina,37005.0,2778,11.0
+2193389,2022-02-07,Alleghany,Virginia,51005.0,3395,93.0
+2195619,2022-02-08,Alleghany,North Carolina,37005.0,2783,11.0
+2196644,2022-02-08,Alleghany,Virginia,51005.0,3403,93.0
+2198873,2022-02-09,Alleghany,North Carolina,37005.0,2800,11.0
+2199898,2022-02-09,Alleghany,Virginia,51005.0,3426,93.0
+2202127,2022-02-10,Alleghany,North Carolina,37005.0,2809,11.0
+2203152,2022-02-10,Alleghany,Virginia,51005.0,3490,95.0
+2205380,2022-02-11,Alleghany,North Carolina,37005.0,2819,11.0
+2206405,2022-02-11,Alleghany,Virginia,51005.0,3500,95.0
+2208633,2022-02-12,Alleghany,North Carolina,37005.0,2819,11.0
+2209658,2022-02-12,Alleghany,Virginia,51005.0,3500,95.0
+2211886,2022-02-13,Alleghany,North Carolina,37005.0,2819,11.0
+2212911,2022-02-13,Alleghany,Virginia,51005.0,3500,95.0
+2215137,2022-02-14,Alleghany,North Carolina,37005.0,2837,11.0
+2216162,2022-02-14,Alleghany,Virginia,51005.0,3452,93.0
+2218388,2022-02-15,Alleghany,North Carolina,37005.0,2840,11.0
+2219412,2022-02-15,Alleghany,Virginia,51005.0,3458,93.0
+2221639,2022-02-16,Alleghany,North Carolina,37005.0,2844,11.0
+2222663,2022-02-16,Alleghany,Virginia,51005.0,3494,92.0
+2224890,2022-02-17,Alleghany,North Carolina,37005.0,2851,11.0
+2225914,2022-02-17,Alleghany,Virginia,51005.0,3499,92.0
+2228141,2022-02-18,Alleghany,North Carolina,37005.0,2859,11.0
+2229165,2022-02-18,Alleghany,Virginia,51005.0,3491,92.0
+2231392,2022-02-19,Alleghany,North Carolina,37005.0,2859,11.0
+2232416,2022-02-19,Alleghany,Virginia,51005.0,3491,92.0
+2234643,2022-02-20,Alleghany,North Carolina,37005.0,2859,11.0
+2235667,2022-02-20,Alleghany,Virginia,51005.0,3491,92.0
+2237894,2022-02-21,Alleghany,North Carolina,37005.0,2876,11.0
+2238918,2022-02-21,Alleghany,Virginia,51005.0,3511,92.0
+2241145,2022-02-22,Alleghany,North Carolina,37005.0,2881,11.0
+2242169,2022-02-22,Alleghany,Virginia,51005.0,3517,92.0
+2244396,2022-02-23,Alleghany,North Carolina,37005.0,2888,11.0
+2245420,2022-02-23,Alleghany,Virginia,51005.0,3521,92.0
+2247647,2022-02-24,Alleghany,North Carolina,37005.0,2897,12.0
+2248671,2022-02-24,Alleghany,Virginia,51005.0,3530,92.0
+2250898,2022-02-25,Alleghany,North Carolina,37005.0,2905,12.0
+2251922,2022-02-25,Alleghany,Virginia,51005.0,3534,92.0
+2254149,2022-02-26,Alleghany,North Carolina,37005.0,2905,12.0
+2255173,2022-02-26,Alleghany,Virginia,51005.0,3534,92.0
+2257400,2022-02-27,Alleghany,North Carolina,37005.0,2905,12.0
+2258424,2022-02-27,Alleghany,Virginia,51005.0,3534,92.0
+2260651,2022-02-28,Alleghany,North Carolina,37005.0,2921,12.0
+2261675,2022-02-28,Alleghany,Virginia,51005.0,3547,93.0
+2263902,2022-03-01,Alleghany,North Carolina,37005.0,2921,12.0
+2264925,2022-03-01,Alleghany,Virginia,51005.0,3542,93.0
+2267154,2022-03-02,Alleghany,North Carolina,37005.0,2926,12.0
+2268178,2022-03-02,Alleghany,Virginia,51005.0,3550,93.0
+2270406,2022-03-03,Alleghany,North Carolina,37005.0,2926,12.0
+2271430,2022-03-03,Alleghany,Virginia,51005.0,3555,94.0
+2273659,2022-03-04,Alleghany,North Carolina,37005.0,2924,12.0
+2274683,2022-03-04,Alleghany,Virginia,51005.0,3555,94.0
+2276912,2022-03-05,Alleghany,North Carolina,37005.0,2924,12.0
+2277936,2022-03-05,Alleghany,Virginia,51005.0,3555,94.0
+2280165,2022-03-06,Alleghany,North Carolina,37005.0,2924,12.0
+2281189,2022-03-06,Alleghany,Virginia,51005.0,3555,94.0
+2283417,2022-03-07,Alleghany,North Carolina,37005.0,2925,12.0
+2284441,2022-03-07,Alleghany,Virginia,51005.0,3558,94.0
+2286669,2022-03-08,Alleghany,North Carolina,37005.0,2925,12.0
+2287693,2022-03-08,Alleghany,Virginia,51005.0,3563,94.0
+2289921,2022-03-09,Alleghany,North Carolina,37005.0,2927,12.0
+2290945,2022-03-09,Alleghany,Virginia,51005.0,3572,94.0
+2293173,2022-03-10,Alleghany,North Carolina,37005.0,2930,12.0
+2294197,2022-03-10,Alleghany,Virginia,51005.0,3565,94.0
+2296425,2022-03-11,Alleghany,North Carolina,37005.0,2930,12.0
+2297449,2022-03-11,Alleghany,Virginia,51005.0,3544,93.0
+2299677,2022-03-12,Alleghany,North Carolina,37005.0,2930,12.0
+2300701,2022-03-12,Alleghany,Virginia,51005.0,3544,93.0
+2302929,2022-03-13,Alleghany,North Carolina,37005.0,2930,12.0
+2303953,2022-03-13,Alleghany,Virginia,51005.0,3544,93.0
+2306180,2022-03-14,Alleghany,North Carolina,37005.0,2934,12.0
+2307204,2022-03-14,Alleghany,Virginia,51005.0,3486,93.0
+2309433,2022-03-15,Alleghany,North Carolina,37005.0,2934,12.0
+2310457,2022-03-15,Alleghany,Virginia,51005.0,3485,93.0
+2312686,2022-03-16,Alleghany,North Carolina,37005.0,2932,12.0
+2313710,2022-03-16,Alleghany,Virginia,51005.0,3487,93.0
+2315939,2022-03-17,Alleghany,North Carolina,37005.0,2932,12.0
+2316963,2022-03-17,Alleghany,Virginia,51005.0,3485,93.0
+2319193,2022-03-18,Alleghany,North Carolina,37005.0,2931,12.0
+2320217,2022-03-18,Alleghany,Virginia,51005.0,3478,93.0
+2322447,2022-03-19,Alleghany,North Carolina,37005.0,2931,12.0
+2323471,2022-03-19,Alleghany,Virginia,51005.0,3478,93.0
+2325700,2022-03-20,Alleghany,North Carolina,37005.0,2931,12.0
+2326724,2022-03-20,Alleghany,Virginia,51005.0,3478,93.0
+2328952,2022-03-21,Alleghany,North Carolina,37005.0,2933,12.0
+2329976,2022-03-21,Alleghany,Virginia,51005.0,3484,93.0
+2332205,2022-03-22,Alleghany,North Carolina,37005.0,2938,12.0
+2333229,2022-03-22,Alleghany,Virginia,51005.0,3484,93.0
+2335459,2022-03-23,Alleghany,North Carolina,37005.0,2938,12.0
+2336483,2022-03-23,Alleghany,Virginia,51005.0,3480,94.0
+2338713,2022-03-24,Alleghany,North Carolina,37005.0,2938,12.0
+2339737,2022-03-24,Alleghany,Virginia,51005.0,3481,94.0
+2341966,2022-03-25,Alleghany,North Carolina,37005.0,2939,12.0
+2342990,2022-03-25,Alleghany,Virginia,51005.0,3475,94.0
+2345219,2022-03-26,Alleghany,North Carolina,37005.0,2939,12.0
+2346243,2022-03-26,Alleghany,Virginia,51005.0,3475,94.0
+2348472,2022-03-27,Alleghany,North Carolina,37005.0,2939,12.0
+2349496,2022-03-27,Alleghany,Virginia,51005.0,3475,94.0
+2351724,2022-03-28,Alleghany,North Carolina,37005.0,2941,12.0
+2352748,2022-03-28,Alleghany,Virginia,51005.0,3468,93.0
+2354977,2022-03-29,Alleghany,North Carolina,37005.0,2941,12.0
+2356001,2022-03-29,Alleghany,Virginia,51005.0,3450,93.0
+2358231,2022-03-30,Alleghany,North Carolina,37005.0,2944,12.0
+2359255,2022-03-30,Alleghany,Virginia,51005.0,3443,93.0
+2361485,2022-03-31,Alleghany,North Carolina,37005.0,2946,12.0
+2362509,2022-03-31,Alleghany,Virginia,51005.0,3422,93.0
+2364739,2022-04-01,Alleghany,North Carolina,37005.0,2946,12.0
+2365762,2022-04-01,Alleghany,Virginia,51005.0,3403,93.0
+2367992,2022-04-02,Alleghany,North Carolina,37005.0,2946,12.0
+2369015,2022-04-02,Alleghany,Virginia,51005.0,3403,93.0
+2371245,2022-04-03,Alleghany,North Carolina,37005.0,2946,12.0
+2372268,2022-04-03,Alleghany,Virginia,51005.0,3403,93.0
+2374497,2022-04-04,Alleghany,North Carolina,37005.0,2948,12.0
+2375520,2022-04-04,Alleghany,Virginia,51005.0,3393,93.0
+2377750,2022-04-05,Alleghany,North Carolina,37005.0,2948,12.0
+2378774,2022-04-05,Alleghany,Virginia,51005.0,3394,93.0
+2381005,2022-04-06,Alleghany,North Carolina,37005.0,2948,12.0
+2382029,2022-04-06,Alleghany,Virginia,51005.0,3395,93.0
+2384260,2022-04-07,Alleghany,North Carolina,37005.0,2948,12.0
+2385284,2022-04-07,Alleghany,Virginia,51005.0,3393,93.0
+2387514,2022-04-08,Alleghany,North Carolina,37005.0,2948,12.0
+2388539,2022-04-08,Alleghany,Virginia,51005.0,3391,94.0
+2390770,2022-04-09,Alleghany,North Carolina,37005.0,2948,12.0
+2391795,2022-04-09,Alleghany,Virginia,51005.0,3391,94.0

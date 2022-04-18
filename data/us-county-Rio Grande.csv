@@ -1,0 +1,1451 @@
+,date,county,state,fips,cases,deaths
+12553,2020-03-26,Rio Grande,Colorado,8105.0,2,0.0
+14222,2020-03-27,Rio Grande,Colorado,8105.0,2,0.0
+16006,2020-03-28,Rio Grande,Colorado,8105.0,2,0.0
+17898,2020-03-29,Rio Grande,Colorado,8105.0,3,0.0
+19877,2020-03-30,Rio Grande,Colorado,8105.0,4,0.0
+21953,2020-03-31,Rio Grande,Colorado,8105.0,5,0.0
+24112,2020-04-01,Rio Grande,Colorado,8105.0,5,0.0
+26342,2020-04-02,Rio Grande,Colorado,8105.0,5,0.0
+28644,2020-04-03,Rio Grande,Colorado,8105.0,5,0.0
+31002,2020-04-04,Rio Grande,Colorado,8105.0,5,0.0
+33408,2020-04-05,Rio Grande,Colorado,8105.0,5,0.0
+35853,2020-04-06,Rio Grande,Colorado,8105.0,5,0.0
+38343,2020-04-07,Rio Grande,Colorado,8105.0,5,0.0
+40886,2020-04-08,Rio Grande,Colorado,8105.0,5,0.0
+43460,2020-04-09,Rio Grande,Colorado,8105.0,5,0.0
+46060,2020-04-10,Rio Grande,Colorado,8105.0,5,0.0
+48690,2020-04-11,Rio Grande,Colorado,8105.0,5,0.0
+51352,2020-04-12,Rio Grande,Colorado,8105.0,5,0.0
+54031,2020-04-13,Rio Grande,Colorado,8105.0,5,0.0
+56723,2020-04-14,Rio Grande,Colorado,8105.0,5,0.0
+59431,2020-04-15,Rio Grande,Colorado,8105.0,7,0.0
+62150,2020-04-16,Rio Grande,Colorado,8105.0,7,0.0
+64883,2020-04-17,Rio Grande,Colorado,8105.0,7,0.0
+67631,2020-04-18,Rio Grande,Colorado,8105.0,7,0.0
+70393,2020-04-19,Rio Grande,Colorado,8105.0,7,0.0
+73162,2020-04-20,Rio Grande,Colorado,8105.0,7,0.0
+75938,2020-04-21,Rio Grande,Colorado,8105.0,7,0.0
+78722,2020-04-22,Rio Grande,Colorado,8105.0,7,0.0
+81516,2020-04-23,Rio Grande,Colorado,8105.0,7,0.0
+84316,2020-04-24,Rio Grande,Colorado,8105.0,7,0.0
+87124,2020-04-25,Rio Grande,Colorado,8105.0,7,0.0
+89941,2020-04-26,Rio Grande,Colorado,8105.0,7,0.0
+92759,2020-04-27,Rio Grande,Colorado,8105.0,7,0.0
+95591,2020-04-28,Rio Grande,Colorado,8105.0,7,0.0
+98436,2020-04-29,Rio Grande,Colorado,8105.0,7,0.0
+101286,2020-04-30,Rio Grande,Colorado,8105.0,7,0.0
+104141,2020-05-01,Rio Grande,Colorado,8105.0,7,0.0
+107006,2020-05-02,Rio Grande,Colorado,8105.0,7,0.0
+109875,2020-05-03,Rio Grande,Colorado,8105.0,7,0.0
+112750,2020-05-04,Rio Grande,Colorado,8105.0,7,0.0
+115633,2020-05-05,Rio Grande,Colorado,8105.0,7,0.0
+117544,2020-05-05,Rio Grande,Puerto Rico,72119.0,22,
+118592,2020-05-06,Rio Grande,Colorado,8105.0,7,0.0
+120506,2020-05-06,Rio Grande,Puerto Rico,72119.0,23,
+121561,2020-05-07,Rio Grande,Colorado,8105.0,7,0.0
+123483,2020-05-07,Rio Grande,Puerto Rico,72119.0,26,
+124541,2020-05-08,Rio Grande,Colorado,8105.0,7,0.0
+126466,2020-05-08,Rio Grande,Puerto Rico,72119.0,27,
+127527,2020-05-09,Rio Grande,Colorado,8105.0,7,0.0
+129455,2020-05-09,Rio Grande,Puerto Rico,72119.0,26,
+130518,2020-05-10,Rio Grande,Colorado,8105.0,7,0.0
+132444,2020-05-10,Rio Grande,Puerto Rico,72119.0,26,
+133509,2020-05-11,Rio Grande,Colorado,8105.0,8,0.0
+135435,2020-05-11,Rio Grande,Puerto Rico,72119.0,26,
+136498,2020-05-12,Rio Grande,Colorado,8105.0,7,0.0
+138425,2020-05-12,Rio Grande,Puerto Rico,72119.0,26,
+139489,2020-05-13,Rio Grande,Colorado,8105.0,7,0.0
+141421,2020-05-13,Rio Grande,Puerto Rico,72119.0,26,
+142485,2020-05-14,Rio Grande,Colorado,8105.0,7,0.0
+144417,2020-05-14,Rio Grande,Puerto Rico,72119.0,27,
+145485,2020-05-15,Rio Grande,Colorado,8105.0,7,0.0
+147418,2020-05-15,Rio Grande,Puerto Rico,72119.0,27,
+148488,2020-05-16,Rio Grande,Colorado,8105.0,8,0.0
+150426,2020-05-16,Rio Grande,Puerto Rico,72119.0,27,
+151497,2020-05-17,Rio Grande,Colorado,8105.0,8,0.0
+153437,2020-05-17,Rio Grande,Puerto Rico,72119.0,27,
+154509,2020-05-18,Rio Grande,Colorado,8105.0,8,0.0
+156454,2020-05-18,Rio Grande,Puerto Rico,72119.0,27,
+157525,2020-05-19,Rio Grande,Colorado,8105.0,9,0.0
+159475,2020-05-19,Rio Grande,Puerto Rico,72119.0,28,
+160551,2020-05-20,Rio Grande,Colorado,8105.0,8,0.0
+162502,2020-05-20,Rio Grande,Puerto Rico,72119.0,28,
+163579,2020-05-21,Rio Grande,Colorado,8105.0,14,1.0
+165531,2020-05-21,Rio Grande,Puerto Rico,72119.0,29,
+166612,2020-05-22,Rio Grande,Colorado,8105.0,15,1.0
+168567,2020-05-22,Rio Grande,Puerto Rico,72119.0,31,
+169649,2020-05-23,Rio Grande,Colorado,8105.0,16,0.0
+171606,2020-05-23,Rio Grande,Puerto Rico,72119.0,35,
+172690,2020-05-24,Rio Grande,Colorado,8105.0,16,0.0
+174648,2020-05-24,Rio Grande,Puerto Rico,72119.0,35,
+175734,2020-05-25,Rio Grande,Colorado,8105.0,16,0.0
+177692,2020-05-25,Rio Grande,Puerto Rico,72119.0,45,
+178778,2020-05-26,Rio Grande,Colorado,8105.0,16,0.0
+180735,2020-05-26,Rio Grande,Puerto Rico,72119.0,45,
+181822,2020-05-27,Rio Grande,Colorado,8105.0,16,0.0
+183785,2020-05-27,Rio Grande,Puerto Rico,72119.0,47,
+184876,2020-05-28,Rio Grande,Colorado,8105.0,16,0.0
+186842,2020-05-28,Rio Grande,Puerto Rico,72119.0,47,
+187932,2020-05-29,Rio Grande,Colorado,8105.0,16,0.0
+189904,2020-05-29,Rio Grande,Puerto Rico,72119.0,53,
+190997,2020-05-30,Rio Grande,Colorado,8105.0,23,0.0
+192969,2020-05-30,Rio Grande,Puerto Rico,72119.0,52,
+194064,2020-05-31,Rio Grande,Colorado,8105.0,33,0.0
+196038,2020-05-31,Rio Grande,Puerto Rico,72119.0,52,
+197134,2020-06-01,Rio Grande,Colorado,8105.0,35,0.0
+199111,2020-06-01,Rio Grande,Puerto Rico,72119.0,54,
+200207,2020-06-02,Rio Grande,Colorado,8105.0,37,0.0
+202186,2020-06-02,Rio Grande,Puerto Rico,72119.0,56,
+203283,2020-06-03,Rio Grande,Colorado,8105.0,36,0.0
+205263,2020-06-03,Rio Grande,Puerto Rico,72119.0,56,
+206363,2020-06-04,Rio Grande,Colorado,8105.0,38,0.0
+208344,2020-06-04,Rio Grande,Puerto Rico,72119.0,69,
+209444,2020-06-05,Rio Grande,Colorado,8105.0,40,0.0
+211426,2020-06-05,Rio Grande,Puerto Rico,72119.0,73,
+212529,2020-06-06,Rio Grande,Colorado,8105.0,43,0.0
+214512,2020-06-06,Rio Grande,Puerto Rico,72119.0,77,
+215616,2020-06-07,Rio Grande,Colorado,8105.0,45,0.0
+217602,2020-06-07,Rio Grande,Puerto Rico,72119.0,80,
+218707,2020-06-08,Rio Grande,Colorado,8105.0,46,0.0
+220694,2020-06-08,Rio Grande,Puerto Rico,72119.0,81,
+221802,2020-06-09,Rio Grande,Colorado,8105.0,47,0.0
+223789,2020-06-09,Rio Grande,Puerto Rico,72119.0,84,
+224897,2020-06-10,Rio Grande,Colorado,8105.0,48,0.0
+226889,2020-06-10,Rio Grande,Puerto Rico,72119.0,85,
+227999,2020-06-11,Rio Grande,Colorado,8105.0,51,0.0
+229993,2020-06-11,Rio Grande,Puerto Rico,72119.0,86,
+231102,2020-06-12,Rio Grande,Colorado,8105.0,53,0.0
+233098,2020-06-12,Rio Grande,Puerto Rico,72119.0,86,
+234208,2020-06-13,Rio Grande,Colorado,8105.0,53,0.0
+236203,2020-06-13,Rio Grande,Puerto Rico,72119.0,86,
+237315,2020-06-14,Rio Grande,Colorado,8105.0,53,0.0
+239311,2020-06-14,Rio Grande,Puerto Rico,72119.0,86,
+240423,2020-06-15,Rio Grande,Colorado,8105.0,54,0.0
+242420,2020-06-15,Rio Grande,Puerto Rico,72119.0,86,
+243534,2020-06-16,Rio Grande,Colorado,8105.0,55,0.0
+245532,2020-06-16,Rio Grande,Puerto Rico,72119.0,86,
+246647,2020-06-17,Rio Grande,Colorado,8105.0,57,0.0
+248645,2020-06-17,Rio Grande,Puerto Rico,72119.0,86,
+249759,2020-06-18,Rio Grande,Colorado,8105.0,57,0.0
+251760,2020-06-18,Rio Grande,Puerto Rico,72119.0,86,
+252874,2020-06-19,Rio Grande,Colorado,8105.0,62,0.0
+254875,2020-06-19,Rio Grande,Puerto Rico,72119.0,86,
+255993,2020-06-20,Rio Grande,Colorado,8105.0,63,1.0
+258001,2020-06-20,Rio Grande,Puerto Rico,72119.0,86,
+259120,2020-06-21,Rio Grande,Colorado,8105.0,64,1.0
+261128,2020-06-21,Rio Grande,Puerto Rico,72119.0,86,
+262247,2020-06-22,Rio Grande,Colorado,8105.0,65,1.0
+264256,2020-06-22,Rio Grande,Puerto Rico,72119.0,86,
+265375,2020-06-23,Rio Grande,Colorado,8105.0,66,1.0
+267384,2020-06-23,Rio Grande,Puerto Rico,72119.0,86,
+268505,2020-06-24,Rio Grande,Colorado,8105.0,67,1.0
+270518,2020-06-24,Rio Grande,Puerto Rico,72119.0,86,
+271641,2020-06-25,Rio Grande,Colorado,8105.0,70,2.0
+273657,2020-06-25,Rio Grande,Puerto Rico,72119.0,98,
+274781,2020-06-26,Rio Grande,Colorado,8105.0,72,2.0
+276804,2020-06-26,Rio Grande,Puerto Rico,72119.0,98,
+277929,2020-06-27,Rio Grande,Colorado,8105.0,73,2.0
+279952,2020-06-27,Rio Grande,Puerto Rico,72119.0,97,
+281076,2020-06-28,Rio Grande,Colorado,8105.0,73,2.0
+283098,2020-06-28,Rio Grande,Puerto Rico,72119.0,97,
+284222,2020-06-29,Rio Grande,Colorado,8105.0,74,2.0
+286243,2020-06-29,Rio Grande,Puerto Rico,72119.0,100,
+287368,2020-06-30,Rio Grande,Colorado,8105.0,76,2.0
+289394,2020-06-30,Rio Grande,Puerto Rico,72119.0,102,
+290519,2020-07-01,Rio Grande,Colorado,8105.0,76,2.0
+292546,2020-07-01,Rio Grande,Puerto Rico,72119.0,104,
+293673,2020-07-02,Rio Grande,Colorado,8105.0,78,2.0
+295702,2020-07-02,Rio Grande,Puerto Rico,72119.0,106,
+296829,2020-07-03,Rio Grande,Colorado,8105.0,79,2.0
+298861,2020-07-03,Rio Grande,Puerto Rico,72119.0,109,
+299991,2020-07-04,Rio Grande,Colorado,8105.0,79,2.0
+302025,2020-07-04,Rio Grande,Puerto Rico,72119.0,109,
+303155,2020-07-05,Rio Grande,Colorado,8105.0,80,2.0
+305188,2020-07-05,Rio Grande,Puerto Rico,72119.0,111,
+306319,2020-07-06,Rio Grande,Colorado,8105.0,80,2.0
+308355,2020-07-06,Rio Grande,Puerto Rico,72119.0,115,
+309487,2020-07-07,Rio Grande,Colorado,8105.0,80,2.0
+311524,2020-07-07,Rio Grande,Puerto Rico,72119.0,117,
+312657,2020-07-08,Rio Grande,Colorado,8105.0,80,2.0
+314696,2020-07-08,Rio Grande,Puerto Rico,72119.0,116,
+315832,2020-07-09,Rio Grande,Colorado,8105.0,80,2.0
+317869,2020-07-09,Rio Grande,Puerto Rico,72119.0,118,
+319005,2020-07-10,Rio Grande,Colorado,8105.0,80,2.0
+321047,2020-07-10,Rio Grande,Puerto Rico,72119.0,120,
+322184,2020-07-11,Rio Grande,Colorado,8105.0,80,2.0
+324227,2020-07-11,Rio Grande,Puerto Rico,72119.0,120,
+325365,2020-07-12,Rio Grande,Colorado,8105.0,81,2.0
+327412,2020-07-12,Rio Grande,Puerto Rico,72119.0,133,
+328551,2020-07-13,Rio Grande,Colorado,8105.0,81,2.0
+330598,2020-07-13,Rio Grande,Puerto Rico,72119.0,138,
+331737,2020-07-14,Rio Grande,Colorado,8105.0,82,2.0
+333790,2020-07-14,Rio Grande,Puerto Rico,72119.0,138,
+334930,2020-07-15,Rio Grande,Colorado,8105.0,83,2.0
+336984,2020-07-15,Rio Grande,Puerto Rico,72119.0,145,
+338125,2020-07-16,Rio Grande,Colorado,8105.0,82,2.0
+340181,2020-07-16,Rio Grande,Puerto Rico,72119.0,150,
+341322,2020-07-17,Rio Grande,Colorado,8105.0,82,2.0
+343379,2020-07-17,Rio Grande,Puerto Rico,72119.0,156,
+344521,2020-07-18,Rio Grande,Colorado,8105.0,82,2.0
+346579,2020-07-18,Rio Grande,Puerto Rico,72119.0,160,
+347721,2020-07-19,Rio Grande,Colorado,8105.0,84,2.0
+349779,2020-07-19,Rio Grande,Puerto Rico,72119.0,163,
+350922,2020-07-20,Rio Grande,Colorado,8105.0,84,2.0
+352982,2020-07-20,Rio Grande,Puerto Rico,72119.0,168,
+354124,2020-07-21,Rio Grande,Colorado,8105.0,84,2.0
+356185,2020-07-21,Rio Grande,Puerto Rico,72119.0,172,
+357327,2020-07-22,Rio Grande,Colorado,8105.0,84,2.0
+359389,2020-07-22,Rio Grande,Puerto Rico,72119.0,172,
+360532,2020-07-23,Rio Grande,Colorado,8105.0,84,2.0
+362595,2020-07-23,Rio Grande,Puerto Rico,72119.0,177,
+363739,2020-07-24,Rio Grande,Colorado,8105.0,86,2.0
+365801,2020-07-24,Rio Grande,Puerto Rico,72119.0,184,
+366946,2020-07-25,Rio Grande,Colorado,8105.0,87,2.0
+369010,2020-07-25,Rio Grande,Puerto Rico,72119.0,190,
+370156,2020-07-26,Rio Grande,Colorado,8105.0,87,2.0
+372222,2020-07-26,Rio Grande,Puerto Rico,72119.0,195,
+373368,2020-07-27,Rio Grande,Colorado,8105.0,87,2.0
+375435,2020-07-27,Rio Grande,Puerto Rico,72119.0,200,
+376582,2020-07-28,Rio Grande,Colorado,8105.0,87,2.0
+378651,2020-07-28,Rio Grande,Puerto Rico,72119.0,205,
+379799,2020-07-29,Rio Grande,Colorado,8105.0,87,2.0
+381868,2020-07-29,Rio Grande,Puerto Rico,72119.0,211,
+383016,2020-07-30,Rio Grande,Colorado,8105.0,87,2.0
+385086,2020-07-30,Rio Grande,Puerto Rico,72119.0,220,
+386234,2020-07-31,Rio Grande,Colorado,8105.0,87,2.0
+388303,2020-07-31,Rio Grande,Puerto Rico,72119.0,225,
+389451,2020-08-01,Rio Grande,Colorado,8105.0,87,2.0
+391520,2020-08-01,Rio Grande,Puerto Rico,72119.0,239,
+392668,2020-08-02,Rio Grande,Colorado,8105.0,87,2.0
+394736,2020-08-02,Rio Grande,Puerto Rico,72119.0,252,
+395884,2020-08-03,Rio Grande,Colorado,8105.0,87,2.0
+397953,2020-08-03,Rio Grande,Puerto Rico,72119.0,256,
+399100,2020-08-04,Rio Grande,Colorado,8105.0,87,2.0
+401168,2020-08-04,Rio Grande,Puerto Rico,72119.0,262,
+402316,2020-08-05,Rio Grande,Colorado,8105.0,88,2.0
+404386,2020-08-05,Rio Grande,Puerto Rico,72119.0,265,
+405534,2020-08-06,Rio Grande,Colorado,8105.0,89,2.0
+407605,2020-08-06,Rio Grande,Puerto Rico,72119.0,266,
+408754,2020-08-07,Rio Grande,Colorado,8105.0,89,2.0
+410825,2020-08-07,Rio Grande,Puerto Rico,72119.0,280,
+411973,2020-08-08,Rio Grande,Colorado,8105.0,89,2.0
+414045,2020-08-08,Rio Grande,Puerto Rico,72119.0,281,
+415193,2020-08-09,Rio Grande,Colorado,8105.0,89,2.0
+417266,2020-08-09,Rio Grande,Puerto Rico,72119.0,292,
+418414,2020-08-10,Rio Grande,Colorado,8105.0,89,2.0
+420486,2020-08-10,Rio Grande,Puerto Rico,72119.0,302,
+421635,2020-08-11,Rio Grande,Colorado,8105.0,89,2.0
+423709,2020-08-11,Rio Grande,Puerto Rico,72119.0,311,
+424856,2020-08-12,Rio Grande,Colorado,8105.0,91,2.0
+426932,2020-08-12,Rio Grande,Puerto Rico,72119.0,317,
+428080,2020-08-13,Rio Grande,Colorado,8105.0,91,2.0
+430157,2020-08-13,Rio Grande,Puerto Rico,72119.0,321,
+431308,2020-08-14,Rio Grande,Colorado,8105.0,92,2.0
+433383,2020-08-14,Rio Grande,Puerto Rico,72119.0,338,
+434533,2020-08-15,Rio Grande,Colorado,8105.0,92,2.0
+436610,2020-08-15,Rio Grande,Puerto Rico,72119.0,349,
+437759,2020-08-16,Rio Grande,Colorado,8105.0,92,2.0
+439835,2020-08-16,Rio Grande,Puerto Rico,72119.0,354,
+440985,2020-08-17,Rio Grande,Colorado,8105.0,92,2.0
+443062,2020-08-17,Rio Grande,Puerto Rico,72119.0,361,
+444211,2020-08-18,Rio Grande,Colorado,8105.0,92,2.0
+446288,2020-08-18,Rio Grande,Puerto Rico,72119.0,374,
+447438,2020-08-19,Rio Grande,Colorado,8105.0,93,2.0
+449516,2020-08-19,Rio Grande,Puerto Rico,72119.0,378,
+450666,2020-08-20,Rio Grande,Colorado,8105.0,93,2.0
+452744,2020-08-20,Rio Grande,Puerto Rico,72119.0,381,
+453894,2020-08-21,Rio Grande,Colorado,8105.0,94,2.0
+455972,2020-08-21,Rio Grande,Puerto Rico,72119.0,388,
+457122,2020-08-22,Rio Grande,Colorado,8105.0,94,2.0
+459200,2020-08-22,Rio Grande,Puerto Rico,72119.0,396,
+460349,2020-08-23,Rio Grande,Colorado,8105.0,94,2.0
+462428,2020-08-23,Rio Grande,Puerto Rico,72119.0,399,
+463578,2020-08-24,Rio Grande,Colorado,8105.0,94,2.0
+465657,2020-08-24,Rio Grande,Puerto Rico,72119.0,409,
+466807,2020-08-25,Rio Grande,Colorado,8105.0,94,2.0
+468885,2020-08-25,Rio Grande,Puerto Rico,72119.0,409,
+470036,2020-08-26,Rio Grande,Colorado,8105.0,94,2.0
+472117,2020-08-26,Rio Grande,Puerto Rico,72119.0,411,
+473268,2020-08-27,Rio Grande,Colorado,8105.0,94,2.0
+475351,2020-08-27,Rio Grande,Puerto Rico,72119.0,414,
+476501,2020-08-28,Rio Grande,Colorado,8105.0,94,2.0
+478584,2020-08-28,Rio Grande,Puerto Rico,72119.0,419,
+479734,2020-08-29,Rio Grande,Colorado,8105.0,94,2.0
+481818,2020-08-29,Rio Grande,Puerto Rico,72119.0,432,
+482968,2020-08-30,Rio Grande,Colorado,8105.0,94,2.0
+485053,2020-08-30,Rio Grande,Puerto Rico,72119.0,435,
+486203,2020-08-31,Rio Grande,Colorado,8105.0,94,2.0
+488286,2020-08-31,Rio Grande,Puerto Rico,72119.0,436,
+489436,2020-09-01,Rio Grande,Colorado,8105.0,94,2.0
+491519,2020-09-01,Rio Grande,Puerto Rico,72119.0,436,
+492669,2020-09-02,Rio Grande,Colorado,8105.0,94,2.0
+494753,2020-09-02,Rio Grande,Puerto Rico,72119.0,441,
+495903,2020-09-03,Rio Grande,Colorado,8105.0,94,2.0
+497986,2020-09-03,Rio Grande,Puerto Rico,72119.0,445,
+499136,2020-09-04,Rio Grande,Colorado,8105.0,94,2.0
+501220,2020-09-04,Rio Grande,Puerto Rico,72119.0,446,
+502370,2020-09-05,Rio Grande,Colorado,8105.0,94,2.0
+504454,2020-09-05,Rio Grande,Puerto Rico,72119.0,447,
+505604,2020-09-06,Rio Grande,Colorado,8105.0,94,2.0
+507686,2020-09-06,Rio Grande,Puerto Rico,72119.0,448,
+508836,2020-09-07,Rio Grande,Colorado,8105.0,94,2.0
+510919,2020-09-07,Rio Grande,Puerto Rico,72119.0,453,
+512069,2020-09-08,Rio Grande,Colorado,8105.0,94,2.0
+514152,2020-09-08,Rio Grande,Puerto Rico,72119.0,454,
+515302,2020-09-09,Rio Grande,Colorado,8105.0,94,2.0
+517387,2020-09-09,Rio Grande,Puerto Rico,72119.0,455,
+518537,2020-09-10,Rio Grande,Colorado,8105.0,94,2.0
+520623,2020-09-10,Rio Grande,Puerto Rico,72119.0,468,
+521774,2020-09-11,Rio Grande,Colorado,8105.0,95,2.0
+523859,2020-09-11,Rio Grande,Puerto Rico,72119.0,472,
+525010,2020-09-12,Rio Grande,Colorado,8105.0,95,2.0
+527095,2020-09-12,Rio Grande,Puerto Rico,72119.0,474,
+528246,2020-09-13,Rio Grande,Colorado,8105.0,95,2.0
+530332,2020-09-13,Rio Grande,Puerto Rico,72119.0,475,
+531483,2020-09-14,Rio Grande,Colorado,8105.0,95,2.0
+533567,2020-09-14,Rio Grande,Puerto Rico,72119.0,478,
+534718,2020-09-15,Rio Grande,Colorado,8105.0,95,2.0
+536803,2020-09-15,Rio Grande,Puerto Rico,72119.0,481,
+537954,2020-09-16,Rio Grande,Colorado,8105.0,95,2.0
+540040,2020-09-16,Rio Grande,Puerto Rico,72119.0,487,
+541191,2020-09-17,Rio Grande,Colorado,8105.0,95,2.0
+543276,2020-09-17,Rio Grande,Puerto Rico,72119.0,496,
+544427,2020-09-18,Rio Grande,Colorado,8105.0,95,2.0
+546513,2020-09-18,Rio Grande,Puerto Rico,72119.0,513,
+547665,2020-09-19,Rio Grande,Colorado,8105.0,95,2.0
+549752,2020-09-19,Rio Grande,Puerto Rico,72119.0,526,
+550904,2020-09-20,Rio Grande,Colorado,8105.0,95,2.0
+552991,2020-09-20,Rio Grande,Puerto Rico,72119.0,531,
+554143,2020-09-21,Rio Grande,Colorado,8105.0,95,2.0
+556228,2020-09-21,Rio Grande,Puerto Rico,72119.0,539,
+557380,2020-09-22,Rio Grande,Colorado,8105.0,95,2.0
+559465,2020-09-22,Rio Grande,Puerto Rico,72119.0,544,
+560616,2020-09-23,Rio Grande,Colorado,8105.0,96,2.0
+562702,2020-09-23,Rio Grande,Puerto Rico,72119.0,544,
+563856,2020-09-24,Rio Grande,Colorado,8105.0,96,2.0
+565943,2020-09-24,Rio Grande,Puerto Rico,72119.0,558,
+567096,2020-09-25,Rio Grande,Colorado,8105.0,96,2.0
+569184,2020-09-25,Rio Grande,Puerto Rico,72119.0,583,
+570338,2020-09-26,Rio Grande,Colorado,8105.0,96,2.0
+572426,2020-09-26,Rio Grande,Puerto Rico,72119.0,587,
+573580,2020-09-27,Rio Grande,Colorado,8105.0,96,2.0
+575670,2020-09-27,Rio Grande,Puerto Rico,72119.0,597,
+576823,2020-09-28,Rio Grande,Colorado,8105.0,96,2.0
+578911,2020-09-28,Rio Grande,Puerto Rico,72119.0,607,
+580064,2020-09-29,Rio Grande,Colorado,8105.0,96,2.0
+582151,2020-09-29,Rio Grande,Puerto Rico,72119.0,616,
+583303,2020-09-30,Rio Grande,Colorado,8105.0,96,2.0
+585391,2020-09-30,Rio Grande,Puerto Rico,72119.0,618,
+586543,2020-10-01,Rio Grande,Colorado,8105.0,96,2.0
+588631,2020-10-01,Rio Grande,Puerto Rico,72119.0,624,
+589784,2020-10-02,Rio Grande,Colorado,8105.0,96,2.0
+591872,2020-10-02,Rio Grande,Puerto Rico,72119.0,635,
+593024,2020-10-03,Rio Grande,Colorado,8105.0,98,2.0
+595113,2020-10-03,Rio Grande,Puerto Rico,72119.0,642,
+596266,2020-10-04,Rio Grande,Colorado,8105.0,99,2.0
+598356,2020-10-04,Rio Grande,Puerto Rico,72119.0,652,
+599509,2020-10-05,Rio Grande,Colorado,8105.0,99,2.0
+601599,2020-10-05,Rio Grande,Puerto Rico,72119.0,658,
+602752,2020-10-06,Rio Grande,Colorado,8105.0,99,2.0
+604841,2020-10-06,Rio Grande,Puerto Rico,72119.0,667,
+605994,2020-10-07,Rio Grande,Colorado,8105.0,99,2.0
+608084,2020-10-07,Rio Grande,Puerto Rico,72119.0,667,
+609237,2020-10-08,Rio Grande,Colorado,8105.0,99,2.0
+611326,2020-10-08,Rio Grande,Puerto Rico,72119.0,676,
+612479,2020-10-09,Rio Grande,Colorado,8105.0,102,2.0
+614567,2020-10-09,Rio Grande,Puerto Rico,72119.0,683,
+615720,2020-10-10,Rio Grande,Colorado,8105.0,102,2.0
+617809,2020-10-10,Rio Grande,Puerto Rico,72119.0,688,
+618962,2020-10-11,Rio Grande,Colorado,8105.0,103,2.0
+621052,2020-10-11,Rio Grande,Puerto Rico,72119.0,693,
+622205,2020-10-12,Rio Grande,Colorado,8105.0,106,2.0
+624295,2020-10-12,Rio Grande,Puerto Rico,72119.0,696,
+625448,2020-10-13,Rio Grande,Colorado,8105.0,109,2.0
+627537,2020-10-13,Rio Grande,Puerto Rico,72119.0,697,
+628691,2020-10-14,Rio Grande,Colorado,8105.0,110,2.0
+630781,2020-10-14,Rio Grande,Puerto Rico,72119.0,709,
+631935,2020-10-15,Rio Grande,Colorado,8105.0,112,2.0
+634026,2020-10-15,Rio Grande,Puerto Rico,72119.0,715,
+635181,2020-10-16,Rio Grande,Colorado,8105.0,112,2.0
+637272,2020-10-16,Rio Grande,Puerto Rico,72119.0,722,
+638426,2020-10-17,Rio Grande,Colorado,8105.0,114,2.0
+640518,2020-10-17,Rio Grande,Puerto Rico,72119.0,728,
+641673,2020-10-18,Rio Grande,Colorado,8105.0,114,2.0
+643766,2020-10-18,Rio Grande,Puerto Rico,72119.0,741,
+644921,2020-10-19,Rio Grande,Colorado,8105.0,115,2.0
+647012,2020-10-19,Rio Grande,Puerto Rico,72119.0,745,
+648166,2020-10-20,Rio Grande,Colorado,8105.0,115,2.0
+650256,2020-10-20,Rio Grande,Puerto Rico,72119.0,759,
+651410,2020-10-21,Rio Grande,Colorado,8105.0,115,2.0
+653501,2020-10-21,Rio Grande,Puerto Rico,72119.0,771,
+654655,2020-10-22,Rio Grande,Colorado,8105.0,115,3.0
+656746,2020-10-22,Rio Grande,Puerto Rico,72119.0,780,
+657900,2020-10-23,Rio Grande,Colorado,8105.0,116,3.0
+659990,2020-10-23,Rio Grande,Puerto Rico,72119.0,802,
+661144,2020-10-24,Rio Grande,Colorado,8105.0,118,3.0
+663234,2020-10-24,Rio Grande,Puerto Rico,72119.0,804,
+664388,2020-10-25,Rio Grande,Colorado,8105.0,120,3.0
+666479,2020-10-25,Rio Grande,Puerto Rico,72119.0,825,
+667633,2020-10-26,Rio Grande,Colorado,8105.0,121,3.0
+669723,2020-10-26,Rio Grande,Puerto Rico,72119.0,840,
+670876,2020-10-27,Rio Grande,Colorado,8105.0,122,3.0
+672965,2020-10-27,Rio Grande,Puerto Rico,72119.0,846,
+674118,2020-10-28,Rio Grande,Colorado,8105.0,122,3.0
+676208,2020-10-28,Rio Grande,Puerto Rico,72119.0,847,
+677361,2020-10-29,Rio Grande,Colorado,8105.0,124,3.0
+679451,2020-10-29,Rio Grande,Puerto Rico,72119.0,862,
+680604,2020-10-30,Rio Grande,Colorado,8105.0,127,3.0
+682694,2020-10-30,Rio Grande,Puerto Rico,72119.0,868,
+683847,2020-10-31,Rio Grande,Colorado,8105.0,131,3.0
+685937,2020-10-31,Rio Grande,Puerto Rico,72119.0,874,
+687091,2020-11-01,Rio Grande,Colorado,8105.0,132,3.0
+689182,2020-11-01,Rio Grande,Puerto Rico,72119.0,885,
+690336,2020-11-02,Rio Grande,Colorado,8105.0,132,3.0
+692426,2020-11-02,Rio Grande,Puerto Rico,72119.0,900,
+693579,2020-11-03,Rio Grande,Colorado,8105.0,133,3.0
+695668,2020-11-03,Rio Grande,Puerto Rico,72119.0,909,
+696821,2020-11-04,Rio Grande,Colorado,8105.0,133,3.0
+698911,2020-11-04,Rio Grande,Puerto Rico,72119.0,909,
+700065,2020-11-05,Rio Grande,Colorado,8105.0,137,3.0
+702155,2020-11-05,Rio Grande,Puerto Rico,72119.0,919,
+703308,2020-11-06,Rio Grande,Colorado,8105.0,142,3.0
+705398,2020-11-06,Rio Grande,Puerto Rico,72119.0,929,
+706551,2020-11-07,Rio Grande,Colorado,8105.0,143,3.0
+708641,2020-11-07,Rio Grande,Puerto Rico,72119.0,929,
+709795,2020-11-08,Rio Grande,Colorado,8105.0,144,3.0
+711885,2020-11-08,Rio Grande,Puerto Rico,72119.0,941,
+713039,2020-11-09,Rio Grande,Colorado,8105.0,147,3.0
+715129,2020-11-09,Rio Grande,Puerto Rico,72119.0,945,
+716283,2020-11-10,Rio Grande,Colorado,8105.0,147,4.0
+718372,2020-11-10,Rio Grande,Puerto Rico,72119.0,946,
+719526,2020-11-11,Rio Grande,Colorado,8105.0,149,4.0
+721615,2020-11-11,Rio Grande,Puerto Rico,72119.0,949,
+722769,2020-11-12,Rio Grande,Colorado,8105.0,150,4.0
+724858,2020-11-12,Rio Grande,Puerto Rico,72119.0,958,
+726012,2020-11-13,Rio Grande,Colorado,8105.0,162,4.0
+728102,2020-11-13,Rio Grande,Puerto Rico,72119.0,968,
+729255,2020-11-14,Rio Grande,Colorado,8105.0,167,4.0
+731346,2020-11-14,Rio Grande,Puerto Rico,72119.0,976,
+732500,2020-11-15,Rio Grande,Colorado,8105.0,174,4.0
+734592,2020-11-15,Rio Grande,Puerto Rico,72119.0,987,
+735746,2020-11-16,Rio Grande,Colorado,8105.0,177,4.0
+737836,2020-11-16,Rio Grande,Puerto Rico,72119.0,990,
+738990,2020-11-17,Rio Grande,Colorado,8105.0,179,4.0
+741082,2020-11-17,Rio Grande,Puerto Rico,72119.0,992,
+742237,2020-11-18,Rio Grande,Colorado,8105.0,180,4.0
+744329,2020-11-18,Rio Grande,Puerto Rico,72119.0,992,
+745484,2020-11-19,Rio Grande,Colorado,8105.0,185,4.0
+747575,2020-11-19,Rio Grande,Puerto Rico,72119.0,999,
+748730,2020-11-20,Rio Grande,Colorado,8105.0,188,4.0
+750821,2020-11-20,Rio Grande,Puerto Rico,72119.0,1008,
+751976,2020-11-21,Rio Grande,Colorado,8105.0,200,4.0
+754067,2020-11-21,Rio Grande,Puerto Rico,72119.0,1019,
+755222,2020-11-22,Rio Grande,Colorado,8105.0,204,4.0
+757314,2020-11-22,Rio Grande,Puerto Rico,72119.0,1024,
+758469,2020-11-23,Rio Grande,Colorado,8105.0,204,4.0
+760559,2020-11-23,Rio Grande,Puerto Rico,72119.0,1025,
+761714,2020-11-24,Rio Grande,Colorado,8105.0,205,4.0
+763804,2020-11-24,Rio Grande,Puerto Rico,72119.0,1029,
+764959,2020-11-25,Rio Grande,Colorado,8105.0,208,4.0
+767049,2020-11-25,Rio Grande,Puerto Rico,72119.0,1030,
+768205,2020-11-26,Rio Grande,Colorado,8105.0,216,4.0
+770295,2020-11-26,Rio Grande,Puerto Rico,72119.0,1037,
+771450,2020-11-27,Rio Grande,Colorado,8105.0,224,4.0
+773540,2020-11-27,Rio Grande,Puerto Rico,72119.0,1043,
+774695,2020-11-28,Rio Grande,Colorado,8105.0,226,4.0
+776785,2020-11-28,Rio Grande,Puerto Rico,72119.0,1049,
+777940,2020-11-29,Rio Grande,Colorado,8105.0,232,4.0
+780031,2020-11-29,Rio Grande,Puerto Rico,72119.0,1049,
+781186,2020-11-30,Rio Grande,Colorado,8105.0,239,4.0
+783276,2020-11-30,Rio Grande,Puerto Rico,72119.0,1058,
+784431,2020-12-01,Rio Grande,Colorado,8105.0,243,4.0
+786520,2020-12-01,Rio Grande,Puerto Rico,72119.0,1064,
+787675,2020-12-02,Rio Grande,Colorado,8105.0,244,4.0
+789765,2020-12-02,Rio Grande,Puerto Rico,72119.0,1066,
+790920,2020-12-03,Rio Grande,Colorado,8105.0,251,5.0
+793010,2020-12-03,Rio Grande,Puerto Rico,72119.0,1084,
+794165,2020-12-04,Rio Grande,Colorado,8105.0,255,5.0
+796255,2020-12-04,Rio Grande,Puerto Rico,72119.0,1092,
+797410,2020-12-05,Rio Grande,Colorado,8105.0,264,5.0
+799500,2020-12-05,Rio Grande,Puerto Rico,72119.0,1110,
+800655,2020-12-06,Rio Grande,Colorado,8105.0,273,5.0
+802745,2020-12-06,Rio Grande,Puerto Rico,72119.0,1121,
+803900,2020-12-07,Rio Grande,Colorado,8105.0,275,5.0
+805990,2020-12-07,Rio Grande,Puerto Rico,72119.0,1132,
+807145,2020-12-08,Rio Grande,Colorado,8105.0,275,5.0
+809235,2020-12-08,Rio Grande,Puerto Rico,72119.0,1135,
+810390,2020-12-09,Rio Grande,Colorado,8105.0,278,5.0
+812479,2020-12-09,Rio Grande,Puerto Rico,72119.0,1144,
+813634,2020-12-10,Rio Grande,Colorado,8105.0,282,5.0
+815725,2020-12-10,Rio Grande,Puerto Rico,72119.0,1161,
+816880,2020-12-11,Rio Grande,Colorado,8105.0,292,5.0
+818971,2020-12-11,Rio Grande,Puerto Rico,72119.0,1171,
+820126,2020-12-12,Rio Grande,Colorado,8105.0,295,5.0
+822217,2020-12-12,Rio Grande,Puerto Rico,72119.0,1175,
+823372,2020-12-13,Rio Grande,Colorado,8105.0,299,5.0
+825464,2020-12-13,Rio Grande,Puerto Rico,72119.0,1184,
+826619,2020-12-14,Rio Grande,Colorado,8105.0,299,5.0
+828710,2020-12-14,Rio Grande,Puerto Rico,72119.0,1193,
+829865,2020-12-15,Rio Grande,Colorado,8105.0,300,5.0
+831957,2020-12-15,Rio Grande,Puerto Rico,72119.0,1201,
+833112,2020-12-16,Rio Grande,Colorado,8105.0,301,5.0
+835203,2020-12-16,Rio Grande,Puerto Rico,72119.0,1202,
+836358,2020-12-17,Rio Grande,Colorado,8105.0,316,5.0
+838449,2020-12-17,Rio Grande,Puerto Rico,72119.0,1210,
+839603,2020-12-18,Rio Grande,Colorado,8105.0,342,5.0
+841694,2020-12-18,Rio Grande,Puerto Rico,72119.0,1217,
+842848,2020-12-19,Rio Grande,Colorado,8105.0,356,5.0
+844940,2020-12-19,Rio Grande,Puerto Rico,72119.0,1229,
+846094,2020-12-20,Rio Grande,Colorado,8105.0,358,5.0
+848185,2020-12-20,Rio Grande,Puerto Rico,72119.0,1261,
+849339,2020-12-21,Rio Grande,Colorado,8105.0,358,5.0
+851430,2020-12-21,Rio Grande,Puerto Rico,72119.0,1262,
+852584,2020-12-22,Rio Grande,Colorado,8105.0,359,5.0
+854675,2020-12-22,Rio Grande,Puerto Rico,72119.0,1288,
+855829,2020-12-23,Rio Grande,Colorado,8105.0,369,5.0
+857920,2020-12-23,Rio Grande,Puerto Rico,72119.0,1316,
+859074,2020-12-24,Rio Grande,Colorado,8105.0,370,5.0
+861165,2020-12-24,Rio Grande,Puerto Rico,72119.0,1319,
+862319,2020-12-25,Rio Grande,Colorado,8105.0,371,5.0
+864410,2020-12-25,Rio Grande,Puerto Rico,72119.0,1323,
+865564,2020-12-26,Rio Grande,Colorado,8105.0,371,5.0
+867655,2020-12-26,Rio Grande,Puerto Rico,72119.0,1340,
+868809,2020-12-27,Rio Grande,Colorado,8105.0,373,5.0
+870900,2020-12-27,Rio Grande,Puerto Rico,72119.0,1345,
+872054,2020-12-28,Rio Grande,Colorado,8105.0,373,5.0
+874145,2020-12-28,Rio Grande,Puerto Rico,72119.0,1352,
+875299,2020-12-29,Rio Grande,Colorado,8105.0,378,6.0
+877390,2020-12-29,Rio Grande,Puerto Rico,72119.0,1368,
+878544,2020-12-30,Rio Grande,Colorado,8105.0,378,6.0
+880635,2020-12-30,Rio Grande,Puerto Rico,72119.0,1373,
+881789,2020-12-31,Rio Grande,Colorado,8105.0,384,7.0
+883880,2020-12-31,Rio Grande,Puerto Rico,72119.0,1382,
+885034,2021-01-01,Rio Grande,Colorado,8105.0,393,7.0
+887125,2021-01-01,Rio Grande,Puerto Rico,72119.0,1386,
+888279,2021-01-02,Rio Grande,Colorado,8105.0,395,7.0
+890372,2021-01-02,Rio Grande,Puerto Rico,72119.0,1401,
+891526,2021-01-03,Rio Grande,Colorado,8105.0,395,7.0
+893618,2021-01-03,Rio Grande,Puerto Rico,72119.0,1401,
+894773,2021-01-04,Rio Grande,Colorado,8105.0,397,7.0
+896864,2021-01-04,Rio Grande,Puerto Rico,72119.0,1409,
+898018,2021-01-05,Rio Grande,Colorado,8105.0,404,8.0
+900109,2021-01-05,Rio Grande,Puerto Rico,72119.0,1420,
+901263,2021-01-06,Rio Grande,Colorado,8105.0,404,8.0
+903354,2021-01-06,Rio Grande,Puerto Rico,72119.0,1456,
+904508,2021-01-07,Rio Grande,Colorado,8105.0,430,8.0
+906600,2021-01-07,Rio Grande,Puerto Rico,72119.0,1471,
+907754,2021-01-08,Rio Grande,Colorado,8105.0,452,8.0
+909845,2021-01-08,Rio Grande,Puerto Rico,72119.0,1494,
+910999,2021-01-09,Rio Grande,Colorado,8105.0,498,8.0
+913090,2021-01-09,Rio Grande,Puerto Rico,72119.0,1500,
+914244,2021-01-10,Rio Grande,Colorado,8105.0,500,8.0
+916335,2021-01-10,Rio Grande,Puerto Rico,72119.0,1517,
+917489,2021-01-11,Rio Grande,Colorado,8105.0,502,8.0
+919580,2021-01-11,Rio Grande,Puerto Rico,72119.0,1520,
+920734,2021-01-12,Rio Grande,Colorado,8105.0,503,9.0
+922825,2021-01-12,Rio Grande,Puerto Rico,72119.0,1533,
+923979,2021-01-13,Rio Grande,Colorado,8105.0,521,9.0
+926071,2021-01-13,Rio Grande,Puerto Rico,72119.0,1536,
+927225,2021-01-14,Rio Grande,Colorado,8105.0,521,9.0
+929316,2021-01-14,Rio Grande,Puerto Rico,72119.0,1540,
+930470,2021-01-15,Rio Grande,Colorado,8105.0,527,9.0
+932561,2021-01-15,Rio Grande,Puerto Rico,72119.0,1551,
+933715,2021-01-16,Rio Grande,Colorado,8105.0,544,9.0
+935806,2021-01-16,Rio Grande,Puerto Rico,72119.0,1565,
+936960,2021-01-17,Rio Grande,Colorado,8105.0,552,10.0
+939051,2021-01-17,Rio Grande,Puerto Rico,72119.0,1571,
+940205,2021-01-18,Rio Grande,Colorado,8105.0,553,10.0
+942296,2021-01-18,Rio Grande,Puerto Rico,72119.0,1584,
+943450,2021-01-19,Rio Grande,Colorado,8105.0,556,10.0
+945543,2021-01-19,Rio Grande,Puerto Rico,72119.0,1595,
+946697,2021-01-20,Rio Grande,Colorado,8105.0,560,10.0
+948789,2021-01-20,Rio Grande,Puerto Rico,72119.0,1600,
+949943,2021-01-21,Rio Grande,Colorado,8105.0,560,11.0
+952034,2021-01-21,Rio Grande,Puerto Rico,72119.0,1609,
+953188,2021-01-22,Rio Grande,Colorado,8105.0,563,10.0
+955279,2021-01-22,Rio Grande,Puerto Rico,72119.0,1626,
+956433,2021-01-23,Rio Grande,Colorado,8105.0,586,10.0
+958525,2021-01-23,Rio Grande,Puerto Rico,72119.0,1633,
+959679,2021-01-24,Rio Grande,Colorado,8105.0,587,10.0
+961770,2021-01-24,Rio Grande,Puerto Rico,72119.0,1657,
+962924,2021-01-25,Rio Grande,Colorado,8105.0,587,10.0
+965015,2021-01-25,Rio Grande,Puerto Rico,72119.0,1661,
+966169,2021-01-26,Rio Grande,Colorado,8105.0,590,10.0
+968259,2021-01-26,Rio Grande,Puerto Rico,72119.0,1667,
+969413,2021-01-27,Rio Grande,Colorado,8105.0,608,10.0
+971504,2021-01-27,Rio Grande,Puerto Rico,72119.0,1670,
+972658,2021-01-28,Rio Grande,Colorado,8105.0,616,10.0
+974749,2021-01-28,Rio Grande,Puerto Rico,72119.0,1672,
+975903,2021-01-29,Rio Grande,Colorado,8105.0,621,10.0
+977994,2021-01-29,Rio Grande,Puerto Rico,72119.0,1680,
+979148,2021-01-30,Rio Grande,Colorado,8105.0,621,10.0
+981240,2021-01-30,Rio Grande,Puerto Rico,72119.0,1683,
+982394,2021-01-31,Rio Grande,Colorado,8105.0,621,10.0
+984487,2021-01-31,Rio Grande,Puerto Rico,72119.0,1691,
+985641,2021-02-01,Rio Grande,Colorado,8105.0,624,10.0
+987734,2021-02-01,Rio Grande,Puerto Rico,72119.0,1692,
+988888,2021-02-02,Rio Grande,Colorado,8105.0,626,10.0
+990980,2021-02-02,Rio Grande,Puerto Rico,72119.0,1694,
+992134,2021-02-03,Rio Grande,Colorado,8105.0,640,10.0
+994226,2021-02-03,Rio Grande,Puerto Rico,72119.0,1696,
+995380,2021-02-04,Rio Grande,Colorado,8105.0,640,10.0
+997472,2021-02-04,Rio Grande,Puerto Rico,72119.0,1697,
+998626,2021-02-05,Rio Grande,Colorado,8105.0,641,10.0
+1000718,2021-02-05,Rio Grande,Puerto Rico,72119.0,1700,
+1001872,2021-02-06,Rio Grande,Colorado,8105.0,643,10.0
+1003964,2021-02-06,Rio Grande,Puerto Rico,72119.0,1705,
+1005118,2021-02-07,Rio Grande,Colorado,8105.0,645,10.0
+1007210,2021-02-07,Rio Grande,Puerto Rico,72119.0,1709,
+1008364,2021-02-08,Rio Grande,Colorado,8105.0,645,10.0
+1010456,2021-02-08,Rio Grande,Puerto Rico,72119.0,1721,
+1011610,2021-02-09,Rio Grande,Colorado,8105.0,645,10.0
+1013701,2021-02-09,Rio Grande,Puerto Rico,72119.0,1725,
+1014855,2021-02-10,Rio Grande,Colorado,8105.0,645,10.0
+1016946,2021-02-10,Rio Grande,Puerto Rico,72119.0,1725,
+1018100,2021-02-11,Rio Grande,Colorado,8105.0,650,10.0
+1020191,2021-02-11,Rio Grande,Puerto Rico,72119.0,1726,
+1021345,2021-02-12,Rio Grande,Colorado,8105.0,662,10.0
+1023436,2021-02-12,Rio Grande,Puerto Rico,72119.0,1731,
+1024590,2021-02-13,Rio Grande,Colorado,8105.0,664,11.0
+1026681,2021-02-13,Rio Grande,Puerto Rico,72119.0,1741,
+1027835,2021-02-14,Rio Grande,Colorado,8105.0,665,12.0
+1029928,2021-02-14,Rio Grande,Puerto Rico,72119.0,1742,
+1031082,2021-02-15,Rio Grande,Colorado,8105.0,665,12.0
+1033174,2021-02-15,Rio Grande,Puerto Rico,72119.0,1746,
+1034328,2021-02-16,Rio Grande,Colorado,8105.0,668,12.0
+1036419,2021-02-16,Rio Grande,Puerto Rico,72119.0,1752,
+1037573,2021-02-17,Rio Grande,Colorado,8105.0,673,12.0
+1039664,2021-02-17,Rio Grande,Puerto Rico,72119.0,1752,
+1040818,2021-02-18,Rio Grande,Colorado,8105.0,674,12.0
+1042909,2021-02-18,Rio Grande,Puerto Rico,72119.0,1753,
+1044063,2021-02-19,Rio Grande,Colorado,8105.0,675,12.0
+1046154,2021-02-19,Rio Grande,Puerto Rico,72119.0,1753,
+1047308,2021-02-20,Rio Grande,Colorado,8105.0,680,12.0
+1049401,2021-02-20,Rio Grande,Puerto Rico,72119.0,1762,
+1050555,2021-02-21,Rio Grande,Colorado,8105.0,683,12.0
+1052648,2021-02-21,Rio Grande,Puerto Rico,72119.0,1765,
+1053802,2021-02-22,Rio Grande,Colorado,8105.0,685,12.0
+1055894,2021-02-22,Rio Grande,Puerto Rico,72119.0,1765,
+1057048,2021-02-23,Rio Grande,Colorado,8105.0,689,12.0
+1059140,2021-02-23,Rio Grande,Puerto Rico,72119.0,1771,
+1060294,2021-02-24,Rio Grande,Colorado,8105.0,690,12.0
+1062385,2021-02-24,Rio Grande,Puerto Rico,72119.0,1771,
+1063539,2021-02-25,Rio Grande,Colorado,8105.0,692,12.0
+1065630,2021-02-25,Rio Grande,Puerto Rico,72119.0,1774,
+1066784,2021-02-26,Rio Grande,Colorado,8105.0,692,12.0
+1068875,2021-02-26,Rio Grande,Puerto Rico,72119.0,1776,
+1070029,2021-02-27,Rio Grande,Colorado,8105.0,701,13.0
+1072121,2021-02-27,Rio Grande,Puerto Rico,72119.0,1777,
+1073275,2021-02-28,Rio Grande,Colorado,8105.0,701,13.0
+1075367,2021-02-28,Rio Grande,Puerto Rico,72119.0,1784,
+1076521,2021-03-01,Rio Grande,Colorado,8105.0,702,13.0
+1078612,2021-03-01,Rio Grande,Puerto Rico,72119.0,1787,
+1079766,2021-03-02,Rio Grande,Colorado,8105.0,705,13.0
+1081858,2021-03-02,Rio Grande,Puerto Rico,72119.0,1787,
+1083012,2021-03-03,Rio Grande,Colorado,8105.0,708,13.0
+1085104,2021-03-03,Rio Grande,Puerto Rico,72119.0,1787,
+1086258,2021-03-04,Rio Grande,Colorado,8105.0,713,13.0
+1088349,2021-03-04,Rio Grande,Puerto Rico,72119.0,1789,
+1089503,2021-03-05,Rio Grande,Colorado,8105.0,715,13.0
+1091595,2021-03-05,Rio Grande,Puerto Rico,72119.0,1794,
+1092749,2021-03-06,Rio Grande,Colorado,8105.0,724,13.0
+1094841,2021-03-06,Rio Grande,Puerto Rico,72119.0,1798,
+1095995,2021-03-07,Rio Grande,Colorado,8105.0,724,13.0
+1098089,2021-03-07,Rio Grande,Puerto Rico,72119.0,1798,
+1099243,2021-03-08,Rio Grande,Colorado,8105.0,725,13.0
+1101335,2021-03-08,Rio Grande,Puerto Rico,72119.0,1805,
+1102489,2021-03-09,Rio Grande,Colorado,8105.0,726,13.0
+1104581,2021-03-09,Rio Grande,Puerto Rico,72119.0,1807,
+1105735,2021-03-10,Rio Grande,Colorado,8105.0,729,13.0
+1107827,2021-03-10,Rio Grande,Puerto Rico,72119.0,1807,
+1108981,2021-03-11,Rio Grande,Colorado,8105.0,730,13.0
+1111073,2021-03-11,Rio Grande,Puerto Rico,72119.0,1808,
+1112227,2021-03-12,Rio Grande,Colorado,8105.0,733,13.0
+1114319,2021-03-12,Rio Grande,Puerto Rico,72119.0,1814,
+1115473,2021-03-13,Rio Grande,Colorado,8105.0,735,13.0
+1117566,2021-03-13,Rio Grande,Puerto Rico,72119.0,1815,
+1118720,2021-03-14,Rio Grande,Colorado,8105.0,736,13.0
+1120813,2021-03-14,Rio Grande,Puerto Rico,72119.0,1822,
+1121967,2021-03-15,Rio Grande,Colorado,8105.0,736,13.0
+1124059,2021-03-15,Rio Grande,Puerto Rico,72119.0,1823,
+1125213,2021-03-16,Rio Grande,Colorado,8105.0,737,13.0
+1127305,2021-03-16,Rio Grande,Puerto Rico,72119.0,1829,
+1128459,2021-03-17,Rio Grande,Colorado,8105.0,737,13.0
+1130552,2021-03-17,Rio Grande,Puerto Rico,72119.0,1829,
+1131707,2021-03-18,Rio Grande,Colorado,8105.0,738,13.0
+1133800,2021-03-18,Rio Grande,Puerto Rico,72119.0,1830,
+1134954,2021-03-19,Rio Grande,Colorado,8105.0,742,13.0
+1137046,2021-03-19,Rio Grande,Puerto Rico,72119.0,1830,
+1138200,2021-03-20,Rio Grande,Colorado,8105.0,746,13.0
+1140292,2021-03-20,Rio Grande,Puerto Rico,72119.0,1830,
+1141446,2021-03-21,Rio Grande,Colorado,8105.0,746,13.0
+1143539,2021-03-21,Rio Grande,Puerto Rico,72119.0,1833,
+1144693,2021-03-22,Rio Grande,Colorado,8105.0,746,13.0
+1146786,2021-03-22,Rio Grande,Puerto Rico,72119.0,1838,
+1147940,2021-03-23,Rio Grande,Colorado,8105.0,750,13.0
+1150033,2021-03-23,Rio Grande,Puerto Rico,72119.0,1841,
+1151187,2021-03-24,Rio Grande,Colorado,8105.0,751,13.0
+1153280,2021-03-24,Rio Grande,Puerto Rico,72119.0,1842,
+1154434,2021-03-25,Rio Grande,Colorado,8105.0,752,13.0
+1156527,2021-03-25,Rio Grande,Puerto Rico,72119.0,1844,
+1157681,2021-03-26,Rio Grande,Colorado,8105.0,752,13.0
+1159774,2021-03-26,Rio Grande,Puerto Rico,72119.0,1847,
+1160929,2021-03-27,Rio Grande,Colorado,8105.0,752,13.0
+1163023,2021-03-27,Rio Grande,Puerto Rico,72119.0,1859,
+1164177,2021-03-28,Rio Grande,Colorado,8105.0,753,13.0
+1166271,2021-03-28,Rio Grande,Puerto Rico,72119.0,1861,
+1167425,2021-03-29,Rio Grande,Colorado,8105.0,753,13.0
+1169519,2021-03-29,Rio Grande,Puerto Rico,72119.0,1881,
+1170673,2021-03-30,Rio Grande,Colorado,8105.0,754,13.0
+1172766,2021-03-30,Rio Grande,Puerto Rico,72119.0,1886,
+1173920,2021-03-31,Rio Grande,Colorado,8105.0,756,13.0
+1176013,2021-03-31,Rio Grande,Puerto Rico,72119.0,1888,
+1177167,2021-04-01,Rio Grande,Colorado,8105.0,758,13.0
+1179260,2021-04-01,Rio Grande,Puerto Rico,72119.0,1893,
+1180414,2021-04-02,Rio Grande,Colorado,8105.0,758,13.0
+1182507,2021-04-02,Rio Grande,Puerto Rico,72119.0,1904,
+1183661,2021-04-03,Rio Grande,Colorado,8105.0,758,13.0
+1185754,2021-04-03,Rio Grande,Puerto Rico,72119.0,1914,
+1186908,2021-04-04,Rio Grande,Colorado,8105.0,758,14.0
+1189001,2021-04-04,Rio Grande,Puerto Rico,72119.0,1921,
+1190155,2021-04-05,Rio Grande,Colorado,8105.0,758,14.0
+1192250,2021-04-05,Rio Grande,Puerto Rico,72119.0,1943,
+1193405,2021-04-06,Rio Grande,Colorado,8105.0,760,14.0
+1195498,2021-04-06,Rio Grande,Puerto Rico,72119.0,1945,
+1196653,2021-04-07,Rio Grande,Colorado,8105.0,760,14.0
+1198747,2021-04-07,Rio Grande,Puerto Rico,72119.0,1947,
+1199902,2021-04-08,Rio Grande,Colorado,8105.0,763,14.0
+1201996,2021-04-08,Rio Grande,Puerto Rico,72119.0,1953,
+1203150,2021-04-09,Rio Grande,Colorado,8105.0,765,14.0
+1205244,2021-04-09,Rio Grande,Puerto Rico,72119.0,1971,
+1206398,2021-04-10,Rio Grande,Colorado,8105.0,767,14.0
+1208492,2021-04-10,Rio Grande,Puerto Rico,72119.0,1991,
+1209647,2021-04-11,Rio Grande,Colorado,8105.0,767,14.0
+1211741,2021-04-11,Rio Grande,Puerto Rico,72119.0,2006,
+1212895,2021-04-12,Rio Grande,Colorado,8105.0,767,14.0
+1214988,2021-04-12,Rio Grande,Puerto Rico,72119.0,2034,
+1216142,2021-04-13,Rio Grande,Colorado,8105.0,771,14.0
+1218236,2021-04-13,Rio Grande,Puerto Rico,72119.0,2051,
+1219390,2021-04-14,Rio Grande,Colorado,8105.0,772,14.0
+1221484,2021-04-14,Rio Grande,Puerto Rico,72119.0,2058,
+1222638,2021-04-15,Rio Grande,Colorado,8105.0,773,14.0
+1224731,2021-04-15,Rio Grande,Puerto Rico,72119.0,2073,
+1225885,2021-04-16,Rio Grande,Colorado,8105.0,774,14.0
+1227979,2021-04-16,Rio Grande,Puerto Rico,72119.0,2111,
+1229133,2021-04-17,Rio Grande,Colorado,8105.0,774,14.0
+1231227,2021-04-17,Rio Grande,Puerto Rico,72119.0,2150,
+1232382,2021-04-18,Rio Grande,Colorado,8105.0,774,14.0
+1234475,2021-04-18,Rio Grande,Puerto Rico,72119.0,2167,
+1235629,2021-04-19,Rio Grande,Colorado,8105.0,774,14.0
+1237722,2021-04-19,Rio Grande,Puerto Rico,72119.0,2191,
+1238876,2021-04-20,Rio Grande,Colorado,8105.0,777,14.0
+1240969,2021-04-20,Rio Grande,Puerto Rico,72119.0,2212,
+1242123,2021-04-21,Rio Grande,Colorado,8105.0,779,14.0
+1244216,2021-04-21,Rio Grande,Puerto Rico,72119.0,2214,
+1245370,2021-04-22,Rio Grande,Colorado,8105.0,780,14.0
+1247463,2021-04-22,Rio Grande,Puerto Rico,72119.0,2226,
+1248617,2021-04-23,Rio Grande,Colorado,8105.0,781,14.0
+1250710,2021-04-23,Rio Grande,Puerto Rico,72119.0,2262,
+1251864,2021-04-24,Rio Grande,Colorado,8105.0,781,14.0
+1253957,2021-04-24,Rio Grande,Puerto Rico,72119.0,2290,
+1255111,2021-04-25,Rio Grande,Colorado,8105.0,781,14.0
+1257204,2021-04-25,Rio Grande,Puerto Rico,72119.0,2303,
+1258358,2021-04-26,Rio Grande,Colorado,8105.0,781,14.0
+1260451,2021-04-26,Rio Grande,Puerto Rico,72119.0,2310,
+1261605,2021-04-27,Rio Grande,Colorado,8105.0,781,14.0
+1263698,2021-04-27,Rio Grande,Puerto Rico,72119.0,2321,
+1264852,2021-04-28,Rio Grande,Colorado,8105.0,782,14.0
+1266945,2021-04-28,Rio Grande,Puerto Rico,72119.0,2325,
+1268099,2021-04-29,Rio Grande,Colorado,8105.0,783,14.0
+1270192,2021-04-29,Rio Grande,Puerto Rico,72119.0,2340,
+1271346,2021-04-30,Rio Grande,Colorado,8105.0,785,14.0
+1273439,2021-04-30,Rio Grande,Puerto Rico,72119.0,2349,
+1274593,2021-05-01,Rio Grande,Colorado,8105.0,786,14.0
+1276686,2021-05-01,Rio Grande,Puerto Rico,72119.0,2369,
+1277840,2021-05-02,Rio Grande,Colorado,8105.0,789,14.0
+1279933,2021-05-02,Rio Grande,Puerto Rico,72119.0,2381,
+1281087,2021-05-03,Rio Grande,Colorado,8105.0,789,14.0
+1283180,2021-05-03,Rio Grande,Puerto Rico,72119.0,2394,
+1284334,2021-05-04,Rio Grande,Colorado,8105.0,795,14.0
+1286426,2021-05-04,Rio Grande,Puerto Rico,72119.0,2402,
+1287580,2021-05-05,Rio Grande,Colorado,8105.0,797,14.0
+1289672,2021-05-05,Rio Grande,Puerto Rico,72119.0,2407,
+1290826,2021-05-06,Rio Grande,Colorado,8105.0,801,14.0
+1292918,2021-05-06,Rio Grande,Puerto Rico,72119.0,2409,
+1294072,2021-05-07,Rio Grande,Colorado,8105.0,800,14.0
+1296164,2021-05-07,Rio Grande,Puerto Rico,72119.0,2420,
+1297318,2021-05-08,Rio Grande,Colorado,8105.0,800,14.0
+1299411,2021-05-08,Rio Grande,Puerto Rico,72119.0,2438,
+1300565,2021-05-09,Rio Grande,Colorado,8105.0,800,14.0
+1302658,2021-05-09,Rio Grande,Puerto Rico,72119.0,2443,
+1303812,2021-05-10,Rio Grande,Colorado,8105.0,801,14.0
+1305904,2021-05-10,Rio Grande,Puerto Rico,72119.0,2452,
+1307058,2021-05-11,Rio Grande,Colorado,8105.0,801,14.0
+1309150,2021-05-11,Rio Grande,Puerto Rico,72119.0,2464,
+1310304,2021-05-12,Rio Grande,Colorado,8105.0,808,14.0
+1312397,2021-05-12,Rio Grande,Puerto Rico,72119.0,2464,
+1313551,2021-05-13,Rio Grande,Colorado,8105.0,809,14.0
+1315643,2021-05-13,Rio Grande,Puerto Rico,72119.0,2465,
+1316798,2021-05-14,Rio Grande,Colorado,8105.0,814,15.0
+1318891,2021-05-14,Rio Grande,Puerto Rico,72119.0,2475,
+1320045,2021-05-15,Rio Grande,Colorado,8105.0,818,15.0
+1322137,2021-05-15,Rio Grande,Puerto Rico,72119.0,2482,
+1323291,2021-05-16,Rio Grande,Colorado,8105.0,818,15.0
+1325383,2021-05-16,Rio Grande,Puerto Rico,72119.0,2486,
+1326537,2021-05-17,Rio Grande,Colorado,8105.0,822,15.0
+1328629,2021-05-17,Rio Grande,Puerto Rico,72119.0,2492,
+1329784,2021-05-18,Rio Grande,Colorado,8105.0,826,15.0
+1331876,2021-05-18,Rio Grande,Puerto Rico,72119.0,2493,
+1333031,2021-05-19,Rio Grande,Colorado,8105.0,826,15.0
+1335123,2021-05-19,Rio Grande,Puerto Rico,72119.0,2493,
+1336278,2021-05-20,Rio Grande,Colorado,8105.0,830,15.0
+1338370,2021-05-20,Rio Grande,Puerto Rico,72119.0,2493,
+1339525,2021-05-21,Rio Grande,Colorado,8105.0,834,16.0
+1341618,2021-05-21,Rio Grande,Puerto Rico,72119.0,2499,
+1342773,2021-05-22,Rio Grande,Colorado,8105.0,835,16.0
+1344866,2021-05-22,Rio Grande,Puerto Rico,72119.0,2503,
+1346021,2021-05-23,Rio Grande,Colorado,8105.0,835,16.0
+1348114,2021-05-23,Rio Grande,Puerto Rico,72119.0,2507,
+1349268,2021-05-24,Rio Grande,Colorado,8105.0,838,16.0
+1351360,2021-05-24,Rio Grande,Puerto Rico,72119.0,2518,
+1352514,2021-05-25,Rio Grande,Colorado,8105.0,838,16.0
+1354606,2021-05-25,Rio Grande,Puerto Rico,72119.0,2518,
+1355760,2021-05-26,Rio Grande,Colorado,8105.0,840,16.0
+1357852,2021-05-26,Rio Grande,Puerto Rico,72119.0,2518,
+1359006,2021-05-27,Rio Grande,Colorado,8105.0,841,16.0
+1361098,2021-05-27,Rio Grande,Puerto Rico,72119.0,2525,
+1362253,2021-05-28,Rio Grande,Colorado,8105.0,842,16.0
+1364344,2021-05-28,Rio Grande,Puerto Rico,72119.0,2528,
+1365499,2021-05-29,Rio Grande,Colorado,8105.0,843,16.0
+1367590,2021-05-29,Rio Grande,Puerto Rico,72119.0,2531,
+1368745,2021-05-30,Rio Grande,Colorado,8105.0,844,16.0
+1370836,2021-05-30,Rio Grande,Puerto Rico,72119.0,2531,
+1371990,2021-05-31,Rio Grande,Colorado,8105.0,844,16.0
+1374081,2021-05-31,Rio Grande,Puerto Rico,72119.0,2536,
+1375235,2021-06-01,Rio Grande,Colorado,8105.0,844,16.0
+1377327,2021-06-01,Rio Grande,Puerto Rico,72119.0,2537,
+1378481,2021-06-02,Rio Grande,Colorado,8105.0,862,16.0
+1380572,2021-06-02,Rio Grande,Puerto Rico,72119.0,2537,
+1381726,2021-06-03,Rio Grande,Colorado,8105.0,864,16.0
+1383818,2021-06-03,Rio Grande,Puerto Rico,72119.0,2537,
+1384972,2021-06-04,Rio Grande,Colorado,8105.0,872,16.0
+1387063,2021-06-04,Rio Grande,Puerto Rico,72119.0,2539,
+1388217,2021-06-05,Rio Grande,Colorado,8105.0,874,16.0
+1390308,2021-06-05,Rio Grande,Puerto Rico,72119.0,2542,
+1391462,2021-06-06,Rio Grande,Colorado,8105.0,875,16.0
+1393553,2021-06-06,Rio Grande,Puerto Rico,72119.0,2542,
+1394707,2021-06-07,Rio Grande,Colorado,8105.0,875,16.0
+1396800,2021-06-07,Rio Grande,Puerto Rico,72119.0,2542,
+1397954,2021-06-08,Rio Grande,Colorado,8105.0,875,16.0
+1400045,2021-06-08,Rio Grande,Puerto Rico,72119.0,2544,
+1401199,2021-06-09,Rio Grande,Colorado,8105.0,877,16.0
+1403290,2021-06-09,Rio Grande,Puerto Rico,72119.0,2544,
+1404444,2021-06-10,Rio Grande,Colorado,8105.0,877,16.0
+1406536,2021-06-10,Rio Grande,Puerto Rico,72119.0,2544,
+1407690,2021-06-11,Rio Grande,Colorado,8105.0,878,16.0
+1409781,2021-06-11,Rio Grande,Puerto Rico,72119.0,2544,
+1410935,2021-06-12,Rio Grande,Colorado,8105.0,880,16.0
+1413026,2021-06-12,Rio Grande,Puerto Rico,72119.0,2544,
+1414180,2021-06-13,Rio Grande,Colorado,8105.0,887,16.0
+1416272,2021-06-13,Rio Grande,Puerto Rico,72119.0,2544,
+1417426,2021-06-14,Rio Grande,Colorado,8105.0,888,16.0
+1419517,2021-06-14,Rio Grande,Puerto Rico,72119.0,2545,
+1420671,2021-06-15,Rio Grande,Colorado,8105.0,883,16.0
+1422763,2021-06-15,Rio Grande,Puerto Rico,72119.0,2545,
+1423919,2021-06-16,Rio Grande,Colorado,8105.0,885,16.0
+1426010,2021-06-16,Rio Grande,Puerto Rico,72119.0,2545,
+1427164,2021-06-17,Rio Grande,Colorado,8105.0,890,16.0
+1429255,2021-06-17,Rio Grande,Puerto Rico,72119.0,2545,
+1430409,2021-06-18,Rio Grande,Colorado,8105.0,891,16.0
+1432501,2021-06-18,Rio Grande,Puerto Rico,72119.0,2545,
+1433655,2021-06-19,Rio Grande,Colorado,8105.0,891,16.0
+1435748,2021-06-19,Rio Grande,Puerto Rico,72119.0,2545,
+1436902,2021-06-20,Rio Grande,Colorado,8105.0,891,16.0
+1438995,2021-06-20,Rio Grande,Puerto Rico,72119.0,2547,
+1440149,2021-06-21,Rio Grande,Colorado,8105.0,891,16.0
+1442240,2021-06-21,Rio Grande,Puerto Rico,72119.0,2550,
+1443394,2021-06-22,Rio Grande,Colorado,8105.0,893,16.0
+1445485,2021-06-22,Rio Grande,Puerto Rico,72119.0,2551,
+1446639,2021-06-23,Rio Grande,Colorado,8105.0,894,16.0
+1448730,2021-06-23,Rio Grande,Puerto Rico,72119.0,2551,
+1449884,2021-06-24,Rio Grande,Colorado,8105.0,895,16.0
+1451976,2021-06-24,Rio Grande,Puerto Rico,72119.0,2552,
+1453130,2021-06-25,Rio Grande,Colorado,8105.0,898,16.0
+1455221,2021-06-25,Rio Grande,Puerto Rico,72119.0,2561,
+1456375,2021-06-26,Rio Grande,Colorado,8105.0,899,16.0
+1458466,2021-06-26,Rio Grande,Puerto Rico,72119.0,2563,
+1459620,2021-06-27,Rio Grande,Colorado,8105.0,899,16.0
+1461711,2021-06-27,Rio Grande,Puerto Rico,72119.0,2564,
+1462865,2021-06-28,Rio Grande,Colorado,8105.0,899,16.0
+1464956,2021-06-28,Rio Grande,Puerto Rico,72119.0,2566,
+1466110,2021-06-29,Rio Grande,Colorado,8105.0,903,16.0
+1468201,2021-06-29,Rio Grande,Puerto Rico,72119.0,2566,
+1469355,2021-06-30,Rio Grande,Colorado,8105.0,904,16.0
+1471446,2021-06-30,Rio Grande,Puerto Rico,72119.0,2566,
+1472601,2021-07-01,Rio Grande,Colorado,8105.0,907,16.0
+1474692,2021-07-01,Rio Grande,Puerto Rico,72119.0,2566,
+1475847,2021-07-02,Rio Grande,Colorado,8105.0,909,16.0
+1477938,2021-07-02,Rio Grande,Puerto Rico,72119.0,2568,
+1479093,2021-07-03,Rio Grande,Colorado,8105.0,909,16.0
+1481185,2021-07-03,Rio Grande,Puerto Rico,72119.0,2571,
+1482340,2021-07-04,Rio Grande,Colorado,8105.0,910,16.0
+1484431,2021-07-04,Rio Grande,Puerto Rico,72119.0,2573,
+1485586,2021-07-05,Rio Grande,Colorado,8105.0,910,16.0
+1487678,2021-07-05,Rio Grande,Puerto Rico,72119.0,2574,
+1488833,2021-07-06,Rio Grande,Colorado,8105.0,911,16.0
+1490925,2021-07-06,Rio Grande,Puerto Rico,72119.0,2573,
+1492080,2021-07-07,Rio Grande,Colorado,8105.0,915,16.0
+1494172,2021-07-07,Rio Grande,Puerto Rico,72119.0,2573,
+1495326,2021-07-08,Rio Grande,Colorado,8105.0,918,16.0
+1497419,2021-07-08,Rio Grande,Puerto Rico,72119.0,2573,
+1498573,2021-07-09,Rio Grande,Colorado,8105.0,919,16.0
+1500665,2021-07-09,Rio Grande,Puerto Rico,72119.0,2574,
+1501819,2021-07-10,Rio Grande,Colorado,8105.0,921,17.0
+1503911,2021-07-10,Rio Grande,Puerto Rico,72119.0,2575,
+1505065,2021-07-11,Rio Grande,Colorado,8105.0,922,17.0
+1507157,2021-07-11,Rio Grande,Puerto Rico,72119.0,2575,
+1508311,2021-07-12,Rio Grande,Colorado,8105.0,923,17.0
+1510404,2021-07-12,Rio Grande,Puerto Rico,72119.0,2579,
+1511558,2021-07-13,Rio Grande,Colorado,8105.0,927,18.0
+1513650,2021-07-13,Rio Grande,Puerto Rico,72119.0,2582,
+1514804,2021-07-14,Rio Grande,Colorado,8105.0,927,18.0
+1516897,2021-07-14,Rio Grande,Puerto Rico,72119.0,2582,
+1518051,2021-07-15,Rio Grande,Colorado,8105.0,932,18.0
+1520145,2021-07-15,Rio Grande,Puerto Rico,72119.0,2583,
+1521299,2021-07-16,Rio Grande,Colorado,8105.0,935,18.0
+1523393,2021-07-16,Rio Grande,Puerto Rico,72119.0,2584,
+1524547,2021-07-17,Rio Grande,Colorado,8105.0,935,18.0
+1526640,2021-07-17,Rio Grande,Puerto Rico,72119.0,2583,
+1527794,2021-07-18,Rio Grande,Colorado,8105.0,935,18.0
+1529887,2021-07-18,Rio Grande,Puerto Rico,72119.0,2584,
+1531041,2021-07-19,Rio Grande,Colorado,8105.0,938,18.0
+1533134,2021-07-19,Rio Grande,Puerto Rico,72119.0,2588,
+1534288,2021-07-20,Rio Grande,Colorado,8105.0,938,18.0
+1536382,2021-07-20,Rio Grande,Puerto Rico,72119.0,2590,
+1537536,2021-07-21,Rio Grande,Colorado,8105.0,939,18.0
+1539629,2021-07-21,Rio Grande,Puerto Rico,72119.0,2590,
+1540783,2021-07-22,Rio Grande,Colorado,8105.0,941,18.0
+1542877,2021-07-22,Rio Grande,Puerto Rico,72119.0,2591,
+1544031,2021-07-23,Rio Grande,Colorado,8105.0,941,18.0
+1546124,2021-07-23,Rio Grande,Puerto Rico,72119.0,2600,
+1547278,2021-07-24,Rio Grande,Colorado,8105.0,941,18.0
+1549371,2021-07-24,Rio Grande,Puerto Rico,72119.0,2606,
+1550525,2021-07-25,Rio Grande,Colorado,8105.0,941,18.0
+1552618,2021-07-25,Rio Grande,Puerto Rico,72119.0,2610,
+1553772,2021-07-26,Rio Grande,Colorado,8105.0,944,18.0
+1555865,2021-07-26,Rio Grande,Puerto Rico,72119.0,2613,
+1557019,2021-07-27,Rio Grande,Colorado,8105.0,944,18.0
+1559112,2021-07-27,Rio Grande,Puerto Rico,72119.0,2614,
+1560266,2021-07-28,Rio Grande,Colorado,8105.0,947,18.0
+1562360,2021-07-28,Rio Grande,Puerto Rico,72119.0,2616,
+1563514,2021-07-29,Rio Grande,Colorado,8105.0,951,18.0
+1565608,2021-07-29,Rio Grande,Puerto Rico,72119.0,2617,
+1566762,2021-07-30,Rio Grande,Colorado,8105.0,953,18.0
+1568856,2021-07-30,Rio Grande,Puerto Rico,72119.0,2620,
+1570010,2021-07-31,Rio Grande,Colorado,8105.0,953,18.0
+1572104,2021-07-31,Rio Grande,Puerto Rico,72119.0,2631,
+1573258,2021-08-01,Rio Grande,Colorado,8105.0,953,18.0
+1575352,2021-08-01,Rio Grande,Puerto Rico,72119.0,2643,
+1576506,2021-08-02,Rio Grande,Colorado,8105.0,956,18.0
+1578600,2021-08-02,Rio Grande,Puerto Rico,72119.0,2647,
+1579754,2021-08-03,Rio Grande,Colorado,8105.0,959,18.0
+1581849,2021-08-03,Rio Grande,Puerto Rico,72119.0,2649,
+1583004,2021-08-04,Rio Grande,Colorado,8105.0,961,18.0
+1585099,2021-08-04,Rio Grande,Puerto Rico,72119.0,2651,
+1586254,2021-08-05,Rio Grande,Colorado,8105.0,964,19.0
+1588349,2021-08-05,Rio Grande,Puerto Rico,72119.0,2663,
+1589503,2021-08-06,Rio Grande,Colorado,8105.0,964,19.0
+1591598,2021-08-06,Rio Grande,Puerto Rico,72119.0,2677,
+1592752,2021-08-07,Rio Grande,Colorado,8105.0,964,19.0
+1594847,2021-08-07,Rio Grande,Puerto Rico,72119.0,2684,
+1596001,2021-08-08,Rio Grande,Colorado,8105.0,964,19.0
+1598096,2021-08-08,Rio Grande,Puerto Rico,72119.0,2692,
+1599250,2021-08-09,Rio Grande,Colorado,8105.0,970,20.0
+1601344,2021-08-09,Rio Grande,Puerto Rico,72119.0,2702,
+1602499,2021-08-10,Rio Grande,Colorado,8105.0,971,20.0
+1604593,2021-08-10,Rio Grande,Puerto Rico,72119.0,2705,
+1605748,2021-08-11,Rio Grande,Colorado,8105.0,974,20.0
+1607842,2021-08-11,Rio Grande,Puerto Rico,72119.0,2727,
+1608997,2021-08-12,Rio Grande,Colorado,8105.0,979,20.0
+1611090,2021-08-12,Rio Grande,Puerto Rico,72119.0,2744,
+1612245,2021-08-13,Rio Grande,Colorado,8105.0,982,20.0
+1614339,2021-08-13,Rio Grande,Puerto Rico,72119.0,2766,
+1615494,2021-08-14,Rio Grande,Colorado,8105.0,982,20.0
+1617587,2021-08-14,Rio Grande,Puerto Rico,72119.0,2781,
+1618742,2021-08-15,Rio Grande,Colorado,8105.0,982,20.0
+1620835,2021-08-15,Rio Grande,Puerto Rico,72119.0,2792,
+1621989,2021-08-16,Rio Grande,Colorado,8105.0,985,20.0
+1624082,2021-08-16,Rio Grande,Puerto Rico,72119.0,2812,
+1625236,2021-08-17,Rio Grande,Colorado,8105.0,988,20.0
+1627329,2021-08-17,Rio Grande,Puerto Rico,72119.0,2819,
+1628483,2021-08-18,Rio Grande,Colorado,8105.0,990,21.0
+1630576,2021-08-18,Rio Grande,Puerto Rico,72119.0,2822,
+1631730,2021-08-19,Rio Grande,Colorado,8105.0,993,20.0
+1633823,2021-08-19,Rio Grande,Puerto Rico,72119.0,2831,
+1634979,2021-08-20,Rio Grande,Colorado,8105.0,997,20.0
+1637073,2021-08-20,Rio Grande,Puerto Rico,72119.0,2853,
+1638229,2021-08-21,Rio Grande,Colorado,8105.0,997,20.0
+1640323,2021-08-21,Rio Grande,Puerto Rico,72119.0,2879,
+1641479,2021-08-22,Rio Grande,Colorado,8105.0,997,20.0
+1643573,2021-08-22,Rio Grande,Puerto Rico,72119.0,2901,
+1644729,2021-08-23,Rio Grande,Colorado,8105.0,1003,20.0
+1646822,2021-08-23,Rio Grande,Puerto Rico,72119.0,2919,
+1647977,2021-08-24,Rio Grande,Colorado,8105.0,1009,20.0
+1650071,2021-08-24,Rio Grande,Puerto Rico,72119.0,2920,
+1651226,2021-08-25,Rio Grande,Colorado,8105.0,1020,20.0
+1653318,2021-08-25,Rio Grande,Puerto Rico,72119.0,2936,
+1654473,2021-08-26,Rio Grande,Colorado,8105.0,1026,20.0
+1656565,2021-08-26,Rio Grande,Puerto Rico,72119.0,2957,
+1657721,2021-08-27,Rio Grande,Colorado,8105.0,1029,20.0
+1659814,2021-08-27,Rio Grande,Puerto Rico,72119.0,2974,
+1660969,2021-08-28,Rio Grande,Colorado,8105.0,1029,20.0
+1663062,2021-08-28,Rio Grande,Puerto Rico,72119.0,2984,
+1664217,2021-08-29,Rio Grande,Colorado,8105.0,1029,20.0
+1666310,2021-08-29,Rio Grande,Puerto Rico,72119.0,2995,
+1667464,2021-08-30,Rio Grande,Colorado,8105.0,1033,20.0
+1669557,2021-08-30,Rio Grande,Puerto Rico,72119.0,3003,
+1670711,2021-08-31,Rio Grande,Colorado,8105.0,1037,20.0
+1672805,2021-08-31,Rio Grande,Puerto Rico,72119.0,3006,
+1673959,2021-09-01,Rio Grande,Colorado,8105.0,1046,20.0
+1676052,2021-09-01,Rio Grande,Puerto Rico,72119.0,3058,
+1677206,2021-09-02,Rio Grande,Colorado,8105.0,1049,20.0
+1679300,2021-09-02,Rio Grande,Puerto Rico,72119.0,3070,
+1680454,2021-09-03,Rio Grande,Colorado,8105.0,1053,20.0
+1682550,2021-09-03,Rio Grande,Puerto Rico,72119.0,3080,
+1683705,2021-09-04,Rio Grande,Colorado,8105.0,1053,20.0
+1685801,2021-09-04,Rio Grande,Puerto Rico,72119.0,3098,
+1686955,2021-09-05,Rio Grande,Colorado,8105.0,1053,20.0
+1689051,2021-09-05,Rio Grande,Puerto Rico,72119.0,3100,
+1690205,2021-09-06,Rio Grande,Colorado,8105.0,1063,20.0
+1692300,2021-09-06,Rio Grande,Puerto Rico,72119.0,3105,
+1693454,2021-09-07,Rio Grande,Colorado,8105.0,1065,20.0
+1695548,2021-09-07,Rio Grande,Puerto Rico,72119.0,3105,
+1696702,2021-09-08,Rio Grande,Colorado,8105.0,1065,20.0
+1698796,2021-09-08,Rio Grande,Puerto Rico,72119.0,3113,
+1699951,2021-09-09,Rio Grande,Colorado,8105.0,1072,20.0
+1702045,2021-09-09,Rio Grande,Puerto Rico,72119.0,3115,
+1703201,2021-09-10,Rio Grande,Colorado,8105.0,1077,20.0
+1705295,2021-09-10,Rio Grande,Puerto Rico,72119.0,3127,
+1706449,2021-09-11,Rio Grande,Colorado,8105.0,1077,20.0
+1708542,2021-09-11,Rio Grande,Puerto Rico,72119.0,3131,
+1709696,2021-09-12,Rio Grande,Colorado,8105.0,1077,20.0
+1711789,2021-09-12,Rio Grande,Puerto Rico,72119.0,3138,
+1712943,2021-09-13,Rio Grande,Colorado,8105.0,1092,20.0
+1715035,2021-09-13,Rio Grande,Puerto Rico,72119.0,3142,
+1716189,2021-09-14,Rio Grande,Colorado,8105.0,1103,20.0
+1718283,2021-09-14,Rio Grande,Puerto Rico,72119.0,3142,
+1719437,2021-09-15,Rio Grande,Colorado,8105.0,1106,20.0
+1721531,2021-09-15,Rio Grande,Puerto Rico,72119.0,3150,
+1722686,2021-09-16,Rio Grande,Colorado,8105.0,1115,20.0
+1724780,2021-09-16,Rio Grande,Puerto Rico,72119.0,3155,
+1725935,2021-09-17,Rio Grande,Colorado,8105.0,1120,20.0
+1728029,2021-09-17,Rio Grande,Puerto Rico,72119.0,3158,
+1729185,2021-09-18,Rio Grande,Colorado,8105.0,1120,20.0
+1731279,2021-09-18,Rio Grande,Puerto Rico,72119.0,3168,
+1732435,2021-09-19,Rio Grande,Colorado,8105.0,1120,20.0
+1734529,2021-09-19,Rio Grande,Puerto Rico,72119.0,3171,
+1735685,2021-09-20,Rio Grande,Colorado,8105.0,1128,20.0
+1737779,2021-09-20,Rio Grande,Puerto Rico,72119.0,3173,
+1738934,2021-09-21,Rio Grande,Colorado,8105.0,1138,21.0
+1741028,2021-09-21,Rio Grande,Puerto Rico,72119.0,3174,
+1742183,2021-09-22,Rio Grande,Colorado,8105.0,1143,21.0
+1744277,2021-09-22,Rio Grande,Puerto Rico,72119.0,3177,
+1745432,2021-09-23,Rio Grande,Colorado,8105.0,1148,21.0
+1747527,2021-09-23,Rio Grande,Puerto Rico,72119.0,3179,
+1748682,2021-09-24,Rio Grande,Colorado,8105.0,1160,20.0
+1750776,2021-09-24,Rio Grande,Puerto Rico,72119.0,3184,
+1751931,2021-09-25,Rio Grande,Colorado,8105.0,1160,20.0
+1754024,2021-09-25,Rio Grande,Puerto Rico,72119.0,3185,
+1755179,2021-09-26,Rio Grande,Colorado,8105.0,1160,20.0
+1757272,2021-09-26,Rio Grande,Puerto Rico,72119.0,3192,
+1758427,2021-09-27,Rio Grande,Colorado,8105.0,1173,20.0
+1760520,2021-09-27,Rio Grande,Puerto Rico,72119.0,3198,
+1761675,2021-09-28,Rio Grande,Colorado,8105.0,1194,20.0
+1763769,2021-09-28,Rio Grande,Puerto Rico,72119.0,3198,
+1764924,2021-09-29,Rio Grande,Colorado,8105.0,1209,20.0
+1767018,2021-09-29,Rio Grande,Puerto Rico,72119.0,3202,
+1768173,2021-09-30,Rio Grande,Colorado,8105.0,1231,20.0
+1770267,2021-09-30,Rio Grande,Puerto Rico,72119.0,3211,
+1771422,2021-10-01,Rio Grande,Colorado,8105.0,1240,20.0
+1773517,2021-10-01,Rio Grande,Puerto Rico,72119.0,3213,
+1774672,2021-10-02,Rio Grande,Colorado,8105.0,1240,20.0
+1776767,2021-10-02,Rio Grande,Puerto Rico,72119.0,3216,
+1777922,2021-10-03,Rio Grande,Colorado,8105.0,1240,20.0
+1780017,2021-10-03,Rio Grande,Puerto Rico,72119.0,3222,
+1781172,2021-10-04,Rio Grande,Colorado,8105.0,1252,20.0
+1783266,2021-10-04,Rio Grande,Puerto Rico,72119.0,3223,
+1784421,2021-10-05,Rio Grande,Colorado,8105.0,1270,20.0
+1786515,2021-10-05,Rio Grande,Puerto Rico,72119.0,3226,
+1787670,2021-10-06,Rio Grande,Colorado,8105.0,1288,20.0
+1789763,2021-10-06,Rio Grande,Puerto Rico,72119.0,3226,
+1790919,2021-10-07,Rio Grande,Colorado,8105.0,1304,21.0
+1793012,2021-10-07,Rio Grande,Puerto Rico,72119.0,3231,
+1794167,2021-10-08,Rio Grande,Colorado,8105.0,1341,21.0
+1796261,2021-10-08,Rio Grande,Puerto Rico,72119.0,3231,
+1797416,2021-10-09,Rio Grande,Colorado,8105.0,1341,21.0
+1799510,2021-10-09,Rio Grande,Puerto Rico,72119.0,3232,
+1800665,2021-10-10,Rio Grande,Colorado,8105.0,1341,21.0
+1802759,2021-10-10,Rio Grande,Puerto Rico,72119.0,3232,
+1803914,2021-10-11,Rio Grande,Colorado,8105.0,1368,21.0
+1806009,2021-10-11,Rio Grande,Puerto Rico,72119.0,3240,
+1807165,2021-10-12,Rio Grande,Colorado,8105.0,1384,21.0
+1809259,2021-10-12,Rio Grande,Puerto Rico,72119.0,3241,
+1810414,2021-10-13,Rio Grande,Colorado,8105.0,1395,21.0
+1812508,2021-10-13,Rio Grande,Puerto Rico,72119.0,3243,
+1813663,2021-10-14,Rio Grande,Colorado,8105.0,1404,21.0
+1815756,2021-10-14,Rio Grande,Puerto Rico,72119.0,3246,
+1816911,2021-10-15,Rio Grande,Colorado,8105.0,1437,21.0
+1819005,2021-10-15,Rio Grande,Puerto Rico,72119.0,3249,
+1820160,2021-10-16,Rio Grande,Colorado,8105.0,1437,21.0
+1822254,2021-10-16,Rio Grande,Puerto Rico,72119.0,3250,
+1823409,2021-10-17,Rio Grande,Colorado,8105.0,1437,21.0
+1825503,2021-10-17,Rio Grande,Puerto Rico,72119.0,3258,
+1826658,2021-10-18,Rio Grande,Colorado,8105.0,1445,21.0
+1828752,2021-10-18,Rio Grande,Puerto Rico,72119.0,3259,
+1829907,2021-10-19,Rio Grande,Colorado,8105.0,1457,21.0
+1832001,2021-10-19,Rio Grande,Puerto Rico,72119.0,3259,
+1833156,2021-10-20,Rio Grande,Colorado,8105.0,1463,21.0
+1835250,2021-10-20,Rio Grande,Puerto Rico,72119.0,3262,
+1836405,2021-10-21,Rio Grande,Colorado,8105.0,1468,21.0
+1838499,2021-10-21,Rio Grande,Puerto Rico,72119.0,3263,
+1839654,2021-10-22,Rio Grande,Colorado,8105.0,1477,22.0
+1841748,2021-10-22,Rio Grande,Puerto Rico,72119.0,3265,
+1842904,2021-10-23,Rio Grande,Colorado,8105.0,1477,22.0
+1844998,2021-10-23,Rio Grande,Puerto Rico,72119.0,3266,
+1846154,2021-10-24,Rio Grande,Colorado,8105.0,1477,22.0
+1848248,2021-10-24,Rio Grande,Puerto Rico,72119.0,3266,
+1849404,2021-10-25,Rio Grande,Colorado,8105.0,1491,22.0
+1851498,2021-10-25,Rio Grande,Puerto Rico,72119.0,3269,
+1852653,2021-10-26,Rio Grande,Colorado,8105.0,1505,22.0
+1854747,2021-10-26,Rio Grande,Puerto Rico,72119.0,3269,
+1855902,2021-10-27,Rio Grande,Colorado,8105.0,1520,22.0
+1857996,2021-10-27,Rio Grande,Puerto Rico,72119.0,3269,
+1859151,2021-10-28,Rio Grande,Colorado,8105.0,1527,22.0
+1861245,2021-10-28,Rio Grande,Puerto Rico,72119.0,3270,
+1862400,2021-10-29,Rio Grande,Colorado,8105.0,1537,22.0
+1864494,2021-10-29,Rio Grande,Puerto Rico,72119.0,3274,
+1865649,2021-10-30,Rio Grande,Colorado,8105.0,1537,22.0
+1867743,2021-10-30,Rio Grande,Puerto Rico,72119.0,3275,
+1868898,2021-10-31,Rio Grande,Colorado,8105.0,1537,22.0
+1870992,2021-10-31,Rio Grande,Puerto Rico,72119.0,3275,
+1872147,2021-11-01,Rio Grande,Colorado,8105.0,1550,23.0
+1874241,2021-11-01,Rio Grande,Puerto Rico,72119.0,3276,
+1875396,2021-11-02,Rio Grande,Colorado,8105.0,1561,23.0
+1877490,2021-11-02,Rio Grande,Puerto Rico,72119.0,3276,
+1878645,2021-11-03,Rio Grande,Colorado,8105.0,1571,23.0
+1880739,2021-11-03,Rio Grande,Puerto Rico,72119.0,3279,
+1881894,2021-11-04,Rio Grande,Colorado,8105.0,1578,23.0
+1883988,2021-11-04,Rio Grande,Puerto Rico,72119.0,3281,
+1885143,2021-11-05,Rio Grande,Colorado,8105.0,1582,23.0
+1887238,2021-11-05,Rio Grande,Puerto Rico,72119.0,3282,
+1888393,2021-11-06,Rio Grande,Colorado,8105.0,1582,23.0
+1890488,2021-11-06,Rio Grande,Puerto Rico,72119.0,3285,
+1891643,2021-11-07,Rio Grande,Colorado,8105.0,1582,23.0
+1893738,2021-11-07,Rio Grande,Puerto Rico,72119.0,3286,
+1894893,2021-11-08,Rio Grande,Colorado,8105.0,1598,23.0
+1896988,2021-11-08,Rio Grande,Puerto Rico,72119.0,3287,
+1898143,2021-11-09,Rio Grande,Colorado,8105.0,1612,23.0
+1900238,2021-11-09,Rio Grande,Puerto Rico,72119.0,3291,
+1901393,2021-11-10,Rio Grande,Colorado,8105.0,1629,23.0
+1903488,2021-11-10,Rio Grande,Puerto Rico,72119.0,3294,
+1904643,2021-11-11,Rio Grande,Colorado,8105.0,1648,23.0
+1906737,2021-11-11,Rio Grande,Puerto Rico,72119.0,3298,
+1907892,2021-11-12,Rio Grande,Colorado,8105.0,1653,23.0
+1909986,2021-11-12,Rio Grande,Puerto Rico,72119.0,3299,
+1911141,2021-11-13,Rio Grande,Colorado,8105.0,1653,23.0
+1913236,2021-11-13,Rio Grande,Puerto Rico,72119.0,3302,
+1914391,2021-11-14,Rio Grande,Colorado,8105.0,1653,23.0
+1916486,2021-11-14,Rio Grande,Puerto Rico,72119.0,3302,
+1917641,2021-11-15,Rio Grande,Colorado,8105.0,1674,24.0
+1919736,2021-11-15,Rio Grande,Puerto Rico,72119.0,3305,
+1920891,2021-11-16,Rio Grande,Colorado,8105.0,1684,24.0
+1922985,2021-11-16,Rio Grande,Puerto Rico,72119.0,3305,
+1924140,2021-11-17,Rio Grande,Colorado,8105.0,1727,25.0
+1926235,2021-11-17,Rio Grande,Puerto Rico,72119.0,3306,
+1927390,2021-11-18,Rio Grande,Colorado,8105.0,1738,26.0
+1929485,2021-11-18,Rio Grande,Puerto Rico,72119.0,3306,
+1930640,2021-11-19,Rio Grande,Colorado,8105.0,1749,26.0
+1932736,2021-11-19,Rio Grande,Puerto Rico,72119.0,3308,
+1933892,2021-11-20,Rio Grande,Colorado,8105.0,1749,26.0
+1935986,2021-11-20,Rio Grande,Puerto Rico,72119.0,3315,
+1937142,2021-11-21,Rio Grande,Colorado,8105.0,1749,26.0
+1939236,2021-11-21,Rio Grande,Puerto Rico,72119.0,3318,
+1940392,2021-11-22,Rio Grande,Colorado,8105.0,1759,27.0
+1942486,2021-11-22,Rio Grande,Puerto Rico,72119.0,3320,
+1943642,2021-11-23,Rio Grande,Colorado,8105.0,1768,28.0
+1945737,2021-11-23,Rio Grande,Puerto Rico,72119.0,3320,
+1946893,2021-11-24,Rio Grande,Colorado,8105.0,1777,28.0
+1948988,2021-11-24,Rio Grande,Puerto Rico,72119.0,3325,
+1950144,2021-11-25,Rio Grande,Colorado,8105.0,1792,29.0
+1952239,2021-11-25,Rio Grande,Puerto Rico,72119.0,3331,
+1953395,2021-11-26,Rio Grande,Colorado,8105.0,1792,29.0
+1955490,2021-11-26,Rio Grande,Puerto Rico,72119.0,3332,
+1956646,2021-11-27,Rio Grande,Colorado,8105.0,1792,29.0
+1958741,2021-11-27,Rio Grande,Puerto Rico,72119.0,3333,
+1959897,2021-11-28,Rio Grande,Colorado,8105.0,1792,29.0
+1961992,2021-11-28,Rio Grande,Puerto Rico,72119.0,3334,
+1963148,2021-11-29,Rio Grande,Colorado,8105.0,1813,29.0
+1965244,2021-11-29,Rio Grande,Puerto Rico,72119.0,3335,
+1966400,2021-11-30,Rio Grande,Colorado,8105.0,1820,30.0
+1968495,2021-11-30,Rio Grande,Puerto Rico,72119.0,3335,
+1969650,2021-12-01,Rio Grande,Colorado,8105.0,1839,32.0
+1971745,2021-12-01,Rio Grande,Puerto Rico,72119.0,3335,
+1972900,2021-12-02,Rio Grande,Colorado,8105.0,1853,32.0
+1974994,2021-12-02,Rio Grande,Puerto Rico,72119.0,3336,
+1976149,2021-12-03,Rio Grande,Colorado,8105.0,1862,32.0
+1978244,2021-12-03,Rio Grande,Puerto Rico,72119.0,3336,
+1979399,2021-12-04,Rio Grande,Colorado,8105.0,1862,32.0
+1981494,2021-12-04,Rio Grande,Puerto Rico,72119.0,3339,
+1982649,2021-12-05,Rio Grande,Colorado,8105.0,1862,32.0
+1984744,2021-12-05,Rio Grande,Puerto Rico,72119.0,3339,
+1985899,2021-12-06,Rio Grande,Colorado,8105.0,1883,32.0
+1987994,2021-12-06,Rio Grande,Puerto Rico,72119.0,3341,
+1989149,2021-12-07,Rio Grande,Colorado,8105.0,1890,32.0
+1991245,2021-12-07,Rio Grande,Puerto Rico,72119.0,3342,
+1992400,2021-12-08,Rio Grande,Colorado,8105.0,1892,32.0
+1994496,2021-12-08,Rio Grande,Puerto Rico,72119.0,3347,
+1995651,2021-12-09,Rio Grande,Colorado,8105.0,1897,34.0
+1997747,2021-12-09,Rio Grande,Puerto Rico,72119.0,3349,
+1998902,2021-12-10,Rio Grande,Colorado,8105.0,1900,34.0
+2000997,2021-12-10,Rio Grande,Puerto Rico,72119.0,3350,
+2002152,2021-12-11,Rio Grande,Colorado,8105.0,1900,34.0
+2004248,2021-12-11,Rio Grande,Puerto Rico,72119.0,3350,
+2005403,2021-12-12,Rio Grande,Colorado,8105.0,1900,34.0
+2007499,2021-12-12,Rio Grande,Puerto Rico,72119.0,3351,
+2008654,2021-12-13,Rio Grande,Colorado,8105.0,1905,34.0
+2010750,2021-12-13,Rio Grande,Puerto Rico,72119.0,3351,
+2011905,2021-12-14,Rio Grande,Colorado,8105.0,1910,34.0
+2014001,2021-12-14,Rio Grande,Puerto Rico,72119.0,3351,
+2015156,2021-12-15,Rio Grande,Colorado,8105.0,1916,35.0
+2017251,2021-12-15,Rio Grande,Puerto Rico,72119.0,3352,
+2018406,2021-12-16,Rio Grande,Colorado,8105.0,1925,39.0
+2020502,2021-12-16,Rio Grande,Puerto Rico,72119.0,3357,
+2021657,2021-12-17,Rio Grande,Colorado,8105.0,1928,39.0
+2023753,2021-12-17,Rio Grande,Puerto Rico,72119.0,3363,
+2024908,2021-12-18,Rio Grande,Colorado,8105.0,1928,39.0
+2027004,2021-12-18,Rio Grande,Puerto Rico,72119.0,3387,
+2028159,2021-12-19,Rio Grande,Colorado,8105.0,1928,39.0
+2030255,2021-12-19,Rio Grande,Puerto Rico,72119.0,3410,
+2031410,2021-12-20,Rio Grande,Colorado,8105.0,1932,40.0
+2033505,2021-12-20,Rio Grande,Puerto Rico,72119.0,3446,
+2034660,2021-12-21,Rio Grande,Colorado,8105.0,1934,40.0
+2036755,2021-12-21,Rio Grande,Puerto Rico,72119.0,3448,
+2037910,2021-12-22,Rio Grande,Colorado,8105.0,1937,40.0
+2040005,2021-12-22,Rio Grande,Puerto Rico,72119.0,3476,
+2041160,2021-12-23,Rio Grande,Colorado,8105.0,1940,40.0
+2043254,2021-12-23,Rio Grande,Puerto Rico,72119.0,3572,
+2044409,2021-12-24,Rio Grande,Colorado,8105.0,1944,40.0
+2046504,2021-12-24,Rio Grande,Puerto Rico,72119.0,3572,
+2047659,2021-12-25,Rio Grande,Colorado,8105.0,1944,40.0
+2049754,2021-12-25,Rio Grande,Puerto Rico,72119.0,3890,
+2050909,2021-12-26,Rio Grande,Colorado,8105.0,1944,40.0
+2053004,2021-12-26,Rio Grande,Puerto Rico,72119.0,3987,
+2054159,2021-12-27,Rio Grande,Colorado,8105.0,1950,40.0
+2056253,2021-12-27,Rio Grande,Puerto Rico,72119.0,3999,
+2057408,2021-12-28,Rio Grande,Colorado,8105.0,1953,40.0
+2059502,2021-12-28,Rio Grande,Puerto Rico,72119.0,4019,
+2060657,2021-12-29,Rio Grande,Colorado,8105.0,1962,40.0
+2062752,2021-12-29,Rio Grande,Puerto Rico,72119.0,4115,
+2063907,2021-12-30,Rio Grande,Colorado,8105.0,1967,40.0
+2066002,2021-12-30,Rio Grande,Puerto Rico,72119.0,4285,
+2067158,2021-12-31,Rio Grande,Colorado,8105.0,1975,40.0
+2069253,2021-12-31,Rio Grande,Puerto Rico,72119.0,4622,
+2070409,2022-01-01,Rio Grande,Colorado,8105.0,1975,40.0
+2072504,2022-01-01,Rio Grande,Puerto Rico,72119.0,4622,
+2073660,2022-01-02,Rio Grande,Colorado,8105.0,1975,40.0
+2075755,2022-01-02,Rio Grande,Puerto Rico,72119.0,5027,
+2076911,2022-01-03,Rio Grande,Colorado,8105.0,1981,40.0
+2079006,2022-01-03,Rio Grande,Puerto Rico,72119.0,5043,
+2080163,2022-01-04,Rio Grande,Colorado,8105.0,2010,40.0
+2082258,2022-01-04,Rio Grande,Puerto Rico,72119.0,5059,
+2083415,2022-01-05,Rio Grande,Colorado,8105.0,2020,40.0
+2085510,2022-01-05,Rio Grande,Puerto Rico,72119.0,5124,
+2086667,2022-01-06,Rio Grande,Colorado,8105.0,2034,40.0
+2088761,2022-01-06,Rio Grande,Puerto Rico,72119.0,5255,
+2089918,2022-01-07,Rio Grande,Colorado,8105.0,2039,40.0
+2092013,2022-01-07,Rio Grande,Puerto Rico,72119.0,5542,
+2093170,2022-01-08,Rio Grande,Colorado,8105.0,2039,40.0
+2095265,2022-01-08,Rio Grande,Puerto Rico,72119.0,5611,
+2096422,2022-01-09,Rio Grande,Colorado,8105.0,2039,40.0
+2098517,2022-01-09,Rio Grande,Puerto Rico,72119.0,5787,
+2099673,2022-01-10,Rio Grande,Colorado,8105.0,2093,40.0
+2101768,2022-01-10,Rio Grande,Puerto Rico,72119.0,5872,
+2102924,2022-01-11,Rio Grande,Colorado,8105.0,2110,41.0
+2105019,2022-01-11,Rio Grande,Puerto Rico,72119.0,5891,
+2106175,2022-01-12,Rio Grande,Colorado,8105.0,2127,41.0
+2108270,2022-01-12,Rio Grande,Puerto Rico,72119.0,6021,
+2109426,2022-01-13,Rio Grande,Colorado,8105.0,2152,41.0
+2111522,2022-01-13,Rio Grande,Puerto Rico,72119.0,6170,
+2112678,2022-01-14,Rio Grande,Colorado,8105.0,2178,41.0
+2114774,2022-01-14,Rio Grande,Puerto Rico,72119.0,6405,
+2115929,2022-01-15,Rio Grande,Colorado,8105.0,2178,41.0
+2118025,2022-01-15,Rio Grande,Puerto Rico,72119.0,6491,
+2119181,2022-01-16,Rio Grande,Colorado,8105.0,2178,41.0
+2121277,2022-01-16,Rio Grande,Puerto Rico,72119.0,6573,
+2122433,2022-01-17,Rio Grande,Colorado,8105.0,2212,41.0
+2124529,2022-01-17,Rio Grande,Puerto Rico,72119.0,6608,
+2125685,2022-01-18,Rio Grande,Colorado,8105.0,2238,41.0
+2127781,2022-01-18,Rio Grande,Puerto Rico,72119.0,6617,
+2128939,2022-01-19,Rio Grande,Colorado,8105.0,2269,41.0
+2131035,2022-01-19,Rio Grande,Puerto Rico,72119.0,6655,
+2132192,2022-01-20,Rio Grande,Colorado,8105.0,2293,41.0
+2134287,2022-01-20,Rio Grande,Puerto Rico,72119.0,6690,
+2135444,2022-01-21,Rio Grande,Colorado,8105.0,2311,41.0
+2137541,2022-01-21,Rio Grande,Puerto Rico,72119.0,6755,
+2138700,2022-01-22,Rio Grande,Colorado,8105.0,2311,41.0
+2140797,2022-01-22,Rio Grande,Puerto Rico,72119.0,6828,
+2141955,2022-01-23,Rio Grande,Colorado,8105.0,2311,41.0
+2144052,2022-01-23,Rio Grande,Puerto Rico,72119.0,6885,
+2145210,2022-01-24,Rio Grande,Colorado,8105.0,2353,41.0
+2147306,2022-01-24,Rio Grande,Puerto Rico,72119.0,6914,
+2148462,2022-01-25,Rio Grande,Colorado,8105.0,2385,41.0
+2150558,2022-01-25,Rio Grande,Puerto Rico,72119.0,6917,
+2151714,2022-01-26,Rio Grande,Colorado,8105.0,2407,41.0
+2153810,2022-01-26,Rio Grande,Puerto Rico,72119.0,6951,
+2154967,2022-01-27,Rio Grande,Colorado,8105.0,2435,41.0
+2157063,2022-01-27,Rio Grande,Puerto Rico,72119.0,6970,
+2158220,2022-01-28,Rio Grande,Colorado,8105.0,2460,41.0
+2160319,2022-01-28,Rio Grande,Puerto Rico,72119.0,7014,
+2161476,2022-01-29,Rio Grande,Colorado,8105.0,2435,41.0
+2163574,2022-01-29,Rio Grande,Puerto Rico,72119.0,7031,
+2164731,2022-01-30,Rio Grande,Colorado,8105.0,2460,41.0
+2166829,2022-01-30,Rio Grande,Puerto Rico,72119.0,7048,
+2167986,2022-01-31,Rio Grande,Colorado,8105.0,2499,42.0
+2170083,2022-01-31,Rio Grande,Puerto Rico,72119.0,7053,
+2171239,2022-02-01,Rio Grande,Colorado,8105.0,2514,42.0
+2173335,2022-02-01,Rio Grande,Puerto Rico,72119.0,7054,
+2174492,2022-02-02,Rio Grande,Colorado,8105.0,2531,42.0
+2176589,2022-02-02,Rio Grande,Puerto Rico,72119.0,7066,
+2177745,2022-02-03,Rio Grande,Colorado,8105.0,2545,43.0
+2179840,2022-02-03,Rio Grande,Puerto Rico,72119.0,7085,
+2180996,2022-02-04,Rio Grande,Colorado,8105.0,2561,43.0
+2183092,2022-02-04,Rio Grande,Puerto Rico,72119.0,7111,
+2184248,2022-02-05,Rio Grande,Colorado,8105.0,2561,43.0
+2186344,2022-02-05,Rio Grande,Puerto Rico,72119.0,7127,
+2187501,2022-02-06,Rio Grande,Colorado,8105.0,2561,43.0
+2189597,2022-02-06,Rio Grande,Puerto Rico,72119.0,7144,
+2190754,2022-02-07,Rio Grande,Colorado,8105.0,2574,43.0
+2192851,2022-02-07,Rio Grande,Puerto Rico,72119.0,7146,
+2194008,2022-02-08,Rio Grande,Colorado,8105.0,2604,43.0
+2196105,2022-02-08,Rio Grande,Puerto Rico,72119.0,7147,
+2197262,2022-02-09,Rio Grande,Colorado,8105.0,2613,43.0
+2199359,2022-02-09,Rio Grande,Puerto Rico,72119.0,7149,
+2200516,2022-02-10,Rio Grande,Colorado,8105.0,2628,43.0
+2202613,2022-02-10,Rio Grande,Puerto Rico,72119.0,7154,
+2203769,2022-02-11,Rio Grande,Colorado,8105.0,2635,43.0
+2205866,2022-02-11,Rio Grande,Puerto Rico,72119.0,7161,
+2207022,2022-02-12,Rio Grande,Colorado,8105.0,2635,43.0
+2209119,2022-02-12,Rio Grande,Puerto Rico,72119.0,7171,
+2210275,2022-02-13,Rio Grande,Colorado,8105.0,2635,43.0
+2212372,2022-02-13,Rio Grande,Puerto Rico,72119.0,7181,
+2213527,2022-02-14,Rio Grande,Colorado,8105.0,2648,43.0
+2215623,2022-02-14,Rio Grande,Puerto Rico,72119.0,7183,
+2216778,2022-02-15,Rio Grande,Colorado,8105.0,2657,44.0
+2218874,2022-02-15,Rio Grande,Puerto Rico,72119.0,7182,
+2220029,2022-02-16,Rio Grande,Colorado,8105.0,2661,44.0
+2222125,2022-02-16,Rio Grande,Puerto Rico,72119.0,7187,
+2223280,2022-02-17,Rio Grande,Colorado,8105.0,2673,44.0
+2225376,2022-02-17,Rio Grande,Puerto Rico,72119.0,7191,
+2226531,2022-02-18,Rio Grande,Colorado,8105.0,2679,44.0
+2228627,2022-02-18,Rio Grande,Puerto Rico,72119.0,7192,
+2229782,2022-02-19,Rio Grande,Colorado,8105.0,2679,44.0
+2231878,2022-02-19,Rio Grande,Puerto Rico,72119.0,7202,
+2233033,2022-02-20,Rio Grande,Colorado,8105.0,2679,44.0
+2235129,2022-02-20,Rio Grande,Puerto Rico,72119.0,7202,
+2236284,2022-02-21,Rio Grande,Colorado,8105.0,2684,44.0
+2238380,2022-02-21,Rio Grande,Puerto Rico,72119.0,7205,
+2239535,2022-02-22,Rio Grande,Colorado,8105.0,2690,44.0
+2241631,2022-02-22,Rio Grande,Puerto Rico,72119.0,7206,
+2242786,2022-02-23,Rio Grande,Colorado,8105.0,2702,44.0
+2244882,2022-02-23,Rio Grande,Puerto Rico,72119.0,7205,
+2246037,2022-02-24,Rio Grande,Colorado,8105.0,2704,44.0
+2248133,2022-02-24,Rio Grande,Puerto Rico,72119.0,7207,
+2249288,2022-02-25,Rio Grande,Colorado,8105.0,2714,44.0
+2251384,2022-02-25,Rio Grande,Puerto Rico,72119.0,7211,
+2252539,2022-02-26,Rio Grande,Colorado,8105.0,2714,44.0
+2254635,2022-02-26,Rio Grande,Puerto Rico,72119.0,7219,
+2255790,2022-02-27,Rio Grande,Colorado,8105.0,2714,44.0
+2257886,2022-02-27,Rio Grande,Puerto Rico,72119.0,7220,
+2259041,2022-02-28,Rio Grande,Colorado,8105.0,2721,44.0
+2261137,2022-02-28,Rio Grande,Puerto Rico,72119.0,7224,
+2262292,2022-03-01,Rio Grande,Colorado,8105.0,2726,46.0
+2264387,2022-03-01,Rio Grande,Puerto Rico,72119.0,7224,
+2265543,2022-03-02,Rio Grande,Colorado,8105.0,2731,46.0
+2267640,2022-03-02,Rio Grande,Puerto Rico,72119.0,7226,
+2268796,2022-03-03,Rio Grande,Colorado,8105.0,2730,46.0
+2270892,2022-03-03,Rio Grande,Puerto Rico,72119.0,7226,
+2272048,2022-03-04,Rio Grande,Colorado,8105.0,2732,46.0
+2274145,2022-03-04,Rio Grande,Puerto Rico,72119.0,7227,
+2275301,2022-03-05,Rio Grande,Colorado,8105.0,2732,46.0
+2277398,2022-03-05,Rio Grande,Puerto Rico,72119.0,7231,
+2278554,2022-03-06,Rio Grande,Colorado,8105.0,2732,46.0
+2280651,2022-03-06,Rio Grande,Puerto Rico,72119.0,7231,
+2281807,2022-03-07,Rio Grande,Colorado,8105.0,2741,46.0
+2283903,2022-03-07,Rio Grande,Puerto Rico,72119.0,7233,
+2285059,2022-03-08,Rio Grande,Colorado,8105.0,2741,46.0
+2287155,2022-03-08,Rio Grande,Puerto Rico,72119.0,7233,
+2288310,2022-03-09,Rio Grande,Colorado,8105.0,2746,46.0
+2290407,2022-03-09,Rio Grande,Puerto Rico,72119.0,7240,
+2291562,2022-03-10,Rio Grande,Colorado,8105.0,2748,46.0
+2293659,2022-03-10,Rio Grande,Puerto Rico,72119.0,7244,
+2294814,2022-03-11,Rio Grande,Colorado,8105.0,2753,46.0
+2296911,2022-03-11,Rio Grande,Puerto Rico,72119.0,7244,
+2298066,2022-03-12,Rio Grande,Colorado,8105.0,2753,46.0
+2300163,2022-03-12,Rio Grande,Puerto Rico,72119.0,7247,
+2301318,2022-03-13,Rio Grande,Colorado,8105.0,2753,46.0
+2303415,2022-03-13,Rio Grande,Puerto Rico,72119.0,7249,
+2304570,2022-03-14,Rio Grande,Colorado,8105.0,2755,46.0
+2306666,2022-03-14,Rio Grande,Puerto Rico,72119.0,7249,
+2307821,2022-03-15,Rio Grande,Colorado,8105.0,2756,46.0
+2309919,2022-03-15,Rio Grande,Puerto Rico,72119.0,7249,
+2311074,2022-03-16,Rio Grande,Colorado,8105.0,2758,46.0
+2313172,2022-03-16,Rio Grande,Puerto Rico,72119.0,7250,
+2314327,2022-03-17,Rio Grande,Colorado,8105.0,2767,46.0
+2316425,2022-03-17,Rio Grande,Puerto Rico,72119.0,7253,
+2317580,2022-03-18,Rio Grande,Colorado,8105.0,2767,46.0
+2319679,2022-03-18,Rio Grande,Puerto Rico,72119.0,7253,
+2320834,2022-03-19,Rio Grande,Colorado,8105.0,2767,46.0
+2322933,2022-03-19,Rio Grande,Puerto Rico,72119.0,7254,
+2324088,2022-03-20,Rio Grande,Colorado,8105.0,2767,46.0
+2326186,2022-03-20,Rio Grande,Puerto Rico,72119.0,7254,
+2327341,2022-03-21,Rio Grande,Colorado,8105.0,2773,46.0
+2329438,2022-03-21,Rio Grande,Puerto Rico,72119.0,7254,
+2330593,2022-03-22,Rio Grande,Colorado,8105.0,2774,46.0
+2332691,2022-03-22,Rio Grande,Puerto Rico,72119.0,7255,
+2333847,2022-03-23,Rio Grande,Colorado,8105.0,2775,46.0
+2335945,2022-03-23,Rio Grande,Puerto Rico,72119.0,7259,
+2337101,2022-03-24,Rio Grande,Colorado,8105.0,2775,46.0
+2339199,2022-03-24,Rio Grande,Puerto Rico,72119.0,7263,
+2340354,2022-03-25,Rio Grande,Colorado,8105.0,2778,46.0
+2342452,2022-03-25,Rio Grande,Puerto Rico,72119.0,7264,
+2343607,2022-03-26,Rio Grande,Colorado,8105.0,2778,46.0
+2345705,2022-03-26,Rio Grande,Puerto Rico,72119.0,7268,
+2346860,2022-03-27,Rio Grande,Colorado,8105.0,2778,46.0
+2348958,2022-03-27,Rio Grande,Puerto Rico,72119.0,7271,
+2350113,2022-03-28,Rio Grande,Colorado,8105.0,2777,46.0
+2352210,2022-03-28,Rio Grande,Puerto Rico,72119.0,7272,
+2353365,2022-03-29,Rio Grande,Colorado,8105.0,2782,46.0
+2355463,2022-03-29,Rio Grande,Puerto Rico,72119.0,7272,
+2356618,2022-03-30,Rio Grande,Colorado,8105.0,2783,46.0
+2358717,2022-03-30,Rio Grande,Puerto Rico,72119.0,7274,
+2359872,2022-03-31,Rio Grande,Colorado,8105.0,2785,46.0
+2361971,2022-03-31,Rio Grande,Puerto Rico,72119.0,7287,
+2363126,2022-04-01,Rio Grande,Colorado,8105.0,2785,46.0
+2365224,2022-04-01,Rio Grande,Puerto Rico,72119.0,7296,
+2366379,2022-04-02,Rio Grande,Colorado,8105.0,2785,46.0
+2368477,2022-04-02,Rio Grande,Puerto Rico,72119.0,7301,
+2369632,2022-04-03,Rio Grande,Colorado,8105.0,2785,46.0
+2371730,2022-04-03,Rio Grande,Puerto Rico,72119.0,7309,
+2372885,2022-04-04,Rio Grande,Colorado,8105.0,2787,46.0
+2374982,2022-04-04,Rio Grande,Puerto Rico,72119.0,7312,
+2376137,2022-04-05,Rio Grande,Colorado,8105.0,2786,46.0
+2378236,2022-04-05,Rio Grande,Puerto Rico,72119.0,7313,
+2379391,2022-04-06,Rio Grande,Colorado,8105.0,2789,46.0
+2381491,2022-04-06,Rio Grande,Puerto Rico,72119.0,7323,
+2382646,2022-04-07,Rio Grande,Colorado,8105.0,2790,46.0
+2384746,2022-04-07,Rio Grande,Puerto Rico,72119.0,7344,
+2385901,2022-04-08,Rio Grande,Colorado,8105.0,2793,46.0
+2388000,2022-04-08,Rio Grande,Puerto Rico,72119.0,7359,
+2389156,2022-04-09,Rio Grande,Colorado,8105.0,2793,46.0
+2391256,2022-04-09,Rio Grande,Puerto Rico,72119.0,7371,

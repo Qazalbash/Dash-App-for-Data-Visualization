@@ -1,0 +1,1365 @@
+,date,county,state,fips,cases,deaths
+49841,2020-04-11,Golden Valley,Montana,30037.0,1,0.0
+52514,2020-04-12,Golden Valley,Montana,30037.0,1,0.0
+55195,2020-04-13,Golden Valley,Montana,30037.0,1,0.0
+57894,2020-04-14,Golden Valley,Montana,30037.0,1,0.0
+60607,2020-04-15,Golden Valley,Montana,30037.0,1,0.0
+63330,2020-04-16,Golden Valley,Montana,30037.0,1,0.0
+66070,2020-04-17,Golden Valley,Montana,30037.0,3,0.0
+68824,2020-04-18,Golden Valley,Montana,30037.0,3,0.0
+71591,2020-04-19,Golden Valley,Montana,30037.0,3,0.0
+74364,2020-04-20,Golden Valley,Montana,30037.0,3,0.0
+77144,2020-04-21,Golden Valley,Montana,30037.0,3,0.0
+79932,2020-04-22,Golden Valley,Montana,30037.0,3,0.0
+82728,2020-04-23,Golden Valley,Montana,30037.0,3,0.0
+85532,2020-04-24,Golden Valley,Montana,30037.0,3,0.0
+88342,2020-04-25,Golden Valley,Montana,30037.0,3,0.0
+91157,2020-04-26,Golden Valley,Montana,30037.0,3,0.0
+93978,2020-04-27,Golden Valley,Montana,30037.0,3,0.0
+96814,2020-04-28,Golden Valley,Montana,30037.0,3,0.0
+99660,2020-04-29,Golden Valley,Montana,30037.0,3,0.0
+102512,2020-04-30,Golden Valley,Montana,30037.0,3,0.0
+105373,2020-05-01,Golden Valley,Montana,30037.0,3,0.0
+108239,2020-05-02,Golden Valley,Montana,30037.0,3,0.0
+111111,2020-05-03,Golden Valley,Montana,30037.0,3,0.0
+113990,2020-05-04,Golden Valley,Montana,30037.0,3,0.0
+116872,2020-05-05,Golden Valley,Montana,30037.0,3,0.0
+119832,2020-05-06,Golden Valley,Montana,30037.0,3,0.0
+122806,2020-05-07,Golden Valley,Montana,30037.0,3,0.0
+125788,2020-05-08,Golden Valley,Montana,30037.0,3,0.0
+128776,2020-05-09,Golden Valley,Montana,30037.0,3,0.0
+131766,2020-05-10,Golden Valley,Montana,30037.0,3,0.0
+134757,2020-05-11,Golden Valley,Montana,30037.0,3,0.0
+137747,2020-05-12,Golden Valley,Montana,30037.0,3,0.0
+140741,2020-05-13,Golden Valley,Montana,30037.0,3,0.0
+143736,2020-05-14,Golden Valley,Montana,30037.0,3,0.0
+146737,2020-05-15,Golden Valley,Montana,30037.0,3,0.0
+149743,2020-05-16,Golden Valley,Montana,30037.0,3,0.0
+152754,2020-05-17,Golden Valley,Montana,30037.0,3,0.0
+155768,2020-05-18,Golden Valley,Montana,30037.0,3,0.0
+158786,2020-05-19,Golden Valley,Montana,30037.0,3,0.0
+161812,2020-05-20,Golden Valley,Montana,30037.0,3,0.0
+164841,2020-05-21,Golden Valley,Montana,30037.0,3,0.0
+167877,2020-05-22,Golden Valley,Montana,30037.0,3,0.0
+170916,2020-05-23,Golden Valley,Montana,30037.0,3,0.0
+173958,2020-05-24,Golden Valley,Montana,30037.0,3,0.0
+177001,2020-05-25,Golden Valley,Montana,30037.0,3,0.0
+180045,2020-05-26,Golden Valley,Montana,30037.0,3,0.0
+183093,2020-05-27,Golden Valley,Montana,30037.0,3,0.0
+186149,2020-05-28,Golden Valley,Montana,30037.0,3,0.0
+189208,2020-05-29,Golden Valley,Montana,30037.0,3,0.0
+192272,2020-05-30,Golden Valley,Montana,30037.0,3,0.0
+195342,2020-05-31,Golden Valley,Montana,30037.0,3,0.0
+198413,2020-06-01,Golden Valley,Montana,30037.0,3,0.0
+201486,2020-06-02,Golden Valley,Montana,30037.0,3,0.0
+204563,2020-06-03,Golden Valley,Montana,30037.0,3,0.0
+207644,2020-06-04,Golden Valley,Montana,30037.0,3,0.0
+210725,2020-06-05,Golden Valley,Montana,30037.0,3,0.0
+213809,2020-06-06,Golden Valley,Montana,30037.0,3,0.0
+216898,2020-06-07,Golden Valley,Montana,30037.0,3,0.0
+219990,2020-06-08,Golden Valley,Montana,30037.0,3,0.0
+223085,2020-06-09,Golden Valley,Montana,30037.0,3,0.0
+226184,2020-06-10,Golden Valley,Montana,30037.0,3,0.0
+229287,2020-06-11,Golden Valley,Montana,30037.0,3,0.0
+232392,2020-06-12,Golden Valley,Montana,30037.0,3,0.0
+235498,2020-06-13,Golden Valley,Montana,30037.0,3,0.0
+238605,2020-06-14,Golden Valley,Montana,30037.0,3,0.0
+241715,2020-06-15,Golden Valley,Montana,30037.0,3,0.0
+244826,2020-06-16,Golden Valley,Montana,30037.0,3,0.0
+247939,2020-06-17,Golden Valley,Montana,30037.0,3,0.0
+251053,2020-06-18,Golden Valley,Montana,30037.0,3,0.0
+254168,2020-06-19,Golden Valley,Montana,30037.0,3,0.0
+257291,2020-06-20,Golden Valley,Montana,30037.0,3,0.0
+260417,2020-06-21,Golden Valley,Montana,30037.0,3,0.0
+263546,2020-06-22,Golden Valley,Montana,30037.0,3,0.0
+266672,2020-06-23,Golden Valley,Montana,30037.0,3,0.0
+269805,2020-06-24,Golden Valley,Montana,30037.0,3,0.0
+272943,2020-06-25,Golden Valley,Montana,30037.0,3,0.0
+276086,2020-06-26,Golden Valley,Montana,30037.0,3,0.0
+279234,2020-06-27,Golden Valley,Montana,30037.0,3,0.0
+282382,2020-06-28,Golden Valley,Montana,30037.0,3,0.0
+285527,2020-06-29,Golden Valley,Montana,30037.0,3,0.0
+288677,2020-06-30,Golden Valley,Montana,30037.0,3,0.0
+291828,2020-07-01,Golden Valley,Montana,30037.0,3,0.0
+294982,2020-07-02,Golden Valley,Montana,30037.0,3,0.0
+298140,2020-07-03,Golden Valley,Montana,30037.0,3,0.0
+301303,2020-07-04,Golden Valley,Montana,30037.0,3,0.0
+304467,2020-07-05,Golden Valley,Montana,30037.0,3,0.0
+307634,2020-07-06,Golden Valley,Montana,30037.0,3,0.0
+310802,2020-07-07,Golden Valley,Montana,30037.0,3,0.0
+313973,2020-07-08,Golden Valley,Montana,30037.0,3,0.0
+317147,2020-07-09,Golden Valley,Montana,30037.0,3,0.0
+320322,2020-07-10,Golden Valley,Montana,30037.0,3,0.0
+323501,2020-07-11,Golden Valley,Montana,30037.0,3,0.0
+326685,2020-07-12,Golden Valley,Montana,30037.0,3,0.0
+329872,2020-07-13,Golden Valley,Montana,30037.0,3,0.0
+333059,2020-07-14,Golden Valley,Montana,30037.0,3,0.0
+333424,2020-07-14,Golden Valley,North Dakota,38033.0,1,0.0
+336252,2020-07-15,Golden Valley,Montana,30037.0,3,0.0
+336618,2020-07-15,Golden Valley,North Dakota,38033.0,1,0.0
+339449,2020-07-16,Golden Valley,Montana,30037.0,3,0.0
+339814,2020-07-16,Golden Valley,North Dakota,38033.0,1,0.0
+342645,2020-07-17,Golden Valley,Montana,30037.0,3,0.0
+343012,2020-07-17,Golden Valley,North Dakota,38033.0,2,0.0
+345845,2020-07-18,Golden Valley,Montana,30037.0,3,0.0
+346211,2020-07-18,Golden Valley,North Dakota,38033.0,2,0.0
+349046,2020-07-19,Golden Valley,Montana,30037.0,3,0.0
+349412,2020-07-19,Golden Valley,North Dakota,38033.0,2,0.0
+352246,2020-07-20,Golden Valley,Montana,30037.0,3,0.0
+352615,2020-07-20,Golden Valley,North Dakota,38033.0,2,0.0
+355449,2020-07-21,Golden Valley,Montana,30037.0,3,0.0
+355818,2020-07-21,Golden Valley,North Dakota,38033.0,2,0.0
+358652,2020-07-22,Golden Valley,Montana,30037.0,3,0.0
+359022,2020-07-22,Golden Valley,North Dakota,38033.0,3,0.0
+361857,2020-07-23,Golden Valley,Montana,30037.0,3,0.0
+362228,2020-07-23,Golden Valley,North Dakota,38033.0,3,0.0
+365064,2020-07-24,Golden Valley,Montana,30037.0,3,0.0
+365434,2020-07-24,Golden Valley,North Dakota,38033.0,3,0.0
+368273,2020-07-25,Golden Valley,Montana,30037.0,3,0.0
+368643,2020-07-25,Golden Valley,North Dakota,38033.0,4,0.0
+371484,2020-07-26,Golden Valley,Montana,30037.0,3,0.0
+371855,2020-07-26,Golden Valley,North Dakota,38033.0,4,0.0
+374696,2020-07-27,Golden Valley,Montana,30037.0,3,0.0
+375067,2020-07-27,Golden Valley,North Dakota,38033.0,4,0.0
+377911,2020-07-28,Golden Valley,Montana,30037.0,3,0.0
+378284,2020-07-28,Golden Valley,North Dakota,38033.0,4,0.0
+381128,2020-07-29,Golden Valley,Montana,30037.0,3,0.0
+381501,2020-07-29,Golden Valley,North Dakota,38033.0,4,0.0
+384344,2020-07-30,Golden Valley,Montana,30037.0,3,0.0
+384719,2020-07-30,Golden Valley,North Dakota,38033.0,4,0.0
+387562,2020-07-31,Golden Valley,Montana,30037.0,3,0.0
+387936,2020-07-31,Golden Valley,North Dakota,38033.0,4,0.0
+390779,2020-08-01,Golden Valley,Montana,30037.0,3,0.0
+391153,2020-08-01,Golden Valley,North Dakota,38033.0,4,0.0
+393996,2020-08-02,Golden Valley,Montana,30037.0,3,0.0
+394369,2020-08-02,Golden Valley,North Dakota,38033.0,4,0.0
+397212,2020-08-03,Golden Valley,Montana,30037.0,3,0.0
+397586,2020-08-03,Golden Valley,North Dakota,38033.0,4,0.0
+400426,2020-08-04,Golden Valley,Montana,30037.0,3,0.0
+400801,2020-08-04,Golden Valley,North Dakota,38033.0,4,0.0
+403643,2020-08-05,Golden Valley,Montana,30037.0,3,0.0
+404019,2020-08-05,Golden Valley,North Dakota,38033.0,4,0.0
+406861,2020-08-06,Golden Valley,Montana,30037.0,3,0.0
+407238,2020-08-06,Golden Valley,North Dakota,38033.0,4,0.0
+410081,2020-08-07,Golden Valley,Montana,30037.0,3,0.0
+410458,2020-08-07,Golden Valley,North Dakota,38033.0,4,0.0
+413301,2020-08-08,Golden Valley,Montana,30037.0,3,0.0
+413678,2020-08-08,Golden Valley,North Dakota,38033.0,4,0.0
+416521,2020-08-09,Golden Valley,Montana,30037.0,3,0.0
+416899,2020-08-09,Golden Valley,North Dakota,38033.0,4,0.0
+419742,2020-08-10,Golden Valley,Montana,30037.0,3,0.0
+420119,2020-08-10,Golden Valley,North Dakota,38033.0,5,0.0
+422964,2020-08-11,Golden Valley,Montana,30037.0,3,0.0
+423342,2020-08-11,Golden Valley,North Dakota,38033.0,5,0.0
+426186,2020-08-12,Golden Valley,Montana,30037.0,3,0.0
+426565,2020-08-12,Golden Valley,North Dakota,38033.0,6,0.0
+429410,2020-08-13,Golden Valley,Montana,30037.0,3,0.0
+429790,2020-08-13,Golden Valley,North Dakota,38033.0,8,0.0
+432637,2020-08-14,Golden Valley,Montana,30037.0,3,0.0
+433016,2020-08-14,Golden Valley,North Dakota,38033.0,10,0.0
+435863,2020-08-15,Golden Valley,Montana,30037.0,3,0.0
+436242,2020-08-15,Golden Valley,North Dakota,38033.0,11,0.0
+439088,2020-08-16,Golden Valley,Montana,30037.0,3,0.0
+439467,2020-08-16,Golden Valley,North Dakota,38033.0,12,0.0
+442315,2020-08-17,Golden Valley,Montana,30037.0,3,0.0
+442694,2020-08-17,Golden Valley,North Dakota,38033.0,12,0.0
+445541,2020-08-18,Golden Valley,Montana,30037.0,3,0.0
+445920,2020-08-18,Golden Valley,North Dakota,38033.0,14,0.0
+448767,2020-08-19,Golden Valley,Montana,30037.0,3,0.0
+449148,2020-08-19,Golden Valley,North Dakota,38033.0,14,0.0
+451995,2020-08-20,Golden Valley,Montana,30037.0,3,0.0
+452376,2020-08-20,Golden Valley,North Dakota,38033.0,15,0.0
+455223,2020-08-21,Golden Valley,Montana,30037.0,3,0.0
+455604,2020-08-21,Golden Valley,North Dakota,38033.0,15,0.0
+458451,2020-08-22,Golden Valley,Montana,30037.0,3,0.0
+458832,2020-08-22,Golden Valley,North Dakota,38033.0,22,0.0
+461678,2020-08-23,Golden Valley,Montana,30037.0,3,0.0
+462060,2020-08-23,Golden Valley,North Dakota,38033.0,22,0.0
+464909,2020-08-24,Golden Valley,Montana,30037.0,3,0.0
+465289,2020-08-24,Golden Valley,North Dakota,38033.0,23,0.0
+468138,2020-08-25,Golden Valley,Montana,30037.0,3,0.0
+468517,2020-08-25,Golden Valley,North Dakota,38033.0,24,0.0
+471368,2020-08-26,Golden Valley,Montana,30037.0,3,0.0
+471749,2020-08-26,Golden Valley,North Dakota,38033.0,26,0.0
+474600,2020-08-27,Golden Valley,Montana,30037.0,3,0.0
+474983,2020-08-27,Golden Valley,North Dakota,38033.0,28,0.0
+477833,2020-08-28,Golden Valley,Montana,30037.0,3,0.0
+478216,2020-08-28,Golden Valley,North Dakota,38033.0,30,0.0
+481065,2020-08-29,Golden Valley,Montana,30037.0,3,0.0
+481449,2020-08-29,Golden Valley,North Dakota,38033.0,35,0.0
+484300,2020-08-30,Golden Valley,Montana,30037.0,3,0.0
+484684,2020-08-30,Golden Valley,North Dakota,38033.0,35,0.0
+487534,2020-08-31,Golden Valley,Montana,30037.0,3,0.0
+487917,2020-08-31,Golden Valley,North Dakota,38033.0,35,0.0
+490767,2020-09-01,Golden Valley,Montana,30037.0,3,0.0
+491150,2020-09-01,Golden Valley,North Dakota,38033.0,34,0.0
+494001,2020-09-02,Golden Valley,Montana,30037.0,3,0.0
+494384,2020-09-02,Golden Valley,North Dakota,38033.0,34,0.0
+497234,2020-09-03,Golden Valley,Montana,30037.0,3,0.0
+497617,2020-09-03,Golden Valley,North Dakota,38033.0,35,0.0
+500468,2020-09-04,Golden Valley,Montana,30037.0,3,0.0
+500851,2020-09-04,Golden Valley,North Dakota,38033.0,37,0.0
+503702,2020-09-05,Golden Valley,Montana,30037.0,3,0.0
+504085,2020-09-05,Golden Valley,North Dakota,38033.0,38,0.0
+506935,2020-09-06,Golden Valley,Montana,30037.0,3,0.0
+507317,2020-09-06,Golden Valley,North Dakota,38033.0,38,0.0
+510168,2020-09-07,Golden Valley,Montana,30037.0,3,0.0
+510550,2020-09-07,Golden Valley,North Dakota,38033.0,39,0.0
+513400,2020-09-08,Golden Valley,Montana,30037.0,3,0.0
+513783,2020-09-08,Golden Valley,North Dakota,38033.0,39,0.0
+516634,2020-09-09,Golden Valley,Montana,30037.0,3,0.0
+517018,2020-09-09,Golden Valley,North Dakota,38033.0,39,0.0
+519869,2020-09-10,Golden Valley,Montana,30037.0,3,0.0
+520254,2020-09-10,Golden Valley,North Dakota,38033.0,39,0.0
+523106,2020-09-11,Golden Valley,Montana,30037.0,3,0.0
+523490,2020-09-11,Golden Valley,North Dakota,38033.0,40,0.0
+526342,2020-09-12,Golden Valley,Montana,30037.0,3,0.0
+526726,2020-09-12,Golden Valley,North Dakota,38033.0,40,0.0
+529578,2020-09-13,Golden Valley,Montana,30037.0,3,0.0
+529963,2020-09-13,Golden Valley,North Dakota,38033.0,40,0.0
+532814,2020-09-14,Golden Valley,Montana,30037.0,3,0.0
+533198,2020-09-14,Golden Valley,North Dakota,38033.0,40,0.0
+536049,2020-09-15,Golden Valley,Montana,30037.0,3,0.0
+536434,2020-09-15,Golden Valley,North Dakota,38033.0,40,0.0
+539286,2020-09-16,Golden Valley,Montana,30037.0,3,0.0
+539671,2020-09-16,Golden Valley,North Dakota,38033.0,41,0.0
+542522,2020-09-17,Golden Valley,Montana,30037.0,3,0.0
+542907,2020-09-17,Golden Valley,North Dakota,38033.0,41,0.0
+545759,2020-09-18,Golden Valley,Montana,30037.0,3,0.0
+546144,2020-09-18,Golden Valley,North Dakota,38033.0,41,0.0
+548997,2020-09-19,Golden Valley,Montana,30037.0,3,0.0
+549383,2020-09-19,Golden Valley,North Dakota,38033.0,41,0.0
+552236,2020-09-20,Golden Valley,Montana,30037.0,3,0.0
+552622,2020-09-20,Golden Valley,North Dakota,38033.0,41,0.0
+555474,2020-09-21,Golden Valley,Montana,30037.0,3,0.0
+555859,2020-09-21,Golden Valley,North Dakota,38033.0,41,0.0
+558711,2020-09-22,Golden Valley,Montana,30037.0,3,0.0
+559096,2020-09-22,Golden Valley,North Dakota,38033.0,41,0.0
+561948,2020-09-23,Golden Valley,Montana,30037.0,3,0.0
+562333,2020-09-23,Golden Valley,North Dakota,38033.0,41,0.0
+565189,2020-09-24,Golden Valley,Montana,30037.0,3,0.0
+565574,2020-09-24,Golden Valley,North Dakota,38033.0,41,0.0
+568429,2020-09-25,Golden Valley,Montana,30037.0,4,0.0
+568815,2020-09-25,Golden Valley,North Dakota,38033.0,43,0.0
+571671,2020-09-26,Golden Valley,Montana,30037.0,4,0.0
+572057,2020-09-26,Golden Valley,North Dakota,38033.0,44,0.0
+574914,2020-09-27,Golden Valley,Montana,30037.0,5,0.0
+575301,2020-09-27,Golden Valley,North Dakota,38033.0,45,0.0
+578155,2020-09-28,Golden Valley,Montana,30037.0,5,0.0
+578542,2020-09-28,Golden Valley,North Dakota,38033.0,46,0.0
+581396,2020-09-29,Golden Valley,Montana,30037.0,5,0.0
+581782,2020-09-29,Golden Valley,North Dakota,38033.0,49,0.0
+584637,2020-09-30,Golden Valley,Montana,30037.0,5,0.0
+585023,2020-09-30,Golden Valley,North Dakota,38033.0,51,0.0
+587877,2020-10-01,Golden Valley,Montana,30037.0,5,0.0
+588263,2020-10-01,Golden Valley,North Dakota,38033.0,53,0.0
+591118,2020-10-02,Golden Valley,Montana,30037.0,5,0.0
+591504,2020-10-02,Golden Valley,North Dakota,38033.0,53,0.0
+594359,2020-10-03,Golden Valley,Montana,30037.0,5,0.0
+594745,2020-10-03,Golden Valley,North Dakota,38033.0,60,0.0
+597600,2020-10-04,Golden Valley,Montana,30037.0,5,0.0
+597988,2020-10-04,Golden Valley,North Dakota,38033.0,67,0.0
+600843,2020-10-05,Golden Valley,Montana,30037.0,5,0.0
+601231,2020-10-05,Golden Valley,North Dakota,38033.0,69,0.0
+604085,2020-10-06,Golden Valley,Montana,30037.0,5,0.0
+604473,2020-10-06,Golden Valley,North Dakota,38033.0,69,0.0
+607328,2020-10-07,Golden Valley,Montana,30037.0,5,0.0
+607716,2020-10-07,Golden Valley,North Dakota,38033.0,69,0.0
+610570,2020-10-08,Golden Valley,Montana,30037.0,5,0.0
+610958,2020-10-08,Golden Valley,North Dakota,38033.0,79,0.0
+613812,2020-10-09,Golden Valley,Montana,30037.0,5,0.0
+614199,2020-10-09,Golden Valley,North Dakota,38033.0,82,0.0
+617053,2020-10-10,Golden Valley,Montana,30037.0,5,0.0
+617441,2020-10-10,Golden Valley,North Dakota,38033.0,87,0.0
+620295,2020-10-11,Golden Valley,Montana,30037.0,5,0.0
+620683,2020-10-11,Golden Valley,North Dakota,38033.0,87,0.0
+623538,2020-10-12,Golden Valley,Montana,30037.0,5,0.0
+623926,2020-10-12,Golden Valley,North Dakota,38033.0,90,0.0
+626780,2020-10-13,Golden Valley,Montana,30037.0,5,0.0
+627168,2020-10-13,Golden Valley,North Dakota,38033.0,89,0.0
+630024,2020-10-14,Golden Valley,Montana,30037.0,5,0.0
+630412,2020-10-14,Golden Valley,North Dakota,38033.0,91,0.0
+633269,2020-10-15,Golden Valley,Montana,30037.0,5,0.0
+633657,2020-10-15,Golden Valley,North Dakota,38033.0,100,0.0
+636515,2020-10-16,Golden Valley,Montana,30037.0,6,0.0
+636903,2020-10-16,Golden Valley,North Dakota,38033.0,100,0.0
+639761,2020-10-17,Golden Valley,Montana,30037.0,6,0.0
+640149,2020-10-17,Golden Valley,North Dakota,38033.0,100,0.0
+643009,2020-10-18,Golden Valley,Montana,30037.0,6,0.0
+643397,2020-10-18,Golden Valley,North Dakota,38033.0,101,0.0
+646255,2020-10-19,Golden Valley,Montana,30037.0,10,0.0
+646643,2020-10-19,Golden Valley,North Dakota,38033.0,103,0.0
+649499,2020-10-20,Golden Valley,Montana,30037.0,10,0.0
+649887,2020-10-20,Golden Valley,North Dakota,38033.0,107,0.0
+652744,2020-10-21,Golden Valley,Montana,30037.0,12,0.0
+653132,2020-10-21,Golden Valley,North Dakota,38033.0,112,0.0
+655989,2020-10-22,Golden Valley,Montana,30037.0,12,0.0
+656377,2020-10-22,Golden Valley,North Dakota,38033.0,112,0.0
+659234,2020-10-23,Golden Valley,Montana,30037.0,12,0.0
+659621,2020-10-23,Golden Valley,North Dakota,38033.0,112,0.0
+662478,2020-10-24,Golden Valley,Montana,30037.0,13,0.0
+662865,2020-10-24,Golden Valley,North Dakota,38033.0,112,0.0
+665723,2020-10-25,Golden Valley,Montana,30037.0,15,0.0
+666110,2020-10-25,Golden Valley,North Dakota,38033.0,113,0.0
+668967,2020-10-26,Golden Valley,Montana,30037.0,15,0.0
+669354,2020-10-26,Golden Valley,North Dakota,38033.0,113,0.0
+672209,2020-10-27,Golden Valley,Montana,30037.0,16,0.0
+672596,2020-10-27,Golden Valley,North Dakota,38033.0,115,0.0
+675452,2020-10-28,Golden Valley,Montana,30037.0,16,0.0
+675839,2020-10-28,Golden Valley,North Dakota,38033.0,114,0.0
+678694,2020-10-29,Golden Valley,Montana,30037.0,16,0.0
+679082,2020-10-29,Golden Valley,North Dakota,38033.0,115,0.0
+681938,2020-10-30,Golden Valley,Montana,30037.0,16,0.0
+682325,2020-10-30,Golden Valley,North Dakota,38033.0,117,0.0
+685181,2020-10-31,Golden Valley,Montana,30037.0,16,0.0
+685568,2020-10-31,Golden Valley,North Dakota,38033.0,118,0.0
+688425,2020-11-01,Golden Valley,Montana,30037.0,16,0.0
+688813,2020-11-01,Golden Valley,North Dakota,38033.0,121,0.0
+691670,2020-11-02,Golden Valley,Montana,30037.0,16,0.0
+692057,2020-11-02,Golden Valley,North Dakota,38033.0,124,0.0
+694912,2020-11-03,Golden Valley,Montana,30037.0,16,0.0
+695299,2020-11-03,Golden Valley,North Dakota,38033.0,124,0.0
+698155,2020-11-04,Golden Valley,Montana,30037.0,16,0.0
+698542,2020-11-04,Golden Valley,North Dakota,38033.0,124,0.0
+701399,2020-11-05,Golden Valley,Montana,30037.0,16,0.0
+701786,2020-11-05,Golden Valley,North Dakota,38033.0,127,0.0
+704641,2020-11-06,Golden Valley,Montana,30037.0,16,0.0
+705029,2020-11-06,Golden Valley,North Dakota,38033.0,127,0.0
+707884,2020-11-07,Golden Valley,Montana,30037.0,16,0.0
+708272,2020-11-07,Golden Valley,North Dakota,38033.0,128,0.0
+711128,2020-11-08,Golden Valley,Montana,30037.0,16,0.0
+711516,2020-11-08,Golden Valley,North Dakota,38033.0,128,0.0
+714372,2020-11-09,Golden Valley,Montana,30037.0,16,0.0
+714760,2020-11-09,Golden Valley,North Dakota,38033.0,128,0.0
+717616,2020-11-10,Golden Valley,Montana,30037.0,17,0.0
+718003,2020-11-10,Golden Valley,North Dakota,38033.0,128,0.0
+720859,2020-11-11,Golden Valley,Montana,30037.0,19,0.0
+721246,2020-11-11,Golden Valley,North Dakota,38033.0,128,0.0
+724102,2020-11-12,Golden Valley,Montana,30037.0,19,0.0
+724489,2020-11-12,Golden Valley,North Dakota,38033.0,129,0.0
+727345,2020-11-13,Golden Valley,Montana,30037.0,19,0.0
+727733,2020-11-13,Golden Valley,North Dakota,38033.0,130,0.0
+730588,2020-11-14,Golden Valley,Montana,30037.0,20,0.0
+730977,2020-11-14,Golden Valley,North Dakota,38033.0,137,0.0
+733833,2020-11-15,Golden Valley,Montana,30037.0,20,0.0
+734223,2020-11-15,Golden Valley,North Dakota,38033.0,137,0.0
+737079,2020-11-16,Golden Valley,Montana,30037.0,21,0.0
+737467,2020-11-16,Golden Valley,North Dakota,38033.0,139,0.0
+740323,2020-11-17,Golden Valley,Montana,30037.0,21,0.0
+740712,2020-11-17,Golden Valley,North Dakota,38033.0,139,0.0
+743570,2020-11-18,Golden Valley,Montana,30037.0,22,0.0
+743959,2020-11-18,Golden Valley,North Dakota,38033.0,140,0.0
+746817,2020-11-19,Golden Valley,Montana,30037.0,22,0.0
+747205,2020-11-19,Golden Valley,North Dakota,38033.0,144,0.0
+750063,2020-11-20,Golden Valley,Montana,30037.0,22,0.0
+750451,2020-11-20,Golden Valley,North Dakota,38033.0,146,0.0
+753309,2020-11-21,Golden Valley,Montana,30037.0,24,0.0
+753697,2020-11-21,Golden Valley,North Dakota,38033.0,148,0.0
+756555,2020-11-22,Golden Valley,Montana,30037.0,24,0.0
+756944,2020-11-22,Golden Valley,North Dakota,38033.0,151,0.0
+759802,2020-11-23,Golden Valley,Montana,30037.0,24,0.0
+760190,2020-11-23,Golden Valley,North Dakota,38033.0,152,0.0
+763047,2020-11-24,Golden Valley,Montana,30037.0,24,0.0
+763435,2020-11-24,Golden Valley,North Dakota,38033.0,152,0.0
+766292,2020-11-25,Golden Valley,Montana,30037.0,24,0.0
+766680,2020-11-25,Golden Valley,North Dakota,38033.0,153,0.0
+769538,2020-11-26,Golden Valley,Montana,30037.0,24,0.0
+769926,2020-11-26,Golden Valley,North Dakota,38033.0,153,0.0
+772783,2020-11-27,Golden Valley,Montana,30037.0,24,0.0
+773171,2020-11-27,Golden Valley,North Dakota,38033.0,155,0.0
+776028,2020-11-28,Golden Valley,Montana,30037.0,24,0.0
+776416,2020-11-28,Golden Valley,North Dakota,38033.0,158,0.0
+779273,2020-11-29,Golden Valley,Montana,30037.0,24,0.0
+779661,2020-11-29,Golden Valley,North Dakota,38033.0,159,0.0
+782519,2020-11-30,Golden Valley,Montana,30037.0,24,0.0
+782907,2020-11-30,Golden Valley,North Dakota,38033.0,161,0.0
+785763,2020-12-01,Golden Valley,Montana,30037.0,24,0.0
+786151,2020-12-01,Golden Valley,North Dakota,38033.0,160,0.0
+789008,2020-12-02,Golden Valley,Montana,30037.0,24,0.0
+789396,2020-12-02,Golden Valley,North Dakota,38033.0,161,0.0
+792253,2020-12-03,Golden Valley,Montana,30037.0,24,0.0
+792641,2020-12-03,Golden Valley,North Dakota,38033.0,163,0.0
+795498,2020-12-04,Golden Valley,Montana,30037.0,24,0.0
+795886,2020-12-04,Golden Valley,North Dakota,38033.0,170,0.0
+798743,2020-12-05,Golden Valley,Montana,30037.0,24,0.0
+799131,2020-12-05,Golden Valley,North Dakota,38033.0,174,0.0
+801988,2020-12-06,Golden Valley,Montana,30037.0,25,0.0
+802376,2020-12-06,Golden Valley,North Dakota,38033.0,174,0.0
+805233,2020-12-07,Golden Valley,Montana,30037.0,25,0.0
+805621,2020-12-07,Golden Valley,North Dakota,38033.0,174,0.0
+808478,2020-12-08,Golden Valley,Montana,30037.0,25,0.0
+808866,2020-12-08,Golden Valley,North Dakota,38033.0,174,0.0
+811723,2020-12-09,Golden Valley,Montana,30037.0,25,0.0
+812111,2020-12-09,Golden Valley,North Dakota,38033.0,181,0.0
+814968,2020-12-10,Golden Valley,Montana,30037.0,25,0.0
+815356,2020-12-10,Golden Valley,North Dakota,38033.0,183,0.0
+818214,2020-12-11,Golden Valley,Montana,30037.0,26,0.0
+818602,2020-12-11,Golden Valley,North Dakota,38033.0,185,0.0
+821460,2020-12-12,Golden Valley,Montana,30037.0,29,0.0
+821848,2020-12-12,Golden Valley,North Dakota,38033.0,187,0.0
+824706,2020-12-13,Golden Valley,Montana,30037.0,31,0.0
+825095,2020-12-13,Golden Valley,North Dakota,38033.0,187,0.0
+827953,2020-12-14,Golden Valley,Montana,30037.0,31,0.0
+828341,2020-12-14,Golden Valley,North Dakota,38033.0,188,0.0
+831199,2020-12-15,Golden Valley,Montana,30037.0,35,0.0
+831588,2020-12-15,Golden Valley,North Dakota,38033.0,189,0.0
+834446,2020-12-16,Golden Valley,Montana,30037.0,36,0.0
+834834,2020-12-16,Golden Valley,North Dakota,38033.0,190,0.0
+837692,2020-12-17,Golden Valley,Montana,30037.0,37,0.0
+838080,2020-12-17,Golden Valley,North Dakota,38033.0,192,0.0
+840937,2020-12-18,Golden Valley,Montana,30037.0,38,0.0
+841325,2020-12-18,Golden Valley,North Dakota,38033.0,192,0.0
+844182,2020-12-19,Golden Valley,Montana,30037.0,39,0.0
+844571,2020-12-19,Golden Valley,North Dakota,38033.0,193,0.0
+847428,2020-12-20,Golden Valley,Montana,30037.0,40,0.0
+847816,2020-12-20,Golden Valley,North Dakota,38033.0,193,0.0
+850673,2020-12-21,Golden Valley,Montana,30037.0,40,0.0
+851061,2020-12-21,Golden Valley,North Dakota,38033.0,193,0.0
+853918,2020-12-22,Golden Valley,Montana,30037.0,41,0.0
+854306,2020-12-22,Golden Valley,North Dakota,38033.0,194,0.0
+857163,2020-12-23,Golden Valley,Montana,30037.0,42,0.0
+857551,2020-12-23,Golden Valley,North Dakota,38033.0,194,0.0
+860408,2020-12-24,Golden Valley,Montana,30037.0,42,0.0
+860796,2020-12-24,Golden Valley,North Dakota,38033.0,194,0.0
+863653,2020-12-25,Golden Valley,Montana,30037.0,42,0.0
+864041,2020-12-25,Golden Valley,North Dakota,38033.0,194,0.0
+866898,2020-12-26,Golden Valley,Montana,30037.0,42,0.0
+867286,2020-12-26,Golden Valley,North Dakota,38033.0,194,0.0
+870143,2020-12-27,Golden Valley,Montana,30037.0,42,0.0
+870531,2020-12-27,Golden Valley,North Dakota,38033.0,194,0.0
+873388,2020-12-28,Golden Valley,Montana,30037.0,42,0.0
+873776,2020-12-28,Golden Valley,North Dakota,38033.0,194,0.0
+876633,2020-12-29,Golden Valley,Montana,30037.0,42,0.0
+877021,2020-12-29,Golden Valley,North Dakota,38033.0,195,0.0
+879878,2020-12-30,Golden Valley,Montana,30037.0,43,0.0
+880266,2020-12-30,Golden Valley,North Dakota,38033.0,195,0.0
+883123,2020-12-31,Golden Valley,Montana,30037.0,43,0.0
+883511,2020-12-31,Golden Valley,North Dakota,38033.0,200,0.0
+886368,2021-01-01,Golden Valley,Montana,30037.0,43,0.0
+886756,2021-01-01,Golden Valley,North Dakota,38033.0,201,0.0
+889614,2021-01-02,Golden Valley,Montana,30037.0,43,0.0
+890003,2021-01-02,Golden Valley,North Dakota,38033.0,201,0.0
+892860,2021-01-03,Golden Valley,Montana,30037.0,43,0.0
+893249,2021-01-03,Golden Valley,North Dakota,38033.0,201,0.0
+896107,2021-01-04,Golden Valley,Montana,30037.0,44,0.0
+896495,2021-01-04,Golden Valley,North Dakota,38033.0,201,0.0
+899352,2021-01-05,Golden Valley,Montana,30037.0,46,0.0
+899740,2021-01-05,Golden Valley,North Dakota,38033.0,203,0.0
+902597,2021-01-06,Golden Valley,Montana,30037.0,46,0.0
+902985,2021-01-06,Golden Valley,North Dakota,38033.0,206,0.0
+905842,2021-01-07,Golden Valley,Montana,30037.0,46,0.0
+906231,2021-01-07,Golden Valley,North Dakota,38033.0,206,0.0
+909088,2021-01-08,Golden Valley,Montana,30037.0,47,0.0
+909476,2021-01-08,Golden Valley,North Dakota,38033.0,210,0.0
+912333,2021-01-09,Golden Valley,Montana,30037.0,47,0.0
+912721,2021-01-09,Golden Valley,North Dakota,38033.0,212,0.0
+915578,2021-01-10,Golden Valley,Montana,30037.0,47,0.0
+915966,2021-01-10,Golden Valley,North Dakota,38033.0,214,0.0
+918823,2021-01-11,Golden Valley,Montana,30037.0,47,0.0
+919211,2021-01-11,Golden Valley,North Dakota,38033.0,215,0.0
+922068,2021-01-12,Golden Valley,Montana,30037.0,47,0.0
+922456,2021-01-12,Golden Valley,North Dakota,38033.0,220,0.0
+925313,2021-01-13,Golden Valley,Montana,30037.0,49,0.0
+925702,2021-01-13,Golden Valley,North Dakota,38033.0,220,0.0
+928559,2021-01-14,Golden Valley,Montana,30037.0,49,0.0
+928947,2021-01-14,Golden Valley,North Dakota,38033.0,234,0.0
+931804,2021-01-15,Golden Valley,Montana,30037.0,49,0.0
+932192,2021-01-15,Golden Valley,North Dakota,38033.0,236,1.0
+935049,2021-01-16,Golden Valley,Montana,30037.0,49,0.0
+935437,2021-01-16,Golden Valley,North Dakota,38033.0,238,1.0
+938294,2021-01-17,Golden Valley,Montana,30037.0,49,0.0
+938682,2021-01-17,Golden Valley,North Dakota,38033.0,239,1.0
+941539,2021-01-18,Golden Valley,Montana,30037.0,49,0.0
+941927,2021-01-18,Golden Valley,North Dakota,38033.0,239,1.0
+944784,2021-01-19,Golden Valley,Montana,30037.0,49,0.0
+945174,2021-01-19,Golden Valley,North Dakota,38033.0,240,1.0
+948031,2021-01-20,Golden Valley,Montana,30037.0,49,0.0
+948420,2021-01-20,Golden Valley,North Dakota,38033.0,241,1.0
+951277,2021-01-21,Golden Valley,Montana,30037.0,49,0.0
+951665,2021-01-21,Golden Valley,North Dakota,38033.0,241,2.0
+954522,2021-01-22,Golden Valley,Montana,30037.0,49,0.0
+954910,2021-01-22,Golden Valley,North Dakota,38033.0,241,2.0
+957767,2021-01-23,Golden Valley,Montana,30037.0,49,2.0
+958156,2021-01-23,Golden Valley,North Dakota,38033.0,241,2.0
+961013,2021-01-24,Golden Valley,Montana,30037.0,49,2.0
+961401,2021-01-24,Golden Valley,North Dakota,38033.0,241,2.0
+964258,2021-01-25,Golden Valley,Montana,30037.0,50,2.0
+964646,2021-01-25,Golden Valley,North Dakota,38033.0,241,2.0
+967502,2021-01-26,Golden Valley,Montana,30037.0,50,2.0
+967890,2021-01-26,Golden Valley,North Dakota,38033.0,241,3.0
+970747,2021-01-27,Golden Valley,Montana,30037.0,50,2.0
+971135,2021-01-27,Golden Valley,North Dakota,38033.0,241,3.0
+973992,2021-01-28,Golden Valley,Montana,30037.0,50,2.0
+974380,2021-01-28,Golden Valley,North Dakota,38033.0,241,3.0
+977237,2021-01-29,Golden Valley,Montana,30037.0,50,2.0
+977625,2021-01-29,Golden Valley,North Dakota,38033.0,241,3.0
+980483,2021-01-30,Golden Valley,Montana,30037.0,51,2.0
+980871,2021-01-30,Golden Valley,North Dakota,38033.0,241,3.0
+983729,2021-01-31,Golden Valley,Montana,30037.0,51,2.0
+984118,2021-01-31,Golden Valley,North Dakota,38033.0,241,3.0
+986976,2021-02-01,Golden Valley,Montana,30037.0,51,2.0
+987365,2021-02-01,Golden Valley,North Dakota,38033.0,241,3.0
+990223,2021-02-02,Golden Valley,Montana,30037.0,51,2.0
+990611,2021-02-02,Golden Valley,North Dakota,38033.0,241,3.0
+993469,2021-02-03,Golden Valley,Montana,30037.0,51,2.0
+993857,2021-02-03,Golden Valley,North Dakota,38033.0,241,3.0
+996715,2021-02-04,Golden Valley,Montana,30037.0,51,2.0
+997103,2021-02-04,Golden Valley,North Dakota,38033.0,241,3.0
+999961,2021-02-05,Golden Valley,Montana,30037.0,51,2.0
+1000349,2021-02-05,Golden Valley,North Dakota,38033.0,241,3.0
+1003206,2021-02-06,Golden Valley,Montana,30037.0,51,2.0
+1003595,2021-02-06,Golden Valley,North Dakota,38033.0,241,3.0
+1006452,2021-02-07,Golden Valley,Montana,30037.0,51,2.0
+1006841,2021-02-07,Golden Valley,North Dakota,38033.0,241,3.0
+1009699,2021-02-08,Golden Valley,Montana,30037.0,51,2.0
+1010087,2021-02-08,Golden Valley,North Dakota,38033.0,242,3.0
+1012944,2021-02-09,Golden Valley,Montana,30037.0,51,2.0
+1013332,2021-02-09,Golden Valley,North Dakota,38033.0,241,2.0
+1016189,2021-02-10,Golden Valley,Montana,30037.0,51,2.0
+1016577,2021-02-10,Golden Valley,North Dakota,38033.0,242,2.0
+1019434,2021-02-11,Golden Valley,Montana,30037.0,51,2.0
+1019822,2021-02-11,Golden Valley,North Dakota,38033.0,242,2.0
+1022679,2021-02-12,Golden Valley,Montana,30037.0,51,2.0
+1023067,2021-02-12,Golden Valley,North Dakota,38033.0,242,2.0
+1025924,2021-02-13,Golden Valley,Montana,30037.0,51,2.0
+1026312,2021-02-13,Golden Valley,North Dakota,38033.0,242,2.0
+1029170,2021-02-14,Golden Valley,Montana,30037.0,51,2.0
+1029559,2021-02-14,Golden Valley,North Dakota,38033.0,242,2.0
+1032417,2021-02-15,Golden Valley,Montana,30037.0,51,2.0
+1032805,2021-02-15,Golden Valley,North Dakota,38033.0,242,2.0
+1035662,2021-02-16,Golden Valley,Montana,30037.0,51,2.0
+1036050,2021-02-16,Golden Valley,North Dakota,38033.0,242,2.0
+1038907,2021-02-17,Golden Valley,Montana,30037.0,51,2.0
+1039295,2021-02-17,Golden Valley,North Dakota,38033.0,243,2.0
+1042152,2021-02-18,Golden Valley,Montana,30037.0,51,2.0
+1042540,2021-02-18,Golden Valley,North Dakota,38033.0,243,2.0
+1045397,2021-02-19,Golden Valley,Montana,30037.0,51,2.0
+1045785,2021-02-19,Golden Valley,North Dakota,38033.0,243,2.0
+1048643,2021-02-20,Golden Valley,Montana,30037.0,51,2.0
+1049032,2021-02-20,Golden Valley,North Dakota,38033.0,243,2.0
+1051890,2021-02-21,Golden Valley,Montana,30037.0,51,2.0
+1052279,2021-02-21,Golden Valley,North Dakota,38033.0,243,2.0
+1055137,2021-02-22,Golden Valley,Montana,30037.0,51,2.0
+1055525,2021-02-22,Golden Valley,North Dakota,38033.0,244,2.0
+1058383,2021-02-23,Golden Valley,Montana,30037.0,51,2.0
+1058771,2021-02-23,Golden Valley,North Dakota,38033.0,244,2.0
+1061629,2021-02-24,Golden Valley,Montana,30037.0,51,2.0
+1062017,2021-02-24,Golden Valley,North Dakota,38033.0,244,2.0
+1064873,2021-02-25,Golden Valley,Montana,30037.0,52,2.0
+1065261,2021-02-25,Golden Valley,North Dakota,38033.0,246,2.0
+1068118,2021-02-26,Golden Valley,Montana,30037.0,52,2.0
+1068506,2021-02-26,Golden Valley,North Dakota,38033.0,246,2.0
+1071363,2021-02-27,Golden Valley,Montana,30037.0,52,2.0
+1071752,2021-02-27,Golden Valley,North Dakota,38033.0,246,2.0
+1074609,2021-02-28,Golden Valley,Montana,30037.0,53,2.0
+1074998,2021-02-28,Golden Valley,North Dakota,38033.0,246,2.0
+1077855,2021-03-01,Golden Valley,Montana,30037.0,53,2.0
+1078243,2021-03-01,Golden Valley,North Dakota,38033.0,246,2.0
+1081101,2021-03-02,Golden Valley,Montana,30037.0,53,2.0
+1081489,2021-03-02,Golden Valley,North Dakota,38033.0,246,2.0
+1084347,2021-03-03,Golden Valley,Montana,30037.0,53,2.0
+1084735,2021-03-03,Golden Valley,North Dakota,38033.0,246,2.0
+1087592,2021-03-04,Golden Valley,Montana,30037.0,53,2.0
+1087980,2021-03-04,Golden Valley,North Dakota,38033.0,247,2.0
+1090837,2021-03-05,Golden Valley,Montana,30037.0,53,2.0
+1091225,2021-03-05,Golden Valley,North Dakota,38033.0,247,2.0
+1094083,2021-03-06,Golden Valley,Montana,30037.0,53,2.0
+1094471,2021-03-06,Golden Valley,North Dakota,38033.0,247,2.0
+1097330,2021-03-07,Golden Valley,Montana,30037.0,53,2.0
+1097719,2021-03-07,Golden Valley,North Dakota,38033.0,247,2.0
+1100577,2021-03-08,Golden Valley,Montana,30037.0,53,2.0
+1100965,2021-03-08,Golden Valley,North Dakota,38033.0,248,2.0
+1103823,2021-03-09,Golden Valley,Montana,30037.0,53,2.0
+1104211,2021-03-09,Golden Valley,North Dakota,38033.0,249,2.0
+1107069,2021-03-10,Golden Valley,Montana,30037.0,53,2.0
+1107457,2021-03-10,Golden Valley,North Dakota,38033.0,249,2.0
+1110315,2021-03-11,Golden Valley,Montana,30037.0,53,2.0
+1110703,2021-03-11,Golden Valley,North Dakota,38033.0,249,2.0
+1113561,2021-03-12,Golden Valley,Montana,30037.0,53,2.0
+1113949,2021-03-12,Golden Valley,North Dakota,38033.0,249,2.0
+1116807,2021-03-13,Golden Valley,Montana,30037.0,53,2.0
+1117196,2021-03-13,Golden Valley,North Dakota,38033.0,249,2.0
+1120054,2021-03-14,Golden Valley,Montana,30037.0,53,2.0
+1120443,2021-03-14,Golden Valley,North Dakota,38033.0,249,2.0
+1123301,2021-03-15,Golden Valley,Montana,30037.0,53,2.0
+1123689,2021-03-15,Golden Valley,North Dakota,38033.0,249,2.0
+1126547,2021-03-16,Golden Valley,Montana,30037.0,53,2.0
+1126935,2021-03-16,Golden Valley,North Dakota,38033.0,249,2.0
+1129794,2021-03-17,Golden Valley,Montana,30037.0,53,2.0
+1130182,2021-03-17,Golden Valley,North Dakota,38033.0,249,2.0
+1133042,2021-03-18,Golden Valley,Montana,30037.0,53,2.0
+1133430,2021-03-18,Golden Valley,North Dakota,38033.0,249,2.0
+1136288,2021-03-19,Golden Valley,Montana,30037.0,53,2.0
+1136676,2021-03-19,Golden Valley,North Dakota,38033.0,249,2.0
+1139534,2021-03-20,Golden Valley,Montana,30037.0,53,2.0
+1139922,2021-03-20,Golden Valley,North Dakota,38033.0,249,2.0
+1142781,2021-03-21,Golden Valley,Montana,30037.0,54,2.0
+1143169,2021-03-21,Golden Valley,North Dakota,38033.0,249,2.0
+1146028,2021-03-22,Golden Valley,Montana,30037.0,53,2.0
+1146416,2021-03-22,Golden Valley,North Dakota,38033.0,249,2.0
+1149275,2021-03-23,Golden Valley,Montana,30037.0,53,2.0
+1149663,2021-03-23,Golden Valley,North Dakota,38033.0,250,2.0
+1152522,2021-03-24,Golden Valley,Montana,30037.0,53,2.0
+1152910,2021-03-24,Golden Valley,North Dakota,38033.0,251,2.0
+1155769,2021-03-25,Golden Valley,Montana,30037.0,53,2.0
+1156157,2021-03-25,Golden Valley,North Dakota,38033.0,253,2.0
+1159016,2021-03-26,Golden Valley,Montana,30037.0,53,2.0
+1159404,2021-03-26,Golden Valley,North Dakota,38033.0,254,2.0
+1162264,2021-03-27,Golden Valley,Montana,30037.0,53,2.0
+1162653,2021-03-27,Golden Valley,North Dakota,38033.0,254,2.0
+1165512,2021-03-28,Golden Valley,Montana,30037.0,53,2.0
+1165901,2021-03-28,Golden Valley,North Dakota,38033.0,254,2.0
+1168760,2021-03-29,Golden Valley,Montana,30037.0,53,2.0
+1169149,2021-03-29,Golden Valley,North Dakota,38033.0,254,2.0
+1172008,2021-03-30,Golden Valley,Montana,30037.0,53,2.0
+1172396,2021-03-30,Golden Valley,North Dakota,38033.0,254,2.0
+1175255,2021-03-31,Golden Valley,Montana,30037.0,54,2.0
+1175643,2021-03-31,Golden Valley,North Dakota,38033.0,254,2.0
+1178502,2021-04-01,Golden Valley,Montana,30037.0,53,2.0
+1178890,2021-04-01,Golden Valley,North Dakota,38033.0,254,2.0
+1181749,2021-04-02,Golden Valley,Montana,30037.0,53,2.0
+1182137,2021-04-02,Golden Valley,North Dakota,38033.0,254,2.0
+1184995,2021-04-03,Golden Valley,Montana,30037.0,53,2.0
+1185384,2021-04-03,Golden Valley,North Dakota,38033.0,255,2.0
+1188242,2021-04-04,Golden Valley,Montana,30037.0,53,2.0
+1188631,2021-04-04,Golden Valley,North Dakota,38033.0,255,2.0
+1191490,2021-04-05,Golden Valley,Montana,30037.0,53,2.0
+1191880,2021-04-05,Golden Valley,North Dakota,38033.0,255,2.0
+1194739,2021-04-06,Golden Valley,Montana,30037.0,53,2.0
+1195128,2021-04-06,Golden Valley,North Dakota,38033.0,255,2.0
+1197988,2021-04-07,Golden Valley,Montana,30037.0,53,2.0
+1198377,2021-04-07,Golden Valley,North Dakota,38033.0,255,2.0
+1201237,2021-04-08,Golden Valley,Montana,30037.0,53,2.0
+1201626,2021-04-08,Golden Valley,North Dakota,38033.0,255,2.0
+1204485,2021-04-09,Golden Valley,Montana,30037.0,53,2.0
+1204874,2021-04-09,Golden Valley,North Dakota,38033.0,255,2.0
+1207733,2021-04-10,Golden Valley,Montana,30037.0,53,2.0
+1208122,2021-04-10,Golden Valley,North Dakota,38033.0,256,2.0
+1210982,2021-04-11,Golden Valley,Montana,30037.0,53,2.0
+1211371,2021-04-11,Golden Valley,North Dakota,38033.0,256,2.0
+1214230,2021-04-12,Golden Valley,Montana,30037.0,53,2.0
+1214618,2021-04-12,Golden Valley,North Dakota,38033.0,256,2.0
+1217477,2021-04-13,Golden Valley,Montana,30037.0,53,2.0
+1217866,2021-04-13,Golden Valley,North Dakota,38033.0,256,2.0
+1220725,2021-04-14,Golden Valley,Montana,30037.0,53,2.0
+1221114,2021-04-14,Golden Valley,North Dakota,38033.0,256,3.0
+1223972,2021-04-15,Golden Valley,Montana,30037.0,53,2.0
+1224361,2021-04-15,Golden Valley,North Dakota,38033.0,256,3.0
+1227220,2021-04-16,Golden Valley,Montana,30037.0,53,2.0
+1227609,2021-04-16,Golden Valley,North Dakota,38033.0,256,3.0
+1230468,2021-04-17,Golden Valley,Montana,30037.0,53,2.0
+1230857,2021-04-17,Golden Valley,North Dakota,38033.0,256,3.0
+1233716,2021-04-18,Golden Valley,Montana,30037.0,53,2.0
+1234105,2021-04-18,Golden Valley,North Dakota,38033.0,256,3.0
+1236963,2021-04-19,Golden Valley,Montana,30037.0,53,2.0
+1237352,2021-04-19,Golden Valley,North Dakota,38033.0,256,3.0
+1240210,2021-04-20,Golden Valley,Montana,30037.0,54,2.0
+1240599,2021-04-20,Golden Valley,North Dakota,38033.0,256,3.0
+1243457,2021-04-21,Golden Valley,Montana,30037.0,54,2.0
+1243846,2021-04-21,Golden Valley,North Dakota,38033.0,257,3.0
+1246704,2021-04-22,Golden Valley,Montana,30037.0,54,2.0
+1247093,2021-04-22,Golden Valley,North Dakota,38033.0,257,3.0
+1249951,2021-04-23,Golden Valley,Montana,30037.0,54,2.0
+1250340,2021-04-23,Golden Valley,North Dakota,38033.0,257,3.0
+1253198,2021-04-24,Golden Valley,Montana,30037.0,55,2.0
+1253587,2021-04-24,Golden Valley,North Dakota,38033.0,257,3.0
+1256445,2021-04-25,Golden Valley,Montana,30037.0,55,2.0
+1256834,2021-04-25,Golden Valley,North Dakota,38033.0,257,3.0
+1259692,2021-04-26,Golden Valley,Montana,30037.0,55,2.0
+1260081,2021-04-26,Golden Valley,North Dakota,38033.0,257,3.0
+1262939,2021-04-27,Golden Valley,Montana,30037.0,55,2.0
+1263328,2021-04-27,Golden Valley,North Dakota,38033.0,257,3.0
+1266186,2021-04-28,Golden Valley,Montana,30037.0,55,2.0
+1266575,2021-04-28,Golden Valley,North Dakota,38033.0,257,3.0
+1269433,2021-04-29,Golden Valley,Montana,30037.0,55,2.0
+1269822,2021-04-29,Golden Valley,North Dakota,38033.0,257,3.0
+1272680,2021-04-30,Golden Valley,Montana,30037.0,55,2.0
+1273069,2021-04-30,Golden Valley,North Dakota,38033.0,257,3.0
+1275927,2021-05-01,Golden Valley,Montana,30037.0,55,2.0
+1276316,2021-05-01,Golden Valley,North Dakota,38033.0,257,3.0
+1279174,2021-05-02,Golden Valley,Montana,30037.0,55,2.0
+1279563,2021-05-02,Golden Valley,North Dakota,38033.0,257,3.0
+1282421,2021-05-03,Golden Valley,Montana,30037.0,55,2.0
+1282810,2021-05-03,Golden Valley,North Dakota,38033.0,257,3.0
+1285667,2021-05-04,Golden Valley,Montana,30037.0,55,2.0
+1286056,2021-05-04,Golden Valley,North Dakota,38033.0,258,3.0
+1288913,2021-05-05,Golden Valley,Montana,30037.0,55,2.0
+1289302,2021-05-05,Golden Valley,North Dakota,38033.0,258,3.0
+1292159,2021-05-06,Golden Valley,Montana,30037.0,55,2.0
+1292548,2021-05-06,Golden Valley,North Dakota,38033.0,258,3.0
+1295405,2021-05-07,Golden Valley,Montana,30037.0,55,2.0
+1295794,2021-05-07,Golden Valley,North Dakota,38033.0,258,3.0
+1298651,2021-05-08,Golden Valley,Montana,30037.0,56,2.0
+1299040,2021-05-08,Golden Valley,North Dakota,38033.0,258,3.0
+1301899,2021-05-09,Golden Valley,Montana,30037.0,56,2.0
+1302288,2021-05-09,Golden Valley,North Dakota,38033.0,258,3.0
+1305145,2021-05-10,Golden Valley,Montana,30037.0,56,2.0
+1305534,2021-05-10,Golden Valley,North Dakota,38033.0,258,3.0
+1308391,2021-05-11,Golden Valley,Montana,30037.0,56,2.0
+1308780,2021-05-11,Golden Valley,North Dakota,38033.0,258,3.0
+1311638,2021-05-12,Golden Valley,Montana,30037.0,56,2.0
+1312027,2021-05-12,Golden Valley,North Dakota,38033.0,258,3.0
+1314884,2021-05-13,Golden Valley,Montana,30037.0,56,2.0
+1315273,2021-05-13,Golden Valley,North Dakota,38033.0,258,3.0
+1318132,2021-05-14,Golden Valley,Montana,30037.0,56,2.0
+1318521,2021-05-14,Golden Valley,North Dakota,38033.0,258,3.0
+1321378,2021-05-15,Golden Valley,Montana,30037.0,56,2.0
+1321767,2021-05-15,Golden Valley,North Dakota,38033.0,258,3.0
+1324624,2021-05-16,Golden Valley,Montana,30037.0,56,2.0
+1325013,2021-05-16,Golden Valley,North Dakota,38033.0,258,3.0
+1327870,2021-05-17,Golden Valley,Montana,30037.0,56,2.0
+1328259,2021-05-17,Golden Valley,North Dakota,38033.0,258,3.0
+1331117,2021-05-18,Golden Valley,Montana,30037.0,56,2.0
+1331506,2021-05-18,Golden Valley,North Dakota,38033.0,258,3.0
+1334364,2021-05-19,Golden Valley,Montana,30037.0,56,2.0
+1334753,2021-05-19,Golden Valley,North Dakota,38033.0,258,3.0
+1337611,2021-05-20,Golden Valley,Montana,30037.0,56,2.0
+1338000,2021-05-20,Golden Valley,North Dakota,38033.0,258,3.0
+1340859,2021-05-21,Golden Valley,Montana,30037.0,56,2.0
+1341248,2021-05-21,Golden Valley,North Dakota,38033.0,258,3.0
+1344107,2021-05-22,Golden Valley,Montana,30037.0,56,2.0
+1344496,2021-05-22,Golden Valley,North Dakota,38033.0,259,3.0
+1347355,2021-05-23,Golden Valley,Montana,30037.0,56,2.0
+1347744,2021-05-23,Golden Valley,North Dakota,38033.0,259,3.0
+1350601,2021-05-24,Golden Valley,Montana,30037.0,56,2.0
+1350990,2021-05-24,Golden Valley,North Dakota,38033.0,260,3.0
+1353847,2021-05-25,Golden Valley,Montana,30037.0,57,2.0
+1354236,2021-05-25,Golden Valley,North Dakota,38033.0,260,3.0
+1357093,2021-05-26,Golden Valley,Montana,30037.0,57,2.0
+1357482,2021-05-26,Golden Valley,North Dakota,38033.0,260,3.0
+1360339,2021-05-27,Golden Valley,Montana,30037.0,58,2.0
+1360728,2021-05-27,Golden Valley,North Dakota,38033.0,260,3.0
+1363586,2021-05-28,Golden Valley,Montana,30037.0,57,2.0
+1363974,2021-05-28,Golden Valley,North Dakota,38033.0,260,3.0
+1366832,2021-05-29,Golden Valley,Montana,30037.0,57,2.0
+1367220,2021-05-29,Golden Valley,North Dakota,38033.0,260,3.0
+1370078,2021-05-30,Golden Valley,Montana,30037.0,57,2.0
+1370466,2021-05-30,Golden Valley,North Dakota,38033.0,260,3.0
+1373323,2021-05-31,Golden Valley,Montana,30037.0,57,2.0
+1373711,2021-05-31,Golden Valley,North Dakota,38033.0,260,3.0
+1376569,2021-06-01,Golden Valley,Montana,30037.0,57,2.0
+1376957,2021-06-01,Golden Valley,North Dakota,38033.0,260,3.0
+1379814,2021-06-02,Golden Valley,Montana,30037.0,57,2.0
+1380202,2021-06-02,Golden Valley,North Dakota,38033.0,260,3.0
+1383060,2021-06-03,Golden Valley,Montana,30037.0,57,2.0
+1383448,2021-06-03,Golden Valley,North Dakota,38033.0,260,3.0
+1386305,2021-06-04,Golden Valley,Montana,30037.0,57,2.0
+1386693,2021-06-04,Golden Valley,North Dakota,38033.0,260,3.0
+1389550,2021-06-05,Golden Valley,Montana,30037.0,57,2.0
+1389938,2021-06-05,Golden Valley,North Dakota,38033.0,260,3.0
+1392795,2021-06-06,Golden Valley,Montana,30037.0,57,2.0
+1393183,2021-06-06,Golden Valley,North Dakota,38033.0,260,3.0
+1396041,2021-06-07,Golden Valley,Montana,30037.0,57,2.0
+1396430,2021-06-07,Golden Valley,North Dakota,38033.0,260,3.0
+1399287,2021-06-08,Golden Valley,Montana,30037.0,57,2.0
+1399675,2021-06-08,Golden Valley,North Dakota,38033.0,261,3.0
+1402532,2021-06-09,Golden Valley,Montana,30037.0,57,2.0
+1402920,2021-06-09,Golden Valley,North Dakota,38033.0,261,3.0
+1405778,2021-06-10,Golden Valley,Montana,30037.0,57,2.0
+1406166,2021-06-10,Golden Valley,North Dakota,38033.0,261,3.0
+1409023,2021-06-11,Golden Valley,Montana,30037.0,57,2.0
+1409411,2021-06-11,Golden Valley,North Dakota,38033.0,261,3.0
+1412268,2021-06-12,Golden Valley,Montana,30037.0,57,2.0
+1412656,2021-06-12,Golden Valley,North Dakota,38033.0,261,3.0
+1415514,2021-06-13,Golden Valley,Montana,30037.0,57,2.0
+1415902,2021-06-13,Golden Valley,North Dakota,38033.0,261,3.0
+1418759,2021-06-14,Golden Valley,Montana,30037.0,57,2.0
+1419147,2021-06-14,Golden Valley,North Dakota,38033.0,261,3.0
+1422004,2021-06-15,Golden Valley,Montana,30037.0,57,2.0
+1422393,2021-06-15,Golden Valley,North Dakota,38033.0,261,3.0
+1425252,2021-06-16,Golden Valley,Montana,30037.0,57,2.0
+1425640,2021-06-16,Golden Valley,North Dakota,38033.0,261,3.0
+1428497,2021-06-17,Golden Valley,Montana,30037.0,57,2.0
+1428885,2021-06-17,Golden Valley,North Dakota,38033.0,261,3.0
+1431742,2021-06-18,Golden Valley,Montana,30037.0,57,2.0
+1432131,2021-06-18,Golden Valley,North Dakota,38033.0,261,3.0
+1434989,2021-06-19,Golden Valley,Montana,30037.0,57,2.0
+1435378,2021-06-19,Golden Valley,North Dakota,38033.0,261,3.0
+1438236,2021-06-20,Golden Valley,Montana,30037.0,57,2.0
+1438625,2021-06-20,Golden Valley,North Dakota,38033.0,261,3.0
+1441482,2021-06-21,Golden Valley,Montana,30037.0,57,2.0
+1441870,2021-06-21,Golden Valley,North Dakota,38033.0,261,3.0
+1444727,2021-06-22,Golden Valley,Montana,30037.0,57,2.0
+1445115,2021-06-22,Golden Valley,North Dakota,38033.0,261,3.0
+1447972,2021-06-23,Golden Valley,Montana,30037.0,57,2.0
+1448360,2021-06-23,Golden Valley,North Dakota,38033.0,261,3.0
+1451218,2021-06-24,Golden Valley,Montana,30037.0,57,2.0
+1451606,2021-06-24,Golden Valley,North Dakota,38033.0,261,3.0
+1454463,2021-06-25,Golden Valley,Montana,30037.0,57,2.0
+1454851,2021-06-25,Golden Valley,North Dakota,38033.0,261,3.0
+1457708,2021-06-26,Golden Valley,Montana,30037.0,57,2.0
+1458096,2021-06-26,Golden Valley,North Dakota,38033.0,261,3.0
+1460953,2021-06-27,Golden Valley,Montana,30037.0,57,2.0
+1461341,2021-06-27,Golden Valley,North Dakota,38033.0,261,3.0
+1464198,2021-06-28,Golden Valley,Montana,30037.0,57,2.0
+1464586,2021-06-28,Golden Valley,North Dakota,38033.0,261,3.0
+1467443,2021-06-29,Golden Valley,Montana,30037.0,57,2.0
+1467831,2021-06-29,Golden Valley,North Dakota,38033.0,261,3.0
+1470688,2021-06-30,Golden Valley,Montana,30037.0,57,2.0
+1471076,2021-06-30,Golden Valley,North Dakota,38033.0,261,3.0
+1473934,2021-07-01,Golden Valley,Montana,30037.0,57,2.0
+1474322,2021-07-01,Golden Valley,North Dakota,38033.0,261,3.0
+1477180,2021-07-02,Golden Valley,Montana,30037.0,57,2.0
+1477568,2021-07-02,Golden Valley,North Dakota,38033.0,261,3.0
+1480427,2021-07-03,Golden Valley,Montana,30037.0,57,2.0
+1480815,2021-07-03,Golden Valley,North Dakota,38033.0,261,3.0
+1483673,2021-07-04,Golden Valley,Montana,30037.0,57,2.0
+1484061,2021-07-04,Golden Valley,North Dakota,38033.0,261,3.0
+1486919,2021-07-05,Golden Valley,Montana,30037.0,57,2.0
+1487307,2021-07-05,Golden Valley,North Dakota,38033.0,261,3.0
+1490166,2021-07-06,Golden Valley,Montana,30037.0,57,2.0
+1490554,2021-07-06,Golden Valley,North Dakota,38033.0,261,3.0
+1493413,2021-07-07,Golden Valley,Montana,30037.0,57,2.0
+1493801,2021-07-07,Golden Valley,North Dakota,38033.0,261,3.0
+1496660,2021-07-08,Golden Valley,Montana,30037.0,57,2.0
+1497048,2021-07-08,Golden Valley,North Dakota,38033.0,262,3.0
+1499906,2021-07-09,Golden Valley,Montana,30037.0,57,2.0
+1500294,2021-07-09,Golden Valley,North Dakota,38033.0,262,3.0
+1503152,2021-07-10,Golden Valley,Montana,30037.0,57,2.0
+1503540,2021-07-10,Golden Valley,North Dakota,38033.0,262,3.0
+1506398,2021-07-11,Golden Valley,Montana,30037.0,57,2.0
+1506786,2021-07-11,Golden Valley,North Dakota,38033.0,262,3.0
+1509644,2021-07-12,Golden Valley,Montana,30037.0,57,2.0
+1510033,2021-07-12,Golden Valley,North Dakota,38033.0,262,3.0
+1512891,2021-07-13,Golden Valley,Montana,30037.0,57,2.0
+1513279,2021-07-13,Golden Valley,North Dakota,38033.0,263,3.0
+1516137,2021-07-14,Golden Valley,Montana,30037.0,57,2.0
+1516526,2021-07-14,Golden Valley,North Dakota,38033.0,263,3.0
+1519384,2021-07-15,Golden Valley,Montana,30037.0,57,2.0
+1519774,2021-07-15,Golden Valley,North Dakota,38033.0,263,3.0
+1522633,2021-07-16,Golden Valley,Montana,30037.0,57,2.0
+1523022,2021-07-16,Golden Valley,North Dakota,38033.0,263,3.0
+1525880,2021-07-17,Golden Valley,Montana,30037.0,57,2.0
+1526269,2021-07-17,Golden Valley,North Dakota,38033.0,263,3.0
+1529127,2021-07-18,Golden Valley,Montana,30037.0,57,2.0
+1529516,2021-07-18,Golden Valley,North Dakota,38033.0,263,3.0
+1532374,2021-07-19,Golden Valley,Montana,30037.0,57,2.0
+1532763,2021-07-19,Golden Valley,North Dakota,38033.0,263,3.0
+1535622,2021-07-20,Golden Valley,Montana,30037.0,57,2.0
+1536011,2021-07-20,Golden Valley,North Dakota,38033.0,263,3.0
+1538869,2021-07-21,Golden Valley,Montana,30037.0,57,2.0
+1539258,2021-07-21,Golden Valley,North Dakota,38033.0,263,3.0
+1542116,2021-07-22,Golden Valley,Montana,30037.0,57,2.0
+1542506,2021-07-22,Golden Valley,North Dakota,38033.0,263,3.0
+1545364,2021-07-23,Golden Valley,Montana,30037.0,57,2.0
+1545753,2021-07-23,Golden Valley,North Dakota,38033.0,263,3.0
+1548611,2021-07-24,Golden Valley,Montana,30037.0,57,2.0
+1549000,2021-07-24,Golden Valley,North Dakota,38033.0,263,3.0
+1551858,2021-07-25,Golden Valley,Montana,30037.0,57,2.0
+1552247,2021-07-25,Golden Valley,North Dakota,38033.0,263,3.0
+1555105,2021-07-26,Golden Valley,Montana,30037.0,57,2.0
+1555494,2021-07-26,Golden Valley,North Dakota,38033.0,263,3.0
+1558352,2021-07-27,Golden Valley,Montana,30037.0,58,2.0
+1558741,2021-07-27,Golden Valley,North Dakota,38033.0,263,3.0
+1561600,2021-07-28,Golden Valley,Montana,30037.0,58,2.0
+1561989,2021-07-28,Golden Valley,North Dakota,38033.0,264,3.0
+1564848,2021-07-29,Golden Valley,Montana,30037.0,58,2.0
+1565237,2021-07-29,Golden Valley,North Dakota,38033.0,264,3.0
+1568096,2021-07-30,Golden Valley,Montana,30037.0,58,2.0
+1568485,2021-07-30,Golden Valley,North Dakota,38033.0,264,3.0
+1571344,2021-07-31,Golden Valley,Montana,30037.0,58,2.0
+1571733,2021-07-31,Golden Valley,North Dakota,38033.0,264,3.0
+1574592,2021-08-01,Golden Valley,Montana,30037.0,58,2.0
+1574981,2021-08-01,Golden Valley,North Dakota,38033.0,264,3.0
+1577840,2021-08-02,Golden Valley,Montana,30037.0,58,2.0
+1578229,2021-08-02,Golden Valley,North Dakota,38033.0,264,3.0
+1581089,2021-08-03,Golden Valley,Montana,30037.0,58,2.0
+1581478,2021-08-03,Golden Valley,North Dakota,38033.0,264,3.0
+1584338,2021-08-04,Golden Valley,Montana,30037.0,58,2.0
+1584728,2021-08-04,Golden Valley,North Dakota,38033.0,264,3.0
+1587589,2021-08-05,Golden Valley,Montana,30037.0,58,2.0
+1587978,2021-08-05,Golden Valley,North Dakota,38033.0,264,3.0
+1590838,2021-08-06,Golden Valley,Montana,30037.0,58,2.0
+1591227,2021-08-06,Golden Valley,North Dakota,38033.0,265,3.0
+1594087,2021-08-07,Golden Valley,Montana,30037.0,58,2.0
+1594476,2021-08-07,Golden Valley,North Dakota,38033.0,265,3.0
+1597336,2021-08-08,Golden Valley,Montana,30037.0,58,2.0
+1597725,2021-08-08,Golden Valley,North Dakota,38033.0,266,3.0
+1600584,2021-08-09,Golden Valley,Montana,30037.0,58,2.0
+1600973,2021-08-09,Golden Valley,North Dakota,38033.0,266,3.0
+1603833,2021-08-10,Golden Valley,Montana,30037.0,58,2.0
+1604222,2021-08-10,Golden Valley,North Dakota,38033.0,266,3.0
+1607082,2021-08-11,Golden Valley,Montana,30037.0,58,2.0
+1607471,2021-08-11,Golden Valley,North Dakota,38033.0,266,3.0
+1610330,2021-08-12,Golden Valley,Montana,30037.0,59,2.0
+1610719,2021-08-12,Golden Valley,North Dakota,38033.0,266,3.0
+1613579,2021-08-13,Golden Valley,Montana,30037.0,59,2.0
+1613968,2021-08-13,Golden Valley,North Dakota,38033.0,267,3.0
+1616827,2021-08-14,Golden Valley,Montana,30037.0,59,2.0
+1617216,2021-08-14,Golden Valley,North Dakota,38033.0,267,3.0
+1620075,2021-08-15,Golden Valley,Montana,30037.0,59,2.0
+1620464,2021-08-15,Golden Valley,North Dakota,38033.0,269,3.0
+1623322,2021-08-16,Golden Valley,Montana,30037.0,59,2.0
+1623711,2021-08-16,Golden Valley,North Dakota,38033.0,269,3.0
+1626569,2021-08-17,Golden Valley,Montana,30037.0,60,2.0
+1626958,2021-08-17,Golden Valley,North Dakota,38033.0,274,3.0
+1629816,2021-08-18,Golden Valley,Montana,30037.0,60,2.0
+1630205,2021-08-18,Golden Valley,North Dakota,38033.0,276,3.0
+1633063,2021-08-19,Golden Valley,Montana,30037.0,60,2.0
+1633452,2021-08-19,Golden Valley,North Dakota,38033.0,279,3.0
+1636313,2021-08-20,Golden Valley,Montana,30037.0,60,2.0
+1636702,2021-08-20,Golden Valley,North Dakota,38033.0,280,3.0
+1639563,2021-08-21,Golden Valley,Montana,30037.0,60,2.0
+1639952,2021-08-21,Golden Valley,North Dakota,38033.0,282,3.0
+1642813,2021-08-22,Golden Valley,Montana,30037.0,60,2.0
+1643202,2021-08-22,Golden Valley,North Dakota,38033.0,282,3.0
+1646062,2021-08-23,Golden Valley,Montana,30037.0,60,2.0
+1646451,2021-08-23,Golden Valley,North Dakota,38033.0,282,3.0
+1649311,2021-08-24,Golden Valley,Montana,30037.0,60,2.0
+1649700,2021-08-24,Golden Valley,North Dakota,38033.0,283,3.0
+1652559,2021-08-25,Golden Valley,Montana,30037.0,60,2.0
+1652948,2021-08-25,Golden Valley,North Dakota,38033.0,285,3.0
+1655806,2021-08-26,Golden Valley,Montana,30037.0,60,2.0
+1656195,2021-08-26,Golden Valley,North Dakota,38033.0,286,3.0
+1659055,2021-08-27,Golden Valley,Montana,30037.0,60,2.0
+1659444,2021-08-27,Golden Valley,North Dakota,38033.0,287,3.0
+1662303,2021-08-28,Golden Valley,Montana,30037.0,60,2.0
+1662692,2021-08-28,Golden Valley,North Dakota,38033.0,289,3.0
+1665551,2021-08-29,Golden Valley,Montana,30037.0,60,2.0
+1665940,2021-08-29,Golden Valley,North Dakota,38033.0,289,3.0
+1668798,2021-08-30,Golden Valley,Montana,30037.0,61,2.0
+1669187,2021-08-30,Golden Valley,North Dakota,38033.0,289,3.0
+1672045,2021-08-31,Golden Valley,Montana,30037.0,61,2.0
+1672435,2021-08-31,Golden Valley,North Dakota,38033.0,289,3.0
+1675293,2021-09-01,Golden Valley,Montana,30037.0,61,2.0
+1675682,2021-09-01,Golden Valley,North Dakota,38033.0,290,3.0
+1678541,2021-09-02,Golden Valley,Montana,30037.0,61,2.0
+1678930,2021-09-02,Golden Valley,North Dakota,38033.0,292,4.0
+1681789,2021-09-03,Golden Valley,Montana,30037.0,61,2.0
+1682179,2021-09-03,Golden Valley,North Dakota,38033.0,293,4.0
+1685040,2021-09-04,Golden Valley,Montana,30037.0,61,2.0
+1685430,2021-09-04,Golden Valley,North Dakota,38033.0,293,4.0
+1688290,2021-09-05,Golden Valley,Montana,30037.0,61,2.0
+1688680,2021-09-05,Golden Valley,North Dakota,38033.0,293,4.0
+1691540,2021-09-06,Golden Valley,Montana,30037.0,61,2.0
+1691930,2021-09-06,Golden Valley,North Dakota,38033.0,293,4.0
+1694789,2021-09-07,Golden Valley,Montana,30037.0,61,2.0
+1695178,2021-09-07,Golden Valley,North Dakota,38033.0,293,4.0
+1698037,2021-09-08,Golden Valley,Montana,30037.0,61,2.0
+1698426,2021-09-08,Golden Valley,North Dakota,38033.0,294,4.0
+1701286,2021-09-09,Golden Valley,Montana,30037.0,61,2.0
+1701675,2021-09-09,Golden Valley,North Dakota,38033.0,295,4.0
+1704536,2021-09-10,Golden Valley,Montana,30037.0,61,2.0
+1704925,2021-09-10,Golden Valley,North Dakota,38033.0,296,4.0
+1707783,2021-09-11,Golden Valley,Montana,30037.0,61,2.0
+1708172,2021-09-11,Golden Valley,North Dakota,38033.0,296,4.0
+1711030,2021-09-12,Golden Valley,Montana,30037.0,61,2.0
+1711419,2021-09-12,Golden Valley,North Dakota,38033.0,295,4.0
+1714276,2021-09-13,Golden Valley,Montana,30037.0,62,2.0
+1714665,2021-09-13,Golden Valley,North Dakota,38033.0,295,4.0
+1717524,2021-09-14,Golden Valley,Montana,30037.0,62,2.0
+1717913,2021-09-14,Golden Valley,North Dakota,38033.0,295,4.0
+1720772,2021-09-15,Golden Valley,Montana,30037.0,62,2.0
+1721161,2021-09-15,Golden Valley,North Dakota,38033.0,296,4.0
+1724021,2021-09-16,Golden Valley,Montana,30037.0,64,2.0
+1724410,2021-09-16,Golden Valley,North Dakota,38033.0,298,4.0
+1727270,2021-09-17,Golden Valley,Montana,30037.0,64,2.0
+1727659,2021-09-17,Golden Valley,North Dakota,38033.0,298,4.0
+1730520,2021-09-18,Golden Valley,Montana,30037.0,64,2.0
+1730909,2021-09-18,Golden Valley,North Dakota,38033.0,298,4.0
+1733770,2021-09-19,Golden Valley,Montana,30037.0,64,2.0
+1734159,2021-09-19,Golden Valley,North Dakota,38033.0,297,4.0
+1737020,2021-09-20,Golden Valley,Montana,30037.0,65,2.0
+1737409,2021-09-20,Golden Valley,North Dakota,38033.0,297,4.0
+1740269,2021-09-21,Golden Valley,Montana,30037.0,65,2.0
+1740658,2021-09-21,Golden Valley,North Dakota,38033.0,298,4.0
+1743518,2021-09-22,Golden Valley,Montana,30037.0,66,2.0
+1743907,2021-09-22,Golden Valley,North Dakota,38033.0,298,4.0
+1746767,2021-09-23,Golden Valley,Montana,30037.0,66,2.0
+1747156,2021-09-23,Golden Valley,North Dakota,38033.0,299,4.0
+1750017,2021-09-24,Golden Valley,Montana,30037.0,66,2.0
+1750406,2021-09-24,Golden Valley,North Dakota,38033.0,300,4.0
+1753265,2021-09-25,Golden Valley,Montana,30037.0,66,2.0
+1753654,2021-09-25,Golden Valley,North Dakota,38033.0,302,4.0
+1756513,2021-09-26,Golden Valley,Montana,30037.0,66,2.0
+1756902,2021-09-26,Golden Valley,North Dakota,38033.0,302,4.0
+1759761,2021-09-27,Golden Valley,Montana,30037.0,67,2.0
+1760150,2021-09-27,Golden Valley,North Dakota,38033.0,302,4.0
+1763010,2021-09-28,Golden Valley,Montana,30037.0,67,2.0
+1763399,2021-09-28,Golden Valley,North Dakota,38033.0,303,4.0
+1766259,2021-09-29,Golden Valley,Montana,30037.0,67,2.0
+1766648,2021-09-29,Golden Valley,North Dakota,38033.0,305,4.0
+1769508,2021-09-30,Golden Valley,Montana,30037.0,67,3.0
+1769897,2021-09-30,Golden Valley,North Dakota,38033.0,306,4.0
+1772757,2021-10-01,Golden Valley,Montana,30037.0,67,3.0
+1773147,2021-10-01,Golden Valley,North Dakota,38033.0,307,4.0
+1776007,2021-10-02,Golden Valley,Montana,30037.0,67,3.0
+1776397,2021-10-02,Golden Valley,North Dakota,38033.0,308,4.0
+1779257,2021-10-03,Golden Valley,Montana,30037.0,67,3.0
+1779647,2021-10-03,Golden Valley,North Dakota,38033.0,309,4.0
+1782507,2021-10-04,Golden Valley,Montana,30037.0,67,3.0
+1782896,2021-10-04,Golden Valley,North Dakota,38033.0,309,4.0
+1785756,2021-10-05,Golden Valley,Montana,30037.0,67,3.0
+1786145,2021-10-05,Golden Valley,North Dakota,38033.0,311,4.0
+1789004,2021-10-06,Golden Valley,Montana,30037.0,67,3.0
+1789393,2021-10-06,Golden Valley,North Dakota,38033.0,316,4.0
+1792253,2021-10-07,Golden Valley,Montana,30037.0,67,3.0
+1792642,2021-10-07,Golden Valley,North Dakota,38033.0,317,4.0
+1795502,2021-10-08,Golden Valley,Montana,30037.0,67,3.0
+1795891,2021-10-08,Golden Valley,North Dakota,38033.0,318,4.0
+1798751,2021-10-09,Golden Valley,Montana,30037.0,67,3.0
+1799140,2021-10-09,Golden Valley,North Dakota,38033.0,319,4.0
+1802000,2021-10-10,Golden Valley,Montana,30037.0,67,3.0
+1802389,2021-10-10,Golden Valley,North Dakota,38033.0,322,4.0
+1805249,2021-10-11,Golden Valley,Montana,30037.0,67,3.0
+1805638,2021-10-11,Golden Valley,North Dakota,38033.0,323,4.0
+1808500,2021-10-12,Golden Valley,Montana,30037.0,71,3.0
+1808889,2021-10-12,Golden Valley,North Dakota,38033.0,326,4.0
+1811749,2021-10-13,Golden Valley,Montana,30037.0,73,3.0
+1812138,2021-10-13,Golden Valley,North Dakota,38033.0,328,4.0
+1814997,2021-10-14,Golden Valley,Montana,30037.0,73,3.0
+1815386,2021-10-14,Golden Valley,North Dakota,38033.0,329,4.0
+1818246,2021-10-15,Golden Valley,Montana,30037.0,76,3.0
+1818635,2021-10-15,Golden Valley,North Dakota,38033.0,329,4.0
+1821495,2021-10-16,Golden Valley,Montana,30037.0,76,3.0
+1821884,2021-10-16,Golden Valley,North Dakota,38033.0,331,4.0
+1824744,2021-10-17,Golden Valley,Montana,30037.0,76,3.0
+1825133,2021-10-17,Golden Valley,North Dakota,38033.0,331,4.0
+1827993,2021-10-18,Golden Valley,Montana,30037.0,76,3.0
+1828382,2021-10-18,Golden Valley,North Dakota,38033.0,331,4.0
+1831242,2021-10-19,Golden Valley,Montana,30037.0,78,3.0
+1831631,2021-10-19,Golden Valley,North Dakota,38033.0,332,4.0
+1834491,2021-10-20,Golden Valley,Montana,30037.0,78,3.0
+1834880,2021-10-20,Golden Valley,North Dakota,38033.0,335,4.0
+1837740,2021-10-21,Golden Valley,Montana,30037.0,78,3.0
+1838129,2021-10-21,Golden Valley,North Dakota,38033.0,335,4.0
+1840989,2021-10-22,Golden Valley,Montana,30037.0,80,3.0
+1841378,2021-10-22,Golden Valley,North Dakota,38033.0,339,4.0
+1844239,2021-10-23,Golden Valley,Montana,30037.0,80,3.0
+1844628,2021-10-23,Golden Valley,North Dakota,38033.0,341,4.0
+1847489,2021-10-24,Golden Valley,Montana,30037.0,80,3.0
+1847878,2021-10-24,Golden Valley,North Dakota,38033.0,343,4.0
+1850739,2021-10-25,Golden Valley,Montana,30037.0,91,3.0
+1851128,2021-10-25,Golden Valley,North Dakota,38033.0,344,4.0
+1853988,2021-10-26,Golden Valley,Montana,30037.0,95,3.0
+1854377,2021-10-26,Golden Valley,North Dakota,38033.0,348,4.0
+1857237,2021-10-27,Golden Valley,Montana,30037.0,95,3.0
+1857626,2021-10-27,Golden Valley,North Dakota,38033.0,348,4.0
+1860486,2021-10-28,Golden Valley,Montana,30037.0,96,3.0
+1860875,2021-10-28,Golden Valley,North Dakota,38033.0,351,4.0
+1863735,2021-10-29,Golden Valley,Montana,30037.0,96,3.0
+1864124,2021-10-29,Golden Valley,North Dakota,38033.0,352,4.0
+1866984,2021-10-30,Golden Valley,Montana,30037.0,96,3.0
+1867373,2021-10-30,Golden Valley,North Dakota,38033.0,353,4.0
+1870233,2021-10-31,Golden Valley,Montana,30037.0,96,3.0
+1870622,2021-10-31,Golden Valley,North Dakota,38033.0,353,4.0
+1873482,2021-11-01,Golden Valley,Montana,30037.0,104,4.0
+1873871,2021-11-01,Golden Valley,North Dakota,38033.0,353,4.0
+1876731,2021-11-02,Golden Valley,Montana,30037.0,108,4.0
+1877120,2021-11-02,Golden Valley,North Dakota,38033.0,353,4.0
+1879980,2021-11-03,Golden Valley,Montana,30037.0,109,4.0
+1880369,2021-11-03,Golden Valley,North Dakota,38033.0,358,4.0
+1883229,2021-11-04,Golden Valley,Montana,30037.0,109,4.0
+1883618,2021-11-04,Golden Valley,North Dakota,38033.0,359,4.0
+1886478,2021-11-05,Golden Valley,Montana,30037.0,110,4.0
+1886867,2021-11-05,Golden Valley,North Dakota,38033.0,358,4.0
+1889728,2021-11-06,Golden Valley,Montana,30037.0,110,4.0
+1890117,2021-11-06,Golden Valley,North Dakota,38033.0,358,4.0
+1892978,2021-11-07,Golden Valley,Montana,30037.0,110,4.0
+1893367,2021-11-07,Golden Valley,North Dakota,38033.0,358,4.0
+1896228,2021-11-08,Golden Valley,Montana,30037.0,110,4.0
+1896617,2021-11-08,Golden Valley,North Dakota,38033.0,358,4.0
+1899478,2021-11-09,Golden Valley,Montana,30037.0,114,4.0
+1899867,2021-11-09,Golden Valley,North Dakota,38033.0,359,4.0
+1902728,2021-11-10,Golden Valley,Montana,30037.0,114,4.0
+1903117,2021-11-10,Golden Valley,North Dakota,38033.0,361,4.0
+1905977,2021-11-11,Golden Valley,Montana,30037.0,114,4.0
+1906366,2021-11-11,Golden Valley,North Dakota,38033.0,362,4.0
+1909226,2021-11-12,Golden Valley,Montana,30037.0,114,4.0
+1909615,2021-11-12,Golden Valley,North Dakota,38033.0,363,4.0
+1912476,2021-11-13,Golden Valley,Montana,30037.0,114,4.0
+1912865,2021-11-13,Golden Valley,North Dakota,38033.0,363,4.0
+1915726,2021-11-14,Golden Valley,Montana,30037.0,114,4.0
+1916115,2021-11-14,Golden Valley,North Dakota,38033.0,364,4.0
+1918976,2021-11-15,Golden Valley,Montana,30037.0,115,4.0
+1919365,2021-11-15,Golden Valley,North Dakota,38033.0,364,4.0
+1922226,2021-11-16,Golden Valley,Montana,30037.0,116,4.0
+1922615,2021-11-16,Golden Valley,North Dakota,38033.0,365,4.0
+1925475,2021-11-17,Golden Valley,Montana,30037.0,116,4.0
+1925864,2021-11-17,Golden Valley,North Dakota,38033.0,369,4.0
+1928725,2021-11-18,Golden Valley,Montana,30037.0,118,4.0
+1929114,2021-11-18,Golden Valley,North Dakota,38033.0,373,4.0
+1931976,2021-11-19,Golden Valley,Montana,30037.0,118,4.0
+1932365,2021-11-19,Golden Valley,North Dakota,38033.0,373,4.0
+1935226,2021-11-20,Golden Valley,Montana,30037.0,118,4.0
+1935615,2021-11-20,Golden Valley,North Dakota,38033.0,373,4.0
+1938476,2021-11-21,Golden Valley,Montana,30037.0,118,4.0
+1938865,2021-11-21,Golden Valley,North Dakota,38033.0,373,4.0
+1941726,2021-11-22,Golden Valley,Montana,30037.0,118,4.0
+1942115,2021-11-22,Golden Valley,North Dakota,38033.0,373,4.0
+1944977,2021-11-23,Golden Valley,Montana,30037.0,118,5.0
+1945366,2021-11-23,Golden Valley,North Dakota,38033.0,375,4.0
+1948228,2021-11-24,Golden Valley,Montana,30037.0,118,5.0
+1948617,2021-11-24,Golden Valley,North Dakota,38033.0,375,4.0
+1951479,2021-11-25,Golden Valley,Montana,30037.0,118,5.0
+1951868,2021-11-25,Golden Valley,North Dakota,38033.0,375,4.0
+1954730,2021-11-26,Golden Valley,Montana,30037.0,118,5.0
+1955119,2021-11-26,Golden Valley,North Dakota,38033.0,375,4.0
+1957981,2021-11-27,Golden Valley,Montana,30037.0,118,5.0
+1958370,2021-11-27,Golden Valley,North Dakota,38033.0,375,4.0
+1961232,2021-11-28,Golden Valley,Montana,30037.0,118,5.0
+1961621,2021-11-28,Golden Valley,North Dakota,38033.0,375,4.0
+1964483,2021-11-29,Golden Valley,Montana,30037.0,118,5.0
+1964873,2021-11-29,Golden Valley,North Dakota,38033.0,375,4.0
+1967735,2021-11-30,Golden Valley,Montana,30037.0,120,5.0
+1968124,2021-11-30,Golden Valley,North Dakota,38033.0,376,4.0
+1970985,2021-12-01,Golden Valley,Montana,30037.0,120,5.0
+1971374,2021-12-01,Golden Valley,North Dakota,38033.0,376,4.0
+1974234,2021-12-02,Golden Valley,Montana,30037.0,120,5.0
+1974623,2021-12-02,Golden Valley,North Dakota,38033.0,376,4.0
+1977484,2021-12-03,Golden Valley,Montana,30037.0,120,5.0
+1977873,2021-12-03,Golden Valley,North Dakota,38033.0,377,4.0
+1980734,2021-12-04,Golden Valley,Montana,30037.0,120,5.0
+1981123,2021-12-04,Golden Valley,North Dakota,38033.0,377,4.0
+1983984,2021-12-05,Golden Valley,Montana,30037.0,120,5.0
+1984373,2021-12-05,Golden Valley,North Dakota,38033.0,377,4.0
+1987234,2021-12-06,Golden Valley,Montana,30037.0,120,5.0
+1987623,2021-12-06,Golden Valley,North Dakota,38033.0,377,4.0
+1990484,2021-12-07,Golden Valley,Montana,30037.0,120,5.0
+1990874,2021-12-07,Golden Valley,North Dakota,38033.0,377,4.0
+1993735,2021-12-08,Golden Valley,Montana,30037.0,120,5.0
+1994125,2021-12-08,Golden Valley,North Dakota,38033.0,377,4.0
+1996986,2021-12-09,Golden Valley,Montana,30037.0,120,5.0
+1997376,2021-12-09,Golden Valley,North Dakota,38033.0,377,4.0
+2000237,2021-12-10,Golden Valley,Montana,30037.0,122,5.0
+2000626,2021-12-10,Golden Valley,North Dakota,38033.0,377,4.0
+2003487,2021-12-11,Golden Valley,Montana,30037.0,122,5.0
+2003877,2021-12-11,Golden Valley,North Dakota,38033.0,378,4.0
+2006738,2021-12-12,Golden Valley,Montana,30037.0,122,5.0
+2007128,2021-12-12,Golden Valley,North Dakota,38033.0,378,4.0
+2009989,2021-12-13,Golden Valley,Montana,30037.0,122,5.0
+2010379,2021-12-13,Golden Valley,North Dakota,38033.0,378,4.0
+2013240,2021-12-14,Golden Valley,Montana,30037.0,122,5.0
+2013630,2021-12-14,Golden Valley,North Dakota,38033.0,378,4.0
+2016491,2021-12-15,Golden Valley,Montana,30037.0,122,5.0
+2016880,2021-12-15,Golden Valley,North Dakota,38033.0,380,4.0
+2019741,2021-12-16,Golden Valley,Montana,30037.0,122,5.0
+2020131,2021-12-16,Golden Valley,North Dakota,38033.0,380,4.0
+2022992,2021-12-17,Golden Valley,Montana,30037.0,122,5.0
+2023382,2021-12-17,Golden Valley,North Dakota,38033.0,381,4.0
+2026243,2021-12-18,Golden Valley,Montana,30037.0,122,5.0
+2026633,2021-12-18,Golden Valley,North Dakota,38033.0,381,4.0
+2029494,2021-12-19,Golden Valley,Montana,30037.0,122,5.0
+2029884,2021-12-19,Golden Valley,North Dakota,38033.0,381,4.0
+2032745,2021-12-20,Golden Valley,Montana,30037.0,122,5.0
+2033134,2021-12-20,Golden Valley,North Dakota,38033.0,381,4.0
+2035995,2021-12-21,Golden Valley,Montana,30037.0,122,5.0
+2036384,2021-12-21,Golden Valley,North Dakota,38033.0,381,4.0
+2039245,2021-12-22,Golden Valley,Montana,30037.0,122,5.0
+2039634,2021-12-22,Golden Valley,North Dakota,38033.0,381,4.0
+2042494,2021-12-23,Golden Valley,Montana,30037.0,122,5.0
+2042883,2021-12-23,Golden Valley,North Dakota,38033.0,381,4.0
+2045744,2021-12-24,Golden Valley,Montana,30037.0,122,5.0
+2046133,2021-12-24,Golden Valley,North Dakota,38033.0,381,4.0
+2048994,2021-12-25,Golden Valley,Montana,30037.0,122,5.0
+2049383,2021-12-25,Golden Valley,North Dakota,38033.0,381,4.0
+2052244,2021-12-26,Golden Valley,Montana,30037.0,122,5.0
+2052633,2021-12-26,Golden Valley,North Dakota,38033.0,381,4.0
+2055494,2021-12-27,Golden Valley,Montana,30037.0,122,5.0
+2055883,2021-12-27,Golden Valley,North Dakota,38033.0,381,4.0
+2058743,2021-12-28,Golden Valley,Montana,30037.0,122,5.0
+2059132,2021-12-28,Golden Valley,North Dakota,38033.0,385,4.0
+2061992,2021-12-29,Golden Valley,Montana,30037.0,122,5.0
+2062381,2021-12-29,Golden Valley,North Dakota,38033.0,385,4.0
+2065242,2021-12-30,Golden Valley,Montana,30037.0,122,5.0
+2065631,2021-12-30,Golden Valley,North Dakota,38033.0,387,4.0
+2068493,2021-12-31,Golden Valley,Montana,30037.0,122,5.0
+2068882,2021-12-31,Golden Valley,North Dakota,38033.0,392,4.0
+2071744,2022-01-01,Golden Valley,Montana,30037.0,122,5.0
+2072133,2022-01-01,Golden Valley,North Dakota,38033.0,392,4.0
+2074995,2022-01-02,Golden Valley,Montana,30037.0,122,5.0
+2075384,2022-01-02,Golden Valley,North Dakota,38033.0,392,4.0
+2078246,2022-01-03,Golden Valley,Montana,30037.0,122,5.0
+2078635,2022-01-03,Golden Valley,North Dakota,38033.0,392,4.0
+2081498,2022-01-04,Golden Valley,Montana,30037.0,123,5.0
+2081887,2022-01-04,Golden Valley,North Dakota,38033.0,393,4.0
+2084750,2022-01-05,Golden Valley,Montana,30037.0,123,5.0
+2085139,2022-01-05,Golden Valley,North Dakota,38033.0,393,4.0
+2088002,2022-01-06,Golden Valley,Montana,30037.0,123,5.0
+2088391,2022-01-06,Golden Valley,North Dakota,38033.0,393,4.0
+2091253,2022-01-07,Golden Valley,Montana,30037.0,123,5.0
+2091642,2022-01-07,Golden Valley,North Dakota,38033.0,393,4.0
+2094505,2022-01-08,Golden Valley,Montana,30037.0,123,5.0
+2094894,2022-01-08,Golden Valley,North Dakota,38033.0,395,4.0
+2097757,2022-01-09,Golden Valley,Montana,30037.0,123,5.0
+2098146,2022-01-09,Golden Valley,North Dakota,38033.0,398,4.0
+2101008,2022-01-10,Golden Valley,Montana,30037.0,123,5.0
+2101397,2022-01-10,Golden Valley,North Dakota,38033.0,398,4.0
+2104259,2022-01-11,Golden Valley,Montana,30037.0,123,5.0
+2104648,2022-01-11,Golden Valley,North Dakota,38033.0,398,4.0
+2107510,2022-01-12,Golden Valley,Montana,30037.0,123,5.0
+2107899,2022-01-12,Golden Valley,North Dakota,38033.0,399,4.0
+2110761,2022-01-13,Golden Valley,Montana,30037.0,124,5.0
+2111151,2022-01-13,Golden Valley,North Dakota,38033.0,400,4.0
+2114013,2022-01-14,Golden Valley,Montana,30037.0,125,5.0
+2114403,2022-01-14,Golden Valley,North Dakota,38033.0,403,4.0
+2117264,2022-01-15,Golden Valley,Montana,30037.0,125,5.0
+2117654,2022-01-15,Golden Valley,North Dakota,38033.0,408,4.0
+2120516,2022-01-16,Golden Valley,Montana,30037.0,125,5.0
+2120906,2022-01-16,Golden Valley,North Dakota,38033.0,409,4.0
+2123768,2022-01-17,Golden Valley,Montana,30037.0,125,5.0
+2124158,2022-01-17,Golden Valley,North Dakota,38033.0,410,4.0
+2127020,2022-01-18,Golden Valley,Montana,30037.0,125,5.0
+2127410,2022-01-18,Golden Valley,North Dakota,38033.0,409,4.0
+2130274,2022-01-19,Golden Valley,Montana,30037.0,127,5.0
+2130664,2022-01-19,Golden Valley,North Dakota,38033.0,409,4.0
+2133527,2022-01-20,Golden Valley,Montana,30037.0,127,5.0
+2133916,2022-01-20,Golden Valley,North Dakota,38033.0,417,4.0
+2136779,2022-01-21,Golden Valley,Montana,30037.0,128,5.0
+2137169,2022-01-21,Golden Valley,North Dakota,38033.0,419,4.0
+2140035,2022-01-22,Golden Valley,Montana,30037.0,128,5.0
+2140425,2022-01-22,Golden Valley,North Dakota,38033.0,422,4.0
+2143290,2022-01-23,Golden Valley,Montana,30037.0,128,5.0
+2143680,2022-01-23,Golden Valley,North Dakota,38033.0,422,4.0
+2146545,2022-01-24,Golden Valley,Montana,30037.0,132,5.0
+2146934,2022-01-24,Golden Valley,North Dakota,38033.0,422,4.0
+2149797,2022-01-25,Golden Valley,Montana,30037.0,133,5.0
+2150186,2022-01-25,Golden Valley,North Dakota,38033.0,430,4.0
+2153049,2022-01-26,Golden Valley,Montana,30037.0,134,5.0
+2153438,2022-01-26,Golden Valley,North Dakota,38033.0,433,4.0
+2156302,2022-01-27,Golden Valley,Montana,30037.0,135,5.0
+2156691,2022-01-27,Golden Valley,North Dakota,38033.0,440,4.0
+2159556,2022-01-28,Golden Valley,Montana,30037.0,137,5.0
+2159946,2022-01-28,Golden Valley,North Dakota,38033.0,448,4.0
+2162811,2022-01-29,Golden Valley,Montana,30037.0,137,5.0
+2163201,2022-01-29,Golden Valley,North Dakota,38033.0,452,4.0
+2166066,2022-01-30,Golden Valley,Montana,30037.0,137,5.0
+2166456,2022-01-30,Golden Valley,North Dakota,38033.0,456,4.0
+2169321,2022-01-31,Golden Valley,Montana,30037.0,138,5.0
+2169711,2022-01-31,Golden Valley,North Dakota,38033.0,456,4.0
+2172574,2022-02-01,Golden Valley,Montana,30037.0,138,5.0
+2172964,2022-02-01,Golden Valley,North Dakota,38033.0,459,4.0
+2175827,2022-02-02,Golden Valley,Montana,30037.0,139,5.0
+2176217,2022-02-02,Golden Valley,North Dakota,38033.0,460,4.0
+2179079,2022-02-03,Golden Valley,Montana,30037.0,141,5.0
+2179468,2022-02-03,Golden Valley,North Dakota,38033.0,461,4.0
+2182331,2022-02-04,Golden Valley,Montana,30037.0,143,5.0
+2182720,2022-02-04,Golden Valley,North Dakota,38033.0,461,4.0
+2185583,2022-02-05,Golden Valley,Montana,30037.0,143,5.0
+2185972,2022-02-05,Golden Valley,North Dakota,38033.0,462,4.0
+2188836,2022-02-06,Golden Valley,Montana,30037.0,143,5.0
+2189225,2022-02-06,Golden Valley,North Dakota,38033.0,462,4.0
+2192089,2022-02-07,Golden Valley,Montana,30037.0,145,5.0
+2192479,2022-02-07,Golden Valley,North Dakota,38033.0,462,4.0
+2195343,2022-02-08,Golden Valley,Montana,30037.0,146,5.0
+2195733,2022-02-08,Golden Valley,North Dakota,38033.0,462,4.0
+2198597,2022-02-09,Golden Valley,Montana,30037.0,146,5.0
+2198987,2022-02-09,Golden Valley,North Dakota,38033.0,463,4.0
+2201851,2022-02-10,Golden Valley,Montana,30037.0,146,5.0
+2202241,2022-02-10,Golden Valley,North Dakota,38033.0,466,4.0
+2205104,2022-02-11,Golden Valley,Montana,30037.0,147,5.0
+2205494,2022-02-11,Golden Valley,North Dakota,38033.0,466,4.0
+2208357,2022-02-12,Golden Valley,Montana,30037.0,147,5.0
+2208747,2022-02-12,Golden Valley,North Dakota,38033.0,466,4.0
+2211610,2022-02-13,Golden Valley,Montana,30037.0,147,5.0
+2212000,2022-02-13,Golden Valley,North Dakota,38033.0,467,4.0
+2214862,2022-02-14,Golden Valley,Montana,30037.0,149,5.0
+2215251,2022-02-14,Golden Valley,North Dakota,38033.0,467,4.0
+2218113,2022-02-15,Golden Valley,Montana,30037.0,149,5.0
+2218502,2022-02-15,Golden Valley,North Dakota,38033.0,467,4.0
+2221364,2022-02-16,Golden Valley,Montana,30037.0,149,5.0
+2221753,2022-02-16,Golden Valley,North Dakota,38033.0,467,4.0
+2224615,2022-02-17,Golden Valley,Montana,30037.0,149,5.0
+2225004,2022-02-17,Golden Valley,North Dakota,38033.0,467,4.0
+2227866,2022-02-18,Golden Valley,Montana,30037.0,149,5.0
+2228255,2022-02-18,Golden Valley,North Dakota,38033.0,467,4.0
+2231117,2022-02-19,Golden Valley,Montana,30037.0,149,5.0
+2231506,2022-02-19,Golden Valley,North Dakota,38033.0,467,4.0
+2234368,2022-02-20,Golden Valley,Montana,30037.0,149,5.0
+2234757,2022-02-20,Golden Valley,North Dakota,38033.0,467,4.0
+2237619,2022-02-21,Golden Valley,Montana,30037.0,149,5.0
+2238008,2022-02-21,Golden Valley,North Dakota,38033.0,467,4.0
+2240870,2022-02-22,Golden Valley,Montana,30037.0,149,5.0
+2241259,2022-02-22,Golden Valley,North Dakota,38033.0,468,4.0
+2244121,2022-02-23,Golden Valley,Montana,30037.0,149,5.0
+2244510,2022-02-23,Golden Valley,North Dakota,38033.0,469,4.0
+2247372,2022-02-24,Golden Valley,Montana,30037.0,149,5.0
+2247761,2022-02-24,Golden Valley,North Dakota,38033.0,470,4.0
+2250623,2022-02-25,Golden Valley,Montana,30037.0,149,5.0
+2251012,2022-02-25,Golden Valley,North Dakota,38033.0,471,4.0
+2253874,2022-02-26,Golden Valley,Montana,30037.0,149,5.0
+2254263,2022-02-26,Golden Valley,North Dakota,38033.0,471,4.0
+2257125,2022-02-27,Golden Valley,Montana,30037.0,149,5.0
+2257514,2022-02-27,Golden Valley,North Dakota,38033.0,471,4.0
+2260376,2022-02-28,Golden Valley,Montana,30037.0,150,5.0
+2260765,2022-02-28,Golden Valley,North Dakota,38033.0,472,4.0
+2263627,2022-03-01,Golden Valley,Montana,30037.0,150,5.0
+2264016,2022-03-01,Golden Valley,North Dakota,38033.0,473,4.0
+2266878,2022-03-02,Golden Valley,Montana,30037.0,150,5.0
+2267268,2022-03-02,Golden Valley,North Dakota,38033.0,474,4.0
+2270131,2022-03-03,Golden Valley,Montana,30037.0,150,5.0
+2270520,2022-03-03,Golden Valley,North Dakota,38033.0,474,4.0
+2273383,2022-03-04,Golden Valley,Montana,30037.0,150,5.0
+2273773,2022-03-04,Golden Valley,North Dakota,38033.0,474,4.0
+2276636,2022-03-05,Golden Valley,Montana,30037.0,150,5.0
+2277026,2022-03-05,Golden Valley,North Dakota,38033.0,474,4.0
+2279889,2022-03-06,Golden Valley,Montana,30037.0,150,5.0
+2280279,2022-03-06,Golden Valley,North Dakota,38033.0,474,4.0
+2283142,2022-03-07,Golden Valley,Montana,30037.0,150,5.0
+2283531,2022-03-07,Golden Valley,North Dakota,38033.0,475,4.0
+2286394,2022-03-08,Golden Valley,Montana,30037.0,150,5.0
+2286783,2022-03-08,Golden Valley,North Dakota,38033.0,475,4.0
+2289646,2022-03-09,Golden Valley,Montana,30037.0,150,5.0
+2290035,2022-03-09,Golden Valley,North Dakota,38033.0,475,4.0
+2292898,2022-03-10,Golden Valley,Montana,30037.0,150,5.0
+2293287,2022-03-10,Golden Valley,North Dakota,38033.0,475,4.0
+2296150,2022-03-11,Golden Valley,Montana,30037.0,150,5.0
+2296539,2022-03-11,Golden Valley,North Dakota,38033.0,475,4.0
+2299402,2022-03-12,Golden Valley,Montana,30037.0,150,5.0
+2299791,2022-03-12,Golden Valley,North Dakota,38033.0,475,4.0
+2302654,2022-03-13,Golden Valley,Montana,30037.0,150,5.0
+2303043,2022-03-13,Golden Valley,North Dakota,38033.0,475,4.0
+2305905,2022-03-14,Golden Valley,Montana,30037.0,150,5.0
+2306294,2022-03-14,Golden Valley,North Dakota,38033.0,475,4.0
+2309157,2022-03-15,Golden Valley,Montana,30037.0,150,5.0
+2309547,2022-03-15,Golden Valley,North Dakota,38033.0,475,4.0
+2312410,2022-03-16,Golden Valley,Montana,30037.0,150,5.0
+2312800,2022-03-16,Golden Valley,North Dakota,38033.0,475,4.0
+2315663,2022-03-17,Golden Valley,Montana,30037.0,150,5.0
+2316053,2022-03-17,Golden Valley,North Dakota,38033.0,475,4.0
+2318916,2022-03-18,Golden Valley,Montana,30037.0,150,5.0
+2319307,2022-03-18,Golden Valley,North Dakota,38033.0,475,4.0
+2322170,2022-03-19,Golden Valley,Montana,30037.0,150,5.0
+2322561,2022-03-19,Golden Valley,North Dakota,38033.0,475,4.0
+2325424,2022-03-20,Golden Valley,Montana,30037.0,150,5.0
+2325814,2022-03-20,Golden Valley,North Dakota,38033.0,475,4.0
+2328676,2022-03-21,Golden Valley,Montana,30037.0,150,5.0
+2329066,2022-03-21,Golden Valley,North Dakota,38033.0,475,4.0
+2331929,2022-03-22,Golden Valley,Montana,30037.0,150,5.0
+2332319,2022-03-22,Golden Valley,North Dakota,38033.0,475,4.0
+2335183,2022-03-23,Golden Valley,Montana,30037.0,150,5.0
+2335573,2022-03-23,Golden Valley,North Dakota,38033.0,475,4.0
+2338437,2022-03-24,Golden Valley,Montana,30037.0,150,5.0
+2338827,2022-03-24,Golden Valley,North Dakota,38033.0,475,4.0
+2341690,2022-03-25,Golden Valley,Montana,30037.0,150,5.0
+2342080,2022-03-25,Golden Valley,North Dakota,38033.0,475,4.0
+2344943,2022-03-26,Golden Valley,Montana,30037.0,150,5.0
+2345333,2022-03-26,Golden Valley,North Dakota,38033.0,475,4.0
+2348196,2022-03-27,Golden Valley,Montana,30037.0,150,5.0
+2348586,2022-03-27,Golden Valley,North Dakota,38033.0,475,4.0
+2351448,2022-03-28,Golden Valley,Montana,30037.0,150,5.0
+2351838,2022-03-28,Golden Valley,North Dakota,38033.0,475,4.0
+2354701,2022-03-29,Golden Valley,Montana,30037.0,150,5.0
+2355091,2022-03-29,Golden Valley,North Dakota,38033.0,475,4.0
+2357954,2022-03-30,Golden Valley,Montana,30037.0,150,5.0
+2358345,2022-03-30,Golden Valley,North Dakota,38033.0,475,4.0
+2361208,2022-03-31,Golden Valley,Montana,30037.0,150,5.0
+2361599,2022-03-31,Golden Valley,North Dakota,38033.0,475,4.0
+2364462,2022-04-01,Golden Valley,Montana,30037.0,150,5.0
+2364853,2022-04-01,Golden Valley,North Dakota,38033.0,475,4.0
+2367715,2022-04-02,Golden Valley,Montana,30037.0,150,5.0
+2368106,2022-04-02,Golden Valley,North Dakota,38033.0,475,4.0
+2370968,2022-04-03,Golden Valley,Montana,30037.0,150,5.0
+2371359,2022-04-03,Golden Valley,North Dakota,38033.0,475,4.0
+2374220,2022-04-04,Golden Valley,Montana,30037.0,150,5.0
+2374611,2022-04-04,Golden Valley,North Dakota,38033.0,475,4.0
+2377473,2022-04-05,Golden Valley,Montana,30037.0,150,5.0
+2377864,2022-04-05,Golden Valley,North Dakota,38033.0,475,4.0
+2380728,2022-04-06,Golden Valley,Montana,30037.0,150,5.0
+2381119,2022-04-06,Golden Valley,North Dakota,38033.0,475,4.0
+2383983,2022-04-07,Golden Valley,Montana,30037.0,150,5.0
+2384374,2022-04-07,Golden Valley,North Dakota,38033.0,475,4.0
+2387237,2022-04-08,Golden Valley,Montana,30037.0,150,5.0
+2387628,2022-04-08,Golden Valley,North Dakota,38033.0,475,4.0
+2390493,2022-04-09,Golden Valley,Montana,30037.0,150,5.0
+2390884,2022-04-09,Golden Valley,North Dakota,38033.0,475,4.0

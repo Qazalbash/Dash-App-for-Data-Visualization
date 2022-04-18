@@ -1,0 +1,1480 @@
+,date,county,state,fips,cases,deaths
+17279,2020-03-28,Hutchinson,South Dakota,46067.0,2,0.0
+19222,2020-03-29,Hutchinson,South Dakota,46067.0,2,0.0
+21274,2020-03-30,Hutchinson,South Dakota,46067.0,2,0.0
+23412,2020-03-31,Hutchinson,South Dakota,46067.0,2,0.0
+25610,2020-04-01,Hutchinson,South Dakota,46067.0,2,0.0
+27886,2020-04-02,Hutchinson,South Dakota,46067.0,2,0.0
+30221,2020-04-03,Hutchinson,South Dakota,46067.0,2,0.0
+32612,2020-04-04,Hutchinson,South Dakota,46067.0,2,0.0
+32784,2020-04-04,Hutchinson,Texas,48233.0,2,0.0
+35048,2020-04-05,Hutchinson,South Dakota,46067.0,2,0.0
+35222,2020-04-05,Hutchinson,Texas,48233.0,2,0.0
+37523,2020-04-06,Hutchinson,South Dakota,46067.0,2,0.0
+37698,2020-04-06,Hutchinson,Texas,48233.0,2,0.0
+40046,2020-04-07,Hutchinson,South Dakota,46067.0,2,0.0
+40225,2020-04-07,Hutchinson,Texas,48233.0,2,0.0
+42606,2020-04-08,Hutchinson,South Dakota,46067.0,2,0.0
+42792,2020-04-08,Hutchinson,Texas,48233.0,2,0.0
+45193,2020-04-09,Hutchinson,South Dakota,46067.0,2,0.0
+45381,2020-04-09,Hutchinson,Texas,48233.0,2,0.0
+47810,2020-04-10,Hutchinson,South Dakota,46067.0,2,0.0
+48002,2020-04-10,Hutchinson,Texas,48233.0,2,0.0
+50467,2020-04-11,Hutchinson,South Dakota,46067.0,2,0.0
+50660,2020-04-11,Hutchinson,Texas,48233.0,2,0.0
+53140,2020-04-12,Hutchinson,South Dakota,46067.0,2,0.0
+53335,2020-04-12,Hutchinson,Texas,48233.0,2,0.0
+55825,2020-04-13,Hutchinson,South Dakota,46067.0,2,0.0
+56023,2020-04-13,Hutchinson,Texas,48233.0,3,0.0
+58528,2020-04-14,Hutchinson,South Dakota,46067.0,2,0.0
+58728,2020-04-14,Hutchinson,Texas,48233.0,3,0.0
+61243,2020-04-15,Hutchinson,South Dakota,46067.0,2,0.0
+61446,2020-04-15,Hutchinson,Texas,48233.0,3,0.0
+63969,2020-04-16,Hutchinson,South Dakota,46067.0,2,0.0
+64173,2020-04-16,Hutchinson,Texas,48233.0,6,0.0
+66715,2020-04-17,Hutchinson,South Dakota,46067.0,2,0.0
+66920,2020-04-17,Hutchinson,Texas,48233.0,6,0.0
+69473,2020-04-18,Hutchinson,South Dakota,46067.0,2,0.0
+69680,2020-04-18,Hutchinson,Texas,48233.0,7,0.0
+72240,2020-04-19,Hutchinson,South Dakota,46067.0,2,0.0
+72449,2020-04-19,Hutchinson,Texas,48233.0,7,0.0
+75015,2020-04-20,Hutchinson,South Dakota,46067.0,2,0.0
+75225,2020-04-20,Hutchinson,Texas,48233.0,8,0.0
+77797,2020-04-21,Hutchinson,South Dakota,46067.0,2,0.0
+78007,2020-04-21,Hutchinson,Texas,48233.0,8,0.0
+80587,2020-04-22,Hutchinson,South Dakota,46067.0,2,0.0
+80798,2020-04-22,Hutchinson,Texas,48233.0,8,0.0
+83386,2020-04-23,Hutchinson,South Dakota,46067.0,2,0.0
+83598,2020-04-23,Hutchinson,Texas,48233.0,9,0.0
+86190,2020-04-24,Hutchinson,South Dakota,46067.0,2,0.0
+86403,2020-04-24,Hutchinson,Texas,48233.0,10,0.0
+89004,2020-04-25,Hutchinson,South Dakota,46067.0,2,0.0
+89218,2020-04-25,Hutchinson,Texas,48233.0,11,0.0
+91821,2020-04-26,Hutchinson,South Dakota,46067.0,3,0.0
+92035,2020-04-26,Hutchinson,Texas,48233.0,11,0.0
+94649,2020-04-27,Hutchinson,South Dakota,46067.0,3,0.0
+94864,2020-04-27,Hutchinson,Texas,48233.0,13,0.0
+97489,2020-04-28,Hutchinson,South Dakota,46067.0,3,0.0
+97704,2020-04-28,Hutchinson,Texas,48233.0,13,0.0
+100339,2020-04-29,Hutchinson,South Dakota,46067.0,3,0.0
+100554,2020-04-29,Hutchinson,Texas,48233.0,13,0.0
+103192,2020-04-30,Hutchinson,South Dakota,46067.0,3,0.0
+103409,2020-04-30,Hutchinson,Texas,48233.0,14,0.0
+106055,2020-05-01,Hutchinson,South Dakota,46067.0,3,0.0
+106273,2020-05-01,Hutchinson,Texas,48233.0,14,0.0
+108922,2020-05-02,Hutchinson,South Dakota,46067.0,3,0.0
+109142,2020-05-02,Hutchinson,Texas,48233.0,14,0.0
+111796,2020-05-03,Hutchinson,South Dakota,46067.0,3,0.0
+112016,2020-05-03,Hutchinson,Texas,48233.0,16,0.0
+114678,2020-05-04,Hutchinson,South Dakota,46067.0,3,0.0
+114898,2020-05-04,Hutchinson,Texas,48233.0,16,0.0
+117634,2020-05-05,Hutchinson,South Dakota,46067.0,3,0.0
+117857,2020-05-05,Hutchinson,Texas,48233.0,19,0.0
+120597,2020-05-06,Hutchinson,South Dakota,46067.0,3,0.0
+120821,2020-05-06,Hutchinson,Texas,48233.0,20,0.0
+123575,2020-05-07,Hutchinson,South Dakota,46067.0,3,0.0
+123800,2020-05-07,Hutchinson,Texas,48233.0,19,0.0
+126558,2020-05-08,Hutchinson,South Dakota,46067.0,3,0.0
+126783,2020-05-08,Hutchinson,Texas,48233.0,19,0.0
+129547,2020-05-09,Hutchinson,South Dakota,46067.0,3,0.0
+129772,2020-05-09,Hutchinson,Texas,48233.0,20,0.0
+132536,2020-05-10,Hutchinson,South Dakota,46067.0,3,0.0
+132762,2020-05-10,Hutchinson,Texas,48233.0,21,0.0
+135527,2020-05-11,Hutchinson,South Dakota,46067.0,3,0.0
+135753,2020-05-11,Hutchinson,Texas,48233.0,21,0.0
+138517,2020-05-12,Hutchinson,South Dakota,46067.0,3,0.0
+138743,2020-05-12,Hutchinson,Texas,48233.0,22,0.0
+141513,2020-05-13,Hutchinson,South Dakota,46067.0,3,0.0
+141739,2020-05-13,Hutchinson,Texas,48233.0,25,0.0
+144509,2020-05-14,Hutchinson,South Dakota,46067.0,3,0.0
+144736,2020-05-14,Hutchinson,Texas,48233.0,25,0.0
+147510,2020-05-15,Hutchinson,South Dakota,46067.0,3,0.0
+147740,2020-05-15,Hutchinson,Texas,48233.0,25,0.0
+150518,2020-05-16,Hutchinson,South Dakota,46067.0,3,0.0
+150748,2020-05-16,Hutchinson,Texas,48233.0,25,0.0
+153529,2020-05-17,Hutchinson,South Dakota,46067.0,3,0.0
+153759,2020-05-17,Hutchinson,Texas,48233.0,25,0.0
+156546,2020-05-18,Hutchinson,South Dakota,46067.0,3,0.0
+156776,2020-05-18,Hutchinson,Texas,48233.0,28,0.0
+159567,2020-05-19,Hutchinson,South Dakota,46067.0,3,0.0
+159798,2020-05-19,Hutchinson,Texas,48233.0,30,0.0
+162594,2020-05-20,Hutchinson,South Dakota,46067.0,3,0.0
+162826,2020-05-20,Hutchinson,Texas,48233.0,32,0.0
+165623,2020-05-21,Hutchinson,South Dakota,46067.0,3,0.0
+165855,2020-05-21,Hutchinson,Texas,48233.0,31,0.0
+168659,2020-05-22,Hutchinson,South Dakota,46067.0,3,0.0
+168891,2020-05-22,Hutchinson,Texas,48233.0,31,0.0
+171698,2020-05-23,Hutchinson,South Dakota,46067.0,3,0.0
+171931,2020-05-23,Hutchinson,Texas,48233.0,31,0.0
+174740,2020-05-24,Hutchinson,South Dakota,46067.0,3,0.0
+174974,2020-05-24,Hutchinson,Texas,48233.0,30,0.0
+177784,2020-05-25,Hutchinson,South Dakota,46067.0,3,0.0
+178018,2020-05-25,Hutchinson,Texas,48233.0,30,0.0
+180827,2020-05-26,Hutchinson,South Dakota,46067.0,4,0.0
+181062,2020-05-26,Hutchinson,Texas,48233.0,30,0.0
+183877,2020-05-27,Hutchinson,South Dakota,46067.0,4,0.0
+184112,2020-05-27,Hutchinson,Texas,48233.0,30,0.0
+186934,2020-05-28,Hutchinson,South Dakota,46067.0,4,0.0
+187169,2020-05-28,Hutchinson,Texas,48233.0,34,0.0
+189997,2020-05-29,Hutchinson,South Dakota,46067.0,4,0.0
+190233,2020-05-29,Hutchinson,Texas,48233.0,37,0.0
+193062,2020-05-30,Hutchinson,South Dakota,46067.0,5,0.0
+193298,2020-05-30,Hutchinson,Texas,48233.0,36,0.0
+196132,2020-05-31,Hutchinson,South Dakota,46067.0,5,0.0
+196368,2020-05-31,Hutchinson,Texas,48233.0,36,0.0
+199205,2020-06-01,Hutchinson,South Dakota,46067.0,5,0.0
+199441,2020-06-01,Hutchinson,Texas,48233.0,36,0.0
+202280,2020-06-02,Hutchinson,South Dakota,46067.0,6,0.0
+202516,2020-06-02,Hutchinson,Texas,48233.0,42,0.0
+205359,2020-06-03,Hutchinson,South Dakota,46067.0,6,0.0
+205595,2020-06-03,Hutchinson,Texas,48233.0,42,0.0
+208441,2020-06-04,Hutchinson,South Dakota,46067.0,6,0.0
+208677,2020-06-04,Hutchinson,Texas,48233.0,44,0.0
+211523,2020-06-05,Hutchinson,South Dakota,46067.0,6,0.0
+211761,2020-06-05,Hutchinson,Texas,48233.0,44,0.0
+214610,2020-06-06,Hutchinson,South Dakota,46067.0,6,0.0
+214848,2020-06-06,Hutchinson,Texas,48233.0,44,0.0
+217700,2020-06-07,Hutchinson,South Dakota,46067.0,6,0.0
+217938,2020-06-07,Hutchinson,Texas,48233.0,44,0.0
+220792,2020-06-08,Hutchinson,South Dakota,46067.0,6,0.0
+221030,2020-06-08,Hutchinson,Texas,48233.0,44,0.0
+223887,2020-06-09,Hutchinson,South Dakota,46067.0,6,0.0
+224125,2020-06-09,Hutchinson,Texas,48233.0,44,0.0
+226987,2020-06-10,Hutchinson,South Dakota,46067.0,8,0.0
+227225,2020-06-10,Hutchinson,Texas,48233.0,44,0.0
+230091,2020-06-11,Hutchinson,South Dakota,46067.0,8,0.0
+230329,2020-06-11,Hutchinson,Texas,48233.0,44,0.0
+233196,2020-06-12,Hutchinson,South Dakota,46067.0,8,0.0
+233433,2020-06-12,Hutchinson,Texas,48233.0,45,0.0
+236301,2020-06-13,Hutchinson,South Dakota,46067.0,8,0.0
+236539,2020-06-13,Hutchinson,Texas,48233.0,45,0.0
+239409,2020-06-14,Hutchinson,South Dakota,46067.0,8,0.0
+239647,2020-06-14,Hutchinson,Texas,48233.0,45,0.0
+242519,2020-06-15,Hutchinson,South Dakota,46067.0,9,0.0
+242757,2020-06-15,Hutchinson,Texas,48233.0,45,0.0
+245631,2020-06-16,Hutchinson,South Dakota,46067.0,9,0.0
+245869,2020-06-16,Hutchinson,Texas,48233.0,45,0.0
+248744,2020-06-17,Hutchinson,South Dakota,46067.0,9,0.0
+248982,2020-06-17,Hutchinson,Texas,48233.0,47,0.0
+251859,2020-06-18,Hutchinson,South Dakota,46067.0,10,0.0
+252097,2020-06-18,Hutchinson,Texas,48233.0,47,0.0
+254974,2020-06-19,Hutchinson,South Dakota,46067.0,10,0.0
+255212,2020-06-19,Hutchinson,Texas,48233.0,49,0.0
+258100,2020-06-20,Hutchinson,South Dakota,46067.0,10,0.0
+258339,2020-06-20,Hutchinson,Texas,48233.0,49,0.0
+261227,2020-06-21,Hutchinson,South Dakota,46067.0,10,0.0
+261466,2020-06-21,Hutchinson,Texas,48233.0,49,0.0
+264355,2020-06-22,Hutchinson,South Dakota,46067.0,10,0.0
+264594,2020-06-22,Hutchinson,Texas,48233.0,51,0.0
+267483,2020-06-23,Hutchinson,South Dakota,46067.0,10,0.0
+267722,2020-06-23,Hutchinson,Texas,48233.0,53,0.0
+270617,2020-06-24,Hutchinson,South Dakota,46067.0,10,0.0
+270856,2020-06-24,Hutchinson,Texas,48233.0,54,0.0
+273756,2020-06-25,Hutchinson,South Dakota,46067.0,10,0.0
+273996,2020-06-25,Hutchinson,Texas,48233.0,55,0.0
+276903,2020-06-26,Hutchinson,South Dakota,46067.0,10,0.0
+277143,2020-06-26,Hutchinson,Texas,48233.0,56,0.0
+280051,2020-06-27,Hutchinson,South Dakota,46067.0,11,0.0
+280291,2020-06-27,Hutchinson,Texas,48233.0,57,0.0
+283197,2020-06-28,Hutchinson,South Dakota,46067.0,12,0.0
+283437,2020-06-28,Hutchinson,Texas,48233.0,57,0.0
+286342,2020-06-29,Hutchinson,South Dakota,46067.0,12,0.0
+286583,2020-06-29,Hutchinson,Texas,48233.0,57,0.0
+289493,2020-06-30,Hutchinson,South Dakota,46067.0,12,0.0
+289733,2020-06-30,Hutchinson,Texas,48233.0,62,0.0
+292645,2020-07-01,Hutchinson,South Dakota,46067.0,12,0.0
+292886,2020-07-01,Hutchinson,Texas,48233.0,65,0.0
+295801,2020-07-02,Hutchinson,South Dakota,46067.0,13,0.0
+296041,2020-07-02,Hutchinson,Texas,48233.0,68,0.0
+298961,2020-07-03,Hutchinson,South Dakota,46067.0,13,0.0
+299201,2020-07-03,Hutchinson,Texas,48233.0,68,0.0
+302125,2020-07-04,Hutchinson,South Dakota,46067.0,14,0.0
+302365,2020-07-04,Hutchinson,Texas,48233.0,70,0.0
+305288,2020-07-05,Hutchinson,South Dakota,46067.0,14,0.0
+305529,2020-07-05,Hutchinson,Texas,48233.0,70,0.0
+308456,2020-07-06,Hutchinson,South Dakota,46067.0,15,0.0
+308697,2020-07-06,Hutchinson,Texas,48233.0,70,0.0
+311625,2020-07-07,Hutchinson,South Dakota,46067.0,15,0.0
+311866,2020-07-07,Hutchinson,Texas,48233.0,70,0.0
+314798,2020-07-08,Hutchinson,South Dakota,46067.0,15,0.0
+315040,2020-07-08,Hutchinson,Texas,48233.0,70,0.0
+317971,2020-07-09,Hutchinson,South Dakota,46067.0,15,0.0
+318213,2020-07-09,Hutchinson,Texas,48233.0,71,0.0
+321149,2020-07-10,Hutchinson,South Dakota,46067.0,15,0.0
+321392,2020-07-10,Hutchinson,Texas,48233.0,72,0.0
+324329,2020-07-11,Hutchinson,South Dakota,46067.0,15,0.0
+324573,2020-07-11,Hutchinson,Texas,48233.0,73,0.0
+327514,2020-07-12,Hutchinson,South Dakota,46067.0,17,0.0
+327758,2020-07-12,Hutchinson,Texas,48233.0,73,0.0
+330700,2020-07-13,Hutchinson,South Dakota,46067.0,17,0.0
+330944,2020-07-13,Hutchinson,Texas,48233.0,73,0.0
+333892,2020-07-14,Hutchinson,South Dakota,46067.0,18,0.0
+334135,2020-07-14,Hutchinson,Texas,48233.0,81,0.0
+337086,2020-07-15,Hutchinson,South Dakota,46067.0,18,0.0
+337330,2020-07-15,Hutchinson,Texas,48233.0,84,0.0
+340283,2020-07-16,Hutchinson,South Dakota,46067.0,18,0.0
+340526,2020-07-16,Hutchinson,Texas,48233.0,86,0.0
+343481,2020-07-17,Hutchinson,South Dakota,46067.0,20,0.0
+343725,2020-07-17,Hutchinson,Texas,48233.0,87,1.0
+346681,2020-07-18,Hutchinson,South Dakota,46067.0,20,0.0
+346925,2020-07-18,Hutchinson,Texas,48233.0,91,1.0
+349881,2020-07-19,Hutchinson,South Dakota,46067.0,20,0.0
+350125,2020-07-19,Hutchinson,Texas,48233.0,91,1.0
+353084,2020-07-20,Hutchinson,South Dakota,46067.0,21,0.0
+353327,2020-07-20,Hutchinson,Texas,48233.0,91,1.0
+356287,2020-07-21,Hutchinson,South Dakota,46067.0,21,0.0
+356530,2020-07-21,Hutchinson,Texas,48233.0,95,1.0
+359491,2020-07-22,Hutchinson,South Dakota,46067.0,21,0.0
+359735,2020-07-22,Hutchinson,Texas,48233.0,96,1.0
+362697,2020-07-23,Hutchinson,South Dakota,46067.0,21,0.0
+362942,2020-07-23,Hutchinson,Texas,48233.0,100,1.0
+365903,2020-07-24,Hutchinson,South Dakota,46067.0,21,0.0
+366148,2020-07-24,Hutchinson,Texas,48233.0,105,1.0
+369112,2020-07-25,Hutchinson,South Dakota,46067.0,23,0.0
+369357,2020-07-25,Hutchinson,Texas,48233.0,105,1.0
+372324,2020-07-26,Hutchinson,South Dakota,46067.0,24,0.0
+372569,2020-07-26,Hutchinson,Texas,48233.0,105,1.0
+375537,2020-07-27,Hutchinson,South Dakota,46067.0,24,0.0
+375782,2020-07-27,Hutchinson,Texas,48233.0,105,2.0
+378753,2020-07-28,Hutchinson,South Dakota,46067.0,24,0.0
+378998,2020-07-28,Hutchinson,Texas,48233.0,108,2.0
+381970,2020-07-29,Hutchinson,South Dakota,46067.0,24,0.0
+382215,2020-07-29,Hutchinson,Texas,48233.0,109,2.0
+385188,2020-07-30,Hutchinson,South Dakota,46067.0,25,0.0
+385433,2020-07-30,Hutchinson,Texas,48233.0,110,2.0
+388405,2020-07-31,Hutchinson,South Dakota,46067.0,26,0.0
+388650,2020-07-31,Hutchinson,Texas,48233.0,111,2.0
+391622,2020-08-01,Hutchinson,South Dakota,46067.0,26,0.0
+391867,2020-08-01,Hutchinson,Texas,48233.0,114,2.0
+394838,2020-08-02,Hutchinson,South Dakota,46067.0,26,0.0
+395083,2020-08-02,Hutchinson,Texas,48233.0,114,2.0
+398055,2020-08-03,Hutchinson,South Dakota,46067.0,27,0.0
+398299,2020-08-03,Hutchinson,Texas,48233.0,114,2.0
+401270,2020-08-04,Hutchinson,South Dakota,46067.0,27,0.0
+401515,2020-08-04,Hutchinson,Texas,48233.0,118,2.0
+404488,2020-08-05,Hutchinson,South Dakota,46067.0,27,0.0
+404733,2020-08-05,Hutchinson,Texas,48233.0,120,2.0
+407708,2020-08-06,Hutchinson,South Dakota,46067.0,27,0.0
+407953,2020-08-06,Hutchinson,Texas,48233.0,121,2.0
+410927,2020-08-07,Hutchinson,South Dakota,46067.0,27,0.0
+411172,2020-08-07,Hutchinson,Texas,48233.0,123,2.0
+414147,2020-08-08,Hutchinson,South Dakota,46067.0,28,0.0
+414392,2020-08-08,Hutchinson,Texas,48233.0,126,3.0
+417368,2020-08-09,Hutchinson,South Dakota,46067.0,29,0.0
+417613,2020-08-09,Hutchinson,Texas,48233.0,126,3.0
+420589,2020-08-10,Hutchinson,South Dakota,46067.0,29,0.0
+420834,2020-08-10,Hutchinson,Texas,48233.0,126,3.0
+423811,2020-08-11,Hutchinson,South Dakota,46067.0,29,0.0
+424055,2020-08-11,Hutchinson,Texas,48233.0,128,3.0
+427034,2020-08-12,Hutchinson,South Dakota,46067.0,30,0.0
+427279,2020-08-12,Hutchinson,Texas,48233.0,129,3.0
+430261,2020-08-13,Hutchinson,South Dakota,46067.0,29,0.0
+430506,2020-08-13,Hutchinson,Texas,48233.0,131,3.0
+433486,2020-08-14,Hutchinson,South Dakota,46067.0,29,0.0
+433731,2020-08-14,Hutchinson,Texas,48233.0,133,3.0
+436713,2020-08-15,Hutchinson,South Dakota,46067.0,31,0.0
+436957,2020-08-15,Hutchinson,Texas,48233.0,133,3.0
+439938,2020-08-16,Hutchinson,South Dakota,46067.0,31,0.0
+440183,2020-08-16,Hutchinson,Texas,48233.0,133,3.0
+443165,2020-08-17,Hutchinson,South Dakota,46067.0,31,0.0
+443409,2020-08-17,Hutchinson,Texas,48233.0,133,3.0
+446391,2020-08-18,Hutchinson,South Dakota,46067.0,35,0.0
+446636,2020-08-18,Hutchinson,Texas,48233.0,133,3.0
+449619,2020-08-19,Hutchinson,South Dakota,46067.0,35,0.0
+449864,2020-08-19,Hutchinson,Texas,48233.0,133,3.0
+452847,2020-08-20,Hutchinson,South Dakota,46067.0,35,0.0
+453092,2020-08-20,Hutchinson,Texas,48233.0,137,3.0
+456075,2020-08-21,Hutchinson,South Dakota,46067.0,35,0.0
+456320,2020-08-21,Hutchinson,Texas,48233.0,138,3.0
+459303,2020-08-22,Hutchinson,South Dakota,46067.0,35,1.0
+459547,2020-08-22,Hutchinson,Texas,48233.0,139,3.0
+462531,2020-08-23,Hutchinson,South Dakota,46067.0,35,1.0
+462776,2020-08-23,Hutchinson,Texas,48233.0,139,3.0
+465760,2020-08-24,Hutchinson,South Dakota,46067.0,35,1.0
+466005,2020-08-24,Hutchinson,Texas,48233.0,139,3.0
+468988,2020-08-25,Hutchinson,South Dakota,46067.0,35,1.0
+469234,2020-08-25,Hutchinson,Texas,48233.0,142,3.0
+472220,2020-08-26,Hutchinson,South Dakota,46067.0,35,1.0
+472466,2020-08-26,Hutchinson,Texas,48233.0,144,3.0
+475454,2020-08-27,Hutchinson,South Dakota,46067.0,36,1.0
+475699,2020-08-27,Hutchinson,Texas,48233.0,145,3.0
+478687,2020-08-28,Hutchinson,South Dakota,46067.0,36,1.0
+478932,2020-08-28,Hutchinson,Texas,48233.0,146,3.0
+481921,2020-08-29,Hutchinson,South Dakota,46067.0,38,1.0
+482166,2020-08-29,Hutchinson,Texas,48233.0,147,3.0
+485156,2020-08-30,Hutchinson,South Dakota,46067.0,39,1.0
+485401,2020-08-30,Hutchinson,Texas,48233.0,147,3.0
+488389,2020-08-31,Hutchinson,South Dakota,46067.0,41,1.0
+488634,2020-08-31,Hutchinson,Texas,48233.0,147,3.0
+491622,2020-09-01,Hutchinson,South Dakota,46067.0,44,1.0
+491867,2020-09-01,Hutchinson,Texas,48233.0,148,3.0
+494856,2020-09-02,Hutchinson,South Dakota,46067.0,46,1.0
+495101,2020-09-02,Hutchinson,Texas,48233.0,148,3.0
+498089,2020-09-03,Hutchinson,South Dakota,46067.0,49,1.0
+498334,2020-09-03,Hutchinson,Texas,48233.0,150,3.0
+501323,2020-09-04,Hutchinson,South Dakota,46067.0,51,1.0
+501568,2020-09-04,Hutchinson,Texas,48233.0,150,3.0
+504557,2020-09-05,Hutchinson,South Dakota,46067.0,55,1.0
+504802,2020-09-05,Hutchinson,Texas,48233.0,153,3.0
+507789,2020-09-06,Hutchinson,South Dakota,46067.0,56,1.0
+508034,2020-09-06,Hutchinson,Texas,48233.0,153,3.0
+511022,2020-09-07,Hutchinson,South Dakota,46067.0,56,1.0
+511267,2020-09-07,Hutchinson,Texas,48233.0,153,3.0
+514255,2020-09-08,Hutchinson,South Dakota,46067.0,57,1.0
+514500,2020-09-08,Hutchinson,Texas,48233.0,153,3.0
+517490,2020-09-09,Hutchinson,South Dakota,46067.0,57,1.0
+517735,2020-09-09,Hutchinson,Texas,48233.0,154,3.0
+520726,2020-09-10,Hutchinson,South Dakota,46067.0,58,1.0
+520971,2020-09-10,Hutchinson,Texas,48233.0,154,3.0
+523962,2020-09-11,Hutchinson,South Dakota,46067.0,60,1.0
+524207,2020-09-11,Hutchinson,Texas,48233.0,158,3.0
+527198,2020-09-12,Hutchinson,South Dakota,46067.0,61,1.0
+527443,2020-09-12,Hutchinson,Texas,48233.0,163,3.0
+530435,2020-09-13,Hutchinson,South Dakota,46067.0,64,1.0
+530680,2020-09-13,Hutchinson,Texas,48233.0,163,3.0
+533670,2020-09-14,Hutchinson,South Dakota,46067.0,64,1.0
+533915,2020-09-14,Hutchinson,Texas,48233.0,163,3.0
+536906,2020-09-15,Hutchinson,South Dakota,46067.0,64,1.0
+537151,2020-09-15,Hutchinson,Texas,48233.0,166,3.0
+540143,2020-09-16,Hutchinson,South Dakota,46067.0,65,1.0
+540388,2020-09-16,Hutchinson,Texas,48233.0,176,3.0
+543379,2020-09-17,Hutchinson,South Dakota,46067.0,67,1.0
+543624,2020-09-17,Hutchinson,Texas,48233.0,180,3.0
+546616,2020-09-18,Hutchinson,South Dakota,46067.0,68,2.0
+546861,2020-09-18,Hutchinson,Texas,48233.0,186,3.0
+549855,2020-09-19,Hutchinson,South Dakota,46067.0,71,2.0
+550100,2020-09-19,Hutchinson,Texas,48233.0,192,3.0
+553094,2020-09-20,Hutchinson,South Dakota,46067.0,73,2.0
+553339,2020-09-20,Hutchinson,Texas,48233.0,192,3.0
+556331,2020-09-21,Hutchinson,South Dakota,46067.0,74,2.0
+556576,2020-09-21,Hutchinson,Texas,48233.0,192,3.0
+559568,2020-09-22,Hutchinson,South Dakota,46067.0,75,2.0
+559812,2020-09-22,Hutchinson,Texas,48233.0,193,4.0
+562805,2020-09-23,Hutchinson,South Dakota,46067.0,78,2.0
+563051,2020-09-23,Hutchinson,Texas,48233.0,196,4.0
+566046,2020-09-24,Hutchinson,South Dakota,46067.0,82,2.0
+566292,2020-09-24,Hutchinson,Texas,48233.0,202,4.0
+569287,2020-09-25,Hutchinson,South Dakota,46067.0,88,2.0
+569533,2020-09-25,Hutchinson,Texas,48233.0,202,4.0
+572529,2020-09-26,Hutchinson,South Dakota,46067.0,95,2.0
+572775,2020-09-26,Hutchinson,Texas,48233.0,211,5.0
+575773,2020-09-27,Hutchinson,South Dakota,46067.0,99,2.0
+576019,2020-09-27,Hutchinson,Texas,48233.0,211,5.0
+579014,2020-09-28,Hutchinson,South Dakota,46067.0,99,2.0
+579260,2020-09-28,Hutchinson,Texas,48233.0,211,5.0
+582254,2020-09-29,Hutchinson,South Dakota,46067.0,101,2.0
+582499,2020-09-29,Hutchinson,Texas,48233.0,221,5.0
+585494,2020-09-30,Hutchinson,South Dakota,46067.0,105,2.0
+585739,2020-09-30,Hutchinson,Texas,48233.0,224,5.0
+588734,2020-10-01,Hutchinson,South Dakota,46067.0,112,2.0
+588980,2020-10-01,Hutchinson,Texas,48233.0,224,6.0
+591975,2020-10-02,Hutchinson,South Dakota,46067.0,118,2.0
+592220,2020-10-02,Hutchinson,Texas,48233.0,230,6.0
+595216,2020-10-03,Hutchinson,South Dakota,46067.0,119,2.0
+595462,2020-10-03,Hutchinson,Texas,48233.0,233,6.0
+598459,2020-10-04,Hutchinson,South Dakota,46067.0,129,2.0
+598705,2020-10-04,Hutchinson,Texas,48233.0,233,6.0
+601702,2020-10-05,Hutchinson,South Dakota,46067.0,129,2.0
+601948,2020-10-05,Hutchinson,Texas,48233.0,233,6.0
+604944,2020-10-06,Hutchinson,South Dakota,46067.0,133,2.0
+605190,2020-10-06,Hutchinson,Texas,48233.0,233,6.0
+608187,2020-10-07,Hutchinson,South Dakota,46067.0,135,2.0
+608433,2020-10-07,Hutchinson,Texas,48233.0,243,6.0
+611429,2020-10-08,Hutchinson,South Dakota,46067.0,141,2.0
+611675,2020-10-08,Hutchinson,Texas,48233.0,252,6.0
+614670,2020-10-09,Hutchinson,South Dakota,46067.0,148,2.0
+614916,2020-10-09,Hutchinson,Texas,48233.0,255,6.0
+617912,2020-10-10,Hutchinson,South Dakota,46067.0,152,2.0
+618158,2020-10-10,Hutchinson,Texas,48233.0,260,6.0
+621155,2020-10-11,Hutchinson,South Dakota,46067.0,157,2.0
+621401,2020-10-11,Hutchinson,Texas,48233.0,260,6.0
+624398,2020-10-12,Hutchinson,South Dakota,46067.0,158,2.0
+624644,2020-10-12,Hutchinson,Texas,48233.0,260,6.0
+627640,2020-10-13,Hutchinson,South Dakota,46067.0,161,2.0
+627886,2020-10-13,Hutchinson,Texas,48233.0,268,6.0
+630884,2020-10-14,Hutchinson,South Dakota,46067.0,167,2.0
+631130,2020-10-14,Hutchinson,Texas,48233.0,271,6.0
+634129,2020-10-15,Hutchinson,South Dakota,46067.0,174,2.0
+634375,2020-10-15,Hutchinson,Texas,48233.0,277,7.0
+637375,2020-10-16,Hutchinson,South Dakota,46067.0,176,2.0
+637620,2020-10-16,Hutchinson,Texas,48233.0,278,7.0
+640621,2020-10-17,Hutchinson,South Dakota,46067.0,180,2.0
+640867,2020-10-17,Hutchinson,Texas,48233.0,283,7.0
+643869,2020-10-18,Hutchinson,South Dakota,46067.0,185,2.0
+644115,2020-10-18,Hutchinson,Texas,48233.0,283,7.0
+647115,2020-10-19,Hutchinson,South Dakota,46067.0,191,2.0
+647361,2020-10-19,Hutchinson,Texas,48233.0,283,7.0
+650359,2020-10-20,Hutchinson,South Dakota,46067.0,193,2.0
+650605,2020-10-20,Hutchinson,Texas,48233.0,291,7.0
+653604,2020-10-21,Hutchinson,South Dakota,46067.0,199,2.0
+653850,2020-10-21,Hutchinson,Texas,48233.0,294,7.0
+656849,2020-10-22,Hutchinson,South Dakota,46067.0,200,2.0
+657095,2020-10-22,Hutchinson,Texas,48233.0,294,7.0
+660093,2020-10-23,Hutchinson,South Dakota,46067.0,207,2.0
+660339,2020-10-23,Hutchinson,Texas,48233.0,306,7.0
+663337,2020-10-24,Hutchinson,South Dakota,46067.0,210,2.0
+663583,2020-10-24,Hutchinson,Texas,48233.0,326,7.0
+666582,2020-10-25,Hutchinson,South Dakota,46067.0,212,2.0
+666828,2020-10-25,Hutchinson,Texas,48233.0,326,7.0
+669826,2020-10-26,Hutchinson,South Dakota,46067.0,215,2.0
+670071,2020-10-26,Hutchinson,Texas,48233.0,326,7.0
+673068,2020-10-27,Hutchinson,South Dakota,46067.0,221,2.0
+673313,2020-10-27,Hutchinson,Texas,48233.0,344,7.0
+676311,2020-10-28,Hutchinson,South Dakota,46067.0,229,2.0
+676556,2020-10-28,Hutchinson,Texas,48233.0,344,7.0
+679554,2020-10-29,Hutchinson,South Dakota,46067.0,239,2.0
+679799,2020-10-29,Hutchinson,Texas,48233.0,344,7.0
+682797,2020-10-30,Hutchinson,South Dakota,46067.0,240,2.0
+683042,2020-10-30,Hutchinson,Texas,48233.0,327,7.0
+686040,2020-10-31,Hutchinson,South Dakota,46067.0,245,2.0
+686285,2020-10-31,Hutchinson,Texas,48233.0,335,7.0
+689285,2020-11-01,Hutchinson,South Dakota,46067.0,252,2.0
+689530,2020-11-01,Hutchinson,Texas,48233.0,338,7.0
+692529,2020-11-02,Hutchinson,South Dakota,46067.0,257,2.0
+692774,2020-11-02,Hutchinson,Texas,48233.0,338,7.0
+695771,2020-11-03,Hutchinson,South Dakota,46067.0,261,2.0
+696016,2020-11-03,Hutchinson,Texas,48233.0,382,7.0
+699014,2020-11-04,Hutchinson,South Dakota,46067.0,268,2.0
+699260,2020-11-04,Hutchinson,Texas,48233.0,399,8.0
+702258,2020-11-05,Hutchinson,South Dakota,46067.0,283,2.0
+702503,2020-11-05,Hutchinson,Texas,48233.0,406,9.0
+705501,2020-11-06,Hutchinson,South Dakota,46067.0,297,2.0
+705746,2020-11-06,Hutchinson,Texas,48233.0,406,10.0
+708744,2020-11-07,Hutchinson,South Dakota,46067.0,305,2.0
+708990,2020-11-07,Hutchinson,Texas,48233.0,490,10.0
+711988,2020-11-08,Hutchinson,South Dakota,46067.0,322,2.0
+712234,2020-11-08,Hutchinson,Texas,48233.0,490,11.0
+715232,2020-11-09,Hutchinson,South Dakota,46067.0,327,2.0
+715478,2020-11-09,Hutchinson,Texas,48233.0,490,11.0
+718475,2020-11-10,Hutchinson,South Dakota,46067.0,339,2.0
+718721,2020-11-10,Hutchinson,Texas,48233.0,499,11.0
+721718,2020-11-11,Hutchinson,South Dakota,46067.0,351,2.0
+721964,2020-11-11,Hutchinson,Texas,48233.0,500,12.0
+724961,2020-11-12,Hutchinson,South Dakota,46067.0,357,2.0
+725207,2020-11-12,Hutchinson,Texas,48233.0,500,13.0
+728205,2020-11-13,Hutchinson,South Dakota,46067.0,369,2.0
+728450,2020-11-13,Hutchinson,Texas,48233.0,536,13.0
+731449,2020-11-14,Hutchinson,South Dakota,46067.0,408,2.0
+731695,2020-11-14,Hutchinson,Texas,48233.0,553,13.0
+734695,2020-11-15,Hutchinson,South Dakota,46067.0,420,3.0
+734941,2020-11-15,Hutchinson,Texas,48233.0,553,13.0
+737939,2020-11-16,Hutchinson,South Dakota,46067.0,432,3.0
+738185,2020-11-16,Hutchinson,Texas,48233.0,570,13.0
+741185,2020-11-17,Hutchinson,South Dakota,46067.0,444,3.0
+741431,2020-11-17,Hutchinson,Texas,48233.0,584,13.0
+744432,2020-11-18,Hutchinson,South Dakota,46067.0,461,3.0
+744678,2020-11-18,Hutchinson,Texas,48233.0,584,13.0
+747678,2020-11-19,Hutchinson,South Dakota,46067.0,465,3.0
+747924,2020-11-19,Hutchinson,Texas,48233.0,600,15.0
+750924,2020-11-20,Hutchinson,South Dakota,46067.0,483,3.0
+751170,2020-11-20,Hutchinson,Texas,48233.0,594,16.0
+754170,2020-11-21,Hutchinson,South Dakota,46067.0,499,3.0
+754416,2020-11-21,Hutchinson,Texas,48233.0,608,16.0
+757417,2020-11-22,Hutchinson,South Dakota,46067.0,508,5.0
+757663,2020-11-22,Hutchinson,Texas,48233.0,608,16.0
+760662,2020-11-23,Hutchinson,South Dakota,46067.0,513,5.0
+760908,2020-11-23,Hutchinson,Texas,48233.0,608,18.0
+763907,2020-11-24,Hutchinson,South Dakota,46067.0,529,5.0
+764153,2020-11-24,Hutchinson,Texas,48233.0,625,20.0
+767152,2020-11-25,Hutchinson,South Dakota,46067.0,541,6.0
+767398,2020-11-25,Hutchinson,Texas,48233.0,631,22.0
+770398,2020-11-26,Hutchinson,South Dakota,46067.0,541,6.0
+770644,2020-11-26,Hutchinson,Texas,48233.0,643,24.0
+773643,2020-11-27,Hutchinson,South Dakota,46067.0,551,7.0
+773889,2020-11-27,Hutchinson,Texas,48233.0,643,24.0
+776888,2020-11-28,Hutchinson,South Dakota,46067.0,562,8.0
+777134,2020-11-28,Hutchinson,Texas,48233.0,661,24.0
+780134,2020-11-29,Hutchinson,South Dakota,46067.0,568,8.0
+780380,2020-11-29,Hutchinson,Texas,48233.0,661,24.0
+783379,2020-11-30,Hutchinson,South Dakota,46067.0,573,9.0
+783625,2020-11-30,Hutchinson,Texas,48233.0,661,24.0
+786623,2020-12-01,Hutchinson,South Dakota,46067.0,576,9.0
+786869,2020-12-01,Hutchinson,Texas,48233.0,670,26.0
+789868,2020-12-02,Hutchinson,South Dakota,46067.0,586,10.0
+790114,2020-12-02,Hutchinson,Texas,48233.0,676,26.0
+793113,2020-12-03,Hutchinson,South Dakota,46067.0,600,11.0
+793359,2020-12-03,Hutchinson,Texas,48233.0,693,28.0
+796358,2020-12-04,Hutchinson,South Dakota,46067.0,604,11.0
+796604,2020-12-04,Hutchinson,Texas,48233.0,702,29.0
+799603,2020-12-05,Hutchinson,South Dakota,46067.0,608,13.0
+799849,2020-12-05,Hutchinson,Texas,48233.0,724,29.0
+802848,2020-12-06,Hutchinson,South Dakota,46067.0,613,13.0
+803094,2020-12-06,Hutchinson,Texas,48233.0,724,29.0
+806093,2020-12-07,Hutchinson,South Dakota,46067.0,619,13.0
+806339,2020-12-07,Hutchinson,Texas,48233.0,724,29.0
+809338,2020-12-08,Hutchinson,South Dakota,46067.0,620,13.0
+809584,2020-12-08,Hutchinson,Texas,48233.0,746,29.0
+812582,2020-12-09,Hutchinson,South Dakota,46067.0,628,13.0
+812828,2020-12-09,Hutchinson,Texas,48233.0,754,29.0
+815828,2020-12-10,Hutchinson,South Dakota,46067.0,632,13.0
+816074,2020-12-10,Hutchinson,Texas,48233.0,754,29.0
+819074,2020-12-11,Hutchinson,South Dakota,46067.0,638,14.0
+819320,2020-12-11,Hutchinson,Texas,48233.0,1052,31.0
+822320,2020-12-12,Hutchinson,South Dakota,46067.0,642,14.0
+822566,2020-12-12,Hutchinson,Texas,48233.0,1064,32.0
+825567,2020-12-13,Hutchinson,South Dakota,46067.0,649,14.0
+825813,2020-12-13,Hutchinson,Texas,48233.0,1064,32.0
+828813,2020-12-14,Hutchinson,South Dakota,46067.0,650,14.0
+829059,2020-12-14,Hutchinson,Texas,48233.0,1064,32.0
+832060,2020-12-15,Hutchinson,South Dakota,46067.0,657,14.0
+832306,2020-12-15,Hutchinson,Texas,48233.0,1071,34.0
+835306,2020-12-16,Hutchinson,South Dakota,46067.0,666,14.0
+835552,2020-12-16,Hutchinson,Texas,48233.0,1082,34.0
+838552,2020-12-17,Hutchinson,South Dakota,46067.0,669,14.0
+838798,2020-12-17,Hutchinson,Texas,48233.0,1094,34.0
+841797,2020-12-18,Hutchinson,South Dakota,46067.0,673,14.0
+842043,2020-12-18,Hutchinson,Texas,48233.0,1101,34.0
+845043,2020-12-19,Hutchinson,South Dakota,46067.0,674,14.0
+845289,2020-12-19,Hutchinson,Texas,48233.0,1106,40.0
+848288,2020-12-20,Hutchinson,South Dakota,46067.0,676,14.0
+848534,2020-12-20,Hutchinson,Texas,48233.0,1106,40.0
+851533,2020-12-21,Hutchinson,South Dakota,46067.0,678,14.0
+851779,2020-12-21,Hutchinson,Texas,48233.0,1106,40.0
+854778,2020-12-22,Hutchinson,South Dakota,46067.0,682,14.0
+855024,2020-12-22,Hutchinson,Texas,48233.0,1116,41.0
+858023,2020-12-23,Hutchinson,South Dakota,46067.0,683,14.0
+858269,2020-12-23,Hutchinson,Texas,48233.0,1138,42.0
+861268,2020-12-24,Hutchinson,South Dakota,46067.0,688,14.0
+861514,2020-12-24,Hutchinson,Texas,48233.0,1143,43.0
+864513,2020-12-25,Hutchinson,South Dakota,46067.0,688,14.0
+864759,2020-12-25,Hutchinson,Texas,48233.0,1143,43.0
+867758,2020-12-26,Hutchinson,South Dakota,46067.0,690,16.0
+868004,2020-12-26,Hutchinson,Texas,48233.0,1143,43.0
+871003,2020-12-27,Hutchinson,South Dakota,46067.0,692,16.0
+871249,2020-12-27,Hutchinson,Texas,48233.0,1143,43.0
+874248,2020-12-28,Hutchinson,South Dakota,46067.0,694,16.0
+874494,2020-12-28,Hutchinson,Texas,48233.0,1143,43.0
+877493,2020-12-29,Hutchinson,South Dakota,46067.0,696,16.0
+877739,2020-12-29,Hutchinson,Texas,48233.0,1146,43.0
+880738,2020-12-30,Hutchinson,South Dakota,46067.0,697,16.0
+880984,2020-12-30,Hutchinson,Texas,48233.0,1161,48.0
+883983,2020-12-31,Hutchinson,South Dakota,46067.0,700,16.0
+884229,2020-12-31,Hutchinson,Texas,48233.0,1176,48.0
+887228,2021-01-01,Hutchinson,South Dakota,46067.0,700,16.0
+887474,2021-01-01,Hutchinson,Texas,48233.0,1193,49.0
+890475,2021-01-02,Hutchinson,South Dakota,46067.0,701,16.0
+890721,2021-01-02,Hutchinson,Texas,48233.0,1193,49.0
+893721,2021-01-03,Hutchinson,South Dakota,46067.0,703,17.0
+893967,2021-01-03,Hutchinson,Texas,48233.0,1193,49.0
+896967,2021-01-04,Hutchinson,South Dakota,46067.0,703,17.0
+897213,2021-01-04,Hutchinson,Texas,48233.0,1193,49.0
+900212,2021-01-05,Hutchinson,South Dakota,46067.0,704,17.0
+900458,2021-01-05,Hutchinson,Texas,48233.0,1205,50.0
+903457,2021-01-06,Hutchinson,South Dakota,46067.0,707,17.0
+903703,2021-01-06,Hutchinson,Texas,48233.0,1217,50.0
+906703,2021-01-07,Hutchinson,South Dakota,46067.0,709,18.0
+906949,2021-01-07,Hutchinson,Texas,48233.0,1223,51.0
+909948,2021-01-08,Hutchinson,South Dakota,46067.0,711,18.0
+910194,2021-01-08,Hutchinson,Texas,48233.0,1232,52.0
+913193,2021-01-09,Hutchinson,South Dakota,46067.0,716,19.0
+913439,2021-01-09,Hutchinson,Texas,48233.0,1236,52.0
+916438,2021-01-10,Hutchinson,South Dakota,46067.0,719,20.0
+916684,2021-01-10,Hutchinson,Texas,48233.0,1236,53.0
+919683,2021-01-11,Hutchinson,South Dakota,46067.0,719,20.0
+919929,2021-01-11,Hutchinson,Texas,48233.0,1236,53.0
+922928,2021-01-12,Hutchinson,South Dakota,46067.0,721,20.0
+923174,2021-01-12,Hutchinson,Texas,48233.0,1239,53.0
+926174,2021-01-13,Hutchinson,South Dakota,46067.0,723,20.0
+926420,2021-01-13,Hutchinson,Texas,48233.0,1246,56.0
+929419,2021-01-14,Hutchinson,South Dakota,46067.0,728,20.0
+929665,2021-01-14,Hutchinson,Texas,48233.0,1252,56.0
+932664,2021-01-15,Hutchinson,South Dakota,46067.0,729,21.0
+932910,2021-01-15,Hutchinson,Texas,48233.0,1252,57.0
+935909,2021-01-16,Hutchinson,South Dakota,46067.0,731,22.0
+936155,2021-01-16,Hutchinson,Texas,48233.0,1252,57.0
+939154,2021-01-17,Hutchinson,South Dakota,46067.0,735,22.0
+939400,2021-01-17,Hutchinson,Texas,48233.0,1252,57.0
+942399,2021-01-18,Hutchinson,South Dakota,46067.0,735,22.0
+942645,2021-01-18,Hutchinson,Texas,48233.0,1252,57.0
+945646,2021-01-19,Hutchinson,South Dakota,46067.0,736,22.0
+945892,2021-01-19,Hutchinson,Texas,48233.0,1253,57.0
+948892,2021-01-20,Hutchinson,South Dakota,46067.0,738,22.0
+949138,2021-01-20,Hutchinson,Texas,48233.0,1282,58.0
+952137,2021-01-21,Hutchinson,South Dakota,46067.0,742,23.0
+952383,2021-01-21,Hutchinson,Texas,48233.0,1282,58.0
+955382,2021-01-22,Hutchinson,South Dakota,46067.0,746,23.0
+955628,2021-01-22,Hutchinson,Texas,48233.0,1300,58.0
+958628,2021-01-23,Hutchinson,South Dakota,46067.0,748,23.0
+958874,2021-01-23,Hutchinson,Texas,48233.0,1304,59.0
+961873,2021-01-24,Hutchinson,South Dakota,46067.0,748,23.0
+962119,2021-01-24,Hutchinson,Texas,48233.0,1304,60.0
+965118,2021-01-25,Hutchinson,South Dakota,46067.0,748,23.0
+965364,2021-01-25,Hutchinson,Texas,48233.0,1304,60.0
+968362,2021-01-26,Hutchinson,South Dakota,46067.0,750,23.0
+968608,2021-01-26,Hutchinson,Texas,48233.0,1318,60.0
+971607,2021-01-27,Hutchinson,South Dakota,46067.0,752,23.0
+971853,2021-01-27,Hutchinson,Texas,48233.0,1358,60.0
+974852,2021-01-28,Hutchinson,South Dakota,46067.0,755,23.0
+975098,2021-01-28,Hutchinson,Texas,48233.0,1363,60.0
+978097,2021-01-29,Hutchinson,South Dakota,46067.0,755,23.0
+978343,2021-01-29,Hutchinson,Texas,48233.0,1363,62.0
+981343,2021-01-30,Hutchinson,South Dakota,46067.0,757,23.0
+981589,2021-01-30,Hutchinson,Texas,48233.0,1376,62.0
+984590,2021-01-31,Hutchinson,South Dakota,46067.0,758,23.0
+984836,2021-01-31,Hutchinson,Texas,48233.0,1376,62.0
+987837,2021-02-01,Hutchinson,South Dakota,46067.0,757,23.0
+988083,2021-02-01,Hutchinson,Texas,48233.0,1376,62.0
+991083,2021-02-02,Hutchinson,South Dakota,46067.0,758,23.0
+991329,2021-02-02,Hutchinson,Texas,48233.0,1377,62.0
+994329,2021-02-03,Hutchinson,South Dakota,46067.0,759,23.0
+994575,2021-02-03,Hutchinson,Texas,48233.0,1400,62.0
+997575,2021-02-04,Hutchinson,South Dakota,46067.0,760,23.0
+997821,2021-02-04,Hutchinson,Texas,48233.0,1403,63.0
+1000821,2021-02-05,Hutchinson,South Dakota,46067.0,763,23.0
+1001067,2021-02-05,Hutchinson,Texas,48233.0,1406,63.0
+1004067,2021-02-06,Hutchinson,South Dakota,46067.0,766,23.0
+1004313,2021-02-06,Hutchinson,Texas,48233.0,1418,63.0
+1007313,2021-02-07,Hutchinson,South Dakota,46067.0,766,24.0
+1007559,2021-02-07,Hutchinson,Texas,48233.0,1418,64.0
+1010559,2021-02-08,Hutchinson,South Dakota,46067.0,767,24.0
+1010805,2021-02-08,Hutchinson,Texas,48233.0,1418,64.0
+1013804,2021-02-09,Hutchinson,South Dakota,46067.0,767,24.0
+1014050,2021-02-09,Hutchinson,Texas,48233.0,1454,64.0
+1017049,2021-02-10,Hutchinson,South Dakota,46067.0,768,24.0
+1017295,2021-02-10,Hutchinson,Texas,48233.0,1504,64.0
+1020294,2021-02-11,Hutchinson,South Dakota,46067.0,770,24.0
+1020540,2021-02-11,Hutchinson,Texas,48233.0,1507,65.0
+1023539,2021-02-12,Hutchinson,South Dakota,46067.0,771,24.0
+1023785,2021-02-12,Hutchinson,Texas,48233.0,1508,67.0
+1026784,2021-02-13,Hutchinson,South Dakota,46067.0,774,24.0
+1027030,2021-02-13,Hutchinson,Texas,48233.0,1509,67.0
+1030031,2021-02-14,Hutchinson,South Dakota,46067.0,775,24.0
+1030277,2021-02-14,Hutchinson,Texas,48233.0,1509,67.0
+1033277,2021-02-15,Hutchinson,South Dakota,46067.0,775,24.0
+1033523,2021-02-15,Hutchinson,Texas,48233.0,1509,67.0
+1036522,2021-02-16,Hutchinson,South Dakota,46067.0,779,24.0
+1036768,2021-02-16,Hutchinson,Texas,48233.0,1509,67.0
+1039767,2021-02-17,Hutchinson,South Dakota,46067.0,780,24.0
+1040013,2021-02-17,Hutchinson,Texas,48233.0,1509,67.0
+1043012,2021-02-18,Hutchinson,South Dakota,46067.0,782,24.0
+1043258,2021-02-18,Hutchinson,Texas,48233.0,1509,67.0
+1046257,2021-02-19,Hutchinson,South Dakota,46067.0,783,24.0
+1046503,2021-02-19,Hutchinson,Texas,48233.0,1509,68.0
+1049504,2021-02-20,Hutchinson,South Dakota,46067.0,783,24.0
+1049750,2021-02-20,Hutchinson,Texas,48233.0,1521,68.0
+1052751,2021-02-21,Hutchinson,South Dakota,46067.0,783,24.0
+1052997,2021-02-21,Hutchinson,Texas,48233.0,1521,68.0
+1055997,2021-02-22,Hutchinson,South Dakota,46067.0,783,24.0
+1056243,2021-02-22,Hutchinson,Texas,48233.0,1521,68.0
+1059243,2021-02-23,Hutchinson,South Dakota,46067.0,784,24.0
+1059489,2021-02-23,Hutchinson,Texas,48233.0,1527,68.0
+1062488,2021-02-24,Hutchinson,South Dakota,46067.0,786,24.0
+1062734,2021-02-24,Hutchinson,Texas,48233.0,1528,68.0
+1065733,2021-02-25,Hutchinson,South Dakota,46067.0,787,24.0
+1065979,2021-02-25,Hutchinson,Texas,48233.0,1533,68.0
+1068978,2021-02-26,Hutchinson,South Dakota,46067.0,787,24.0
+1069224,2021-02-26,Hutchinson,Texas,48233.0,1536,68.0
+1072224,2021-02-27,Hutchinson,South Dakota,46067.0,788,24.0
+1072470,2021-02-27,Hutchinson,Texas,48233.0,1536,68.0
+1075470,2021-02-28,Hutchinson,South Dakota,46067.0,788,24.0
+1075716,2021-02-28,Hutchinson,Texas,48233.0,1536,69.0
+1078715,2021-03-01,Hutchinson,South Dakota,46067.0,788,24.0
+1078961,2021-03-01,Hutchinson,Texas,48233.0,1536,69.0
+1081961,2021-03-02,Hutchinson,South Dakota,46067.0,789,24.0
+1082207,2021-03-02,Hutchinson,Texas,48233.0,1536,69.0
+1085207,2021-03-03,Hutchinson,South Dakota,46067.0,790,25.0
+1085453,2021-03-03,Hutchinson,Texas,48233.0,1536,69.0
+1088452,2021-03-04,Hutchinson,South Dakota,46067.0,790,25.0
+1088698,2021-03-04,Hutchinson,Texas,48233.0,1543,69.0
+1091698,2021-03-05,Hutchinson,South Dakota,46067.0,790,25.0
+1091944,2021-03-05,Hutchinson,Texas,48233.0,1547,69.0
+1094944,2021-03-06,Hutchinson,South Dakota,46067.0,790,26.0
+1095190,2021-03-06,Hutchinson,Texas,48233.0,1547,69.0
+1098192,2021-03-07,Hutchinson,South Dakota,46067.0,790,26.0
+1098438,2021-03-07,Hutchinson,Texas,48233.0,1547,69.0
+1101438,2021-03-08,Hutchinson,South Dakota,46067.0,790,26.0
+1101684,2021-03-08,Hutchinson,Texas,48233.0,1547,69.0
+1104684,2021-03-09,Hutchinson,South Dakota,46067.0,790,26.0
+1104930,2021-03-09,Hutchinson,Texas,48233.0,1548,69.0
+1107930,2021-03-10,Hutchinson,South Dakota,46067.0,790,26.0
+1108176,2021-03-10,Hutchinson,Texas,48233.0,1550,69.0
+1111176,2021-03-11,Hutchinson,South Dakota,46067.0,792,26.0
+1111422,2021-03-11,Hutchinson,Texas,48233.0,1564,69.0
+1114422,2021-03-12,Hutchinson,South Dakota,46067.0,795,26.0
+1114668,2021-03-12,Hutchinson,Texas,48233.0,1564,69.0
+1117669,2021-03-13,Hutchinson,South Dakota,46067.0,795,26.0
+1117915,2021-03-13,Hutchinson,Texas,48233.0,1565,70.0
+1120916,2021-03-14,Hutchinson,South Dakota,46067.0,796,26.0
+1121162,2021-03-14,Hutchinson,Texas,48233.0,1565,70.0
+1124162,2021-03-15,Hutchinson,South Dakota,46067.0,796,26.0
+1124408,2021-03-15,Hutchinson,Texas,48233.0,1565,70.0
+1127408,2021-03-16,Hutchinson,South Dakota,46067.0,796,26.0
+1127654,2021-03-16,Hutchinson,Texas,48233.0,1566,70.0
+1130655,2021-03-17,Hutchinson,South Dakota,46067.0,797,26.0
+1130901,2021-03-17,Hutchinson,Texas,48233.0,1566,70.0
+1133903,2021-03-18,Hutchinson,South Dakota,46067.0,799,26.0
+1134149,2021-03-18,Hutchinson,Texas,48233.0,1566,70.0
+1137149,2021-03-19,Hutchinson,South Dakota,46067.0,799,26.0
+1137395,2021-03-19,Hutchinson,Texas,48233.0,1566,70.0
+1140395,2021-03-20,Hutchinson,South Dakota,46067.0,800,26.0
+1140641,2021-03-20,Hutchinson,Texas,48233.0,1566,71.0
+1143642,2021-03-21,Hutchinson,South Dakota,46067.0,803,26.0
+1143888,2021-03-21,Hutchinson,Texas,48233.0,1566,71.0
+1146889,2021-03-22,Hutchinson,South Dakota,46067.0,803,26.0
+1147135,2021-03-22,Hutchinson,Texas,48233.0,1566,71.0
+1150136,2021-03-23,Hutchinson,South Dakota,46067.0,806,26.0
+1150382,2021-03-23,Hutchinson,Texas,48233.0,1597,71.0
+1153383,2021-03-24,Hutchinson,South Dakota,46067.0,811,26.0
+1153629,2021-03-24,Hutchinson,Texas,48233.0,1642,71.0
+1156630,2021-03-25,Hutchinson,South Dakota,46067.0,811,26.0
+1156876,2021-03-25,Hutchinson,Texas,48233.0,1644,71.0
+1159877,2021-03-26,Hutchinson,South Dakota,46067.0,816,26.0
+1160123,2021-03-26,Hutchinson,Texas,48233.0,1644,71.0
+1163126,2021-03-27,Hutchinson,South Dakota,46067.0,823,26.0
+1163372,2021-03-27,Hutchinson,Texas,48233.0,1648,71.0
+1166374,2021-03-28,Hutchinson,South Dakota,46067.0,826,26.0
+1166620,2021-03-28,Hutchinson,Texas,48233.0,1648,71.0
+1169622,2021-03-29,Hutchinson,South Dakota,46067.0,828,26.0
+1169868,2021-03-29,Hutchinson,Texas,48233.0,1648,71.0
+1172869,2021-03-30,Hutchinson,South Dakota,46067.0,835,26.0
+1173115,2021-03-30,Hutchinson,Texas,48233.0,1651,71.0
+1176116,2021-03-31,Hutchinson,South Dakota,46067.0,839,26.0
+1176362,2021-03-31,Hutchinson,Texas,48233.0,1652,71.0
+1179363,2021-04-01,Hutchinson,South Dakota,46067.0,845,26.0
+1179609,2021-04-01,Hutchinson,Texas,48233.0,1653,71.0
+1182610,2021-04-02,Hutchinson,South Dakota,46067.0,846,26.0
+1182856,2021-04-02,Hutchinson,Texas,48233.0,1653,71.0
+1185857,2021-04-03,Hutchinson,South Dakota,46067.0,847,26.0
+1186103,2021-04-03,Hutchinson,Texas,48233.0,1653,71.0
+1189104,2021-04-04,Hutchinson,South Dakota,46067.0,847,26.0
+1189350,2021-04-04,Hutchinson,Texas,48233.0,1653,71.0
+1192353,2021-04-05,Hutchinson,South Dakota,46067.0,847,26.0
+1192599,2021-04-05,Hutchinson,Texas,48233.0,1653,71.0
+1195601,2021-04-06,Hutchinson,South Dakota,46067.0,847,26.0
+1195847,2021-04-06,Hutchinson,Texas,48233.0,1659,71.0
+1198850,2021-04-07,Hutchinson,South Dakota,46067.0,857,26.0
+1199096,2021-04-07,Hutchinson,Texas,48233.0,1646,71.0
+1202099,2021-04-08,Hutchinson,South Dakota,46067.0,862,26.0
+1202345,2021-04-08,Hutchinson,Texas,48233.0,1826,71.0
+1205347,2021-04-09,Hutchinson,South Dakota,46067.0,863,26.0
+1205593,2021-04-09,Hutchinson,Texas,48233.0,1830,71.0
+1208595,2021-04-10,Hutchinson,South Dakota,46067.0,866,26.0
+1208841,2021-04-10,Hutchinson,Texas,48233.0,1909,71.0
+1211844,2021-04-11,Hutchinson,South Dakota,46067.0,866,26.0
+1212090,2021-04-11,Hutchinson,Texas,48233.0,1909,71.0
+1215091,2021-04-12,Hutchinson,South Dakota,46067.0,869,26.0
+1215337,2021-04-12,Hutchinson,Texas,48233.0,1909,71.0
+1218339,2021-04-13,Hutchinson,South Dakota,46067.0,875,26.0
+1218585,2021-04-13,Hutchinson,Texas,48233.0,1985,71.0
+1221587,2021-04-14,Hutchinson,South Dakota,46067.0,877,26.0
+1221833,2021-04-14,Hutchinson,Texas,48233.0,1984,71.0
+1224834,2021-04-15,Hutchinson,South Dakota,46067.0,879,26.0
+1225080,2021-04-15,Hutchinson,Texas,48233.0,1985,71.0
+1228082,2021-04-16,Hutchinson,South Dakota,46067.0,880,26.0
+1228328,2021-04-16,Hutchinson,Texas,48233.0,1990,71.0
+1231330,2021-04-17,Hutchinson,South Dakota,46067.0,884,26.0
+1231576,2021-04-17,Hutchinson,Texas,48233.0,1995,71.0
+1234578,2021-04-18,Hutchinson,South Dakota,46067.0,884,26.0
+1234824,2021-04-18,Hutchinson,Texas,48233.0,1995,71.0
+1237825,2021-04-19,Hutchinson,South Dakota,46067.0,886,26.0
+1238071,2021-04-19,Hutchinson,Texas,48233.0,1995,71.0
+1241072,2021-04-20,Hutchinson,South Dakota,46067.0,890,26.0
+1241318,2021-04-20,Hutchinson,Texas,48233.0,1998,71.0
+1244319,2021-04-21,Hutchinson,South Dakota,46067.0,892,26.0
+1244565,2021-04-21,Hutchinson,Texas,48233.0,1998,71.0
+1247566,2021-04-22,Hutchinson,South Dakota,46067.0,894,27.0
+1247812,2021-04-22,Hutchinson,Texas,48233.0,2002,71.0
+1250813,2021-04-23,Hutchinson,South Dakota,46067.0,895,27.0
+1251059,2021-04-23,Hutchinson,Texas,48233.0,2003,71.0
+1254060,2021-04-24,Hutchinson,South Dakota,46067.0,898,27.0
+1254306,2021-04-24,Hutchinson,Texas,48233.0,2003,71.0
+1257307,2021-04-25,Hutchinson,South Dakota,46067.0,898,27.0
+1257553,2021-04-25,Hutchinson,Texas,48233.0,2003,71.0
+1260554,2021-04-26,Hutchinson,South Dakota,46067.0,903,27.0
+1260800,2021-04-26,Hutchinson,Texas,48233.0,2003,71.0
+1263801,2021-04-27,Hutchinson,South Dakota,46067.0,906,27.0
+1264047,2021-04-27,Hutchinson,Texas,48233.0,2006,71.0
+1267048,2021-04-28,Hutchinson,South Dakota,46067.0,908,27.0
+1267294,2021-04-28,Hutchinson,Texas,48233.0,2010,71.0
+1270295,2021-04-29,Hutchinson,South Dakota,46067.0,912,27.0
+1270541,2021-04-29,Hutchinson,Texas,48233.0,2011,71.0
+1273542,2021-04-30,Hutchinson,South Dakota,46067.0,914,27.0
+1273788,2021-04-30,Hutchinson,Texas,48233.0,2011,71.0
+1276789,2021-05-01,Hutchinson,South Dakota,46067.0,914,27.0
+1277035,2021-05-01,Hutchinson,Texas,48233.0,2011,71.0
+1280036,2021-05-02,Hutchinson,South Dakota,46067.0,914,27.0
+1280282,2021-05-02,Hutchinson,Texas,48233.0,2011,71.0
+1283283,2021-05-03,Hutchinson,South Dakota,46067.0,914,27.0
+1283529,2021-05-03,Hutchinson,Texas,48233.0,2011,71.0
+1286529,2021-05-04,Hutchinson,South Dakota,46067.0,914,27.0
+1286775,2021-05-04,Hutchinson,Texas,48233.0,2012,71.0
+1289775,2021-05-05,Hutchinson,South Dakota,46067.0,914,27.0
+1290021,2021-05-05,Hutchinson,Texas,48233.0,2012,71.0
+1293021,2021-05-06,Hutchinson,South Dakota,46067.0,914,27.0
+1293267,2021-05-06,Hutchinson,Texas,48233.0,2012,71.0
+1296267,2021-05-07,Hutchinson,South Dakota,46067.0,915,27.0
+1296513,2021-05-07,Hutchinson,Texas,48233.0,2020,71.0
+1299514,2021-05-08,Hutchinson,South Dakota,46067.0,915,27.0
+1299760,2021-05-08,Hutchinson,Texas,48233.0,2022,71.0
+1302761,2021-05-09,Hutchinson,South Dakota,46067.0,915,27.0
+1303007,2021-05-09,Hutchinson,Texas,48233.0,2022,71.0
+1306007,2021-05-10,Hutchinson,South Dakota,46067.0,915,27.0
+1306253,2021-05-10,Hutchinson,Texas,48233.0,2022,71.0
+1309253,2021-05-11,Hutchinson,South Dakota,46067.0,916,27.0
+1309499,2021-05-11,Hutchinson,Texas,48233.0,2025,71.0
+1312500,2021-05-12,Hutchinson,South Dakota,46067.0,917,27.0
+1312746,2021-05-12,Hutchinson,Texas,48233.0,2025,71.0
+1315746,2021-05-13,Hutchinson,South Dakota,46067.0,917,27.0
+1315992,2021-05-13,Hutchinson,Texas,48233.0,2026,71.0
+1318994,2021-05-14,Hutchinson,South Dakota,46067.0,917,27.0
+1319240,2021-05-14,Hutchinson,Texas,48233.0,2027,71.0
+1322240,2021-05-15,Hutchinson,South Dakota,46067.0,917,27.0
+1322486,2021-05-15,Hutchinson,Texas,48233.0,2027,71.0
+1325486,2021-05-16,Hutchinson,South Dakota,46067.0,917,27.0
+1325732,2021-05-16,Hutchinson,Texas,48233.0,2027,71.0
+1328732,2021-05-17,Hutchinson,South Dakota,46067.0,918,27.0
+1328978,2021-05-17,Hutchinson,Texas,48233.0,2027,71.0
+1331979,2021-05-18,Hutchinson,South Dakota,46067.0,919,27.0
+1332225,2021-05-18,Hutchinson,Texas,48233.0,2031,71.0
+1335226,2021-05-19,Hutchinson,South Dakota,46067.0,919,27.0
+1335472,2021-05-19,Hutchinson,Texas,48233.0,2030,71.0
+1338473,2021-05-20,Hutchinson,South Dakota,46067.0,919,28.0
+1338719,2021-05-20,Hutchinson,Texas,48233.0,2031,71.0
+1341721,2021-05-21,Hutchinson,South Dakota,46067.0,919,28.0
+1341967,2021-05-21,Hutchinson,Texas,48233.0,2040,71.0
+1344969,2021-05-22,Hutchinson,South Dakota,46067.0,919,28.0
+1345215,2021-05-22,Hutchinson,Texas,48233.0,2044,71.0
+1348217,2021-05-23,Hutchinson,South Dakota,46067.0,919,28.0
+1348463,2021-05-23,Hutchinson,Texas,48233.0,2044,71.0
+1351463,2021-05-24,Hutchinson,South Dakota,46067.0,919,28.0
+1351709,2021-05-24,Hutchinson,Texas,48233.0,2044,71.0
+1354709,2021-05-25,Hutchinson,South Dakota,46067.0,920,28.0
+1354955,2021-05-25,Hutchinson,Texas,48233.0,2050,71.0
+1357955,2021-05-26,Hutchinson,South Dakota,46067.0,920,28.0
+1358201,2021-05-26,Hutchinson,Texas,48233.0,2057,71.0
+1361201,2021-05-27,Hutchinson,South Dakota,46067.0,920,28.0
+1361447,2021-05-27,Hutchinson,Texas,48233.0,2061,71.0
+1364447,2021-05-28,Hutchinson,South Dakota,46067.0,920,28.0
+1364693,2021-05-28,Hutchinson,Texas,48233.0,2065,71.0
+1367693,2021-05-29,Hutchinson,South Dakota,46067.0,920,28.0
+1367939,2021-05-29,Hutchinson,Texas,48233.0,2069,71.0
+1370939,2021-05-30,Hutchinson,South Dakota,46067.0,920,28.0
+1371185,2021-05-30,Hutchinson,Texas,48233.0,2069,71.0
+1374184,2021-05-31,Hutchinson,South Dakota,46067.0,920,28.0
+1374430,2021-05-31,Hutchinson,Texas,48233.0,2069,71.0
+1377430,2021-06-01,Hutchinson,South Dakota,46067.0,920,28.0
+1377676,2021-06-01,Hutchinson,Texas,48233.0,2065,71.0
+1380675,2021-06-02,Hutchinson,South Dakota,46067.0,920,28.0
+1380921,2021-06-02,Hutchinson,Texas,48233.0,2084,71.0
+1383921,2021-06-03,Hutchinson,South Dakota,46067.0,920,28.0
+1384167,2021-06-03,Hutchinson,Texas,48233.0,2104,71.0
+1387166,2021-06-04,Hutchinson,South Dakota,46067.0,918,28.0
+1387412,2021-06-04,Hutchinson,Texas,48233.0,2125,71.0
+1390411,2021-06-05,Hutchinson,South Dakota,46067.0,918,28.0
+1390657,2021-06-05,Hutchinson,Texas,48233.0,2125,71.0
+1393656,2021-06-06,Hutchinson,South Dakota,46067.0,918,28.0
+1393902,2021-06-06,Hutchinson,Texas,48233.0,2125,71.0
+1396903,2021-06-07,Hutchinson,South Dakota,46067.0,918,28.0
+1397149,2021-06-07,Hutchinson,Texas,48233.0,2125,71.0
+1400148,2021-06-08,Hutchinson,South Dakota,46067.0,918,28.0
+1400394,2021-06-08,Hutchinson,Texas,48233.0,2167,72.0
+1403393,2021-06-09,Hutchinson,South Dakota,46067.0,918,28.0
+1403639,2021-06-09,Hutchinson,Texas,48233.0,2181,72.0
+1406639,2021-06-10,Hutchinson,South Dakota,46067.0,918,28.0
+1406885,2021-06-10,Hutchinson,Texas,48233.0,2183,72.0
+1409884,2021-06-11,Hutchinson,South Dakota,46067.0,918,28.0
+1410130,2021-06-11,Hutchinson,Texas,48233.0,2212,72.0
+1413129,2021-06-12,Hutchinson,South Dakota,46067.0,918,28.0
+1413375,2021-06-12,Hutchinson,Texas,48233.0,2216,72.0
+1416375,2021-06-13,Hutchinson,South Dakota,46067.0,918,28.0
+1416621,2021-06-13,Hutchinson,Texas,48233.0,2216,72.0
+1419620,2021-06-14,Hutchinson,South Dakota,46067.0,918,28.0
+1419866,2021-06-14,Hutchinson,Texas,48233.0,2216,72.0
+1422866,2021-06-15,Hutchinson,South Dakota,46067.0,918,28.0
+1423112,2021-06-15,Hutchinson,Texas,48233.0,2216,72.0
+1426113,2021-06-16,Hutchinson,South Dakota,46067.0,919,28.0
+1426359,2021-06-16,Hutchinson,Texas,48233.0,2247,72.0
+1429358,2021-06-17,Hutchinson,South Dakota,46067.0,919,28.0
+1429604,2021-06-17,Hutchinson,Texas,48233.0,2270,72.0
+1432604,2021-06-18,Hutchinson,South Dakota,46067.0,919,28.0
+1432850,2021-06-18,Hutchinson,Texas,48233.0,2324,72.0
+1435851,2021-06-19,Hutchinson,South Dakota,46067.0,919,28.0
+1436097,2021-06-19,Hutchinson,Texas,48233.0,2405,72.0
+1439098,2021-06-20,Hutchinson,South Dakota,46067.0,919,28.0
+1439344,2021-06-20,Hutchinson,Texas,48233.0,2405,72.0
+1442343,2021-06-21,Hutchinson,South Dakota,46067.0,919,28.0
+1442589,2021-06-21,Hutchinson,Texas,48233.0,2405,72.0
+1445588,2021-06-22,Hutchinson,South Dakota,46067.0,919,28.0
+1445834,2021-06-22,Hutchinson,Texas,48233.0,2408,72.0
+1448833,2021-06-23,Hutchinson,South Dakota,46067.0,920,28.0
+1449079,2021-06-23,Hutchinson,Texas,48233.0,2412,72.0
+1452079,2021-06-24,Hutchinson,South Dakota,46067.0,920,28.0
+1452325,2021-06-24,Hutchinson,Texas,48233.0,2412,72.0
+1455324,2021-06-25,Hutchinson,South Dakota,46067.0,920,28.0
+1455570,2021-06-25,Hutchinson,Texas,48233.0,2411,72.0
+1458569,2021-06-26,Hutchinson,South Dakota,46067.0,920,28.0
+1458815,2021-06-26,Hutchinson,Texas,48233.0,2410,72.0
+1461814,2021-06-27,Hutchinson,South Dakota,46067.0,920,28.0
+1462060,2021-06-27,Hutchinson,Texas,48233.0,2410,72.0
+1465059,2021-06-28,Hutchinson,South Dakota,46067.0,920,28.0
+1465305,2021-06-28,Hutchinson,Texas,48233.0,2410,72.0
+1468304,2021-06-29,Hutchinson,South Dakota,46067.0,920,28.0
+1468550,2021-06-29,Hutchinson,Texas,48233.0,2417,72.0
+1471549,2021-06-30,Hutchinson,South Dakota,46067.0,920,28.0
+1471795,2021-06-30,Hutchinson,Texas,48233.0,2423,72.0
+1474795,2021-07-01,Hutchinson,South Dakota,46067.0,920,28.0
+1475041,2021-07-01,Hutchinson,Texas,48233.0,2424,72.0
+1478041,2021-07-02,Hutchinson,South Dakota,46067.0,920,28.0
+1478287,2021-07-02,Hutchinson,Texas,48233.0,2424,72.0
+1481288,2021-07-03,Hutchinson,South Dakota,46067.0,920,28.0
+1481534,2021-07-03,Hutchinson,Texas,48233.0,2427,72.0
+1484534,2021-07-04,Hutchinson,South Dakota,46067.0,920,28.0
+1484780,2021-07-04,Hutchinson,Texas,48233.0,2427,72.0
+1487781,2021-07-05,Hutchinson,South Dakota,46067.0,920,28.0
+1488027,2021-07-05,Hutchinson,Texas,48233.0,2427,72.0
+1491028,2021-07-06,Hutchinson,South Dakota,46067.0,920,28.0
+1491274,2021-07-06,Hutchinson,Texas,48233.0,2427,72.0
+1494275,2021-07-07,Hutchinson,South Dakota,46067.0,920,28.0
+1494521,2021-07-07,Hutchinson,Texas,48233.0,2427,72.0
+1497522,2021-07-08,Hutchinson,South Dakota,46067.0,920,28.0
+1497768,2021-07-08,Hutchinson,Texas,48233.0,2428,72.0
+1500768,2021-07-09,Hutchinson,South Dakota,46067.0,920,28.0
+1501014,2021-07-09,Hutchinson,Texas,48233.0,2428,72.0
+1504014,2021-07-10,Hutchinson,South Dakota,46067.0,920,28.0
+1504260,2021-07-10,Hutchinson,Texas,48233.0,2434,72.0
+1507260,2021-07-11,Hutchinson,South Dakota,46067.0,920,28.0
+1507506,2021-07-11,Hutchinson,Texas,48233.0,2434,72.0
+1510507,2021-07-12,Hutchinson,South Dakota,46067.0,920,28.0
+1510753,2021-07-12,Hutchinson,Texas,48233.0,2434,72.0
+1513753,2021-07-13,Hutchinson,South Dakota,46067.0,920,28.0
+1513999,2021-07-13,Hutchinson,Texas,48233.0,2437,72.0
+1517000,2021-07-14,Hutchinson,South Dakota,46067.0,921,29.0
+1517246,2021-07-14,Hutchinson,Texas,48233.0,2438,72.0
+1520248,2021-07-15,Hutchinson,South Dakota,46067.0,921,29.0
+1520494,2021-07-15,Hutchinson,Texas,48233.0,2439,72.0
+1523496,2021-07-16,Hutchinson,South Dakota,46067.0,921,29.0
+1523742,2021-07-16,Hutchinson,Texas,48233.0,2439,72.0
+1526743,2021-07-17,Hutchinson,South Dakota,46067.0,921,29.0
+1526989,2021-07-17,Hutchinson,Texas,48233.0,2440,72.0
+1529990,2021-07-18,Hutchinson,South Dakota,46067.0,921,29.0
+1530236,2021-07-18,Hutchinson,Texas,48233.0,2440,72.0
+1533237,2021-07-19,Hutchinson,South Dakota,46067.0,921,29.0
+1533483,2021-07-19,Hutchinson,Texas,48233.0,2440,72.0
+1536485,2021-07-20,Hutchinson,South Dakota,46067.0,921,29.0
+1536731,2021-07-20,Hutchinson,Texas,48233.0,2446,72.0
+1539732,2021-07-21,Hutchinson,South Dakota,46067.0,921,29.0
+1539978,2021-07-21,Hutchinson,Texas,48233.0,2449,72.0
+1542980,2021-07-22,Hutchinson,South Dakota,46067.0,921,29.0
+1543226,2021-07-22,Hutchinson,Texas,48233.0,2455,72.0
+1546227,2021-07-23,Hutchinson,South Dakota,46067.0,921,29.0
+1546473,2021-07-23,Hutchinson,Texas,48233.0,2463,72.0
+1549474,2021-07-24,Hutchinson,South Dakota,46067.0,921,29.0
+1549720,2021-07-24,Hutchinson,Texas,48233.0,2473,72.0
+1552721,2021-07-25,Hutchinson,South Dakota,46067.0,921,29.0
+1552967,2021-07-25,Hutchinson,Texas,48233.0,2473,72.0
+1555968,2021-07-26,Hutchinson,South Dakota,46067.0,921,29.0
+1556214,2021-07-26,Hutchinson,Texas,48233.0,2473,72.0
+1559215,2021-07-27,Hutchinson,South Dakota,46067.0,921,29.0
+1559461,2021-07-27,Hutchinson,Texas,48233.0,2484,72.0
+1562463,2021-07-28,Hutchinson,South Dakota,46067.0,921,29.0
+1562709,2021-07-28,Hutchinson,Texas,48233.0,2500,72.0
+1565711,2021-07-29,Hutchinson,South Dakota,46067.0,921,29.0
+1565957,2021-07-29,Hutchinson,Texas,48233.0,2516,72.0
+1568959,2021-07-30,Hutchinson,South Dakota,46067.0,921,29.0
+1569205,2021-07-30,Hutchinson,Texas,48233.0,2518,72.0
+1572207,2021-07-31,Hutchinson,South Dakota,46067.0,921,29.0
+1572453,2021-07-31,Hutchinson,Texas,48233.0,2529,72.0
+1575455,2021-08-01,Hutchinson,South Dakota,46067.0,921,29.0
+1575701,2021-08-01,Hutchinson,Texas,48233.0,2529,72.0
+1578703,2021-08-02,Hutchinson,South Dakota,46067.0,921,29.0
+1578949,2021-08-02,Hutchinson,Texas,48233.0,2529,72.0
+1581952,2021-08-03,Hutchinson,South Dakota,46067.0,921,29.0
+1582198,2021-08-03,Hutchinson,Texas,48233.0,2542,72.0
+1585202,2021-08-04,Hutchinson,South Dakota,46067.0,921,29.0
+1585448,2021-08-04,Hutchinson,Texas,48233.0,2557,72.0
+1588452,2021-08-05,Hutchinson,South Dakota,46067.0,921,29.0
+1588698,2021-08-05,Hutchinson,Texas,48233.0,2562,72.0
+1591701,2021-08-06,Hutchinson,South Dakota,46067.0,921,29.0
+1591947,2021-08-06,Hutchinson,Texas,48233.0,2564,72.0
+1594950,2021-08-07,Hutchinson,South Dakota,46067.0,921,29.0
+1595196,2021-08-07,Hutchinson,Texas,48233.0,2573,72.0
+1598199,2021-08-08,Hutchinson,South Dakota,46067.0,921,29.0
+1598445,2021-08-08,Hutchinson,Texas,48233.0,2573,72.0
+1601447,2021-08-09,Hutchinson,South Dakota,46067.0,921,29.0
+1601693,2021-08-09,Hutchinson,Texas,48233.0,2573,72.0
+1604696,2021-08-10,Hutchinson,South Dakota,46067.0,921,29.0
+1604942,2021-08-10,Hutchinson,Texas,48233.0,2590,72.0
+1607945,2021-08-11,Hutchinson,South Dakota,46067.0,923,29.0
+1608191,2021-08-11,Hutchinson,Texas,48233.0,2595,72.0
+1611193,2021-08-12,Hutchinson,South Dakota,46067.0,925,29.0
+1611439,2021-08-12,Hutchinson,Texas,48233.0,2592,72.0
+1614442,2021-08-13,Hutchinson,South Dakota,46067.0,926,29.0
+1614688,2021-08-13,Hutchinson,Texas,48233.0,2600,72.0
+1617690,2021-08-14,Hutchinson,South Dakota,46067.0,926,29.0
+1617936,2021-08-14,Hutchinson,Texas,48233.0,2629,72.0
+1620938,2021-08-15,Hutchinson,South Dakota,46067.0,926,29.0
+1621184,2021-08-15,Hutchinson,Texas,48233.0,2629,72.0
+1624185,2021-08-16,Hutchinson,South Dakota,46067.0,927,29.0
+1624431,2021-08-16,Hutchinson,Texas,48233.0,2629,72.0
+1627432,2021-08-17,Hutchinson,South Dakota,46067.0,928,29.0
+1627678,2021-08-17,Hutchinson,Texas,48233.0,2663,72.0
+1630679,2021-08-18,Hutchinson,South Dakota,46067.0,929,29.0
+1630925,2021-08-18,Hutchinson,Texas,48233.0,2673,72.0
+1633926,2021-08-19,Hutchinson,South Dakota,46067.0,929,29.0
+1634172,2021-08-19,Hutchinson,Texas,48233.0,2675,72.0
+1637176,2021-08-20,Hutchinson,South Dakota,46067.0,931,29.0
+1637422,2021-08-20,Hutchinson,Texas,48233.0,2690,72.0
+1640426,2021-08-21,Hutchinson,South Dakota,46067.0,931,29.0
+1640672,2021-08-21,Hutchinson,Texas,48233.0,2709,72.0
+1643676,2021-08-22,Hutchinson,South Dakota,46067.0,931,29.0
+1643922,2021-08-22,Hutchinson,Texas,48233.0,2709,72.0
+1646925,2021-08-23,Hutchinson,South Dakota,46067.0,931,29.0
+1647171,2021-08-23,Hutchinson,Texas,48233.0,2709,72.0
+1650174,2021-08-24,Hutchinson,South Dakota,46067.0,935,29.0
+1650420,2021-08-24,Hutchinson,Texas,48233.0,2732,73.0
+1653421,2021-08-25,Hutchinson,South Dakota,46067.0,935,29.0
+1653667,2021-08-25,Hutchinson,Texas,48233.0,2749,73.0
+1656668,2021-08-26,Hutchinson,South Dakota,46067.0,936,29.0
+1656914,2021-08-26,Hutchinson,Texas,48233.0,2753,73.0
+1659917,2021-08-27,Hutchinson,South Dakota,46067.0,939,29.0
+1660163,2021-08-27,Hutchinson,Texas,48233.0,2760,73.0
+1663165,2021-08-28,Hutchinson,South Dakota,46067.0,939,29.0
+1663411,2021-08-28,Hutchinson,Texas,48233.0,2779,73.0
+1666413,2021-08-29,Hutchinson,South Dakota,46067.0,939,29.0
+1666659,2021-08-29,Hutchinson,Texas,48233.0,2779,73.0
+1669660,2021-08-30,Hutchinson,South Dakota,46067.0,942,29.0
+1669906,2021-08-30,Hutchinson,Texas,48233.0,2779,73.0
+1672908,2021-08-31,Hutchinson,South Dakota,46067.0,943,29.0
+1673154,2021-08-31,Hutchinson,Texas,48233.0,2779,73.0
+1676155,2021-09-01,Hutchinson,South Dakota,46067.0,947,29.0
+1676401,2021-09-01,Hutchinson,Texas,48233.0,2823,73.0
+1679403,2021-09-02,Hutchinson,South Dakota,46067.0,946,29.0
+1679649,2021-09-02,Hutchinson,Texas,48233.0,2864,74.0
+1682653,2021-09-03,Hutchinson,South Dakota,46067.0,947,29.0
+1682899,2021-09-03,Hutchinson,Texas,48233.0,2883,74.0
+1685904,2021-09-04,Hutchinson,South Dakota,46067.0,947,29.0
+1686150,2021-09-04,Hutchinson,Texas,48233.0,2918,74.0
+1689154,2021-09-05,Hutchinson,South Dakota,46067.0,947,29.0
+1689400,2021-09-05,Hutchinson,Texas,48233.0,2918,74.0
+1692403,2021-09-06,Hutchinson,South Dakota,46067.0,947,29.0
+1692649,2021-09-06,Hutchinson,Texas,48233.0,2918,74.0
+1695651,2021-09-07,Hutchinson,South Dakota,46067.0,951,29.0
+1695897,2021-09-07,Hutchinson,Texas,48233.0,2918,74.0
+1698899,2021-09-08,Hutchinson,South Dakota,46067.0,960,29.0
+1699145,2021-09-08,Hutchinson,Texas,48233.0,2969,74.0
+1702148,2021-09-09,Hutchinson,South Dakota,46067.0,963,29.0
+1702394,2021-09-09,Hutchinson,Texas,48233.0,3003,75.0
+1705398,2021-09-10,Hutchinson,South Dakota,46067.0,967,29.0
+1705644,2021-09-10,Hutchinson,Texas,48233.0,3012,75.0
+1708645,2021-09-11,Hutchinson,South Dakota,46067.0,967,29.0
+1708891,2021-09-11,Hutchinson,Texas,48233.0,3046,76.0
+1711892,2021-09-12,Hutchinson,South Dakota,46067.0,967,29.0
+1712138,2021-09-12,Hutchinson,Texas,48233.0,3046,76.0
+1715138,2021-09-13,Hutchinson,South Dakota,46067.0,973,28.0
+1715384,2021-09-13,Hutchinson,Texas,48233.0,3046,76.0
+1718386,2021-09-14,Hutchinson,South Dakota,46067.0,980,28.0
+1718632,2021-09-14,Hutchinson,Texas,48233.0,3105,76.0
+1721634,2021-09-15,Hutchinson,South Dakota,46067.0,985,28.0
+1721880,2021-09-15,Hutchinson,Texas,48233.0,3111,78.0
+1724883,2021-09-16,Hutchinson,South Dakota,46067.0,989,28.0
+1725129,2021-09-16,Hutchinson,Texas,48233.0,3114,78.0
+1728132,2021-09-17,Hutchinson,South Dakota,46067.0,994,28.0
+1728378,2021-09-17,Hutchinson,Texas,48233.0,3144,79.0
+1731382,2021-09-18,Hutchinson,South Dakota,46067.0,994,28.0
+1731628,2021-09-18,Hutchinson,Texas,48233.0,3166,80.0
+1734632,2021-09-19,Hutchinson,South Dakota,46067.0,994,28.0
+1734878,2021-09-19,Hutchinson,Texas,48233.0,3166,80.0
+1737882,2021-09-20,Hutchinson,South Dakota,46067.0,997,28.0
+1738128,2021-09-20,Hutchinson,Texas,48233.0,3166,80.0
+1741131,2021-09-21,Hutchinson,South Dakota,46067.0,1001,28.0
+1741377,2021-09-21,Hutchinson,Texas,48233.0,3184,80.0
+1744380,2021-09-22,Hutchinson,South Dakota,46067.0,1005,28.0
+1744626,2021-09-22,Hutchinson,Texas,48233.0,3232,81.0
+1747630,2021-09-23,Hutchinson,South Dakota,46067.0,1008,28.0
+1747876,2021-09-23,Hutchinson,Texas,48233.0,3243,81.0
+1750879,2021-09-24,Hutchinson,South Dakota,46067.0,1009,28.0
+1751125,2021-09-24,Hutchinson,Texas,48233.0,3260,81.0
+1754127,2021-09-25,Hutchinson,South Dakota,46067.0,1009,28.0
+1754373,2021-09-25,Hutchinson,Texas,48233.0,3273,81.0
+1757375,2021-09-26,Hutchinson,South Dakota,46067.0,1009,28.0
+1757621,2021-09-26,Hutchinson,Texas,48233.0,3273,81.0
+1760623,2021-09-27,Hutchinson,South Dakota,46067.0,1010,28.0
+1760869,2021-09-27,Hutchinson,Texas,48233.0,3273,81.0
+1763872,2021-09-28,Hutchinson,South Dakota,46067.0,1011,28.0
+1764118,2021-09-28,Hutchinson,Texas,48233.0,3323,81.0
+1767121,2021-09-29,Hutchinson,South Dakota,46067.0,1014,28.0
+1767367,2021-09-29,Hutchinson,Texas,48233.0,3344,81.0
+1770370,2021-09-30,Hutchinson,South Dakota,46067.0,1016,28.0
+1770616,2021-09-30,Hutchinson,Texas,48233.0,3352,81.0
+1773620,2021-10-01,Hutchinson,South Dakota,46067.0,1016,28.0
+1773866,2021-10-01,Hutchinson,Texas,48233.0,3352,83.0
+1776870,2021-10-02,Hutchinson,South Dakota,46067.0,1016,28.0
+1777116,2021-10-02,Hutchinson,Texas,48233.0,3386,83.0
+1780120,2021-10-03,Hutchinson,South Dakota,46067.0,1016,28.0
+1780366,2021-10-03,Hutchinson,Texas,48233.0,3386,83.0
+1783369,2021-10-04,Hutchinson,South Dakota,46067.0,1017,28.0
+1783615,2021-10-04,Hutchinson,Texas,48233.0,3386,83.0
+1786618,2021-10-05,Hutchinson,South Dakota,46067.0,1020,28.0
+1786864,2021-10-05,Hutchinson,Texas,48233.0,3413,83.0
+1789866,2021-10-06,Hutchinson,South Dakota,46067.0,1023,28.0
+1790112,2021-10-06,Hutchinson,Texas,48233.0,3413,83.0
+1793115,2021-10-07,Hutchinson,South Dakota,46067.0,1026,28.0
+1793361,2021-10-07,Hutchinson,Texas,48233.0,3435,83.0
+1796364,2021-10-08,Hutchinson,South Dakota,46067.0,1029,28.0
+1796610,2021-10-08,Hutchinson,Texas,48233.0,3456,85.0
+1799613,2021-10-09,Hutchinson,South Dakota,46067.0,1029,28.0
+1799859,2021-10-09,Hutchinson,Texas,48233.0,3459,85.0
+1802862,2021-10-10,Hutchinson,South Dakota,46067.0,1029,28.0
+1803108,2021-10-10,Hutchinson,Texas,48233.0,3459,85.0
+1806112,2021-10-11,Hutchinson,South Dakota,46067.0,1029,28.0
+1806358,2021-10-11,Hutchinson,Texas,48233.0,3459,85.0
+1809362,2021-10-12,Hutchinson,South Dakota,46067.0,1029,28.0
+1809608,2021-10-12,Hutchinson,Texas,48233.0,3459,85.0
+1812611,2021-10-13,Hutchinson,South Dakota,46067.0,1029,28.0
+1812857,2021-10-13,Hutchinson,Texas,48233.0,3511,85.0
+1815859,2021-10-14,Hutchinson,South Dakota,46067.0,1030,28.0
+1816105,2021-10-14,Hutchinson,Texas,48233.0,3519,85.0
+1819108,2021-10-15,Hutchinson,South Dakota,46067.0,1031,28.0
+1819354,2021-10-15,Hutchinson,Texas,48233.0,3546,86.0
+1822357,2021-10-16,Hutchinson,South Dakota,46067.0,1031,28.0
+1822603,2021-10-16,Hutchinson,Texas,48233.0,3562,86.0
+1825606,2021-10-17,Hutchinson,South Dakota,46067.0,1031,28.0
+1825852,2021-10-17,Hutchinson,Texas,48233.0,3562,86.0
+1828855,2021-10-18,Hutchinson,South Dakota,46067.0,1031,28.0
+1829101,2021-10-18,Hutchinson,Texas,48233.0,3562,86.0
+1832104,2021-10-19,Hutchinson,South Dakota,46067.0,1033,28.0
+1832350,2021-10-19,Hutchinson,Texas,48233.0,3584,86.0
+1835353,2021-10-20,Hutchinson,South Dakota,46067.0,1034,28.0
+1835599,2021-10-20,Hutchinson,Texas,48233.0,3593,86.0
+1838602,2021-10-21,Hutchinson,South Dakota,46067.0,1035,28.0
+1838848,2021-10-21,Hutchinson,Texas,48233.0,3605,86.0
+1841851,2021-10-22,Hutchinson,South Dakota,46067.0,1038,28.0
+1842097,2021-10-22,Hutchinson,Texas,48233.0,3605,86.0
+1845101,2021-10-23,Hutchinson,South Dakota,46067.0,1038,28.0
+1845347,2021-10-23,Hutchinson,Texas,48233.0,3632,86.0
+1848351,2021-10-24,Hutchinson,South Dakota,46067.0,1038,28.0
+1848597,2021-10-24,Hutchinson,Texas,48233.0,3632,86.0
+1851601,2021-10-25,Hutchinson,South Dakota,46067.0,1038,28.0
+1851847,2021-10-25,Hutchinson,Texas,48233.0,3632,86.0
+1854850,2021-10-26,Hutchinson,South Dakota,46067.0,1044,28.0
+1855096,2021-10-26,Hutchinson,Texas,48233.0,3656,86.0
+1858099,2021-10-27,Hutchinson,South Dakota,46067.0,1048,28.0
+1858345,2021-10-27,Hutchinson,Texas,48233.0,3662,87.0
+1861348,2021-10-28,Hutchinson,South Dakota,46067.0,1049,28.0
+1861594,2021-10-28,Hutchinson,Texas,48233.0,3662,87.0
+1864597,2021-10-29,Hutchinson,South Dakota,46067.0,1053,28.0
+1864843,2021-10-29,Hutchinson,Texas,48233.0,3685,87.0
+1867846,2021-10-30,Hutchinson,South Dakota,46067.0,1053,28.0
+1868092,2021-10-30,Hutchinson,Texas,48233.0,3704,87.0
+1871095,2021-10-31,Hutchinson,South Dakota,46067.0,1053,28.0
+1871341,2021-10-31,Hutchinson,Texas,48233.0,3704,89.0
+1874344,2021-11-01,Hutchinson,South Dakota,46067.0,1055,28.0
+1874590,2021-11-01,Hutchinson,Texas,48233.0,3704,89.0
+1877593,2021-11-02,Hutchinson,South Dakota,46067.0,1061,28.0
+1877839,2021-11-02,Hutchinson,Texas,48233.0,3724,89.0
+1880842,2021-11-03,Hutchinson,South Dakota,46067.0,1067,28.0
+1881088,2021-11-03,Hutchinson,Texas,48233.0,3726,89.0
+1884091,2021-11-04,Hutchinson,South Dakota,46067.0,1073,28.0
+1884337,2021-11-04,Hutchinson,Texas,48233.0,3734,90.0
+1887341,2021-11-05,Hutchinson,South Dakota,46067.0,1076,28.0
+1887587,2021-11-05,Hutchinson,Texas,48233.0,3754,92.0
+1890591,2021-11-06,Hutchinson,South Dakota,46067.0,1076,28.0
+1890837,2021-11-06,Hutchinson,Texas,48233.0,3766,92.0
+1893841,2021-11-07,Hutchinson,South Dakota,46067.0,1076,28.0
+1894087,2021-11-07,Hutchinson,Texas,48233.0,3766,92.0
+1897091,2021-11-08,Hutchinson,South Dakota,46067.0,1078,28.0
+1897337,2021-11-08,Hutchinson,Texas,48233.0,3766,92.0
+1900341,2021-11-09,Hutchinson,South Dakota,46067.0,1089,28.0
+1900587,2021-11-09,Hutchinson,Texas,48233.0,3794,93.0
+1903591,2021-11-10,Hutchinson,South Dakota,46067.0,1092,28.0
+1903837,2021-11-10,Hutchinson,Texas,48233.0,3794,93.0
+1906840,2021-11-11,Hutchinson,South Dakota,46067.0,1092,28.0
+1907086,2021-11-11,Hutchinson,Texas,48233.0,3824,93.0
+1910089,2021-11-12,Hutchinson,South Dakota,46067.0,1096,28.0
+1910335,2021-11-12,Hutchinson,Texas,48233.0,3824,93.0
+1913339,2021-11-13,Hutchinson,South Dakota,46067.0,1096,28.0
+1913585,2021-11-13,Hutchinson,Texas,48233.0,3848,93.0
+1916589,2021-11-14,Hutchinson,South Dakota,46067.0,1096,28.0
+1916835,2021-11-14,Hutchinson,Texas,48233.0,3848,93.0
+1919839,2021-11-15,Hutchinson,South Dakota,46067.0,1101,28.0
+1920085,2021-11-15,Hutchinson,Texas,48233.0,3848,93.0
+1923088,2021-11-16,Hutchinson,South Dakota,46067.0,1111,28.0
+1923334,2021-11-16,Hutchinson,Texas,48233.0,3879,93.0
+1926338,2021-11-17,Hutchinson,South Dakota,46067.0,1116,28.0
+1926584,2021-11-17,Hutchinson,Texas,48233.0,3897,94.0
+1929588,2021-11-18,Hutchinson,South Dakota,46067.0,1121,28.0
+1929834,2021-11-18,Hutchinson,Texas,48233.0,3897,94.0
+1932839,2021-11-19,Hutchinson,South Dakota,46067.0,1126,28.0
+1933085,2021-11-19,Hutchinson,Texas,48233.0,3921,94.0
+1936089,2021-11-20,Hutchinson,South Dakota,46067.0,1126,28.0
+1936335,2021-11-20,Hutchinson,Texas,48233.0,3939,94.0
+1939339,2021-11-21,Hutchinson,South Dakota,46067.0,1126,28.0
+1939585,2021-11-21,Hutchinson,Texas,48233.0,3939,94.0
+1942589,2021-11-22,Hutchinson,South Dakota,46067.0,1132,28.0
+1942835,2021-11-22,Hutchinson,Texas,48233.0,3939,94.0
+1945840,2021-11-23,Hutchinson,South Dakota,46067.0,1148,28.0
+1946086,2021-11-23,Hutchinson,Texas,48233.0,3954,94.0
+1949091,2021-11-24,Hutchinson,South Dakota,46067.0,1162,28.0
+1949337,2021-11-24,Hutchinson,Texas,48233.0,3954,94.0
+1952342,2021-11-25,Hutchinson,South Dakota,46067.0,1162,28.0
+1952588,2021-11-25,Hutchinson,Texas,48233.0,3954,94.0
+1955593,2021-11-26,Hutchinson,South Dakota,46067.0,1162,28.0
+1955839,2021-11-26,Hutchinson,Texas,48233.0,3954,94.0
+1958844,2021-11-27,Hutchinson,South Dakota,46067.0,1162,28.0
+1959090,2021-11-27,Hutchinson,Texas,48233.0,3954,94.0
+1962095,2021-11-28,Hutchinson,South Dakota,46067.0,1162,28.0
+1962341,2021-11-28,Hutchinson,Texas,48233.0,3954,94.0
+1965347,2021-11-29,Hutchinson,South Dakota,46067.0,1168,28.0
+1965593,2021-11-29,Hutchinson,Texas,48233.0,4002,94.0
+1968598,2021-11-30,Hutchinson,South Dakota,46067.0,1186,28.0
+1968844,2021-11-30,Hutchinson,Texas,48233.0,4010,94.0
+1971848,2021-12-01,Hutchinson,South Dakota,46067.0,1202,28.0
+1972094,2021-12-01,Hutchinson,Texas,48233.0,4015,94.0
+1975097,2021-12-02,Hutchinson,South Dakota,46067.0,1214,28.0
+1975343,2021-12-02,Hutchinson,Texas,48233.0,4022,94.0
+1978347,2021-12-03,Hutchinson,South Dakota,46067.0,1220,28.0
+1978593,2021-12-03,Hutchinson,Texas,48233.0,4054,96.0
+1981597,2021-12-04,Hutchinson,South Dakota,46067.0,1220,28.0
+1981843,2021-12-04,Hutchinson,Texas,48233.0,4057,96.0
+1984847,2021-12-05,Hutchinson,South Dakota,46067.0,1220,28.0
+1985093,2021-12-05,Hutchinson,Texas,48233.0,4085,98.0
+1988097,2021-12-06,Hutchinson,South Dakota,46067.0,1226,28.0
+1988343,2021-12-06,Hutchinson,Texas,48233.0,4096,98.0
+1991348,2021-12-07,Hutchinson,South Dakota,46067.0,1244,28.0
+1991594,2021-12-07,Hutchinson,Texas,48233.0,4096,98.0
+1994599,2021-12-08,Hutchinson,South Dakota,46067.0,1252,28.0
+1994845,2021-12-08,Hutchinson,Texas,48233.0,4100,98.0
+1997850,2021-12-09,Hutchinson,South Dakota,46067.0,1255,28.0
+1998096,2021-12-09,Hutchinson,Texas,48233.0,4128,98.0
+2001100,2021-12-10,Hutchinson,South Dakota,46067.0,1262,28.0
+2001346,2021-12-10,Hutchinson,Texas,48233.0,4169,99.0
+2004351,2021-12-11,Hutchinson,South Dakota,46067.0,1262,28.0
+2004597,2021-12-11,Hutchinson,Texas,48233.0,4175,99.0
+2007602,2021-12-12,Hutchinson,South Dakota,46067.0,1262,28.0
+2007848,2021-12-12,Hutchinson,Texas,48233.0,4178,99.0
+2010853,2021-12-13,Hutchinson,South Dakota,46067.0,1269,28.0
+2011099,2021-12-13,Hutchinson,Texas,48233.0,4212,99.0
+2014104,2021-12-14,Hutchinson,South Dakota,46067.0,1279,28.0
+2014350,2021-12-14,Hutchinson,Texas,48233.0,4218,100.0
+2017354,2021-12-15,Hutchinson,South Dakota,46067.0,1287,28.0
+2017600,2021-12-15,Hutchinson,Texas,48233.0,4220,100.0
+2020605,2021-12-16,Hutchinson,South Dakota,46067.0,1293,28.0
+2020851,2021-12-16,Hutchinson,Texas,48233.0,4227,101.0
+2023856,2021-12-17,Hutchinson,South Dakota,46067.0,1296,28.0
+2024102,2021-12-17,Hutchinson,Texas,48233.0,4241,102.0
+2027107,2021-12-18,Hutchinson,South Dakota,46067.0,1296,28.0
+2027353,2021-12-18,Hutchinson,Texas,48233.0,4267,103.0
+2030358,2021-12-19,Hutchinson,South Dakota,46067.0,1296,28.0
+2030604,2021-12-19,Hutchinson,Texas,48233.0,4275,103.0
+2033608,2021-12-20,Hutchinson,South Dakota,46067.0,1298,28.0
+2033854,2021-12-20,Hutchinson,Texas,48233.0,4290,103.0
+2036858,2021-12-21,Hutchinson,South Dakota,46067.0,1304,29.0
+2037104,2021-12-21,Hutchinson,Texas,48233.0,4304,103.0
+2040108,2021-12-22,Hutchinson,South Dakota,46067.0,1312,29.0
+2040354,2021-12-22,Hutchinson,Texas,48233.0,4312,104.0
+2043357,2021-12-23,Hutchinson,South Dakota,46067.0,1315,29.0
+2043603,2021-12-23,Hutchinson,Texas,48233.0,4320,104.0
+2046607,2021-12-24,Hutchinson,South Dakota,46067.0,1315,29.0
+2046853,2021-12-24,Hutchinson,Texas,48233.0,4320,104.0
+2049857,2021-12-25,Hutchinson,South Dakota,46067.0,1315,29.0
+2050103,2021-12-25,Hutchinson,Texas,48233.0,4320,104.0
+2053107,2021-12-26,Hutchinson,South Dakota,46067.0,1315,29.0
+2053353,2021-12-26,Hutchinson,Texas,48233.0,4320,104.0
+2056356,2021-12-27,Hutchinson,South Dakota,46067.0,1318,29.0
+2056602,2021-12-27,Hutchinson,Texas,48233.0,4371,106.0
+2059605,2021-12-28,Hutchinson,South Dakota,46067.0,1328,29.0
+2059851,2021-12-28,Hutchinson,Texas,48233.0,4392,106.0
+2062855,2021-12-29,Hutchinson,South Dakota,46067.0,1337,29.0
+2063101,2021-12-29,Hutchinson,Texas,48233.0,4403,108.0
+2066105,2021-12-30,Hutchinson,South Dakota,46067.0,1343,29.0
+2066351,2021-12-30,Hutchinson,Texas,48233.0,4407,108.0
+2069356,2021-12-31,Hutchinson,South Dakota,46067.0,1343,29.0
+2069602,2021-12-31,Hutchinson,Texas,48233.0,4407,108.0
+2072607,2022-01-01,Hutchinson,South Dakota,46067.0,1343,29.0
+2072853,2022-01-01,Hutchinson,Texas,48233.0,4407,108.0
+2075858,2022-01-02,Hutchinson,South Dakota,46067.0,1343,29.0
+2076104,2022-01-02,Hutchinson,Texas,48233.0,4407,108.0
+2079109,2022-01-03,Hutchinson,South Dakota,46067.0,1350,29.0
+2079355,2022-01-03,Hutchinson,Texas,48233.0,4460,110.0
+2082361,2022-01-04,Hutchinson,South Dakota,46067.0,1375,30.0
+2082607,2022-01-04,Hutchinson,Texas,48233.0,4487,110.0
+2085613,2022-01-05,Hutchinson,South Dakota,46067.0,1388,30.0
+2085859,2022-01-05,Hutchinson,Texas,48233.0,4501,113.0
+2088864,2022-01-06,Hutchinson,South Dakota,46067.0,1403,30.0
+2089110,2022-01-06,Hutchinson,Texas,48233.0,4504,114.0
+2092116,2022-01-07,Hutchinson,South Dakota,46067.0,1419,30.0
+2092362,2022-01-07,Hutchinson,Texas,48233.0,4542,114.0
+2095368,2022-01-08,Hutchinson,South Dakota,46067.0,1419,30.0
+2095614,2022-01-08,Hutchinson,Texas,48233.0,4574,116.0
+2098620,2022-01-09,Hutchinson,South Dakota,46067.0,1419,30.0
+2098866,2022-01-09,Hutchinson,Texas,48233.0,4597,116.0
+2101871,2022-01-10,Hutchinson,South Dakota,46067.0,1432,30.0
+2102117,2022-01-10,Hutchinson,Texas,48233.0,4601,116.0
+2105122,2022-01-11,Hutchinson,South Dakota,46067.0,1460,30.0
+2105368,2022-01-11,Hutchinson,Texas,48233.0,4630,116.0
+2108373,2022-01-12,Hutchinson,South Dakota,46067.0,1476,30.0
+2108619,2022-01-12,Hutchinson,Texas,48233.0,4651,117.0
+2111625,2022-01-13,Hutchinson,South Dakota,46067.0,1489,30.0
+2111871,2022-01-13,Hutchinson,Texas,48233.0,4669,117.0
+2114877,2022-01-14,Hutchinson,South Dakota,46067.0,1524,30.0
+2115123,2022-01-14,Hutchinson,Texas,48233.0,5710,117.0
+2118128,2022-01-15,Hutchinson,South Dakota,46067.0,1524,30.0
+2118374,2022-01-15,Hutchinson,Texas,48233.0,5746,118.0
+2121380,2022-01-16,Hutchinson,South Dakota,46067.0,1524,30.0
+2121626,2022-01-16,Hutchinson,Texas,48233.0,5792,118.0
+2124632,2022-01-17,Hutchinson,South Dakota,46067.0,1524,30.0
+2124878,2022-01-17,Hutchinson,Texas,48233.0,5876,118.0
+2127884,2022-01-18,Hutchinson,South Dakota,46067.0,1539,30.0
+2128130,2022-01-18,Hutchinson,Texas,48233.0,5892,118.0
+2131138,2022-01-19,Hutchinson,South Dakota,46067.0,1579,30.0
+2131384,2022-01-19,Hutchinson,Texas,48233.0,5901,118.0
+2134390,2022-01-20,Hutchinson,South Dakota,46067.0,1589,32.0
+2134636,2022-01-20,Hutchinson,Texas,48233.0,5958,119.0
+2137644,2022-01-21,Hutchinson,South Dakota,46067.0,1602,33.0
+2137890,2022-01-21,Hutchinson,Texas,48233.0,5979,119.0
+2140900,2022-01-22,Hutchinson,South Dakota,46067.0,1602,33.0
+2141146,2022-01-22,Hutchinson,Texas,48233.0,6054,120.0
+2144155,2022-01-23,Hutchinson,South Dakota,46067.0,1602,33.0
+2144401,2022-01-23,Hutchinson,Texas,48233.0,6090,120.0
+2147409,2022-01-24,Hutchinson,South Dakota,46067.0,1612,33.0
+2147655,2022-01-24,Hutchinson,Texas,48233.0,6100,120.0
+2150661,2022-01-25,Hutchinson,South Dakota,46067.0,1632,33.0
+2150907,2022-01-25,Hutchinson,Texas,48233.0,6131,120.0
+2153913,2022-01-26,Hutchinson,South Dakota,46067.0,1647,33.0
+2154159,2022-01-26,Hutchinson,Texas,48233.0,6136,120.0
+2157166,2022-01-27,Hutchinson,South Dakota,46067.0,1659,33.0
+2157412,2022-01-27,Hutchinson,Texas,48233.0,6147,120.0
+2160422,2022-01-28,Hutchinson,South Dakota,46067.0,1672,33.0
+2160668,2022-01-28,Hutchinson,Texas,48233.0,6207,121.0
+2163677,2022-01-29,Hutchinson,South Dakota,46067.0,1672,33.0
+2163923,2022-01-29,Hutchinson,Texas,48233.0,6248,121.0
+2166932,2022-01-30,Hutchinson,South Dakota,46067.0,1672,33.0
+2167178,2022-01-30,Hutchinson,Texas,48233.0,6268,120.0
+2170186,2022-01-31,Hutchinson,South Dakota,46067.0,1677,33.0
+2170432,2022-01-31,Hutchinson,Texas,48233.0,6274,120.0
+2173438,2022-02-01,Hutchinson,South Dakota,46067.0,1689,33.0
+2173684,2022-02-01,Hutchinson,Texas,48233.0,6314,121.0
+2176692,2022-02-02,Hutchinson,South Dakota,46067.0,1700,33.0
+2176938,2022-02-02,Hutchinson,Texas,48233.0,6328,123.0
+2179943,2022-02-03,Hutchinson,South Dakota,46067.0,1704,33.0
+2180189,2022-02-03,Hutchinson,Texas,48233.0,6352,124.0
+2183195,2022-02-04,Hutchinson,South Dakota,46067.0,1711,33.0
+2183441,2022-02-04,Hutchinson,Texas,48233.0,6377,124.0
+2186447,2022-02-05,Hutchinson,South Dakota,46067.0,1711,33.0
+2186693,2022-02-05,Hutchinson,Texas,48233.0,6401,124.0
+2189700,2022-02-06,Hutchinson,South Dakota,46067.0,1711,33.0
+2189946,2022-02-06,Hutchinson,Texas,48233.0,6405,124.0
+2192954,2022-02-07,Hutchinson,South Dakota,46067.0,1713,33.0
+2193200,2022-02-07,Hutchinson,Texas,48233.0,6428,124.0
+2196208,2022-02-08,Hutchinson,South Dakota,46067.0,1714,33.0
+2196454,2022-02-08,Hutchinson,Texas,48233.0,6434,127.0
+2199462,2022-02-09,Hutchinson,South Dakota,46067.0,1713,33.0
+2199708,2022-02-09,Hutchinson,Texas,48233.0,6442,128.0
+2202716,2022-02-10,Hutchinson,South Dakota,46067.0,1713,33.0
+2202962,2022-02-10,Hutchinson,Texas,48233.0,6471,128.0
+2205969,2022-02-11,Hutchinson,South Dakota,46067.0,1716,33.0
+2206215,2022-02-11,Hutchinson,Texas,48233.0,6483,128.0
+2209222,2022-02-12,Hutchinson,South Dakota,46067.0,1716,33.0
+2209468,2022-02-12,Hutchinson,Texas,48233.0,6499,128.0
+2212475,2022-02-13,Hutchinson,South Dakota,46067.0,1716,33.0
+2212721,2022-02-13,Hutchinson,Texas,48233.0,6506,128.0
+2215726,2022-02-14,Hutchinson,South Dakota,46067.0,1718,33.0
+2215972,2022-02-14,Hutchinson,Texas,48233.0,6510,128.0
+2218977,2022-02-15,Hutchinson,South Dakota,46067.0,1721,33.0
+2219223,2022-02-15,Hutchinson,Texas,48233.0,6514,128.0
+2222228,2022-02-16,Hutchinson,South Dakota,46067.0,1722,34.0
+2222474,2022-02-16,Hutchinson,Texas,48233.0,6518,130.0
+2225479,2022-02-17,Hutchinson,South Dakota,46067.0,1723,34.0
+2225725,2022-02-17,Hutchinson,Texas,48233.0,6531,131.0
+2228730,2022-02-18,Hutchinson,South Dakota,46067.0,1723,34.0
+2228976,2022-02-18,Hutchinson,Texas,48233.0,6534,131.0
+2231981,2022-02-19,Hutchinson,South Dakota,46067.0,1723,34.0
+2232227,2022-02-19,Hutchinson,Texas,48233.0,6547,132.0
+2235232,2022-02-20,Hutchinson,South Dakota,46067.0,1723,34.0
+2235478,2022-02-20,Hutchinson,Texas,48233.0,6547,132.0
+2238483,2022-02-21,Hutchinson,South Dakota,46067.0,1723,34.0
+2238729,2022-02-21,Hutchinson,Texas,48233.0,6547,132.0
+2241734,2022-02-22,Hutchinson,South Dakota,46067.0,1723,34.0
+2241980,2022-02-22,Hutchinson,Texas,48233.0,6551,132.0
+2244985,2022-02-23,Hutchinson,South Dakota,46067.0,1725,34.0
+2245231,2022-02-23,Hutchinson,Texas,48233.0,6556,132.0
+2248236,2022-02-24,Hutchinson,South Dakota,46067.0,1725,34.0
+2248482,2022-02-24,Hutchinson,Texas,48233.0,6567,132.0
+2251487,2022-02-25,Hutchinson,South Dakota,46067.0,1725,35.0
+2251733,2022-02-25,Hutchinson,Texas,48233.0,6574,133.0
+2254738,2022-02-26,Hutchinson,South Dakota,46067.0,1725,35.0
+2254984,2022-02-26,Hutchinson,Texas,48233.0,6579,133.0
+2257989,2022-02-27,Hutchinson,South Dakota,46067.0,1725,35.0
+2258235,2022-02-27,Hutchinson,Texas,48233.0,6579,133.0
+2261240,2022-02-28,Hutchinson,South Dakota,46067.0,1725,35.0
+2261486,2022-02-28,Hutchinson,Texas,48233.0,6579,133.0
+2264490,2022-03-01,Hutchinson,South Dakota,46067.0,1725,35.0
+2264736,2022-03-01,Hutchinson,Texas,48233.0,6589,133.0
+2267743,2022-03-02,Hutchinson,South Dakota,46067.0,1725,35.0
+2267989,2022-03-02,Hutchinson,Texas,48233.0,6594,133.0
+2270995,2022-03-03,Hutchinson,South Dakota,46067.0,1725,35.0
+2271241,2022-03-03,Hutchinson,Texas,48233.0,6599,133.0
+2274248,2022-03-04,Hutchinson,South Dakota,46067.0,1724,36.0
+2274494,2022-03-04,Hutchinson,Texas,48233.0,6604,133.0
+2277501,2022-03-05,Hutchinson,South Dakota,46067.0,1724,36.0
+2277747,2022-03-05,Hutchinson,Texas,48233.0,6606,133.0
+2280754,2022-03-06,Hutchinson,South Dakota,46067.0,1724,36.0
+2281000,2022-03-06,Hutchinson,Texas,48233.0,6606,133.0
+2284006,2022-03-07,Hutchinson,South Dakota,46067.0,1725,36.0
+2284252,2022-03-07,Hutchinson,Texas,48233.0,6608,133.0
+2287258,2022-03-08,Hutchinson,South Dakota,46067.0,1726,36.0
+2287504,2022-03-08,Hutchinson,Texas,48233.0,6609,133.0
+2290510,2022-03-09,Hutchinson,South Dakota,46067.0,1726,36.0
+2290756,2022-03-09,Hutchinson,Texas,48233.0,6615,133.0
+2293762,2022-03-10,Hutchinson,South Dakota,46067.0,1727,36.0
+2294008,2022-03-10,Hutchinson,Texas,48233.0,6626,133.0
+2297014,2022-03-11,Hutchinson,South Dakota,46067.0,1727,36.0
+2297260,2022-03-11,Hutchinson,Texas,48233.0,6631,133.0
+2300266,2022-03-12,Hutchinson,South Dakota,46067.0,1727,36.0
+2300512,2022-03-12,Hutchinson,Texas,48233.0,6632,134.0
+2303518,2022-03-13,Hutchinson,South Dakota,46067.0,1727,36.0
+2303764,2022-03-13,Hutchinson,Texas,48233.0,6632,134.0
+2306769,2022-03-14,Hutchinson,South Dakota,46067.0,1727,36.0
+2307015,2022-03-14,Hutchinson,Texas,48233.0,6632,134.0
+2310022,2022-03-15,Hutchinson,South Dakota,46067.0,1728,36.0
+2310268,2022-03-15,Hutchinson,Texas,48233.0,6637,135.0
+2313275,2022-03-16,Hutchinson,South Dakota,46067.0,1728,36.0
+2313521,2022-03-16,Hutchinson,Texas,48233.0,6641,135.0
+2316528,2022-03-17,Hutchinson,South Dakota,46067.0,1727,36.0
+2316774,2022-03-17,Hutchinson,Texas,48233.0,6659,135.0
+2319782,2022-03-18,Hutchinson,South Dakota,46067.0,1727,36.0
+2320028,2022-03-18,Hutchinson,Texas,48233.0,6695,135.0
+2323036,2022-03-19,Hutchinson,South Dakota,46067.0,1727,36.0
+2323282,2022-03-19,Hutchinson,Texas,48233.0,6700,135.0
+2326289,2022-03-20,Hutchinson,South Dakota,46067.0,1727,36.0
+2326535,2022-03-20,Hutchinson,Texas,48233.0,6701,135.0
+2329541,2022-03-21,Hutchinson,South Dakota,46067.0,1727,36.0
+2329787,2022-03-21,Hutchinson,Texas,48233.0,6702,135.0
+2332794,2022-03-22,Hutchinson,South Dakota,46067.0,1727,36.0
+2333040,2022-03-22,Hutchinson,Texas,48233.0,6702,135.0
+2336048,2022-03-23,Hutchinson,South Dakota,46067.0,1728,36.0
+2336294,2022-03-23,Hutchinson,Texas,48233.0,6703,135.0
+2339302,2022-03-24,Hutchinson,South Dakota,46067.0,1728,36.0
+2339548,2022-03-24,Hutchinson,Texas,48233.0,6706,135.0
+2342555,2022-03-25,Hutchinson,South Dakota,46067.0,1728,36.0
+2342801,2022-03-25,Hutchinson,Texas,48233.0,6706,135.0
+2345808,2022-03-26,Hutchinson,South Dakota,46067.0,1728,36.0
+2346054,2022-03-26,Hutchinson,Texas,48233.0,6709,135.0
+2349061,2022-03-27,Hutchinson,South Dakota,46067.0,1728,36.0
+2349307,2022-03-27,Hutchinson,Texas,48233.0,6709,135.0
+2352313,2022-03-28,Hutchinson,South Dakota,46067.0,1728,36.0
+2352559,2022-03-28,Hutchinson,Texas,48233.0,6710,135.0
+2355566,2022-03-29,Hutchinson,South Dakota,46067.0,1728,36.0
+2355812,2022-03-29,Hutchinson,Texas,48233.0,6710,135.0
+2358820,2022-03-30,Hutchinson,South Dakota,46067.0,1730,36.0
+2359066,2022-03-30,Hutchinson,Texas,48233.0,6710,135.0
+2362074,2022-03-31,Hutchinson,South Dakota,46067.0,1730,36.0
+2362320,2022-03-31,Hutchinson,Texas,48233.0,6713,135.0
+2365327,2022-04-01,Hutchinson,South Dakota,46067.0,1730,36.0
+2365573,2022-04-01,Hutchinson,Texas,48233.0,6714,135.0
+2368580,2022-04-02,Hutchinson,South Dakota,46067.0,1730,36.0
+2368826,2022-04-02,Hutchinson,Texas,48233.0,6715,135.0
+2371833,2022-04-03,Hutchinson,South Dakota,46067.0,1730,36.0
+2372079,2022-04-03,Hutchinson,Texas,48233.0,6715,135.0
+2375085,2022-04-04,Hutchinson,South Dakota,46067.0,1730,36.0
+2375331,2022-04-04,Hutchinson,Texas,48233.0,6715,135.0
+2378339,2022-04-05,Hutchinson,South Dakota,46067.0,1730,36.0
+2378585,2022-04-05,Hutchinson,Texas,48233.0,6715,135.0
+2381594,2022-04-06,Hutchinson,South Dakota,46067.0,1730,36.0
+2381840,2022-04-06,Hutchinson,Texas,48233.0,6715,135.0
+2384849,2022-04-07,Hutchinson,South Dakota,46067.0,1730,36.0
+2385095,2022-04-07,Hutchinson,Texas,48233.0,6715,134.0
+2388103,2022-04-08,Hutchinson,South Dakota,46067.0,1730,36.0
+2388349,2022-04-08,Hutchinson,Texas,48233.0,6723,134.0
+2391359,2022-04-09,Hutchinson,South Dakota,46067.0,1730,36.0
+2391605,2022-04-09,Hutchinson,Texas,48233.0,6728,134.0

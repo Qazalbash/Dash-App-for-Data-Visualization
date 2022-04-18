@@ -1,0 +1,1487 @@
+,date,county,state,fips,cases,deaths
+6892,2020-03-21,Greenwood,South Carolina,45047.0,2,0.0
+8013,2020-03-22,Greenwood,South Carolina,45047.0,2,0.0
+9226,2020-03-23,Greenwood,South Carolina,45047.0,2,0.0
+10552,2020-03-24,Greenwood,South Carolina,45047.0,2,0.0
+12023,2020-03-25,Greenwood,South Carolina,45047.0,2,0.0
+13645,2020-03-26,Greenwood,South Carolina,45047.0,2,0.0
+15392,2020-03-27,Greenwood,South Carolina,45047.0,2,0.0
+17246,2020-03-28,Greenwood,South Carolina,45047.0,3,0.0
+19186,2020-03-29,Greenwood,South Carolina,45047.0,3,0.0
+21238,2020-03-30,Greenwood,South Carolina,45047.0,3,0.0
+23376,2020-03-31,Greenwood,South Carolina,45047.0,5,0.0
+25574,2020-04-01,Greenwood,South Carolina,45047.0,6,0.0
+27848,2020-04-02,Greenwood,South Carolina,45047.0,8,0.0
+30183,2020-04-03,Greenwood,South Carolina,45047.0,9,0.0
+31517,2020-04-04,Greenwood,Kansas,20073.0,1,0.0
+32574,2020-04-04,Greenwood,South Carolina,45047.0,10,0.0
+33931,2020-04-05,Greenwood,Kansas,20073.0,1,0.0
+35010,2020-04-05,Greenwood,South Carolina,45047.0,10,0.0
+36388,2020-04-06,Greenwood,Kansas,20073.0,1,0.0
+37485,2020-04-06,Greenwood,South Carolina,45047.0,11,0.0
+38890,2020-04-07,Greenwood,Kansas,20073.0,1,0.0
+40008,2020-04-07,Greenwood,South Carolina,45047.0,12,0.0
+41437,2020-04-08,Greenwood,Kansas,20073.0,1,0.0
+42568,2020-04-08,Greenwood,South Carolina,45047.0,14,0.0
+44013,2020-04-09,Greenwood,Kansas,20073.0,1,0.0
+45154,2020-04-09,Greenwood,South Carolina,45047.0,15,0.0
+46620,2020-04-10,Greenwood,Kansas,20073.0,1,0.0
+47771,2020-04-10,Greenwood,South Carolina,45047.0,16,0.0
+49255,2020-04-11,Greenwood,Kansas,20073.0,1,0.0
+50428,2020-04-11,Greenwood,South Carolina,45047.0,17,0.0
+51919,2020-04-12,Greenwood,Kansas,20073.0,1,0.0
+53101,2020-04-12,Greenwood,South Carolina,45047.0,17,0.0
+54601,2020-04-13,Greenwood,Kansas,20073.0,1,0.0
+55786,2020-04-13,Greenwood,South Carolina,45047.0,18,0.0
+57295,2020-04-14,Greenwood,Kansas,20073.0,1,0.0
+58489,2020-04-14,Greenwood,South Carolina,45047.0,18,0.0
+60003,2020-04-15,Greenwood,Kansas,20073.0,1,0.0
+61204,2020-04-15,Greenwood,South Carolina,45047.0,19,0.0
+62724,2020-04-16,Greenwood,Kansas,20073.0,1,0.0
+63930,2020-04-16,Greenwood,South Carolina,45047.0,31,0.0
+65460,2020-04-17,Greenwood,Kansas,20073.0,1,0.0
+66676,2020-04-17,Greenwood,South Carolina,45047.0,32,0.0
+68209,2020-04-18,Greenwood,Kansas,20073.0,2,0.0
+69434,2020-04-18,Greenwood,South Carolina,45047.0,34,0.0
+70970,2020-04-19,Greenwood,Kansas,20073.0,2,0.0
+72201,2020-04-19,Greenwood,South Carolina,45047.0,36,0.0
+73741,2020-04-20,Greenwood,Kansas,20073.0,2,0.0
+74976,2020-04-20,Greenwood,South Carolina,45047.0,37,0.0
+76521,2020-04-21,Greenwood,Kansas,20073.0,2,0.0
+77758,2020-04-21,Greenwood,South Carolina,45047.0,40,0.0
+79306,2020-04-22,Greenwood,Kansas,20073.0,2,0.0
+80548,2020-04-22,Greenwood,South Carolina,45047.0,41,0.0
+82100,2020-04-23,Greenwood,Kansas,20073.0,2,0.0
+83347,2020-04-23,Greenwood,South Carolina,45047.0,41,0.0
+84902,2020-04-24,Greenwood,Kansas,20073.0,3,0.0
+86151,2020-04-24,Greenwood,South Carolina,45047.0,42,0.0
+87711,2020-04-25,Greenwood,Kansas,20073.0,3,0.0
+88965,2020-04-25,Greenwood,South Carolina,45047.0,43,0.0
+90527,2020-04-26,Greenwood,Kansas,20073.0,3,0.0
+91781,2020-04-26,Greenwood,South Carolina,45047.0,44,0.0
+93348,2020-04-27,Greenwood,Kansas,20073.0,3,0.0
+94608,2020-04-27,Greenwood,South Carolina,45047.0,45,0.0
+96180,2020-04-28,Greenwood,Kansas,20073.0,3,0.0
+97447,2020-04-28,Greenwood,South Carolina,45047.0,46,0.0
+99026,2020-04-29,Greenwood,Kansas,20073.0,3,0.0
+100296,2020-04-29,Greenwood,South Carolina,45047.0,46,0.0
+101877,2020-04-30,Greenwood,Kansas,20073.0,3,0.0
+103149,2020-04-30,Greenwood,South Carolina,45047.0,49,0.0
+104737,2020-05-01,Greenwood,Kansas,20073.0,3,0.0
+106012,2020-05-01,Greenwood,South Carolina,45047.0,49,0.0
+107602,2020-05-02,Greenwood,Kansas,20073.0,3,0.0
+108879,2020-05-02,Greenwood,South Carolina,45047.0,53,0.0
+110473,2020-05-03,Greenwood,Kansas,20073.0,3,0.0
+111753,2020-05-03,Greenwood,South Carolina,45047.0,55,0.0
+113350,2020-05-04,Greenwood,Kansas,20073.0,3,0.0
+114635,2020-05-04,Greenwood,South Carolina,45047.0,55,0.0
+116232,2020-05-05,Greenwood,Kansas,20073.0,3,0.0
+117591,2020-05-05,Greenwood,South Carolina,45047.0,57,0.0
+119193,2020-05-06,Greenwood,Kansas,20073.0,3,0.0
+120553,2020-05-06,Greenwood,South Carolina,45047.0,61,0.0
+122163,2020-05-07,Greenwood,Kansas,20073.0,3,0.0
+123531,2020-05-07,Greenwood,South Carolina,45047.0,61,0.0
+125145,2020-05-08,Greenwood,Kansas,20073.0,3,0.0
+126514,2020-05-08,Greenwood,South Carolina,45047.0,62,0.0
+128133,2020-05-09,Greenwood,Kansas,20073.0,3,0.0
+129503,2020-05-09,Greenwood,South Carolina,45047.0,62,0.0
+131123,2020-05-10,Greenwood,Kansas,20073.0,3,0.0
+132492,2020-05-10,Greenwood,South Carolina,45047.0,62,0.0
+134114,2020-05-11,Greenwood,Kansas,20073.0,3,0.0
+135483,2020-05-11,Greenwood,South Carolina,45047.0,63,0.0
+137104,2020-05-12,Greenwood,Kansas,20073.0,3,0.0
+138473,2020-05-12,Greenwood,South Carolina,45047.0,63,0.0
+140097,2020-05-13,Greenwood,Kansas,20073.0,3,0.0
+141469,2020-05-13,Greenwood,South Carolina,45047.0,67,0.0
+143093,2020-05-14,Greenwood,Kansas,20073.0,3,0.0
+144465,2020-05-14,Greenwood,South Carolina,45047.0,68,1.0
+146093,2020-05-15,Greenwood,Kansas,20073.0,3,0.0
+147466,2020-05-15,Greenwood,South Carolina,45047.0,69,1.0
+149097,2020-05-16,Greenwood,Kansas,20073.0,3,0.0
+150474,2020-05-16,Greenwood,South Carolina,45047.0,69,1.0
+152108,2020-05-17,Greenwood,Kansas,20073.0,3,0.0
+153485,2020-05-17,Greenwood,South Carolina,45047.0,69,1.0
+155120,2020-05-18,Greenwood,Kansas,20073.0,3,0.0
+156502,2020-05-18,Greenwood,South Carolina,45047.0,71,1.0
+158137,2020-05-19,Greenwood,Kansas,20073.0,3,0.0
+159523,2020-05-19,Greenwood,South Carolina,45047.0,72,1.0
+161162,2020-05-20,Greenwood,Kansas,20073.0,3,0.0
+162550,2020-05-20,Greenwood,South Carolina,45047.0,72,1.0
+164191,2020-05-21,Greenwood,Kansas,20073.0,3,0.0
+165579,2020-05-21,Greenwood,South Carolina,45047.0,76,1.0
+167224,2020-05-22,Greenwood,Kansas,20073.0,3,0.0
+168615,2020-05-22,Greenwood,South Carolina,45047.0,79,1.0
+170262,2020-05-23,Greenwood,Kansas,20073.0,3,0.0
+171654,2020-05-23,Greenwood,South Carolina,45047.0,82,1.0
+173303,2020-05-24,Greenwood,Kansas,20073.0,3,0.0
+174696,2020-05-24,Greenwood,South Carolina,45047.0,82,1.0
+176347,2020-05-25,Greenwood,Kansas,20073.0,3,0.0
+177740,2020-05-25,Greenwood,South Carolina,45047.0,82,1.0
+179391,2020-05-26,Greenwood,Kansas,20073.0,3,0.0
+180783,2020-05-26,Greenwood,South Carolina,45047.0,92,1.0
+182436,2020-05-27,Greenwood,Kansas,20073.0,3,0.0
+183833,2020-05-27,Greenwood,South Carolina,45047.0,103,1.0
+185490,2020-05-28,Greenwood,Kansas,20073.0,3,0.0
+186890,2020-05-28,Greenwood,South Carolina,45047.0,121,1.0
+188548,2020-05-29,Greenwood,Kansas,20073.0,8,0.0
+189952,2020-05-29,Greenwood,South Carolina,45047.0,128,1.0
+191612,2020-05-30,Greenwood,Kansas,20073.0,8,0.0
+193017,2020-05-30,Greenwood,South Carolina,45047.0,129,1.0
+194680,2020-05-31,Greenwood,Kansas,20073.0,8,0.0
+196086,2020-05-31,Greenwood,South Carolina,45047.0,142,1.0
+197750,2020-06-01,Greenwood,Kansas,20073.0,8,0.0
+199159,2020-06-01,Greenwood,South Carolina,45047.0,147,1.0
+200822,2020-06-02,Greenwood,Kansas,20073.0,8,0.0
+202234,2020-06-02,Greenwood,South Carolina,45047.0,148,1.0
+203898,2020-06-03,Greenwood,Kansas,20073.0,9,0.0
+205311,2020-06-03,Greenwood,South Carolina,45047.0,150,2.0
+206979,2020-06-04,Greenwood,Kansas,20073.0,9,0.0
+208392,2020-06-04,Greenwood,South Carolina,45047.0,159,2.0
+210060,2020-06-05,Greenwood,Kansas,20073.0,9,0.0
+211474,2020-06-05,Greenwood,South Carolina,45047.0,160,2.0
+213145,2020-06-06,Greenwood,Kansas,20073.0,9,0.0
+214560,2020-06-06,Greenwood,South Carolina,45047.0,172,3.0
+216232,2020-06-07,Greenwood,Kansas,20073.0,9,0.0
+217650,2020-06-07,Greenwood,South Carolina,45047.0,172,3.0
+219324,2020-06-08,Greenwood,Kansas,20073.0,9,0.0
+220742,2020-06-08,Greenwood,South Carolina,45047.0,183,3.0
+222419,2020-06-09,Greenwood,Kansas,20073.0,9,0.0
+223837,2020-06-09,Greenwood,South Carolina,45047.0,198,4.0
+225514,2020-06-10,Greenwood,Kansas,20073.0,10,0.0
+226937,2020-06-10,Greenwood,South Carolina,45047.0,199,4.0
+228616,2020-06-11,Greenwood,Kansas,20073.0,10,0.0
+230041,2020-06-11,Greenwood,South Carolina,45047.0,235,5.0
+231719,2020-06-12,Greenwood,Kansas,20073.0,10,0.0
+233146,2020-06-12,Greenwood,South Carolina,45047.0,259,5.0
+234825,2020-06-13,Greenwood,Kansas,20073.0,10,0.0
+236251,2020-06-13,Greenwood,South Carolina,45047.0,273,5.0
+237932,2020-06-14,Greenwood,Kansas,20073.0,10,0.0
+239359,2020-06-14,Greenwood,South Carolina,45047.0,304,5.0
+241041,2020-06-15,Greenwood,Kansas,20073.0,11,0.0
+242468,2020-06-15,Greenwood,South Carolina,45047.0,312,5.0
+244152,2020-06-16,Greenwood,Kansas,20073.0,11,0.0
+245580,2020-06-16,Greenwood,South Carolina,45047.0,315,5.0
+247265,2020-06-17,Greenwood,Kansas,20073.0,11,0.0
+248693,2020-06-17,Greenwood,South Carolina,45047.0,320,5.0
+250377,2020-06-18,Greenwood,Kansas,20073.0,11,0.0
+251808,2020-06-18,Greenwood,South Carolina,45047.0,322,5.0
+253492,2020-06-19,Greenwood,Kansas,20073.0,11,0.0
+254923,2020-06-19,Greenwood,South Carolina,45047.0,345,5.0
+256612,2020-06-20,Greenwood,Kansas,20073.0,11,0.0
+258049,2020-06-20,Greenwood,South Carolina,45047.0,353,5.0
+259738,2020-06-21,Greenwood,Kansas,20073.0,11,0.0
+261176,2020-06-21,Greenwood,South Carolina,45047.0,371,5.0
+262865,2020-06-22,Greenwood,Kansas,20073.0,11,0.0
+264304,2020-06-22,Greenwood,South Carolina,45047.0,374,5.0
+265993,2020-06-23,Greenwood,Kansas,20073.0,11,0.0
+267432,2020-06-23,Greenwood,South Carolina,45047.0,382,6.0
+269123,2020-06-24,Greenwood,Kansas,20073.0,11,0.0
+270566,2020-06-24,Greenwood,South Carolina,45047.0,392,6.0
+272260,2020-06-25,Greenwood,Kansas,20073.0,11,0.0
+273705,2020-06-25,Greenwood,South Carolina,45047.0,402,6.0
+275403,2020-06-26,Greenwood,Kansas,20073.0,11,0.0
+276852,2020-06-26,Greenwood,South Carolina,45047.0,405,6.0
+278551,2020-06-27,Greenwood,Kansas,20073.0,11,0.0
+280000,2020-06-27,Greenwood,South Carolina,45047.0,448,7.0
+281699,2020-06-28,Greenwood,Kansas,20073.0,11,0.0
+283146,2020-06-28,Greenwood,South Carolina,45047.0,458,7.0
+284844,2020-06-29,Greenwood,Kansas,20073.0,11,0.0
+286291,2020-06-29,Greenwood,South Carolina,45047.0,467,7.0
+287993,2020-06-30,Greenwood,Kansas,20073.0,11,0.0
+289442,2020-06-30,Greenwood,South Carolina,45047.0,493,7.0
+291143,2020-07-01,Greenwood,Kansas,20073.0,11,0.0
+292594,2020-07-01,Greenwood,South Carolina,45047.0,506,7.0
+294297,2020-07-02,Greenwood,Kansas,20073.0,11,0.0
+295750,2020-07-02,Greenwood,South Carolina,45047.0,527,7.0
+297455,2020-07-03,Greenwood,Kansas,20073.0,11,0.0
+298909,2020-07-03,Greenwood,South Carolina,45047.0,528,7.0
+300617,2020-07-04,Greenwood,Kansas,20073.0,11,0.0
+302073,2020-07-04,Greenwood,South Carolina,45047.0,534,7.0
+303781,2020-07-05,Greenwood,Kansas,20073.0,11,0.0
+305236,2020-07-05,Greenwood,South Carolina,45047.0,561,7.0
+306947,2020-07-06,Greenwood,Kansas,20073.0,11,0.0
+308403,2020-07-06,Greenwood,South Carolina,45047.0,595,7.0
+310115,2020-07-07,Greenwood,Kansas,20073.0,11,0.0
+311572,2020-07-07,Greenwood,South Carolina,45047.0,599,7.0
+313285,2020-07-08,Greenwood,Kansas,20073.0,11,0.0
+314744,2020-07-08,Greenwood,South Carolina,45047.0,649,7.0
+316459,2020-07-09,Greenwood,Kansas,20073.0,11,0.0
+317917,2020-07-09,Greenwood,South Carolina,45047.0,669,7.0
+319632,2020-07-10,Greenwood,Kansas,20073.0,11,0.0
+321095,2020-07-10,Greenwood,South Carolina,45047.0,697,7.0
+322811,2020-07-11,Greenwood,Kansas,20073.0,11,0.0
+324275,2020-07-11,Greenwood,South Carolina,45047.0,767,7.0
+325994,2020-07-12,Greenwood,Kansas,20073.0,11,0.0
+327460,2020-07-12,Greenwood,South Carolina,45047.0,799,7.0
+329180,2020-07-13,Greenwood,Kansas,20073.0,11,0.0
+330646,2020-07-13,Greenwood,South Carolina,45047.0,824,7.0
+332367,2020-07-14,Greenwood,Kansas,20073.0,11,0.0
+333838,2020-07-14,Greenwood,South Carolina,45047.0,845,7.0
+335560,2020-07-15,Greenwood,Kansas,20073.0,11,0.0
+337032,2020-07-15,Greenwood,South Carolina,45047.0,867,7.0
+338756,2020-07-16,Greenwood,Kansas,20073.0,11,0.0
+340229,2020-07-16,Greenwood,South Carolina,45047.0,885,9.0
+341952,2020-07-17,Greenwood,Kansas,20073.0,11,0.0
+343427,2020-07-17,Greenwood,South Carolina,45047.0,943,10.0
+345152,2020-07-18,Greenwood,Kansas,20073.0,11,0.0
+346627,2020-07-18,Greenwood,South Carolina,45047.0,968,10.0
+348353,2020-07-19,Greenwood,Kansas,20073.0,11,0.0
+349827,2020-07-19,Greenwood,South Carolina,45047.0,989,10.0
+351553,2020-07-20,Greenwood,Kansas,20073.0,11,0.0
+353030,2020-07-20,Greenwood,South Carolina,45047.0,1013,10.0
+354755,2020-07-21,Greenwood,Kansas,20073.0,11,0.0
+356233,2020-07-21,Greenwood,South Carolina,45047.0,1046,11.0
+357957,2020-07-22,Greenwood,Kansas,20073.0,13,0.0
+359437,2020-07-22,Greenwood,South Carolina,45047.0,1056,13.0
+361162,2020-07-23,Greenwood,Kansas,20073.0,13,0.0
+362643,2020-07-23,Greenwood,South Carolina,45047.0,1075,14.0
+364369,2020-07-24,Greenwood,Kansas,20073.0,14,0.0
+365849,2020-07-24,Greenwood,South Carolina,45047.0,1096,14.0
+367576,2020-07-25,Greenwood,Kansas,20073.0,14,0.0
+369058,2020-07-25,Greenwood,South Carolina,45047.0,1115,14.0
+370786,2020-07-26,Greenwood,Kansas,20073.0,14,0.0
+372270,2020-07-26,Greenwood,South Carolina,45047.0,1130,14.0
+373998,2020-07-27,Greenwood,Kansas,20073.0,14,0.0
+375483,2020-07-27,Greenwood,South Carolina,45047.0,1132,14.0
+377213,2020-07-28,Greenwood,Kansas,20073.0,14,0.0
+378699,2020-07-28,Greenwood,South Carolina,45047.0,1155,14.0
+380430,2020-07-29,Greenwood,Kansas,20073.0,15,0.0
+381916,2020-07-29,Greenwood,South Carolina,45047.0,1170,14.0
+383647,2020-07-30,Greenwood,Kansas,20073.0,15,0.0
+385134,2020-07-30,Greenwood,South Carolina,45047.0,1174,15.0
+386865,2020-07-31,Greenwood,Kansas,20073.0,15,0.0
+388351,2020-07-31,Greenwood,South Carolina,45047.0,1197,15.0
+390082,2020-08-01,Greenwood,Kansas,20073.0,15,0.0
+391568,2020-08-01,Greenwood,South Carolina,45047.0,1237,15.0
+393299,2020-08-02,Greenwood,Kansas,20073.0,15,0.0
+394784,2020-08-02,Greenwood,South Carolina,45047.0,1258,15.0
+396515,2020-08-03,Greenwood,Kansas,20073.0,16,0.0
+398001,2020-08-03,Greenwood,South Carolina,45047.0,1275,15.0
+399730,2020-08-04,Greenwood,Kansas,20073.0,16,0.0
+401216,2020-08-04,Greenwood,South Carolina,45047.0,1303,16.0
+402947,2020-08-05,Greenwood,Kansas,20073.0,17,0.0
+404434,2020-08-05,Greenwood,South Carolina,45047.0,1314,16.0
+406165,2020-08-06,Greenwood,Kansas,20073.0,17,0.0
+407653,2020-08-06,Greenwood,South Carolina,45047.0,1336,17.0
+409384,2020-08-07,Greenwood,Kansas,20073.0,20,0.0
+410873,2020-08-07,Greenwood,South Carolina,45047.0,1355,18.0
+412604,2020-08-08,Greenwood,Kansas,20073.0,20,0.0
+414093,2020-08-08,Greenwood,South Carolina,45047.0,1375,18.0
+415824,2020-08-09,Greenwood,Kansas,20073.0,20,0.0
+417314,2020-08-09,Greenwood,South Carolina,45047.0,1390,18.0
+419045,2020-08-10,Greenwood,Kansas,20073.0,22,0.0
+420534,2020-08-10,Greenwood,South Carolina,45047.0,1416,18.0
+422268,2020-08-11,Greenwood,Kansas,20073.0,22,0.0
+423757,2020-08-11,Greenwood,South Carolina,45047.0,1442,18.0
+425489,2020-08-12,Greenwood,Kansas,20073.0,23,0.0
+426980,2020-08-12,Greenwood,South Carolina,45047.0,1455,20.0
+428713,2020-08-13,Greenwood,Kansas,20073.0,23,0.0
+430205,2020-08-13,Greenwood,South Carolina,45047.0,1489,20.0
+431941,2020-08-14,Greenwood,Kansas,20073.0,23,0.0
+433431,2020-08-14,Greenwood,South Carolina,45047.0,1533,20.0
+435166,2020-08-15,Greenwood,Kansas,20073.0,23,0.0
+436658,2020-08-15,Greenwood,South Carolina,45047.0,1541,20.0
+438391,2020-08-16,Greenwood,Kansas,20073.0,23,0.0
+439883,2020-08-16,Greenwood,South Carolina,45047.0,1544,20.0
+441618,2020-08-17,Greenwood,Kansas,20073.0,23,0.0
+443110,2020-08-17,Greenwood,South Carolina,45047.0,1569,20.0
+444844,2020-08-18,Greenwood,Kansas,20073.0,23,0.0
+446336,2020-08-18,Greenwood,South Carolina,45047.0,1571,20.0
+448071,2020-08-19,Greenwood,Kansas,20073.0,24,0.0
+449564,2020-08-19,Greenwood,South Carolina,45047.0,1578,21.0
+451299,2020-08-20,Greenwood,Kansas,20073.0,24,0.0
+452792,2020-08-20,Greenwood,South Carolina,45047.0,1596,23.0
+454527,2020-08-21,Greenwood,Kansas,20073.0,24,0.0
+456020,2020-08-21,Greenwood,South Carolina,45047.0,1638,25.0
+457755,2020-08-22,Greenwood,Kansas,20073.0,24,0.0
+459248,2020-08-22,Greenwood,South Carolina,45047.0,1644,28.0
+460982,2020-08-23,Greenwood,Kansas,20073.0,24,0.0
+462476,2020-08-23,Greenwood,South Carolina,45047.0,1649,30.0
+464211,2020-08-24,Greenwood,Kansas,20073.0,24,0.0
+465705,2020-08-24,Greenwood,South Carolina,45047.0,1678,30.0
+467440,2020-08-25,Greenwood,Kansas,20073.0,24,0.0
+468933,2020-08-25,Greenwood,South Carolina,45047.0,1720,30.0
+470669,2020-08-26,Greenwood,Kansas,20073.0,25,0.0
+472165,2020-08-26,Greenwood,South Carolina,45047.0,1746,32.0
+473901,2020-08-27,Greenwood,Kansas,20073.0,25,0.0
+475399,2020-08-27,Greenwood,South Carolina,45047.0,1761,37.0
+477134,2020-08-28,Greenwood,Kansas,20073.0,25,0.0
+478632,2020-08-28,Greenwood,South Carolina,45047.0,1794,40.0
+480367,2020-08-29,Greenwood,Kansas,20073.0,25,0.0
+481866,2020-08-29,Greenwood,South Carolina,45047.0,1807,47.0
+483601,2020-08-30,Greenwood,Kansas,20073.0,25,0.0
+485101,2020-08-30,Greenwood,South Carolina,45047.0,1830,47.0
+486836,2020-08-31,Greenwood,Kansas,20073.0,28,0.0
+488334,2020-08-31,Greenwood,South Carolina,45047.0,1850,47.0
+490069,2020-09-01,Greenwood,Kansas,20073.0,28,0.0
+491567,2020-09-01,Greenwood,South Carolina,45047.0,1863,47.0
+493302,2020-09-02,Greenwood,Kansas,20073.0,29,0.0
+494801,2020-09-02,Greenwood,South Carolina,45047.0,1877,51.0
+496536,2020-09-03,Greenwood,Kansas,20073.0,29,0.0
+498034,2020-09-03,Greenwood,South Carolina,45047.0,1907,51.0
+499769,2020-09-04,Greenwood,Kansas,20073.0,34,0.0
+501268,2020-09-04,Greenwood,South Carolina,45047.0,1936,54.0
+503003,2020-09-05,Greenwood,Kansas,20073.0,34,0.0
+504502,2020-09-05,Greenwood,South Carolina,45047.0,1946,56.0
+506237,2020-09-06,Greenwood,Kansas,20073.0,34,0.0
+507734,2020-09-06,Greenwood,South Carolina,45047.0,1949,56.0
+509469,2020-09-07,Greenwood,Kansas,20073.0,39,0.0
+510967,2020-09-07,Greenwood,South Carolina,45047.0,1989,57.0
+512702,2020-09-08,Greenwood,Kansas,20073.0,39,0.0
+514200,2020-09-08,Greenwood,South Carolina,45047.0,1965,58.0
+515935,2020-09-09,Greenwood,Kansas,20073.0,39,0.0
+517435,2020-09-09,Greenwood,South Carolina,45047.0,1968,59.0
+519170,2020-09-10,Greenwood,Kansas,20073.0,39,0.0
+520671,2020-09-10,Greenwood,South Carolina,45047.0,1975,60.0
+522407,2020-09-11,Greenwood,Kansas,20073.0,45,0.0
+523907,2020-09-11,Greenwood,South Carolina,45047.0,2022,64.0
+525643,2020-09-12,Greenwood,Kansas,20073.0,45,0.0
+527143,2020-09-12,Greenwood,South Carolina,45047.0,2046,65.0
+528879,2020-09-13,Greenwood,Kansas,20073.0,45,0.0
+530380,2020-09-13,Greenwood,South Carolina,45047.0,2055,65.0
+532116,2020-09-14,Greenwood,Kansas,20073.0,45,0.0
+533615,2020-09-14,Greenwood,South Carolina,45047.0,2060,66.0
+535351,2020-09-15,Greenwood,Kansas,20073.0,45,0.0
+536851,2020-09-15,Greenwood,South Carolina,45047.0,2078,67.0
+538587,2020-09-16,Greenwood,Kansas,20073.0,45,0.0
+540088,2020-09-16,Greenwood,South Carolina,45047.0,2086,69.0
+541824,2020-09-17,Greenwood,Kansas,20073.0,46,0.0
+543324,2020-09-17,Greenwood,South Carolina,45047.0,2106,70.0
+545060,2020-09-18,Greenwood,Kansas,20073.0,47,0.0
+546561,2020-09-18,Greenwood,South Carolina,45047.0,2121,71.0
+548298,2020-09-19,Greenwood,Kansas,20073.0,47,0.0
+549800,2020-09-19,Greenwood,South Carolina,45047.0,2138,71.0
+551537,2020-09-20,Greenwood,Kansas,20073.0,47,0.0
+553039,2020-09-20,Greenwood,South Carolina,45047.0,2144,71.0
+554776,2020-09-21,Greenwood,Kansas,20073.0,47,0.0
+556276,2020-09-21,Greenwood,South Carolina,45047.0,2145,71.0
+558013,2020-09-22,Greenwood,Kansas,20073.0,47,0.0
+559513,2020-09-22,Greenwood,South Carolina,45047.0,2150,72.0
+561249,2020-09-23,Greenwood,Kansas,20073.0,47,0.0
+562750,2020-09-23,Greenwood,South Carolina,45047.0,2170,72.0
+564489,2020-09-24,Greenwood,Kansas,20073.0,48,0.0
+565991,2020-09-24,Greenwood,South Carolina,45047.0,2183,72.0
+567729,2020-09-25,Greenwood,Kansas,20073.0,49,0.0
+569232,2020-09-25,Greenwood,South Carolina,45047.0,2196,72.0
+570971,2020-09-26,Greenwood,Kansas,20073.0,49,0.0
+572474,2020-09-26,Greenwood,South Carolina,45047.0,2212,72.0
+574214,2020-09-27,Greenwood,Kansas,20073.0,49,0.0
+575718,2020-09-27,Greenwood,South Carolina,45047.0,2213,72.0
+577456,2020-09-28,Greenwood,Kansas,20073.0,49,0.0
+578959,2020-09-28,Greenwood,South Carolina,45047.0,2214,72.0
+580697,2020-09-29,Greenwood,Kansas,20073.0,49,0.0
+582199,2020-09-29,Greenwood,South Carolina,45047.0,2216,72.0
+583936,2020-09-30,Greenwood,Kansas,20073.0,49,0.0
+585439,2020-09-30,Greenwood,South Carolina,45047.0,2221,73.0
+587176,2020-10-01,Greenwood,Kansas,20073.0,49,0.0
+588679,2020-10-01,Greenwood,South Carolina,45047.0,2239,73.0
+590417,2020-10-02,Greenwood,Kansas,20073.0,50,0.0
+591920,2020-10-02,Greenwood,South Carolina,45047.0,2265,73.0
+593658,2020-10-03,Greenwood,Kansas,20073.0,50,0.0
+595161,2020-10-03,Greenwood,South Carolina,45047.0,2294,73.0
+596900,2020-10-04,Greenwood,Kansas,20073.0,50,0.0
+598404,2020-10-04,Greenwood,South Carolina,45047.0,2316,73.0
+600142,2020-10-05,Greenwood,Kansas,20073.0,54,0.0
+601647,2020-10-05,Greenwood,South Carolina,45047.0,2319,73.0
+603385,2020-10-06,Greenwood,Kansas,20073.0,54,0.0
+604889,2020-10-06,Greenwood,South Carolina,45047.0,2338,73.0
+606627,2020-10-07,Greenwood,Kansas,20073.0,56,0.0
+608132,2020-10-07,Greenwood,South Carolina,45047.0,2340,73.0
+609870,2020-10-08,Greenwood,Kansas,20073.0,56,0.0
+611374,2020-10-08,Greenwood,South Carolina,45047.0,2356,73.0
+613112,2020-10-09,Greenwood,Kansas,20073.0,56,0.0
+614615,2020-10-09,Greenwood,South Carolina,45047.0,2363,73.0
+616353,2020-10-10,Greenwood,Kansas,20073.0,62,0.0
+617857,2020-10-10,Greenwood,South Carolina,45047.0,2378,73.0
+619595,2020-10-11,Greenwood,Kansas,20073.0,62,0.0
+621100,2020-10-11,Greenwood,South Carolina,45047.0,2393,73.0
+622839,2020-10-12,Greenwood,Kansas,20073.0,64,0.0
+624343,2020-10-12,Greenwood,South Carolina,45047.0,2395,73.0
+626081,2020-10-13,Greenwood,Kansas,20073.0,67,0.0
+627585,2020-10-13,Greenwood,South Carolina,45047.0,2394,73.0
+629324,2020-10-14,Greenwood,Kansas,20073.0,67,0.0
+630829,2020-10-14,Greenwood,South Carolina,45047.0,2418,73.0
+632568,2020-10-15,Greenwood,Kansas,20073.0,67,0.0
+634074,2020-10-15,Greenwood,South Carolina,45047.0,2435,74.0
+635814,2020-10-16,Greenwood,Kansas,20073.0,71,0.0
+637320,2020-10-16,Greenwood,South Carolina,45047.0,2444,74.0
+639060,2020-10-17,Greenwood,Kansas,20073.0,71,0.0
+640566,2020-10-17,Greenwood,South Carolina,45047.0,2447,74.0
+642307,2020-10-18,Greenwood,Kansas,20073.0,71,0.0
+643814,2020-10-18,Greenwood,South Carolina,45047.0,2452,74.0
+645554,2020-10-19,Greenwood,Kansas,20073.0,75,0.0
+647060,2020-10-19,Greenwood,South Carolina,45047.0,2454,74.0
+648799,2020-10-20,Greenwood,Kansas,20073.0,80,0.0
+650304,2020-10-20,Greenwood,South Carolina,45047.0,2468,74.0
+652043,2020-10-21,Greenwood,Kansas,20073.0,81,0.0
+653549,2020-10-21,Greenwood,South Carolina,45047.0,2470,74.0
+655288,2020-10-22,Greenwood,Kansas,20073.0,81,0.0
+656794,2020-10-22,Greenwood,South Carolina,45047.0,2479,74.0
+658533,2020-10-23,Greenwood,Kansas,20073.0,85,0.0
+660038,2020-10-23,Greenwood,South Carolina,45047.0,2489,74.0
+661777,2020-10-24,Greenwood,Kansas,20073.0,85,0.0
+663282,2020-10-24,Greenwood,South Carolina,45047.0,2497,75.0
+665022,2020-10-25,Greenwood,Kansas,20073.0,85,0.0
+666527,2020-10-25,Greenwood,South Carolina,45047.0,2516,75.0
+668266,2020-10-26,Greenwood,Kansas,20073.0,89,0.0
+669771,2020-10-26,Greenwood,South Carolina,45047.0,2525,76.0
+671509,2020-10-27,Greenwood,Kansas,20073.0,89,0.0
+673013,2020-10-27,Greenwood,South Carolina,45047.0,2534,76.0
+674751,2020-10-28,Greenwood,Kansas,20073.0,97,0.0
+676256,2020-10-28,Greenwood,South Carolina,45047.0,2543,76.0
+677994,2020-10-29,Greenwood,Kansas,20073.0,97,0.0
+679499,2020-10-29,Greenwood,South Carolina,45047.0,2563,76.0
+681237,2020-10-30,Greenwood,Kansas,20073.0,108,0.0
+682742,2020-10-30,Greenwood,South Carolina,45047.0,2584,76.0
+684480,2020-10-31,Greenwood,Kansas,20073.0,108,0.0
+685985,2020-10-31,Greenwood,South Carolina,45047.0,2593,76.0
+687724,2020-11-01,Greenwood,Kansas,20073.0,108,0.0
+689230,2020-11-01,Greenwood,South Carolina,45047.0,2604,76.0
+690969,2020-11-02,Greenwood,Kansas,20073.0,108,0.0
+692474,2020-11-02,Greenwood,South Carolina,45047.0,2616,77.0
+694212,2020-11-03,Greenwood,Kansas,20073.0,130,0.0
+695716,2020-11-03,Greenwood,South Carolina,45047.0,2627,77.0
+697454,2020-11-04,Greenwood,Kansas,20073.0,130,0.0
+698959,2020-11-04,Greenwood,South Carolina,45047.0,2633,77.0
+700698,2020-11-05,Greenwood,Kansas,20073.0,130,0.0
+702203,2020-11-05,Greenwood,South Carolina,45047.0,2643,77.0
+703940,2020-11-06,Greenwood,Kansas,20073.0,142,0.0
+705446,2020-11-06,Greenwood,South Carolina,45047.0,2654,77.0
+707183,2020-11-07,Greenwood,Kansas,20073.0,142,0.0
+708689,2020-11-07,Greenwood,South Carolina,45047.0,2672,77.0
+710427,2020-11-08,Greenwood,Kansas,20073.0,142,0.0
+711933,2020-11-08,Greenwood,South Carolina,45047.0,2675,78.0
+713671,2020-11-09,Greenwood,Kansas,20073.0,155,0.0
+715177,2020-11-09,Greenwood,South Carolina,45047.0,2681,78.0
+716915,2020-11-10,Greenwood,Kansas,20073.0,155,0.0
+718420,2020-11-10,Greenwood,South Carolina,45047.0,2705,78.0
+720158,2020-11-11,Greenwood,Kansas,20073.0,155,0.0
+721663,2020-11-11,Greenwood,South Carolina,45047.0,2714,78.0
+723401,2020-11-12,Greenwood,Kansas,20073.0,157,0.0
+724906,2020-11-12,Greenwood,South Carolina,45047.0,2736,78.0
+726644,2020-11-13,Greenwood,Kansas,20073.0,157,0.0
+728150,2020-11-13,Greenwood,South Carolina,45047.0,2759,78.0
+729887,2020-11-14,Greenwood,Kansas,20073.0,161,0.0
+731394,2020-11-14,Greenwood,South Carolina,45047.0,2778,78.0
+733132,2020-11-15,Greenwood,Kansas,20073.0,161,0.0
+734640,2020-11-15,Greenwood,South Carolina,45047.0,2791,78.0
+736378,2020-11-16,Greenwood,Kansas,20073.0,161,0.0
+737884,2020-11-16,Greenwood,South Carolina,45047.0,2794,78.0
+739622,2020-11-17,Greenwood,Kansas,20073.0,161,0.0
+741130,2020-11-17,Greenwood,South Carolina,45047.0,2826,78.0
+742869,2020-11-18,Greenwood,Kansas,20073.0,161,0.0
+744377,2020-11-18,Greenwood,South Carolina,45047.0,2839,78.0
+746116,2020-11-19,Greenwood,Kansas,20073.0,161,1.0
+747623,2020-11-19,Greenwood,South Carolina,45047.0,2874,78.0
+749362,2020-11-20,Greenwood,Kansas,20073.0,177,1.0
+750869,2020-11-20,Greenwood,South Carolina,45047.0,2911,80.0
+752608,2020-11-21,Greenwood,Kansas,20073.0,177,1.0
+754115,2020-11-21,Greenwood,South Carolina,45047.0,2935,81.0
+755854,2020-11-22,Greenwood,Kansas,20073.0,177,1.0
+757362,2020-11-22,Greenwood,South Carolina,45047.0,2954,81.0
+759101,2020-11-23,Greenwood,Kansas,20073.0,197,1.0
+760607,2020-11-23,Greenwood,South Carolina,45047.0,2957,81.0
+762346,2020-11-24,Greenwood,Kansas,20073.0,197,1.0
+763852,2020-11-24,Greenwood,South Carolina,45047.0,2972,84.0
+765591,2020-11-25,Greenwood,Kansas,20073.0,203,1.0
+767097,2020-11-25,Greenwood,South Carolina,45047.0,2990,84.0
+768837,2020-11-26,Greenwood,Kansas,20073.0,203,1.0
+770343,2020-11-26,Greenwood,South Carolina,45047.0,2990,84.0
+772082,2020-11-27,Greenwood,Kansas,20073.0,203,1.0
+773588,2020-11-27,Greenwood,South Carolina,45047.0,3029,84.0
+775327,2020-11-28,Greenwood,Kansas,20073.0,203,1.0
+776833,2020-11-28,Greenwood,South Carolina,45047.0,3042,84.0
+778572,2020-11-29,Greenwood,Kansas,20073.0,203,1.0
+780079,2020-11-29,Greenwood,South Carolina,45047.0,3060,84.0
+781818,2020-11-30,Greenwood,Kansas,20073.0,227,1.0
+783324,2020-11-30,Greenwood,South Carolina,45047.0,3081,84.0
+785063,2020-12-01,Greenwood,Kansas,20073.0,227,2.0
+786568,2020-12-01,Greenwood,South Carolina,45047.0,3094,84.0
+788307,2020-12-02,Greenwood,Kansas,20073.0,251,2.0
+789813,2020-12-02,Greenwood,South Carolina,45047.0,3116,85.0
+791552,2020-12-03,Greenwood,Kansas,20073.0,251,2.0
+793058,2020-12-03,Greenwood,South Carolina,45047.0,3150,86.0
+794797,2020-12-04,Greenwood,Kansas,20073.0,251,2.0
+796303,2020-12-04,Greenwood,South Carolina,45047.0,3208,86.0
+798042,2020-12-05,Greenwood,Kansas,20073.0,278,2.0
+799548,2020-12-05,Greenwood,South Carolina,45047.0,3245,86.0
+801287,2020-12-06,Greenwood,Kansas,20073.0,278,2.0
+802793,2020-12-06,Greenwood,South Carolina,45047.0,3278,86.0
+804532,2020-12-07,Greenwood,Kansas,20073.0,298,2.0
+806038,2020-12-07,Greenwood,South Carolina,45047.0,3314,86.0
+807777,2020-12-08,Greenwood,Kansas,20073.0,298,2.0
+809283,2020-12-08,Greenwood,South Carolina,45047.0,3324,86.0
+811022,2020-12-09,Greenwood,Kansas,20073.0,331,2.0
+812527,2020-12-09,Greenwood,South Carolina,45047.0,3364,86.0
+814267,2020-12-10,Greenwood,Kansas,20073.0,331,2.0
+815773,2020-12-10,Greenwood,South Carolina,45047.0,3387,86.0
+817513,2020-12-11,Greenwood,Kansas,20073.0,350,2.0
+819019,2020-12-11,Greenwood,South Carolina,45047.0,3454,86.0
+820759,2020-12-12,Greenwood,Kansas,20073.0,350,2.0
+822265,2020-12-12,Greenwood,South Carolina,45047.0,3492,86.0
+824005,2020-12-13,Greenwood,Kansas,20073.0,350,2.0
+825512,2020-12-13,Greenwood,South Carolina,45047.0,3503,87.0
+827252,2020-12-14,Greenwood,Kansas,20073.0,364,2.0
+828758,2020-12-14,Greenwood,South Carolina,45047.0,3550,87.0
+830498,2020-12-15,Greenwood,Kansas,20073.0,364,2.0
+832005,2020-12-15,Greenwood,South Carolina,45047.0,3589,87.0
+833745,2020-12-16,Greenwood,Kansas,20073.0,373,2.0
+835251,2020-12-16,Greenwood,South Carolina,45047.0,3610,87.0
+836991,2020-12-17,Greenwood,Kansas,20073.0,373,2.0
+838497,2020-12-17,Greenwood,South Carolina,45047.0,3655,90.0
+840236,2020-12-18,Greenwood,Kansas,20073.0,375,2.0
+841742,2020-12-18,Greenwood,South Carolina,45047.0,3715,91.0
+843481,2020-12-19,Greenwood,Kansas,20073.0,375,2.0
+844988,2020-12-19,Greenwood,South Carolina,45047.0,3780,91.0
+846727,2020-12-20,Greenwood,Kansas,20073.0,375,2.0
+848233,2020-12-20,Greenwood,South Carolina,45047.0,3820,92.0
+849972,2020-12-21,Greenwood,Kansas,20073.0,400,2.0
+851478,2020-12-21,Greenwood,South Carolina,45047.0,3848,92.0
+853217,2020-12-22,Greenwood,Kansas,20073.0,400,2.0
+854723,2020-12-22,Greenwood,South Carolina,45047.0,3861,92.0
+856462,2020-12-23,Greenwood,Kansas,20073.0,400,2.0
+857968,2020-12-23,Greenwood,South Carolina,45047.0,3901,92.0
+859707,2020-12-24,Greenwood,Kansas,20073.0,400,2.0
+861213,2020-12-24,Greenwood,South Carolina,45047.0,3966,92.0
+862952,2020-12-25,Greenwood,Kansas,20073.0,435,2.0
+864458,2020-12-25,Greenwood,South Carolina,45047.0,3966,92.0
+866197,2020-12-26,Greenwood,Kansas,20073.0,435,2.0
+867703,2020-12-26,Greenwood,South Carolina,45047.0,4023,92.0
+869442,2020-12-27,Greenwood,Kansas,20073.0,435,2.0
+870948,2020-12-27,Greenwood,South Carolina,45047.0,4100,92.0
+872687,2020-12-28,Greenwood,Kansas,20073.0,452,2.0
+874193,2020-12-28,Greenwood,South Carolina,45047.0,4118,92.0
+875932,2020-12-29,Greenwood,Kansas,20073.0,452,2.0
+877438,2020-12-29,Greenwood,South Carolina,45047.0,4186,92.0
+879177,2020-12-30,Greenwood,Kansas,20073.0,452,2.0
+880683,2020-12-30,Greenwood,South Carolina,45047.0,4205,93.0
+882422,2020-12-31,Greenwood,Kansas,20073.0,452,2.0
+883928,2020-12-31,Greenwood,South Carolina,45047.0,4248,93.0
+885667,2021-01-01,Greenwood,Kansas,20073.0,471,2.0
+887173,2021-01-01,Greenwood,South Carolina,45047.0,4248,93.0
+888913,2021-01-02,Greenwood,Kansas,20073.0,471,2.0
+890420,2021-01-02,Greenwood,South Carolina,45047.0,4335,97.0
+892159,2021-01-03,Greenwood,Kansas,20073.0,471,2.0
+893666,2021-01-03,Greenwood,South Carolina,45047.0,4404,98.0
+895406,2021-01-04,Greenwood,Kansas,20073.0,471,2.0
+896912,2021-01-04,Greenwood,South Carolina,45047.0,4449,98.0
+898651,2021-01-05,Greenwood,Kansas,20073.0,505,2.0
+900157,2021-01-05,Greenwood,South Carolina,45047.0,4481,98.0
+901896,2021-01-06,Greenwood,Kansas,20073.0,516,2.0
+903402,2021-01-06,Greenwood,South Carolina,45047.0,4502,98.0
+905141,2021-01-07,Greenwood,Kansas,20073.0,516,2.0
+906648,2021-01-07,Greenwood,South Carolina,45047.0,4543,100.0
+908387,2021-01-08,Greenwood,Kansas,20073.0,516,2.0
+909893,2021-01-08,Greenwood,South Carolina,45047.0,4701,100.0
+911632,2021-01-09,Greenwood,Kansas,20073.0,526,2.0
+913138,2021-01-09,Greenwood,South Carolina,45047.0,4772,101.0
+914877,2021-01-10,Greenwood,Kansas,20073.0,526,2.0
+916383,2021-01-10,Greenwood,South Carolina,45047.0,4832,104.0
+918122,2021-01-11,Greenwood,Kansas,20073.0,526,2.0
+919628,2021-01-11,Greenwood,South Carolina,45047.0,4860,104.0
+921367,2021-01-12,Greenwood,Kansas,20073.0,526,2.0
+922873,2021-01-12,Greenwood,South Carolina,45047.0,4882,104.0
+924612,2021-01-13,Greenwood,Kansas,20073.0,536,2.0
+926119,2021-01-13,Greenwood,South Carolina,45047.0,5007,104.0
+927858,2021-01-14,Greenwood,Kansas,20073.0,536,2.0
+929364,2021-01-14,Greenwood,South Carolina,45047.0,5104,105.0
+931103,2021-01-15,Greenwood,Kansas,20073.0,547,2.0
+932609,2021-01-15,Greenwood,South Carolina,45047.0,5141,106.0
+934348,2021-01-16,Greenwood,Kansas,20073.0,547,2.0
+935854,2021-01-16,Greenwood,South Carolina,45047.0,5281,107.0
+937593,2021-01-17,Greenwood,Kansas,20073.0,547,2.0
+939099,2021-01-17,Greenwood,South Carolina,45047.0,5332,110.0
+940838,2021-01-18,Greenwood,Kansas,20073.0,547,2.0
+942344,2021-01-18,Greenwood,South Carolina,45047.0,5351,110.0
+944083,2021-01-19,Greenwood,Kansas,20073.0,547,2.0
+945591,2021-01-19,Greenwood,South Carolina,45047.0,5445,110.0
+947330,2021-01-20,Greenwood,Kansas,20073.0,553,2.0
+948837,2021-01-20,Greenwood,South Carolina,45047.0,5504,111.0
+950576,2021-01-21,Greenwood,Kansas,20073.0,553,2.0
+952082,2021-01-21,Greenwood,South Carolina,45047.0,5615,113.0
+953821,2021-01-22,Greenwood,Kansas,20073.0,557,2.0
+955327,2021-01-22,Greenwood,South Carolina,45047.0,5669,113.0
+957066,2021-01-23,Greenwood,Kansas,20073.0,557,2.0
+958573,2021-01-23,Greenwood,South Carolina,45047.0,5732,115.0
+960312,2021-01-24,Greenwood,Kansas,20073.0,557,2.0
+961818,2021-01-24,Greenwood,South Carolina,45047.0,5812,116.0
+963557,2021-01-25,Greenwood,Kansas,20073.0,557,2.0
+965063,2021-01-25,Greenwood,South Carolina,45047.0,5826,116.0
+966802,2021-01-26,Greenwood,Kansas,20073.0,557,2.0
+968307,2021-01-26,Greenwood,South Carolina,45047.0,5881,116.0
+970046,2021-01-27,Greenwood,Kansas,20073.0,557,2.0
+971552,2021-01-27,Greenwood,South Carolina,45047.0,5921,118.0
+973291,2021-01-28,Greenwood,Kansas,20073.0,557,2.0
+974797,2021-01-28,Greenwood,South Carolina,45047.0,5965,125.0
+976536,2021-01-29,Greenwood,Kansas,20073.0,557,2.0
+978042,2021-01-29,Greenwood,South Carolina,45047.0,6045,127.0
+979782,2021-01-30,Greenwood,Kansas,20073.0,557,2.0
+981288,2021-01-30,Greenwood,South Carolina,45047.0,6158,127.0
+983028,2021-01-31,Greenwood,Kansas,20073.0,557,2.0
+984535,2021-01-31,Greenwood,South Carolina,45047.0,6194,128.0
+986275,2021-02-01,Greenwood,Kansas,20073.0,570,2.0
+987782,2021-02-01,Greenwood,South Carolina,45047.0,6216,135.0
+989522,2021-02-02,Greenwood,Kansas,20073.0,570,2.0
+991028,2021-02-02,Greenwood,South Carolina,45047.0,6242,135.0
+992768,2021-02-03,Greenwood,Kansas,20073.0,570,2.0
+994274,2021-02-03,Greenwood,South Carolina,45047.0,6276,141.0
+996014,2021-02-04,Greenwood,Kansas,20073.0,570,2.0
+997520,2021-02-04,Greenwood,South Carolina,45047.0,6313,142.0
+999260,2021-02-05,Greenwood,Kansas,20073.0,570,2.0
+1000766,2021-02-05,Greenwood,South Carolina,45047.0,6431,144.0
+1002506,2021-02-06,Greenwood,Kansas,20073.0,570,2.0
+1004012,2021-02-06,Greenwood,South Carolina,45047.0,6472,144.0
+1005752,2021-02-07,Greenwood,Kansas,20073.0,570,2.0
+1007258,2021-02-07,Greenwood,South Carolina,45047.0,6502,144.0
+1008998,2021-02-08,Greenwood,Kansas,20073.0,570,2.0
+1010504,2021-02-08,Greenwood,South Carolina,45047.0,6531,146.0
+1012244,2021-02-09,Greenwood,Kansas,20073.0,570,2.0
+1013749,2021-02-09,Greenwood,South Carolina,45047.0,6543,146.0
+1015489,2021-02-10,Greenwood,Kansas,20073.0,570,2.0
+1016994,2021-02-10,Greenwood,South Carolina,45047.0,6579,147.0
+1018734,2021-02-11,Greenwood,Kansas,20073.0,570,2.0
+1020239,2021-02-11,Greenwood,South Carolina,45047.0,6633,147.0
+1021979,2021-02-12,Greenwood,Kansas,20073.0,570,2.0
+1023484,2021-02-12,Greenwood,South Carolina,45047.0,6696,147.0
+1025224,2021-02-13,Greenwood,Kansas,20073.0,570,2.0
+1026729,2021-02-13,Greenwood,South Carolina,45047.0,6732,148.0
+1028469,2021-02-14,Greenwood,Kansas,20073.0,570,2.0
+1029976,2021-02-14,Greenwood,South Carolina,45047.0,6765,151.0
+1031716,2021-02-15,Greenwood,Kansas,20073.0,570,2.0
+1033222,2021-02-15,Greenwood,South Carolina,45047.0,6772,151.0
+1034962,2021-02-16,Greenwood,Kansas,20073.0,570,2.0
+1036467,2021-02-16,Greenwood,South Carolina,45047.0,6785,153.0
+1038207,2021-02-17,Greenwood,Kansas,20073.0,570,2.0
+1039712,2021-02-17,Greenwood,South Carolina,45047.0,6804,154.0
+1041452,2021-02-18,Greenwood,Kansas,20073.0,570,2.0
+1042957,2021-02-18,Greenwood,South Carolina,45047.0,6832,153.0
+1044697,2021-02-19,Greenwood,Kansas,20073.0,570,2.0
+1046202,2021-02-19,Greenwood,South Carolina,45047.0,6863,153.0
+1047942,2021-02-20,Greenwood,Kansas,20073.0,581,2.0
+1049449,2021-02-20,Greenwood,South Carolina,45047.0,6892,153.0
+1051189,2021-02-21,Greenwood,Kansas,20073.0,581,2.0
+1052696,2021-02-21,Greenwood,South Carolina,45047.0,6923,155.0
+1054436,2021-02-22,Greenwood,Kansas,20073.0,586,2.0
+1055942,2021-02-22,Greenwood,South Carolina,45047.0,6934,155.0
+1057682,2021-02-23,Greenwood,Kansas,20073.0,586,2.0
+1059188,2021-02-23,Greenwood,South Carolina,45047.0,6941,155.0
+1060928,2021-02-24,Greenwood,Kansas,20073.0,586,2.0
+1062433,2021-02-24,Greenwood,South Carolina,45047.0,6965,158.0
+1064173,2021-02-25,Greenwood,Kansas,20073.0,586,2.0
+1065678,2021-02-25,Greenwood,South Carolina,45047.0,6991,158.0
+1067418,2021-02-26,Greenwood,Kansas,20073.0,587,7.0
+1068923,2021-02-26,Greenwood,South Carolina,45047.0,7019,158.0
+1070663,2021-02-27,Greenwood,Kansas,20073.0,587,7.0
+1072169,2021-02-27,Greenwood,South Carolina,45047.0,7049,158.0
+1073909,2021-02-28,Greenwood,Kansas,20073.0,587,7.0
+1075415,2021-02-28,Greenwood,South Carolina,45047.0,7100,158.0
+1077155,2021-03-01,Greenwood,Kansas,20073.0,587,7.0
+1078660,2021-03-01,Greenwood,South Carolina,45047.0,7117,158.0
+1080400,2021-03-02,Greenwood,Kansas,20073.0,587,7.0
+1081906,2021-03-02,Greenwood,South Carolina,45047.0,7119,159.0
+1083646,2021-03-03,Greenwood,Kansas,20073.0,587,7.0
+1085152,2021-03-03,Greenwood,South Carolina,45047.0,7131,159.0
+1086892,2021-03-04,Greenwood,Kansas,20073.0,587,7.0
+1088397,2021-03-04,Greenwood,South Carolina,45047.0,7157,159.0
+1090137,2021-03-05,Greenwood,Kansas,20073.0,587,7.0
+1091643,2021-03-05,Greenwood,South Carolina,45047.0,7201,159.0
+1093383,2021-03-06,Greenwood,Kansas,20073.0,589,8.0
+1094889,2021-03-06,Greenwood,South Carolina,45047.0,7210,159.0
+1096629,2021-03-07,Greenwood,Kansas,20073.0,589,8.0
+1098137,2021-03-07,Greenwood,South Carolina,45047.0,7230,159.0
+1099877,2021-03-08,Greenwood,Kansas,20073.0,589,8.0
+1101383,2021-03-08,Greenwood,South Carolina,45047.0,7243,159.0
+1103123,2021-03-09,Greenwood,Kansas,20073.0,589,8.0
+1104629,2021-03-09,Greenwood,South Carolina,45047.0,7247,159.0
+1106369,2021-03-10,Greenwood,Kansas,20073.0,589,8.0
+1107875,2021-03-10,Greenwood,South Carolina,45047.0,7253,159.0
+1109615,2021-03-11,Greenwood,Kansas,20073.0,589,8.0
+1111121,2021-03-11,Greenwood,South Carolina,45047.0,7273,159.0
+1112861,2021-03-12,Greenwood,Kansas,20073.0,589,8.0
+1114367,2021-03-12,Greenwood,South Carolina,45047.0,7292,160.0
+1116107,2021-03-13,Greenwood,Kansas,20073.0,589,8.0
+1117614,2021-03-13,Greenwood,South Carolina,45047.0,7311,160.0
+1119354,2021-03-14,Greenwood,Kansas,20073.0,589,8.0
+1120861,2021-03-14,Greenwood,South Carolina,45047.0,7327,160.0
+1122601,2021-03-15,Greenwood,Kansas,20073.0,589,8.0
+1124107,2021-03-15,Greenwood,South Carolina,45047.0,7337,160.0
+1125847,2021-03-16,Greenwood,Kansas,20073.0,589,8.0
+1127353,2021-03-16,Greenwood,South Carolina,45047.0,7343,160.0
+1129093,2021-03-17,Greenwood,Kansas,20073.0,589,8.0
+1130600,2021-03-17,Greenwood,South Carolina,45047.0,7368,160.0
+1132341,2021-03-18,Greenwood,Kansas,20073.0,589,8.0
+1133848,2021-03-18,Greenwood,South Carolina,45047.0,7398,160.0
+1135588,2021-03-19,Greenwood,Kansas,20073.0,589,8.0
+1137094,2021-03-19,Greenwood,South Carolina,45047.0,7422,162.0
+1138834,2021-03-20,Greenwood,Kansas,20073.0,589,8.0
+1140340,2021-03-20,Greenwood,South Carolina,45047.0,7450,163.0
+1142080,2021-03-21,Greenwood,Kansas,20073.0,589,8.0
+1143587,2021-03-21,Greenwood,South Carolina,45047.0,7482,163.0
+1145327,2021-03-22,Greenwood,Kansas,20073.0,589,8.0
+1146834,2021-03-22,Greenwood,South Carolina,45047.0,7491,163.0
+1148574,2021-03-23,Greenwood,Kansas,20073.0,589,8.0
+1150081,2021-03-23,Greenwood,South Carolina,45047.0,7508,163.0
+1151821,2021-03-24,Greenwood,Kansas,20073.0,589,8.0
+1153328,2021-03-24,Greenwood,South Carolina,45047.0,7521,163.0
+1155068,2021-03-25,Greenwood,Kansas,20073.0,589,8.0
+1156575,2021-03-25,Greenwood,South Carolina,45047.0,7553,165.0
+1158315,2021-03-26,Greenwood,Kansas,20073.0,589,8.0
+1159822,2021-03-26,Greenwood,South Carolina,45047.0,7571,165.0
+1161563,2021-03-27,Greenwood,Kansas,20073.0,589,8.0
+1163071,2021-03-27,Greenwood,South Carolina,45047.0,7588,166.0
+1164811,2021-03-28,Greenwood,Kansas,20073.0,589,8.0
+1166319,2021-03-28,Greenwood,South Carolina,45047.0,7605,166.0
+1168059,2021-03-29,Greenwood,Kansas,20073.0,589,8.0
+1169567,2021-03-29,Greenwood,South Carolina,45047.0,7619,166.0
+1171307,2021-03-30,Greenwood,Kansas,20073.0,589,8.0
+1172814,2021-03-30,Greenwood,South Carolina,45047.0,7623,166.0
+1174554,2021-03-31,Greenwood,Kansas,20073.0,589,8.0
+1176061,2021-03-31,Greenwood,South Carolina,45047.0,7635,166.0
+1177801,2021-04-01,Greenwood,Kansas,20073.0,589,8.0
+1179308,2021-04-01,Greenwood,South Carolina,45047.0,7649,166.0
+1181048,2021-04-02,Greenwood,Kansas,20073.0,589,8.0
+1182555,2021-04-02,Greenwood,South Carolina,45047.0,7665,166.0
+1184295,2021-04-03,Greenwood,Kansas,20073.0,589,8.0
+1185802,2021-04-03,Greenwood,South Carolina,45047.0,7689,166.0
+1187542,2021-04-04,Greenwood,Kansas,20073.0,589,8.0
+1189049,2021-04-04,Greenwood,South Carolina,45047.0,7689,166.0
+1190789,2021-04-05,Greenwood,Kansas,20073.0,589,8.0
+1192298,2021-04-05,Greenwood,South Carolina,45047.0,7714,167.0
+1194039,2021-04-06,Greenwood,Kansas,20073.0,589,8.0
+1195546,2021-04-06,Greenwood,South Carolina,45047.0,7731,167.0
+1197287,2021-04-07,Greenwood,Kansas,20073.0,589,8.0
+1198795,2021-04-07,Greenwood,South Carolina,45047.0,7749,167.0
+1200536,2021-04-08,Greenwood,Kansas,20073.0,589,8.0
+1202044,2021-04-08,Greenwood,South Carolina,45047.0,7762,167.0
+1203784,2021-04-09,Greenwood,Kansas,20073.0,589,8.0
+1205292,2021-04-09,Greenwood,South Carolina,45047.0,7783,167.0
+1207032,2021-04-10,Greenwood,Kansas,20073.0,589,8.0
+1208540,2021-04-10,Greenwood,South Carolina,45047.0,7790,167.0
+1210281,2021-04-11,Greenwood,Kansas,20073.0,589,8.0
+1211789,2021-04-11,Greenwood,South Carolina,45047.0,7802,167.0
+1213529,2021-04-12,Greenwood,Kansas,20073.0,589,8.0
+1215036,2021-04-12,Greenwood,South Carolina,45047.0,7808,167.0
+1216776,2021-04-13,Greenwood,Kansas,20073.0,589,8.0
+1218284,2021-04-13,Greenwood,South Carolina,45047.0,7821,167.0
+1220024,2021-04-14,Greenwood,Kansas,20073.0,589,8.0
+1221532,2021-04-14,Greenwood,South Carolina,45047.0,7830,167.0
+1223272,2021-04-15,Greenwood,Kansas,20073.0,589,8.0
+1224779,2021-04-15,Greenwood,South Carolina,45047.0,7835,167.0
+1226519,2021-04-16,Greenwood,Kansas,20073.0,589,8.0
+1228027,2021-04-16,Greenwood,South Carolina,45047.0,7856,167.0
+1229767,2021-04-17,Greenwood,Kansas,20073.0,589,8.0
+1231275,2021-04-17,Greenwood,South Carolina,45047.0,7868,167.0
+1233016,2021-04-18,Greenwood,Kansas,20073.0,589,11.0
+1234523,2021-04-18,Greenwood,South Carolina,45047.0,7886,167.0
+1236263,2021-04-19,Greenwood,Kansas,20073.0,589,11.0
+1237770,2021-04-19,Greenwood,South Carolina,45047.0,7899,168.0
+1239510,2021-04-20,Greenwood,Kansas,20073.0,589,11.0
+1241017,2021-04-20,Greenwood,South Carolina,45047.0,7902,168.0
+1242757,2021-04-21,Greenwood,Kansas,20073.0,589,11.0
+1244264,2021-04-21,Greenwood,South Carolina,45047.0,7914,168.0
+1246004,2021-04-22,Greenwood,Kansas,20073.0,589,11.0
+1247511,2021-04-22,Greenwood,South Carolina,45047.0,7938,169.0
+1249251,2021-04-23,Greenwood,Kansas,20073.0,589,11.0
+1250758,2021-04-23,Greenwood,South Carolina,45047.0,7947,170.0
+1252498,2021-04-24,Greenwood,Kansas,20073.0,589,11.0
+1254005,2021-04-24,Greenwood,South Carolina,45047.0,7957,170.0
+1255745,2021-04-25,Greenwood,Kansas,20073.0,589,11.0
+1257252,2021-04-25,Greenwood,South Carolina,45047.0,7960,171.0
+1258992,2021-04-26,Greenwood,Kansas,20073.0,589,11.0
+1260499,2021-04-26,Greenwood,South Carolina,45047.0,7969,171.0
+1262239,2021-04-27,Greenwood,Kansas,20073.0,589,11.0
+1263746,2021-04-27,Greenwood,South Carolina,45047.0,7971,171.0
+1265486,2021-04-28,Greenwood,Kansas,20073.0,589,11.0
+1266993,2021-04-28,Greenwood,South Carolina,45047.0,7995,172.0
+1268733,2021-04-29,Greenwood,Kansas,20073.0,589,11.0
+1270240,2021-04-29,Greenwood,South Carolina,45047.0,8031,172.0
+1271980,2021-04-30,Greenwood,Kansas,20073.0,589,11.0
+1273487,2021-04-30,Greenwood,South Carolina,45047.0,8050,172.0
+1275227,2021-05-01,Greenwood,Kansas,20073.0,589,11.0
+1276734,2021-05-01,Greenwood,South Carolina,45047.0,8056,172.0
+1278474,2021-05-02,Greenwood,Kansas,20073.0,589,11.0
+1279981,2021-05-02,Greenwood,South Carolina,45047.0,8066,172.0
+1281721,2021-05-03,Greenwood,Kansas,20073.0,589,11.0
+1283228,2021-05-03,Greenwood,South Carolina,45047.0,8069,172.0
+1284968,2021-05-04,Greenwood,Kansas,20073.0,589,11.0
+1286474,2021-05-04,Greenwood,South Carolina,45047.0,8073,172.0
+1288214,2021-05-05,Greenwood,Kansas,20073.0,589,11.0
+1289720,2021-05-05,Greenwood,South Carolina,45047.0,8087,172.0
+1291460,2021-05-06,Greenwood,Kansas,20073.0,589,11.0
+1292966,2021-05-06,Greenwood,South Carolina,45047.0,8105,172.0
+1294706,2021-05-07,Greenwood,Kansas,20073.0,589,11.0
+1296212,2021-05-07,Greenwood,South Carolina,45047.0,8114,172.0
+1297952,2021-05-08,Greenwood,Kansas,20073.0,589,11.0
+1299459,2021-05-08,Greenwood,South Carolina,45047.0,8127,172.0
+1301199,2021-05-09,Greenwood,Kansas,20073.0,589,11.0
+1302706,2021-05-09,Greenwood,South Carolina,45047.0,8145,172.0
+1304446,2021-05-10,Greenwood,Kansas,20073.0,589,11.0
+1305952,2021-05-10,Greenwood,South Carolina,45047.0,8145,173.0
+1307692,2021-05-11,Greenwood,Kansas,20073.0,589,11.0
+1309198,2021-05-11,Greenwood,South Carolina,45047.0,8148,173.0
+1310938,2021-05-12,Greenwood,Kansas,20073.0,589,11.0
+1312445,2021-05-12,Greenwood,South Carolina,45047.0,8158,173.0
+1314185,2021-05-13,Greenwood,Kansas,20073.0,589,11.0
+1315691,2021-05-13,Greenwood,South Carolina,45047.0,8169,173.0
+1317432,2021-05-14,Greenwood,Kansas,20073.0,589,11.0
+1318939,2021-05-14,Greenwood,South Carolina,45047.0,8179,173.0
+1320679,2021-05-15,Greenwood,Kansas,20073.0,589,11.0
+1322185,2021-05-15,Greenwood,South Carolina,45047.0,8199,173.0
+1323925,2021-05-16,Greenwood,Kansas,20073.0,589,11.0
+1325431,2021-05-16,Greenwood,South Carolina,45047.0,8216,173.0
+1327171,2021-05-17,Greenwood,Kansas,20073.0,589,11.0
+1328677,2021-05-17,Greenwood,South Carolina,45047.0,8219,173.0
+1330418,2021-05-18,Greenwood,Kansas,20073.0,589,11.0
+1331924,2021-05-18,Greenwood,South Carolina,45047.0,8226,173.0
+1333665,2021-05-19,Greenwood,Kansas,20073.0,589,11.0
+1335171,2021-05-19,Greenwood,South Carolina,45047.0,8232,173.0
+1336912,2021-05-20,Greenwood,Kansas,20073.0,589,11.0
+1338418,2021-05-20,Greenwood,South Carolina,45047.0,8239,173.0
+1340159,2021-05-21,Greenwood,Kansas,20073.0,589,11.0
+1341666,2021-05-21,Greenwood,South Carolina,45047.0,8245,173.0
+1343407,2021-05-22,Greenwood,Kansas,20073.0,589,11.0
+1344914,2021-05-22,Greenwood,South Carolina,45047.0,8255,173.0
+1346655,2021-05-23,Greenwood,Kansas,20073.0,589,11.0
+1348162,2021-05-23,Greenwood,South Carolina,45047.0,8257,173.0
+1349902,2021-05-24,Greenwood,Kansas,20073.0,589,11.0
+1351408,2021-05-24,Greenwood,South Carolina,45047.0,8262,173.0
+1353148,2021-05-25,Greenwood,Kansas,20073.0,589,11.0
+1354654,2021-05-25,Greenwood,South Carolina,45047.0,8263,173.0
+1356394,2021-05-26,Greenwood,Kansas,20073.0,589,11.0
+1357900,2021-05-26,Greenwood,South Carolina,45047.0,8267,173.0
+1359640,2021-05-27,Greenwood,Kansas,20073.0,589,11.0
+1361146,2021-05-27,Greenwood,South Carolina,45047.0,8272,173.0
+1362887,2021-05-28,Greenwood,Kansas,20073.0,589,11.0
+1364392,2021-05-28,Greenwood,South Carolina,45047.0,8275,172.0
+1366133,2021-05-29,Greenwood,Kansas,20073.0,589,11.0
+1367638,2021-05-29,Greenwood,South Carolina,45047.0,8276,172.0
+1369379,2021-05-30,Greenwood,Kansas,20073.0,589,11.0
+1370884,2021-05-30,Greenwood,South Carolina,45047.0,8275,172.0
+1372624,2021-05-31,Greenwood,Kansas,20073.0,589,11.0
+1374129,2021-05-31,Greenwood,South Carolina,45047.0,8276,172.0
+1375869,2021-06-01,Greenwood,Kansas,20073.0,589,11.0
+1377375,2021-06-01,Greenwood,South Carolina,45047.0,8276,172.0
+1379115,2021-06-02,Greenwood,Kansas,20073.0,589,11.0
+1380620,2021-06-02,Greenwood,South Carolina,45047.0,8275,172.0
+1382360,2021-06-03,Greenwood,Kansas,20073.0,589,11.0
+1383866,2021-06-03,Greenwood,South Carolina,45047.0,8280,172.0
+1385606,2021-06-04,Greenwood,Kansas,20073.0,589,11.0
+1387111,2021-06-04,Greenwood,South Carolina,45047.0,8280,172.0
+1388851,2021-06-05,Greenwood,Kansas,20073.0,589,11.0
+1390356,2021-06-05,Greenwood,South Carolina,45047.0,8281,172.0
+1392096,2021-06-06,Greenwood,Kansas,20073.0,589,11.0
+1393601,2021-06-06,Greenwood,South Carolina,45047.0,8279,172.0
+1395341,2021-06-07,Greenwood,Kansas,20073.0,589,11.0
+1396848,2021-06-07,Greenwood,South Carolina,45047.0,8279,172.0
+1398588,2021-06-08,Greenwood,Kansas,20073.0,589,11.0
+1400093,2021-06-08,Greenwood,South Carolina,45047.0,8279,172.0
+1401833,2021-06-09,Greenwood,Kansas,20073.0,589,11.0
+1403338,2021-06-09,Greenwood,South Carolina,45047.0,8280,172.0
+1405078,2021-06-10,Greenwood,Kansas,20073.0,589,11.0
+1406584,2021-06-10,Greenwood,South Carolina,45047.0,8277,172.0
+1408324,2021-06-11,Greenwood,Kansas,20073.0,589,11.0
+1409829,2021-06-11,Greenwood,South Carolina,45047.0,8277,172.0
+1411569,2021-06-12,Greenwood,Kansas,20073.0,589,11.0
+1413074,2021-06-12,Greenwood,South Carolina,45047.0,8277,172.0
+1414814,2021-06-13,Greenwood,Kansas,20073.0,589,11.0
+1416320,2021-06-13,Greenwood,South Carolina,45047.0,8279,172.0
+1418060,2021-06-14,Greenwood,Kansas,20073.0,589,11.0
+1419565,2021-06-14,Greenwood,South Carolina,45047.0,8282,173.0
+1421305,2021-06-15,Greenwood,Kansas,20073.0,589,11.0
+1422811,2021-06-15,Greenwood,South Carolina,45047.0,8283,173.0
+1424553,2021-06-16,Greenwood,Kansas,20073.0,589,11.0
+1426058,2021-06-16,Greenwood,South Carolina,45047.0,8286,173.0
+1427798,2021-06-17,Greenwood,Kansas,20073.0,589,11.0
+1429303,2021-06-17,Greenwood,South Carolina,45047.0,8287,173.0
+1431043,2021-06-18,Greenwood,Kansas,20073.0,589,11.0
+1432549,2021-06-18,Greenwood,South Carolina,45047.0,8287,173.0
+1434289,2021-06-19,Greenwood,Kansas,20073.0,589,11.0
+1435796,2021-06-19,Greenwood,South Carolina,45047.0,8287,173.0
+1437536,2021-06-20,Greenwood,Kansas,20073.0,589,11.0
+1439043,2021-06-20,Greenwood,South Carolina,45047.0,8287,173.0
+1440783,2021-06-21,Greenwood,Kansas,20073.0,589,11.0
+1442288,2021-06-21,Greenwood,South Carolina,45047.0,8290,173.0
+1444028,2021-06-22,Greenwood,Kansas,20073.0,589,11.0
+1445533,2021-06-22,Greenwood,South Carolina,45047.0,8290,173.0
+1447273,2021-06-23,Greenwood,Kansas,20073.0,589,11.0
+1448778,2021-06-23,Greenwood,South Carolina,45047.0,8296,173.0
+1450518,2021-06-24,Greenwood,Kansas,20073.0,589,11.0
+1452024,2021-06-24,Greenwood,South Carolina,45047.0,8299,173.0
+1453764,2021-06-25,Greenwood,Kansas,20073.0,589,11.0
+1455269,2021-06-25,Greenwood,South Carolina,45047.0,8301,173.0
+1457009,2021-06-26,Greenwood,Kansas,20073.0,589,11.0
+1458514,2021-06-26,Greenwood,South Carolina,45047.0,8301,173.0
+1460254,2021-06-27,Greenwood,Kansas,20073.0,589,11.0
+1461759,2021-06-27,Greenwood,South Carolina,45047.0,8301,173.0
+1463499,2021-06-28,Greenwood,Kansas,20073.0,589,11.0
+1465004,2021-06-28,Greenwood,South Carolina,45047.0,8311,173.0
+1466744,2021-06-29,Greenwood,Kansas,20073.0,589,11.0
+1468249,2021-06-29,Greenwood,South Carolina,45047.0,8312,173.0
+1469989,2021-06-30,Greenwood,Kansas,20073.0,589,11.0
+1471494,2021-06-30,Greenwood,South Carolina,45047.0,8314,173.0
+1473235,2021-07-01,Greenwood,Kansas,20073.0,589,11.0
+1474740,2021-07-01,Greenwood,South Carolina,45047.0,8317,173.0
+1476481,2021-07-02,Greenwood,Kansas,20073.0,589,11.0
+1477986,2021-07-02,Greenwood,South Carolina,45047.0,8316,173.0
+1479727,2021-07-03,Greenwood,Kansas,20073.0,589,11.0
+1481233,2021-07-03,Greenwood,South Carolina,45047.0,8316,173.0
+1482974,2021-07-04,Greenwood,Kansas,20073.0,589,11.0
+1484479,2021-07-04,Greenwood,South Carolina,45047.0,8316,173.0
+1486220,2021-07-05,Greenwood,Kansas,20073.0,589,11.0
+1487726,2021-07-05,Greenwood,South Carolina,45047.0,8316,174.0
+1489467,2021-07-06,Greenwood,Kansas,20073.0,589,11.0
+1490973,2021-07-06,Greenwood,South Carolina,45047.0,8316,174.0
+1492714,2021-07-07,Greenwood,Kansas,20073.0,589,11.0
+1494220,2021-07-07,Greenwood,South Carolina,45047.0,8318,174.0
+1495960,2021-07-08,Greenwood,Kansas,20073.0,589,11.0
+1497467,2021-07-08,Greenwood,South Carolina,45047.0,8319,174.0
+1499207,2021-07-09,Greenwood,Kansas,20073.0,589,11.0
+1500713,2021-07-09,Greenwood,South Carolina,45047.0,8322,174.0
+1502453,2021-07-10,Greenwood,Kansas,20073.0,589,11.0
+1503959,2021-07-10,Greenwood,South Carolina,45047.0,8322,174.0
+1505699,2021-07-11,Greenwood,Kansas,20073.0,589,11.0
+1507205,2021-07-11,Greenwood,South Carolina,45047.0,8322,174.0
+1508945,2021-07-12,Greenwood,Kansas,20073.0,589,11.0
+1510452,2021-07-12,Greenwood,South Carolina,45047.0,8331,174.0
+1512192,2021-07-13,Greenwood,Kansas,20073.0,589,11.0
+1513698,2021-07-13,Greenwood,South Carolina,45047.0,8332,174.0
+1515438,2021-07-14,Greenwood,Kansas,20073.0,589,11.0
+1516945,2021-07-14,Greenwood,South Carolina,45047.0,8334,174.0
+1518685,2021-07-15,Greenwood,Kansas,20073.0,589,11.0
+1520193,2021-07-15,Greenwood,South Carolina,45047.0,8339,174.0
+1521933,2021-07-16,Greenwood,Kansas,20073.0,589,11.0
+1523441,2021-07-16,Greenwood,South Carolina,45047.0,8343,174.0
+1525181,2021-07-17,Greenwood,Kansas,20073.0,589,11.0
+1526688,2021-07-17,Greenwood,South Carolina,45047.0,8343,174.0
+1528428,2021-07-18,Greenwood,Kansas,20073.0,589,11.0
+1529935,2021-07-18,Greenwood,South Carolina,45047.0,8343,174.0
+1531675,2021-07-19,Greenwood,Kansas,20073.0,590,11.0
+1533182,2021-07-19,Greenwood,South Carolina,45047.0,8352,174.0
+1534922,2021-07-20,Greenwood,Kansas,20073.0,590,11.0
+1536430,2021-07-20,Greenwood,South Carolina,45047.0,8352,174.0
+1538170,2021-07-21,Greenwood,Kansas,20073.0,594,11.0
+1539677,2021-07-21,Greenwood,South Carolina,45047.0,8357,174.0
+1541417,2021-07-22,Greenwood,Kansas,20073.0,594,11.0
+1542925,2021-07-22,Greenwood,South Carolina,45047.0,8363,174.0
+1544665,2021-07-23,Greenwood,Kansas,20073.0,600,11.0
+1546172,2021-07-23,Greenwood,South Carolina,45047.0,8366,174.0
+1547912,2021-07-24,Greenwood,Kansas,20073.0,600,11.0
+1549419,2021-07-24,Greenwood,South Carolina,45047.0,8366,174.0
+1551159,2021-07-25,Greenwood,Kansas,20073.0,600,11.0
+1552666,2021-07-25,Greenwood,South Carolina,45047.0,8366,174.0
+1554406,2021-07-26,Greenwood,Kansas,20073.0,602,11.0
+1555913,2021-07-26,Greenwood,South Carolina,45047.0,8383,174.0
+1557653,2021-07-27,Greenwood,Kansas,20073.0,602,11.0
+1559160,2021-07-27,Greenwood,South Carolina,45047.0,8384,174.0
+1560900,2021-07-28,Greenwood,Kansas,20073.0,615,11.0
+1562408,2021-07-28,Greenwood,South Carolina,45047.0,8399,174.0
+1564148,2021-07-29,Greenwood,Kansas,20073.0,615,11.0
+1565656,2021-07-29,Greenwood,South Carolina,45047.0,8421,174.0
+1567396,2021-07-30,Greenwood,Kansas,20073.0,621,11.0
+1568904,2021-07-30,Greenwood,South Carolina,45047.0,8438,174.0
+1570644,2021-07-31,Greenwood,Kansas,20073.0,621,11.0
+1572152,2021-07-31,Greenwood,South Carolina,45047.0,8438,174.0
+1573892,2021-08-01,Greenwood,Kansas,20073.0,621,11.0
+1575400,2021-08-01,Greenwood,South Carolina,45047.0,8438,174.0
+1577140,2021-08-02,Greenwood,Kansas,20073.0,624,11.0
+1578648,2021-08-02,Greenwood,South Carolina,45047.0,8480,174.0
+1580389,2021-08-03,Greenwood,Kansas,20073.0,624,11.0
+1581897,2021-08-03,Greenwood,South Carolina,45047.0,8488,174.0
+1583639,2021-08-04,Greenwood,Kansas,20073.0,636,11.0
+1585147,2021-08-04,Greenwood,South Carolina,45047.0,8496,175.0
+1586889,2021-08-05,Greenwood,Kansas,20073.0,636,11.0
+1588397,2021-08-05,Greenwood,South Carolina,45047.0,8533,175.0
+1590138,2021-08-06,Greenwood,Kansas,20073.0,641,11.0
+1591646,2021-08-06,Greenwood,South Carolina,45047.0,8571,175.0
+1593387,2021-08-07,Greenwood,Kansas,20073.0,641,11.0
+1594895,2021-08-07,Greenwood,South Carolina,45047.0,8571,175.0
+1596636,2021-08-08,Greenwood,Kansas,20073.0,641,11.0
+1598144,2021-08-08,Greenwood,South Carolina,45047.0,8571,175.0
+1599884,2021-08-09,Greenwood,Kansas,20073.0,650,11.0
+1601392,2021-08-09,Greenwood,South Carolina,45047.0,8652,175.0
+1603133,2021-08-10,Greenwood,Kansas,20073.0,650,11.0
+1604641,2021-08-10,Greenwood,South Carolina,45047.0,8658,175.0
+1606382,2021-08-11,Greenwood,Kansas,20073.0,657,11.0
+1607890,2021-08-11,Greenwood,South Carolina,45047.0,8695,175.0
+1609631,2021-08-12,Greenwood,Kansas,20073.0,657,11.0
+1611138,2021-08-12,Greenwood,South Carolina,45047.0,8713,175.0
+1612879,2021-08-13,Greenwood,Kansas,20073.0,659,11.0
+1614387,2021-08-13,Greenwood,South Carolina,45047.0,8748,175.0
+1616128,2021-08-14,Greenwood,Kansas,20073.0,659,11.0
+1617635,2021-08-14,Greenwood,South Carolina,45047.0,8748,175.0
+1619376,2021-08-15,Greenwood,Kansas,20073.0,659,11.0
+1620883,2021-08-15,Greenwood,South Carolina,45047.0,8748,175.0
+1622623,2021-08-16,Greenwood,Kansas,20073.0,665,11.0
+1624130,2021-08-16,Greenwood,South Carolina,45047.0,8851,175.0
+1625870,2021-08-17,Greenwood,Kansas,20073.0,665,11.0
+1627377,2021-08-17,Greenwood,South Carolina,45047.0,8862,175.0
+1629117,2021-08-18,Greenwood,Kansas,20073.0,688,11.0
+1630624,2021-08-18,Greenwood,South Carolina,45047.0,8872,175.0
+1632364,2021-08-19,Greenwood,Kansas,20073.0,688,11.0
+1633871,2021-08-19,Greenwood,South Carolina,45047.0,8921,175.0
+1635614,2021-08-20,Greenwood,Kansas,20073.0,697,11.0
+1637121,2021-08-20,Greenwood,South Carolina,45047.0,8965,175.0
+1638864,2021-08-21,Greenwood,Kansas,20073.0,697,11.0
+1640371,2021-08-21,Greenwood,South Carolina,45047.0,8965,175.0
+1642114,2021-08-22,Greenwood,Kansas,20073.0,697,11.0
+1643621,2021-08-22,Greenwood,South Carolina,45047.0,8965,175.0
+1645363,2021-08-23,Greenwood,Kansas,20073.0,732,11.0
+1646870,2021-08-23,Greenwood,South Carolina,45047.0,9094,176.0
+1648611,2021-08-24,Greenwood,Kansas,20073.0,732,11.0
+1650119,2021-08-24,Greenwood,South Carolina,45047.0,9111,176.0
+1651860,2021-08-25,Greenwood,Kansas,20073.0,773,11.0
+1653366,2021-08-25,Greenwood,South Carolina,45047.0,9146,176.0
+1655107,2021-08-26,Greenwood,Kansas,20073.0,773,11.0
+1656613,2021-08-26,Greenwood,South Carolina,45047.0,9199,176.0
+1658355,2021-08-27,Greenwood,Kansas,20073.0,791,11.0
+1659862,2021-08-27,Greenwood,South Carolina,45047.0,9259,176.0
+1661603,2021-08-28,Greenwood,Kansas,20073.0,791,11.0
+1663110,2021-08-28,Greenwood,South Carolina,45047.0,9259,176.0
+1664851,2021-08-29,Greenwood,Kansas,20073.0,791,11.0
+1666358,2021-08-29,Greenwood,South Carolina,45047.0,9259,176.0
+1668098,2021-08-30,Greenwood,Kansas,20073.0,795,11.0
+1669605,2021-08-30,Greenwood,South Carolina,45047.0,9426,177.0
+1671345,2021-08-31,Greenwood,Kansas,20073.0,795,11.0
+1672853,2021-08-31,Greenwood,South Carolina,45047.0,9508,177.0
+1674594,2021-09-01,Greenwood,Kansas,20073.0,825,11.0
+1676100,2021-09-01,Greenwood,South Carolina,45047.0,9566,177.0
+1677841,2021-09-02,Greenwood,Kansas,20073.0,825,11.0
+1679348,2021-09-02,Greenwood,South Carolina,45047.0,9642,177.0
+1681089,2021-09-03,Greenwood,Kansas,20073.0,840,11.0
+1682598,2021-09-03,Greenwood,South Carolina,45047.0,9717,177.0
+1684340,2021-09-04,Greenwood,Kansas,20073.0,840,11.0
+1685849,2021-09-04,Greenwood,South Carolina,45047.0,9717,177.0
+1687590,2021-09-05,Greenwood,Kansas,20073.0,840,11.0
+1689099,2021-09-05,Greenwood,South Carolina,45047.0,9717,177.0
+1690840,2021-09-06,Greenwood,Kansas,20073.0,840,11.0
+1692348,2021-09-06,Greenwood,South Carolina,45047.0,9915,177.0
+1694089,2021-09-07,Greenwood,Kansas,20073.0,840,11.0
+1695596,2021-09-07,Greenwood,South Carolina,45047.0,9973,177.0
+1697337,2021-09-08,Greenwood,Kansas,20073.0,872,11.0
+1698844,2021-09-08,Greenwood,South Carolina,45047.0,10016,177.0
+1700586,2021-09-09,Greenwood,Kansas,20073.0,872,11.0
+1702093,2021-09-09,Greenwood,South Carolina,45047.0,10091,177.0
+1703836,2021-09-10,Greenwood,Kansas,20073.0,887,11.0
+1705343,2021-09-10,Greenwood,South Carolina,45047.0,10142,179.0
+1707084,2021-09-11,Greenwood,Kansas,20073.0,887,11.0
+1708590,2021-09-11,Greenwood,South Carolina,45047.0,10142,179.0
+1710331,2021-09-12,Greenwood,Kansas,20073.0,887,11.0
+1711837,2021-09-12,Greenwood,South Carolina,45047.0,10142,179.0
+1713578,2021-09-13,Greenwood,Kansas,20073.0,899,11.0
+1715083,2021-09-13,Greenwood,South Carolina,45047.0,10374,180.0
+1716824,2021-09-14,Greenwood,Kansas,20073.0,899,11.0
+1718331,2021-09-14,Greenwood,South Carolina,45047.0,10443,182.0
+1720072,2021-09-15,Greenwood,Kansas,20073.0,918,11.0
+1721579,2021-09-15,Greenwood,South Carolina,45047.0,10474,182.0
+1723321,2021-09-16,Greenwood,Kansas,20073.0,918,11.0
+1724828,2021-09-16,Greenwood,South Carolina,45047.0,10504,182.0
+1726570,2021-09-17,Greenwood,Kansas,20073.0,919,11.0
+1728077,2021-09-17,Greenwood,South Carolina,45047.0,10592,184.0
+1729820,2021-09-18,Greenwood,Kansas,20073.0,919,11.0
+1731327,2021-09-18,Greenwood,South Carolina,45047.0,10592,184.0
+1733070,2021-09-19,Greenwood,Kansas,20073.0,919,11.0
+1734577,2021-09-19,Greenwood,South Carolina,45047.0,10592,184.0
+1736320,2021-09-20,Greenwood,Kansas,20073.0,923,11.0
+1737827,2021-09-20,Greenwood,South Carolina,45047.0,10775,184.0
+1739569,2021-09-21,Greenwood,Kansas,20073.0,923,11.0
+1741076,2021-09-21,Greenwood,South Carolina,45047.0,10822,186.0
+1742818,2021-09-22,Greenwood,Kansas,20073.0,927,11.0
+1744325,2021-09-22,Greenwood,South Carolina,45047.0,10868,189.0
+1746067,2021-09-23,Greenwood,Kansas,20073.0,927,11.0
+1747575,2021-09-23,Greenwood,South Carolina,45047.0,10930,189.0
+1749317,2021-09-24,Greenwood,Kansas,20073.0,931,12.0
+1750824,2021-09-24,Greenwood,South Carolina,45047.0,11006,189.0
+1752566,2021-09-25,Greenwood,Kansas,20073.0,931,12.0
+1754072,2021-09-25,Greenwood,South Carolina,45047.0,11006,189.0
+1755814,2021-09-26,Greenwood,Kansas,20073.0,931,12.0
+1757320,2021-09-26,Greenwood,South Carolina,45047.0,11006,189.0
+1759062,2021-09-27,Greenwood,Kansas,20073.0,934,14.0
+1760568,2021-09-27,Greenwood,South Carolina,45047.0,11200,191.0
+1762310,2021-09-28,Greenwood,Kansas,20073.0,934,14.0
+1763817,2021-09-28,Greenwood,South Carolina,45047.0,11227,195.0
+1765559,2021-09-29,Greenwood,Kansas,20073.0,937,14.0
+1767066,2021-09-29,Greenwood,South Carolina,45047.0,11264,195.0
+1768808,2021-09-30,Greenwood,Kansas,20073.0,937,14.0
+1770315,2021-09-30,Greenwood,South Carolina,45047.0,11334,197.0
+1772057,2021-10-01,Greenwood,Kansas,20073.0,941,14.0
+1773565,2021-10-01,Greenwood,South Carolina,45047.0,11426,198.0
+1775307,2021-10-02,Greenwood,Kansas,20073.0,941,14.0
+1776815,2021-10-02,Greenwood,South Carolina,45047.0,11426,198.0
+1778557,2021-10-03,Greenwood,Kansas,20073.0,941,14.0
+1780065,2021-10-03,Greenwood,South Carolina,45047.0,11426,198.0
+1781807,2021-10-04,Greenwood,Kansas,20073.0,943,14.0
+1783314,2021-10-04,Greenwood,South Carolina,45047.0,11613,199.0
+1785056,2021-10-05,Greenwood,Kansas,20073.0,943,14.0
+1786563,2021-10-05,Greenwood,South Carolina,45047.0,11639,201.0
+1788305,2021-10-06,Greenwood,Kansas,20073.0,950,14.0
+1789811,2021-10-06,Greenwood,South Carolina,45047.0,11664,202.0
+1791554,2021-10-07,Greenwood,Kansas,20073.0,950,14.0
+1793060,2021-10-07,Greenwood,South Carolina,45047.0,11746,204.0
+1794802,2021-10-08,Greenwood,Kansas,20073.0,953,14.0
+1796309,2021-10-08,Greenwood,South Carolina,45047.0,11831,205.0
+1798051,2021-10-09,Greenwood,Kansas,20073.0,953,14.0
+1799558,2021-10-09,Greenwood,South Carolina,45047.0,11831,205.0
+1801300,2021-10-10,Greenwood,Kansas,20073.0,953,14.0
+1802807,2021-10-10,Greenwood,South Carolina,45047.0,11831,205.0
+1804549,2021-10-11,Greenwood,Kansas,20073.0,954,14.0
+1806057,2021-10-11,Greenwood,South Carolina,45047.0,11972,207.0
+1807800,2021-10-12,Greenwood,Kansas,20073.0,954,14.0
+1809307,2021-10-12,Greenwood,South Carolina,45047.0,11978,208.0
+1811049,2021-10-13,Greenwood,Kansas,20073.0,957,14.0
+1812556,2021-10-13,Greenwood,South Carolina,45047.0,11993,209.0
+1814298,2021-10-14,Greenwood,Kansas,20073.0,957,14.0
+1815804,2021-10-14,Greenwood,South Carolina,45047.0,12049,209.0
+1817546,2021-10-15,Greenwood,Kansas,20073.0,958,14.0
+1819053,2021-10-15,Greenwood,South Carolina,45047.0,12113,212.0
+1820795,2021-10-16,Greenwood,Kansas,20073.0,958,14.0
+1822302,2021-10-16,Greenwood,South Carolina,45047.0,12113,212.0
+1824044,2021-10-17,Greenwood,Kansas,20073.0,958,14.0
+1825551,2021-10-17,Greenwood,South Carolina,45047.0,12113,212.0
+1827293,2021-10-18,Greenwood,Kansas,20073.0,961,15.0
+1828800,2021-10-18,Greenwood,South Carolina,45047.0,12198,212.0
+1830542,2021-10-19,Greenwood,Kansas,20073.0,961,15.0
+1832049,2021-10-19,Greenwood,South Carolina,45047.0,12210,212.0
+1833791,2021-10-20,Greenwood,Kansas,20073.0,964,15.0
+1835298,2021-10-20,Greenwood,South Carolina,45047.0,12245,216.0
+1837040,2021-10-21,Greenwood,Kansas,20073.0,964,15.0
+1838547,2021-10-21,Greenwood,South Carolina,45047.0,12257,217.0
+1840289,2021-10-22,Greenwood,Kansas,20073.0,967,14.0
+1841796,2021-10-22,Greenwood,South Carolina,45047.0,12287,219.0
+1843539,2021-10-23,Greenwood,Kansas,20073.0,967,14.0
+1845046,2021-10-23,Greenwood,South Carolina,45047.0,12287,219.0
+1846789,2021-10-24,Greenwood,Kansas,20073.0,967,14.0
+1848296,2021-10-24,Greenwood,South Carolina,45047.0,12287,219.0
+1850039,2021-10-25,Greenwood,Kansas,20073.0,971,14.0
+1851546,2021-10-25,Greenwood,South Carolina,45047.0,12370,220.0
+1853288,2021-10-26,Greenwood,Kansas,20073.0,971,14.0
+1854795,2021-10-26,Greenwood,South Carolina,45047.0,12375,220.0
+1856537,2021-10-27,Greenwood,Kansas,20073.0,971,14.0
+1858044,2021-10-27,Greenwood,South Carolina,45047.0,12387,221.0
+1859786,2021-10-28,Greenwood,Kansas,20073.0,971,14.0
+1861293,2021-10-28,Greenwood,South Carolina,45047.0,12401,222.0
+1863035,2021-10-29,Greenwood,Kansas,20073.0,974,14.0
+1864542,2021-10-29,Greenwood,South Carolina,45047.0,12422,222.0
+1866284,2021-10-30,Greenwood,Kansas,20073.0,974,14.0
+1867791,2021-10-30,Greenwood,South Carolina,45047.0,12422,222.0
+1869533,2021-10-31,Greenwood,Kansas,20073.0,974,14.0
+1871040,2021-10-31,Greenwood,South Carolina,45047.0,12422,222.0
+1872782,2021-11-01,Greenwood,Kansas,20073.0,974,14.0
+1874289,2021-11-01,Greenwood,South Carolina,45047.0,12474,223.0
+1876031,2021-11-02,Greenwood,Kansas,20073.0,974,14.0
+1877538,2021-11-02,Greenwood,South Carolina,45047.0,12480,223.0
+1879280,2021-11-03,Greenwood,Kansas,20073.0,975,14.0
+1880787,2021-11-03,Greenwood,South Carolina,45047.0,12502,224.0
+1882529,2021-11-04,Greenwood,Kansas,20073.0,975,14.0
+1884036,2021-11-04,Greenwood,South Carolina,45047.0,12537,224.0
+1885778,2021-11-05,Greenwood,Kansas,20073.0,979,14.0
+1887286,2021-11-05,Greenwood,South Carolina,45047.0,12546,224.0
+1889028,2021-11-06,Greenwood,Kansas,20073.0,979,14.0
+1890536,2021-11-06,Greenwood,South Carolina,45047.0,12546,224.0
+1892278,2021-11-07,Greenwood,Kansas,20073.0,979,14.0
+1893786,2021-11-07,Greenwood,South Carolina,45047.0,12546,224.0
+1895528,2021-11-08,Greenwood,Kansas,20073.0,980,15.0
+1897036,2021-11-08,Greenwood,South Carolina,45047.0,12591,226.0
+1898778,2021-11-09,Greenwood,Kansas,20073.0,980,15.0
+1900286,2021-11-09,Greenwood,South Carolina,45047.0,12593,226.0
+1902028,2021-11-10,Greenwood,Kansas,20073.0,996,15.0
+1903536,2021-11-10,Greenwood,South Carolina,45047.0,12606,226.0
+1905278,2021-11-11,Greenwood,Kansas,20073.0,996,15.0
+1906785,2021-11-11,Greenwood,South Carolina,45047.0,12606,226.0
+1908527,2021-11-12,Greenwood,Kansas,20073.0,1008,15.0
+1910034,2021-11-12,Greenwood,South Carolina,45047.0,12638,228.0
+1911776,2021-11-13,Greenwood,Kansas,20073.0,1008,15.0
+1913284,2021-11-13,Greenwood,South Carolina,45047.0,12638,228.0
+1915026,2021-11-14,Greenwood,Kansas,20073.0,1008,15.0
+1916534,2021-11-14,Greenwood,South Carolina,45047.0,12638,228.0
+1918276,2021-11-15,Greenwood,Kansas,20073.0,1013,15.0
+1919784,2021-11-15,Greenwood,South Carolina,45047.0,12682,228.0
+1921526,2021-11-16,Greenwood,Kansas,20073.0,1013,15.0
+1923033,2021-11-16,Greenwood,South Carolina,45047.0,12691,228.0
+1924775,2021-11-17,Greenwood,Kansas,20073.0,1019,16.0
+1926283,2021-11-17,Greenwood,South Carolina,45047.0,12729,228.0
+1928025,2021-11-18,Greenwood,Kansas,20073.0,1019,16.0
+1929533,2021-11-18,Greenwood,South Carolina,45047.0,12760,228.0
+1931276,2021-11-19,Greenwood,Kansas,20073.0,1035,16.0
+1932784,2021-11-19,Greenwood,South Carolina,45047.0,12776,229.0
+1934527,2021-11-20,Greenwood,Kansas,20073.0,1035,16.0
+1936034,2021-11-20,Greenwood,South Carolina,45047.0,12776,229.0
+1937777,2021-11-21,Greenwood,Kansas,20073.0,1035,16.0
+1939284,2021-11-21,Greenwood,South Carolina,45047.0,12776,229.0
+1941027,2021-11-22,Greenwood,Kansas,20073.0,1040,16.0
+1942534,2021-11-22,Greenwood,South Carolina,45047.0,12811,231.0
+1944277,2021-11-23,Greenwood,Kansas,20073.0,1040,16.0
+1945785,2021-11-23,Greenwood,South Carolina,45047.0,12818,232.0
+1947528,2021-11-24,Greenwood,Kansas,20073.0,1047,16.0
+1949036,2021-11-24,Greenwood,South Carolina,45047.0,12854,233.0
+1950779,2021-11-25,Greenwood,Kansas,20073.0,1047,16.0
+1952287,2021-11-25,Greenwood,South Carolina,45047.0,12854,233.0
+1954030,2021-11-26,Greenwood,Kansas,20073.0,1047,16.0
+1955538,2021-11-26,Greenwood,South Carolina,45047.0,12860,235.0
+1957281,2021-11-27,Greenwood,Kansas,20073.0,1047,16.0
+1958789,2021-11-27,Greenwood,South Carolina,45047.0,12860,235.0
+1960532,2021-11-28,Greenwood,Kansas,20073.0,1047,16.0
+1962040,2021-11-28,Greenwood,South Carolina,45047.0,12860,235.0
+1963783,2021-11-29,Greenwood,Kansas,20073.0,1055,16.0
+1965292,2021-11-29,Greenwood,South Carolina,45047.0,12886,235.0
+1967035,2021-11-30,Greenwood,Kansas,20073.0,1055,16.0
+1968543,2021-11-30,Greenwood,South Carolina,45047.0,12886,235.0
+1970285,2021-12-01,Greenwood,Kansas,20073.0,1058,18.0
+1971793,2021-12-01,Greenwood,South Carolina,45047.0,12901,237.0
+1973535,2021-12-02,Greenwood,Kansas,20073.0,1058,18.0
+1975042,2021-12-02,Greenwood,South Carolina,45047.0,12938,237.0
+1976784,2021-12-03,Greenwood,Kansas,20073.0,1069,18.0
+1978292,2021-12-03,Greenwood,South Carolina,45047.0,12961,237.0
+1980034,2021-12-04,Greenwood,Kansas,20073.0,1069,18.0
+1981542,2021-12-04,Greenwood,South Carolina,45047.0,12961,237.0
+1983284,2021-12-05,Greenwood,Kansas,20073.0,1069,18.0
+1984792,2021-12-05,Greenwood,South Carolina,45047.0,12961,237.0
+1986534,2021-12-06,Greenwood,Kansas,20073.0,1072,18.0
+1988042,2021-12-06,Greenwood,South Carolina,45047.0,13013,237.0
+1989784,2021-12-07,Greenwood,Kansas,20073.0,1072,18.0
+1991293,2021-12-07,Greenwood,South Carolina,45047.0,13022,237.0
+1993035,2021-12-08,Greenwood,Kansas,20073.0,1082,18.0
+1994544,2021-12-08,Greenwood,South Carolina,45047.0,13032,237.0
+1996286,2021-12-09,Greenwood,Kansas,20073.0,1082,18.0
+1997795,2021-12-09,Greenwood,South Carolina,45047.0,13062,237.0
+1999537,2021-12-10,Greenwood,Kansas,20073.0,1103,17.0
+2001045,2021-12-10,Greenwood,South Carolina,45047.0,13095,237.0
+2002787,2021-12-11,Greenwood,Kansas,20073.0,1103,17.0
+2004296,2021-12-11,Greenwood,South Carolina,45047.0,13095,237.0
+2006038,2021-12-12,Greenwood,Kansas,20073.0,1103,17.0
+2007547,2021-12-12,Greenwood,South Carolina,45047.0,13095,237.0
+2009289,2021-12-13,Greenwood,Kansas,20073.0,1105,17.0
+2010798,2021-12-13,Greenwood,South Carolina,45047.0,13134,237.0
+2012540,2021-12-14,Greenwood,Kansas,20073.0,1105,17.0
+2014049,2021-12-14,Greenwood,South Carolina,45047.0,13137,237.0
+2015791,2021-12-15,Greenwood,Kansas,20073.0,1117,17.0
+2017299,2021-12-15,Greenwood,South Carolina,45047.0,13156,237.0
+2019041,2021-12-16,Greenwood,Kansas,20073.0,1117,17.0
+2020550,2021-12-16,Greenwood,South Carolina,45047.0,13170,238.0
+2022292,2021-12-17,Greenwood,Kansas,20073.0,1151,17.0
+2023801,2021-12-17,Greenwood,South Carolina,45047.0,13195,239.0
+2025543,2021-12-18,Greenwood,Kansas,20073.0,1151,17.0
+2027052,2021-12-18,Greenwood,South Carolina,45047.0,13195,239.0
+2028794,2021-12-19,Greenwood,Kansas,20073.0,1151,17.0
+2030303,2021-12-19,Greenwood,South Carolina,45047.0,13195,239.0
+2032045,2021-12-20,Greenwood,Kansas,20073.0,1169,17.0
+2033553,2021-12-20,Greenwood,South Carolina,45047.0,13264,239.0
+2035295,2021-12-21,Greenwood,Kansas,20073.0,1169,17.0
+2036803,2021-12-21,Greenwood,South Carolina,45047.0,13267,240.0
+2038545,2021-12-22,Greenwood,Kansas,20073.0,1180,17.0
+2040053,2021-12-22,Greenwood,South Carolina,45047.0,13301,240.0
+2041795,2021-12-23,Greenwood,Kansas,20073.0,1180,17.0
+2043302,2021-12-23,Greenwood,South Carolina,45047.0,13365,240.0
+2045044,2021-12-24,Greenwood,Kansas,20073.0,1180,17.0
+2046552,2021-12-24,Greenwood,South Carolina,45047.0,13365,240.0
+2048294,2021-12-25,Greenwood,Kansas,20073.0,1180,17.0
+2049802,2021-12-25,Greenwood,South Carolina,45047.0,13365,240.0
+2051544,2021-12-26,Greenwood,Kansas,20073.0,1180,17.0
+2053052,2021-12-26,Greenwood,South Carolina,45047.0,13365,240.0
+2054794,2021-12-27,Greenwood,Kansas,20073.0,1183,18.0
+2056301,2021-12-27,Greenwood,South Carolina,45047.0,13365,240.0
+2058043,2021-12-28,Greenwood,Kansas,20073.0,1183,18.0
+2059550,2021-12-28,Greenwood,South Carolina,45047.0,13365,240.0
+2061292,2021-12-29,Greenwood,Kansas,20073.0,1195,18.0
+2062800,2021-12-29,Greenwood,South Carolina,45047.0,13573,240.0
+2064542,2021-12-30,Greenwood,Kansas,20073.0,1195,18.0
+2066050,2021-12-30,Greenwood,South Carolina,45047.0,13616,240.0
+2067793,2021-12-31,Greenwood,Kansas,20073.0,1195,18.0
+2069301,2021-12-31,Greenwood,South Carolina,45047.0,13726,242.0
+2071044,2022-01-01,Greenwood,Kansas,20073.0,1195,18.0
+2072552,2022-01-01,Greenwood,South Carolina,45047.0,13726,242.0
+2074295,2022-01-02,Greenwood,Kansas,20073.0,1195,18.0
+2075803,2022-01-02,Greenwood,South Carolina,45047.0,13726,242.0
+2077546,2022-01-03,Greenwood,Kansas,20073.0,1217,18.0
+2079054,2022-01-03,Greenwood,South Carolina,45047.0,13726,242.0
+2080798,2022-01-04,Greenwood,Kansas,20073.0,1217,18.0
+2082306,2022-01-04,Greenwood,South Carolina,45047.0,14227,243.0
+2084050,2022-01-05,Greenwood,Kansas,20073.0,1257,18.0
+2085558,2022-01-05,Greenwood,South Carolina,45047.0,14313,245.0
+2087302,2022-01-06,Greenwood,Kansas,20073.0,1257,18.0
+2088809,2022-01-06,Greenwood,South Carolina,45047.0,14600,245.0
+2090553,2022-01-07,Greenwood,Kansas,20073.0,1290,18.0
+2092061,2022-01-07,Greenwood,South Carolina,45047.0,14769,245.0
+2093805,2022-01-08,Greenwood,Kansas,20073.0,1290,18.0
+2095313,2022-01-08,Greenwood,South Carolina,45047.0,14769,245.0
+2097057,2022-01-09,Greenwood,Kansas,20073.0,1290,18.0
+2098565,2022-01-09,Greenwood,South Carolina,45047.0,14769,245.0
+2100308,2022-01-10,Greenwood,Kansas,20073.0,1311,18.0
+2101816,2022-01-10,Greenwood,South Carolina,45047.0,15570,246.0
+2103559,2022-01-11,Greenwood,Kansas,20073.0,1311,18.0
+2105067,2022-01-11,Greenwood,South Carolina,45047.0,15710,246.0
+2106810,2022-01-12,Greenwood,Kansas,20073.0,1397,18.0
+2108318,2022-01-12,Greenwood,South Carolina,45047.0,15933,246.0
+2110061,2022-01-13,Greenwood,Kansas,20073.0,1397,18.0
+2111570,2022-01-13,Greenwood,South Carolina,45047.0,16147,248.0
+2113313,2022-01-14,Greenwood,Kansas,20073.0,1440,18.0
+2114822,2022-01-14,Greenwood,South Carolina,45047.0,16456,248.0
+2116564,2022-01-15,Greenwood,Kansas,20073.0,1440,18.0
+2118073,2022-01-15,Greenwood,South Carolina,45047.0,16456,248.0
+2119816,2022-01-16,Greenwood,Kansas,20073.0,1440,18.0
+2121325,2022-01-16,Greenwood,South Carolina,45047.0,16456,248.0
+2123068,2022-01-17,Greenwood,Kansas,20073.0,1440,18.0
+2124577,2022-01-17,Greenwood,South Carolina,45047.0,16456,248.0
+2126320,2022-01-18,Greenwood,Kansas,20073.0,1440,18.0
+2127829,2022-01-18,Greenwood,South Carolina,45047.0,17565,250.0
+2129574,2022-01-19,Greenwood,Kansas,20073.0,1563,20.0
+2131083,2022-01-19,Greenwood,South Carolina,45047.0,17691,250.0
+2132827,2022-01-20,Greenwood,Kansas,20073.0,1563,20.0
+2134335,2022-01-20,Greenwood,South Carolina,45047.0,17974,250.0
+2136079,2022-01-21,Greenwood,Kansas,20073.0,1603,20.0
+2137589,2022-01-21,Greenwood,South Carolina,45047.0,18274,252.0
+2139335,2022-01-22,Greenwood,Kansas,20073.0,1603,20.0
+2140845,2022-01-22,Greenwood,South Carolina,45047.0,18274,252.0
+2142590,2022-01-23,Greenwood,Kansas,20073.0,1603,20.0
+2144100,2022-01-23,Greenwood,South Carolina,45047.0,18274,252.0
+2145845,2022-01-24,Greenwood,Kansas,20073.0,1617,20.0
+2147354,2022-01-24,Greenwood,South Carolina,45047.0,18274,252.0
+2149097,2022-01-25,Greenwood,Kansas,20073.0,1617,20.0
+2150606,2022-01-25,Greenwood,South Carolina,45047.0,18274,252.0
+2152349,2022-01-26,Greenwood,Kansas,20073.0,1638,20.0
+2153858,2022-01-26,Greenwood,South Carolina,45047.0,19545,252.0
+2155602,2022-01-27,Greenwood,Kansas,20073.0,1638,20.0
+2157111,2022-01-27,Greenwood,South Carolina,45047.0,19790,252.0
+2158856,2022-01-28,Greenwood,Kansas,20073.0,1657,20.0
+2160367,2022-01-28,Greenwood,South Carolina,45047.0,20142,252.0
+2162111,2022-01-29,Greenwood,Kansas,20073.0,1657,20.0
+2163622,2022-01-29,Greenwood,South Carolina,45047.0,20142,252.0
+2165366,2022-01-30,Greenwood,Kansas,20073.0,1657,20.0
+2166877,2022-01-30,Greenwood,South Carolina,45047.0,20142,252.0
+2168621,2022-01-31,Greenwood,Kansas,20073.0,1670,20.0
+2170131,2022-01-31,Greenwood,South Carolina,45047.0,20672,254.0
+2171874,2022-02-01,Greenwood,Kansas,20073.0,1670,20.0
+2173383,2022-02-01,Greenwood,South Carolina,45047.0,20827,255.0
+2175127,2022-02-02,Greenwood,Kansas,20073.0,1686,20.0
+2176637,2022-02-02,Greenwood,South Carolina,45047.0,20978,255.0
+2178380,2022-02-03,Greenwood,Kansas,20073.0,1686,20.0
+2179888,2022-02-03,Greenwood,South Carolina,45047.0,21043,259.0
+2181631,2022-02-04,Greenwood,Kansas,20073.0,1729,20.0
+2183140,2022-02-04,Greenwood,South Carolina,45047.0,21157,261.0
+2184883,2022-02-05,Greenwood,Kansas,20073.0,1729,20.0
+2186392,2022-02-05,Greenwood,South Carolina,45047.0,21157,261.0
+2188136,2022-02-06,Greenwood,Kansas,20073.0,1729,20.0
+2189645,2022-02-06,Greenwood,South Carolina,45047.0,21157,261.0
+2191389,2022-02-07,Greenwood,Kansas,20073.0,1738,20.0
+2192899,2022-02-07,Greenwood,South Carolina,45047.0,21407,263.0
+2194643,2022-02-08,Greenwood,Kansas,20073.0,1738,20.0
+2196153,2022-02-08,Greenwood,South Carolina,45047.0,21484,265.0
+2197897,2022-02-09,Greenwood,Kansas,20073.0,1752,20.0
+2199407,2022-02-09,Greenwood,South Carolina,45047.0,21621,266.0
+2201151,2022-02-10,Greenwood,Kansas,20073.0,1752,20.0
+2202661,2022-02-10,Greenwood,South Carolina,45047.0,21715,269.0
+2204404,2022-02-11,Greenwood,Kansas,20073.0,1752,20.0
+2205914,2022-02-11,Greenwood,South Carolina,45047.0,21715,269.0
+2207657,2022-02-12,Greenwood,Kansas,20073.0,1752,20.0
+2209167,2022-02-12,Greenwood,South Carolina,45047.0,21715,269.0
+2210910,2022-02-13,Greenwood,Kansas,20073.0,1752,20.0
+2212420,2022-02-13,Greenwood,South Carolina,45047.0,21715,269.0
+2214162,2022-02-14,Greenwood,Kansas,20073.0,1766,20.0
+2215671,2022-02-14,Greenwood,South Carolina,45047.0,21986,274.0
+2217413,2022-02-15,Greenwood,Kansas,20073.0,1766,20.0
+2218922,2022-02-15,Greenwood,South Carolina,45047.0,22003,274.0
+2220664,2022-02-16,Greenwood,Kansas,20073.0,1770,21.0
+2222173,2022-02-16,Greenwood,South Carolina,45047.0,22019,276.0
+2223915,2022-02-17,Greenwood,Kansas,20073.0,1770,21.0
+2225424,2022-02-17,Greenwood,South Carolina,45047.0,22061,279.0
+2227166,2022-02-18,Greenwood,Kansas,20073.0,1772,21.0
+2228675,2022-02-18,Greenwood,South Carolina,45047.0,22135,279.0
+2230417,2022-02-19,Greenwood,Kansas,20073.0,1772,21.0
+2231926,2022-02-19,Greenwood,South Carolina,45047.0,22135,279.0
+2233668,2022-02-20,Greenwood,Kansas,20073.0,1772,21.0
+2235177,2022-02-20,Greenwood,South Carolina,45047.0,22135,279.0
+2236919,2022-02-21,Greenwood,Kansas,20073.0,1775,21.0
+2238428,2022-02-21,Greenwood,South Carolina,45047.0,22135,279.0
+2240170,2022-02-22,Greenwood,Kansas,20073.0,1775,21.0
+2241679,2022-02-22,Greenwood,South Carolina,45047.0,22250,280.0
+2243421,2022-02-23,Greenwood,Kansas,20073.0,1776,22.0
+2244930,2022-02-23,Greenwood,South Carolina,45047.0,22304,280.0
+2246672,2022-02-24,Greenwood,Kansas,20073.0,1776,22.0
+2248181,2022-02-24,Greenwood,South Carolina,45047.0,22343,281.0
+2249923,2022-02-25,Greenwood,Kansas,20073.0,1776,22.0
+2251432,2022-02-25,Greenwood,South Carolina,45047.0,22357,282.0
+2253174,2022-02-26,Greenwood,Kansas,20073.0,1776,22.0
+2254683,2022-02-26,Greenwood,South Carolina,45047.0,22357,282.0
+2256425,2022-02-27,Greenwood,Kansas,20073.0,1776,22.0
+2257934,2022-02-27,Greenwood,South Carolina,45047.0,22357,282.0
+2259676,2022-02-28,Greenwood,Kansas,20073.0,1773,22.0
+2261185,2022-02-28,Greenwood,South Carolina,45047.0,22401,283.0
+2262927,2022-03-01,Greenwood,Kansas,20073.0,1773,22.0
+2264435,2022-03-01,Greenwood,South Carolina,45047.0,22401,283.0
+2266178,2022-03-02,Greenwood,Kansas,20073.0,1774,22.0
+2267688,2022-03-02,Greenwood,South Carolina,45047.0,22408,283.0
+2269431,2022-03-03,Greenwood,Kansas,20073.0,1774,22.0
+2270940,2022-03-03,Greenwood,South Carolina,45047.0,22420,286.0
+2272683,2022-03-04,Greenwood,Kansas,20073.0,1775,22.0
+2274193,2022-03-04,Greenwood,South Carolina,45047.0,22436,286.0
+2275936,2022-03-05,Greenwood,Kansas,20073.0,1775,22.0
+2277446,2022-03-05,Greenwood,South Carolina,45047.0,22436,286.0
+2279189,2022-03-06,Greenwood,Kansas,20073.0,1775,22.0
+2280699,2022-03-06,Greenwood,South Carolina,45047.0,22436,286.0
+2282442,2022-03-07,Greenwood,Kansas,20073.0,1778,22.0
+2283951,2022-03-07,Greenwood,South Carolina,45047.0,22444,292.0
+2285694,2022-03-08,Greenwood,Kansas,20073.0,1778,22.0
+2287203,2022-03-08,Greenwood,South Carolina,45047.0,22441,293.0
+2288945,2022-03-09,Greenwood,Kansas,20073.0,1780,22.0
+2290455,2022-03-09,Greenwood,South Carolina,45047.0,22449,293.0
+2292197,2022-03-10,Greenwood,Kansas,20073.0,1780,22.0
+2293707,2022-03-10,Greenwood,South Carolina,45047.0,22454,296.0
+2295449,2022-03-11,Greenwood,Kansas,20073.0,1780,22.0
+2296959,2022-03-11,Greenwood,South Carolina,45047.0,22457,296.0
+2298701,2022-03-12,Greenwood,Kansas,20073.0,1780,22.0
+2300211,2022-03-12,Greenwood,South Carolina,45047.0,22457,296.0
+2301953,2022-03-13,Greenwood,Kansas,20073.0,1780,22.0
+2303463,2022-03-13,Greenwood,South Carolina,45047.0,22457,296.0
+2305205,2022-03-14,Greenwood,Kansas,20073.0,1780,22.0
+2306714,2022-03-14,Greenwood,South Carolina,45047.0,22457,296.0
+2308456,2022-03-15,Greenwood,Kansas,20073.0,1780,22.0
+2309967,2022-03-15,Greenwood,South Carolina,45047.0,22457,296.0
+2311709,2022-03-16,Greenwood,Kansas,20073.0,1781,22.0
+2313220,2022-03-16,Greenwood,South Carolina,45047.0,22457,296.0
+2314962,2022-03-17,Greenwood,Kansas,20073.0,1781,22.0
+2316473,2022-03-17,Greenwood,South Carolina,45047.0,22457,296.0
+2318215,2022-03-18,Greenwood,Kansas,20073.0,1781,22.0
+2319727,2022-03-18,Greenwood,South Carolina,45047.0,22457,296.0
+2321469,2022-03-19,Greenwood,Kansas,20073.0,1781,22.0
+2322981,2022-03-19,Greenwood,South Carolina,45047.0,22457,296.0
+2324723,2022-03-20,Greenwood,Kansas,20073.0,1781,22.0
+2326234,2022-03-20,Greenwood,South Carolina,45047.0,22457,296.0
+2327976,2022-03-21,Greenwood,Kansas,20073.0,1781,22.0
+2329486,2022-03-21,Greenwood,South Carolina,45047.0,22457,296.0
+2331228,2022-03-22,Greenwood,Kansas,20073.0,1781,22.0
+2332739,2022-03-22,Greenwood,South Carolina,45047.0,22478,300.0
+2334482,2022-03-23,Greenwood,Kansas,20073.0,1782,23.0
+2335993,2022-03-23,Greenwood,South Carolina,45047.0,22478,300.0
+2337736,2022-03-24,Greenwood,Kansas,20073.0,1782,23.0
+2339247,2022-03-24,Greenwood,South Carolina,45047.0,22478,300.0
+2340989,2022-03-25,Greenwood,Kansas,20073.0,1782,23.0
+2342500,2022-03-25,Greenwood,South Carolina,45047.0,22478,300.0
+2344242,2022-03-26,Greenwood,Kansas,20073.0,1782,23.0
+2345753,2022-03-26,Greenwood,South Carolina,45047.0,22478,300.0
+2347495,2022-03-27,Greenwood,Kansas,20073.0,1782,23.0
+2349006,2022-03-27,Greenwood,South Carolina,45047.0,22478,300.0
+2350748,2022-03-28,Greenwood,Kansas,20073.0,1782,23.0
+2352258,2022-03-28,Greenwood,South Carolina,45047.0,22478,300.0
+2354000,2022-03-29,Greenwood,Kansas,20073.0,1782,23.0
+2355511,2022-03-29,Greenwood,South Carolina,45047.0,22508,304.0
+2357253,2022-03-30,Greenwood,Kansas,20073.0,1782,23.0
+2358765,2022-03-30,Greenwood,South Carolina,45047.0,22508,304.0
+2360507,2022-03-31,Greenwood,Kansas,20073.0,1782,23.0
+2362019,2022-03-31,Greenwood,South Carolina,45047.0,22508,304.0
+2363761,2022-04-01,Greenwood,Kansas,20073.0,1783,23.0
+2365272,2022-04-01,Greenwood,South Carolina,45047.0,22508,304.0
+2367014,2022-04-02,Greenwood,Kansas,20073.0,1783,23.0
+2368525,2022-04-02,Greenwood,South Carolina,45047.0,22508,304.0
+2370267,2022-04-03,Greenwood,Kansas,20073.0,1783,23.0
+2371778,2022-04-03,Greenwood,South Carolina,45047.0,22508,304.0
+2373520,2022-04-04,Greenwood,Kansas,20073.0,1783,23.0
+2375030,2022-04-04,Greenwood,South Carolina,45047.0,22508,304.0
+2376772,2022-04-05,Greenwood,Kansas,20073.0,1783,23.0
+2378284,2022-04-05,Greenwood,South Carolina,45047.0,22528,304.0
+2380027,2022-04-06,Greenwood,Kansas,20073.0,1783,23.0
+2381539,2022-04-06,Greenwood,South Carolina,45047.0,22528,304.0
+2383282,2022-04-07,Greenwood,Kansas,20073.0,1783,23.0
+2384794,2022-04-07,Greenwood,South Carolina,45047.0,22528,304.0
+2386536,2022-04-08,Greenwood,Kansas,20073.0,1785,23.0
+2388048,2022-04-08,Greenwood,South Carolina,45047.0,22528,304.0
+2389792,2022-04-09,Greenwood,Kansas,20073.0,1785,23.0
+2391304,2022-04-09,Greenwood,South Carolina,45047.0,22528,304.0

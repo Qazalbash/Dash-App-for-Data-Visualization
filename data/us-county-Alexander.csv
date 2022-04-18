@@ -1,0 +1,1466 @@
+,date,county,state,fips,cases,deaths
+20919,2020-03-30,Alexander,North Carolina,37003.0,1,0.0
+23043,2020-03-31,Alexander,North Carolina,37003.0,2,0.0
+25237,2020-04-01,Alexander,North Carolina,37003.0,2,0.0
+27498,2020-04-02,Alexander,North Carolina,37003.0,2,0.0
+29822,2020-04-03,Alexander,North Carolina,37003.0,2,0.0
+32208,2020-04-04,Alexander,North Carolina,37003.0,2,0.0
+34639,2020-04-05,Alexander,North Carolina,37003.0,2,0.0
+37108,2020-04-06,Alexander,North Carolina,37003.0,2,0.0
+39623,2020-04-07,Alexander,North Carolina,37003.0,2,0.0
+42180,2020-04-08,Alexander,North Carolina,37003.0,2,0.0
+44763,2020-04-09,Alexander,North Carolina,37003.0,2,0.0
+47376,2020-04-10,Alexander,North Carolina,37003.0,2,0.0
+50031,2020-04-11,Alexander,North Carolina,37003.0,2,0.0
+52704,2020-04-12,Alexander,North Carolina,37003.0,2,0.0
+55387,2020-04-13,Alexander,North Carolina,37003.0,2,0.0
+58087,2020-04-14,Alexander,North Carolina,37003.0,3,0.0
+60801,2020-04-15,Alexander,North Carolina,37003.0,3,0.0
+62439,2020-04-16,Alexander,Illinois,17003.0,1,0.0
+63527,2020-04-16,Alexander,North Carolina,37003.0,3,0.0
+65171,2020-04-17,Alexander,Illinois,17003.0,1,0.0
+66270,2020-04-17,Alexander,North Carolina,37003.0,3,0.0
+67919,2020-04-18,Alexander,Illinois,17003.0,1,0.0
+69027,2020-04-18,Alexander,North Carolina,37003.0,3,0.0
+70681,2020-04-19,Alexander,Illinois,17003.0,2,0.0
+71793,2020-04-19,Alexander,North Carolina,37003.0,3,0.0
+73450,2020-04-20,Alexander,Illinois,17003.0,2,0.0
+74568,2020-04-20,Alexander,North Carolina,37003.0,3,0.0
+76226,2020-04-21,Alexander,Illinois,17003.0,2,0.0
+77349,2020-04-21,Alexander,North Carolina,37003.0,3,0.0
+79010,2020-04-22,Alexander,Illinois,17003.0,2,0.0
+80138,2020-04-22,Alexander,North Carolina,37003.0,3,0.0
+81803,2020-04-23,Alexander,Illinois,17003.0,2,0.0
+82937,2020-04-23,Alexander,North Carolina,37003.0,4,0.0
+84603,2020-04-24,Alexander,Illinois,17003.0,2,0.0
+85741,2020-04-24,Alexander,North Carolina,37003.0,4,0.0
+87413,2020-04-25,Alexander,Illinois,17003.0,2,0.0
+88553,2020-04-25,Alexander,North Carolina,37003.0,4,0.0
+90229,2020-04-26,Alexander,Illinois,17003.0,3,0.0
+91368,2020-04-26,Alexander,North Carolina,37003.0,4,0.0
+93048,2020-04-27,Alexander,Illinois,17003.0,3,0.0
+94193,2020-04-27,Alexander,North Carolina,37003.0,4,0.0
+95880,2020-04-28,Alexander,Illinois,17003.0,3,0.0
+97029,2020-04-28,Alexander,North Carolina,37003.0,4,0.0
+98724,2020-04-29,Alexander,Illinois,17003.0,3,0.0
+99876,2020-04-29,Alexander,North Carolina,37003.0,4,0.0
+101575,2020-04-30,Alexander,Illinois,17003.0,3,0.0
+102729,2020-04-30,Alexander,North Carolina,37003.0,4,0.0
+104430,2020-05-01,Alexander,Illinois,17003.0,3,0.0
+105591,2020-05-01,Alexander,North Carolina,37003.0,4,0.0
+107295,2020-05-02,Alexander,Illinois,17003.0,4,0.0
+108458,2020-05-02,Alexander,North Carolina,37003.0,4,0.0
+110165,2020-05-03,Alexander,Illinois,17003.0,4,0.0
+111331,2020-05-03,Alexander,North Carolina,37003.0,4,0.0
+113040,2020-05-04,Alexander,Illinois,17003.0,4,0.0
+114212,2020-05-04,Alexander,North Carolina,37003.0,4,0.0
+115923,2020-05-05,Alexander,Illinois,17003.0,4,0.0
+117092,2020-05-05,Alexander,North Carolina,37003.0,5,0.0
+118883,2020-05-06,Alexander,Illinois,17003.0,6,0.0
+120053,2020-05-06,Alexander,North Carolina,37003.0,6,0.0
+121853,2020-05-07,Alexander,Illinois,17003.0,6,0.0
+123028,2020-05-07,Alexander,North Carolina,37003.0,8,0.0
+124832,2020-05-08,Alexander,Illinois,17003.0,6,0.0
+126011,2020-05-08,Alexander,North Carolina,37003.0,8,0.0
+127819,2020-05-09,Alexander,Illinois,17003.0,6,0.0
+129000,2020-05-09,Alexander,North Carolina,37003.0,10,0.0
+130810,2020-05-10,Alexander,Illinois,17003.0,7,0.0
+131989,2020-05-10,Alexander,North Carolina,37003.0,12,0.0
+133801,2020-05-11,Alexander,Illinois,17003.0,7,0.0
+134980,2020-05-11,Alexander,North Carolina,37003.0,12,0.0
+136790,2020-05-12,Alexander,Illinois,17003.0,8,0.0
+137970,2020-05-12,Alexander,North Carolina,37003.0,13,0.0
+139781,2020-05-13,Alexander,Illinois,17003.0,8,0.0
+140966,2020-05-13,Alexander,North Carolina,37003.0,14,0.0
+142777,2020-05-14,Alexander,Illinois,17003.0,8,0.0
+143961,2020-05-14,Alexander,North Carolina,37003.0,15,0.0
+145777,2020-05-15,Alexander,Illinois,17003.0,8,0.0
+146962,2020-05-15,Alexander,North Carolina,37003.0,15,0.0
+148780,2020-05-16,Alexander,Illinois,17003.0,8,0.0
+149969,2020-05-16,Alexander,North Carolina,37003.0,18,0.0
+151789,2020-05-17,Alexander,Illinois,17003.0,8,0.0
+152979,2020-05-17,Alexander,North Carolina,37003.0,21,0.0
+154801,2020-05-18,Alexander,Illinois,17003.0,8,0.0
+155996,2020-05-18,Alexander,North Carolina,37003.0,21,0.0
+157817,2020-05-19,Alexander,Illinois,17003.0,8,0.0
+159014,2020-05-19,Alexander,North Carolina,37003.0,21,0.0
+160843,2020-05-20,Alexander,Illinois,17003.0,8,0.0
+162041,2020-05-20,Alexander,North Carolina,37003.0,23,0.0
+163871,2020-05-21,Alexander,Illinois,17003.0,8,0.0
+165070,2020-05-21,Alexander,North Carolina,37003.0,23,0.0
+166904,2020-05-22,Alexander,Illinois,17003.0,8,0.0
+168105,2020-05-22,Alexander,North Carolina,37003.0,23,0.0
+169941,2020-05-23,Alexander,Illinois,17003.0,8,0.0
+171144,2020-05-23,Alexander,North Carolina,37003.0,27,0.0
+172982,2020-05-24,Alexander,Illinois,17003.0,8,0.0
+174186,2020-05-24,Alexander,North Carolina,37003.0,27,0.0
+176026,2020-05-25,Alexander,Illinois,17003.0,8,0.0
+177230,2020-05-25,Alexander,North Carolina,37003.0,27,0.0
+179070,2020-05-26,Alexander,Illinois,17003.0,8,0.0
+180273,2020-05-26,Alexander,North Carolina,37003.0,27,0.0
+182114,2020-05-27,Alexander,Illinois,17003.0,8,0.0
+183321,2020-05-27,Alexander,North Carolina,37003.0,28,0.0
+185168,2020-05-28,Alexander,Illinois,17003.0,8,0.0
+186378,2020-05-28,Alexander,North Carolina,37003.0,30,0.0
+188225,2020-05-29,Alexander,Illinois,17003.0,8,0.0
+189438,2020-05-29,Alexander,North Carolina,37003.0,30,0.0
+191290,2020-05-30,Alexander,Illinois,17003.0,8,0.0
+192502,2020-05-30,Alexander,North Carolina,37003.0,33,0.0
+194357,2020-05-31,Alexander,Illinois,17003.0,8,0.0
+195572,2020-05-31,Alexander,North Carolina,37003.0,33,0.0
+197427,2020-06-01,Alexander,Illinois,17003.0,8,0.0
+198645,2020-06-01,Alexander,North Carolina,37003.0,35,0.0
+200500,2020-06-02,Alexander,Illinois,17003.0,8,0.0
+201719,2020-06-02,Alexander,North Carolina,37003.0,38,0.0
+203576,2020-06-03,Alexander,Illinois,17003.0,12,0.0
+204796,2020-06-03,Alexander,North Carolina,37003.0,38,0.0
+206656,2020-06-04,Alexander,Illinois,17003.0,12,0.0
+207877,2020-06-04,Alexander,North Carolina,37003.0,38,0.0
+209737,2020-06-05,Alexander,Illinois,17003.0,14,0.0
+210959,2020-06-05,Alexander,North Carolina,37003.0,38,0.0
+212822,2020-06-06,Alexander,Illinois,17003.0,15,0.0
+214043,2020-06-06,Alexander,North Carolina,37003.0,43,0.0
+215909,2020-06-07,Alexander,Illinois,17003.0,16,0.0
+217133,2020-06-07,Alexander,North Carolina,37003.0,43,0.0
+219000,2020-06-08,Alexander,Illinois,17003.0,15,0.0
+220225,2020-06-08,Alexander,North Carolina,37003.0,43,0.0
+222095,2020-06-09,Alexander,Illinois,17003.0,15,0.0
+223319,2020-06-09,Alexander,North Carolina,37003.0,43,0.0
+225190,2020-06-10,Alexander,Illinois,17003.0,16,0.0
+226419,2020-06-10,Alexander,North Carolina,37003.0,43,0.0
+228292,2020-06-11,Alexander,Illinois,17003.0,16,0.0
+229523,2020-06-11,Alexander,North Carolina,37003.0,43,0.0
+231395,2020-06-12,Alexander,Illinois,17003.0,16,0.0
+232628,2020-06-12,Alexander,North Carolina,37003.0,46,0.0
+234501,2020-06-13,Alexander,Illinois,17003.0,17,0.0
+235733,2020-06-13,Alexander,North Carolina,37003.0,48,0.0
+237608,2020-06-14,Alexander,Illinois,17003.0,17,0.0
+238841,2020-06-14,Alexander,North Carolina,37003.0,49,0.0
+240716,2020-06-15,Alexander,Illinois,17003.0,17,0.0
+241950,2020-06-15,Alexander,North Carolina,37003.0,50,0.0
+243827,2020-06-16,Alexander,Illinois,17003.0,17,0.0
+245062,2020-06-16,Alexander,North Carolina,37003.0,49,0.0
+246940,2020-06-17,Alexander,Illinois,17003.0,17,0.0
+248175,2020-06-17,Alexander,North Carolina,37003.0,51,0.0
+250052,2020-06-18,Alexander,Illinois,17003.0,18,0.0
+251290,2020-06-18,Alexander,North Carolina,37003.0,56,0.0
+253167,2020-06-19,Alexander,Illinois,17003.0,18,0.0
+254405,2020-06-19,Alexander,North Carolina,37003.0,59,0.0
+256287,2020-06-20,Alexander,Illinois,17003.0,20,0.0
+257528,2020-06-20,Alexander,North Carolina,37003.0,60,0.0
+259413,2020-06-21,Alexander,Illinois,17003.0,20,0.0
+260655,2020-06-21,Alexander,North Carolina,37003.0,65,0.0
+262540,2020-06-22,Alexander,Illinois,17003.0,20,0.0
+263783,2020-06-22,Alexander,North Carolina,37003.0,66,0.0
+265668,2020-06-23,Alexander,Illinois,17003.0,20,0.0
+266911,2020-06-23,Alexander,North Carolina,37003.0,68,0.0
+268798,2020-06-24,Alexander,Illinois,17003.0,21,0.0
+270045,2020-06-24,Alexander,North Carolina,37003.0,73,0.0
+271935,2020-06-25,Alexander,Illinois,17003.0,21,0.0
+273184,2020-06-25,Alexander,North Carolina,37003.0,76,0.0
+275077,2020-06-26,Alexander,Illinois,17003.0,21,0.0
+276330,2020-06-26,Alexander,North Carolina,37003.0,79,0.0
+278225,2020-06-27,Alexander,Illinois,17003.0,22,0.0
+279478,2020-06-27,Alexander,North Carolina,37003.0,84,0.0
+281373,2020-06-28,Alexander,Illinois,17003.0,22,0.0
+282624,2020-06-28,Alexander,North Carolina,37003.0,84,0.0
+284518,2020-06-29,Alexander,Illinois,17003.0,22,0.0
+285769,2020-06-29,Alexander,North Carolina,37003.0,87,0.0
+287667,2020-06-30,Alexander,Illinois,17003.0,22,0.0
+288919,2020-06-30,Alexander,North Carolina,37003.0,91,1.0
+290817,2020-07-01,Alexander,Illinois,17003.0,22,0.0
+292071,2020-07-01,Alexander,North Carolina,37003.0,93,1.0
+293971,2020-07-02,Alexander,Illinois,17003.0,22,0.0
+295226,2020-07-02,Alexander,North Carolina,37003.0,101,1.0
+297128,2020-07-03,Alexander,Illinois,17003.0,22,0.0
+298386,2020-07-03,Alexander,North Carolina,37003.0,105,1.0
+300290,2020-07-04,Alexander,Illinois,17003.0,22,0.0
+301549,2020-07-04,Alexander,North Carolina,37003.0,112,1.0
+303454,2020-07-05,Alexander,Illinois,17003.0,22,0.0
+304712,2020-07-05,Alexander,North Carolina,37003.0,118,1.0
+306619,2020-07-06,Alexander,Illinois,17003.0,22,0.0
+307879,2020-07-06,Alexander,North Carolina,37003.0,124,1.0
+309787,2020-07-07,Alexander,Illinois,17003.0,22,0.0
+311047,2020-07-07,Alexander,North Carolina,37003.0,134,1.0
+312957,2020-07-08,Alexander,Illinois,17003.0,22,0.0
+314218,2020-07-08,Alexander,North Carolina,37003.0,138,1.0
+316131,2020-07-09,Alexander,Illinois,17003.0,22,0.0
+317392,2020-07-09,Alexander,North Carolina,37003.0,140,1.0
+319304,2020-07-10,Alexander,Illinois,17003.0,22,0.0
+320569,2020-07-10,Alexander,North Carolina,37003.0,149,1.0
+322483,2020-07-11,Alexander,Illinois,17003.0,24,0.0
+323749,2020-07-11,Alexander,North Carolina,37003.0,156,1.0
+325664,2020-07-12,Alexander,Illinois,17003.0,25,0.0
+326933,2020-07-12,Alexander,North Carolina,37003.0,163,1.0
+328850,2020-07-13,Alexander,Illinois,17003.0,25,0.0
+330120,2020-07-13,Alexander,North Carolina,37003.0,174,1.0
+332037,2020-07-14,Alexander,Illinois,17003.0,25,0.0
+333310,2020-07-14,Alexander,North Carolina,37003.0,183,1.0
+335230,2020-07-15,Alexander,Illinois,17003.0,26,0.0
+336504,2020-07-15,Alexander,North Carolina,37003.0,186,1.0
+338426,2020-07-16,Alexander,Illinois,17003.0,27,0.0
+339700,2020-07-16,Alexander,North Carolina,37003.0,193,1.0
+341622,2020-07-17,Alexander,Illinois,17003.0,29,0.0
+342898,2020-07-17,Alexander,North Carolina,37003.0,197,1.0
+344822,2020-07-18,Alexander,Illinois,17003.0,30,0.0
+346097,2020-07-18,Alexander,North Carolina,37003.0,210,1.0
+348023,2020-07-19,Alexander,Illinois,17003.0,32,0.0
+349298,2020-07-19,Alexander,North Carolina,37003.0,213,1.0
+351223,2020-07-20,Alexander,Illinois,17003.0,32,0.0
+352501,2020-07-20,Alexander,North Carolina,37003.0,216,1.0
+354425,2020-07-21,Alexander,Illinois,17003.0,32,0.0
+355704,2020-07-21,Alexander,North Carolina,37003.0,221,2.0
+357627,2020-07-22,Alexander,Illinois,17003.0,32,0.0
+358908,2020-07-22,Alexander,North Carolina,37003.0,225,2.0
+360832,2020-07-23,Alexander,Illinois,17003.0,33,0.0
+362114,2020-07-23,Alexander,North Carolina,37003.0,235,2.0
+364039,2020-07-24,Alexander,Illinois,17003.0,34,0.0
+365320,2020-07-24,Alexander,North Carolina,37003.0,240,2.0
+367246,2020-07-25,Alexander,Illinois,17003.0,35,0.0
+368529,2020-07-25,Alexander,North Carolina,37003.0,250,2.0
+370456,2020-07-26,Alexander,Illinois,17003.0,35,0.0
+371741,2020-07-26,Alexander,North Carolina,37003.0,253,2.0
+373668,2020-07-27,Alexander,Illinois,17003.0,35,0.0
+374953,2020-07-27,Alexander,North Carolina,37003.0,256,2.0
+376883,2020-07-28,Alexander,Illinois,17003.0,35,0.0
+378169,2020-07-28,Alexander,North Carolina,37003.0,258,2.0
+380100,2020-07-29,Alexander,Illinois,17003.0,35,0.0
+381386,2020-07-29,Alexander,North Carolina,37003.0,258,3.0
+383317,2020-07-30,Alexander,Illinois,17003.0,35,0.0
+384604,2020-07-30,Alexander,North Carolina,37003.0,259,2.0
+386535,2020-07-31,Alexander,Illinois,17003.0,35,0.0
+387821,2020-07-31,Alexander,North Carolina,37003.0,262,2.0
+389752,2020-08-01,Alexander,Illinois,17003.0,36,0.0
+391038,2020-08-01,Alexander,North Carolina,37003.0,265,2.0
+392969,2020-08-02,Alexander,Illinois,17003.0,36,0.0
+394254,2020-08-02,Alexander,North Carolina,37003.0,270,2.0
+396185,2020-08-03,Alexander,Illinois,17003.0,36,0.0
+397471,2020-08-03,Alexander,North Carolina,37003.0,271,2.0
+399401,2020-08-04,Alexander,Illinois,17003.0,36,0.0
+400686,2020-08-04,Alexander,North Carolina,37003.0,274,2.0
+402617,2020-08-05,Alexander,Illinois,17003.0,36,0.0
+403904,2020-08-05,Alexander,North Carolina,37003.0,278,2.0
+405835,2020-08-06,Alexander,Illinois,17003.0,36,0.0
+407123,2020-08-06,Alexander,North Carolina,37003.0,284,2.0
+409055,2020-08-07,Alexander,Illinois,17003.0,36,0.0
+410343,2020-08-07,Alexander,North Carolina,37003.0,288,2.0
+412274,2020-08-08,Alexander,Illinois,17003.0,37,0.0
+413563,2020-08-08,Alexander,North Carolina,37003.0,295,2.0
+415494,2020-08-09,Alexander,Illinois,17003.0,37,0.0
+416784,2020-08-09,Alexander,North Carolina,37003.0,299,2.0
+418715,2020-08-10,Alexander,Illinois,17003.0,37,0.0
+420004,2020-08-10,Alexander,North Carolina,37003.0,303,2.0
+421938,2020-08-11,Alexander,Illinois,17003.0,37,0.0
+423227,2020-08-11,Alexander,North Carolina,37003.0,312,2.0
+425159,2020-08-12,Alexander,Illinois,17003.0,37,0.0
+426450,2020-08-12,Alexander,North Carolina,37003.0,314,2.0
+428383,2020-08-13,Alexander,Illinois,17003.0,37,0.0
+429675,2020-08-13,Alexander,North Carolina,37003.0,323,2.0
+431611,2020-08-14,Alexander,Illinois,17003.0,37,0.0
+432901,2020-08-14,Alexander,North Carolina,37003.0,327,2.0
+434836,2020-08-15,Alexander,Illinois,17003.0,39,0.0
+436127,2020-08-15,Alexander,North Carolina,37003.0,332,2.0
+438062,2020-08-16,Alexander,Illinois,17003.0,40,0.0
+439352,2020-08-16,Alexander,North Carolina,37003.0,338,2.0
+441288,2020-08-17,Alexander,Illinois,17003.0,40,0.0
+442579,2020-08-17,Alexander,North Carolina,37003.0,342,2.0
+444514,2020-08-18,Alexander,Illinois,17003.0,40,0.0
+445805,2020-08-18,Alexander,North Carolina,37003.0,346,2.0
+447741,2020-08-19,Alexander,Illinois,17003.0,40,0.0
+449033,2020-08-19,Alexander,North Carolina,37003.0,351,2.0
+450969,2020-08-20,Alexander,Illinois,17003.0,40,0.0
+452261,2020-08-20,Alexander,North Carolina,37003.0,354,2.0
+454197,2020-08-21,Alexander,Illinois,17003.0,40,0.0
+455489,2020-08-21,Alexander,North Carolina,37003.0,358,2.0
+457425,2020-08-22,Alexander,Illinois,17003.0,40,0.0
+458717,2020-08-22,Alexander,North Carolina,37003.0,362,2.0
+460652,2020-08-23,Alexander,Illinois,17003.0,40,0.0
+461945,2020-08-23,Alexander,North Carolina,37003.0,366,2.0
+463881,2020-08-24,Alexander,Illinois,17003.0,40,0.0
+465174,2020-08-24,Alexander,North Carolina,37003.0,369,2.0
+467110,2020-08-25,Alexander,Illinois,17003.0,41,0.0
+468402,2020-08-25,Alexander,North Carolina,37003.0,374,2.0
+470339,2020-08-26,Alexander,Illinois,17003.0,42,0.0
+471634,2020-08-26,Alexander,North Carolina,37003.0,378,2.0
+473571,2020-08-27,Alexander,Illinois,17003.0,44,0.0
+474868,2020-08-27,Alexander,North Carolina,37003.0,383,2.0
+476804,2020-08-28,Alexander,Illinois,17003.0,44,0.0
+478101,2020-08-28,Alexander,North Carolina,37003.0,386,2.0
+480037,2020-08-29,Alexander,Illinois,17003.0,44,0.0
+481334,2020-08-29,Alexander,North Carolina,37003.0,396,2.0
+483271,2020-08-30,Alexander,Illinois,17003.0,44,0.0
+484569,2020-08-30,Alexander,North Carolina,37003.0,397,2.0
+486506,2020-08-31,Alexander,Illinois,17003.0,44,0.0
+487802,2020-08-31,Alexander,North Carolina,37003.0,401,2.0
+489739,2020-09-01,Alexander,Illinois,17003.0,44,0.0
+491035,2020-09-01,Alexander,North Carolina,37003.0,409,3.0
+492972,2020-09-02,Alexander,Illinois,17003.0,45,0.0
+494269,2020-09-02,Alexander,North Carolina,37003.0,414,3.0
+496206,2020-09-03,Alexander,Illinois,17003.0,45,1.0
+497502,2020-09-03,Alexander,North Carolina,37003.0,427,3.0
+499439,2020-09-04,Alexander,Illinois,17003.0,47,1.0
+500736,2020-09-04,Alexander,North Carolina,37003.0,433,3.0
+502673,2020-09-05,Alexander,Illinois,17003.0,50,1.0
+503970,2020-09-05,Alexander,North Carolina,37003.0,433,3.0
+505907,2020-09-06,Alexander,Illinois,17003.0,50,1.0
+507202,2020-09-06,Alexander,North Carolina,37003.0,439,3.0
+509139,2020-09-07,Alexander,Illinois,17003.0,50,1.0
+510435,2020-09-07,Alexander,North Carolina,37003.0,442,3.0
+512372,2020-09-08,Alexander,Illinois,17003.0,51,1.0
+513668,2020-09-08,Alexander,North Carolina,37003.0,446,3.0
+515605,2020-09-09,Alexander,Illinois,17003.0,51,1.0
+516903,2020-09-09,Alexander,North Carolina,37003.0,457,3.0
+518840,2020-09-10,Alexander,Illinois,17003.0,52,1.0
+520139,2020-09-10,Alexander,North Carolina,37003.0,460,3.0
+522077,2020-09-11,Alexander,Illinois,17003.0,56,1.0
+523375,2020-09-11,Alexander,North Carolina,37003.0,464,3.0
+525313,2020-09-12,Alexander,Illinois,17003.0,57,1.0
+526611,2020-09-12,Alexander,North Carolina,37003.0,471,3.0
+528549,2020-09-13,Alexander,Illinois,17003.0,60,1.0
+529848,2020-09-13,Alexander,North Carolina,37003.0,472,3.0
+531786,2020-09-14,Alexander,Illinois,17003.0,61,1.0
+533083,2020-09-14,Alexander,North Carolina,37003.0,473,3.0
+535021,2020-09-15,Alexander,Illinois,17003.0,61,1.0
+536319,2020-09-15,Alexander,North Carolina,37003.0,471,3.0
+538257,2020-09-16,Alexander,Illinois,17003.0,62,1.0
+539556,2020-09-16,Alexander,North Carolina,37003.0,475,3.0
+541494,2020-09-17,Alexander,Illinois,17003.0,64,1.0
+542792,2020-09-17,Alexander,North Carolina,37003.0,475,4.0
+544730,2020-09-18,Alexander,Illinois,17003.0,65,1.0
+546029,2020-09-18,Alexander,North Carolina,37003.0,479,4.0
+547968,2020-09-19,Alexander,Illinois,17003.0,69,1.0
+549268,2020-09-19,Alexander,North Carolina,37003.0,483,5.0
+551207,2020-09-20,Alexander,Illinois,17003.0,71,1.0
+552507,2020-09-20,Alexander,North Carolina,37003.0,485,5.0
+554446,2020-09-21,Alexander,Illinois,17003.0,71,1.0
+555744,2020-09-21,Alexander,North Carolina,37003.0,488,5.0
+557683,2020-09-22,Alexander,Illinois,17003.0,73,1.0
+558981,2020-09-22,Alexander,North Carolina,37003.0,491,6.0
+560919,2020-09-23,Alexander,Illinois,17003.0,73,1.0
+562218,2020-09-23,Alexander,North Carolina,37003.0,495,6.0
+564159,2020-09-24,Alexander,Illinois,17003.0,74,1.0
+565459,2020-09-24,Alexander,North Carolina,37003.0,504,7.0
+567399,2020-09-25,Alexander,Illinois,17003.0,76,1.0
+568700,2020-09-25,Alexander,North Carolina,37003.0,516,7.0
+570641,2020-09-26,Alexander,Illinois,17003.0,80,1.0
+571942,2020-09-26,Alexander,North Carolina,37003.0,522,7.0
+573884,2020-09-27,Alexander,Illinois,17003.0,81,1.0
+575186,2020-09-27,Alexander,North Carolina,37003.0,526,7.0
+577126,2020-09-28,Alexander,Illinois,17003.0,83,1.0
+578427,2020-09-28,Alexander,North Carolina,37003.0,528,7.0
+580367,2020-09-29,Alexander,Illinois,17003.0,84,1.0
+581667,2020-09-29,Alexander,North Carolina,37003.0,528,7.0
+583606,2020-09-30,Alexander,Illinois,17003.0,85,1.0
+584908,2020-09-30,Alexander,North Carolina,37003.0,534,7.0
+586846,2020-10-01,Alexander,Illinois,17003.0,87,1.0
+588148,2020-10-01,Alexander,North Carolina,37003.0,541,7.0
+590087,2020-10-02,Alexander,Illinois,17003.0,87,1.0
+591389,2020-10-02,Alexander,North Carolina,37003.0,543,7.0
+593328,2020-10-03,Alexander,Illinois,17003.0,88,1.0
+594630,2020-10-03,Alexander,North Carolina,37003.0,555,8.0
+596570,2020-10-04,Alexander,Illinois,17003.0,90,1.0
+597873,2020-10-04,Alexander,North Carolina,37003.0,555,8.0
+599812,2020-10-05,Alexander,Illinois,17003.0,91,1.0
+601116,2020-10-05,Alexander,North Carolina,37003.0,557,8.0
+603055,2020-10-06,Alexander,Illinois,17003.0,94,1.0
+604358,2020-10-06,Alexander,North Carolina,37003.0,559,8.0
+606297,2020-10-07,Alexander,Illinois,17003.0,97,1.0
+607601,2020-10-07,Alexander,North Carolina,37003.0,571,8.0
+609540,2020-10-08,Alexander,Illinois,17003.0,98,1.0
+610843,2020-10-08,Alexander,North Carolina,37003.0,575,8.0
+612782,2020-10-09,Alexander,Illinois,17003.0,99,1.0
+614084,2020-10-09,Alexander,North Carolina,37003.0,580,8.0
+616023,2020-10-10,Alexander,Illinois,17003.0,100,1.0
+617326,2020-10-10,Alexander,North Carolina,37003.0,585,8.0
+619265,2020-10-11,Alexander,Illinois,17003.0,100,1.0
+620568,2020-10-11,Alexander,North Carolina,37003.0,589,8.0
+622509,2020-10-12,Alexander,Illinois,17003.0,101,1.0
+623811,2020-10-12,Alexander,North Carolina,37003.0,593,8.0
+625751,2020-10-13,Alexander,Illinois,17003.0,101,1.0
+627053,2020-10-13,Alexander,North Carolina,37003.0,608,8.0
+628994,2020-10-14,Alexander,Illinois,17003.0,102,1.0
+630297,2020-10-14,Alexander,North Carolina,37003.0,623,8.0
+632238,2020-10-15,Alexander,Illinois,17003.0,105,1.0
+633542,2020-10-15,Alexander,North Carolina,37003.0,636,9.0
+635484,2020-10-16,Alexander,Illinois,17003.0,105,1.0
+636788,2020-10-16,Alexander,North Carolina,37003.0,653,9.0
+638730,2020-10-17,Alexander,Illinois,17003.0,105,1.0
+640034,2020-10-17,Alexander,North Carolina,37003.0,671,9.0
+641977,2020-10-18,Alexander,Illinois,17003.0,107,1.0
+643282,2020-10-18,Alexander,North Carolina,37003.0,698,9.0
+645224,2020-10-19,Alexander,Illinois,17003.0,108,1.0
+646528,2020-10-19,Alexander,North Carolina,37003.0,706,9.0
+648469,2020-10-20,Alexander,Illinois,17003.0,109,1.0
+649772,2020-10-20,Alexander,North Carolina,37003.0,730,9.0
+651713,2020-10-21,Alexander,Illinois,17003.0,110,1.0
+653017,2020-10-21,Alexander,North Carolina,37003.0,741,9.0
+654958,2020-10-22,Alexander,Illinois,17003.0,113,1.0
+656262,2020-10-22,Alexander,North Carolina,37003.0,751,9.0
+658203,2020-10-23,Alexander,Illinois,17003.0,117,1.0
+659506,2020-10-23,Alexander,North Carolina,37003.0,771,9.0
+661447,2020-10-24,Alexander,Illinois,17003.0,120,1.0
+662750,2020-10-24,Alexander,North Carolina,37003.0,817,9.0
+664692,2020-10-25,Alexander,Illinois,17003.0,120,1.0
+665995,2020-10-25,Alexander,North Carolina,37003.0,823,9.0
+667936,2020-10-26,Alexander,Illinois,17003.0,124,1.0
+669239,2020-10-26,Alexander,North Carolina,37003.0,830,9.0
+671179,2020-10-27,Alexander,Illinois,17003.0,132,1.0
+672481,2020-10-27,Alexander,North Carolina,37003.0,851,9.0
+674421,2020-10-28,Alexander,Illinois,17003.0,136,1.0
+675724,2020-10-28,Alexander,North Carolina,37003.0,865,9.0
+677664,2020-10-29,Alexander,Illinois,17003.0,145,1.0
+678967,2020-10-29,Alexander,North Carolina,37003.0,882,10.0
+680907,2020-10-30,Alexander,Illinois,17003.0,147,1.0
+682210,2020-10-30,Alexander,North Carolina,37003.0,943,10.0
+684150,2020-10-31,Alexander,Illinois,17003.0,147,1.0
+685453,2020-10-31,Alexander,North Carolina,37003.0,963,10.0
+687394,2020-11-01,Alexander,Illinois,17003.0,154,2.0
+688698,2020-11-01,Alexander,North Carolina,37003.0,975,10.0
+690639,2020-11-02,Alexander,Illinois,17003.0,154,2.0
+691942,2020-11-02,Alexander,North Carolina,37003.0,980,10.0
+693882,2020-11-03,Alexander,Illinois,17003.0,156,2.0
+695184,2020-11-03,Alexander,North Carolina,37003.0,1009,10.0
+697124,2020-11-04,Alexander,Illinois,17003.0,157,2.0
+698427,2020-11-04,Alexander,North Carolina,37003.0,1024,10.0
+700368,2020-11-05,Alexander,Illinois,17003.0,160,2.0
+701671,2020-11-05,Alexander,North Carolina,37003.0,1038,12.0
+703611,2020-11-06,Alexander,Illinois,17003.0,170,2.0
+704914,2020-11-06,Alexander,North Carolina,37003.0,1084,12.0
+706854,2020-11-07,Alexander,Illinois,17003.0,178,2.0
+708157,2020-11-07,Alexander,North Carolina,37003.0,1120,12.0
+710098,2020-11-08,Alexander,Illinois,17003.0,182,2.0
+711401,2020-11-08,Alexander,North Carolina,37003.0,1150,12.0
+713342,2020-11-09,Alexander,Illinois,17003.0,182,2.0
+714645,2020-11-09,Alexander,North Carolina,37003.0,1170,12.0
+716586,2020-11-10,Alexander,Illinois,17003.0,185,2.0
+717888,2020-11-10,Alexander,North Carolina,37003.0,1195,12.0
+719829,2020-11-11,Alexander,Illinois,17003.0,191,2.0
+721131,2020-11-11,Alexander,North Carolina,37003.0,1209,12.0
+723072,2020-11-12,Alexander,Illinois,17003.0,196,2.0
+724374,2020-11-12,Alexander,North Carolina,37003.0,1217,12.0
+726315,2020-11-13,Alexander,Illinois,17003.0,202,2.0
+727618,2020-11-13,Alexander,North Carolina,37003.0,1231,12.0
+729558,2020-11-14,Alexander,Illinois,17003.0,209,2.0
+730862,2020-11-14,Alexander,North Carolina,37003.0,1262,12.0
+732803,2020-11-15,Alexander,Illinois,17003.0,213,2.0
+734108,2020-11-15,Alexander,North Carolina,37003.0,1280,13.0
+736049,2020-11-16,Alexander,Illinois,17003.0,217,2.0
+737352,2020-11-16,Alexander,North Carolina,37003.0,1315,13.0
+739293,2020-11-17,Alexander,Illinois,17003.0,220,2.0
+740597,2020-11-17,Alexander,North Carolina,37003.0,1337,13.0
+742540,2020-11-18,Alexander,Illinois,17003.0,222,2.0
+743844,2020-11-18,Alexander,North Carolina,37003.0,1359,13.0
+745787,2020-11-19,Alexander,Illinois,17003.0,226,2.0
+747090,2020-11-19,Alexander,North Carolina,37003.0,1373,13.0
+749033,2020-11-20,Alexander,Illinois,17003.0,233,2.0
+750336,2020-11-20,Alexander,North Carolina,37003.0,1396,13.0
+752279,2020-11-21,Alexander,Illinois,17003.0,241,2.0
+753582,2020-11-21,Alexander,North Carolina,37003.0,1430,13.0
+755525,2020-11-22,Alexander,Illinois,17003.0,242,2.0
+756829,2020-11-22,Alexander,North Carolina,37003.0,1455,13.0
+758772,2020-11-23,Alexander,Illinois,17003.0,244,2.0
+760075,2020-11-23,Alexander,North Carolina,37003.0,1478,15.0
+762017,2020-11-24,Alexander,Illinois,17003.0,248,2.0
+763320,2020-11-24,Alexander,North Carolina,37003.0,1498,15.0
+765262,2020-11-25,Alexander,Illinois,17003.0,248,2.0
+766565,2020-11-25,Alexander,North Carolina,37003.0,1537,15.0
+768508,2020-11-26,Alexander,Illinois,17003.0,252,2.0
+769811,2020-11-26,Alexander,North Carolina,37003.0,1537,15.0
+771753,2020-11-27,Alexander,Illinois,17003.0,252,2.0
+773056,2020-11-27,Alexander,North Carolina,37003.0,1579,17.0
+774998,2020-11-28,Alexander,Illinois,17003.0,253,2.0
+776301,2020-11-28,Alexander,North Carolina,37003.0,1602,17.0
+778243,2020-11-29,Alexander,Illinois,17003.0,256,2.0
+779546,2020-11-29,Alexander,North Carolina,37003.0,1641,17.0
+781489,2020-11-30,Alexander,Illinois,17003.0,261,2.0
+782792,2020-11-30,Alexander,North Carolina,37003.0,1653,17.0
+784734,2020-12-01,Alexander,Illinois,17003.0,265,2.0
+786036,2020-12-01,Alexander,North Carolina,37003.0,1663,17.0
+787978,2020-12-02,Alexander,Illinois,17003.0,266,4.0
+789281,2020-12-02,Alexander,North Carolina,37003.0,1679,17.0
+791223,2020-12-03,Alexander,Illinois,17003.0,268,4.0
+792526,2020-12-03,Alexander,North Carolina,37003.0,1700,18.0
+794468,2020-12-04,Alexander,Illinois,17003.0,270,4.0
+795771,2020-12-04,Alexander,North Carolina,37003.0,1731,18.0
+797713,2020-12-05,Alexander,Illinois,17003.0,271,4.0
+799016,2020-12-05,Alexander,North Carolina,37003.0,1754,18.0
+800958,2020-12-06,Alexander,Illinois,17003.0,276,4.0
+802261,2020-12-06,Alexander,North Carolina,37003.0,1813,18.0
+804203,2020-12-07,Alexander,Illinois,17003.0,276,4.0
+805506,2020-12-07,Alexander,North Carolina,37003.0,1853,18.0
+807448,2020-12-08,Alexander,Illinois,17003.0,280,4.0
+808751,2020-12-08,Alexander,North Carolina,37003.0,1886,18.0
+810693,2020-12-09,Alexander,Illinois,17003.0,284,4.0
+811996,2020-12-09,Alexander,North Carolina,37003.0,1923,19.0
+813938,2020-12-10,Alexander,Illinois,17003.0,291,5.0
+815241,2020-12-10,Alexander,North Carolina,37003.0,1940,19.0
+817184,2020-12-11,Alexander,Illinois,17003.0,299,5.0
+818487,2020-12-11,Alexander,North Carolina,37003.0,1974,19.0
+820430,2020-12-12,Alexander,Illinois,17003.0,304,5.0
+821733,2020-12-12,Alexander,North Carolina,37003.0,2009,19.0
+823676,2020-12-13,Alexander,Illinois,17003.0,306,5.0
+824980,2020-12-13,Alexander,North Carolina,37003.0,2044,21.0
+826923,2020-12-14,Alexander,Illinois,17003.0,308,5.0
+828226,2020-12-14,Alexander,North Carolina,37003.0,2067,21.0
+830169,2020-12-15,Alexander,Illinois,17003.0,310,5.0
+831473,2020-12-15,Alexander,North Carolina,37003.0,2099,21.0
+833416,2020-12-16,Alexander,Illinois,17003.0,313,5.0
+834719,2020-12-16,Alexander,North Carolina,37003.0,2109,21.0
+836662,2020-12-17,Alexander,Illinois,17003.0,318,5.0
+837965,2020-12-17,Alexander,North Carolina,37003.0,2133,21.0
+839907,2020-12-18,Alexander,Illinois,17003.0,319,5.0
+841210,2020-12-18,Alexander,North Carolina,37003.0,2174,22.0
+843152,2020-12-19,Alexander,Illinois,17003.0,323,5.0
+844456,2020-12-19,Alexander,North Carolina,37003.0,2226,26.0
+846398,2020-12-20,Alexander,Illinois,17003.0,322,5.0
+847701,2020-12-20,Alexander,North Carolina,37003.0,2273,26.0
+849643,2020-12-21,Alexander,Illinois,17003.0,323,5.0
+850946,2020-12-21,Alexander,North Carolina,37003.0,2299,26.0
+852888,2020-12-22,Alexander,Illinois,17003.0,323,5.0
+854191,2020-12-22,Alexander,North Carolina,37003.0,2357,26.0
+856133,2020-12-23,Alexander,Illinois,17003.0,328,6.0
+857436,2020-12-23,Alexander,North Carolina,37003.0,2393,29.0
+859378,2020-12-24,Alexander,Illinois,17003.0,331,6.0
+860681,2020-12-24,Alexander,North Carolina,37003.0,2393,29.0
+862623,2020-12-25,Alexander,Illinois,17003.0,333,6.0
+863926,2020-12-25,Alexander,North Carolina,37003.0,2393,29.0
+865868,2020-12-26,Alexander,Illinois,17003.0,334,7.0
+867171,2020-12-26,Alexander,North Carolina,37003.0,2505,29.0
+869113,2020-12-27,Alexander,Illinois,17003.0,335,7.0
+870416,2020-12-27,Alexander,North Carolina,37003.0,2512,29.0
+872358,2020-12-28,Alexander,Illinois,17003.0,335,7.0
+873661,2020-12-28,Alexander,North Carolina,37003.0,2526,29.0
+875603,2020-12-29,Alexander,Illinois,17003.0,336,7.0
+876906,2020-12-29,Alexander,North Carolina,37003.0,2564,30.0
+878848,2020-12-30,Alexander,Illinois,17003.0,339,7.0
+880151,2020-12-30,Alexander,North Carolina,37003.0,2642,30.0
+882093,2020-12-31,Alexander,Illinois,17003.0,341,7.0
+883396,2020-12-31,Alexander,North Carolina,37003.0,2662,30.0
+885338,2021-01-01,Alexander,Illinois,17003.0,341,7.0
+886641,2021-01-01,Alexander,North Carolina,37003.0,2662,30.0
+888583,2021-01-02,Alexander,Illinois,17003.0,344,7.0
+889888,2021-01-02,Alexander,North Carolina,37003.0,2755,30.0
+891830,2021-01-03,Alexander,Illinois,17003.0,346,7.0
+893134,2021-01-03,Alexander,North Carolina,37003.0,2806,30.0
+895077,2021-01-04,Alexander,Illinois,17003.0,347,7.0
+896380,2021-01-04,Alexander,North Carolina,37003.0,2827,31.0
+898322,2021-01-05,Alexander,Illinois,17003.0,349,7.0
+899625,2021-01-05,Alexander,North Carolina,37003.0,2839,31.0
+901567,2021-01-06,Alexander,Illinois,17003.0,357,7.0
+902870,2021-01-06,Alexander,North Carolina,37003.0,2843,31.0
+904812,2021-01-07,Alexander,Illinois,17003.0,360,7.0
+906116,2021-01-07,Alexander,North Carolina,37003.0,2846,31.0
+908058,2021-01-08,Alexander,Illinois,17003.0,360,7.0
+909361,2021-01-08,Alexander,North Carolina,37003.0,2889,31.0
+911303,2021-01-09,Alexander,Illinois,17003.0,364,7.0
+912606,2021-01-09,Alexander,North Carolina,37003.0,2926,31.0
+914548,2021-01-10,Alexander,Illinois,17003.0,365,7.0
+915851,2021-01-10,Alexander,North Carolina,37003.0,3058,38.0
+917793,2021-01-11,Alexander,Illinois,17003.0,365,7.0
+919096,2021-01-11,Alexander,North Carolina,37003.0,3071,38.0
+921038,2021-01-12,Alexander,Illinois,17003.0,370,7.0
+922341,2021-01-12,Alexander,North Carolina,37003.0,3094,38.0
+924283,2021-01-13,Alexander,Illinois,17003.0,373,7.0
+925587,2021-01-13,Alexander,North Carolina,37003.0,3112,40.0
+927529,2021-01-14,Alexander,Illinois,17003.0,376,7.0
+928832,2021-01-14,Alexander,North Carolina,37003.0,3154,40.0
+930774,2021-01-15,Alexander,Illinois,17003.0,380,7.0
+932077,2021-01-15,Alexander,North Carolina,37003.0,3200,42.0
+934019,2021-01-16,Alexander,Illinois,17003.0,384,7.0
+935322,2021-01-16,Alexander,North Carolina,37003.0,3235,42.0
+937264,2021-01-17,Alexander,Illinois,17003.0,388,7.0
+938567,2021-01-17,Alexander,North Carolina,37003.0,3273,42.0
+940509,2021-01-18,Alexander,Illinois,17003.0,389,7.0
+941812,2021-01-18,Alexander,North Carolina,37003.0,3273,42.0
+943754,2021-01-19,Alexander,Illinois,17003.0,389,7.0
+945058,2021-01-19,Alexander,North Carolina,37003.0,3296,42.0
+947001,2021-01-20,Alexander,Illinois,17003.0,393,7.0
+948305,2021-01-20,Alexander,North Carolina,37003.0,3310,42.0
+950247,2021-01-21,Alexander,Illinois,17003.0,395,7.0
+951550,2021-01-21,Alexander,North Carolina,37003.0,3316,42.0
+953492,2021-01-22,Alexander,Illinois,17003.0,404,7.0
+954795,2021-01-22,Alexander,North Carolina,37003.0,3334,54.0
+956737,2021-01-23,Alexander,Illinois,17003.0,404,7.0
+958041,2021-01-23,Alexander,North Carolina,37003.0,3350,54.0
+959983,2021-01-24,Alexander,Illinois,17003.0,404,7.0
+961286,2021-01-24,Alexander,North Carolina,37003.0,3369,54.0
+963228,2021-01-25,Alexander,Illinois,17003.0,406,7.0
+964531,2021-01-25,Alexander,North Carolina,37003.0,3383,54.0
+966473,2021-01-26,Alexander,Illinois,17003.0,407,8.0
+967775,2021-01-26,Alexander,North Carolina,37003.0,3398,57.0
+969717,2021-01-27,Alexander,Illinois,17003.0,409,8.0
+971020,2021-01-27,Alexander,North Carolina,37003.0,3433,58.0
+972962,2021-01-28,Alexander,Illinois,17003.0,412,8.0
+974265,2021-01-28,Alexander,North Carolina,37003.0,3455,59.0
+976207,2021-01-29,Alexander,Illinois,17003.0,412,8.0
+977510,2021-01-29,Alexander,North Carolina,37003.0,3473,59.0
+979452,2021-01-30,Alexander,Illinois,17003.0,413,8.0
+980756,2021-01-30,Alexander,North Carolina,37003.0,3473,59.0
+982698,2021-01-31,Alexander,Illinois,17003.0,415,8.0
+984003,2021-01-31,Alexander,North Carolina,37003.0,3503,59.0
+985945,2021-02-01,Alexander,Illinois,17003.0,416,8.0
+987250,2021-02-01,Alexander,North Carolina,37003.0,3514,59.0
+989192,2021-02-02,Alexander,Illinois,17003.0,418,8.0
+990496,2021-02-02,Alexander,North Carolina,37003.0,3522,59.0
+992438,2021-02-03,Alexander,Illinois,17003.0,418,8.0
+993742,2021-02-03,Alexander,North Carolina,37003.0,3589,59.0
+995684,2021-02-04,Alexander,Illinois,17003.0,422,8.0
+996988,2021-02-04,Alexander,North Carolina,37003.0,3603,59.0
+998930,2021-02-05,Alexander,Illinois,17003.0,426,8.0
+1000234,2021-02-05,Alexander,North Carolina,37003.0,3608,59.0
+1002176,2021-02-06,Alexander,Illinois,17003.0,426,8.0
+1003480,2021-02-06,Alexander,North Carolina,37003.0,3624,59.0
+1005422,2021-02-07,Alexander,Illinois,17003.0,426,8.0
+1006726,2021-02-07,Alexander,North Carolina,37003.0,3641,59.0
+1008668,2021-02-08,Alexander,Illinois,17003.0,426,8.0
+1009972,2021-02-08,Alexander,North Carolina,37003.0,3650,59.0
+1011914,2021-02-09,Alexander,Illinois,17003.0,431,8.0
+1013217,2021-02-09,Alexander,North Carolina,37003.0,3685,66.0
+1015159,2021-02-10,Alexander,Illinois,17003.0,432,8.0
+1016462,2021-02-10,Alexander,North Carolina,37003.0,3704,66.0
+1018404,2021-02-11,Alexander,Illinois,17003.0,434,8.0
+1019707,2021-02-11,Alexander,North Carolina,37003.0,3717,71.0
+1021649,2021-02-12,Alexander,Illinois,17003.0,435,8.0
+1022952,2021-02-12,Alexander,North Carolina,37003.0,3730,71.0
+1024894,2021-02-13,Alexander,Illinois,17003.0,435,8.0
+1026197,2021-02-13,Alexander,North Carolina,37003.0,3746,71.0
+1028139,2021-02-14,Alexander,Illinois,17003.0,435,8.0
+1029444,2021-02-14,Alexander,North Carolina,37003.0,3756,71.0
+1031386,2021-02-15,Alexander,Illinois,17003.0,436,8.0
+1032690,2021-02-15,Alexander,North Carolina,37003.0,3767,71.0
+1034632,2021-02-16,Alexander,Illinois,17003.0,438,8.0
+1035935,2021-02-16,Alexander,North Carolina,37003.0,3781,71.0
+1037877,2021-02-17,Alexander,Illinois,17003.0,439,8.0
+1039180,2021-02-17,Alexander,North Carolina,37003.0,3807,71.0
+1041122,2021-02-18,Alexander,Illinois,17003.0,440,8.0
+1042425,2021-02-18,Alexander,North Carolina,37003.0,3820,72.0
+1044367,2021-02-19,Alexander,Illinois,17003.0,442,8.0
+1045670,2021-02-19,Alexander,North Carolina,37003.0,3825,72.0
+1047612,2021-02-20,Alexander,Illinois,17003.0,442,8.0
+1048917,2021-02-20,Alexander,North Carolina,37003.0,3832,72.0
+1050859,2021-02-21,Alexander,Illinois,17003.0,442,8.0
+1052164,2021-02-21,Alexander,North Carolina,37003.0,3839,72.0
+1054106,2021-02-22,Alexander,Illinois,17003.0,442,8.0
+1055410,2021-02-22,Alexander,North Carolina,37003.0,3856,72.0
+1057352,2021-02-23,Alexander,Illinois,17003.0,442,8.0
+1058656,2021-02-23,Alexander,North Carolina,37003.0,3860,72.0
+1060598,2021-02-24,Alexander,Illinois,17003.0,444,8.0
+1061902,2021-02-24,Alexander,North Carolina,37003.0,3876,73.0
+1063843,2021-02-25,Alexander,Illinois,17003.0,447,8.0
+1065146,2021-02-25,Alexander,North Carolina,37003.0,3883,74.0
+1067088,2021-02-26,Alexander,Illinois,17003.0,447,8.0
+1068391,2021-02-26,Alexander,North Carolina,37003.0,3895,74.0
+1070333,2021-02-27,Alexander,Illinois,17003.0,447,8.0
+1071637,2021-02-27,Alexander,North Carolina,37003.0,3901,74.0
+1073579,2021-02-28,Alexander,Illinois,17003.0,448,8.0
+1074883,2021-02-28,Alexander,North Carolina,37003.0,3901,74.0
+1076825,2021-03-01,Alexander,Illinois,17003.0,448,8.0
+1078128,2021-03-01,Alexander,North Carolina,37003.0,3918,74.0
+1080070,2021-03-02,Alexander,Illinois,17003.0,450,9.0
+1081374,2021-03-02,Alexander,North Carolina,37003.0,3919,74.0
+1083316,2021-03-03,Alexander,Illinois,17003.0,451,9.0
+1084620,2021-03-03,Alexander,North Carolina,37003.0,3932,76.0
+1086562,2021-03-04,Alexander,Illinois,17003.0,452,9.0
+1087865,2021-03-04,Alexander,North Carolina,37003.0,3943,76.0
+1089807,2021-03-05,Alexander,Illinois,17003.0,453,9.0
+1091110,2021-03-05,Alexander,North Carolina,37003.0,3947,76.0
+1093053,2021-03-06,Alexander,Illinois,17003.0,453,9.0
+1094356,2021-03-06,Alexander,North Carolina,37003.0,3951,76.0
+1096299,2021-03-07,Alexander,Illinois,17003.0,453,9.0
+1097604,2021-03-07,Alexander,North Carolina,37003.0,3951,76.0
+1099547,2021-03-08,Alexander,Illinois,17003.0,453,9.0
+1100850,2021-03-08,Alexander,North Carolina,37003.0,3957,76.0
+1102793,2021-03-09,Alexander,Illinois,17003.0,453,9.0
+1104096,2021-03-09,Alexander,North Carolina,37003.0,3963,76.0
+1106039,2021-03-10,Alexander,Illinois,17003.0,453,9.0
+1107342,2021-03-10,Alexander,North Carolina,37003.0,3969,76.0
+1109285,2021-03-11,Alexander,Illinois,17003.0,453,10.0
+1110588,2021-03-11,Alexander,North Carolina,37003.0,3999,77.0
+1112531,2021-03-12,Alexander,Illinois,17003.0,453,10.0
+1113834,2021-03-12,Alexander,North Carolina,37003.0,4002,82.0
+1115777,2021-03-13,Alexander,Illinois,17003.0,453,10.0
+1117081,2021-03-13,Alexander,North Carolina,37003.0,4004,82.0
+1119024,2021-03-14,Alexander,Illinois,17003.0,453,10.0
+1120328,2021-03-14,Alexander,North Carolina,37003.0,4004,82.0
+1122271,2021-03-15,Alexander,Illinois,17003.0,453,10.0
+1123574,2021-03-15,Alexander,North Carolina,37003.0,4013,82.0
+1125517,2021-03-16,Alexander,Illinois,17003.0,453,10.0
+1126820,2021-03-16,Alexander,North Carolina,37003.0,4014,82.0
+1128763,2021-03-17,Alexander,Illinois,17003.0,453,10.0
+1130067,2021-03-17,Alexander,North Carolina,37003.0,4014,82.0
+1132011,2021-03-18,Alexander,Illinois,17003.0,453,10.0
+1133315,2021-03-18,Alexander,North Carolina,37003.0,4020,82.0
+1135258,2021-03-19,Alexander,Illinois,17003.0,453,10.0
+1136561,2021-03-19,Alexander,North Carolina,37003.0,4025,82.0
+1138504,2021-03-20,Alexander,Illinois,17003.0,453,10.0
+1139807,2021-03-20,Alexander,North Carolina,37003.0,4031,82.0
+1141750,2021-03-21,Alexander,Illinois,17003.0,453,10.0
+1143054,2021-03-21,Alexander,North Carolina,37003.0,4031,82.0
+1144997,2021-03-22,Alexander,Illinois,17003.0,453,10.0
+1146301,2021-03-22,Alexander,North Carolina,37003.0,4039,82.0
+1148244,2021-03-23,Alexander,Illinois,17003.0,453,10.0
+1149548,2021-03-23,Alexander,North Carolina,37003.0,4043,82.0
+1151491,2021-03-24,Alexander,Illinois,17003.0,454,10.0
+1152795,2021-03-24,Alexander,North Carolina,37003.0,4050,82.0
+1154738,2021-03-25,Alexander,Illinois,17003.0,454,10.0
+1156042,2021-03-25,Alexander,North Carolina,37003.0,4075,82.0
+1157985,2021-03-26,Alexander,Illinois,17003.0,456,10.0
+1159289,2021-03-26,Alexander,North Carolina,37003.0,4080,82.0
+1161233,2021-03-27,Alexander,Illinois,17003.0,456,10.0
+1162538,2021-03-27,Alexander,North Carolina,37003.0,4080,82.0
+1164481,2021-03-28,Alexander,Illinois,17003.0,456,10.0
+1165786,2021-03-28,Alexander,North Carolina,37003.0,4080,82.0
+1167729,2021-03-29,Alexander,Illinois,17003.0,456,10.0
+1169034,2021-03-29,Alexander,North Carolina,37003.0,4137,82.0
+1170977,2021-03-30,Alexander,Illinois,17003.0,456,10.0
+1172281,2021-03-30,Alexander,North Carolina,37003.0,4139,82.0
+1174224,2021-03-31,Alexander,Illinois,17003.0,456,10.0
+1175528,2021-03-31,Alexander,North Carolina,37003.0,4145,82.0
+1177471,2021-04-01,Alexander,Illinois,17003.0,457,10.0
+1178775,2021-04-01,Alexander,North Carolina,37003.0,4165,82.0
+1180718,2021-04-02,Alexander,Illinois,17003.0,460,10.0
+1182022,2021-04-02,Alexander,North Carolina,37003.0,4165,82.0
+1183965,2021-04-03,Alexander,Illinois,17003.0,460,10.0
+1185269,2021-04-03,Alexander,North Carolina,37003.0,4165,82.0
+1187212,2021-04-04,Alexander,Illinois,17003.0,460,10.0
+1188516,2021-04-04,Alexander,North Carolina,37003.0,4165,82.0
+1190459,2021-04-05,Alexander,Illinois,17003.0,460,10.0
+1191765,2021-04-05,Alexander,North Carolina,37003.0,4185,82.0
+1193709,2021-04-06,Alexander,Illinois,17003.0,460,10.0
+1195013,2021-04-06,Alexander,North Carolina,37003.0,4188,82.0
+1196957,2021-04-07,Alexander,Illinois,17003.0,460,10.0
+1198262,2021-04-07,Alexander,North Carolina,37003.0,4189,82.0
+1200206,2021-04-08,Alexander,Illinois,17003.0,462,10.0
+1201511,2021-04-08,Alexander,North Carolina,37003.0,4208,82.0
+1203454,2021-04-09,Alexander,Illinois,17003.0,462,10.0
+1204759,2021-04-09,Alexander,North Carolina,37003.0,4215,82.0
+1206702,2021-04-10,Alexander,Illinois,17003.0,462,10.0
+1208007,2021-04-10,Alexander,North Carolina,37003.0,4215,82.0
+1209951,2021-04-11,Alexander,Illinois,17003.0,462,10.0
+1211256,2021-04-11,Alexander,North Carolina,37003.0,4215,82.0
+1213199,2021-04-12,Alexander,Illinois,17003.0,462,10.0
+1214503,2021-04-12,Alexander,North Carolina,37003.0,4245,83.0
+1216446,2021-04-13,Alexander,Illinois,17003.0,462,10.0
+1217751,2021-04-13,Alexander,North Carolina,37003.0,4246,83.0
+1219694,2021-04-14,Alexander,Illinois,17003.0,462,10.0
+1220999,2021-04-14,Alexander,North Carolina,37003.0,4255,83.0
+1222942,2021-04-15,Alexander,Illinois,17003.0,462,10.0
+1224246,2021-04-15,Alexander,North Carolina,37003.0,4260,83.0
+1226189,2021-04-16,Alexander,Illinois,17003.0,462,10.0
+1227494,2021-04-16,Alexander,North Carolina,37003.0,4265,83.0
+1229437,2021-04-17,Alexander,Illinois,17003.0,462,11.0
+1230742,2021-04-17,Alexander,North Carolina,37003.0,4265,83.0
+1232686,2021-04-18,Alexander,Illinois,17003.0,462,11.0
+1233990,2021-04-18,Alexander,North Carolina,37003.0,4265,83.0
+1235933,2021-04-19,Alexander,Illinois,17003.0,462,11.0
+1237237,2021-04-19,Alexander,North Carolina,37003.0,4293,83.0
+1239180,2021-04-20,Alexander,Illinois,17003.0,462,11.0
+1240484,2021-04-20,Alexander,North Carolina,37003.0,4296,83.0
+1242427,2021-04-21,Alexander,Illinois,17003.0,462,11.0
+1243731,2021-04-21,Alexander,North Carolina,37003.0,4297,83.0
+1245674,2021-04-22,Alexander,Illinois,17003.0,462,11.0
+1246978,2021-04-22,Alexander,North Carolina,37003.0,4303,83.0
+1248921,2021-04-23,Alexander,Illinois,17003.0,463,11.0
+1250225,2021-04-23,Alexander,North Carolina,37003.0,4309,83.0
+1252168,2021-04-24,Alexander,Illinois,17003.0,463,11.0
+1253472,2021-04-24,Alexander,North Carolina,37003.0,4309,83.0
+1255415,2021-04-25,Alexander,Illinois,17003.0,463,11.0
+1256719,2021-04-25,Alexander,North Carolina,37003.0,4309,83.0
+1258662,2021-04-26,Alexander,Illinois,17003.0,463,11.0
+1259966,2021-04-26,Alexander,North Carolina,37003.0,4319,83.0
+1261909,2021-04-27,Alexander,Illinois,17003.0,463,11.0
+1263213,2021-04-27,Alexander,North Carolina,37003.0,4322,83.0
+1265156,2021-04-28,Alexander,Illinois,17003.0,463,11.0
+1266460,2021-04-28,Alexander,North Carolina,37003.0,4323,83.0
+1268403,2021-04-29,Alexander,Illinois,17003.0,463,11.0
+1269707,2021-04-29,Alexander,North Carolina,37003.0,4327,83.0
+1271650,2021-04-30,Alexander,Illinois,17003.0,464,11.0
+1272954,2021-04-30,Alexander,North Carolina,37003.0,4351,83.0
+1274897,2021-05-01,Alexander,Illinois,17003.0,464,11.0
+1276201,2021-05-01,Alexander,North Carolina,37003.0,4351,83.0
+1278144,2021-05-02,Alexander,Illinois,17003.0,465,11.0
+1279448,2021-05-02,Alexander,North Carolina,37003.0,4351,83.0
+1281391,2021-05-03,Alexander,Illinois,17003.0,465,11.0
+1282695,2021-05-03,Alexander,North Carolina,37003.0,4360,84.0
+1284638,2021-05-04,Alexander,Illinois,17003.0,465,11.0
+1285941,2021-05-04,Alexander,North Carolina,37003.0,4363,84.0
+1287884,2021-05-05,Alexander,Illinois,17003.0,465,11.0
+1289187,2021-05-05,Alexander,North Carolina,37003.0,4365,84.0
+1291130,2021-05-06,Alexander,Illinois,17003.0,465,11.0
+1292433,2021-05-06,Alexander,North Carolina,37003.0,4373,84.0
+1294376,2021-05-07,Alexander,Illinois,17003.0,466,11.0
+1295679,2021-05-07,Alexander,North Carolina,37003.0,4375,84.0
+1297622,2021-05-08,Alexander,Illinois,17003.0,467,11.0
+1298925,2021-05-08,Alexander,North Carolina,37003.0,4375,84.0
+1300869,2021-05-09,Alexander,Illinois,17003.0,467,11.0
+1302173,2021-05-09,Alexander,North Carolina,37003.0,4375,84.0
+1304116,2021-05-10,Alexander,Illinois,17003.0,467,11.0
+1305419,2021-05-10,Alexander,North Carolina,37003.0,4385,84.0
+1307362,2021-05-11,Alexander,Illinois,17003.0,467,11.0
+1308665,2021-05-11,Alexander,North Carolina,37003.0,4387,84.0
+1310608,2021-05-12,Alexander,Illinois,17003.0,468,11.0
+1311912,2021-05-12,Alexander,North Carolina,37003.0,4391,84.0
+1313855,2021-05-13,Alexander,Illinois,17003.0,468,11.0
+1315158,2021-05-13,Alexander,North Carolina,37003.0,4397,84.0
+1317102,2021-05-14,Alexander,Illinois,17003.0,468,11.0
+1318406,2021-05-14,Alexander,North Carolina,37003.0,4396,84.0
+1320349,2021-05-15,Alexander,Illinois,17003.0,468,11.0
+1321652,2021-05-15,Alexander,North Carolina,37003.0,4396,84.0
+1323595,2021-05-16,Alexander,Illinois,17003.0,468,11.0
+1324898,2021-05-16,Alexander,North Carolina,37003.0,4396,84.0
+1326841,2021-05-17,Alexander,Illinois,17003.0,468,11.0
+1328144,2021-05-17,Alexander,North Carolina,37003.0,4400,84.0
+1330088,2021-05-18,Alexander,Illinois,17003.0,470,11.0
+1331391,2021-05-18,Alexander,North Carolina,37003.0,4401,84.0
+1333335,2021-05-19,Alexander,Illinois,17003.0,470,11.0
+1334638,2021-05-19,Alexander,North Carolina,37003.0,4402,84.0
+1336582,2021-05-20,Alexander,Illinois,17003.0,470,11.0
+1337885,2021-05-20,Alexander,North Carolina,37003.0,4401,84.0
+1339829,2021-05-21,Alexander,Illinois,17003.0,470,11.0
+1341133,2021-05-21,Alexander,North Carolina,37003.0,4404,84.0
+1343077,2021-05-22,Alexander,Illinois,17003.0,470,11.0
+1344381,2021-05-22,Alexander,North Carolina,37003.0,4404,84.0
+1346325,2021-05-23,Alexander,Illinois,17003.0,470,11.0
+1347629,2021-05-23,Alexander,North Carolina,37003.0,4404,84.0
+1349572,2021-05-24,Alexander,Illinois,17003.0,470,11.0
+1350875,2021-05-24,Alexander,North Carolina,37003.0,4407,84.0
+1352818,2021-05-25,Alexander,Illinois,17003.0,470,11.0
+1354121,2021-05-25,Alexander,North Carolina,37003.0,4411,84.0
+1356064,2021-05-26,Alexander,Illinois,17003.0,470,11.0
+1357367,2021-05-26,Alexander,North Carolina,37003.0,4409,84.0
+1359310,2021-05-27,Alexander,Illinois,17003.0,470,11.0
+1360613,2021-05-27,Alexander,North Carolina,37003.0,4412,84.0
+1362557,2021-05-28,Alexander,Illinois,17003.0,470,11.0
+1363859,2021-05-28,Alexander,North Carolina,37003.0,4414,84.0
+1365803,2021-05-29,Alexander,Illinois,17003.0,470,11.0
+1367105,2021-05-29,Alexander,North Carolina,37003.0,4414,84.0
+1369049,2021-05-30,Alexander,Illinois,17003.0,470,11.0
+1370351,2021-05-30,Alexander,North Carolina,37003.0,4414,84.0
+1372294,2021-05-31,Alexander,Illinois,17003.0,470,11.0
+1373596,2021-05-31,Alexander,North Carolina,37003.0,4414,84.0
+1375539,2021-06-01,Alexander,Illinois,17003.0,470,11.0
+1376842,2021-06-01,Alexander,North Carolina,37003.0,4422,84.0
+1378785,2021-06-02,Alexander,Illinois,17003.0,470,11.0
+1380087,2021-06-02,Alexander,North Carolina,37003.0,4421,84.0
+1382030,2021-06-03,Alexander,Illinois,17003.0,471,11.0
+1383333,2021-06-03,Alexander,North Carolina,37003.0,4421,84.0
+1385276,2021-06-04,Alexander,Illinois,17003.0,471,11.0
+1386578,2021-06-04,Alexander,North Carolina,37003.0,4423,84.0
+1388521,2021-06-05,Alexander,Illinois,17003.0,471,11.0
+1389823,2021-06-05,Alexander,North Carolina,37003.0,4423,84.0
+1391766,2021-06-06,Alexander,Illinois,17003.0,471,11.0
+1393068,2021-06-06,Alexander,North Carolina,37003.0,4423,84.0
+1395011,2021-06-07,Alexander,Illinois,17003.0,471,11.0
+1396315,2021-06-07,Alexander,North Carolina,37003.0,4430,84.0
+1398258,2021-06-08,Alexander,Illinois,17003.0,471,11.0
+1399560,2021-06-08,Alexander,North Carolina,37003.0,4429,85.0
+1401503,2021-06-09,Alexander,Illinois,17003.0,471,11.0
+1402805,2021-06-09,Alexander,North Carolina,37003.0,4430,85.0
+1404748,2021-06-10,Alexander,Illinois,17003.0,472,11.0
+1406051,2021-06-10,Alexander,North Carolina,37003.0,4429,85.0
+1407994,2021-06-11,Alexander,Illinois,17003.0,473,11.0
+1409296,2021-06-11,Alexander,North Carolina,37003.0,4429,85.0
+1411239,2021-06-12,Alexander,Illinois,17003.0,473,11.0
+1412541,2021-06-12,Alexander,North Carolina,37003.0,4429,85.0
+1414484,2021-06-13,Alexander,Illinois,17003.0,473,11.0
+1415787,2021-06-13,Alexander,North Carolina,37003.0,4429,85.0
+1417730,2021-06-14,Alexander,Illinois,17003.0,473,11.0
+1419032,2021-06-14,Alexander,North Carolina,37003.0,4430,85.0
+1420975,2021-06-15,Alexander,Illinois,17003.0,473,11.0
+1422278,2021-06-15,Alexander,North Carolina,37003.0,4433,85.0
+1424223,2021-06-16,Alexander,Illinois,17003.0,474,11.0
+1425525,2021-06-16,Alexander,North Carolina,37003.0,4435,85.0
+1427468,2021-06-17,Alexander,Illinois,17003.0,474,11.0
+1428770,2021-06-17,Alexander,North Carolina,37003.0,4434,85.0
+1430713,2021-06-18,Alexander,Illinois,17003.0,474,11.0
+1432016,2021-06-18,Alexander,North Carolina,37003.0,4436,85.0
+1433959,2021-06-19,Alexander,Illinois,17003.0,474,11.0
+1435263,2021-06-19,Alexander,North Carolina,37003.0,4436,85.0
+1437206,2021-06-20,Alexander,Illinois,17003.0,474,11.0
+1438510,2021-06-20,Alexander,North Carolina,37003.0,4436,85.0
+1440453,2021-06-21,Alexander,Illinois,17003.0,474,11.0
+1441755,2021-06-21,Alexander,North Carolina,37003.0,4437,85.0
+1443698,2021-06-22,Alexander,Illinois,17003.0,474,11.0
+1445000,2021-06-22,Alexander,North Carolina,37003.0,4438,85.0
+1446943,2021-06-23,Alexander,Illinois,17003.0,474,11.0
+1448245,2021-06-23,Alexander,North Carolina,37003.0,4439,85.0
+1450188,2021-06-24,Alexander,Illinois,17003.0,474,11.0
+1451491,2021-06-24,Alexander,North Carolina,37003.0,4439,85.0
+1453434,2021-06-25,Alexander,Illinois,17003.0,474,11.0
+1454736,2021-06-25,Alexander,North Carolina,37003.0,4441,85.0
+1456679,2021-06-26,Alexander,Illinois,17003.0,474,11.0
+1457981,2021-06-26,Alexander,North Carolina,37003.0,4441,85.0
+1459924,2021-06-27,Alexander,Illinois,17003.0,474,11.0
+1461226,2021-06-27,Alexander,North Carolina,37003.0,4441,85.0
+1463169,2021-06-28,Alexander,Illinois,17003.0,474,11.0
+1464471,2021-06-28,Alexander,North Carolina,37003.0,4445,85.0
+1466414,2021-06-29,Alexander,Illinois,17003.0,475,11.0
+1467716,2021-06-29,Alexander,North Carolina,37003.0,4453,85.0
+1469659,2021-06-30,Alexander,Illinois,17003.0,476,11.0
+1470961,2021-06-30,Alexander,North Carolina,37003.0,4454,85.0
+1472905,2021-07-01,Alexander,Illinois,17003.0,475,11.0
+1474207,2021-07-01,Alexander,North Carolina,37003.0,4456,84.0
+1476151,2021-07-02,Alexander,Illinois,17003.0,476,11.0
+1477453,2021-07-02,Alexander,North Carolina,37003.0,4456,84.0
+1479397,2021-07-03,Alexander,Illinois,17003.0,476,11.0
+1480700,2021-07-03,Alexander,North Carolina,37003.0,4456,84.0
+1482644,2021-07-04,Alexander,Illinois,17003.0,476,11.0
+1483946,2021-07-04,Alexander,North Carolina,37003.0,4456,84.0
+1485890,2021-07-05,Alexander,Illinois,17003.0,476,11.0
+1487192,2021-07-05,Alexander,North Carolina,37003.0,4456,84.0
+1489137,2021-07-06,Alexander,Illinois,17003.0,475,11.0
+1490439,2021-07-06,Alexander,North Carolina,37003.0,4456,84.0
+1492384,2021-07-07,Alexander,Illinois,17003.0,475,11.0
+1493686,2021-07-07,Alexander,North Carolina,37003.0,4459,84.0
+1495630,2021-07-08,Alexander,Illinois,17003.0,475,11.0
+1496933,2021-07-08,Alexander,North Carolina,37003.0,4460,84.0
+1498877,2021-07-09,Alexander,Illinois,17003.0,476,11.0
+1500179,2021-07-09,Alexander,North Carolina,37003.0,4462,84.0
+1502123,2021-07-10,Alexander,Illinois,17003.0,476,11.0
+1503425,2021-07-10,Alexander,North Carolina,37003.0,4462,84.0
+1505369,2021-07-11,Alexander,Illinois,17003.0,476,11.0
+1506671,2021-07-11,Alexander,North Carolina,37003.0,4462,84.0
+1508615,2021-07-12,Alexander,Illinois,17003.0,476,11.0
+1509918,2021-07-12,Alexander,North Carolina,37003.0,4469,84.0
+1511862,2021-07-13,Alexander,Illinois,17003.0,476,11.0
+1513164,2021-07-13,Alexander,North Carolina,37003.0,4470,84.0
+1515108,2021-07-14,Alexander,Illinois,17003.0,476,11.0
+1516411,2021-07-14,Alexander,North Carolina,37003.0,4474,84.0
+1518355,2021-07-15,Alexander,Illinois,17003.0,477,11.0
+1519659,2021-07-15,Alexander,North Carolina,37003.0,4476,84.0
+1521603,2021-07-16,Alexander,Illinois,17003.0,477,11.0
+1522907,2021-07-16,Alexander,North Carolina,37003.0,4479,84.0
+1524851,2021-07-17,Alexander,Illinois,17003.0,477,11.0
+1526154,2021-07-17,Alexander,North Carolina,37003.0,4479,84.0
+1528098,2021-07-18,Alexander,Illinois,17003.0,477,11.0
+1529401,2021-07-18,Alexander,North Carolina,37003.0,4479,84.0
+1531345,2021-07-19,Alexander,Illinois,17003.0,479,11.0
+1532648,2021-07-19,Alexander,North Carolina,37003.0,4490,84.0
+1534592,2021-07-20,Alexander,Illinois,17003.0,483,11.0
+1535896,2021-07-20,Alexander,North Carolina,37003.0,4491,84.0
+1537840,2021-07-21,Alexander,Illinois,17003.0,484,11.0
+1539143,2021-07-21,Alexander,North Carolina,37003.0,4498,84.0
+1541087,2021-07-22,Alexander,Illinois,17003.0,485,11.0
+1542391,2021-07-22,Alexander,North Carolina,37003.0,4506,85.0
+1544335,2021-07-23,Alexander,Illinois,17003.0,485,11.0
+1545638,2021-07-23,Alexander,North Carolina,37003.0,4518,85.0
+1547582,2021-07-24,Alexander,Illinois,17003.0,485,11.0
+1548885,2021-07-24,Alexander,North Carolina,37003.0,4518,85.0
+1550829,2021-07-25,Alexander,Illinois,17003.0,485,11.0
+1552132,2021-07-25,Alexander,North Carolina,37003.0,4518,85.0
+1554076,2021-07-26,Alexander,Illinois,17003.0,489,11.0
+1555379,2021-07-26,Alexander,North Carolina,37003.0,4526,85.0
+1557323,2021-07-27,Alexander,Illinois,17003.0,489,11.0
+1558626,2021-07-27,Alexander,North Carolina,37003.0,4529,85.0
+1560570,2021-07-28,Alexander,Illinois,17003.0,489,11.0
+1561874,2021-07-28,Alexander,North Carolina,37003.0,4545,85.0
+1563818,2021-07-29,Alexander,Illinois,17003.0,492,11.0
+1565122,2021-07-29,Alexander,North Carolina,37003.0,4561,85.0
+1567066,2021-07-30,Alexander,Illinois,17003.0,495,11.0
+1568370,2021-07-30,Alexander,North Carolina,37003.0,4568,85.0
+1570314,2021-07-31,Alexander,Illinois,17003.0,495,11.0
+1571618,2021-07-31,Alexander,North Carolina,37003.0,4568,85.0
+1573562,2021-08-01,Alexander,Illinois,17003.0,495,11.0
+1574866,2021-08-01,Alexander,North Carolina,37003.0,4568,85.0
+1576810,2021-08-02,Alexander,Illinois,17003.0,498,11.0
+1578114,2021-08-02,Alexander,North Carolina,37003.0,4601,85.0
+1580059,2021-08-03,Alexander,Illinois,17003.0,499,11.0
+1581363,2021-08-03,Alexander,North Carolina,37003.0,4609,85.0
+1583309,2021-08-04,Alexander,Illinois,17003.0,509,11.0
+1584613,2021-08-04,Alexander,North Carolina,37003.0,4621,85.0
+1586559,2021-08-05,Alexander,Illinois,17003.0,513,11.0
+1587863,2021-08-05,Alexander,North Carolina,37003.0,4634,85.0
+1589808,2021-08-06,Alexander,Illinois,17003.0,514,11.0
+1591112,2021-08-06,Alexander,North Carolina,37003.0,4652,85.0
+1593057,2021-08-07,Alexander,Illinois,17003.0,514,11.0
+1594361,2021-08-07,Alexander,North Carolina,37003.0,4652,85.0
+1596306,2021-08-08,Alexander,Illinois,17003.0,514,11.0
+1597610,2021-08-08,Alexander,North Carolina,37003.0,4652,85.0
+1599554,2021-08-09,Alexander,Illinois,17003.0,519,11.0
+1600858,2021-08-09,Alexander,North Carolina,37003.0,4728,85.0
+1602803,2021-08-10,Alexander,Illinois,17003.0,521,11.0
+1604107,2021-08-10,Alexander,North Carolina,37003.0,4741,85.0
+1606052,2021-08-11,Alexander,Illinois,17003.0,523,11.0
+1607356,2021-08-11,Alexander,North Carolina,37003.0,4764,85.0
+1609301,2021-08-12,Alexander,Illinois,17003.0,526,11.0
+1610604,2021-08-12,Alexander,North Carolina,37003.0,4794,85.0
+1612549,2021-08-13,Alexander,Illinois,17003.0,529,11.0
+1613853,2021-08-13,Alexander,North Carolina,37003.0,4812,85.0
+1615798,2021-08-14,Alexander,Illinois,17003.0,529,11.0
+1617101,2021-08-14,Alexander,North Carolina,37003.0,4812,85.0
+1619046,2021-08-15,Alexander,Illinois,17003.0,529,11.0
+1620349,2021-08-15,Alexander,North Carolina,37003.0,4812,85.0
+1622293,2021-08-16,Alexander,Illinois,17003.0,532,11.0
+1623596,2021-08-16,Alexander,North Carolina,37003.0,4869,85.0
+1625540,2021-08-17,Alexander,Illinois,17003.0,540,11.0
+1626843,2021-08-17,Alexander,North Carolina,37003.0,4872,85.0
+1628787,2021-08-18,Alexander,Illinois,17003.0,545,11.0
+1630090,2021-08-18,Alexander,North Carolina,37003.0,4910,85.0
+1632034,2021-08-19,Alexander,Illinois,17003.0,549,11.0
+1633337,2021-08-19,Alexander,North Carolina,37003.0,4946,88.0
+1635284,2021-08-20,Alexander,Illinois,17003.0,560,11.0
+1636587,2021-08-20,Alexander,North Carolina,37003.0,4956,88.0
+1638534,2021-08-21,Alexander,Illinois,17003.0,560,11.0
+1639837,2021-08-21,Alexander,North Carolina,37003.0,4956,88.0
+1641784,2021-08-22,Alexander,Illinois,17003.0,560,11.0
+1643087,2021-08-22,Alexander,North Carolina,37003.0,4956,88.0
+1645033,2021-08-23,Alexander,Illinois,17003.0,565,11.0
+1646336,2021-08-23,Alexander,North Carolina,37003.0,5040,88.0
+1648281,2021-08-24,Alexander,Illinois,17003.0,571,11.0
+1649585,2021-08-24,Alexander,North Carolina,37003.0,5062,90.0
+1651530,2021-08-25,Alexander,Illinois,17003.0,575,11.0
+1652833,2021-08-25,Alexander,North Carolina,37003.0,5074,90.0
+1654777,2021-08-26,Alexander,Illinois,17003.0,586,11.0
+1656080,2021-08-26,Alexander,North Carolina,37003.0,5124,94.0
+1658025,2021-08-27,Alexander,Illinois,17003.0,593,11.0
+1659329,2021-08-27,Alexander,North Carolina,37003.0,5148,94.0
+1661273,2021-08-28,Alexander,Illinois,17003.0,593,11.0
+1662577,2021-08-28,Alexander,North Carolina,37003.0,5148,94.0
+1664521,2021-08-29,Alexander,Illinois,17003.0,593,11.0
+1665825,2021-08-29,Alexander,North Carolina,37003.0,5148,94.0
+1667768,2021-08-30,Alexander,Illinois,17003.0,600,11.0
+1669072,2021-08-30,Alexander,North Carolina,37003.0,5257,95.0
+1671015,2021-08-31,Alexander,Illinois,17003.0,610,11.0
+1672320,2021-08-31,Alexander,North Carolina,37003.0,5272,96.0
+1674264,2021-09-01,Alexander,Illinois,17003.0,614,11.0
+1675567,2021-09-01,Alexander,North Carolina,37003.0,5324,96.0
+1677511,2021-09-02,Alexander,Illinois,17003.0,619,11.0
+1678815,2021-09-02,Alexander,North Carolina,37003.0,5367,96.0
+1680759,2021-09-03,Alexander,Illinois,17003.0,622,11.0
+1682064,2021-09-03,Alexander,North Carolina,37003.0,5387,96.0
+1684010,2021-09-04,Alexander,Illinois,17003.0,622,11.0
+1685315,2021-09-04,Alexander,North Carolina,37003.0,5387,96.0
+1687260,2021-09-05,Alexander,Illinois,17003.0,622,11.0
+1688565,2021-09-05,Alexander,North Carolina,37003.0,5387,96.0
+1690510,2021-09-06,Alexander,Illinois,17003.0,622,11.0
+1691815,2021-09-06,Alexander,North Carolina,37003.0,5387,96.0
+1693759,2021-09-07,Alexander,Illinois,17003.0,632,11.0
+1695063,2021-09-07,Alexander,North Carolina,37003.0,5507,97.0
+1697007,2021-09-08,Alexander,Illinois,17003.0,637,11.0
+1698311,2021-09-08,Alexander,North Carolina,37003.0,5530,97.0
+1700256,2021-09-09,Alexander,Illinois,17003.0,640,11.0
+1701560,2021-09-09,Alexander,North Carolina,37003.0,5561,98.0
+1703506,2021-09-10,Alexander,Illinois,17003.0,647,11.0
+1704810,2021-09-10,Alexander,North Carolina,37003.0,5622,98.0
+1706754,2021-09-11,Alexander,Illinois,17003.0,647,11.0
+1708057,2021-09-11,Alexander,North Carolina,37003.0,5622,98.0
+1710001,2021-09-12,Alexander,Illinois,17003.0,647,11.0
+1711304,2021-09-12,Alexander,North Carolina,37003.0,5622,98.0
+1713248,2021-09-13,Alexander,Illinois,17003.0,650,11.0
+1714550,2021-09-13,Alexander,North Carolina,37003.0,5687,98.0
+1716494,2021-09-14,Alexander,Illinois,17003.0,653,11.0
+1717798,2021-09-14,Alexander,North Carolina,37003.0,5705,99.0
+1719742,2021-09-15,Alexander,Illinois,17003.0,660,11.0
+1721046,2021-09-15,Alexander,North Carolina,37003.0,5767,99.0
+1722991,2021-09-16,Alexander,Illinois,17003.0,661,11.0
+1724295,2021-09-16,Alexander,North Carolina,37003.0,5782,99.0
+1726240,2021-09-17,Alexander,Illinois,17003.0,664,11.0
+1727544,2021-09-17,Alexander,North Carolina,37003.0,5868,99.0
+1729490,2021-09-18,Alexander,Illinois,17003.0,664,11.0
+1730794,2021-09-18,Alexander,North Carolina,37003.0,5868,99.0
+1732740,2021-09-19,Alexander,Illinois,17003.0,664,11.0
+1734044,2021-09-19,Alexander,North Carolina,37003.0,5868,99.0
+1735990,2021-09-20,Alexander,Illinois,17003.0,672,11.0
+1737294,2021-09-20,Alexander,North Carolina,37003.0,5911,103.0
+1739239,2021-09-21,Alexander,Illinois,17003.0,675,11.0
+1740543,2021-09-21,Alexander,North Carolina,37003.0,5919,103.0
+1742488,2021-09-22,Alexander,Illinois,17003.0,676,11.0
+1743792,2021-09-22,Alexander,North Carolina,37003.0,5975,103.0
+1745737,2021-09-23,Alexander,Illinois,17003.0,678,11.0
+1747041,2021-09-23,Alexander,North Carolina,37003.0,5994,103.0
+1748987,2021-09-24,Alexander,Illinois,17003.0,681,11.0
+1750291,2021-09-24,Alexander,North Carolina,37003.0,6012,103.0
+1752236,2021-09-25,Alexander,Illinois,17003.0,681,11.0
+1753539,2021-09-25,Alexander,North Carolina,37003.0,6012,103.0
+1755484,2021-09-26,Alexander,Illinois,17003.0,681,11.0
+1756787,2021-09-26,Alexander,North Carolina,37003.0,6012,103.0
+1758732,2021-09-27,Alexander,Illinois,17003.0,682,11.0
+1760035,2021-09-27,Alexander,North Carolina,37003.0,6052,104.0
+1761980,2021-09-28,Alexander,Illinois,17003.0,684,11.0
+1763284,2021-09-28,Alexander,North Carolina,37003.0,6053,108.0
+1765229,2021-09-29,Alexander,Illinois,17003.0,685,11.0
+1766533,2021-09-29,Alexander,North Carolina,37003.0,6069,111.0
+1768478,2021-09-30,Alexander,Illinois,17003.0,685,11.0
+1769782,2021-09-30,Alexander,North Carolina,37003.0,6090,111.0
+1771727,2021-10-01,Alexander,Illinois,17003.0,685,11.0
+1773032,2021-10-01,Alexander,North Carolina,37003.0,6109,111.0
+1774977,2021-10-02,Alexander,Illinois,17003.0,685,11.0
+1776282,2021-10-02,Alexander,North Carolina,37003.0,6109,111.0
+1778227,2021-10-03,Alexander,Illinois,17003.0,685,11.0
+1779532,2021-10-03,Alexander,North Carolina,37003.0,6109,111.0
+1781477,2021-10-04,Alexander,Illinois,17003.0,688,11.0
+1782781,2021-10-04,Alexander,North Carolina,37003.0,6166,111.0
+1784726,2021-10-05,Alexander,Illinois,17003.0,689,11.0
+1786030,2021-10-05,Alexander,North Carolina,37003.0,6177,111.0
+1787975,2021-10-06,Alexander,Illinois,17003.0,692,11.0
+1789278,2021-10-06,Alexander,North Carolina,37003.0,6190,111.0
+1791224,2021-10-07,Alexander,Illinois,17003.0,697,11.0
+1792527,2021-10-07,Alexander,North Carolina,37003.0,6205,111.0
+1794472,2021-10-08,Alexander,Illinois,17003.0,699,11.0
+1795776,2021-10-08,Alexander,North Carolina,37003.0,6238,111.0
+1797721,2021-10-09,Alexander,Illinois,17003.0,699,11.0
+1799025,2021-10-09,Alexander,North Carolina,37003.0,6238,111.0
+1800970,2021-10-10,Alexander,Illinois,17003.0,699,11.0
+1802274,2021-10-10,Alexander,North Carolina,37003.0,6238,111.0
+1804219,2021-10-11,Alexander,Illinois,17003.0,699,11.0
+1805523,2021-10-11,Alexander,North Carolina,37003.0,6261,111.0
+1807470,2021-10-12,Alexander,Illinois,17003.0,703,11.0
+1808774,2021-10-12,Alexander,North Carolina,37003.0,6264,111.0
+1810719,2021-10-13,Alexander,Illinois,17003.0,710,11.0
+1812023,2021-10-13,Alexander,North Carolina,37003.0,6312,112.0
+1813968,2021-10-14,Alexander,Illinois,17003.0,710,12.0
+1815271,2021-10-14,Alexander,North Carolina,37003.0,6342,112.0
+1817216,2021-10-15,Alexander,Illinois,17003.0,713,12.0
+1818520,2021-10-15,Alexander,North Carolina,37003.0,6353,112.0
+1820465,2021-10-16,Alexander,Illinois,17003.0,713,12.0
+1821769,2021-10-16,Alexander,North Carolina,37003.0,6353,112.0
+1823714,2021-10-17,Alexander,Illinois,17003.0,713,12.0
+1825018,2021-10-17,Alexander,North Carolina,37003.0,6353,112.0
+1826963,2021-10-18,Alexander,Illinois,17003.0,717,12.0
+1828267,2021-10-18,Alexander,North Carolina,37003.0,6372,112.0
+1830212,2021-10-19,Alexander,Illinois,17003.0,719,12.0
+1831516,2021-10-19,Alexander,North Carolina,37003.0,6375,115.0
+1833461,2021-10-20,Alexander,Illinois,17003.0,719,12.0
+1834765,2021-10-20,Alexander,North Carolina,37003.0,6386,115.0
+1836710,2021-10-21,Alexander,Illinois,17003.0,725,12.0
+1838014,2021-10-21,Alexander,North Carolina,37003.0,6404,115.0
+1839959,2021-10-22,Alexander,Illinois,17003.0,732,12.0
+1841263,2021-10-22,Alexander,North Carolina,37003.0,6410,115.0
+1843209,2021-10-23,Alexander,Illinois,17003.0,732,12.0
+1844513,2021-10-23,Alexander,North Carolina,37003.0,6410,115.0
+1846459,2021-10-24,Alexander,Illinois,17003.0,732,12.0
+1847763,2021-10-24,Alexander,North Carolina,37003.0,6410,115.0
+1849709,2021-10-25,Alexander,Illinois,17003.0,741,12.0
+1851013,2021-10-25,Alexander,North Carolina,37003.0,6431,115.0
+1852958,2021-10-26,Alexander,Illinois,17003.0,745,12.0
+1854262,2021-10-26,Alexander,North Carolina,37003.0,6438,115.0
+1856207,2021-10-27,Alexander,Illinois,17003.0,749,12.0
+1857511,2021-10-27,Alexander,North Carolina,37003.0,6446,117.0
+1859456,2021-10-28,Alexander,Illinois,17003.0,752,12.0
+1860760,2021-10-28,Alexander,North Carolina,37003.0,6455,117.0
+1862705,2021-10-29,Alexander,Illinois,17003.0,754,12.0
+1864009,2021-10-29,Alexander,North Carolina,37003.0,6469,117.0
+1865954,2021-10-30,Alexander,Illinois,17003.0,754,12.0
+1867258,2021-10-30,Alexander,North Carolina,37003.0,6469,117.0
+1869203,2021-10-31,Alexander,Illinois,17003.0,754,12.0
+1870507,2021-10-31,Alexander,North Carolina,37003.0,6469,117.0
+1872452,2021-11-01,Alexander,Illinois,17003.0,758,12.0
+1873756,2021-11-01,Alexander,North Carolina,37003.0,6491,117.0
+1875701,2021-11-02,Alexander,Illinois,17003.0,758,12.0
+1877005,2021-11-02,Alexander,North Carolina,37003.0,6490,117.0
+1878950,2021-11-03,Alexander,Illinois,17003.0,760,13.0
+1880254,2021-11-03,Alexander,North Carolina,37003.0,6510,117.0
+1882199,2021-11-04,Alexander,Illinois,17003.0,764,13.0
+1883503,2021-11-04,Alexander,North Carolina,37003.0,6518,117.0
+1885448,2021-11-05,Alexander,Illinois,17003.0,764,13.0
+1886752,2021-11-05,Alexander,North Carolina,37003.0,6526,117.0
+1888698,2021-11-06,Alexander,Illinois,17003.0,764,13.0
+1890002,2021-11-06,Alexander,North Carolina,37003.0,6526,117.0
+1891948,2021-11-07,Alexander,Illinois,17003.0,764,13.0
+1893252,2021-11-07,Alexander,North Carolina,37003.0,6526,117.0
+1895198,2021-11-08,Alexander,Illinois,17003.0,769,13.0
+1896502,2021-11-08,Alexander,North Carolina,37003.0,6553,117.0
+1898448,2021-11-09,Alexander,Illinois,17003.0,772,13.0
+1899752,2021-11-09,Alexander,North Carolina,37003.0,6570,117.0
+1901698,2021-11-10,Alexander,Illinois,17003.0,781,13.0
+1903002,2021-11-10,Alexander,North Carolina,37003.0,6581,117.0
+1904948,2021-11-11,Alexander,Illinois,17003.0,781,13.0
+1906251,2021-11-11,Alexander,North Carolina,37003.0,6581,117.0
+1908197,2021-11-12,Alexander,Illinois,17003.0,788,13.0
+1909500,2021-11-12,Alexander,North Carolina,37003.0,6600,118.0
+1911446,2021-11-13,Alexander,Illinois,17003.0,788,13.0
+1912750,2021-11-13,Alexander,North Carolina,37003.0,6600,118.0
+1914696,2021-11-14,Alexander,Illinois,17003.0,788,13.0
+1916000,2021-11-14,Alexander,North Carolina,37003.0,6600,118.0
+1917946,2021-11-15,Alexander,Illinois,17003.0,791,13.0
+1919250,2021-11-15,Alexander,North Carolina,37003.0,6609,118.0
+1921196,2021-11-16,Alexander,Illinois,17003.0,793,13.0
+1922500,2021-11-16,Alexander,North Carolina,37003.0,6601,118.0
+1924445,2021-11-17,Alexander,Illinois,17003.0,795,13.0
+1925749,2021-11-17,Alexander,North Carolina,37003.0,6611,118.0
+1927695,2021-11-18,Alexander,Illinois,17003.0,798,13.0
+1928999,2021-11-18,Alexander,North Carolina,37003.0,6645,118.0
+1930946,2021-11-19,Alexander,Illinois,17003.0,798,13.0
+1932250,2021-11-19,Alexander,North Carolina,37003.0,6655,118.0
+1934197,2021-11-20,Alexander,Illinois,17003.0,798,13.0
+1935500,2021-11-20,Alexander,North Carolina,37003.0,6655,118.0
+1937447,2021-11-21,Alexander,Illinois,17003.0,798,13.0
+1938750,2021-11-21,Alexander,North Carolina,37003.0,6655,118.0
+1940697,2021-11-22,Alexander,Illinois,17003.0,800,13.0
+1942000,2021-11-22,Alexander,North Carolina,37003.0,6693,118.0
+1943947,2021-11-23,Alexander,Illinois,17003.0,800,13.0
+1945251,2021-11-23,Alexander,North Carolina,37003.0,6697,118.0
+1947198,2021-11-24,Alexander,Illinois,17003.0,800,13.0
+1948502,2021-11-24,Alexander,North Carolina,37003.0,6702,118.0
+1950449,2021-11-25,Alexander,Illinois,17003.0,800,13.0
+1951753,2021-11-25,Alexander,North Carolina,37003.0,6702,118.0
+1953700,2021-11-26,Alexander,Illinois,17003.0,800,13.0
+1955004,2021-11-26,Alexander,North Carolina,37003.0,6702,118.0
+1956951,2021-11-27,Alexander,Illinois,17003.0,800,13.0
+1958255,2021-11-27,Alexander,North Carolina,37003.0,6702,118.0
+1960202,2021-11-28,Alexander,Illinois,17003.0,800,13.0
+1961506,2021-11-28,Alexander,North Carolina,37003.0,6702,118.0
+1963453,2021-11-29,Alexander,Illinois,17003.0,802,13.0
+1964758,2021-11-29,Alexander,North Carolina,37003.0,6765,118.0
+1966705,2021-11-30,Alexander,Illinois,17003.0,802,13.0
+1968009,2021-11-30,Alexander,North Carolina,37003.0,6802,118.0
+1969955,2021-12-01,Alexander,Illinois,17003.0,805,13.0
+1971259,2021-12-01,Alexander,North Carolina,37003.0,6815,118.0
+1973205,2021-12-02,Alexander,Illinois,17003.0,810,13.0
+1974508,2021-12-02,Alexander,North Carolina,37003.0,6820,118.0
+1976454,2021-12-03,Alexander,Illinois,17003.0,811,13.0
+1977758,2021-12-03,Alexander,North Carolina,37003.0,6832,118.0
+1979704,2021-12-04,Alexander,Illinois,17003.0,811,13.0
+1981008,2021-12-04,Alexander,North Carolina,37003.0,6832,118.0
+1982954,2021-12-05,Alexander,Illinois,17003.0,811,13.0
+1984258,2021-12-05,Alexander,North Carolina,37003.0,6832,118.0
+1986204,2021-12-06,Alexander,Illinois,17003.0,816,13.0
+1987508,2021-12-06,Alexander,North Carolina,37003.0,6860,118.0
+1989454,2021-12-07,Alexander,Illinois,17003.0,819,13.0
+1990759,2021-12-07,Alexander,North Carolina,37003.0,6861,118.0
+1992705,2021-12-08,Alexander,Illinois,17003.0,823,13.0
+1994010,2021-12-08,Alexander,North Carolina,37003.0,6889,118.0
+1995956,2021-12-09,Alexander,Illinois,17003.0,828,13.0
+1997261,2021-12-09,Alexander,North Carolina,37003.0,6907,119.0
+1999207,2021-12-10,Alexander,Illinois,17003.0,829,13.0
+2000511,2021-12-10,Alexander,North Carolina,37003.0,6924,119.0
+2002457,2021-12-11,Alexander,Illinois,17003.0,829,13.0
+2003762,2021-12-11,Alexander,North Carolina,37003.0,6924,119.0
+2005708,2021-12-12,Alexander,Illinois,17003.0,829,13.0
+2007013,2021-12-12,Alexander,North Carolina,37003.0,6924,119.0
+2008959,2021-12-13,Alexander,Illinois,17003.0,830,13.0
+2010264,2021-12-13,Alexander,North Carolina,37003.0,6973,119.0
+2012210,2021-12-14,Alexander,Illinois,17003.0,833,13.0
+2013515,2021-12-14,Alexander,North Carolina,37003.0,6982,119.0
+2015461,2021-12-15,Alexander,Illinois,17003.0,835,13.0
+2016765,2021-12-15,Alexander,North Carolina,37003.0,7007,119.0
+2018711,2021-12-16,Alexander,Illinois,17003.0,841,13.0
+2020016,2021-12-16,Alexander,North Carolina,37003.0,7022,119.0
+2021962,2021-12-17,Alexander,Illinois,17003.0,846,13.0
+2023267,2021-12-17,Alexander,North Carolina,37003.0,7038,119.0
+2025213,2021-12-18,Alexander,Illinois,17003.0,846,13.0
+2026518,2021-12-18,Alexander,North Carolina,37003.0,7038,119.0
+2028464,2021-12-19,Alexander,Illinois,17003.0,846,13.0
+2029769,2021-12-19,Alexander,North Carolina,37003.0,7038,119.0
+2031715,2021-12-20,Alexander,Illinois,17003.0,849,13.0
+2033019,2021-12-20,Alexander,North Carolina,37003.0,7073,119.0
+2034965,2021-12-21,Alexander,Illinois,17003.0,854,13.0
+2036269,2021-12-21,Alexander,North Carolina,37003.0,7086,119.0
+2038215,2021-12-22,Alexander,Illinois,17003.0,858,13.0
+2039519,2021-12-22,Alexander,North Carolina,37003.0,7112,119.0
+2041465,2021-12-23,Alexander,Illinois,17003.0,861,13.0
+2042768,2021-12-23,Alexander,North Carolina,37003.0,7112,119.0
+2044714,2021-12-24,Alexander,Illinois,17003.0,861,13.0
+2046018,2021-12-24,Alexander,North Carolina,37003.0,7112,119.0
+2047964,2021-12-25,Alexander,Illinois,17003.0,861,13.0
+2049268,2021-12-25,Alexander,North Carolina,37003.0,7112,119.0
+2051214,2021-12-26,Alexander,Illinois,17003.0,861,13.0
+2052518,2021-12-26,Alexander,North Carolina,37003.0,7112,119.0
+2054464,2021-12-27,Alexander,Illinois,17003.0,866,13.0
+2055768,2021-12-27,Alexander,North Carolina,37003.0,7112,119.0
+2057713,2021-12-28,Alexander,Illinois,17003.0,879,13.0
+2059017,2021-12-28,Alexander,North Carolina,37003.0,7207,119.0
+2060962,2021-12-29,Alexander,Illinois,17003.0,883,13.0
+2062266,2021-12-29,Alexander,North Carolina,37003.0,7217,119.0
+2064212,2021-12-30,Alexander,Illinois,17003.0,890,13.0
+2065516,2021-12-30,Alexander,North Carolina,37003.0,7257,119.0
+2067463,2021-12-31,Alexander,Illinois,17003.0,890,13.0
+2068767,2021-12-31,Alexander,North Carolina,37003.0,7285,119.0
+2070714,2022-01-01,Alexander,Illinois,17003.0,890,13.0
+2072018,2022-01-01,Alexander,North Carolina,37003.0,7285,119.0
+2073965,2022-01-02,Alexander,Illinois,17003.0,890,13.0
+2075269,2022-01-02,Alexander,North Carolina,37003.0,7285,119.0
+2077216,2022-01-03,Alexander,Illinois,17003.0,901,13.0
+2078520,2022-01-03,Alexander,North Carolina,37003.0,7355,119.0
+2080468,2022-01-04,Alexander,Illinois,17003.0,906,13.0
+2081772,2022-01-04,Alexander,North Carolina,37003.0,7376,119.0
+2083720,2022-01-05,Alexander,Illinois,17003.0,915,13.0
+2085024,2022-01-05,Alexander,North Carolina,37003.0,7436,119.0
+2086972,2022-01-06,Alexander,Illinois,17003.0,925,13.0
+2088276,2022-01-06,Alexander,North Carolina,37003.0,7556,119.0
+2090223,2022-01-07,Alexander,Illinois,17003.0,933,13.0
+2091527,2022-01-07,Alexander,North Carolina,37003.0,7666,119.0
+2093475,2022-01-08,Alexander,Illinois,17003.0,933,13.0
+2094779,2022-01-08,Alexander,North Carolina,37003.0,7666,119.0
+2096727,2022-01-09,Alexander,Illinois,17003.0,933,13.0
+2098031,2022-01-09,Alexander,North Carolina,37003.0,7666,119.0
+2099978,2022-01-10,Alexander,Illinois,17003.0,938,13.0
+2101282,2022-01-10,Alexander,North Carolina,37003.0,7859,119.0
+2103229,2022-01-11,Alexander,Illinois,17003.0,953,13.0
+2104533,2022-01-11,Alexander,North Carolina,37003.0,7943,119.0
+2106480,2022-01-12,Alexander,Illinois,17003.0,963,13.0
+2107784,2022-01-12,Alexander,North Carolina,37003.0,8017,119.0
+2109731,2022-01-13,Alexander,Illinois,17003.0,982,13.0
+2111036,2022-01-13,Alexander,North Carolina,37003.0,8055,119.0
+2112983,2022-01-14,Alexander,Illinois,17003.0,987,13.0
+2114288,2022-01-14,Alexander,North Carolina,37003.0,8185,120.0
+2116234,2022-01-15,Alexander,Illinois,17003.0,987,13.0
+2117539,2022-01-15,Alexander,North Carolina,37003.0,8185,120.0
+2119486,2022-01-16,Alexander,Illinois,17003.0,987,13.0
+2120791,2022-01-16,Alexander,North Carolina,37003.0,8185,120.0
+2122738,2022-01-17,Alexander,Illinois,17003.0,987,13.0
+2124043,2022-01-17,Alexander,North Carolina,37003.0,8185,120.0
+2125990,2022-01-18,Alexander,Illinois,17003.0,1032,13.0
+2127295,2022-01-18,Alexander,North Carolina,37003.0,8551,120.0
+2129244,2022-01-19,Alexander,Illinois,17003.0,1069,13.0
+2130549,2022-01-19,Alexander,North Carolina,37003.0,8596,120.0
+2132497,2022-01-20,Alexander,Illinois,17003.0,1100,13.0
+2133801,2022-01-20,Alexander,North Carolina,37003.0,8656,120.0
+2135749,2022-01-21,Alexander,Illinois,17003.0,1110,13.0
+2137054,2022-01-21,Alexander,North Carolina,37003.0,8758,121.0
+2139005,2022-01-22,Alexander,Illinois,17003.0,1110,13.0
+2140310,2022-01-22,Alexander,North Carolina,37003.0,8758,121.0
+2142260,2022-01-23,Alexander,Illinois,17003.0,1110,13.0
+2143565,2022-01-23,Alexander,North Carolina,37003.0,8758,121.0
+2145515,2022-01-24,Alexander,Illinois,17003.0,1150,13.0
+2146819,2022-01-24,Alexander,North Carolina,37003.0,9064,121.0
+2148767,2022-01-25,Alexander,Illinois,17003.0,1168,13.0
+2150071,2022-01-25,Alexander,North Carolina,37003.0,9185,121.0
+2152019,2022-01-26,Alexander,Illinois,17003.0,1178,13.0
+2153323,2022-01-26,Alexander,North Carolina,37003.0,9291,121.0
+2155272,2022-01-27,Alexander,Illinois,17003.0,1189,13.0
+2156576,2022-01-27,Alexander,North Carolina,37003.0,9437,121.0
+2158526,2022-01-28,Alexander,Illinois,17003.0,1200,13.0
+2159831,2022-01-28,Alexander,North Carolina,37003.0,9563,121.0
+2161781,2022-01-29,Alexander,Illinois,17003.0,1200,13.0
+2163086,2022-01-29,Alexander,North Carolina,37003.0,9563,121.0
+2165036,2022-01-30,Alexander,Illinois,17003.0,1200,13.0
+2166341,2022-01-30,Alexander,North Carolina,37003.0,9563,121.0
+2168291,2022-01-31,Alexander,Illinois,17003.0,1212,13.0
+2169596,2022-01-31,Alexander,North Carolina,37003.0,9828,121.0
+2171544,2022-02-01,Alexander,Illinois,17003.0,1224,13.0
+2172849,2022-02-01,Alexander,North Carolina,37003.0,9886,122.0
+2174797,2022-02-02,Alexander,Illinois,17003.0,1231,13.0
+2176102,2022-02-02,Alexander,North Carolina,37003.0,9872,124.0
+2178050,2022-02-03,Alexander,Illinois,17003.0,1231,13.0
+2179353,2022-02-03,Alexander,North Carolina,37003.0,9905,124.0
+2181301,2022-02-04,Alexander,Illinois,17003.0,1240,13.0
+2182605,2022-02-04,Alexander,North Carolina,37003.0,9893,124.0
+2184553,2022-02-05,Alexander,Illinois,17003.0,1240,13.0
+2185857,2022-02-05,Alexander,North Carolina,37003.0,9893,124.0
+2187806,2022-02-06,Alexander,Illinois,17003.0,1240,13.0
+2189110,2022-02-06,Alexander,North Carolina,37003.0,9893,124.0
+2191059,2022-02-07,Alexander,Illinois,17003.0,1248,13.0
+2192364,2022-02-07,Alexander,North Carolina,37003.0,10014,125.0
+2194313,2022-02-08,Alexander,Illinois,17003.0,1252,13.0
+2195618,2022-02-08,Alexander,North Carolina,37003.0,10049,125.0
+2197567,2022-02-09,Alexander,Illinois,17003.0,1254,13.0
+2198872,2022-02-09,Alexander,North Carolina,37003.0,10094,126.0
+2200821,2022-02-10,Alexander,Illinois,17003.0,1255,13.0
+2202126,2022-02-10,Alexander,North Carolina,37003.0,10126,126.0
+2204074,2022-02-11,Alexander,Illinois,17003.0,1255,13.0
+2205379,2022-02-11,Alexander,North Carolina,37003.0,10154,126.0
+2207327,2022-02-12,Alexander,Illinois,17003.0,1255,13.0
+2208632,2022-02-12,Alexander,North Carolina,37003.0,10154,126.0
+2210580,2022-02-13,Alexander,Illinois,17003.0,1255,13.0
+2211885,2022-02-13,Alexander,North Carolina,37003.0,10154,126.0
+2213832,2022-02-14,Alexander,Illinois,17003.0,1260,13.0
+2215136,2022-02-14,Alexander,North Carolina,37003.0,10244,127.0
+2217083,2022-02-15,Alexander,Illinois,17003.0,1264,13.0
+2218387,2022-02-15,Alexander,North Carolina,37003.0,10254,127.0
+2220334,2022-02-16,Alexander,Illinois,17003.0,1264,14.0
+2221638,2022-02-16,Alexander,North Carolina,37003.0,10270,127.0
+2223585,2022-02-17,Alexander,Illinois,17003.0,1264,14.0
+2224889,2022-02-17,Alexander,North Carolina,37003.0,10291,127.0
+2226836,2022-02-18,Alexander,Illinois,17003.0,1265,14.0
+2228140,2022-02-18,Alexander,North Carolina,37003.0,10299,127.0
+2230087,2022-02-19,Alexander,Illinois,17003.0,1265,14.0
+2231391,2022-02-19,Alexander,North Carolina,37003.0,10299,127.0
+2233338,2022-02-20,Alexander,Illinois,17003.0,1265,14.0
+2234642,2022-02-20,Alexander,North Carolina,37003.0,10299,127.0
+2236589,2022-02-21,Alexander,Illinois,17003.0,1265,14.0
+2237893,2022-02-21,Alexander,North Carolina,37003.0,10354,127.0
+2239840,2022-02-22,Alexander,Illinois,17003.0,1266,14.0
+2241144,2022-02-22,Alexander,North Carolina,37003.0,10358,127.0
+2243091,2022-02-23,Alexander,Illinois,17003.0,1266,14.0
+2244395,2022-02-23,Alexander,North Carolina,37003.0,10378,128.0
+2246342,2022-02-24,Alexander,Illinois,17003.0,1268,15.0
+2247646,2022-02-24,Alexander,North Carolina,37003.0,10361,128.0
+2249593,2022-02-25,Alexander,Illinois,17003.0,1269,15.0
+2250897,2022-02-25,Alexander,North Carolina,37003.0,10327,128.0
+2252844,2022-02-26,Alexander,Illinois,17003.0,1269,15.0
+2254148,2022-02-26,Alexander,North Carolina,37003.0,10327,128.0
+2256095,2022-02-27,Alexander,Illinois,17003.0,1269,15.0
+2257399,2022-02-27,Alexander,North Carolina,37003.0,10327,128.0
+2259346,2022-02-28,Alexander,Illinois,17003.0,1269,15.0
+2260650,2022-02-28,Alexander,North Carolina,37003.0,10345,129.0
+2262597,2022-03-01,Alexander,Illinois,17003.0,1269,15.0
+2263901,2022-03-01,Alexander,North Carolina,37003.0,10343,130.0
+2265848,2022-03-02,Alexander,Illinois,17003.0,1270,15.0
+2267153,2022-03-02,Alexander,North Carolina,37003.0,10343,132.0
+2269101,2022-03-03,Alexander,Illinois,17003.0,1270,15.0
+2270405,2022-03-03,Alexander,North Carolina,37003.0,10352,133.0
+2272353,2022-03-04,Alexander,Illinois,17003.0,1270,15.0
+2273658,2022-03-04,Alexander,North Carolina,37003.0,10354,133.0
+2275606,2022-03-05,Alexander,Illinois,17003.0,1270,15.0
+2276911,2022-03-05,Alexander,North Carolina,37003.0,10354,133.0
+2278859,2022-03-06,Alexander,Illinois,17003.0,1270,15.0
+2280164,2022-03-06,Alexander,North Carolina,37003.0,10354,133.0
+2282112,2022-03-07,Alexander,Illinois,17003.0,1271,15.0
+2283416,2022-03-07,Alexander,North Carolina,37003.0,10359,133.0
+2285364,2022-03-08,Alexander,Illinois,17003.0,1272,15.0
+2286668,2022-03-08,Alexander,North Carolina,37003.0,10360,133.0
+2288615,2022-03-09,Alexander,Illinois,17003.0,1272,15.0
+2289920,2022-03-09,Alexander,North Carolina,37003.0,10366,133.0
+2291867,2022-03-10,Alexander,Illinois,17003.0,1272,15.0
+2293172,2022-03-10,Alexander,North Carolina,37003.0,10372,133.0
+2295119,2022-03-11,Alexander,Illinois,17003.0,1272,15.0
+2296424,2022-03-11,Alexander,North Carolina,37003.0,10368,133.0
+2298371,2022-03-12,Alexander,Illinois,17003.0,1272,15.0
+2299676,2022-03-12,Alexander,North Carolina,37003.0,10368,133.0
+2301623,2022-03-13,Alexander,Illinois,17003.0,1272,15.0
+2302928,2022-03-13,Alexander,North Carolina,37003.0,10368,133.0
+2304875,2022-03-14,Alexander,Illinois,17003.0,1272,15.0
+2306179,2022-03-14,Alexander,North Carolina,37003.0,10375,133.0
+2308126,2022-03-15,Alexander,Illinois,17003.0,1273,15.0
+2309432,2022-03-15,Alexander,North Carolina,37003.0,10377,133.0
+2311379,2022-03-16,Alexander,Illinois,17003.0,1273,15.0
+2312685,2022-03-16,Alexander,North Carolina,37003.0,10380,133.0
+2314632,2022-03-17,Alexander,Illinois,17003.0,1273,15.0
+2315938,2022-03-17,Alexander,North Carolina,37003.0,10382,133.0
+2317885,2022-03-18,Alexander,Illinois,17003.0,1273,15.0
+2319192,2022-03-18,Alexander,North Carolina,37003.0,10383,133.0
+2321139,2022-03-19,Alexander,Illinois,17003.0,1273,15.0
+2322446,2022-03-19,Alexander,North Carolina,37003.0,10383,133.0
+2324393,2022-03-20,Alexander,Illinois,17003.0,1273,15.0
+2325699,2022-03-20,Alexander,North Carolina,37003.0,10383,133.0
+2327646,2022-03-21,Alexander,Illinois,17003.0,1273,15.0
+2328951,2022-03-21,Alexander,North Carolina,37003.0,10384,133.0
+2330898,2022-03-22,Alexander,Illinois,17003.0,1273,15.0
+2332204,2022-03-22,Alexander,North Carolina,37003.0,10390,133.0
+2334152,2022-03-23,Alexander,Illinois,17003.0,1273,15.0
+2335458,2022-03-23,Alexander,North Carolina,37003.0,10394,133.0
+2337406,2022-03-24,Alexander,Illinois,17003.0,1273,15.0
+2338712,2022-03-24,Alexander,North Carolina,37003.0,10397,133.0
+2340659,2022-03-25,Alexander,Illinois,17003.0,1274,15.0
+2341965,2022-03-25,Alexander,North Carolina,37003.0,10399,133.0
+2343912,2022-03-26,Alexander,Illinois,17003.0,1274,15.0
+2345218,2022-03-26,Alexander,North Carolina,37003.0,10399,133.0
+2347165,2022-03-27,Alexander,Illinois,17003.0,1274,15.0
+2348471,2022-03-27,Alexander,North Carolina,37003.0,10399,133.0
+2350418,2022-03-28,Alexander,Illinois,17003.0,1275,15.0
+2351723,2022-03-28,Alexander,North Carolina,37003.0,10420,133.0
+2353670,2022-03-29,Alexander,Illinois,17003.0,1276,15.0
+2354976,2022-03-29,Alexander,North Carolina,37003.0,10420,133.0
+2356923,2022-03-30,Alexander,Illinois,17003.0,1276,15.0
+2358230,2022-03-30,Alexander,North Carolina,37003.0,10420,133.0
+2360177,2022-03-31,Alexander,Illinois,17003.0,1277,15.0
+2361484,2022-03-31,Alexander,North Carolina,37003.0,10422,133.0
+2363431,2022-04-01,Alexander,Illinois,17003.0,1276,15.0
+2364738,2022-04-01,Alexander,North Carolina,37003.0,10422,133.0
+2366684,2022-04-02,Alexander,Illinois,17003.0,1276,15.0
+2367991,2022-04-02,Alexander,North Carolina,37003.0,10422,133.0
+2369937,2022-04-03,Alexander,Illinois,17003.0,1276,15.0
+2371244,2022-04-03,Alexander,North Carolina,37003.0,10422,133.0
+2373190,2022-04-04,Alexander,Illinois,17003.0,1278,15.0
+2374496,2022-04-04,Alexander,North Carolina,37003.0,10423,133.0
+2376442,2022-04-05,Alexander,Illinois,17003.0,1280,15.0
+2377749,2022-04-05,Alexander,North Carolina,37003.0,10423,133.0
+2379696,2022-04-06,Alexander,Illinois,17003.0,1280,15.0
+2381004,2022-04-06,Alexander,North Carolina,37003.0,10426,133.0
+2382951,2022-04-07,Alexander,Illinois,17003.0,1280,15.0
+2384259,2022-04-07,Alexander,North Carolina,37003.0,10426,133.0
+2386206,2022-04-08,Alexander,Illinois,17003.0,1281,15.0
+2387513,2022-04-08,Alexander,North Carolina,37003.0,10426,133.0
+2389461,2022-04-09,Alexander,Illinois,17003.0,1281,15.0
+2390769,2022-04-09,Alexander,North Carolina,37003.0,10426,133.0

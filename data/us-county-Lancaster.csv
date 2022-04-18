@@ -1,0 +1,3007 @@
+,date,county,state,fips,cases,deaths
+1316,2020-03-11,Lancaster,South Carolina,45057.0,1,0.0
+1562,2020-03-12,Lancaster,South Carolina,45057.0,2,0.0
+1862,2020-03-13,Lancaster,South Carolina,45057.0,2,0.0
+2225,2020-03-14,Lancaster,South Carolina,45057.0,2,0.0
+2650,2020-03-15,Lancaster,South Carolina,45057.0,2,0.0
+3116,2020-03-16,Lancaster,South Carolina,45057.0,2,0.0
+3647,2020-03-17,Lancaster,South Carolina,45057.0,2,0.0
+4266,2020-03-18,Lancaster,South Carolina,45057.0,2,0.0
+4985,2020-03-19,Lancaster,Pennsylvania,42071.0,2,0.0
+5010,2020-03-19,Lancaster,South Carolina,45057.0,3,0.0
+5662,2020-03-20,Lancaster,Nebraska,31109.0,1,0.0
+5857,2020-03-20,Lancaster,Pennsylvania,42071.0,2,0.0
+5888,2020-03-20,Lancaster,South Carolina,45057.0,3,0.0
+6654,2020-03-21,Lancaster,Nebraska,31109.0,2,0.0
+6860,2020-03-21,Lancaster,Pennsylvania,42071.0,4,0.0
+6896,2020-03-21,Lancaster,South Carolina,45057.0,3,0.0
+7744,2020-03-22,Lancaster,Nebraska,31109.0,2,0.0
+7978,2020-03-22,Lancaster,Pennsylvania,42071.0,5,0.0
+8017,2020-03-22,Lancaster,South Carolina,45057.0,5,0.0
+8937,2020-03-23,Lancaster,Nebraska,31109.0,2,0.0
+9189,2020-03-23,Lancaster,Pennsylvania,42071.0,5,0.0
+9230,2020-03-23,Lancaster,South Carolina,45057.0,7,0.0
+10240,2020-03-24,Lancaster,Nebraska,31109.0,3,0.0
+10513,2020-03-24,Lancaster,Pennsylvania,42071.0,10,0.0
+10556,2020-03-24,Lancaster,South Carolina,45057.0,7,0.0
+11671,2020-03-25,Lancaster,Nebraska,31109.0,3,0.0
+11976,2020-03-25,Lancaster,Pennsylvania,42071.0,12,0.0
+12027,2020-03-25,Lancaster,South Carolina,45057.0,7,0.0
+13274,2020-03-26,Lancaster,Nebraska,31109.0,3,0.0
+13597,2020-03-26,Lancaster,Pennsylvania,42071.0,21,0.0
+13649,2020-03-26,Lancaster,South Carolina,45057.0,7,0.0
+15006,2020-03-27,Lancaster,Nebraska,31109.0,4,0.0
+15343,2020-03-27,Lancaster,Pennsylvania,42071.0,33,0.0
+15396,2020-03-27,Lancaster,South Carolina,45057.0,8,0.0
+16833,2020-03-28,Lancaster,Nebraska,31109.0,4,0.0
+17193,2020-03-28,Lancaster,Pennsylvania,42071.0,45,1.0
+17250,2020-03-28,Lancaster,South Carolina,45057.0,9,0.0
+17531,2020-03-28,Lancaster,Virginia,51103.0,1,0.0
+18756,2020-03-29,Lancaster,Nebraska,31109.0,6,0.0
+19131,2020-03-29,Lancaster,Pennsylvania,42071.0,67,2.0
+19190,2020-03-29,Lancaster,South Carolina,45057.0,13,0.0
+19492,2020-03-29,Lancaster,Virginia,51103.0,1,0.0
+20792,2020-03-30,Lancaster,Nebraska,31109.0,8,0.0
+21181,2020-03-30,Lancaster,Pennsylvania,42071.0,97,2.0
+21242,2020-03-30,Lancaster,South Carolina,45057.0,14,0.0
+21557,2020-03-30,Lancaster,Virginia,51103.0,1,0.0
+22916,2020-03-31,Lancaster,Nebraska,31109.0,8,0.0
+23317,2020-03-31,Lancaster,Pennsylvania,42071.0,123,3.0
+23380,2020-03-31,Lancaster,South Carolina,45057.0,15,0.0
+23703,2020-03-31,Lancaster,Virginia,51103.0,1,0.0
+25106,2020-04-01,Lancaster,Nebraska,31109.0,9,0.0
+25515,2020-04-01,Lancaster,Pennsylvania,42071.0,157,3.0
+25578,2020-04-01,Lancaster,South Carolina,45057.0,17,0.0
+25919,2020-04-01,Lancaster,Virginia,51103.0,1,0.0
+27365,2020-04-02,Lancaster,Nebraska,31109.0,12,0.0
+27788,2020-04-02,Lancaster,Pennsylvania,42071.0,203,4.0
+27853,2020-04-02,Lancaster,South Carolina,45057.0,26,0.0
+28209,2020-04-02,Lancaster,Virginia,51103.0,1,0.0
+29688,2020-04-03,Lancaster,Nebraska,31109.0,14,0.0
+30122,2020-04-03,Lancaster,Pennsylvania,42071.0,232,5.0
+30188,2020-04-03,Lancaster,South Carolina,45057.0,31,0.0
+30555,2020-04-03,Lancaster,Virginia,51103.0,1,0.0
+32071,2020-04-04,Lancaster,Nebraska,31109.0,18,0.0
+32512,2020-04-04,Lancaster,Pennsylvania,42071.0,291,5.0
+32579,2020-04-04,Lancaster,South Carolina,45057.0,39,0.0
+32954,2020-04-04,Lancaster,Virginia,51103.0,1,0.0
+34500,2020-04-05,Lancaster,Nebraska,31109.0,18,0.0
+34948,2020-04-05,Lancaster,Pennsylvania,42071.0,371,8.0
+35015,2020-04-05,Lancaster,South Carolina,45057.0,41,0.0
+35392,2020-04-05,Lancaster,Virginia,51103.0,1,0.0
+36969,2020-04-06,Lancaster,Nebraska,31109.0,31,0.0
+37423,2020-04-06,Lancaster,Pennsylvania,42071.0,408,11.0
+37490,2020-04-06,Lancaster,South Carolina,45057.0,43,0.0
+37875,2020-04-06,Lancaster,Virginia,51103.0,1,0.0
+39485,2020-04-07,Lancaster,Nebraska,31109.0,34,0.0
+39946,2020-04-07,Lancaster,Pennsylvania,42071.0,490,14.0
+40013,2020-04-07,Lancaster,South Carolina,45057.0,46,0.0
+40408,2020-04-07,Lancaster,Virginia,51103.0,1,0.0
+42041,2020-04-08,Lancaster,Nebraska,31109.0,39,1.0
+42506,2020-04-08,Lancaster,Pennsylvania,42071.0,561,16.0
+42573,2020-04-08,Lancaster,South Carolina,45057.0,48,0.0
+42977,2020-04-08,Lancaster,Virginia,51103.0,1,0.0
+44622,2020-04-09,Lancaster,Nebraska,31109.0,44,1.0
+45092,2020-04-09,Lancaster,Pennsylvania,42071.0,596,17.0
+45159,2020-04-09,Lancaster,South Carolina,45057.0,51,0.0
+45572,2020-04-09,Lancaster,Virginia,51103.0,1,0.0
+47234,2020-04-10,Lancaster,Nebraska,31109.0,49,1.0
+47709,2020-04-10,Lancaster,Pennsylvania,42071.0,648,21.0
+47776,2020-04-10,Lancaster,South Carolina,45057.0,61,0.0
+48198,2020-04-10,Lancaster,Virginia,51103.0,1,0.0
+49884,2020-04-11,Lancaster,Nebraska,31109.0,50,1.0
+50366,2020-04-11,Lancaster,Pennsylvania,42071.0,698,23.0
+50433,2020-04-11,Lancaster,South Carolina,45057.0,62,0.0
+50856,2020-04-11,Lancaster,Virginia,51103.0,1,0.0
+52558,2020-04-12,Lancaster,Nebraska,31109.0,54,1.0
+53039,2020-04-12,Lancaster,Pennsylvania,42071.0,772,24.0
+53106,2020-04-12,Lancaster,South Carolina,45057.0,65,0.0
+53531,2020-04-12,Lancaster,Virginia,51103.0,1,0.0
+55239,2020-04-13,Lancaster,Nebraska,31109.0,57,1.0
+55724,2020-04-13,Lancaster,Pennsylvania,42071.0,828,24.0
+55791,2020-04-13,Lancaster,South Carolina,45057.0,66,0.0
+56221,2020-04-13,Lancaster,Virginia,51103.0,1,0.0
+57938,2020-04-14,Lancaster,Nebraska,31109.0,57,1.0
+58427,2020-04-14,Lancaster,Pennsylvania,42071.0,865,56.0
+58494,2020-04-14,Lancaster,South Carolina,45057.0,67,1.0
+58927,2020-04-14,Lancaster,Virginia,51103.0,1,0.0
+60652,2020-04-15,Lancaster,Nebraska,31109.0,59,1.0
+61142,2020-04-15,Lancaster,Pennsylvania,42071.0,914,69.0
+61209,2020-04-15,Lancaster,South Carolina,45057.0,68,2.0
+61646,2020-04-15,Lancaster,Virginia,51103.0,1,0.0
+63376,2020-04-16,Lancaster,Nebraska,31109.0,62,1.0
+63868,2020-04-16,Lancaster,Pennsylvania,42071.0,970,77.0
+63935,2020-04-16,Lancaster,South Carolina,45057.0,71,2.0
+64379,2020-04-16,Lancaster,Virginia,51103.0,1,0.0
+66117,2020-04-17,Lancaster,Nebraska,31109.0,63,1.0
+66614,2020-04-17,Lancaster,Pennsylvania,42071.0,1030,85.0
+66681,2020-04-17,Lancaster,South Carolina,45057.0,73,2.0
+67127,2020-04-17,Lancaster,Virginia,51103.0,1,0.0
+68872,2020-04-18,Lancaster,Nebraska,31109.0,73,1.0
+69372,2020-04-18,Lancaster,Pennsylvania,42071.0,1113,93.0
+69439,2020-04-18,Lancaster,South Carolina,45057.0,73,2.0
+69889,2020-04-18,Lancaster,Virginia,51103.0,1,0.0
+71639,2020-04-19,Lancaster,Nebraska,31109.0,81,1.0
+72139,2020-04-19,Lancaster,Pennsylvania,42071.0,1188,98.0
+72206,2020-04-19,Lancaster,South Carolina,45057.0,79,2.0
+72659,2020-04-19,Lancaster,Virginia,51103.0,1,0.0
+74413,2020-04-20,Lancaster,Nebraska,31109.0,87,1.0
+74914,2020-04-20,Lancaster,Pennsylvania,42071.0,1236,101.0
+74981,2020-04-20,Lancaster,South Carolina,45057.0,79,3.0
+75435,2020-04-20,Lancaster,Virginia,51103.0,1,0.0
+77193,2020-04-21,Lancaster,Nebraska,31109.0,92,1.0
+77696,2020-04-21,Lancaster,Pennsylvania,42071.0,1295,107.0
+77763,2020-04-21,Lancaster,South Carolina,45057.0,79,3.0
+78217,2020-04-21,Lancaster,Virginia,51103.0,1,0.0
+79982,2020-04-22,Lancaster,Nebraska,31109.0,97,1.0
+80486,2020-04-22,Lancaster,Pennsylvania,42071.0,1326,122.0
+80553,2020-04-22,Lancaster,South Carolina,45057.0,80,3.0
+81010,2020-04-22,Lancaster,Virginia,51103.0,1,0.0
+82779,2020-04-23,Lancaster,Nebraska,31109.0,106,1.0
+83285,2020-04-23,Lancaster,Pennsylvania,42071.0,1359,131.0
+83352,2020-04-23,Lancaster,South Carolina,45057.0,79,3.0
+83811,2020-04-23,Lancaster,Virginia,51103.0,1,0.0
+85584,2020-04-24,Lancaster,Nebraska,31109.0,114,1.0
+86089,2020-04-24,Lancaster,Pennsylvania,42071.0,1451,139.0
+86156,2020-04-24,Lancaster,South Carolina,45057.0,80,3.0
+86618,2020-04-24,Lancaster,Virginia,51103.0,1,0.0
+88394,2020-04-25,Lancaster,Nebraska,31109.0,120,1.0
+88903,2020-04-25,Lancaster,Pennsylvania,42071.0,1501,140.0
+88970,2020-04-25,Lancaster,South Carolina,45057.0,85,3.0
+89433,2020-04-25,Lancaster,Virginia,51103.0,1,0.0
+91210,2020-04-26,Lancaster,Nebraska,31109.0,140,1.0
+91719,2020-04-26,Lancaster,Pennsylvania,42071.0,1577,145.0
+91786,2020-04-26,Lancaster,South Carolina,45057.0,87,3.0
+92250,2020-04-26,Lancaster,Virginia,51103.0,1,0.0
+94032,2020-04-27,Lancaster,Nebraska,31109.0,157,1.0
+94546,2020-04-27,Lancaster,Pennsylvania,42071.0,1633,152.0
+94613,2020-04-27,Lancaster,South Carolina,45057.0,88,3.0
+95079,2020-04-27,Lancaster,Virginia,51103.0,1,0.0
+96868,2020-04-28,Lancaster,Nebraska,31109.0,158,1.0
+97385,2020-04-28,Lancaster,Pennsylvania,42071.0,1678,164.0
+97452,2020-04-28,Lancaster,South Carolina,45057.0,90,4.0
+97922,2020-04-28,Lancaster,Virginia,51103.0,1,0.0
+99715,2020-04-29,Lancaster,Nebraska,31109.0,204,1.0
+100234,2020-04-29,Lancaster,Pennsylvania,42071.0,1703,170.0
+100301,2020-04-29,Lancaster,South Carolina,45057.0,93,4.0
+100772,2020-04-29,Lancaster,Virginia,51103.0,1,0.0
+102568,2020-04-30,Lancaster,Nebraska,31109.0,240,1.0
+103087,2020-04-30,Lancaster,Pennsylvania,42071.0,1765,173.0
+103154,2020-04-30,Lancaster,South Carolina,45057.0,96,4.0
+103627,2020-04-30,Lancaster,Virginia,51103.0,2,0.0
+105429,2020-05-01,Lancaster,Nebraska,31109.0,281,1.0
+105950,2020-05-01,Lancaster,Pennsylvania,42071.0,1820,183.0
+106017,2020-05-01,Lancaster,South Carolina,45057.0,99,4.0
+106491,2020-05-01,Lancaster,Virginia,51103.0,3,0.0
+108296,2020-05-02,Lancaster,Nebraska,31109.0,299,1.0
+108817,2020-05-02,Lancaster,Pennsylvania,42071.0,1904,188.0
+108884,2020-05-02,Lancaster,South Carolina,45057.0,100,4.0
+109360,2020-05-02,Lancaster,Virginia,51103.0,3,0.0
+111169,2020-05-03,Lancaster,Nebraska,31109.0,330,1.0
+111691,2020-05-03,Lancaster,Pennsylvania,42071.0,1936,191.0
+111758,2020-05-03,Lancaster,South Carolina,45057.0,101,4.0
+112234,2020-05-03,Lancaster,Virginia,51103.0,4,0.0
+114049,2020-05-04,Lancaster,Nebraska,31109.0,394,1.0
+114573,2020-05-04,Lancaster,Pennsylvania,42071.0,1991,198.0
+114640,2020-05-04,Lancaster,South Carolina,45057.0,99,4.0
+115117,2020-05-04,Lancaster,Virginia,51103.0,5,0.0
+116931,2020-05-05,Lancaster,Nebraska,31109.0,441,1.0
+117454,2020-05-05,Lancaster,Pennsylvania,42071.0,2018,206.0
+117596,2020-05-05,Lancaster,South Carolina,45057.0,96,4.0
+118076,2020-05-05,Lancaster,Virginia,51103.0,5,0.0
+119891,2020-05-06,Lancaster,Nebraska,31109.0,462,1.0
+120416,2020-05-06,Lancaster,Pennsylvania,42071.0,2041,209.0
+120558,2020-05-06,Lancaster,South Carolina,45057.0,99,4.0
+121040,2020-05-06,Lancaster,Virginia,51103.0,5,0.0
+122865,2020-05-07,Lancaster,Nebraska,31109.0,509,2.0
+123393,2020-05-07,Lancaster,Pennsylvania,42071.0,2070,216.0
+123536,2020-05-07,Lancaster,South Carolina,45057.0,101,4.0
+124021,2020-05-07,Lancaster,Virginia,51103.0,6,0.0
+125847,2020-05-08,Lancaster,Nebraska,31109.0,547,2.0
+126376,2020-05-08,Lancaster,Pennsylvania,42071.0,2122,222.0
+126519,2020-05-08,Lancaster,South Carolina,45057.0,103,4.0
+127006,2020-05-08,Lancaster,Virginia,51103.0,6,0.0
+128836,2020-05-09,Lancaster,Nebraska,31109.0,606,2.0
+129365,2020-05-09,Lancaster,Pennsylvania,42071.0,2185,228.0
+129508,2020-05-09,Lancaster,South Carolina,45057.0,104,4.0
+129996,2020-05-09,Lancaster,Virginia,51103.0,6,0.0
+131826,2020-05-10,Lancaster,Nebraska,31109.0,607,2.0
+132354,2020-05-10,Lancaster,Pennsylvania,42071.0,2223,233.0
+132497,2020-05-10,Lancaster,South Carolina,45057.0,110,4.0
+132986,2020-05-10,Lancaster,Virginia,51103.0,6,0.0
+134817,2020-05-11,Lancaster,Nebraska,31109.0,647,2.0
+135345,2020-05-11,Lancaster,Pennsylvania,42071.0,2256,239.0
+135488,2020-05-11,Lancaster,South Carolina,45057.0,111,5.0
+135976,2020-05-11,Lancaster,Virginia,51103.0,6,0.0
+137807,2020-05-12,Lancaster,Nebraska,31109.0,665,3.0
+138335,2020-05-12,Lancaster,Pennsylvania,42071.0,2295,241.0
+138478,2020-05-12,Lancaster,South Carolina,45057.0,115,5.0
+138967,2020-05-12,Lancaster,Virginia,51103.0,7,0.0
+140801,2020-05-13,Lancaster,Nebraska,31109.0,687,3.0
+141331,2020-05-13,Lancaster,Pennsylvania,42071.0,2325,245.0
+141474,2020-05-13,Lancaster,South Carolina,45057.0,110,5.0
+141963,2020-05-13,Lancaster,Virginia,51103.0,7,0.0
+143796,2020-05-14,Lancaster,Nebraska,31109.0,701,5.0
+144327,2020-05-14,Lancaster,Pennsylvania,42071.0,2364,249.0
+144470,2020-05-14,Lancaster,South Carolina,45057.0,108,5.0
+144960,2020-05-14,Lancaster,Virginia,51103.0,7,0.0
+146797,2020-05-15,Lancaster,Nebraska,31109.0,735,5.0
+147328,2020-05-15,Lancaster,Pennsylvania,42071.0,2428,253.0
+147471,2020-05-15,Lancaster,South Carolina,45057.0,110,5.0
+147963,2020-05-15,Lancaster,Virginia,51103.0,7,0.0
+149803,2020-05-16,Lancaster,Nebraska,31109.0,791,5.0
+150335,2020-05-16,Lancaster,Pennsylvania,42071.0,2470,255.0
+150479,2020-05-16,Lancaster,South Carolina,45057.0,109,5.0
+150972,2020-05-16,Lancaster,Virginia,51103.0,7,0.0
+152814,2020-05-17,Lancaster,Nebraska,31109.0,800,5.0
+153346,2020-05-17,Lancaster,Pennsylvania,42071.0,2508,258.0
+153490,2020-05-17,Lancaster,South Carolina,45057.0,111,5.0
+153983,2020-05-17,Lancaster,Virginia,51103.0,7,0.0
+155828,2020-05-18,Lancaster,Nebraska,31109.0,892,6.0
+156363,2020-05-18,Lancaster,Pennsylvania,42071.0,2552,263.0
+156507,2020-05-18,Lancaster,South Carolina,45057.0,111,5.0
+157000,2020-05-18,Lancaster,Virginia,51103.0,7,0.0
+158846,2020-05-19,Lancaster,Nebraska,31109.0,912,7.0
+159384,2020-05-19,Lancaster,Pennsylvania,42071.0,2593,267.0
+159528,2020-05-19,Lancaster,South Carolina,45057.0,108,5.0
+160024,2020-05-19,Lancaster,Virginia,51103.0,7,0.0
+161872,2020-05-20,Lancaster,Nebraska,31109.0,934,7.0
+162411,2020-05-20,Lancaster,Pennsylvania,42071.0,2599,271.0
+162555,2020-05-20,Lancaster,South Carolina,45057.0,108,5.0
+163052,2020-05-20,Lancaster,Virginia,51103.0,7,0.0
+164901,2020-05-21,Lancaster,Nebraska,31109.0,995,7.0
+165440,2020-05-21,Lancaster,Pennsylvania,42071.0,2690,277.0
+165584,2020-05-21,Lancaster,South Carolina,45057.0,116,5.0
+166081,2020-05-21,Lancaster,Virginia,51103.0,8,0.0
+167937,2020-05-22,Lancaster,Nebraska,31109.0,1005,8.0
+168476,2020-05-22,Lancaster,Pennsylvania,42071.0,2736,278.0
+168620,2020-05-22,Lancaster,South Carolina,45057.0,120,5.0
+169117,2020-05-22,Lancaster,Virginia,51103.0,10,0.0
+170976,2020-05-23,Lancaster,Nebraska,31109.0,1033,8.0
+171515,2020-05-23,Lancaster,Pennsylvania,42071.0,2790,280.0
+171659,2020-05-23,Lancaster,South Carolina,45057.0,121,5.0
+172158,2020-05-23,Lancaster,Virginia,51103.0,10,0.0
+174019,2020-05-24,Lancaster,Nebraska,31109.0,1056,8.0
+174557,2020-05-24,Lancaster,Pennsylvania,42071.0,2854,281.0
+174701,2020-05-24,Lancaster,South Carolina,45057.0,121,5.0
+175201,2020-05-24,Lancaster,Virginia,51103.0,10,0.0
+177062,2020-05-25,Lancaster,Nebraska,31109.0,1090,8.0
+177601,2020-05-25,Lancaster,Pennsylvania,42071.0,2896,281.0
+177745,2020-05-25,Lancaster,South Carolina,45057.0,121,5.0
+178246,2020-05-25,Lancaster,Virginia,51103.0,10,0.0
+180106,2020-05-26,Lancaster,Nebraska,31109.0,1098,9.0
+180644,2020-05-26,Lancaster,Pennsylvania,42071.0,2985,283.0
+180788,2020-05-26,Lancaster,South Carolina,45057.0,122,5.0
+181290,2020-05-26,Lancaster,Virginia,51103.0,10,0.0
+183154,2020-05-27,Lancaster,Nebraska,31109.0,1120,9.0
+183694,2020-05-27,Lancaster,Pennsylvania,42071.0,3031,285.0
+183838,2020-05-27,Lancaster,South Carolina,45057.0,124,5.0
+184341,2020-05-27,Lancaster,Virginia,51103.0,10,0.0
+186210,2020-05-28,Lancaster,Nebraska,31109.0,1140,9.0
+186751,2020-05-28,Lancaster,Pennsylvania,42071.0,3056,291.0
+186895,2020-05-28,Lancaster,South Carolina,45057.0,126,5.0
+187398,2020-05-28,Lancaster,Virginia,51103.0,10,0.0
+189269,2020-05-29,Lancaster,Nebraska,31109.0,1176,9.0
+189812,2020-05-29,Lancaster,Pennsylvania,42071.0,3105,292.0
+189957,2020-05-29,Lancaster,South Carolina,45057.0,129,5.0
+190462,2020-05-29,Lancaster,Virginia,51103.0,10,0.0
+192333,2020-05-30,Lancaster,Nebraska,31109.0,1195,9.0
+192877,2020-05-30,Lancaster,Pennsylvania,42071.0,3131,295.0
+193022,2020-05-30,Lancaster,South Carolina,45057.0,130,5.0
+193528,2020-05-30,Lancaster,Virginia,51103.0,10,0.0
+195403,2020-05-31,Lancaster,Nebraska,31109.0,1212,9.0
+195946,2020-05-31,Lancaster,Pennsylvania,42071.0,3161,297.0
+196091,2020-05-31,Lancaster,South Carolina,45057.0,135,5.0
+196598,2020-05-31,Lancaster,Virginia,51103.0,10,0.0
+198476,2020-06-01,Lancaster,Nebraska,31109.0,1228,9.0
+199019,2020-06-01,Lancaster,Pennsylvania,42071.0,3189,297.0
+199164,2020-06-01,Lancaster,South Carolina,45057.0,140,5.0
+199671,2020-06-01,Lancaster,Virginia,51103.0,10,0.0
+201550,2020-06-02,Lancaster,Nebraska,31109.0,1245,9.0
+202094,2020-06-02,Lancaster,Pennsylvania,42071.0,3218,306.0
+202239,2020-06-02,Lancaster,South Carolina,45057.0,166,5.0
+202747,2020-06-02,Lancaster,Virginia,51103.0,10,0.0
+204627,2020-06-03,Lancaster,Nebraska,31109.0,1263,9.0
+205171,2020-06-03,Lancaster,Pennsylvania,42071.0,3267,310.0
+205316,2020-06-03,Lancaster,South Carolina,45057.0,180,6.0
+205826,2020-06-03,Lancaster,Virginia,51103.0,10,0.0
+207708,2020-06-04,Lancaster,Nebraska,31109.0,1278,10.0
+208252,2020-06-04,Lancaster,Pennsylvania,42071.0,3301,315.0
+208397,2020-06-04,Lancaster,South Carolina,45057.0,182,6.0
+208908,2020-06-04,Lancaster,Virginia,51103.0,10,0.0
+210790,2020-06-05,Lancaster,Nebraska,31109.0,1310,10.0
+211334,2020-06-05,Lancaster,Pennsylvania,42071.0,3337,317.0
+211479,2020-06-05,Lancaster,South Carolina,45057.0,189,6.0
+211993,2020-06-05,Lancaster,Virginia,51103.0,10,0.0
+213874,2020-06-06,Lancaster,Nebraska,31109.0,1340,10.0
+214420,2020-06-06,Lancaster,Pennsylvania,42071.0,3404,317.0
+214565,2020-06-06,Lancaster,South Carolina,45057.0,199,6.0
+215080,2020-06-06,Lancaster,Virginia,51103.0,10,0.0
+216963,2020-06-07,Lancaster,Nebraska,31109.0,1356,10.0
+217510,2020-06-07,Lancaster,Pennsylvania,42071.0,3461,318.0
+217655,2020-06-07,Lancaster,South Carolina,45057.0,201,6.0
+218170,2020-06-07,Lancaster,Virginia,51103.0,10,0.0
+220055,2020-06-08,Lancaster,Nebraska,31109.0,1372,10.0
+220602,2020-06-08,Lancaster,Pennsylvania,42071.0,3503,318.0
+220747,2020-06-08,Lancaster,South Carolina,45057.0,203,6.0
+221262,2020-06-08,Lancaster,Virginia,51103.0,10,0.0
+223151,2020-06-09,Lancaster,Nebraska,31109.0,1376,10.0
+223697,2020-06-09,Lancaster,Pennsylvania,42071.0,3554,320.0
+223842,2020-06-09,Lancaster,South Carolina,45057.0,214,6.0
+224358,2020-06-09,Lancaster,Virginia,51103.0,10,0.0
+226250,2020-06-10,Lancaster,Nebraska,31109.0,1397,10.0
+226797,2020-06-10,Lancaster,Pennsylvania,42071.0,3600,322.0
+226942,2020-06-10,Lancaster,South Carolina,45057.0,220,6.0
+227458,2020-06-10,Lancaster,Virginia,51103.0,10,0.0
+229353,2020-06-11,Lancaster,Nebraska,31109.0,1429,10.0
+229901,2020-06-11,Lancaster,Pennsylvania,42071.0,3632,322.0
+230046,2020-06-11,Lancaster,South Carolina,45057.0,232,6.0
+230562,2020-06-11,Lancaster,Virginia,51103.0,11,0.0
+232458,2020-06-12,Lancaster,Nebraska,31109.0,1445,10.0
+233006,2020-06-12,Lancaster,Pennsylvania,42071.0,3682,325.0
+233151,2020-06-12,Lancaster,South Carolina,45057.0,230,6.0
+233667,2020-06-12,Lancaster,Virginia,51103.0,11,0.0
+235564,2020-06-13,Lancaster,Nebraska,31109.0,1464,10.0
+236111,2020-06-13,Lancaster,Pennsylvania,42071.0,3719,329.0
+236256,2020-06-13,Lancaster,South Carolina,45057.0,239,6.0
+236774,2020-06-13,Lancaster,Virginia,51103.0,11,0.0
+238671,2020-06-14,Lancaster,Nebraska,31109.0,1472,10.0
+239219,2020-06-14,Lancaster,Pennsylvania,42071.0,3752,329.0
+239364,2020-06-14,Lancaster,South Carolina,45057.0,246,6.0
+239882,2020-06-14,Lancaster,Virginia,51103.0,11,0.0
+241781,2020-06-15,Lancaster,Nebraska,31109.0,1487,10.0
+242328,2020-06-15,Lancaster,Pennsylvania,42071.0,3777,331.0
+242473,2020-06-15,Lancaster,South Carolina,45057.0,248,6.0
+242993,2020-06-15,Lancaster,Virginia,51103.0,11,0.0
+244892,2020-06-16,Lancaster,Nebraska,31109.0,1521,10.0
+245440,2020-06-16,Lancaster,Pennsylvania,42071.0,3802,333.0
+245585,2020-06-16,Lancaster,South Carolina,45057.0,259,6.0
+246106,2020-06-16,Lancaster,Virginia,51103.0,11,0.0
+248005,2020-06-17,Lancaster,Nebraska,31109.0,1545,10.0
+248553,2020-06-17,Lancaster,Pennsylvania,42071.0,3830,336.0
+248698,2020-06-17,Lancaster,South Carolina,45057.0,270,7.0
+249218,2020-06-17,Lancaster,Virginia,51103.0,11,0.0
+251120,2020-06-18,Lancaster,Nebraska,31109.0,1569,10.0
+251668,2020-06-18,Lancaster,Pennsylvania,42071.0,3867,341.0
+251813,2020-06-18,Lancaster,South Carolina,45057.0,277,9.0
+252333,2020-06-18,Lancaster,Virginia,51103.0,11,0.0
+254235,2020-06-19,Lancaster,Nebraska,31109.0,1588,10.0
+254783,2020-06-19,Lancaster,Pennsylvania,42071.0,3911,344.0
+254928,2020-06-19,Lancaster,South Carolina,45057.0,300,10.0
+255452,2020-06-19,Lancaster,Virginia,51103.0,11,0.0
+257358,2020-06-20,Lancaster,Nebraska,31109.0,1603,10.0
+257909,2020-06-20,Lancaster,Pennsylvania,42071.0,3949,346.0
+258054,2020-06-20,Lancaster,South Carolina,45057.0,315,10.0
+258579,2020-06-20,Lancaster,Virginia,51103.0,12,0.0
+260484,2020-06-21,Lancaster,Nebraska,31109.0,1611,10.0
+261036,2020-06-21,Lancaster,Pennsylvania,42071.0,3999,346.0
+261181,2020-06-21,Lancaster,South Carolina,45057.0,324,10.0
+261706,2020-06-21,Lancaster,Virginia,51103.0,12,0.0
+263613,2020-06-22,Lancaster,Nebraska,31109.0,1623,10.0
+264164,2020-06-22,Lancaster,Pennsylvania,42071.0,4029,347.0
+264309,2020-06-22,Lancaster,South Carolina,45057.0,337,11.0
+264835,2020-06-22,Lancaster,Virginia,51103.0,12,0.0
+266740,2020-06-23,Lancaster,Nebraska,31109.0,1634,11.0
+267292,2020-06-23,Lancaster,Pennsylvania,42071.0,4106,350.0
+267437,2020-06-23,Lancaster,South Carolina,45057.0,346,10.0
+267964,2020-06-23,Lancaster,Virginia,51103.0,12,0.0
+269874,2020-06-24,Lancaster,Nebraska,31109.0,1649,11.0
+270426,2020-06-24,Lancaster,Pennsylvania,42071.0,4152,352.0
+270571,2020-06-24,Lancaster,South Carolina,45057.0,352,10.0
+271098,2020-06-24,Lancaster,Virginia,51103.0,12,0.0
+273013,2020-06-25,Lancaster,Nebraska,31109.0,1660,12.0
+273565,2020-06-25,Lancaster,Pennsylvania,42071.0,4212,354.0
+273710,2020-06-25,Lancaster,South Carolina,45057.0,383,11.0
+274238,2020-06-25,Lancaster,Virginia,51103.0,12,0.0
+276156,2020-06-26,Lancaster,Nebraska,31109.0,1670,12.0
+276712,2020-06-26,Lancaster,Pennsylvania,42071.0,4280,354.0
+276857,2020-06-26,Lancaster,South Carolina,45057.0,394,11.0
+277386,2020-06-26,Lancaster,Virginia,51103.0,10,0.0
+279304,2020-06-27,Lancaster,Nebraska,31109.0,1688,12.0
+279860,2020-06-27,Lancaster,Pennsylvania,42071.0,4326,355.0
+280005,2020-06-27,Lancaster,South Carolina,45057.0,412,12.0
+280534,2020-06-27,Lancaster,Virginia,51103.0,10,0.0
+282452,2020-06-28,Lancaster,Nebraska,31109.0,1697,12.0
+283006,2020-06-28,Lancaster,Pennsylvania,42071.0,4388,356.0
+283151,2020-06-28,Lancaster,South Carolina,45057.0,421,12.0
+283680,2020-06-28,Lancaster,Virginia,51103.0,11,0.0
+285597,2020-06-29,Lancaster,Nebraska,31109.0,1718,12.0
+286151,2020-06-29,Lancaster,Pennsylvania,42071.0,4414,356.0
+286296,2020-06-29,Lancaster,South Carolina,45057.0,447,12.0
+286826,2020-06-29,Lancaster,Virginia,51103.0,11,0.0
+288747,2020-06-30,Lancaster,Nebraska,31109.0,1728,12.0
+289302,2020-06-30,Lancaster,Pennsylvania,42071.0,4442,357.0
+289447,2020-06-30,Lancaster,South Carolina,45057.0,475,12.0
+289976,2020-06-30,Lancaster,Virginia,51103.0,11,0.0
+291899,2020-07-01,Lancaster,Nebraska,31109.0,1751,13.0
+292454,2020-07-01,Lancaster,Pennsylvania,42071.0,4464,357.0
+292599,2020-07-01,Lancaster,South Carolina,45057.0,493,13.0
+293129,2020-07-01,Lancaster,Virginia,51103.0,11,0.0
+295054,2020-07-02,Lancaster,Nebraska,31109.0,1766,13.0
+295610,2020-07-02,Lancaster,Pennsylvania,42071.0,4504,365.0
+295755,2020-07-02,Lancaster,South Carolina,45057.0,506,13.0
+296284,2020-07-02,Lancaster,Virginia,51103.0,11,0.0
+298213,2020-07-03,Lancaster,Nebraska,31109.0,1791,13.0
+298769,2020-07-03,Lancaster,Pennsylvania,42071.0,4530,365.0
+298914,2020-07-03,Lancaster,South Carolina,45057.0,519,13.0
+299446,2020-07-03,Lancaster,Virginia,51103.0,11,0.0
+301376,2020-07-04,Lancaster,Nebraska,31109.0,1838,13.0
+301933,2020-07-04,Lancaster,Pennsylvania,42071.0,4572,366.0
+302078,2020-07-04,Lancaster,South Carolina,45057.0,547,13.0
+302610,2020-07-04,Lancaster,Virginia,51103.0,11,0.0
+304540,2020-07-05,Lancaster,Nebraska,31109.0,1866,13.0
+305096,2020-07-05,Lancaster,Pennsylvania,42071.0,4589,367.0
+305241,2020-07-05,Lancaster,South Carolina,45057.0,555,14.0
+305774,2020-07-05,Lancaster,Virginia,51103.0,11,0.0
+307707,2020-07-06,Lancaster,Nebraska,31109.0,1882,13.0
+308263,2020-07-06,Lancaster,Pennsylvania,42071.0,4602,367.0
+308408,2020-07-06,Lancaster,South Carolina,45057.0,571,14.0
+308942,2020-07-06,Lancaster,Virginia,51103.0,11,0.0
+310875,2020-07-07,Lancaster,Nebraska,31109.0,1909,13.0
+311432,2020-07-07,Lancaster,Pennsylvania,42071.0,4623,372.0
+311577,2020-07-07,Lancaster,South Carolina,45057.0,574,14.0
+312111,2020-07-07,Lancaster,Virginia,51103.0,11,0.0
+314046,2020-07-08,Lancaster,Nebraska,31109.0,1963,13.0
+314604,2020-07-08,Lancaster,Pennsylvania,42071.0,4673,372.0
+314749,2020-07-08,Lancaster,South Carolina,45057.0,579,14.0
+315286,2020-07-08,Lancaster,Virginia,51103.0,11,0.0
+317220,2020-07-09,Lancaster,Nebraska,31109.0,1998,13.0
+317777,2020-07-09,Lancaster,Pennsylvania,42071.0,4711,377.0
+317922,2020-07-09,Lancaster,South Carolina,45057.0,594,14.0
+318459,2020-07-09,Lancaster,Virginia,51103.0,12,0.0
+320395,2020-07-10,Lancaster,Nebraska,31109.0,2028,13.0
+320955,2020-07-10,Lancaster,Pennsylvania,42071.0,4783,382.0
+321100,2020-07-10,Lancaster,South Carolina,45057.0,612,14.0
+321638,2020-07-10,Lancaster,Virginia,51103.0,12,0.0
+323574,2020-07-11,Lancaster,Nebraska,31109.0,2076,13.0
+324135,2020-07-11,Lancaster,Pennsylvania,42071.0,4816,383.0
+324280,2020-07-11,Lancaster,South Carolina,45057.0,634,15.0
+324819,2020-07-11,Lancaster,Virginia,51103.0,13,0.0
+326758,2020-07-12,Lancaster,Nebraska,31109.0,2129,13.0
+327320,2020-07-12,Lancaster,Pennsylvania,42071.0,4844,383.0
+327465,2020-07-12,Lancaster,South Carolina,45057.0,657,15.0
+328004,2020-07-12,Lancaster,Virginia,51103.0,13,0.0
+329945,2020-07-13,Lancaster,Nebraska,31109.0,2182,13.0
+330506,2020-07-13,Lancaster,Pennsylvania,42071.0,4851,383.0
+330651,2020-07-13,Lancaster,South Carolina,45057.0,659,15.0
+331190,2020-07-13,Lancaster,Virginia,51103.0,16,0.0
+333135,2020-07-14,Lancaster,Nebraska,31109.0,2226,13.0
+333698,2020-07-14,Lancaster,Pennsylvania,42071.0,4876,386.0
+333843,2020-07-14,Lancaster,South Carolina,45057.0,672,16.0
+334383,2020-07-14,Lancaster,Virginia,51103.0,20,0.0
+336329,2020-07-15,Lancaster,Nebraska,31109.0,2266,13.0
+336892,2020-07-15,Lancaster,Pennsylvania,42071.0,4906,388.0
+337037,2020-07-15,Lancaster,South Carolina,45057.0,684,17.0
+337578,2020-07-15,Lancaster,Virginia,51103.0,22,0.0
+339526,2020-07-16,Lancaster,Nebraska,31109.0,2316,13.0
+340089,2020-07-16,Lancaster,Pennsylvania,42071.0,4951,388.0
+340234,2020-07-16,Lancaster,South Carolina,45057.0,707,18.0
+340774,2020-07-16,Lancaster,Virginia,51103.0,22,0.0
+342723,2020-07-17,Lancaster,Nebraska,31109.0,2363,14.0
+343287,2020-07-17,Lancaster,Pennsylvania,42071.0,4988,390.0
+343432,2020-07-17,Lancaster,South Carolina,45057.0,728,18.0
+343973,2020-07-17,Lancaster,Virginia,51103.0,22,0.0
+345923,2020-07-18,Lancaster,Nebraska,31109.0,2401,14.0
+346487,2020-07-18,Lancaster,Pennsylvania,42071.0,5019,392.0
+346632,2020-07-18,Lancaster,South Carolina,45057.0,738,18.0
+347173,2020-07-18,Lancaster,Virginia,51103.0,23,0.0
+349124,2020-07-19,Lancaster,Nebraska,31109.0,2430,14.0
+349687,2020-07-19,Lancaster,Pennsylvania,42071.0,5052,392.0
+349832,2020-07-19,Lancaster,South Carolina,45057.0,762,18.0
+350374,2020-07-19,Lancaster,Virginia,51103.0,23,0.0
+352325,2020-07-20,Lancaster,Nebraska,31109.0,2482,14.0
+352890,2020-07-20,Lancaster,Pennsylvania,42071.0,5084,392.0
+353035,2020-07-20,Lancaster,South Carolina,45057.0,775,18.0
+353576,2020-07-20,Lancaster,Virginia,51103.0,23,0.0
+355528,2020-07-21,Lancaster,Nebraska,31109.0,2541,14.0
+356093,2020-07-21,Lancaster,Pennsylvania,42071.0,5122,392.0
+356238,2020-07-21,Lancaster,South Carolina,45057.0,797,18.0
+356779,2020-07-21,Lancaster,Virginia,51103.0,23,0.0
+358732,2020-07-22,Lancaster,Nebraska,31109.0,2605,14.0
+359297,2020-07-22,Lancaster,Pennsylvania,42071.0,5158,393.0
+359442,2020-07-22,Lancaster,South Carolina,45057.0,823,19.0
+359984,2020-07-22,Lancaster,Virginia,51103.0,23,0.0
+361938,2020-07-23,Lancaster,Nebraska,31109.0,2669,14.0
+362503,2020-07-23,Lancaster,Pennsylvania,42071.0,5190,395.0
+362648,2020-07-23,Lancaster,South Carolina,45057.0,842,19.0
+363190,2020-07-23,Lancaster,Virginia,51103.0,24,0.0
+365144,2020-07-24,Lancaster,Nebraska,31109.0,2718,14.0
+365709,2020-07-24,Lancaster,Pennsylvania,42071.0,5228,400.0
+365854,2020-07-24,Lancaster,South Carolina,45057.0,868,20.0
+366396,2020-07-24,Lancaster,Virginia,51103.0,24,0.0
+368353,2020-07-25,Lancaster,Nebraska,31109.0,2758,14.0
+368918,2020-07-25,Lancaster,Pennsylvania,42071.0,5263,401.0
+369063,2020-07-25,Lancaster,South Carolina,45057.0,892,20.0
+369605,2020-07-25,Lancaster,Virginia,51103.0,26,0.0
+371564,2020-07-26,Lancaster,Nebraska,31109.0,2802,14.0
+372130,2020-07-26,Lancaster,Pennsylvania,42071.0,5311,401.0
+372275,2020-07-26,Lancaster,South Carolina,45057.0,918,20.0
+372817,2020-07-26,Lancaster,Virginia,51103.0,26,0.0
+374776,2020-07-27,Lancaster,Nebraska,31109.0,2837,14.0
+375343,2020-07-27,Lancaster,Pennsylvania,42071.0,5328,401.0
+375488,2020-07-27,Lancaster,South Carolina,45057.0,925,20.0
+376031,2020-07-27,Lancaster,Virginia,51103.0,28,0.0
+377992,2020-07-28,Lancaster,Nebraska,31109.0,2895,14.0
+378559,2020-07-28,Lancaster,Pennsylvania,42071.0,5376,403.0
+378704,2020-07-28,Lancaster,South Carolina,45057.0,969,21.0
+379247,2020-07-28,Lancaster,Virginia,51103.0,29,0.0
+381210,2020-07-29,Lancaster,Nebraska,31109.0,2945,15.0
+381776,2020-07-29,Lancaster,Pennsylvania,42071.0,5414,405.0
+381921,2020-07-29,Lancaster,South Carolina,45057.0,984,21.0
+382464,2020-07-29,Lancaster,Virginia,51103.0,29,0.0
+384426,2020-07-30,Lancaster,Nebraska,31109.0,2992,15.0
+384994,2020-07-30,Lancaster,Pennsylvania,42071.0,5488,406.0
+385139,2020-07-30,Lancaster,South Carolina,45057.0,1003,21.0
+385682,2020-07-30,Lancaster,Virginia,51103.0,29,0.0
+387644,2020-07-31,Lancaster,Nebraska,31109.0,3028,15.0
+388211,2020-07-31,Lancaster,Pennsylvania,42071.0,5525,406.0
+388356,2020-07-31,Lancaster,South Carolina,45057.0,1018,21.0
+388899,2020-07-31,Lancaster,Virginia,51103.0,29,0.0
+390861,2020-08-01,Lancaster,Nebraska,31109.0,3074,15.0
+391428,2020-08-01,Lancaster,Pennsylvania,42071.0,5590,407.0
+391573,2020-08-01,Lancaster,South Carolina,45057.0,1039,21.0
+392116,2020-08-01,Lancaster,Virginia,51103.0,31,0.0
+394078,2020-08-02,Lancaster,Nebraska,31109.0,3118,15.0
+394644,2020-08-02,Lancaster,Pennsylvania,42071.0,5654,407.0
+394789,2020-08-02,Lancaster,South Carolina,45057.0,1063,21.0
+395332,2020-08-02,Lancaster,Virginia,51103.0,31,0.0
+397294,2020-08-03,Lancaster,Nebraska,31109.0,3163,15.0
+397861,2020-08-03,Lancaster,Pennsylvania,42071.0,5682,407.0
+398006,2020-08-03,Lancaster,South Carolina,45057.0,1085,21.0
+398548,2020-08-03,Lancaster,Virginia,51103.0,31,0.0
+400509,2020-08-04,Lancaster,Nebraska,31109.0,3195,16.0
+401076,2020-08-04,Lancaster,Pennsylvania,42071.0,5705,408.0
+401221,2020-08-04,Lancaster,South Carolina,45057.0,1101,22.0
+401764,2020-08-04,Lancaster,Virginia,51103.0,32,0.0
+403727,2020-08-05,Lancaster,Nebraska,31109.0,3215,17.0
+404294,2020-08-05,Lancaster,Pennsylvania,42071.0,5725,408.0
+404439,2020-08-05,Lancaster,South Carolina,45057.0,1109,23.0
+404982,2020-08-05,Lancaster,Virginia,51103.0,32,0.0
+406946,2020-08-06,Lancaster,Nebraska,31109.0,3244,17.0
+407513,2020-08-06,Lancaster,Pennsylvania,42071.0,5756,410.0
+407658,2020-08-06,Lancaster,South Carolina,45057.0,1138,23.0
+408202,2020-08-06,Lancaster,Virginia,51103.0,32,0.0
+410166,2020-08-07,Lancaster,Nebraska,31109.0,3266,17.0
+410733,2020-08-07,Lancaster,Pennsylvania,42071.0,5822,410.0
+410878,2020-08-07,Lancaster,South Carolina,45057.0,1161,23.0
+411421,2020-08-07,Lancaster,Virginia,51103.0,35,0.0
+413386,2020-08-08,Lancaster,Nebraska,31109.0,3287,17.0
+413953,2020-08-08,Lancaster,Pennsylvania,42071.0,5856,411.0
+414098,2020-08-08,Lancaster,South Carolina,45057.0,1181,23.0
+414641,2020-08-08,Lancaster,Virginia,51103.0,36,0.0
+416606,2020-08-09,Lancaster,Nebraska,31109.0,3313,17.0
+417174,2020-08-09,Lancaster,Pennsylvania,42071.0,5923,411.0
+417319,2020-08-09,Lancaster,South Carolina,45057.0,1209,25.0
+417862,2020-08-09,Lancaster,Virginia,51103.0,37,0.0
+419827,2020-08-10,Lancaster,Nebraska,31109.0,3337,17.0
+420394,2020-08-10,Lancaster,Pennsylvania,42071.0,5975,411.0
+420539,2020-08-10,Lancaster,South Carolina,45057.0,1227,26.0
+421083,2020-08-10,Lancaster,Virginia,51103.0,40,0.0
+423050,2020-08-11,Lancaster,Nebraska,31109.0,3361,19.0
+423617,2020-08-11,Lancaster,Pennsylvania,42071.0,5999,414.0
+423762,2020-08-11,Lancaster,South Carolina,45057.0,1247,26.0
+424304,2020-08-11,Lancaster,Virginia,51103.0,40,0.0
+426272,2020-08-12,Lancaster,Nebraska,31109.0,3384,19.0
+426840,2020-08-12,Lancaster,Pennsylvania,42071.0,6028,417.0
+426985,2020-08-12,Lancaster,South Carolina,45057.0,1265,26.0
+427528,2020-08-12,Lancaster,Virginia,51103.0,41,0.0
+429497,2020-08-13,Lancaster,Nebraska,31109.0,3415,19.0
+430065,2020-08-13,Lancaster,Pennsylvania,42071.0,6099,418.0
+430210,2020-08-13,Lancaster,South Carolina,45057.0,1297,27.0
+430756,2020-08-13,Lancaster,Virginia,51103.0,45,0.0
+432724,2020-08-14,Lancaster,Nebraska,31109.0,3431,19.0
+433291,2020-08-14,Lancaster,Pennsylvania,42071.0,6146,420.0
+433436,2020-08-14,Lancaster,South Carolina,45057.0,1322,27.0
+433981,2020-08-14,Lancaster,Virginia,51103.0,45,0.0
+435950,2020-08-15,Lancaster,Nebraska,31109.0,3452,19.0
+436518,2020-08-15,Lancaster,Pennsylvania,42071.0,6182,421.0
+436663,2020-08-15,Lancaster,South Carolina,45057.0,1353,27.0
+437207,2020-08-15,Lancaster,Virginia,51103.0,49,0.0
+439175,2020-08-16,Lancaster,Nebraska,31109.0,3467,19.0
+439743,2020-08-16,Lancaster,Pennsylvania,42071.0,6212,421.0
+439888,2020-08-16,Lancaster,South Carolina,45057.0,1375,27.0
+440433,2020-08-16,Lancaster,Virginia,51103.0,49,0.0
+442402,2020-08-17,Lancaster,Nebraska,31109.0,3486,19.0
+442970,2020-08-17,Lancaster,Pennsylvania,42071.0,6228,421.0
+443115,2020-08-17,Lancaster,South Carolina,45057.0,1392,27.0
+443659,2020-08-17,Lancaster,Virginia,51103.0,49,0.0
+445629,2020-08-18,Lancaster,Nebraska,31109.0,3501,20.0
+446196,2020-08-18,Lancaster,Pennsylvania,42071.0,6260,422.0
+446341,2020-08-18,Lancaster,South Carolina,45057.0,1405,27.0
+446886,2020-08-18,Lancaster,Virginia,51103.0,49,0.0
+448854,2020-08-19,Lancaster,Nebraska,31109.0,3520,20.0
+449424,2020-08-19,Lancaster,Pennsylvania,42071.0,6287,425.0
+449569,2020-08-19,Lancaster,South Carolina,45057.0,1418,27.0
+450114,2020-08-19,Lancaster,Virginia,51103.0,49,0.0
+452082,2020-08-20,Lancaster,Nebraska,31109.0,3553,20.0
+452652,2020-08-20,Lancaster,Pennsylvania,42071.0,6328,425.0
+452797,2020-08-20,Lancaster,South Carolina,45057.0,1450,27.0
+453342,2020-08-20,Lancaster,Virginia,51103.0,52,0.0
+455310,2020-08-21,Lancaster,Nebraska,31109.0,3591,20.0
+455880,2020-08-21,Lancaster,Pennsylvania,42071.0,6393,427.0
+456025,2020-08-21,Lancaster,South Carolina,45057.0,1477,28.0
+456570,2020-08-21,Lancaster,Virginia,51103.0,54,0.0
+458538,2020-08-22,Lancaster,Nebraska,31109.0,3618,20.0
+459108,2020-08-22,Lancaster,Pennsylvania,42071.0,6428,428.0
+459253,2020-08-22,Lancaster,South Carolina,45057.0,1517,30.0
+459797,2020-08-22,Lancaster,Virginia,51103.0,56,0.0
+461765,2020-08-23,Lancaster,Nebraska,31109.0,3635,20.0
+462336,2020-08-23,Lancaster,Pennsylvania,42071.0,6465,428.0
+462481,2020-08-23,Lancaster,South Carolina,45057.0,1537,31.0
+463026,2020-08-23,Lancaster,Virginia,51103.0,57,0.0
+464996,2020-08-24,Lancaster,Nebraska,31109.0,3641,20.0
+465565,2020-08-24,Lancaster,Pennsylvania,42071.0,6479,428.0
+465710,2020-08-24,Lancaster,South Carolina,45057.0,1554,31.0
+466255,2020-08-24,Lancaster,Virginia,51103.0,60,0.0
+468225,2020-08-25,Lancaster,Nebraska,31109.0,3707,20.0
+468793,2020-08-25,Lancaster,Pennsylvania,42071.0,6518,428.0
+468938,2020-08-25,Lancaster,South Carolina,45057.0,1563,31.0
+469484,2020-08-25,Lancaster,Virginia,51103.0,61,0.0
+471456,2020-08-26,Lancaster,Nebraska,31109.0,3741,20.0
+472025,2020-08-26,Lancaster,Pennsylvania,42071.0,6547,429.0
+472170,2020-08-26,Lancaster,South Carolina,45057.0,1568,35.0
+472716,2020-08-26,Lancaster,Virginia,51103.0,63,0.0
+474688,2020-08-27,Lancaster,Nebraska,31109.0,3802,20.0
+475259,2020-08-27,Lancaster,Pennsylvania,42071.0,6578,429.0
+475404,2020-08-27,Lancaster,South Carolina,45057.0,1582,35.0
+475949,2020-08-27,Lancaster,Virginia,51103.0,64,0.0
+477921,2020-08-28,Lancaster,Nebraska,31109.0,3875,21.0
+478492,2020-08-28,Lancaster,Pennsylvania,42071.0,6623,429.0
+478637,2020-08-28,Lancaster,South Carolina,45057.0,1606,35.0
+479182,2020-08-28,Lancaster,Virginia,51103.0,66,0.0
+481153,2020-08-29,Lancaster,Nebraska,31109.0,3923,21.0
+481726,2020-08-29,Lancaster,Pennsylvania,42071.0,6660,432.0
+481871,2020-08-29,Lancaster,South Carolina,45057.0,1628,39.0
+482416,2020-08-29,Lancaster,Virginia,51103.0,68,0.0
+484388,2020-08-30,Lancaster,Nebraska,31109.0,3990,21.0
+484961,2020-08-30,Lancaster,Pennsylvania,42071.0,6697,432.0
+485106,2020-08-30,Lancaster,South Carolina,45057.0,1639,39.0
+485651,2020-08-30,Lancaster,Virginia,51103.0,69,0.0
+487622,2020-08-31,Lancaster,Nebraska,31109.0,4059,21.0
+488194,2020-08-31,Lancaster,Pennsylvania,42071.0,6731,432.0
+488339,2020-08-31,Lancaster,South Carolina,45057.0,1658,39.0
+488884,2020-08-31,Lancaster,Virginia,51103.0,71,0.0
+490855,2020-09-01,Lancaster,Nebraska,31109.0,4117,21.0
+491427,2020-09-01,Lancaster,Pennsylvania,42071.0,6789,432.0
+491572,2020-09-01,Lancaster,South Carolina,45057.0,1676,40.0
+492117,2020-09-01,Lancaster,Virginia,51103.0,72,0.0
+494089,2020-09-02,Lancaster,Nebraska,31109.0,4213,21.0
+494661,2020-09-02,Lancaster,Pennsylvania,42071.0,6867,434.0
+494806,2020-09-02,Lancaster,South Carolina,45057.0,1685,40.0
+495351,2020-09-02,Lancaster,Virginia,51103.0,73,0.0
+497322,2020-09-03,Lancaster,Nebraska,31109.0,4313,21.0
+497894,2020-09-03,Lancaster,Pennsylvania,42071.0,6919,435.0
+498039,2020-09-03,Lancaster,South Carolina,45057.0,1699,41.0
+498584,2020-09-03,Lancaster,Virginia,51103.0,73,0.0
+500556,2020-09-04,Lancaster,Nebraska,31109.0,4397,21.0
+501128,2020-09-04,Lancaster,Pennsylvania,42071.0,6960,438.0
+501273,2020-09-04,Lancaster,South Carolina,45057.0,1728,43.0
+501818,2020-09-04,Lancaster,Virginia,51103.0,76,0.0
+503790,2020-09-05,Lancaster,Nebraska,31109.0,4445,21.0
+504362,2020-09-05,Lancaster,Pennsylvania,42071.0,7002,439.0
+504507,2020-09-05,Lancaster,South Carolina,45057.0,1747,43.0
+505052,2020-09-05,Lancaster,Virginia,51103.0,81,0.0
+507023,2020-09-06,Lancaster,Nebraska,31109.0,4468,21.0
+507594,2020-09-06,Lancaster,Pennsylvania,42071.0,7038,439.0
+507739,2020-09-06,Lancaster,South Carolina,45057.0,1767,43.0
+508284,2020-09-06,Lancaster,Virginia,51103.0,81,0.0
+510256,2020-09-07,Lancaster,Nebraska,31109.0,4498,21.0
+510827,2020-09-07,Lancaster,Pennsylvania,42071.0,7069,441.0
+510972,2020-09-07,Lancaster,South Carolina,45057.0,1788,43.0
+511517,2020-09-07,Lancaster,Virginia,51103.0,81,0.0
+513488,2020-09-08,Lancaster,Nebraska,31109.0,4582,21.0
+514060,2020-09-08,Lancaster,Pennsylvania,42071.0,7108,441.0
+514205,2020-09-08,Lancaster,South Carolina,45057.0,1796,43.0
+514750,2020-09-08,Lancaster,Virginia,51103.0,83,0.0
+516722,2020-09-09,Lancaster,Nebraska,31109.0,4700,22.0
+517295,2020-09-09,Lancaster,Pennsylvania,42071.0,7140,442.0
+517440,2020-09-09,Lancaster,South Carolina,45057.0,1802,43.0
+517985,2020-09-09,Lancaster,Virginia,51103.0,84,0.0
+519957,2020-09-10,Lancaster,Nebraska,31109.0,4843,22.0
+520531,2020-09-10,Lancaster,Pennsylvania,42071.0,7185,443.0
+520676,2020-09-10,Lancaster,South Carolina,45057.0,1800,42.0
+521222,2020-09-10,Lancaster,Virginia,51103.0,87,0.0
+523194,2020-09-11,Lancaster,Nebraska,31109.0,5000,22.0
+523767,2020-09-11,Lancaster,Pennsylvania,42071.0,7238,445.0
+523912,2020-09-11,Lancaster,South Carolina,45057.0,1837,42.0
+524458,2020-09-11,Lancaster,Virginia,51103.0,93,0.0
+526430,2020-09-12,Lancaster,Nebraska,31109.0,5102,22.0
+527003,2020-09-12,Lancaster,Pennsylvania,42071.0,7273,445.0
+527148,2020-09-12,Lancaster,South Carolina,45057.0,1875,42.0
+527694,2020-09-12,Lancaster,Virginia,51103.0,96,0.0
+529666,2020-09-13,Lancaster,Nebraska,31109.0,5155,22.0
+530240,2020-09-13,Lancaster,Pennsylvania,42071.0,7273,445.0
+530385,2020-09-13,Lancaster,South Carolina,45057.0,1904,44.0
+530931,2020-09-13,Lancaster,Virginia,51103.0,101,0.0
+532902,2020-09-14,Lancaster,Nebraska,31109.0,5196,22.0
+533475,2020-09-14,Lancaster,Pennsylvania,42071.0,7325,447.0
+533620,2020-09-14,Lancaster,South Carolina,45057.0,1935,44.0
+534166,2020-09-14,Lancaster,Virginia,51103.0,110,0.0
+536137,2020-09-15,Lancaster,Nebraska,31109.0,5302,22.0
+536711,2020-09-15,Lancaster,Pennsylvania,42071.0,7354,447.0
+536856,2020-09-15,Lancaster,South Carolina,45057.0,1961,45.0
+537402,2020-09-15,Lancaster,Virginia,51103.0,111,0.0
+539375,2020-09-16,Lancaster,Nebraska,31109.0,5388,23.0
+539948,2020-09-16,Lancaster,Pennsylvania,42071.0,7391,449.0
+540093,2020-09-16,Lancaster,South Carolina,45057.0,1972,45.0
+540639,2020-09-16,Lancaster,Virginia,51103.0,115,0.0
+542611,2020-09-17,Lancaster,Nebraska,31109.0,5468,24.0
+543184,2020-09-17,Lancaster,Pennsylvania,42071.0,7436,449.0
+543329,2020-09-17,Lancaster,South Carolina,45057.0,2000,45.0
+543875,2020-09-17,Lancaster,Virginia,51103.0,120,0.0
+545848,2020-09-18,Lancaster,Nebraska,31109.0,5540,24.0
+546421,2020-09-18,Lancaster,Pennsylvania,42071.0,7478,451.0
+546566,2020-09-18,Lancaster,South Carolina,45057.0,2014,45.0
+547112,2020-09-18,Lancaster,Virginia,51103.0,127,0.0
+549086,2020-09-19,Lancaster,Nebraska,31109.0,5630,24.0
+549660,2020-09-19,Lancaster,Pennsylvania,42071.0,7514,453.0
+549805,2020-09-19,Lancaster,South Carolina,45057.0,2034,45.0
+550351,2020-09-19,Lancaster,Virginia,51103.0,132,0.0
+552325,2020-09-20,Lancaster,Nebraska,31109.0,5698,24.0
+552899,2020-09-20,Lancaster,Pennsylvania,42071.0,7549,455.0
+553044,2020-09-20,Lancaster,South Carolina,45057.0,2039,46.0
+553590,2020-09-20,Lancaster,Virginia,51103.0,135,0.0
+555563,2020-09-21,Lancaster,Nebraska,31109.0,5774,24.0
+556136,2020-09-21,Lancaster,Pennsylvania,42071.0,7566,455.0
+556281,2020-09-21,Lancaster,South Carolina,45057.0,2059,47.0
+556827,2020-09-21,Lancaster,Virginia,51103.0,140,0.0
+558800,2020-09-22,Lancaster,Nebraska,31109.0,5850,24.0
+559373,2020-09-22,Lancaster,Pennsylvania,42071.0,7607,457.0
+559518,2020-09-22,Lancaster,South Carolina,45057.0,2072,47.0
+560063,2020-09-22,Lancaster,Virginia,51103.0,140,0.0
+562037,2020-09-23,Lancaster,Nebraska,31109.0,5938,24.0
+562610,2020-09-23,Lancaster,Pennsylvania,42071.0,7700,458.0
+562755,2020-09-23,Lancaster,South Carolina,45057.0,2086,48.0
+563302,2020-09-23,Lancaster,Virginia,51103.0,140,0.0
+565278,2020-09-24,Lancaster,Nebraska,31109.0,6018,24.0
+565851,2020-09-24,Lancaster,Pennsylvania,42071.0,7733,458.0
+565996,2020-09-24,Lancaster,South Carolina,45057.0,2111,49.0
+566543,2020-09-24,Lancaster,Virginia,51103.0,141,0.0
+568519,2020-09-25,Lancaster,Nebraska,31109.0,6137,24.0
+569092,2020-09-25,Lancaster,Pennsylvania,42071.0,7770,458.0
+569237,2020-09-25,Lancaster,South Carolina,45057.0,2134,52.0
+569784,2020-09-25,Lancaster,Virginia,51103.0,142,0.0
+571761,2020-09-26,Lancaster,Nebraska,31109.0,6233,24.0
+572334,2020-09-26,Lancaster,Pennsylvania,42071.0,7811,458.0
+572479,2020-09-26,Lancaster,South Carolina,45057.0,2155,52.0
+573026,2020-09-26,Lancaster,Virginia,51103.0,144,0.0
+575004,2020-09-27,Lancaster,Nebraska,31109.0,6294,24.0
+575578,2020-09-27,Lancaster,Pennsylvania,42071.0,7859,458.0
+575723,2020-09-27,Lancaster,South Carolina,45057.0,2167,52.0
+576270,2020-09-27,Lancaster,Virginia,51103.0,146,0.0
+578245,2020-09-28,Lancaster,Nebraska,31109.0,6346,24.0
+578819,2020-09-28,Lancaster,Pennsylvania,42071.0,7887,458.0
+578964,2020-09-28,Lancaster,South Carolina,45057.0,2168,52.0
+579511,2020-09-28,Lancaster,Virginia,51103.0,149,0.0
+581486,2020-09-29,Lancaster,Nebraska,31109.0,6425,24.0
+582059,2020-09-29,Lancaster,Pennsylvania,42071.0,7938,459.0
+582204,2020-09-29,Lancaster,South Carolina,45057.0,2178,52.0
+582750,2020-09-29,Lancaster,Virginia,51103.0,151,0.0
+584727,2020-09-30,Lancaster,Nebraska,31109.0,6532,24.0
+585299,2020-09-30,Lancaster,Pennsylvania,42071.0,7993,459.0
+585444,2020-09-30,Lancaster,South Carolina,45057.0,2182,52.0
+585990,2020-09-30,Lancaster,Virginia,51103.0,151,0.0
+587967,2020-10-01,Lancaster,Nebraska,31109.0,6641,24.0
+588539,2020-10-01,Lancaster,Pennsylvania,42071.0,8052,459.0
+588684,2020-10-01,Lancaster,South Carolina,45057.0,2185,53.0
+589231,2020-10-01,Lancaster,Virginia,51103.0,153,0.0
+591208,2020-10-02,Lancaster,Nebraska,31109.0,6746,24.0
+591780,2020-10-02,Lancaster,Pennsylvania,42071.0,8102,459.0
+591925,2020-10-02,Lancaster,South Carolina,45057.0,2197,53.0
+592471,2020-10-02,Lancaster,Virginia,51103.0,160,0.0
+594449,2020-10-03,Lancaster,Nebraska,31109.0,6830,24.0
+595021,2020-10-03,Lancaster,Pennsylvania,42071.0,8102,459.0
+595166,2020-10-03,Lancaster,South Carolina,45057.0,2232,53.0
+595713,2020-10-03,Lancaster,Virginia,51103.0,160,0.0
+597691,2020-10-04,Lancaster,Nebraska,31109.0,6876,24.0
+598264,2020-10-04,Lancaster,Pennsylvania,42071.0,8195,459.0
+598409,2020-10-04,Lancaster,South Carolina,45057.0,2242,53.0
+598956,2020-10-04,Lancaster,Virginia,51103.0,161,0.0
+600935,2020-10-05,Lancaster,Nebraska,31109.0,6925,26.0
+601507,2020-10-05,Lancaster,Pennsylvania,42071.0,8218,459.0
+601652,2020-10-05,Lancaster,South Carolina,45057.0,2250,53.0
+602199,2020-10-05,Lancaster,Virginia,51103.0,161,0.0
+604177,2020-10-06,Lancaster,Nebraska,31109.0,6925,26.0
+604749,2020-10-06,Lancaster,Pennsylvania,42071.0,8257,461.0
+604894,2020-10-06,Lancaster,South Carolina,45057.0,2258,53.0
+605441,2020-10-06,Lancaster,Virginia,51103.0,161,0.0
+607420,2020-10-07,Lancaster,Nebraska,31109.0,7075,30.0
+607992,2020-10-07,Lancaster,Pennsylvania,42071.0,8317,461.0
+608137,2020-10-07,Lancaster,South Carolina,45057.0,2268,55.0
+608684,2020-10-07,Lancaster,Virginia,51103.0,161,0.0
+610662,2020-10-08,Lancaster,Nebraska,31109.0,7177,30.0
+611234,2020-10-08,Lancaster,Pennsylvania,42071.0,8368,462.0
+611379,2020-10-08,Lancaster,South Carolina,45057.0,2288,56.0
+611926,2020-10-08,Lancaster,Virginia,51103.0,164,0.0
+613904,2020-10-09,Lancaster,Nebraska,31109.0,7289,30.0
+614475,2020-10-09,Lancaster,Pennsylvania,42071.0,8421,462.0
+614620,2020-10-09,Lancaster,South Carolina,45057.0,2304,56.0
+615167,2020-10-09,Lancaster,Virginia,51103.0,166,0.0
+617145,2020-10-10,Lancaster,Nebraska,31109.0,7411,31.0
+617717,2020-10-10,Lancaster,Pennsylvania,42071.0,8525,462.0
+617862,2020-10-10,Lancaster,South Carolina,45057.0,2316,56.0
+618409,2020-10-10,Lancaster,Virginia,51103.0,167,0.0
+620387,2020-10-11,Lancaster,Nebraska,31109.0,7481,31.0
+620960,2020-10-11,Lancaster,Pennsylvania,42071.0,8568,462.0
+621105,2020-10-11,Lancaster,South Carolina,45057.0,2330,56.0
+621652,2020-10-11,Lancaster,Virginia,51103.0,168,0.0
+623630,2020-10-12,Lancaster,Nebraska,31109.0,7534,32.0
+624203,2020-10-12,Lancaster,Pennsylvania,42071.0,8607,462.0
+624348,2020-10-12,Lancaster,South Carolina,45057.0,2342,56.0
+624895,2020-10-12,Lancaster,Virginia,51103.0,168,0.0
+626872,2020-10-13,Lancaster,Nebraska,31109.0,7620,32.0
+627445,2020-10-13,Lancaster,Pennsylvania,42071.0,8669,462.0
+627590,2020-10-13,Lancaster,South Carolina,45057.0,2355,56.0
+628138,2020-10-13,Lancaster,Virginia,51103.0,170,0.0
+630116,2020-10-14,Lancaster,Nebraska,31109.0,7714,32.0
+630689,2020-10-14,Lancaster,Pennsylvania,42071.0,8718,466.0
+630834,2020-10-14,Lancaster,South Carolina,45057.0,2367,56.0
+631382,2020-10-14,Lancaster,Virginia,51103.0,170,0.0
+633361,2020-10-15,Lancaster,Nebraska,31109.0,7825,33.0
+633934,2020-10-15,Lancaster,Pennsylvania,42071.0,8751,467.0
+634079,2020-10-15,Lancaster,South Carolina,45057.0,2390,56.0
+634627,2020-10-15,Lancaster,Virginia,51103.0,171,0.0
+636607,2020-10-16,Lancaster,Nebraska,31109.0,7912,35.0
+637180,2020-10-16,Lancaster,Pennsylvania,42071.0,8812,467.0
+637325,2020-10-16,Lancaster,South Carolina,45057.0,2406,56.0
+637872,2020-10-16,Lancaster,Virginia,51103.0,171,0.0
+639853,2020-10-17,Lancaster,Nebraska,31109.0,8054,35.0
+640426,2020-10-17,Lancaster,Pennsylvania,42071.0,8892,468.0
+640571,2020-10-17,Lancaster,South Carolina,45057.0,2422,56.0
+641119,2020-10-17,Lancaster,Virginia,51103.0,171,0.0
+643101,2020-10-18,Lancaster,Nebraska,31109.0,8112,35.0
+643674,2020-10-18,Lancaster,Pennsylvania,42071.0,8946,468.0
+643819,2020-10-18,Lancaster,South Carolina,45057.0,2436,56.0
+644367,2020-10-18,Lancaster,Virginia,51103.0,171,0.0
+646347,2020-10-19,Lancaster,Nebraska,31109.0,8205,37.0
+646920,2020-10-19,Lancaster,Pennsylvania,42071.0,8974,468.0
+647065,2020-10-19,Lancaster,South Carolina,45057.0,2438,57.0
+647613,2020-10-19,Lancaster,Virginia,51103.0,174,0.0
+649591,2020-10-20,Lancaster,Nebraska,31109.0,8339,39.0
+650164,2020-10-20,Lancaster,Pennsylvania,42071.0,9023,469.0
+650309,2020-10-20,Lancaster,South Carolina,45057.0,2450,57.0
+650857,2020-10-20,Lancaster,Virginia,51103.0,175,1.0
+652836,2020-10-21,Lancaster,Nebraska,31109.0,8445,41.0
+653409,2020-10-21,Lancaster,Pennsylvania,42071.0,9068,470.0
+653554,2020-10-21,Lancaster,South Carolina,45057.0,2461,57.0
+654102,2020-10-21,Lancaster,Virginia,51103.0,181,1.0
+656081,2020-10-22,Lancaster,Nebraska,31109.0,8526,42.0
+656654,2020-10-22,Lancaster,Pennsylvania,42071.0,9121,472.0
+656799,2020-10-22,Lancaster,South Carolina,45057.0,2472,61.0
+657347,2020-10-22,Lancaster,Virginia,51103.0,188,1.0
+659326,2020-10-23,Lancaster,Nebraska,31109.0,8668,42.0
+659898,2020-10-23,Lancaster,Pennsylvania,42071.0,9205,472.0
+660043,2020-10-23,Lancaster,South Carolina,45057.0,2486,61.0
+660591,2020-10-23,Lancaster,Virginia,51103.0,196,1.0
+662570,2020-10-24,Lancaster,Nebraska,31109.0,8746,42.0
+663142,2020-10-24,Lancaster,Pennsylvania,42071.0,9279,474.0
+663287,2020-10-24,Lancaster,South Carolina,45057.0,2506,61.0
+663835,2020-10-24,Lancaster,Virginia,51103.0,197,1.0
+665815,2020-10-25,Lancaster,Nebraska,31109.0,8877,43.0
+666387,2020-10-25,Lancaster,Pennsylvania,42071.0,9338,474.0
+666532,2020-10-25,Lancaster,South Carolina,45057.0,2524,61.0
+667080,2020-10-25,Lancaster,Virginia,51103.0,199,1.0
+669059,2020-10-26,Lancaster,Nebraska,31109.0,8979,43.0
+669631,2020-10-26,Lancaster,Pennsylvania,42071.0,9413,474.0
+669776,2020-10-26,Lancaster,South Carolina,45057.0,2537,61.0
+670323,2020-10-26,Lancaster,Virginia,51103.0,199,1.0
+672301,2020-10-27,Lancaster,Nebraska,31109.0,9072,43.0
+672873,2020-10-27,Lancaster,Pennsylvania,42071.0,9483,475.0
+673018,2020-10-27,Lancaster,South Carolina,45057.0,2559,62.0
+673565,2020-10-27,Lancaster,Virginia,51103.0,198,1.0
+675544,2020-10-28,Lancaster,Nebraska,31109.0,9164,45.0
+676116,2020-10-28,Lancaster,Pennsylvania,42071.0,9573,476.0
+676261,2020-10-28,Lancaster,South Carolina,45057.0,2580,62.0
+676808,2020-10-28,Lancaster,Virginia,51103.0,200,1.0
+678786,2020-10-29,Lancaster,Nebraska,31109.0,9330,45.0
+679359,2020-10-29,Lancaster,Pennsylvania,42071.0,9647,477.0
+679504,2020-10-29,Lancaster,South Carolina,45057.0,2599,62.0
+680051,2020-10-29,Lancaster,Virginia,51103.0,200,1.0
+682030,2020-10-30,Lancaster,Nebraska,31109.0,9413,45.0
+682602,2020-10-30,Lancaster,Pennsylvania,42071.0,9764,479.0
+682747,2020-10-30,Lancaster,South Carolina,45057.0,2610,62.0
+683294,2020-10-30,Lancaster,Virginia,51103.0,202,1.0
+685273,2020-10-31,Lancaster,Nebraska,31109.0,9660,45.0
+685845,2020-10-31,Lancaster,Pennsylvania,42071.0,9877,479.0
+685990,2020-10-31,Lancaster,South Carolina,45057.0,2622,62.0
+686537,2020-10-31,Lancaster,Virginia,51103.0,204,1.0
+688517,2020-11-01,Lancaster,Nebraska,31109.0,9792,45.0
+689090,2020-11-01,Lancaster,Pennsylvania,42071.0,9929,479.0
+689235,2020-11-01,Lancaster,South Carolina,45057.0,2658,62.0
+689782,2020-11-01,Lancaster,Virginia,51103.0,204,1.0
+691762,2020-11-02,Lancaster,Nebraska,31109.0,9917,45.0
+692334,2020-11-02,Lancaster,Pennsylvania,42071.0,10033,479.0
+692479,2020-11-02,Lancaster,South Carolina,45057.0,2679,62.0
+693026,2020-11-02,Lancaster,Virginia,51103.0,206,1.0
+695004,2020-11-03,Lancaster,Nebraska,31109.0,10061,47.0
+695576,2020-11-03,Lancaster,Pennsylvania,42071.0,10164,481.0
+695721,2020-11-03,Lancaster,South Carolina,45057.0,2693,62.0
+696268,2020-11-03,Lancaster,Virginia,51103.0,206,1.0
+698247,2020-11-04,Lancaster,Nebraska,31109.0,10242,50.0
+698819,2020-11-04,Lancaster,Pennsylvania,42071.0,10278,481.0
+698964,2020-11-04,Lancaster,South Carolina,45057.0,2717,62.0
+699512,2020-11-04,Lancaster,Virginia,51103.0,208,1.0
+701491,2020-11-05,Lancaster,Nebraska,31109.0,10455,50.0
+702063,2020-11-05,Lancaster,Pennsylvania,42071.0,10372,486.0
+702208,2020-11-05,Lancaster,South Carolina,45057.0,2726,62.0
+702755,2020-11-05,Lancaster,Virginia,51103.0,208,1.0
+704733,2020-11-06,Lancaster,Nebraska,31109.0,10580,50.0
+705306,2020-11-06,Lancaster,Pennsylvania,42071.0,10562,488.0
+705451,2020-11-06,Lancaster,South Carolina,45057.0,2744,62.0
+705998,2020-11-06,Lancaster,Virginia,51103.0,210,1.0
+707976,2020-11-07,Lancaster,Nebraska,31109.0,10807,50.0
+708549,2020-11-07,Lancaster,Pennsylvania,42071.0,10705,489.0
+708694,2020-11-07,Lancaster,South Carolina,45057.0,2782,62.0
+709242,2020-11-07,Lancaster,Virginia,51103.0,210,1.0
+711220,2020-11-08,Lancaster,Nebraska,31109.0,11120,50.0
+711793,2020-11-08,Lancaster,Pennsylvania,42071.0,10861,489.0
+711938,2020-11-08,Lancaster,South Carolina,45057.0,2806,63.0
+712486,2020-11-08,Lancaster,Virginia,51103.0,211,1.0
+714464,2020-11-09,Lancaster,Nebraska,31109.0,11321,51.0
+715037,2020-11-09,Lancaster,Pennsylvania,42071.0,10951,489.0
+715182,2020-11-09,Lancaster,South Carolina,45057.0,2824,63.0
+715730,2020-11-09,Lancaster,Virginia,51103.0,211,1.0
+717708,2020-11-10,Lancaster,Nebraska,31109.0,11513,54.0
+718280,2020-11-10,Lancaster,Pennsylvania,42071.0,11069,490.0
+718425,2020-11-10,Lancaster,South Carolina,45057.0,2864,62.0
+718973,2020-11-10,Lancaster,Virginia,51103.0,212,1.0
+720951,2020-11-11,Lancaster,Nebraska,31109.0,11778,54.0
+721523,2020-11-11,Lancaster,Pennsylvania,42071.0,11271,492.0
+721668,2020-11-11,Lancaster,South Carolina,45057.0,2890,62.0
+722216,2020-11-11,Lancaster,Virginia,51103.0,212,1.0
+724194,2020-11-12,Lancaster,Nebraska,31109.0,12123,57.0
+724766,2020-11-12,Lancaster,Pennsylvania,42071.0,11465,494.0
+724911,2020-11-12,Lancaster,South Carolina,45057.0,2911,62.0
+725459,2020-11-12,Lancaster,Virginia,51103.0,211,1.0
+727437,2020-11-13,Lancaster,Nebraska,31109.0,12284,57.0
+728010,2020-11-13,Lancaster,Pennsylvania,42071.0,11712,495.0
+728155,2020-11-13,Lancaster,South Carolina,45057.0,2952,63.0
+728702,2020-11-13,Lancaster,Virginia,51103.0,212,1.0
+730680,2020-11-14,Lancaster,Nebraska,31109.0,12499,58.0
+731254,2020-11-14,Lancaster,Pennsylvania,42071.0,11988,496.0
+731399,2020-11-14,Lancaster,South Carolina,45057.0,3009,63.0
+731947,2020-11-14,Lancaster,Virginia,51103.0,214,1.0
+733925,2020-11-15,Lancaster,Nebraska,31109.0,12875,59.0
+734500,2020-11-15,Lancaster,Pennsylvania,42071.0,12217,496.0
+734645,2020-11-15,Lancaster,South Carolina,45057.0,3036,63.0
+735193,2020-11-15,Lancaster,Virginia,51103.0,214,1.0
+737171,2020-11-16,Lancaster,Nebraska,31109.0,13077,61.0
+737744,2020-11-16,Lancaster,Pennsylvania,42071.0,12434,496.0
+737889,2020-11-16,Lancaster,South Carolina,45057.0,3055,64.0
+738437,2020-11-16,Lancaster,Virginia,51103.0,216,1.0
+740415,2020-11-17,Lancaster,Nebraska,31109.0,13254,63.0
+740990,2020-11-17,Lancaster,Pennsylvania,42071.0,12603,496.0
+741135,2020-11-17,Lancaster,South Carolina,45057.0,3095,64.0
+741684,2020-11-17,Lancaster,Virginia,51103.0,223,1.0
+743662,2020-11-18,Lancaster,Nebraska,31109.0,13548,63.0
+744237,2020-11-18,Lancaster,Pennsylvania,42071.0,12853,499.0
+744382,2020-11-18,Lancaster,South Carolina,45057.0,3143,64.0
+744931,2020-11-18,Lancaster,Virginia,51103.0,223,1.0
+746909,2020-11-19,Lancaster,Nebraska,31109.0,13822,64.0
+747483,2020-11-19,Lancaster,Pennsylvania,42071.0,13221,502.0
+747628,2020-11-19,Lancaster,South Carolina,45057.0,3177,64.0
+748177,2020-11-19,Lancaster,Virginia,51103.0,223,1.0
+750155,2020-11-20,Lancaster,Nebraska,31109.0,14150,66.0
+750729,2020-11-20,Lancaster,Pennsylvania,42071.0,13564,504.0
+750874,2020-11-20,Lancaster,South Carolina,45057.0,3242,64.0
+751423,2020-11-20,Lancaster,Virginia,51103.0,224,1.0
+753401,2020-11-21,Lancaster,Nebraska,31109.0,14428,67.0
+753975,2020-11-21,Lancaster,Pennsylvania,42071.0,13770,506.0
+754120,2020-11-21,Lancaster,South Carolina,45057.0,3277,64.0
+754669,2020-11-21,Lancaster,Virginia,51103.0,224,1.0
+756647,2020-11-22,Lancaster,Nebraska,31109.0,14526,67.0
+757222,2020-11-22,Lancaster,Pennsylvania,42071.0,14235,506.0
+757367,2020-11-22,Lancaster,South Carolina,45057.0,3300,64.0
+757916,2020-11-22,Lancaster,Virginia,51103.0,226,1.0
+759894,2020-11-23,Lancaster,Nebraska,31109.0,14835,70.0
+760467,2020-11-23,Lancaster,Pennsylvania,42071.0,14416,506.0
+760612,2020-11-23,Lancaster,South Carolina,45057.0,3330,64.0
+761161,2020-11-23,Lancaster,Virginia,51103.0,232,1.0
+763139,2020-11-24,Lancaster,Nebraska,31109.0,15061,72.0
+763712,2020-11-24,Lancaster,Pennsylvania,42071.0,14684,509.0
+763857,2020-11-24,Lancaster,South Carolina,45057.0,3355,64.0
+764406,2020-11-24,Lancaster,Virginia,51103.0,232,1.0
+766384,2020-11-25,Lancaster,Nebraska,31109.0,15424,72.0
+766957,2020-11-25,Lancaster,Pennsylvania,42071.0,15019,512.0
+767102,2020-11-25,Lancaster,South Carolina,45057.0,3386,64.0
+767651,2020-11-25,Lancaster,Virginia,51103.0,234,1.0
+769630,2020-11-26,Lancaster,Nebraska,31109.0,15710,72.0
+770203,2020-11-26,Lancaster,Pennsylvania,42071.0,15408,513.0
+770348,2020-11-26,Lancaster,South Carolina,45057.0,3386,64.0
+770897,2020-11-26,Lancaster,Virginia,51103.0,234,1.0
+772875,2020-11-27,Lancaster,Nebraska,31109.0,16125,72.0
+773448,2020-11-27,Lancaster,Pennsylvania,42071.0,15890,513.0
+773593,2020-11-27,Lancaster,South Carolina,45057.0,3447,64.0
+774142,2020-11-27,Lancaster,Virginia,51103.0,235,1.0
+776120,2020-11-28,Lancaster,Nebraska,31109.0,16341,72.0
+776693,2020-11-28,Lancaster,Pennsylvania,42071.0,16157,517.0
+776838,2020-11-28,Lancaster,South Carolina,45057.0,3474,64.0
+777387,2020-11-28,Lancaster,Virginia,51103.0,239,1.0
+779365,2020-11-29,Lancaster,Nebraska,31109.0,16637,73.0
+779939,2020-11-29,Lancaster,Pennsylvania,42071.0,16470,519.0
+780084,2020-11-29,Lancaster,South Carolina,45057.0,3498,64.0
+780633,2020-11-29,Lancaster,Virginia,51103.0,240,1.0
+782611,2020-11-30,Lancaster,Nebraska,31109.0,16821,78.0
+783184,2020-11-30,Lancaster,Pennsylvania,42071.0,16702,522.0
+783329,2020-11-30,Lancaster,South Carolina,45057.0,3534,65.0
+783878,2020-11-30,Lancaster,Virginia,51103.0,242,1.0
+785855,2020-12-01,Lancaster,Nebraska,31109.0,17155,81.0
+786428,2020-12-01,Lancaster,Pennsylvania,42071.0,17012,527.0
+786573,2020-12-01,Lancaster,South Carolina,45057.0,3559,65.0
+787122,2020-12-01,Lancaster,Virginia,51103.0,244,1.0
+789100,2020-12-02,Lancaster,Nebraska,31109.0,17453,84.0
+789673,2020-12-02,Lancaster,Pennsylvania,42071.0,17380,535.0
+789818,2020-12-02,Lancaster,South Carolina,45057.0,3584,65.0
+790367,2020-12-02,Lancaster,Virginia,51103.0,244,1.0
+792345,2020-12-03,Lancaster,Nebraska,31109.0,17796,89.0
+792918,2020-12-03,Lancaster,Pennsylvania,42071.0,17758,540.0
+793063,2020-12-03,Lancaster,South Carolina,45057.0,3604,65.0
+793612,2020-12-03,Lancaster,Virginia,51103.0,244,1.0
+795590,2020-12-04,Lancaster,Nebraska,31109.0,18101,91.0
+796163,2020-12-04,Lancaster,Pennsylvania,42071.0,18478,545.0
+796308,2020-12-04,Lancaster,South Carolina,45057.0,3637,67.0
+796857,2020-12-04,Lancaster,Virginia,51103.0,245,1.0
+798835,2020-12-05,Lancaster,Nebraska,31109.0,18385,92.0
+799408,2020-12-05,Lancaster,Pennsylvania,42071.0,18904,550.0
+799553,2020-12-05,Lancaster,South Carolina,45057.0,3676,67.0
+800102,2020-12-05,Lancaster,Virginia,51103.0,246,1.0
+802080,2020-12-06,Lancaster,Nebraska,31109.0,18616,92.0
+802653,2020-12-06,Lancaster,Pennsylvania,42071.0,19182,551.0
+802798,2020-12-06,Lancaster,South Carolina,45057.0,3721,70.0
+803347,2020-12-06,Lancaster,Virginia,51103.0,248,1.0
+805325,2020-12-07,Lancaster,Nebraska,31109.0,18820,97.0
+805898,2020-12-07,Lancaster,Pennsylvania,42071.0,19426,553.0
+806043,2020-12-07,Lancaster,South Carolina,45057.0,3763,70.0
+806592,2020-12-07,Lancaster,Virginia,51103.0,248,1.0
+808570,2020-12-08,Lancaster,Nebraska,31109.0,19023,102.0
+809143,2020-12-08,Lancaster,Pennsylvania,42071.0,19805,556.0
+809288,2020-12-08,Lancaster,South Carolina,45057.0,3825,70.0
+809837,2020-12-08,Lancaster,Virginia,51103.0,248,2.0
+811815,2020-12-09,Lancaster,Nebraska,31109.0,19195,109.0
+812387,2020-12-09,Lancaster,Pennsylvania,42071.0,20233,566.0
+812532,2020-12-09,Lancaster,South Carolina,45057.0,3874,70.0
+813081,2020-12-09,Lancaster,Virginia,51103.0,248,2.0
+815060,2020-12-10,Lancaster,Nebraska,31109.0,19466,114.0
+815633,2020-12-10,Lancaster,Pennsylvania,42071.0,20714,577.0
+815778,2020-12-10,Lancaster,South Carolina,45057.0,3906,70.0
+816327,2020-12-10,Lancaster,Virginia,51103.0,255,2.0
+818306,2020-12-11,Lancaster,Nebraska,31109.0,19645,117.0
+818879,2020-12-11,Lancaster,Pennsylvania,42071.0,21192,582.0
+819024,2020-12-11,Lancaster,South Carolina,45057.0,3977,72.0
+819573,2020-12-11,Lancaster,Virginia,51103.0,255,2.0
+821552,2020-12-12,Lancaster,Nebraska,31109.0,19762,118.0
+822125,2020-12-12,Lancaster,Pennsylvania,42071.0,21563,597.0
+822270,2020-12-12,Lancaster,South Carolina,45057.0,4060,72.0
+822819,2020-12-12,Lancaster,Virginia,51103.0,263,2.0
+824798,2020-12-13,Lancaster,Nebraska,31109.0,20043,118.0
+825372,2020-12-13,Lancaster,Pennsylvania,42071.0,22075,607.0
+825517,2020-12-13,Lancaster,South Carolina,45057.0,4127,73.0
+826066,2020-12-13,Lancaster,Virginia,51103.0,267,2.0
+828045,2020-12-14,Lancaster,Nebraska,31109.0,20124,120.0
+828618,2020-12-14,Lancaster,Pennsylvania,42071.0,22290,608.0
+828763,2020-12-14,Lancaster,South Carolina,45057.0,4185,73.0
+829312,2020-12-14,Lancaster,Virginia,51103.0,273,2.0
+831291,2020-12-15,Lancaster,Nebraska,31109.0,20314,125.0
+831865,2020-12-15,Lancaster,Pennsylvania,42071.0,22615,621.0
+832010,2020-12-15,Lancaster,South Carolina,45057.0,4241,73.0
+832559,2020-12-15,Lancaster,Virginia,51103.0,274,2.0
+834538,2020-12-16,Lancaster,Nebraska,31109.0,20477,127.0
+835111,2020-12-16,Lancaster,Pennsylvania,42071.0,23025,628.0
+835256,2020-12-16,Lancaster,South Carolina,45057.0,4303,74.0
+835805,2020-12-16,Lancaster,Virginia,51103.0,278,2.0
+837784,2020-12-17,Lancaster,Nebraska,31109.0,20592,132.0
+838357,2020-12-17,Lancaster,Pennsylvania,42071.0,23464,639.0
+838502,2020-12-17,Lancaster,South Carolina,45057.0,4329,76.0
+839051,2020-12-17,Lancaster,Virginia,51103.0,279,2.0
+841029,2020-12-18,Lancaster,Nebraska,31109.0,20741,134.0
+841602,2020-12-18,Lancaster,Pennsylvania,42071.0,23951,648.0
+841747,2020-12-18,Lancaster,South Carolina,45057.0,4448,76.0
+842296,2020-12-18,Lancaster,Virginia,51103.0,279,2.0
+844274,2020-12-19,Lancaster,Nebraska,31109.0,20906,134.0
+844848,2020-12-19,Lancaster,Pennsylvania,42071.0,24293,654.0
+844993,2020-12-19,Lancaster,South Carolina,45057.0,4523,76.0
+845542,2020-12-19,Lancaster,Virginia,51103.0,279,2.0
+847520,2020-12-20,Lancaster,Nebraska,31109.0,20906,134.0
+848093,2020-12-20,Lancaster,Pennsylvania,42071.0,24613,658.0
+848238,2020-12-20,Lancaster,South Carolina,45057.0,4576,78.0
+848787,2020-12-20,Lancaster,Virginia,51103.0,280,2.0
+850765,2020-12-21,Lancaster,Nebraska,31109.0,21106,136.0
+851338,2020-12-21,Lancaster,Pennsylvania,42071.0,24899,659.0
+851483,2020-12-21,Lancaster,South Carolina,45057.0,4632,78.0
+852032,2020-12-21,Lancaster,Virginia,51103.0,281,2.0
+854010,2020-12-22,Lancaster,Nebraska,31109.0,21295,140.0
+854583,2020-12-22,Lancaster,Pennsylvania,42071.0,25093,671.0
+854728,2020-12-22,Lancaster,South Carolina,45057.0,4695,80.0
+855277,2020-12-22,Lancaster,Virginia,51103.0,284,2.0
+857255,2020-12-23,Lancaster,Nebraska,31109.0,21461,143.0
+857828,2020-12-23,Lancaster,Pennsylvania,42071.0,25562,680.0
+857973,2020-12-23,Lancaster,South Carolina,45057.0,4769,80.0
+858522,2020-12-23,Lancaster,Virginia,51103.0,287,2.0
+860500,2020-12-24,Lancaster,Nebraska,31109.0,21654,145.0
+861073,2020-12-24,Lancaster,Pennsylvania,42071.0,25975,691.0
+861218,2020-12-24,Lancaster,South Carolina,45057.0,4827,81.0
+861767,2020-12-24,Lancaster,Virginia,51103.0,292,2.0
+863745,2020-12-25,Lancaster,Nebraska,31109.0,21654,145.0
+864318,2020-12-25,Lancaster,Pennsylvania,42071.0,26307,698.0
+864463,2020-12-25,Lancaster,South Carolina,45057.0,4827,81.0
+865012,2020-12-25,Lancaster,Virginia,51103.0,302,2.0
+866990,2020-12-26,Lancaster,Nebraska,31109.0,21816,145.0
+867563,2020-12-26,Lancaster,Pennsylvania,42071.0,26557,698.0
+867708,2020-12-26,Lancaster,South Carolina,45057.0,4901,81.0
+868257,2020-12-26,Lancaster,Virginia,51103.0,311,2.0
+870235,2020-12-27,Lancaster,Nebraska,31109.0,21997,145.0
+870808,2020-12-27,Lancaster,Pennsylvania,42071.0,26727,700.0
+870953,2020-12-27,Lancaster,South Carolina,45057.0,5025,81.0
+871502,2020-12-27,Lancaster,Virginia,51103.0,317,2.0
+873480,2020-12-28,Lancaster,Nebraska,31109.0,22083,147.0
+874053,2020-12-28,Lancaster,Pennsylvania,42071.0,26957,701.0
+874198,2020-12-28,Lancaster,South Carolina,45057.0,5068,82.0
+874747,2020-12-28,Lancaster,Virginia,51103.0,319,2.0
+876725,2020-12-29,Lancaster,Nebraska,31109.0,22236,149.0
+877298,2020-12-29,Lancaster,Pennsylvania,42071.0,27272,712.0
+877443,2020-12-29,Lancaster,South Carolina,45057.0,5100,82.0
+877992,2020-12-29,Lancaster,Virginia,51103.0,330,2.0
+879970,2020-12-30,Lancaster,Nebraska,31109.0,22461,151.0
+880543,2020-12-30,Lancaster,Pennsylvania,42071.0,27646,722.0
+880688,2020-12-30,Lancaster,South Carolina,45057.0,5158,83.0
+881237,2020-12-30,Lancaster,Virginia,51103.0,337,2.0
+883215,2020-12-31,Lancaster,Nebraska,31109.0,22654,152.0
+883788,2020-12-31,Lancaster,Pennsylvania,42071.0,28006,731.0
+883933,2020-12-31,Lancaster,South Carolina,45057.0,5234,84.0
+884482,2020-12-31,Lancaster,Virginia,51103.0,344,2.0
+886460,2021-01-01,Lancaster,Nebraska,31109.0,22654,152.0
+887033,2021-01-01,Lancaster,Pennsylvania,42071.0,28325,741.0
+887178,2021-01-01,Lancaster,South Carolina,45057.0,5234,84.0
+887727,2021-01-01,Lancaster,Virginia,51103.0,362,3.0
+889706,2021-01-02,Lancaster,Nebraska,31109.0,23005,152.0
+890280,2021-01-02,Lancaster,Pennsylvania,42071.0,28725,741.0
+890425,2021-01-02,Lancaster,South Carolina,45057.0,5315,86.0
+890974,2021-01-02,Lancaster,Virginia,51103.0,367,3.0
+892952,2021-01-03,Lancaster,Nebraska,31109.0,23163,152.0
+893526,2021-01-03,Lancaster,Pennsylvania,42071.0,28930,742.0
+893671,2021-01-03,Lancaster,South Carolina,45057.0,5481,87.0
+894220,2021-01-03,Lancaster,Virginia,51103.0,375,3.0
+896199,2021-01-04,Lancaster,Nebraska,31109.0,23239,157.0
+896772,2021-01-04,Lancaster,Pennsylvania,42071.0,29047,743.0
+896917,2021-01-04,Lancaster,South Carolina,45057.0,5566,89.0
+897466,2021-01-04,Lancaster,Virginia,51103.0,382,3.0
+899444,2021-01-05,Lancaster,Nebraska,31109.0,23426,159.0
+900017,2021-01-05,Lancaster,Pennsylvania,42071.0,29476,747.0
+900162,2021-01-05,Lancaster,South Carolina,45057.0,5644,89.0
+900711,2021-01-05,Lancaster,Virginia,51103.0,386,3.0
+902689,2021-01-06,Lancaster,Nebraska,31109.0,23667,159.0
+903262,2021-01-06,Lancaster,Pennsylvania,42071.0,29935,759.0
+903407,2021-01-06,Lancaster,South Carolina,45057.0,5734,92.0
+903956,2021-01-06,Lancaster,Virginia,51103.0,389,3.0
+905934,2021-01-07,Lancaster,Nebraska,31109.0,23772,163.0
+906508,2021-01-07,Lancaster,Pennsylvania,42071.0,30347,773.0
+906653,2021-01-07,Lancaster,South Carolina,45057.0,5819,94.0
+907202,2021-01-07,Lancaster,Virginia,51103.0,393,3.0
+909180,2021-01-08,Lancaster,Nebraska,31109.0,23973,165.0
+909753,2021-01-08,Lancaster,Pennsylvania,42071.0,30786,779.0
+909898,2021-01-08,Lancaster,South Carolina,45057.0,5881,95.0
+910447,2021-01-08,Lancaster,Virginia,51103.0,402,3.0
+912425,2021-01-09,Lancaster,Nebraska,31109.0,24199,169.0
+912998,2021-01-09,Lancaster,Pennsylvania,42071.0,31300,785.0
+913143,2021-01-09,Lancaster,South Carolina,45057.0,6013,95.0
+913692,2021-01-09,Lancaster,Virginia,51103.0,412,3.0
+915670,2021-01-10,Lancaster,Nebraska,31109.0,24280,169.0
+916243,2021-01-10,Lancaster,Pennsylvania,42071.0,31672,786.0
+916388,2021-01-10,Lancaster,South Carolina,45057.0,6099,95.0
+916937,2021-01-10,Lancaster,Virginia,51103.0,418,3.0
+918915,2021-01-11,Lancaster,Nebraska,31109.0,24280,169.0
+919488,2021-01-11,Lancaster,Pennsylvania,42071.0,31951,791.0
+919633,2021-01-11,Lancaster,South Carolina,45057.0,6154,95.0
+920182,2021-01-11,Lancaster,Virginia,51103.0,421,3.0
+922160,2021-01-12,Lancaster,Nebraska,31109.0,24561,173.0
+922733,2021-01-12,Lancaster,Pennsylvania,42071.0,32231,800.0
+922878,2021-01-12,Lancaster,South Carolina,45057.0,6188,95.0
+923427,2021-01-12,Lancaster,Virginia,51103.0,431,3.0
+925405,2021-01-13,Lancaster,Nebraska,31109.0,24705,175.0
+925979,2021-01-13,Lancaster,Pennsylvania,42071.0,32641,806.0
+926124,2021-01-13,Lancaster,South Carolina,45057.0,6331,97.0
+926673,2021-01-13,Lancaster,Virginia,51103.0,435,3.0
+928651,2021-01-14,Lancaster,Nebraska,31109.0,24882,176.0
+929224,2021-01-14,Lancaster,Pennsylvania,42071.0,33017,820.0
+929369,2021-01-14,Lancaster,South Carolina,45057.0,6424,98.0
+929918,2021-01-14,Lancaster,Virginia,51103.0,444,3.0
+931896,2021-01-15,Lancaster,Nebraska,31109.0,25050,176.0
+932469,2021-01-15,Lancaster,Pennsylvania,42071.0,33325,828.0
+932614,2021-01-15,Lancaster,South Carolina,45057.0,6524,99.0
+933163,2021-01-15,Lancaster,Virginia,51103.0,447,3.0
+935141,2021-01-16,Lancaster,Nebraska,31109.0,25050,176.0
+935714,2021-01-16,Lancaster,Pennsylvania,42071.0,33686,831.0
+935859,2021-01-16,Lancaster,South Carolina,45057.0,6626,100.0
+936408,2021-01-16,Lancaster,Virginia,51103.0,453,3.0
+938386,2021-01-17,Lancaster,Nebraska,31109.0,25257,179.0
+938959,2021-01-17,Lancaster,Pennsylvania,42071.0,33978,837.0
+939104,2021-01-17,Lancaster,South Carolina,45057.0,6789,103.0
+939653,2021-01-17,Lancaster,Virginia,51103.0,466,3.0
+941631,2021-01-18,Lancaster,Nebraska,31109.0,25301,179.0
+942204,2021-01-18,Lancaster,Pennsylvania,42071.0,34211,837.0
+942349,2021-01-18,Lancaster,South Carolina,45057.0,6847,103.0
+942898,2021-01-18,Lancaster,Virginia,51103.0,475,3.0
+944876,2021-01-19,Lancaster,Nebraska,31109.0,25536,183.0
+945451,2021-01-19,Lancaster,Pennsylvania,42071.0,34468,837.0
+945596,2021-01-19,Lancaster,South Carolina,45057.0,6914,103.0
+946145,2021-01-19,Lancaster,Virginia,51103.0,476,3.0
+948123,2021-01-20,Lancaster,Nebraska,31109.0,25697,183.0
+948697,2021-01-20,Lancaster,Pennsylvania,42071.0,34745,854.0
+948842,2021-01-20,Lancaster,South Carolina,45057.0,6972,105.0
+949391,2021-01-20,Lancaster,Virginia,51103.0,482,3.0
+951369,2021-01-21,Lancaster,Nebraska,31109.0,25824,183.0
+951942,2021-01-21,Lancaster,Pennsylvania,42071.0,34992,860.0
+952087,2021-01-21,Lancaster,South Carolina,45057.0,7062,106.0
+952636,2021-01-21,Lancaster,Virginia,51103.0,492,3.0
+954614,2021-01-22,Lancaster,Nebraska,31109.0,26003,185.0
+955187,2021-01-22,Lancaster,Pennsylvania,42071.0,35297,866.0
+955332,2021-01-22,Lancaster,South Carolina,45057.0,7160,106.0
+955881,2021-01-22,Lancaster,Virginia,51103.0,496,3.0
+957859,2021-01-23,Lancaster,Nebraska,31109.0,26117,185.0
+958433,2021-01-23,Lancaster,Pennsylvania,42071.0,35670,872.0
+958578,2021-01-23,Lancaster,South Carolina,45057.0,7229,106.0
+959127,2021-01-23,Lancaster,Virginia,51103.0,497,3.0
+961105,2021-01-24,Lancaster,Nebraska,31109.0,26193,185.0
+961678,2021-01-24,Lancaster,Pennsylvania,42071.0,35871,876.0
+961823,2021-01-24,Lancaster,South Carolina,45057.0,7317,108.0
+962372,2021-01-24,Lancaster,Virginia,51103.0,510,3.0
+964350,2021-01-25,Lancaster,Nebraska,31109.0,26235,187.0
+964923,2021-01-25,Lancaster,Pennsylvania,42071.0,36083,878.0
+965068,2021-01-25,Lancaster,South Carolina,45057.0,7390,108.0
+965617,2021-01-25,Lancaster,Virginia,51103.0,519,3.0
+967594,2021-01-26,Lancaster,Nebraska,31109.0,26280,190.0
+968167,2021-01-26,Lancaster,Pennsylvania,42071.0,36283,885.0
+968312,2021-01-26,Lancaster,South Carolina,45057.0,7437,108.0
+968861,2021-01-26,Lancaster,Virginia,51103.0,528,3.0
+970839,2021-01-27,Lancaster,Nebraska,31109.0,26393,191.0
+971412,2021-01-27,Lancaster,Pennsylvania,42071.0,36657,897.0
+971557,2021-01-27,Lancaster,South Carolina,45057.0,7536,111.0
+972106,2021-01-27,Lancaster,Virginia,51103.0,535,3.0
+974084,2021-01-28,Lancaster,Nebraska,31109.0,26509,191.0
+974657,2021-01-28,Lancaster,Pennsylvania,42071.0,36945,903.0
+974802,2021-01-28,Lancaster,South Carolina,45057.0,7593,114.0
+975351,2021-01-28,Lancaster,Virginia,51103.0,547,3.0
+977329,2021-01-29,Lancaster,Nebraska,31109.0,26583,195.0
+977902,2021-01-29,Lancaster,Pennsylvania,42071.0,37912,911.0
+978047,2021-01-29,Lancaster,South Carolina,45057.0,7697,114.0
+978596,2021-01-29,Lancaster,Virginia,51103.0,556,3.0
+980575,2021-01-30,Lancaster,Nebraska,31109.0,26650,196.0
+981148,2021-01-30,Lancaster,Pennsylvania,42071.0,38168,918.0
+981293,2021-01-30,Lancaster,South Carolina,45057.0,7781,116.0
+981842,2021-01-30,Lancaster,Virginia,51103.0,560,3.0
+983821,2021-01-31,Lancaster,Nebraska,31109.0,26718,196.0
+984395,2021-01-31,Lancaster,Pennsylvania,42071.0,38485,921.0
+984540,2021-01-31,Lancaster,South Carolina,45057.0,7863,116.0
+985089,2021-01-31,Lancaster,Virginia,51103.0,563,3.0
+987068,2021-02-01,Lancaster,Nebraska,31109.0,26789,198.0
+987642,2021-02-01,Lancaster,Pennsylvania,42071.0,38660,923.0
+987787,2021-02-01,Lancaster,South Carolina,45057.0,7920,117.0
+988336,2021-02-01,Lancaster,Virginia,51103.0,568,4.0
+990315,2021-02-02,Lancaster,Nebraska,31109.0,26880,199.0
+990888,2021-02-02,Lancaster,Pennsylvania,42071.0,38895,926.0
+991033,2021-02-02,Lancaster,South Carolina,45057.0,7966,118.0
+991582,2021-02-02,Lancaster,Virginia,51103.0,570,4.0
+993561,2021-02-03,Lancaster,Nebraska,31109.0,26958,200.0
+994134,2021-02-03,Lancaster,Pennsylvania,42071.0,39065,935.0
+994279,2021-02-03,Lancaster,South Carolina,45057.0,8010,120.0
+994828,2021-02-03,Lancaster,Virginia,51103.0,578,4.0
+996807,2021-02-04,Lancaster,Nebraska,31109.0,27009,203.0
+997380,2021-02-04,Lancaster,Pennsylvania,42071.0,39259,939.0
+997525,2021-02-04,Lancaster,South Carolina,45057.0,8064,121.0
+998074,2021-02-04,Lancaster,Virginia,51103.0,583,4.0
+1000053,2021-02-05,Lancaster,Nebraska,31109.0,27067,205.0
+1000626,2021-02-05,Lancaster,Pennsylvania,42071.0,39492,944.0
+1000771,2021-02-05,Lancaster,South Carolina,45057.0,8176,122.0
+1001320,2021-02-05,Lancaster,Virginia,51103.0,587,4.0
+1003298,2021-02-06,Lancaster,Nebraska,31109.0,27108,206.0
+1003872,2021-02-06,Lancaster,Pennsylvania,42071.0,39798,948.0
+1004017,2021-02-06,Lancaster,South Carolina,45057.0,8231,123.0
+1004566,2021-02-06,Lancaster,Virginia,51103.0,605,4.0
+1006544,2021-02-07,Lancaster,Nebraska,31109.0,27159,206.0
+1007118,2021-02-07,Lancaster,Pennsylvania,42071.0,40175,949.0
+1007263,2021-02-07,Lancaster,South Carolina,45057.0,8322,124.0
+1007812,2021-02-07,Lancaster,Virginia,51103.0,606,4.0
+1009791,2021-02-08,Lancaster,Nebraska,31109.0,27202,207.0
+1010364,2021-02-08,Lancaster,Pennsylvania,42071.0,40309,949.0
+1010509,2021-02-08,Lancaster,South Carolina,45057.0,8358,124.0
+1011058,2021-02-08,Lancaster,Virginia,51103.0,607,4.0
+1013036,2021-02-09,Lancaster,Nebraska,31109.0,27256,207.0
+1013609,2021-02-09,Lancaster,Pennsylvania,42071.0,40554,961.0
+1013754,2021-02-09,Lancaster,South Carolina,45057.0,8410,124.0
+1014303,2021-02-09,Lancaster,Virginia,51103.0,609,4.0
+1016281,2021-02-10,Lancaster,Nebraska,31109.0,27322,208.0
+1016854,2021-02-10,Lancaster,Pennsylvania,42071.0,40750,965.0
+1016999,2021-02-10,Lancaster,South Carolina,45057.0,8485,124.0
+1017548,2021-02-10,Lancaster,Virginia,51103.0,616,4.0
+1019526,2021-02-11,Lancaster,Nebraska,31109.0,27378,208.0
+1020099,2021-02-11,Lancaster,Pennsylvania,42071.0,41059,970.0
+1020244,2021-02-11,Lancaster,South Carolina,45057.0,8551,124.0
+1020793,2021-02-11,Lancaster,Virginia,51103.0,618,4.0
+1022771,2021-02-12,Lancaster,Nebraska,31109.0,27427,208.0
+1023344,2021-02-12,Lancaster,Pennsylvania,42071.0,41254,974.0
+1023489,2021-02-12,Lancaster,South Carolina,45057.0,8650,124.0
+1024038,2021-02-12,Lancaster,Virginia,51103.0,621,4.0
+1026016,2021-02-13,Lancaster,Nebraska,31109.0,27494,208.0
+1026589,2021-02-13,Lancaster,Pennsylvania,42071.0,41546,979.0
+1026734,2021-02-13,Lancaster,South Carolina,45057.0,8723,124.0
+1027283,2021-02-13,Lancaster,Virginia,51103.0,625,4.0
+1029262,2021-02-14,Lancaster,Nebraska,31109.0,27534,208.0
+1029836,2021-02-14,Lancaster,Pennsylvania,42071.0,41722,979.0
+1029981,2021-02-14,Lancaster,South Carolina,45057.0,8810,126.0
+1030530,2021-02-14,Lancaster,Virginia,51103.0,627,4.0
+1032509,2021-02-15,Lancaster,Nebraska,31109.0,27540,208.0
+1033082,2021-02-15,Lancaster,Pennsylvania,42071.0,41851,980.0
+1033227,2021-02-15,Lancaster,South Carolina,45057.0,8860,126.0
+1033776,2021-02-15,Lancaster,Virginia,51103.0,627,4.0
+1035754,2021-02-16,Lancaster,Nebraska,31109.0,27563,209.0
+1036327,2021-02-16,Lancaster,Pennsylvania,42071.0,41955,980.0
+1036472,2021-02-16,Lancaster,South Carolina,45057.0,8887,126.0
+1037021,2021-02-16,Lancaster,Virginia,51103.0,630,4.0
+1038999,2021-02-17,Lancaster,Nebraska,31109.0,27630,211.0
+1039572,2021-02-17,Lancaster,Pennsylvania,42071.0,42180,989.0
+1039717,2021-02-17,Lancaster,South Carolina,45057.0,8943,128.0
+1040266,2021-02-17,Lancaster,Virginia,51103.0,630,4.0
+1042244,2021-02-18,Lancaster,Nebraska,31109.0,27713,212.0
+1042817,2021-02-18,Lancaster,Pennsylvania,42071.0,42361,998.0
+1042962,2021-02-18,Lancaster,South Carolina,45057.0,9002,130.0
+1043511,2021-02-18,Lancaster,Virginia,51103.0,634,4.0
+1045489,2021-02-19,Lancaster,Nebraska,31109.0,27774,214.0
+1046062,2021-02-19,Lancaster,Pennsylvania,42071.0,42502,998.0
+1046207,2021-02-19,Lancaster,South Carolina,45057.0,9082,132.0
+1046756,2021-02-19,Lancaster,Virginia,51103.0,638,4.0
+1048735,2021-02-20,Lancaster,Nebraska,31109.0,27822,214.0
+1049309,2021-02-20,Lancaster,Pennsylvania,42071.0,42660,1003.0
+1049454,2021-02-20,Lancaster,South Carolina,45057.0,9196,136.0
+1050003,2021-02-20,Lancaster,Virginia,51103.0,641,4.0
+1051982,2021-02-21,Lancaster,Nebraska,31109.0,27850,214.0
+1052556,2021-02-21,Lancaster,Pennsylvania,42071.0,42740,1004.0
+1052701,2021-02-21,Lancaster,South Carolina,45057.0,9259,140.0
+1053250,2021-02-21,Lancaster,Virginia,51103.0,642,6.0
+1055229,2021-02-22,Lancaster,Nebraska,31109.0,27892,214.0
+1055802,2021-02-22,Lancaster,Pennsylvania,42071.0,42843,1004.0
+1055947,2021-02-22,Lancaster,South Carolina,45057.0,9296,140.0
+1056496,2021-02-22,Lancaster,Virginia,51103.0,643,6.0
+1058475,2021-02-23,Lancaster,Nebraska,31109.0,27932,214.0
+1059048,2021-02-23,Lancaster,Pennsylvania,42071.0,42945,1012.0
+1059193,2021-02-23,Lancaster,South Carolina,45057.0,9329,140.0
+1059742,2021-02-23,Lancaster,Virginia,51103.0,646,8.0
+1061721,2021-02-24,Lancaster,Nebraska,31109.0,27990,217.0
+1062293,2021-02-24,Lancaster,Pennsylvania,42071.0,43120,1017.0
+1062438,2021-02-24,Lancaster,South Carolina,45057.0,9387,142.0
+1062987,2021-02-24,Lancaster,Virginia,51103.0,648,8.0
+1064965,2021-02-25,Lancaster,Nebraska,31109.0,28041,217.0
+1065538,2021-02-25,Lancaster,Pennsylvania,42071.0,43240,1025.0
+1065683,2021-02-25,Lancaster,South Carolina,45057.0,9458,142.0
+1066232,2021-02-25,Lancaster,Virginia,51103.0,651,9.0
+1068210,2021-02-26,Lancaster,Nebraska,31109.0,28041,217.0
+1068783,2021-02-26,Lancaster,Pennsylvania,42071.0,43348,1030.0
+1068928,2021-02-26,Lancaster,South Carolina,45057.0,9481,142.0
+1069477,2021-02-26,Lancaster,Virginia,51103.0,653,10.0
+1071455,2021-02-27,Lancaster,Nebraska,31109.0,28107,218.0
+1072029,2021-02-27,Lancaster,Pennsylvania,42071.0,43527,1030.0
+1072174,2021-02-27,Lancaster,South Carolina,45057.0,9504,143.0
+1072723,2021-02-27,Lancaster,Virginia,51103.0,655,10.0
+1074701,2021-02-28,Lancaster,Nebraska,31109.0,28183,218.0
+1075275,2021-02-28,Lancaster,Pennsylvania,42071.0,43630,1033.0
+1075420,2021-02-28,Lancaster,South Carolina,45057.0,9543,144.0
+1075969,2021-02-28,Lancaster,Virginia,51103.0,661,11.0
+1077947,2021-03-01,Lancaster,Nebraska,31109.0,28210,218.0
+1078520,2021-03-01,Lancaster,Pennsylvania,42071.0,43705,1033.0
+1078665,2021-03-01,Lancaster,South Carolina,45057.0,9564,144.0
+1079214,2021-03-01,Lancaster,Virginia,51103.0,664,12.0
+1081193,2021-03-02,Lancaster,Nebraska,31109.0,28293,218.0
+1081766,2021-03-02,Lancaster,Pennsylvania,42071.0,43809,1034.0
+1081911,2021-03-02,Lancaster,South Carolina,45057.0,9588,146.0
+1082460,2021-03-02,Lancaster,Virginia,51103.0,664,13.0
+1084439,2021-03-03,Lancaster,Nebraska,31109.0,28327,218.0
+1085012,2021-03-03,Lancaster,Pennsylvania,42071.0,43951,1038.0
+1085157,2021-03-03,Lancaster,South Carolina,45057.0,9609,147.0
+1085706,2021-03-03,Lancaster,Virginia,51103.0,667,13.0
+1087684,2021-03-04,Lancaster,Nebraska,31109.0,28372,218.0
+1088257,2021-03-04,Lancaster,Pennsylvania,42071.0,44116,1041.0
+1088402,2021-03-04,Lancaster,South Carolina,45057.0,9626,147.0
+1088951,2021-03-04,Lancaster,Virginia,51103.0,670,13.0
+1090929,2021-03-05,Lancaster,Nebraska,31109.0,28432,218.0
+1091503,2021-03-05,Lancaster,Pennsylvania,42071.0,44249,1045.0
+1091648,2021-03-05,Lancaster,South Carolina,45057.0,9646,147.0
+1092197,2021-03-05,Lancaster,Virginia,51103.0,670,13.0
+1094175,2021-03-06,Lancaster,Nebraska,31109.0,28482,218.0
+1094749,2021-03-06,Lancaster,Pennsylvania,42071.0,44383,1049.0
+1094894,2021-03-06,Lancaster,South Carolina,45057.0,9672,147.0
+1095443,2021-03-06,Lancaster,Virginia,51103.0,671,13.0
+1097422,2021-03-07,Lancaster,Nebraska,31109.0,28522,218.0
+1097997,2021-03-07,Lancaster,Pennsylvania,42071.0,44480,1053.0
+1098142,2021-03-07,Lancaster,South Carolina,45057.0,9696,147.0
+1098691,2021-03-07,Lancaster,Virginia,51103.0,671,13.0
+1100669,2021-03-08,Lancaster,Nebraska,31109.0,28542,218.0
+1101243,2021-03-08,Lancaster,Pennsylvania,42071.0,44556,1053.0
+1101388,2021-03-08,Lancaster,South Carolina,45057.0,9715,147.0
+1101937,2021-03-08,Lancaster,Virginia,51103.0,674,13.0
+1103915,2021-03-09,Lancaster,Nebraska,31109.0,28608,218.0
+1104489,2021-03-09,Lancaster,Pennsylvania,42071.0,44684,1056.0
+1104634,2021-03-09,Lancaster,South Carolina,45057.0,9724,147.0
+1105183,2021-03-09,Lancaster,Virginia,51103.0,676,16.0
+1107161,2021-03-10,Lancaster,Nebraska,31109.0,28670,219.0
+1107735,2021-03-10,Lancaster,Pennsylvania,42071.0,44833,1057.0
+1107880,2021-03-10,Lancaster,South Carolina,45057.0,9745,147.0
+1108429,2021-03-10,Lancaster,Virginia,51103.0,675,16.0
+1110407,2021-03-11,Lancaster,Nebraska,31109.0,28714,220.0
+1110981,2021-03-11,Lancaster,Pennsylvania,42071.0,44965,1058.0
+1111126,2021-03-11,Lancaster,South Carolina,45057.0,9757,148.0
+1111675,2021-03-11,Lancaster,Virginia,51103.0,675,16.0
+1113653,2021-03-12,Lancaster,Nebraska,31109.0,28758,221.0
+1114227,2021-03-12,Lancaster,Pennsylvania,42071.0,45127,1062.0
+1114372,2021-03-12,Lancaster,South Carolina,45057.0,9790,148.0
+1114921,2021-03-12,Lancaster,Virginia,51103.0,675,16.0
+1116899,2021-03-13,Lancaster,Nebraska,31109.0,28801,221.0
+1117474,2021-03-13,Lancaster,Pennsylvania,42071.0,45247,1062.0
+1117619,2021-03-13,Lancaster,South Carolina,45057.0,9825,148.0
+1118168,2021-03-13,Lancaster,Virginia,51103.0,675,16.0
+1120146,2021-03-14,Lancaster,Nebraska,31109.0,28829,221.0
+1120721,2021-03-14,Lancaster,Pennsylvania,42071.0,45335,1062.0
+1120866,2021-03-14,Lancaster,South Carolina,45057.0,9834,148.0
+1121415,2021-03-14,Lancaster,Virginia,51103.0,675,16.0
+1123393,2021-03-15,Lancaster,Nebraska,31109.0,28853,221.0
+1123967,2021-03-15,Lancaster,Pennsylvania,42071.0,45397,1063.0
+1124112,2021-03-15,Lancaster,South Carolina,45057.0,9849,149.0
+1124661,2021-03-15,Lancaster,Virginia,51103.0,675,16.0
+1126639,2021-03-16,Lancaster,Nebraska,31109.0,28923,221.0
+1127213,2021-03-16,Lancaster,Pennsylvania,42071.0,45542,1065.0
+1127358,2021-03-16,Lancaster,South Carolina,45057.0,9867,150.0
+1127907,2021-03-16,Lancaster,Virginia,51103.0,676,16.0
+1129886,2021-03-17,Lancaster,Nebraska,31109.0,28965,221.0
+1130460,2021-03-17,Lancaster,Pennsylvania,42071.0,45695,1066.0
+1130605,2021-03-17,Lancaster,South Carolina,45057.0,9883,152.0
+1131154,2021-03-17,Lancaster,Virginia,51103.0,676,16.0
+1133134,2021-03-18,Lancaster,Nebraska,31109.0,29007,221.0
+1133708,2021-03-18,Lancaster,Pennsylvania,42071.0,45838,1070.0
+1133853,2021-03-18,Lancaster,South Carolina,45057.0,9896,152.0
+1134402,2021-03-18,Lancaster,Virginia,51103.0,679,16.0
+1136380,2021-03-19,Lancaster,Nebraska,31109.0,29062,221.0
+1136954,2021-03-19,Lancaster,Pennsylvania,42071.0,45968,1072.0
+1137099,2021-03-19,Lancaster,South Carolina,45057.0,9918,152.0
+1137648,2021-03-19,Lancaster,Virginia,51103.0,679,15.0
+1139626,2021-03-20,Lancaster,Nebraska,31109.0,29111,221.0
+1140200,2021-03-20,Lancaster,Pennsylvania,42071.0,46125,1073.0
+1140345,2021-03-20,Lancaster,South Carolina,45057.0,9933,152.0
+1140894,2021-03-20,Lancaster,Virginia,51103.0,679,15.0
+1142873,2021-03-21,Lancaster,Nebraska,31109.0,29148,221.0
+1143447,2021-03-21,Lancaster,Pennsylvania,42071.0,46207,1073.0
+1143592,2021-03-21,Lancaster,South Carolina,45057.0,9951,153.0
+1144141,2021-03-21,Lancaster,Virginia,51103.0,679,15.0
+1146120,2021-03-22,Lancaster,Nebraska,31109.0,29204,221.0
+1146694,2021-03-22,Lancaster,Pennsylvania,42071.0,46275,1073.0
+1146839,2021-03-22,Lancaster,South Carolina,45057.0,9958,153.0
+1147388,2021-03-22,Lancaster,Virginia,51103.0,679,15.0
+1149367,2021-03-23,Lancaster,Nebraska,31109.0,29247,221.0
+1149941,2021-03-23,Lancaster,Pennsylvania,42071.0,46403,1073.0
+1150086,2021-03-23,Lancaster,South Carolina,45057.0,9968,154.0
+1150635,2021-03-23,Lancaster,Virginia,51103.0,679,15.0
+1152614,2021-03-24,Lancaster,Nebraska,31109.0,29292,221.0
+1153188,2021-03-24,Lancaster,Pennsylvania,42071.0,46596,1074.0
+1153333,2021-03-24,Lancaster,South Carolina,45057.0,9983,156.0
+1153882,2021-03-24,Lancaster,Virginia,51103.0,681,15.0
+1155861,2021-03-25,Lancaster,Nebraska,31109.0,29344,222.0
+1156435,2021-03-25,Lancaster,Pennsylvania,42071.0,46758,1075.0
+1156580,2021-03-25,Lancaster,South Carolina,45057.0,9998,156.0
+1157129,2021-03-25,Lancaster,Virginia,51103.0,681,15.0
+1159108,2021-03-26,Lancaster,Nebraska,31109.0,29391,222.0
+1159682,2021-03-26,Lancaster,Pennsylvania,42071.0,46948,1077.0
+1159827,2021-03-26,Lancaster,South Carolina,45057.0,10015,157.0
+1160377,2021-03-26,Lancaster,Virginia,51103.0,681,15.0
+1162356,2021-03-27,Lancaster,Nebraska,31109.0,29460,222.0
+1162931,2021-03-27,Lancaster,Pennsylvania,42071.0,47113,1077.0
+1163076,2021-03-27,Lancaster,South Carolina,45057.0,10031,157.0
+1163625,2021-03-27,Lancaster,Virginia,51103.0,682,15.0
+1165604,2021-03-28,Lancaster,Nebraska,31109.0,29477,222.0
+1166179,2021-03-28,Lancaster,Pennsylvania,42071.0,47271,1077.0
+1166324,2021-03-28,Lancaster,South Carolina,45057.0,10043,157.0
+1166873,2021-03-28,Lancaster,Virginia,51103.0,683,15.0
+1168852,2021-03-29,Lancaster,Nebraska,31109.0,29518,223.0
+1169427,2021-03-29,Lancaster,Pennsylvania,42071.0,47420,1077.0
+1169572,2021-03-29,Lancaster,South Carolina,45057.0,10060,157.0
+1170121,2021-03-29,Lancaster,Virginia,51103.0,683,15.0
+1172100,2021-03-30,Lancaster,Nebraska,31109.0,29580,224.0
+1172674,2021-03-30,Lancaster,Pennsylvania,42071.0,47656,1077.0
+1172819,2021-03-30,Lancaster,South Carolina,45057.0,10075,157.0
+1173368,2021-03-30,Lancaster,Virginia,51103.0,683,15.0
+1175347,2021-03-31,Lancaster,Nebraska,31109.0,29636,224.0
+1175921,2021-03-31,Lancaster,Pennsylvania,42071.0,47817,1077.0
+1176066,2021-03-31,Lancaster,South Carolina,45057.0,10100,157.0
+1176615,2021-03-31,Lancaster,Virginia,51103.0,683,15.0
+1178594,2021-04-01,Lancaster,Nebraska,31109.0,29708,224.0
+1179168,2021-04-01,Lancaster,Pennsylvania,42071.0,48010,1079.0
+1179313,2021-04-01,Lancaster,South Carolina,45057.0,10125,158.0
+1179862,2021-04-01,Lancaster,Virginia,51103.0,687,15.0
+1181841,2021-04-02,Lancaster,Nebraska,31109.0,29767,224.0
+1182415,2021-04-02,Lancaster,Pennsylvania,42071.0,48232,1080.0
+1182560,2021-04-02,Lancaster,South Carolina,45057.0,10137,158.0
+1183109,2021-04-02,Lancaster,Virginia,51103.0,688,15.0
+1185087,2021-04-03,Lancaster,Nebraska,31109.0,29830,227.0
+1185662,2021-04-03,Lancaster,Pennsylvania,42071.0,48481,1080.0
+1185807,2021-04-03,Lancaster,South Carolina,45057.0,10161,158.0
+1186356,2021-04-03,Lancaster,Virginia,51103.0,690,15.0
+1188334,2021-04-04,Lancaster,Nebraska,31109.0,29867,227.0
+1188909,2021-04-04,Lancaster,Pennsylvania,42071.0,48681,1080.0
+1189054,2021-04-04,Lancaster,South Carolina,45057.0,10161,158.0
+1189603,2021-04-04,Lancaster,Virginia,51103.0,692,15.0
+1191582,2021-04-05,Lancaster,Nebraska,31109.0,29885,228.0
+1192158,2021-04-05,Lancaster,Pennsylvania,42071.0,48771,1080.0
+1192303,2021-04-05,Lancaster,South Carolina,45057.0,10183,158.0
+1192853,2021-04-05,Lancaster,Virginia,51103.0,695,15.0
+1194831,2021-04-06,Lancaster,Nebraska,31109.0,29911,228.0
+1195406,2021-04-06,Lancaster,Pennsylvania,42071.0,48920,1082.0
+1195551,2021-04-06,Lancaster,South Carolina,45057.0,10199,159.0
+1196101,2021-04-06,Lancaster,Virginia,51103.0,695,15.0
+1198080,2021-04-07,Lancaster,Nebraska,31109.0,30021,228.0
+1198655,2021-04-07,Lancaster,Pennsylvania,42071.0,49099,1083.0
+1198800,2021-04-07,Lancaster,South Carolina,45057.0,10209,160.0
+1199350,2021-04-07,Lancaster,Virginia,51103.0,696,15.0
+1201329,2021-04-08,Lancaster,Nebraska,31109.0,30067,229.0
+1201904,2021-04-08,Lancaster,Pennsylvania,42071.0,49282,1084.0
+1202049,2021-04-08,Lancaster,South Carolina,45057.0,10226,160.0
+1202598,2021-04-08,Lancaster,Virginia,51103.0,696,15.0
+1204577,2021-04-09,Lancaster,Nebraska,31109.0,30118,229.0
+1205152,2021-04-09,Lancaster,Pennsylvania,42071.0,49469,1085.0
+1205297,2021-04-09,Lancaster,South Carolina,45057.0,10241,161.0
+1205846,2021-04-09,Lancaster,Virginia,51103.0,698,15.0
+1207825,2021-04-10,Lancaster,Nebraska,31109.0,30175,229.0
+1208400,2021-04-10,Lancaster,Pennsylvania,42071.0,49665,1086.0
+1208545,2021-04-10,Lancaster,South Carolina,45057.0,10260,162.0
+1209094,2021-04-10,Lancaster,Virginia,51103.0,699,15.0
+1211074,2021-04-11,Lancaster,Nebraska,31109.0,30202,230.0
+1211649,2021-04-11,Lancaster,Pennsylvania,42071.0,49812,1086.0
+1211794,2021-04-11,Lancaster,South Carolina,45057.0,10273,162.0
+1212343,2021-04-11,Lancaster,Virginia,51103.0,700,15.0
+1214322,2021-04-12,Lancaster,Nebraska,31109.0,30211,230.0
+1214896,2021-04-12,Lancaster,Pennsylvania,42071.0,49979,1086.0
+1215041,2021-04-12,Lancaster,South Carolina,45057.0,10288,162.0
+1215590,2021-04-12,Lancaster,Virginia,51103.0,701,15.0
+1217569,2021-04-13,Lancaster,Nebraska,31109.0,30264,230.0
+1218144,2021-04-13,Lancaster,Pennsylvania,42071.0,50283,1087.0
+1218289,2021-04-13,Lancaster,South Carolina,45057.0,10308,163.0
+1218838,2021-04-13,Lancaster,Virginia,51103.0,702,15.0
+1220817,2021-04-14,Lancaster,Nebraska,31109.0,30321,230.0
+1221392,2021-04-14,Lancaster,Pennsylvania,42071.0,50487,1088.0
+1221537,2021-04-14,Lancaster,South Carolina,45057.0,10322,163.0
+1222086,2021-04-14,Lancaster,Virginia,51103.0,702,15.0
+1224064,2021-04-15,Lancaster,Nebraska,31109.0,30362,230.0
+1224639,2021-04-15,Lancaster,Pennsylvania,42071.0,50699,1091.0
+1224784,2021-04-15,Lancaster,South Carolina,45057.0,10342,163.0
+1225333,2021-04-15,Lancaster,Virginia,51103.0,703,15.0
+1227312,2021-04-16,Lancaster,Nebraska,31109.0,30422,231.0
+1227887,2021-04-16,Lancaster,Pennsylvania,42071.0,50949,1093.0
+1228032,2021-04-16,Lancaster,South Carolina,45057.0,10374,163.0
+1228581,2021-04-16,Lancaster,Virginia,51103.0,705,15.0
+1230560,2021-04-17,Lancaster,Nebraska,31109.0,30452,231.0
+1231135,2021-04-17,Lancaster,Pennsylvania,42071.0,51164,1094.0
+1231280,2021-04-17,Lancaster,South Carolina,45057.0,10402,163.0
+1231829,2021-04-17,Lancaster,Virginia,51103.0,705,15.0
+1233808,2021-04-18,Lancaster,Nebraska,31109.0,30473,231.0
+1234383,2021-04-18,Lancaster,Pennsylvania,42071.0,51347,1094.0
+1234528,2021-04-18,Lancaster,South Carolina,45057.0,10420,164.0
+1235077,2021-04-18,Lancaster,Virginia,51103.0,706,15.0
+1237055,2021-04-19,Lancaster,Nebraska,31109.0,30493,232.0
+1237630,2021-04-19,Lancaster,Pennsylvania,42071.0,51426,1094.0
+1237775,2021-04-19,Lancaster,South Carolina,45057.0,10437,165.0
+1238324,2021-04-19,Lancaster,Virginia,51103.0,706,15.0
+1240302,2021-04-20,Lancaster,Nebraska,31109.0,30557,232.0
+1240877,2021-04-20,Lancaster,Pennsylvania,42071.0,51619,1096.0
+1241022,2021-04-20,Lancaster,South Carolina,45057.0,10453,165.0
+1241571,2021-04-20,Lancaster,Virginia,51103.0,707,15.0
+1243549,2021-04-21,Lancaster,Nebraska,31109.0,30623,232.0
+1244124,2021-04-21,Lancaster,Pennsylvania,42071.0,51803,1098.0
+1244269,2021-04-21,Lancaster,South Carolina,45057.0,10474,165.0
+1244818,2021-04-21,Lancaster,Virginia,51103.0,708,15.0
+1246796,2021-04-22,Lancaster,Nebraska,31109.0,30665,232.0
+1247371,2021-04-22,Lancaster,Pennsylvania,42071.0,52041,1100.0
+1247516,2021-04-22,Lancaster,South Carolina,45057.0,10486,165.0
+1248065,2021-04-22,Lancaster,Virginia,51103.0,708,15.0
+1250043,2021-04-23,Lancaster,Nebraska,31109.0,30720,232.0
+1250618,2021-04-23,Lancaster,Pennsylvania,42071.0,52209,1104.0
+1250763,2021-04-23,Lancaster,South Carolina,45057.0,10509,165.0
+1251312,2021-04-23,Lancaster,Virginia,51103.0,708,16.0
+1253290,2021-04-24,Lancaster,Nebraska,31109.0,30793,232.0
+1253865,2021-04-24,Lancaster,Pennsylvania,42071.0,52360,1105.0
+1254010,2021-04-24,Lancaster,South Carolina,45057.0,10533,165.0
+1254559,2021-04-24,Lancaster,Virginia,51103.0,708,16.0
+1256537,2021-04-25,Lancaster,Nebraska,31109.0,30826,232.0
+1257112,2021-04-25,Lancaster,Pennsylvania,42071.0,52510,1105.0
+1257257,2021-04-25,Lancaster,South Carolina,45057.0,10545,165.0
+1257806,2021-04-25,Lancaster,Virginia,51103.0,709,16.0
+1259784,2021-04-26,Lancaster,Nebraska,31109.0,30834,232.0
+1260359,2021-04-26,Lancaster,Pennsylvania,42071.0,52602,1105.0
+1260504,2021-04-26,Lancaster,South Carolina,45057.0,10556,166.0
+1261053,2021-04-26,Lancaster,Virginia,51103.0,709,16.0
+1263031,2021-04-27,Lancaster,Nebraska,31109.0,30879,232.0
+1263606,2021-04-27,Lancaster,Pennsylvania,42071.0,52725,1107.0
+1263751,2021-04-27,Lancaster,South Carolina,45057.0,10570,166.0
+1264300,2021-04-27,Lancaster,Virginia,51103.0,709,16.0
+1266278,2021-04-28,Lancaster,Nebraska,31109.0,30932,232.0
+1266853,2021-04-28,Lancaster,Pennsylvania,42071.0,52895,1108.0
+1266998,2021-04-28,Lancaster,South Carolina,45057.0,10578,166.0
+1267547,2021-04-28,Lancaster,Virginia,51103.0,709,16.0
+1269525,2021-04-29,Lancaster,Nebraska,31109.0,30982,232.0
+1270100,2021-04-29,Lancaster,Pennsylvania,42071.0,53029,1111.0
+1270245,2021-04-29,Lancaster,South Carolina,45057.0,10589,166.0
+1270794,2021-04-29,Lancaster,Virginia,51103.0,710,16.0
+1272772,2021-04-30,Lancaster,Nebraska,31109.0,31033,232.0
+1273347,2021-04-30,Lancaster,Pennsylvania,42071.0,53202,1112.0
+1273492,2021-04-30,Lancaster,South Carolina,45057.0,10604,166.0
+1274041,2021-04-30,Lancaster,Virginia,51103.0,710,16.0
+1276019,2021-05-01,Lancaster,Nebraska,31109.0,31061,232.0
+1276594,2021-05-01,Lancaster,Pennsylvania,42071.0,53334,1112.0
+1276739,2021-05-01,Lancaster,South Carolina,45057.0,10618,166.0
+1277288,2021-05-01,Lancaster,Virginia,51103.0,710,16.0
+1279266,2021-05-02,Lancaster,Nebraska,31109.0,31071,232.0
+1279841,2021-05-02,Lancaster,Pennsylvania,42071.0,53445,1112.0
+1279986,2021-05-02,Lancaster,South Carolina,45057.0,10626,167.0
+1280535,2021-05-02,Lancaster,Virginia,51103.0,710,16.0
+1282513,2021-05-03,Lancaster,Nebraska,31109.0,31092,232.0
+1283088,2021-05-03,Lancaster,Pennsylvania,42071.0,53501,1112.0
+1283233,2021-05-03,Lancaster,South Carolina,45057.0,10635,167.0
+1283782,2021-05-03,Lancaster,Virginia,51103.0,710,16.0
+1285759,2021-05-04,Lancaster,Nebraska,31109.0,31128,232.0
+1286334,2021-05-04,Lancaster,Pennsylvania,42071.0,53603,1114.0
+1286479,2021-05-04,Lancaster,South Carolina,45057.0,10645,167.0
+1287028,2021-05-04,Lancaster,Virginia,51103.0,710,16.0
+1289005,2021-05-05,Lancaster,Nebraska,31109.0,31158,232.0
+1289580,2021-05-05,Lancaster,Pennsylvania,42071.0,53703,1117.0
+1289725,2021-05-05,Lancaster,South Carolina,45057.0,10666,167.0
+1290274,2021-05-05,Lancaster,Virginia,51103.0,710,16.0
+1292251,2021-05-06,Lancaster,Nebraska,31109.0,31197,232.0
+1292826,2021-05-06,Lancaster,Pennsylvania,42071.0,53815,1119.0
+1292971,2021-05-06,Lancaster,South Carolina,45057.0,10675,168.0
+1293520,2021-05-06,Lancaster,Virginia,51103.0,712,16.0
+1295497,2021-05-07,Lancaster,Nebraska,31109.0,31231,232.0
+1296072,2021-05-07,Lancaster,Pennsylvania,42071.0,53924,1123.0
+1296217,2021-05-07,Lancaster,South Carolina,45057.0,10689,168.0
+1296766,2021-05-07,Lancaster,Virginia,51103.0,712,16.0
+1298743,2021-05-08,Lancaster,Nebraska,31109.0,31266,232.0
+1299319,2021-05-08,Lancaster,Pennsylvania,42071.0,54036,1123.0
+1299464,2021-05-08,Lancaster,South Carolina,45057.0,10701,168.0
+1300013,2021-05-08,Lancaster,Virginia,51103.0,712,16.0
+1301991,2021-05-09,Lancaster,Nebraska,31109.0,31284,232.0
+1302566,2021-05-09,Lancaster,Pennsylvania,42071.0,54098,1123.0
+1302711,2021-05-09,Lancaster,South Carolina,45057.0,10712,168.0
+1303260,2021-05-09,Lancaster,Virginia,51103.0,713,16.0
+1305237,2021-05-10,Lancaster,Nebraska,31109.0,31290,232.0
+1305812,2021-05-10,Lancaster,Pennsylvania,42071.0,54145,1123.0
+1305957,2021-05-10,Lancaster,South Carolina,45057.0,10714,168.0
+1306506,2021-05-10,Lancaster,Virginia,51103.0,713,16.0
+1308483,2021-05-11,Lancaster,Nebraska,31109.0,31311,232.0
+1309058,2021-05-11,Lancaster,Pennsylvania,42071.0,54211,1124.0
+1309203,2021-05-11,Lancaster,South Carolina,45057.0,10720,168.0
+1309752,2021-05-11,Lancaster,Virginia,51103.0,713,16.0
+1311730,2021-05-12,Lancaster,Nebraska,31109.0,31330,233.0
+1312305,2021-05-12,Lancaster,Pennsylvania,42071.0,54308,1128.0
+1312450,2021-05-12,Lancaster,South Carolina,45057.0,10723,168.0
+1312999,2021-05-12,Lancaster,Virginia,51103.0,713,16.0
+1314976,2021-05-13,Lancaster,Nebraska,31109.0,31346,233.0
+1315551,2021-05-13,Lancaster,Pennsylvania,42071.0,54393,1128.0
+1315696,2021-05-13,Lancaster,South Carolina,45057.0,10731,168.0
+1316245,2021-05-13,Lancaster,Virginia,51103.0,713,16.0
+1318224,2021-05-14,Lancaster,Nebraska,31109.0,31356,235.0
+1318799,2021-05-14,Lancaster,Pennsylvania,42071.0,54463,1130.0
+1318944,2021-05-14,Lancaster,South Carolina,45057.0,10748,168.0
+1319493,2021-05-14,Lancaster,Virginia,51103.0,713,16.0
+1321470,2021-05-15,Lancaster,Nebraska,31109.0,31356,235.0
+1322045,2021-05-15,Lancaster,Pennsylvania,42071.0,54528,1130.0
+1322190,2021-05-15,Lancaster,South Carolina,45057.0,10772,168.0
+1322739,2021-05-15,Lancaster,Virginia,51103.0,714,16.0
+1324716,2021-05-16,Lancaster,Nebraska,31109.0,31356,235.0
+1325291,2021-05-16,Lancaster,Pennsylvania,42071.0,54577,1133.0
+1325436,2021-05-16,Lancaster,South Carolina,45057.0,10780,168.0
+1325985,2021-05-16,Lancaster,Virginia,51103.0,714,16.0
+1327962,2021-05-17,Lancaster,Nebraska,31109.0,31376,235.0
+1328537,2021-05-17,Lancaster,Pennsylvania,42071.0,54601,1133.0
+1328682,2021-05-17,Lancaster,South Carolina,45057.0,10785,168.0
+1329231,2021-05-17,Lancaster,Virginia,51103.0,714,16.0
+1331209,2021-05-18,Lancaster,Nebraska,31109.0,31379,235.0
+1331784,2021-05-18,Lancaster,Pennsylvania,42071.0,54662,1136.0
+1331929,2021-05-18,Lancaster,South Carolina,45057.0,10786,168.0
+1332478,2021-05-18,Lancaster,Virginia,51103.0,714,16.0
+1334456,2021-05-19,Lancaster,Nebraska,31109.0,31396,235.0
+1335031,2021-05-19,Lancaster,Pennsylvania,42071.0,54707,1138.0
+1335176,2021-05-19,Lancaster,South Carolina,45057.0,10796,168.0
+1335725,2021-05-19,Lancaster,Virginia,51103.0,714,16.0
+1337703,2021-05-20,Lancaster,Nebraska,31109.0,31417,236.0
+1338278,2021-05-20,Lancaster,Pennsylvania,42071.0,54738,1141.0
+1338423,2021-05-20,Lancaster,South Carolina,45057.0,10803,168.0
+1338972,2021-05-20,Lancaster,Virginia,51103.0,714,16.0
+1340951,2021-05-21,Lancaster,Nebraska,31109.0,31429,236.0
+1341526,2021-05-21,Lancaster,Pennsylvania,42071.0,54797,1143.0
+1341671,2021-05-21,Lancaster,South Carolina,45057.0,10815,168.0
+1342220,2021-05-21,Lancaster,Virginia,51103.0,714,16.0
+1344199,2021-05-22,Lancaster,Nebraska,31109.0,31429,236.0
+1344774,2021-05-22,Lancaster,Pennsylvania,42071.0,54797,1145.0
+1344919,2021-05-22,Lancaster,South Carolina,45057.0,10818,168.0
+1345468,2021-05-22,Lancaster,Virginia,51103.0,715,16.0
+1347447,2021-05-23,Lancaster,Nebraska,31109.0,31429,236.0
+1348022,2021-05-23,Lancaster,Pennsylvania,42071.0,54897,1145.0
+1348167,2021-05-23,Lancaster,South Carolina,45057.0,10823,168.0
+1348716,2021-05-23,Lancaster,Virginia,51103.0,715,16.0
+1350693,2021-05-24,Lancaster,Nebraska,31109.0,31454,236.0
+1351268,2021-05-24,Lancaster,Pennsylvania,42071.0,54931,1145.0
+1351413,2021-05-24,Lancaster,South Carolina,45057.0,10828,168.0
+1351962,2021-05-24,Lancaster,Virginia,51103.0,715,16.0
+1353939,2021-05-25,Lancaster,Nebraska,31109.0,31468,236.0
+1354514,2021-05-25,Lancaster,Pennsylvania,42071.0,54953,1148.0
+1354659,2021-05-25,Lancaster,South Carolina,45057.0,10832,168.0
+1355208,2021-05-25,Lancaster,Virginia,51103.0,716,16.0
+1357185,2021-05-26,Lancaster,Nebraska,31109.0,31468,236.0
+1357760,2021-05-26,Lancaster,Pennsylvania,42071.0,54995,1148.0
+1357905,2021-05-26,Lancaster,South Carolina,45057.0,10838,168.0
+1358454,2021-05-26,Lancaster,Virginia,51103.0,716,16.0
+1360431,2021-05-27,Lancaster,Nebraska,31109.0,31468,236.0
+1361006,2021-05-27,Lancaster,Pennsylvania,42071.0,55020,1150.0
+1361151,2021-05-27,Lancaster,South Carolina,45057.0,10849,168.0
+1361700,2021-05-27,Lancaster,Virginia,51103.0,716,16.0
+1363678,2021-05-28,Lancaster,Nebraska,31109.0,31356,236.0
+1364252,2021-05-28,Lancaster,Pennsylvania,42071.0,55061,1151.0
+1364397,2021-05-28,Lancaster,South Carolina,45057.0,10875,168.0
+1364946,2021-05-28,Lancaster,Virginia,51103.0,716,16.0
+1366924,2021-05-29,Lancaster,Nebraska,31109.0,31356,236.0
+1367498,2021-05-29,Lancaster,Pennsylvania,42071.0,55090,1153.0
+1367643,2021-05-29,Lancaster,South Carolina,45057.0,10881,168.0
+1368192,2021-05-29,Lancaster,Virginia,51103.0,716,16.0
+1370170,2021-05-30,Lancaster,Nebraska,31109.0,31356,236.0
+1370744,2021-05-30,Lancaster,Pennsylvania,42071.0,55120,1154.0
+1370889,2021-05-30,Lancaster,South Carolina,45057.0,10884,168.0
+1371438,2021-05-30,Lancaster,Virginia,51103.0,716,17.0
+1373415,2021-05-31,Lancaster,Nebraska,31109.0,31356,236.0
+1373989,2021-05-31,Lancaster,Pennsylvania,42071.0,55136,1154.0
+1374134,2021-05-31,Lancaster,South Carolina,45057.0,10887,169.0
+1374683,2021-05-31,Lancaster,Virginia,51103.0,716,17.0
+1376661,2021-06-01,Lancaster,Nebraska,31109.0,31375,236.0
+1377235,2021-06-01,Lancaster,Pennsylvania,42071.0,55146,1154.0
+1377380,2021-06-01,Lancaster,South Carolina,45057.0,10887,169.0
+1377929,2021-06-01,Lancaster,Virginia,51103.0,716,17.0
+1379906,2021-06-02,Lancaster,Nebraska,31109.0,31379,237.0
+1380480,2021-06-02,Lancaster,Pennsylvania,42071.0,55156,1155.0
+1380625,2021-06-02,Lancaster,South Carolina,45057.0,10891,169.0
+1381174,2021-06-02,Lancaster,Virginia,51103.0,716,17.0
+1383152,2021-06-03,Lancaster,Nebraska,31109.0,31386,238.0
+1383726,2021-06-03,Lancaster,Pennsylvania,42071.0,55181,1155.0
+1383871,2021-06-03,Lancaster,South Carolina,45057.0,10894,169.0
+1384420,2021-06-03,Lancaster,Virginia,51103.0,716,17.0
+1386397,2021-06-04,Lancaster,Nebraska,31109.0,31394,238.0
+1386971,2021-06-04,Lancaster,Pennsylvania,42071.0,55206,1155.0
+1387116,2021-06-04,Lancaster,South Carolina,45057.0,10888,169.0
+1387665,2021-06-04,Lancaster,Virginia,51103.0,716,17.0
+1389642,2021-06-05,Lancaster,Nebraska,31109.0,31394,238.0
+1390216,2021-06-05,Lancaster,Pennsylvania,42071.0,55216,1155.0
+1390361,2021-06-05,Lancaster,South Carolina,45057.0,10888,169.0
+1390910,2021-06-05,Lancaster,Virginia,51103.0,716,17.0
+1392887,2021-06-06,Lancaster,Nebraska,31109.0,31394,238.0
+1393461,2021-06-06,Lancaster,Pennsylvania,42071.0,55236,1155.0
+1393606,2021-06-06,Lancaster,South Carolina,45057.0,10891,169.0
+1394155,2021-06-06,Lancaster,Virginia,51103.0,716,17.0
+1396133,2021-06-07,Lancaster,Nebraska,31109.0,31402,238.0
+1396708,2021-06-07,Lancaster,Pennsylvania,42071.0,55249,1155.0
+1396853,2021-06-07,Lancaster,South Carolina,45057.0,10891,169.0
+1397402,2021-06-07,Lancaster,Virginia,51103.0,716,17.0
+1399379,2021-06-08,Lancaster,Nebraska,31109.0,31411,238.0
+1399953,2021-06-08,Lancaster,Pennsylvania,42071.0,55262,1156.0
+1400098,2021-06-08,Lancaster,South Carolina,45057.0,10900,169.0
+1400647,2021-06-08,Lancaster,Virginia,51103.0,716,17.0
+1402624,2021-06-09,Lancaster,Nebraska,31109.0,31420,238.0
+1403198,2021-06-09,Lancaster,Pennsylvania,42071.0,55271,1157.0
+1403343,2021-06-09,Lancaster,South Carolina,45057.0,10905,169.0
+1403892,2021-06-09,Lancaster,Virginia,51103.0,716,17.0
+1405870,2021-06-10,Lancaster,Nebraska,31109.0,31423,238.0
+1406444,2021-06-10,Lancaster,Pennsylvania,42071.0,55280,1157.0
+1406589,2021-06-10,Lancaster,South Carolina,45057.0,10898,169.0
+1407138,2021-06-10,Lancaster,Virginia,51103.0,717,17.0
+1409115,2021-06-11,Lancaster,Nebraska,31109.0,31427,238.0
+1409689,2021-06-11,Lancaster,Pennsylvania,42071.0,55292,1157.0
+1409834,2021-06-11,Lancaster,South Carolina,45057.0,10903,170.0
+1410383,2021-06-11,Lancaster,Virginia,51103.0,717,17.0
+1412360,2021-06-12,Lancaster,Nebraska,31109.0,31427,238.0
+1412934,2021-06-12,Lancaster,Pennsylvania,42071.0,55305,1158.0
+1413079,2021-06-12,Lancaster,South Carolina,45057.0,10903,170.0
+1413628,2021-06-12,Lancaster,Virginia,51103.0,718,17.0
+1415606,2021-06-13,Lancaster,Nebraska,31109.0,31427,238.0
+1416180,2021-06-13,Lancaster,Pennsylvania,42071.0,55311,1158.0
+1416325,2021-06-13,Lancaster,South Carolina,45057.0,10908,170.0
+1416874,2021-06-13,Lancaster,Virginia,51103.0,718,17.0
+1418851,2021-06-14,Lancaster,Nebraska,31109.0,31438,238.0
+1419425,2021-06-14,Lancaster,Pennsylvania,42071.0,55318,1158.0
+1419570,2021-06-14,Lancaster,South Carolina,45057.0,10915,170.0
+1420119,2021-06-14,Lancaster,Virginia,51103.0,718,17.0
+1422096,2021-06-15,Lancaster,Nebraska,31109.0,31443,238.0
+1422671,2021-06-15,Lancaster,Pennsylvania,42071.0,55322,1158.0
+1422816,2021-06-15,Lancaster,South Carolina,45057.0,10915,170.0
+1423366,2021-06-15,Lancaster,Virginia,51103.0,718,17.0
+1425344,2021-06-16,Lancaster,Nebraska,31109.0,31447,238.0
+1425918,2021-06-16,Lancaster,Pennsylvania,42071.0,55329,1159.0
+1426063,2021-06-16,Lancaster,South Carolina,45057.0,10917,170.0
+1426612,2021-06-16,Lancaster,Virginia,51103.0,718,17.0
+1428589,2021-06-17,Lancaster,Nebraska,31109.0,31457,238.0
+1429163,2021-06-17,Lancaster,Pennsylvania,42071.0,55343,1159.0
+1429308,2021-06-17,Lancaster,South Carolina,45057.0,10918,171.0
+1429857,2021-06-17,Lancaster,Virginia,51103.0,718,17.0
+1431834,2021-06-18,Lancaster,Nebraska,31109.0,31464,238.0
+1432409,2021-06-18,Lancaster,Pennsylvania,42071.0,55354,1160.0
+1432554,2021-06-18,Lancaster,South Carolina,45057.0,10917,172.0
+1433103,2021-06-18,Lancaster,Virginia,51103.0,719,17.0
+1435081,2021-06-19,Lancaster,Nebraska,31109.0,31464,238.0
+1435656,2021-06-19,Lancaster,Pennsylvania,42071.0,55355,1160.0
+1435801,2021-06-19,Lancaster,South Carolina,45057.0,10917,172.0
+1436350,2021-06-19,Lancaster,Virginia,51103.0,719,17.0
+1438328,2021-06-20,Lancaster,Nebraska,31109.0,31464,238.0
+1438903,2021-06-20,Lancaster,Pennsylvania,42071.0,55362,1160.0
+1439048,2021-06-20,Lancaster,South Carolina,45057.0,10917,172.0
+1439597,2021-06-20,Lancaster,Virginia,51103.0,719,17.0
+1441574,2021-06-21,Lancaster,Nebraska,31109.0,31483,238.0
+1442148,2021-06-21,Lancaster,Pennsylvania,42071.0,55365,1160.0
+1442293,2021-06-21,Lancaster,South Carolina,45057.0,10924,172.0
+1442842,2021-06-21,Lancaster,Virginia,51103.0,719,17.0
+1444819,2021-06-22,Lancaster,Nebraska,31109.0,31487,238.0
+1445393,2021-06-22,Lancaster,Pennsylvania,42071.0,55371,1162.0
+1445538,2021-06-22,Lancaster,South Carolina,45057.0,10924,172.0
+1446087,2021-06-22,Lancaster,Virginia,51103.0,719,17.0
+1448064,2021-06-23,Lancaster,Nebraska,31109.0,31489,238.0
+1448638,2021-06-23,Lancaster,Pennsylvania,42071.0,55375,1163.0
+1448783,2021-06-23,Lancaster,South Carolina,45057.0,10923,172.0
+1449332,2021-06-23,Lancaster,Virginia,51103.0,719,17.0
+1451310,2021-06-24,Lancaster,Nebraska,31109.0,31497,238.0
+1451884,2021-06-24,Lancaster,Pennsylvania,42071.0,55380,1163.0
+1452029,2021-06-24,Lancaster,South Carolina,45057.0,10928,172.0
+1452578,2021-06-24,Lancaster,Virginia,51103.0,718,17.0
+1454555,2021-06-25,Lancaster,Nebraska,31109.0,31502,238.0
+1455129,2021-06-25,Lancaster,Pennsylvania,42071.0,55386,1163.0
+1455274,2021-06-25,Lancaster,South Carolina,45057.0,10929,172.0
+1455823,2021-06-25,Lancaster,Virginia,51103.0,718,17.0
+1457800,2021-06-26,Lancaster,Nebraska,31109.0,31502,238.0
+1458374,2021-06-26,Lancaster,Pennsylvania,42071.0,55394,1163.0
+1458519,2021-06-26,Lancaster,South Carolina,45057.0,10929,172.0
+1459068,2021-06-26,Lancaster,Virginia,51103.0,718,17.0
+1461045,2021-06-27,Lancaster,Nebraska,31109.0,31502,238.0
+1461619,2021-06-27,Lancaster,Pennsylvania,42071.0,55402,1163.0
+1461764,2021-06-27,Lancaster,South Carolina,45057.0,10929,172.0
+1462313,2021-06-27,Lancaster,Virginia,51103.0,718,17.0
+1464290,2021-06-28,Lancaster,Nebraska,31109.0,31515,238.0
+1464864,2021-06-28,Lancaster,Pennsylvania,42071.0,55409,1163.0
+1465009,2021-06-28,Lancaster,South Carolina,45057.0,10934,172.0
+1465558,2021-06-28,Lancaster,Virginia,51103.0,718,17.0
+1467535,2021-06-29,Lancaster,Nebraska,31109.0,31522,238.0
+1468109,2021-06-29,Lancaster,Pennsylvania,42071.0,55415,1165.0
+1468254,2021-06-29,Lancaster,South Carolina,45057.0,10936,172.0
+1468803,2021-06-29,Lancaster,Virginia,51103.0,718,17.0
+1470780,2021-06-30,Lancaster,Nebraska,31109.0,31535,238.0
+1471354,2021-06-30,Lancaster,Pennsylvania,42071.0,55423,1165.0
+1471499,2021-06-30,Lancaster,South Carolina,45057.0,10937,172.0
+1472048,2021-06-30,Lancaster,Virginia,51103.0,719,17.0
+1474026,2021-07-01,Lancaster,Nebraska,31109.0,31542,238.0
+1474600,2021-07-01,Lancaster,Pennsylvania,42071.0,55429,1165.0
+1474745,2021-07-01,Lancaster,South Carolina,45057.0,10940,172.0
+1475294,2021-07-01,Lancaster,Virginia,51103.0,719,17.0
+1477272,2021-07-02,Lancaster,Nebraska,31109.0,31550,238.0
+1477846,2021-07-02,Lancaster,Pennsylvania,42071.0,55436,1165.0
+1477991,2021-07-02,Lancaster,South Carolina,45057.0,10949,172.0
+1478540,2021-07-02,Lancaster,Virginia,51103.0,719,17.0
+1480519,2021-07-03,Lancaster,Nebraska,31109.0,31550,238.0
+1481093,2021-07-03,Lancaster,Pennsylvania,42071.0,55437,1165.0
+1481238,2021-07-03,Lancaster,South Carolina,45057.0,10949,172.0
+1481787,2021-07-03,Lancaster,Virginia,51103.0,719,17.0
+1483765,2021-07-04,Lancaster,Nebraska,31109.0,31550,238.0
+1484339,2021-07-04,Lancaster,Pennsylvania,42071.0,55443,1165.0
+1484484,2021-07-04,Lancaster,South Carolina,45057.0,10949,172.0
+1485033,2021-07-04,Lancaster,Virginia,51103.0,719,17.0
+1487011,2021-07-05,Lancaster,Nebraska,31109.0,31550,238.0
+1487586,2021-07-05,Lancaster,Pennsylvania,42071.0,55447,1165.0
+1487731,2021-07-05,Lancaster,South Carolina,45057.0,10973,173.0
+1488280,2021-07-05,Lancaster,Virginia,51103.0,719,17.0
+1490258,2021-07-06,Lancaster,Nebraska,31109.0,31578,238.0
+1490833,2021-07-06,Lancaster,Pennsylvania,42071.0,55449,1165.0
+1490978,2021-07-06,Lancaster,South Carolina,45057.0,10976,173.0
+1491527,2021-07-06,Lancaster,Virginia,51103.0,719,17.0
+1493505,2021-07-07,Lancaster,Nebraska,31109.0,31584,238.0
+1494080,2021-07-07,Lancaster,Pennsylvania,42071.0,55451,1165.0
+1494225,2021-07-07,Lancaster,South Carolina,45057.0,10977,173.0
+1494774,2021-07-07,Lancaster,Virginia,51103.0,717,17.0
+1496752,2021-07-08,Lancaster,Nebraska,31109.0,31615,239.0
+1497327,2021-07-08,Lancaster,Pennsylvania,42071.0,55451,1166.0
+1497472,2021-07-08,Lancaster,South Carolina,45057.0,10990,173.0
+1498021,2021-07-08,Lancaster,Virginia,51103.0,718,17.0
+1499998,2021-07-09,Lancaster,Nebraska,31109.0,31620,239.0
+1500573,2021-07-09,Lancaster,Pennsylvania,42071.0,55464,1166.0
+1500718,2021-07-09,Lancaster,South Carolina,45057.0,10995,173.0
+1501267,2021-07-09,Lancaster,Virginia,51103.0,717,17.0
+1503244,2021-07-10,Lancaster,Nebraska,31109.0,31620,239.0
+1503819,2021-07-10,Lancaster,Pennsylvania,42071.0,55467,1166.0
+1503964,2021-07-10,Lancaster,South Carolina,45057.0,10995,173.0
+1504513,2021-07-10,Lancaster,Virginia,51103.0,719,17.0
+1506490,2021-07-11,Lancaster,Nebraska,31109.0,31620,239.0
+1507065,2021-07-11,Lancaster,Pennsylvania,42071.0,55470,1167.0
+1507210,2021-07-11,Lancaster,South Carolina,45057.0,10995,173.0
+1507759,2021-07-11,Lancaster,Virginia,51103.0,721,17.0
+1509736,2021-07-12,Lancaster,Nebraska,31109.0,31681,239.0
+1510312,2021-07-12,Lancaster,Pennsylvania,42071.0,55477,1167.0
+1510457,2021-07-12,Lancaster,South Carolina,45057.0,11014,173.0
+1511006,2021-07-12,Lancaster,Virginia,51103.0,720,17.0
+1512983,2021-07-13,Lancaster,Nebraska,31109.0,31696,239.0
+1513558,2021-07-13,Lancaster,Pennsylvania,42071.0,55488,1167.0
+1513703,2021-07-13,Lancaster,South Carolina,45057.0,11018,173.0
+1514252,2021-07-13,Lancaster,Virginia,51103.0,721,17.0
+1516229,2021-07-14,Lancaster,Nebraska,31109.0,31710,240.0
+1516805,2021-07-14,Lancaster,Pennsylvania,42071.0,55497,1167.0
+1516950,2021-07-14,Lancaster,South Carolina,45057.0,11019,173.0
+1517499,2021-07-14,Lancaster,Virginia,51103.0,721,17.0
+1519476,2021-07-15,Lancaster,Nebraska,31109.0,31722,240.0
+1520053,2021-07-15,Lancaster,Pennsylvania,42071.0,55513,1168.0
+1520198,2021-07-15,Lancaster,South Carolina,45057.0,11026,173.0
+1520747,2021-07-15,Lancaster,Virginia,51103.0,721,17.0
+1522725,2021-07-16,Lancaster,Nebraska,31109.0,31730,241.0
+1523301,2021-07-16,Lancaster,Pennsylvania,42071.0,55528,1170.0
+1523446,2021-07-16,Lancaster,South Carolina,45057.0,11035,173.0
+1523995,2021-07-16,Lancaster,Virginia,51103.0,721,17.0
+1525972,2021-07-17,Lancaster,Nebraska,31109.0,31730,241.0
+1526548,2021-07-17,Lancaster,Pennsylvania,42071.0,55548,1170.0
+1526693,2021-07-17,Lancaster,South Carolina,45057.0,11035,173.0
+1527242,2021-07-17,Lancaster,Virginia,51103.0,721,17.0
+1529219,2021-07-18,Lancaster,Nebraska,31109.0,31730,241.0
+1529795,2021-07-18,Lancaster,Pennsylvania,42071.0,55564,1170.0
+1529940,2021-07-18,Lancaster,South Carolina,45057.0,11035,173.0
+1530489,2021-07-18,Lancaster,Virginia,51103.0,721,17.0
+1532466,2021-07-19,Lancaster,Nebraska,31109.0,31830,242.0
+1533042,2021-07-19,Lancaster,Pennsylvania,42071.0,55573,1170.0
+1533187,2021-07-19,Lancaster,South Carolina,45057.0,11072,173.0
+1533736,2021-07-19,Lancaster,Virginia,51103.0,721,17.0
+1535714,2021-07-20,Lancaster,Nebraska,31109.0,31863,242.0
+1536290,2021-07-20,Lancaster,Pennsylvania,42071.0,55599,1171.0
+1536435,2021-07-20,Lancaster,South Carolina,45057.0,11088,173.0
+1536984,2021-07-20,Lancaster,Virginia,51103.0,722,17.0
+1538961,2021-07-21,Lancaster,Nebraska,31109.0,31873,242.0
+1539537,2021-07-21,Lancaster,Pennsylvania,42071.0,55621,1171.0
+1539682,2021-07-21,Lancaster,South Carolina,45057.0,11098,175.0
+1540231,2021-07-21,Lancaster,Virginia,51103.0,722,17.0
+1542208,2021-07-22,Lancaster,Nebraska,31109.0,31912,242.0
+1542785,2021-07-22,Lancaster,Pennsylvania,42071.0,55655,1171.0
+1542930,2021-07-22,Lancaster,South Carolina,45057.0,11110,175.0
+1543479,2021-07-22,Lancaster,Virginia,51103.0,722,17.0
+1545456,2021-07-23,Lancaster,Nebraska,31109.0,31971,242.0
+1546032,2021-07-23,Lancaster,Pennsylvania,42071.0,55679,1171.0
+1546177,2021-07-23,Lancaster,South Carolina,45057.0,11128,175.0
+1546726,2021-07-23,Lancaster,Virginia,51103.0,725,17.0
+1548703,2021-07-24,Lancaster,Nebraska,31109.0,31971,242.0
+1549279,2021-07-24,Lancaster,Pennsylvania,42071.0,55707,1171.0
+1549424,2021-07-24,Lancaster,South Carolina,45057.0,11128,175.0
+1549973,2021-07-24,Lancaster,Virginia,51103.0,725,17.0
+1551950,2021-07-25,Lancaster,Nebraska,31109.0,31971,242.0
+1552526,2021-07-25,Lancaster,Pennsylvania,42071.0,55727,1171.0
+1552671,2021-07-25,Lancaster,South Carolina,45057.0,11128,175.0
+1553220,2021-07-25,Lancaster,Virginia,51103.0,725,17.0
+1555197,2021-07-26,Lancaster,Nebraska,31109.0,32049,242.0
+1555773,2021-07-26,Lancaster,Pennsylvania,42071.0,55761,1171.0
+1555918,2021-07-26,Lancaster,South Carolina,45057.0,11189,175.0
+1556467,2021-07-26,Lancaster,Virginia,51103.0,727,18.0
+1558444,2021-07-27,Lancaster,Nebraska,31109.0,32113,242.0
+1559020,2021-07-27,Lancaster,Pennsylvania,42071.0,55795,1172.0
+1559165,2021-07-27,Lancaster,South Carolina,45057.0,11202,175.0
+1559714,2021-07-27,Lancaster,Virginia,51103.0,730,18.0
+1561692,2021-07-28,Lancaster,Nebraska,31109.0,32156,242.0
+1562268,2021-07-28,Lancaster,Pennsylvania,42071.0,55831,1172.0
+1562413,2021-07-28,Lancaster,South Carolina,45057.0,11225,175.0
+1562962,2021-07-28,Lancaster,Virginia,51103.0,731,18.0
+1564940,2021-07-29,Lancaster,Nebraska,31109.0,32217,242.0
+1565516,2021-07-29,Lancaster,Pennsylvania,42071.0,55875,1173.0
+1565661,2021-07-29,Lancaster,South Carolina,45057.0,11260,175.0
+1566210,2021-07-29,Lancaster,Virginia,51103.0,731,18.0
+1568188,2021-07-30,Lancaster,Nebraska,31109.0,32295,243.0
+1568764,2021-07-30,Lancaster,Pennsylvania,42071.0,55920,1173.0
+1568909,2021-07-30,Lancaster,South Carolina,45057.0,11285,175.0
+1569458,2021-07-30,Lancaster,Virginia,51103.0,731,18.0
+1571436,2021-07-31,Lancaster,Nebraska,31109.0,32295,243.0
+1572012,2021-07-31,Lancaster,Pennsylvania,42071.0,55920,1173.0
+1572157,2021-07-31,Lancaster,South Carolina,45057.0,11285,175.0
+1572706,2021-07-31,Lancaster,Virginia,51103.0,731,18.0
+1574684,2021-08-01,Lancaster,Nebraska,31109.0,32295,243.0
+1575260,2021-08-01,Lancaster,Pennsylvania,42071.0,56031,1174.0
+1575405,2021-08-01,Lancaster,South Carolina,45057.0,11285,175.0
+1575954,2021-08-01,Lancaster,Virginia,51103.0,731,18.0
+1577932,2021-08-02,Lancaster,Nebraska,31109.0,32441,243.0
+1578508,2021-08-02,Lancaster,Pennsylvania,42071.0,56081,1174.0
+1578653,2021-08-02,Lancaster,South Carolina,45057.0,11360,175.0
+1579202,2021-08-02,Lancaster,Virginia,51103.0,733,18.0
+1581181,2021-08-03,Lancaster,Nebraska,31109.0,32527,243.0
+1581757,2021-08-03,Lancaster,Pennsylvania,42071.0,56138,1174.0
+1581902,2021-08-03,Lancaster,South Carolina,45057.0,11388,175.0
+1582452,2021-08-03,Lancaster,Virginia,51103.0,733,18.0
+1584430,2021-08-04,Lancaster,Nebraska,31109.0,32594,243.0
+1585007,2021-08-04,Lancaster,Pennsylvania,42071.0,56223,1175.0
+1585152,2021-08-04,Lancaster,South Carolina,45057.0,11407,175.0
+1585702,2021-08-04,Lancaster,Virginia,51103.0,734,18.0
+1587681,2021-08-05,Lancaster,Nebraska,31109.0,32673,243.0
+1588257,2021-08-05,Lancaster,Pennsylvania,42071.0,56306,1176.0
+1588402,2021-08-05,Lancaster,South Carolina,45057.0,11441,175.0
+1588951,2021-08-05,Lancaster,Virginia,51103.0,738,18.0
+1590930,2021-08-06,Lancaster,Nebraska,31109.0,32764,244.0
+1591506,2021-08-06,Lancaster,Pennsylvania,42071.0,56380,1176.0
+1591651,2021-08-06,Lancaster,South Carolina,45057.0,11476,175.0
+1592200,2021-08-06,Lancaster,Virginia,51103.0,742,18.0
+1594179,2021-08-07,Lancaster,Nebraska,31109.0,32764,244.0
+1594755,2021-08-07,Lancaster,Pennsylvania,42071.0,56482,1176.0
+1594900,2021-08-07,Lancaster,South Carolina,45057.0,11476,175.0
+1595449,2021-08-07,Lancaster,Virginia,51103.0,742,18.0
+1597428,2021-08-08,Lancaster,Nebraska,31109.0,32764,244.0
+1598004,2021-08-08,Lancaster,Pennsylvania,42071.0,56482,1176.0
+1598149,2021-08-08,Lancaster,South Carolina,45057.0,11476,175.0
+1598698,2021-08-08,Lancaster,Virginia,51103.0,742,18.0
+1600676,2021-08-09,Lancaster,Nebraska,31109.0,32926,247.0
+1601252,2021-08-09,Lancaster,Pennsylvania,42071.0,56626,1176.0
+1601397,2021-08-09,Lancaster,South Carolina,45057.0,11610,175.0
+1601946,2021-08-09,Lancaster,Virginia,51103.0,763,18.0
+1603925,2021-08-10,Lancaster,Nebraska,31109.0,33023,247.0
+1604501,2021-08-10,Lancaster,Pennsylvania,42071.0,56712,1176.0
+1604646,2021-08-10,Lancaster,South Carolina,45057.0,11641,176.0
+1605196,2021-08-10,Lancaster,Virginia,51103.0,767,18.0
+1607174,2021-08-11,Lancaster,Nebraska,31109.0,33143,248.0
+1607750,2021-08-11,Lancaster,Pennsylvania,42071.0,56816,1176.0
+1607895,2021-08-11,Lancaster,South Carolina,45057.0,11669,176.0
+1608445,2021-08-11,Lancaster,Virginia,51103.0,771,18.0
+1610422,2021-08-12,Lancaster,Nebraska,31109.0,33244,251.0
+1610998,2021-08-12,Lancaster,Pennsylvania,42071.0,56910,1176.0
+1611143,2021-08-12,Lancaster,South Carolina,45057.0,11700,176.0
+1611692,2021-08-12,Lancaster,Virginia,51103.0,778,18.0
+1613671,2021-08-13,Lancaster,Nebraska,31109.0,33324,253.0
+1614247,2021-08-13,Lancaster,Pennsylvania,42071.0,57002,1177.0
+1614392,2021-08-13,Lancaster,South Carolina,45057.0,11742,176.0
+1614941,2021-08-13,Lancaster,Virginia,51103.0,788,18.0
+1616919,2021-08-14,Lancaster,Nebraska,31109.0,33324,253.0
+1617495,2021-08-14,Lancaster,Pennsylvania,42071.0,57108,1177.0
+1617640,2021-08-14,Lancaster,South Carolina,45057.0,11742,176.0
+1618189,2021-08-14,Lancaster,Virginia,51103.0,788,18.0
+1620167,2021-08-15,Lancaster,Nebraska,31109.0,33324,253.0
+1620743,2021-08-15,Lancaster,Pennsylvania,42071.0,57204,1177.0
+1620888,2021-08-15,Lancaster,South Carolina,45057.0,11742,176.0
+1621437,2021-08-15,Lancaster,Virginia,51103.0,788,18.0
+1623414,2021-08-16,Lancaster,Nebraska,31109.0,33652,253.0
+1623990,2021-08-16,Lancaster,Pennsylvania,42071.0,57282,1177.0
+1624135,2021-08-16,Lancaster,South Carolina,45057.0,11893,177.0
+1624684,2021-08-16,Lancaster,Virginia,51103.0,806,18.0
+1626661,2021-08-17,Lancaster,Nebraska,31109.0,33763,254.0
+1627237,2021-08-17,Lancaster,Pennsylvania,42071.0,57360,1178.0
+1627382,2021-08-17,Lancaster,South Carolina,45057.0,11929,177.0
+1627931,2021-08-17,Lancaster,Virginia,51103.0,807,18.0
+1629908,2021-08-18,Lancaster,Nebraska,31109.0,33866,253.0
+1630484,2021-08-18,Lancaster,Pennsylvania,42071.0,57499,1179.0
+1630629,2021-08-18,Lancaster,South Carolina,45057.0,11977,178.0
+1631178,2021-08-18,Lancaster,Virginia,51103.0,811,18.0
+1633155,2021-08-19,Lancaster,Nebraska,31109.0,33993,256.0
+1633731,2021-08-19,Lancaster,Pennsylvania,42071.0,57653,1180.0
+1633876,2021-08-19,Lancaster,South Carolina,45057.0,12040,178.0
+1634426,2021-08-19,Lancaster,Virginia,51103.0,818,18.0
+1636405,2021-08-20,Lancaster,Nebraska,31109.0,34104,257.0
+1636981,2021-08-20,Lancaster,Pennsylvania,42071.0,57780,1181.0
+1637126,2021-08-20,Lancaster,South Carolina,45057.0,12109,178.0
+1637676,2021-08-20,Lancaster,Virginia,51103.0,822,18.0
+1639655,2021-08-21,Lancaster,Nebraska,31109.0,34104,257.0
+1640231,2021-08-21,Lancaster,Pennsylvania,42071.0,57941,1182.0
+1640376,2021-08-21,Lancaster,South Carolina,45057.0,12109,178.0
+1640926,2021-08-21,Lancaster,Virginia,51103.0,822,18.0
+1642905,2021-08-22,Lancaster,Nebraska,31109.0,34104,257.0
+1643481,2021-08-22,Lancaster,Pennsylvania,42071.0,58042,1182.0
+1643626,2021-08-22,Lancaster,South Carolina,45057.0,12109,178.0
+1644176,2021-08-22,Lancaster,Virginia,51103.0,822,18.0
+1646154,2021-08-23,Lancaster,Nebraska,31109.0,34438,259.0
+1646730,2021-08-23,Lancaster,Pennsylvania,42071.0,58128,1182.0
+1646875,2021-08-23,Lancaster,South Carolina,45057.0,12318,179.0
+1647425,2021-08-23,Lancaster,Virginia,51103.0,834,19.0
+1649403,2021-08-24,Lancaster,Nebraska,31109.0,34596,262.0
+1649979,2021-08-24,Lancaster,Pennsylvania,42071.0,58240,1183.0
+1650124,2021-08-24,Lancaster,South Carolina,45057.0,12370,180.0
+1650674,2021-08-24,Lancaster,Virginia,51103.0,836,19.0
+1652651,2021-08-25,Lancaster,Nebraska,31109.0,34759,264.0
+1653226,2021-08-25,Lancaster,Pennsylvania,42071.0,58447,1185.0
+1653371,2021-08-25,Lancaster,South Carolina,45057.0,12411,180.0
+1653920,2021-08-25,Lancaster,Virginia,51103.0,839,19.0
+1655898,2021-08-26,Lancaster,Nebraska,31109.0,34868,266.0
+1656473,2021-08-26,Lancaster,Pennsylvania,42071.0,58611,1187.0
+1656618,2021-08-26,Lancaster,South Carolina,45057.0,12458,182.0
+1657167,2021-08-26,Lancaster,Virginia,51103.0,846,19.0
+1659147,2021-08-27,Lancaster,Nebraska,31109.0,35019,267.0
+1659722,2021-08-27,Lancaster,Pennsylvania,42071.0,58788,1188.0
+1659867,2021-08-27,Lancaster,South Carolina,45057.0,12581,182.0
+1660416,2021-08-27,Lancaster,Virginia,51103.0,850,19.0
+1662395,2021-08-28,Lancaster,Nebraska,31109.0,35019,267.0
+1662970,2021-08-28,Lancaster,Pennsylvania,42071.0,59005,1190.0
+1663115,2021-08-28,Lancaster,South Carolina,45057.0,12581,182.0
+1663664,2021-08-28,Lancaster,Virginia,51103.0,850,19.0
+1665643,2021-08-29,Lancaster,Nebraska,31109.0,35019,267.0
+1666218,2021-08-29,Lancaster,Pennsylvania,42071.0,59164,1190.0
+1666363,2021-08-29,Lancaster,South Carolina,45057.0,12581,182.0
+1666912,2021-08-29,Lancaster,Virginia,51103.0,850,19.0
+1668890,2021-08-30,Lancaster,Nebraska,31109.0,35305,270.0
+1669465,2021-08-30,Lancaster,Pennsylvania,42071.0,59269,1190.0
+1669610,2021-08-30,Lancaster,South Carolina,45057.0,12909,183.0
+1670159,2021-08-30,Lancaster,Virginia,51103.0,871,19.0
+1672137,2021-08-31,Lancaster,Nebraska,31109.0,35516,270.0
+1672713,2021-08-31,Lancaster,Pennsylvania,42071.0,59497,1191.0
+1672858,2021-08-31,Lancaster,South Carolina,45057.0,12962,185.0
+1673407,2021-08-31,Lancaster,Virginia,51103.0,873,19.0
+1675385,2021-09-01,Lancaster,Nebraska,31109.0,35680,270.0
+1675960,2021-09-01,Lancaster,Pennsylvania,42071.0,59642,1191.0
+1676105,2021-09-01,Lancaster,South Carolina,45057.0,13060,185.0
+1676654,2021-09-01,Lancaster,Virginia,51103.0,878,19.0
+1678633,2021-09-02,Lancaster,Nebraska,31109.0,35859,273.0
+1679208,2021-09-02,Lancaster,Pennsylvania,42071.0,59796,1195.0
+1679353,2021-09-02,Lancaster,South Carolina,45057.0,13163,186.0
+1679902,2021-09-02,Lancaster,Virginia,51103.0,886,19.0
+1681881,2021-09-03,Lancaster,Nebraska,31109.0,36015,273.0
+1682458,2021-09-03,Lancaster,Pennsylvania,42071.0,59982,1196.0
+1682603,2021-09-03,Lancaster,South Carolina,45057.0,13272,186.0
+1683152,2021-09-03,Lancaster,Virginia,51103.0,897,19.0
+1685132,2021-09-04,Lancaster,Nebraska,31109.0,36015,273.0
+1685709,2021-09-04,Lancaster,Pennsylvania,42071.0,60214,1197.0
+1685854,2021-09-04,Lancaster,South Carolina,45057.0,13272,186.0
+1686403,2021-09-04,Lancaster,Virginia,51103.0,897,19.0
+1688382,2021-09-05,Lancaster,Nebraska,31109.0,36015,273.0
+1688959,2021-09-05,Lancaster,Pennsylvania,42071.0,60389,1197.0
+1689104,2021-09-05,Lancaster,South Carolina,45057.0,13272,186.0
+1689653,2021-09-05,Lancaster,Virginia,51103.0,897,19.0
+1691632,2021-09-06,Lancaster,Nebraska,31109.0,36015,273.0
+1692208,2021-09-06,Lancaster,Pennsylvania,42071.0,60572,1197.0
+1692353,2021-09-06,Lancaster,South Carolina,45057.0,13583,187.0
+1692902,2021-09-06,Lancaster,Virginia,51103.0,914,19.0
+1694881,2021-09-07,Lancaster,Nebraska,31109.0,36448,276.0
+1695456,2021-09-07,Lancaster,Pennsylvania,42071.0,60700,1197.0
+1695601,2021-09-07,Lancaster,South Carolina,45057.0,13630,188.0
+1696150,2021-09-07,Lancaster,Virginia,51103.0,917,19.0
+1698129,2021-09-08,Lancaster,Nebraska,31109.0,36554,276.0
+1698704,2021-09-08,Lancaster,Pennsylvania,42071.0,60858,1201.0
+1698849,2021-09-08,Lancaster,South Carolina,45057.0,13699,188.0
+1699398,2021-09-08,Lancaster,Virginia,51103.0,921,19.0
+1701378,2021-09-09,Lancaster,Nebraska,31109.0,36679,276.0
+1701953,2021-09-09,Lancaster,Pennsylvania,42071.0,61058,1202.0
+1702098,2021-09-09,Lancaster,South Carolina,45057.0,13768,188.0
+1702647,2021-09-09,Lancaster,Virginia,51103.0,926,19.0
+1704628,2021-09-10,Lancaster,Nebraska,31109.0,36817,276.0
+1705203,2021-09-10,Lancaster,Pennsylvania,42071.0,61309,1205.0
+1705348,2021-09-10,Lancaster,South Carolina,45057.0,13848,190.0
+1705897,2021-09-10,Lancaster,Virginia,51103.0,931,19.0
+1707875,2021-09-11,Lancaster,Nebraska,31109.0,36817,276.0
+1708450,2021-09-11,Lancaster,Pennsylvania,42071.0,61551,1207.0
+1708595,2021-09-11,Lancaster,South Carolina,45057.0,13848,190.0
+1709144,2021-09-11,Lancaster,Virginia,51103.0,931,19.0
+1711122,2021-09-12,Lancaster,Nebraska,31109.0,36817,276.0
+1711697,2021-09-12,Lancaster,Pennsylvania,42071.0,61728,1207.0
+1711842,2021-09-12,Lancaster,South Carolina,45057.0,13848,190.0
+1712391,2021-09-12,Lancaster,Virginia,51103.0,931,19.0
+1714368,2021-09-13,Lancaster,Nebraska,31109.0,37112,276.0
+1714943,2021-09-13,Lancaster,Pennsylvania,42071.0,61919,1207.0
+1715088,2021-09-13,Lancaster,South Carolina,45057.0,14133,191.0
+1715637,2021-09-13,Lancaster,Virginia,51103.0,943,19.0
+1717616,2021-09-14,Lancaster,Nebraska,31109.0,37164,276.0
+1718191,2021-09-14,Lancaster,Pennsylvania,42071.0,62128,1208.0
+1718336,2021-09-14,Lancaster,South Carolina,45057.0,14201,194.0
+1718885,2021-09-14,Lancaster,Virginia,51103.0,949,19.0
+1720864,2021-09-15,Lancaster,Nebraska,31109.0,37326,278.0
+1721439,2021-09-15,Lancaster,Pennsylvania,42071.0,62306,1212.0
+1721584,2021-09-15,Lancaster,South Carolina,45057.0,14240,196.0
+1722133,2021-09-15,Lancaster,Virginia,51103.0,950,19.0
+1724113,2021-09-16,Lancaster,Nebraska,31109.0,37504,278.0
+1724688,2021-09-16,Lancaster,Pennsylvania,42071.0,62566,1213.0
+1724833,2021-09-16,Lancaster,South Carolina,45057.0,14286,197.0
+1725382,2021-09-16,Lancaster,Virginia,51103.0,955,19.0
+1727362,2021-09-17,Lancaster,Nebraska,31109.0,37609,280.0
+1727937,2021-09-17,Lancaster,Pennsylvania,42071.0,62809,1215.0
+1728082,2021-09-17,Lancaster,South Carolina,45057.0,14420,197.0
+1728632,2021-09-17,Lancaster,Virginia,51103.0,961,19.0
+1730612,2021-09-18,Lancaster,Nebraska,31109.0,37609,280.0
+1731187,2021-09-18,Lancaster,Pennsylvania,42071.0,63086,1216.0
+1731332,2021-09-18,Lancaster,South Carolina,45057.0,14420,197.0
+1731882,2021-09-18,Lancaster,Virginia,51103.0,961,19.0
+1733862,2021-09-19,Lancaster,Nebraska,31109.0,37609,280.0
+1734437,2021-09-19,Lancaster,Pennsylvania,42071.0,63280,1217.0
+1734582,2021-09-19,Lancaster,South Carolina,45057.0,14420,197.0
+1735132,2021-09-19,Lancaster,Virginia,51103.0,961,19.0
+1737112,2021-09-20,Lancaster,Nebraska,31109.0,38698,281.0
+1737687,2021-09-20,Lancaster,Pennsylvania,42071.0,63480,1217.0
+1737832,2021-09-20,Lancaster,South Carolina,45057.0,14624,198.0
+1738381,2021-09-20,Lancaster,Virginia,51103.0,974,19.0
+1740361,2021-09-21,Lancaster,Nebraska,31109.0,38885,282.0
+1740936,2021-09-21,Lancaster,Pennsylvania,42071.0,63666,1218.0
+1741081,2021-09-21,Lancaster,South Carolina,45057.0,14663,198.0
+1741630,2021-09-21,Lancaster,Virginia,51103.0,974,19.0
+1743610,2021-09-22,Lancaster,Nebraska,31109.0,39025,283.0
+1744185,2021-09-22,Lancaster,Pennsylvania,42071.0,63878,1219.0
+1744330,2021-09-22,Lancaster,South Carolina,45057.0,14695,199.0
+1744879,2021-09-22,Lancaster,Virginia,51103.0,974,19.0
+1746859,2021-09-23,Lancaster,Nebraska,31109.0,39138,283.0
+1747435,2021-09-23,Lancaster,Pennsylvania,42071.0,64140,1223.0
+1747580,2021-09-23,Lancaster,South Carolina,45057.0,14738,200.0
+1748129,2021-09-23,Lancaster,Virginia,51103.0,979,19.0
+1750109,2021-09-24,Lancaster,Nebraska,31109.0,39243,284.0
+1750684,2021-09-24,Lancaster,Pennsylvania,42071.0,64405,1223.0
+1750829,2021-09-24,Lancaster,South Carolina,45057.0,14796,201.0
+1751378,2021-09-24,Lancaster,Virginia,51103.0,985,19.0
+1753357,2021-09-25,Lancaster,Nebraska,31109.0,39243,284.0
+1753932,2021-09-25,Lancaster,Pennsylvania,42071.0,64634,1226.0
+1754077,2021-09-25,Lancaster,South Carolina,45057.0,14796,201.0
+1754626,2021-09-25,Lancaster,Virginia,51103.0,985,19.0
+1756605,2021-09-26,Lancaster,Nebraska,31109.0,39243,284.0
+1757180,2021-09-26,Lancaster,Pennsylvania,42071.0,64830,1226.0
+1757325,2021-09-26,Lancaster,South Carolina,45057.0,14796,201.0
+1757874,2021-09-26,Lancaster,Virginia,51103.0,985,19.0
+1759853,2021-09-27,Lancaster,Nebraska,31109.0,39415,284.0
+1760428,2021-09-27,Lancaster,Pennsylvania,42071.0,65020,1226.0
+1760573,2021-09-27,Lancaster,South Carolina,45057.0,14998,201.0
+1761122,2021-09-27,Lancaster,Virginia,51103.0,1012,20.0
+1763102,2021-09-28,Lancaster,Nebraska,31109.0,39560,287.0
+1763677,2021-09-28,Lancaster,Pennsylvania,42071.0,65188,1231.0
+1763822,2021-09-28,Lancaster,South Carolina,45057.0,15047,203.0
+1764371,2021-09-28,Lancaster,Virginia,51103.0,1014,20.0
+1766351,2021-09-29,Lancaster,Nebraska,31109.0,39699,288.0
+1766926,2021-09-29,Lancaster,Pennsylvania,42071.0,65403,1236.0
+1767071,2021-09-29,Lancaster,South Carolina,45057.0,15096,205.0
+1767620,2021-09-29,Lancaster,Virginia,51103.0,1017,20.0
+1769600,2021-09-30,Lancaster,Nebraska,31109.0,39820,289.0
+1770175,2021-09-30,Lancaster,Pennsylvania,42071.0,65616,1241.0
+1770320,2021-09-30,Lancaster,South Carolina,45057.0,15123,207.0
+1770869,2021-09-30,Lancaster,Virginia,51103.0,1017,21.0
+1772849,2021-10-01,Lancaster,Nebraska,31109.0,39896,289.0
+1773425,2021-10-01,Lancaster,Pennsylvania,42071.0,65858,1242.0
+1773570,2021-10-01,Lancaster,South Carolina,45057.0,15184,208.0
+1774119,2021-10-01,Lancaster,Virginia,51103.0,1018,21.0
+1776099,2021-10-02,Lancaster,Nebraska,31109.0,39896,289.0
+1776675,2021-10-02,Lancaster,Pennsylvania,42071.0,66030,1244.0
+1776820,2021-10-02,Lancaster,South Carolina,45057.0,15184,208.0
+1777369,2021-10-02,Lancaster,Virginia,51103.0,1018,21.0
+1779349,2021-10-03,Lancaster,Nebraska,31109.0,39896,289.0
+1779925,2021-10-03,Lancaster,Pennsylvania,42071.0,66364,1244.0
+1780070,2021-10-03,Lancaster,South Carolina,45057.0,15184,208.0
+1780619,2021-10-03,Lancaster,Virginia,51103.0,1018,21.0
+1782599,2021-10-04,Lancaster,Nebraska,31109.0,40050,289.0
+1783174,2021-10-04,Lancaster,Pennsylvania,42071.0,66614,1244.0
+1783319,2021-10-04,Lancaster,South Carolina,45057.0,15319,209.0
+1783868,2021-10-04,Lancaster,Virginia,51103.0,1034,21.0
+1785848,2021-10-05,Lancaster,Nebraska,31109.0,40141,290.0
+1786423,2021-10-05,Lancaster,Pennsylvania,42071.0,66785,1245.0
+1786568,2021-10-05,Lancaster,South Carolina,45057.0,15350,210.0
+1787117,2021-10-05,Lancaster,Virginia,51103.0,1034,21.0
+1789096,2021-10-06,Lancaster,Nebraska,31109.0,40233,290.0
+1789671,2021-10-06,Lancaster,Pennsylvania,42071.0,66977,1255.0
+1789816,2021-10-06,Lancaster,South Carolina,45057.0,15377,213.0
+1790365,2021-10-06,Lancaster,Virginia,51103.0,1035,21.0
+1792345,2021-10-07,Lancaster,Nebraska,31109.0,40390,293.0
+1792920,2021-10-07,Lancaster,Pennsylvania,42071.0,67266,1257.0
+1793065,2021-10-07,Lancaster,South Carolina,45057.0,15412,214.0
+1793614,2021-10-07,Lancaster,Virginia,51103.0,1037,21.0
+1795594,2021-10-08,Lancaster,Nebraska,31109.0,40474,295.0
+1796169,2021-10-08,Lancaster,Pennsylvania,42071.0,67564,1258.0
+1796314,2021-10-08,Lancaster,South Carolina,45057.0,15468,217.0
+1796863,2021-10-08,Lancaster,Virginia,51103.0,1038,21.0
+1798843,2021-10-09,Lancaster,Nebraska,31109.0,40474,295.0
+1799418,2021-10-09,Lancaster,Pennsylvania,42071.0,67825,1258.0
+1799563,2021-10-09,Lancaster,South Carolina,45057.0,15468,217.0
+1800112,2021-10-09,Lancaster,Virginia,51103.0,1038,21.0
+1802092,2021-10-10,Lancaster,Nebraska,31109.0,40474,295.0
+1802667,2021-10-10,Lancaster,Pennsylvania,42071.0,68057,1258.0
+1802812,2021-10-10,Lancaster,South Carolina,45057.0,15468,217.0
+1803361,2021-10-10,Lancaster,Virginia,51103.0,1038,21.0
+1805341,2021-10-11,Lancaster,Nebraska,31109.0,40474,296.0
+1805917,2021-10-11,Lancaster,Pennsylvania,42071.0,68161,1258.0
+1806062,2021-10-11,Lancaster,South Carolina,45057.0,15597,218.0
+1806611,2021-10-11,Lancaster,Virginia,51103.0,1038,21.0
+1808592,2021-10-12,Lancaster,Nebraska,31109.0,40745,301.0
+1809167,2021-10-12,Lancaster,Pennsylvania,42071.0,68317,1270.0
+1809312,2021-10-12,Lancaster,South Carolina,45057.0,15623,219.0
+1809861,2021-10-12,Lancaster,Virginia,51103.0,1044,21.0
+1811841,2021-10-13,Lancaster,Nebraska,31109.0,40903,301.0
+1812416,2021-10-13,Lancaster,Pennsylvania,42071.0,68521,1275.0
+1812561,2021-10-13,Lancaster,South Carolina,45057.0,15643,220.0
+1813110,2021-10-13,Lancaster,Virginia,51103.0,1043,21.0
+1815089,2021-10-14,Lancaster,Nebraska,31109.0,40991,302.0
+1815664,2021-10-14,Lancaster,Pennsylvania,42071.0,68722,1278.0
+1815809,2021-10-14,Lancaster,South Carolina,45057.0,15672,220.0
+1816358,2021-10-14,Lancaster,Virginia,51103.0,1044,21.0
+1818338,2021-10-15,Lancaster,Nebraska,31109.0,41087,302.0
+1818913,2021-10-15,Lancaster,Pennsylvania,42071.0,68976,1281.0
+1819058,2021-10-15,Lancaster,South Carolina,45057.0,15712,221.0
+1819607,2021-10-15,Lancaster,Virginia,51103.0,1046,21.0
+1821587,2021-10-16,Lancaster,Nebraska,31109.0,41087,302.0
+1822162,2021-10-16,Lancaster,Pennsylvania,42071.0,69169,1281.0
+1822307,2021-10-16,Lancaster,South Carolina,45057.0,15712,221.0
+1822856,2021-10-16,Lancaster,Virginia,51103.0,1046,21.0
+1824836,2021-10-17,Lancaster,Nebraska,31109.0,41087,302.0
+1825411,2021-10-17,Lancaster,Pennsylvania,42071.0,69367,1281.0
+1825556,2021-10-17,Lancaster,South Carolina,45057.0,15712,221.0
+1826105,2021-10-17,Lancaster,Virginia,51103.0,1046,21.0
+1828085,2021-10-18,Lancaster,Nebraska,31109.0,41281,303.0
+1828660,2021-10-18,Lancaster,Pennsylvania,42071.0,69535,1287.0
+1828805,2021-10-18,Lancaster,South Carolina,45057.0,15791,221.0
+1829354,2021-10-18,Lancaster,Virginia,51103.0,1050,21.0
+1831334,2021-10-19,Lancaster,Nebraska,31109.0,41401,306.0
+1831909,2021-10-19,Lancaster,Pennsylvania,42071.0,69689,1290.0
+1832054,2021-10-19,Lancaster,South Carolina,45057.0,15803,221.0
+1832603,2021-10-19,Lancaster,Virginia,51103.0,1052,21.0
+1834583,2021-10-20,Lancaster,Nebraska,31109.0,41463,306.0
+1835158,2021-10-20,Lancaster,Pennsylvania,42071.0,69901,1294.0
+1835303,2021-10-20,Lancaster,South Carolina,45057.0,15825,221.0
+1835852,2021-10-20,Lancaster,Virginia,51103.0,1053,21.0
+1837832,2021-10-21,Lancaster,Nebraska,31109.0,41561,306.0
+1838407,2021-10-21,Lancaster,Pennsylvania,42071.0,70127,1296.0
+1838552,2021-10-21,Lancaster,South Carolina,45057.0,15851,222.0
+1839101,2021-10-21,Lancaster,Virginia,51103.0,1053,21.0
+1841081,2021-10-22,Lancaster,Nebraska,31109.0,41561,306.0
+1841656,2021-10-22,Lancaster,Pennsylvania,42071.0,70331,1301.0
+1841801,2021-10-22,Lancaster,South Carolina,45057.0,15878,223.0
+1842350,2021-10-22,Lancaster,Virginia,51103.0,1053,21.0
+1844331,2021-10-23,Lancaster,Nebraska,31109.0,41561,306.0
+1844906,2021-10-23,Lancaster,Pennsylvania,42071.0,70505,1302.0
+1845051,2021-10-23,Lancaster,South Carolina,45057.0,15878,223.0
+1845600,2021-10-23,Lancaster,Virginia,51103.0,1053,21.0
+1847581,2021-10-24,Lancaster,Nebraska,31109.0,41561,306.0
+1848156,2021-10-24,Lancaster,Pennsylvania,42071.0,70666,1302.0
+1848301,2021-10-24,Lancaster,South Carolina,45057.0,15878,223.0
+1848850,2021-10-24,Lancaster,Virginia,51103.0,1053,21.0
+1850831,2021-10-25,Lancaster,Nebraska,31109.0,41561,307.0
+1851406,2021-10-25,Lancaster,Pennsylvania,42071.0,70800,1302.0
+1851551,2021-10-25,Lancaster,South Carolina,45057.0,15940,224.0
+1852100,2021-10-25,Lancaster,Virginia,51103.0,1054,21.0
+1854080,2021-10-26,Lancaster,Nebraska,31109.0,41561,307.0
+1854655,2021-10-26,Lancaster,Pennsylvania,42071.0,70932,1304.0
+1854800,2021-10-26,Lancaster,South Carolina,45057.0,15950,224.0
+1855349,2021-10-26,Lancaster,Virginia,51103.0,1058,21.0
+1857329,2021-10-27,Lancaster,Nebraska,31109.0,42038,309.0
+1857904,2021-10-27,Lancaster,Pennsylvania,42071.0,71125,1315.0
+1858049,2021-10-27,Lancaster,South Carolina,45057.0,15961,224.0
+1858598,2021-10-27,Lancaster,Virginia,51103.0,1058,21.0
+1860578,2021-10-28,Lancaster,Nebraska,31109.0,42038,310.0
+1861153,2021-10-28,Lancaster,Pennsylvania,42071.0,71295,1321.0
+1861298,2021-10-28,Lancaster,South Carolina,45057.0,15990,226.0
+1861847,2021-10-28,Lancaster,Virginia,51103.0,1059,22.0
+1863827,2021-10-29,Lancaster,Nebraska,31109.0,42198,312.0
+1864402,2021-10-29,Lancaster,Pennsylvania,42071.0,71489,1327.0
+1864547,2021-10-29,Lancaster,South Carolina,45057.0,16014,226.0
+1865096,2021-10-29,Lancaster,Virginia,51103.0,1062,22.0
+1867076,2021-10-30,Lancaster,Nebraska,31109.0,42198,312.0
+1867651,2021-10-30,Lancaster,Pennsylvania,42071.0,71663,1328.0
+1867796,2021-10-30,Lancaster,South Carolina,45057.0,16014,226.0
+1868345,2021-10-30,Lancaster,Virginia,51103.0,1062,22.0
+1870325,2021-10-31,Lancaster,Nebraska,31109.0,42286,312.0
+1870900,2021-10-31,Lancaster,Pennsylvania,42071.0,71858,1330.0
+1871045,2021-10-31,Lancaster,South Carolina,45057.0,16014,226.0
+1871594,2021-10-31,Lancaster,Virginia,51103.0,1062,22.0
+1873574,2021-11-01,Lancaster,Nebraska,31109.0,42503,314.0
+1874149,2021-11-01,Lancaster,Pennsylvania,42071.0,71858,1330.0
+1874294,2021-11-01,Lancaster,South Carolina,45057.0,16073,226.0
+1874843,2021-11-01,Lancaster,Virginia,51103.0,1067,22.0
+1876823,2021-11-02,Lancaster,Nebraska,31109.0,42503,316.0
+1877398,2021-11-02,Lancaster,Pennsylvania,42071.0,72061,1331.0
+1877543,2021-11-02,Lancaster,South Carolina,45057.0,16080,226.0
+1878092,2021-11-02,Lancaster,Virginia,51103.0,1069,22.0
+1880072,2021-11-03,Lancaster,Nebraska,31109.0,42799,316.0
+1880647,2021-11-03,Lancaster,Pennsylvania,42071.0,72216,1340.0
+1880792,2021-11-03,Lancaster,South Carolina,45057.0,16086,226.0
+1881341,2021-11-03,Lancaster,Virginia,51103.0,1068,22.0
+1883321,2021-11-04,Lancaster,Nebraska,31109.0,42799,317.0
+1883896,2021-11-04,Lancaster,Pennsylvania,42071.0,72429,1343.0
+1884041,2021-11-04,Lancaster,South Carolina,45057.0,16110,226.0
+1884590,2021-11-04,Lancaster,Virginia,51103.0,1068,22.0
+1886570,2021-11-05,Lancaster,Nebraska,31109.0,42799,318.0
+1887146,2021-11-05,Lancaster,Pennsylvania,42071.0,72597,1345.0
+1887291,2021-11-05,Lancaster,South Carolina,45057.0,16158,226.0
+1887840,2021-11-05,Lancaster,Virginia,51103.0,1067,23.0
+1889820,2021-11-06,Lancaster,Nebraska,31109.0,42799,318.0
+1890396,2021-11-06,Lancaster,Pennsylvania,42071.0,72814,1348.0
+1890541,2021-11-06,Lancaster,South Carolina,45057.0,16158,226.0
+1891090,2021-11-06,Lancaster,Virginia,51103.0,1067,23.0
+1893070,2021-11-07,Lancaster,Nebraska,31109.0,42799,318.0
+1893646,2021-11-07,Lancaster,Pennsylvania,42071.0,72989,1348.0
+1893791,2021-11-07,Lancaster,South Carolina,45057.0,16158,226.0
+1894340,2021-11-07,Lancaster,Virginia,51103.0,1067,23.0
+1896320,2021-11-08,Lancaster,Nebraska,31109.0,43269,319.0
+1896896,2021-11-08,Lancaster,Pennsylvania,42071.0,73117,1349.0
+1897041,2021-11-08,Lancaster,South Carolina,45057.0,16203,227.0
+1897590,2021-11-08,Lancaster,Virginia,51103.0,1072,23.0
+1899570,2021-11-09,Lancaster,Nebraska,31109.0,43482,320.0
+1900146,2021-11-09,Lancaster,Pennsylvania,42071.0,73260,1350.0
+1900291,2021-11-09,Lancaster,South Carolina,45057.0,16212,227.0
+1900840,2021-11-09,Lancaster,Virginia,51103.0,1073,23.0
+1902820,2021-11-10,Lancaster,Nebraska,31109.0,43568,321.0
+1903396,2021-11-10,Lancaster,Pennsylvania,42071.0,73439,1359.0
+1903541,2021-11-10,Lancaster,South Carolina,45057.0,16217,227.0
+1904090,2021-11-10,Lancaster,Virginia,51103.0,1073,23.0
+1906069,2021-11-11,Lancaster,Nebraska,31109.0,43816,321.0
+1906645,2021-11-11,Lancaster,Pennsylvania,42071.0,73645,1363.0
+1906790,2021-11-11,Lancaster,South Carolina,45057.0,16217,227.0
+1907339,2021-11-11,Lancaster,Virginia,51103.0,1074,23.0
+1909318,2021-11-12,Lancaster,Nebraska,31109.0,43970,322.0
+1909894,2021-11-12,Lancaster,Pennsylvania,42071.0,73806,1363.0
+1910039,2021-11-12,Lancaster,South Carolina,45057.0,16261,229.0
+1910588,2021-11-12,Lancaster,Virginia,51103.0,1074,23.0
+1912568,2021-11-13,Lancaster,Nebraska,31109.0,43970,322.0
+1913144,2021-11-13,Lancaster,Pennsylvania,42071.0,74799,1370.0
+1913289,2021-11-13,Lancaster,South Carolina,45057.0,16261,229.0
+1913838,2021-11-13,Lancaster,Virginia,51103.0,1074,23.0
+1915818,2021-11-14,Lancaster,Nebraska,31109.0,43970,322.0
+1916394,2021-11-14,Lancaster,Pennsylvania,42071.0,74966,1370.0
+1916539,2021-11-14,Lancaster,South Carolina,45057.0,16261,229.0
+1917088,2021-11-14,Lancaster,Virginia,51103.0,1074,23.0
+1919068,2021-11-15,Lancaster,Nebraska,31109.0,44253,322.0
+1919644,2021-11-15,Lancaster,Pennsylvania,42071.0,75125,1370.0
+1919789,2021-11-15,Lancaster,South Carolina,45057.0,16311,229.0
+1920338,2021-11-15,Lancaster,Virginia,51103.0,1074,23.0
+1922318,2021-11-16,Lancaster,Nebraska,31109.0,44354,323.0
+1922893,2021-11-16,Lancaster,Pennsylvania,42071.0,75290,1373.0
+1923038,2021-11-16,Lancaster,South Carolina,45057.0,16329,229.0
+1923587,2021-11-16,Lancaster,Virginia,51103.0,1074,23.0
+1925567,2021-11-17,Lancaster,Nebraska,31109.0,44506,323.0
+1926143,2021-11-17,Lancaster,Pennsylvania,42071.0,75530,1376.0
+1926288,2021-11-17,Lancaster,South Carolina,45057.0,16346,229.0
+1926837,2021-11-17,Lancaster,Virginia,51103.0,1074,23.0
+1928817,2021-11-18,Lancaster,Nebraska,31109.0,44686,325.0
+1929393,2021-11-18,Lancaster,Pennsylvania,42071.0,75754,1381.0
+1929538,2021-11-18,Lancaster,South Carolina,45057.0,16367,229.0
+1930087,2021-11-18,Lancaster,Virginia,51103.0,1074,23.0
+1932068,2021-11-19,Lancaster,Nebraska,31109.0,44859,325.0
+1932644,2021-11-19,Lancaster,Pennsylvania,42071.0,76092,1386.0
+1932789,2021-11-19,Lancaster,South Carolina,45057.0,16385,230.0
+1933339,2021-11-19,Lancaster,Virginia,51103.0,1076,23.0
+1935318,2021-11-20,Lancaster,Nebraska,31109.0,44859,325.0
+1935894,2021-11-20,Lancaster,Pennsylvania,42071.0,76288,1389.0
+1936039,2021-11-20,Lancaster,South Carolina,45057.0,16385,230.0
+1936589,2021-11-20,Lancaster,Virginia,51103.0,1076,23.0
+1938568,2021-11-21,Lancaster,Nebraska,31109.0,44859,325.0
+1939144,2021-11-21,Lancaster,Pennsylvania,42071.0,76495,1390.0
+1939289,2021-11-21,Lancaster,South Carolina,45057.0,16385,230.0
+1939839,2021-11-21,Lancaster,Virginia,51103.0,1076,23.0
+1941818,2021-11-22,Lancaster,Nebraska,31109.0,45115,325.0
+1942394,2021-11-22,Lancaster,Pennsylvania,42071.0,76751,1390.0
+1942539,2021-11-22,Lancaster,South Carolina,45057.0,16450,231.0
+1943089,2021-11-22,Lancaster,Virginia,51103.0,1077,23.0
+1945069,2021-11-23,Lancaster,Nebraska,31109.0,45307,325.0
+1945645,2021-11-23,Lancaster,Pennsylvania,42071.0,76919,1393.0
+1945790,2021-11-23,Lancaster,South Carolina,45057.0,16465,232.0
+1946340,2021-11-23,Lancaster,Virginia,51103.0,1078,23.0
+1948320,2021-11-24,Lancaster,Nebraska,31109.0,45458,326.0
+1948896,2021-11-24,Lancaster,Pennsylvania,42071.0,77149,1397.0
+1949041,2021-11-24,Lancaster,South Carolina,45057.0,16483,233.0
+1949591,2021-11-24,Lancaster,Virginia,51103.0,1079,23.0
+1951571,2021-11-25,Lancaster,Nebraska,31109.0,45458,326.0
+1952147,2021-11-25,Lancaster,Pennsylvania,42071.0,77391,1399.0
+1952292,2021-11-25,Lancaster,South Carolina,45057.0,16483,233.0
+1952842,2021-11-25,Lancaster,Virginia,51103.0,1080,23.0
+1954822,2021-11-26,Lancaster,Nebraska,31109.0,45458,326.0
+1955398,2021-11-26,Lancaster,Pennsylvania,42071.0,77605,1399.0
+1955543,2021-11-26,Lancaster,South Carolina,45057.0,16508,234.0
+1956093,2021-11-26,Lancaster,Virginia,51103.0,1084,23.0
+1958073,2021-11-27,Lancaster,Nebraska,31109.0,45458,326.0
+1958649,2021-11-27,Lancaster,Pennsylvania,42071.0,77845,1400.0
+1958794,2021-11-27,Lancaster,South Carolina,45057.0,16508,234.0
+1959344,2021-11-27,Lancaster,Virginia,51103.0,1084,23.0
+1961324,2021-11-28,Lancaster,Nebraska,31109.0,45458,326.0
+1961900,2021-11-28,Lancaster,Pennsylvania,42071.0,78035,1401.0
+1962045,2021-11-28,Lancaster,South Carolina,45057.0,16508,234.0
+1962595,2021-11-28,Lancaster,Virginia,51103.0,1084,23.0
+1964575,2021-11-29,Lancaster,Nebraska,31109.0,45859,326.0
+1965152,2021-11-29,Lancaster,Pennsylvania,42071.0,78228,1402.0
+1965297,2021-11-29,Lancaster,South Carolina,45057.0,16580,234.0
+1965847,2021-11-29,Lancaster,Virginia,51103.0,1085,23.0
+1967827,2021-11-30,Lancaster,Nebraska,31109.0,46040,329.0
+1968403,2021-11-30,Lancaster,Pennsylvania,42071.0,78458,1404.0
+1968548,2021-11-30,Lancaster,South Carolina,45057.0,16595,234.0
+1969097,2021-11-30,Lancaster,Virginia,51103.0,1085,23.0
+1971077,2021-12-01,Lancaster,Nebraska,31109.0,46276,330.0
+1971653,2021-12-01,Lancaster,Pennsylvania,42071.0,78794,1407.0
+1971798,2021-12-01,Lancaster,South Carolina,45057.0,16608,235.0
+1972347,2021-12-01,Lancaster,Virginia,51103.0,1085,23.0
+1974326,2021-12-02,Lancaster,Nebraska,31109.0,46509,331.0
+1974902,2021-12-02,Lancaster,Pennsylvania,42071.0,79198,1416.0
+1975047,2021-12-02,Lancaster,South Carolina,45057.0,16639,235.0
+1975596,2021-12-02,Lancaster,Virginia,51103.0,1086,23.0
+1977576,2021-12-03,Lancaster,Nebraska,31109.0,46789,331.0
+1978152,2021-12-03,Lancaster,Pennsylvania,42071.0,79542,1417.0
+1978297,2021-12-03,Lancaster,South Carolina,45057.0,16687,235.0
+1978846,2021-12-03,Lancaster,Virginia,51103.0,1087,23.0
+1980826,2021-12-04,Lancaster,Nebraska,31109.0,46789,331.0
+1981402,2021-12-04,Lancaster,Pennsylvania,42071.0,80052,1422.0
+1981547,2021-12-04,Lancaster,South Carolina,45057.0,16687,235.0
+1982096,2021-12-04,Lancaster,Virginia,51103.0,1087,23.0
+1984076,2021-12-05,Lancaster,Nebraska,31109.0,46789,331.0
+1984652,2021-12-05,Lancaster,Pennsylvania,42071.0,80410,1424.0
+1984797,2021-12-05,Lancaster,South Carolina,45057.0,16687,235.0
+1985346,2021-12-05,Lancaster,Virginia,51103.0,1087,23.0
+1987326,2021-12-06,Lancaster,Nebraska,31109.0,47104,331.0
+1987902,2021-12-06,Lancaster,Pennsylvania,42071.0,80638,1428.0
+1988047,2021-12-06,Lancaster,South Carolina,45057.0,16796,235.0
+1988596,2021-12-06,Lancaster,Virginia,51103.0,1094,23.0
+1990576,2021-12-07,Lancaster,Nebraska,31109.0,47373,335.0
+1991153,2021-12-07,Lancaster,Pennsylvania,42071.0,80932,1435.0
+1991298,2021-12-07,Lancaster,South Carolina,45057.0,16817,235.0
+1991847,2021-12-07,Lancaster,Virginia,51103.0,1096,23.0
+1993827,2021-12-08,Lancaster,Nebraska,31109.0,47574,335.0
+1994404,2021-12-08,Lancaster,Pennsylvania,42071.0,81245,1440.0
+1994549,2021-12-08,Lancaster,South Carolina,45057.0,16831,235.0
+1995098,2021-12-08,Lancaster,Virginia,51103.0,1096,23.0
+1997078,2021-12-09,Lancaster,Nebraska,31109.0,47764,338.0
+1997655,2021-12-09,Lancaster,Pennsylvania,42071.0,81606,1443.0
+1997800,2021-12-09,Lancaster,South Carolina,45057.0,16858,237.0
+1998349,2021-12-09,Lancaster,Virginia,51103.0,1100,24.0
+2000329,2021-12-10,Lancaster,Nebraska,31109.0,48000,339.0
+2000905,2021-12-10,Lancaster,Pennsylvania,42071.0,81990,1449.0
+2001050,2021-12-10,Lancaster,South Carolina,45057.0,16914,238.0
+2001599,2021-12-10,Lancaster,Virginia,51103.0,1102,24.0
+2003579,2021-12-11,Lancaster,Nebraska,31109.0,48000,339.0
+2004156,2021-12-11,Lancaster,Pennsylvania,42071.0,82430,1456.0
+2004301,2021-12-11,Lancaster,South Carolina,45057.0,16914,238.0
+2004850,2021-12-11,Lancaster,Virginia,51103.0,1102,24.0
+2006830,2021-12-12,Lancaster,Nebraska,31109.0,48000,339.0
+2007407,2021-12-12,Lancaster,Pennsylvania,42071.0,82858,1461.0
+2007552,2021-12-12,Lancaster,South Carolina,45057.0,16914,238.0
+2008101,2021-12-12,Lancaster,Virginia,51103.0,1102,24.0
+2010081,2021-12-13,Lancaster,Nebraska,31109.0,48244,340.0
+2010658,2021-12-13,Lancaster,Pennsylvania,42071.0,83158,1461.0
+2010803,2021-12-13,Lancaster,South Carolina,45057.0,17002,239.0
+2011352,2021-12-13,Lancaster,Virginia,51103.0,1114,24.0
+2013332,2021-12-14,Lancaster,Nebraska,31109.0,48467,340.0
+2013909,2021-12-14,Lancaster,Pennsylvania,42071.0,83431,1471.0
+2014054,2021-12-14,Lancaster,South Carolina,45057.0,17026,239.0
+2014603,2021-12-14,Lancaster,Virginia,51103.0,1116,24.0
+2016583,2021-12-15,Lancaster,Nebraska,31109.0,48623,342.0
+2017159,2021-12-15,Lancaster,Pennsylvania,42071.0,83789,1478.0
+2017304,2021-12-15,Lancaster,South Carolina,45057.0,17043,239.0
+2017853,2021-12-15,Lancaster,Virginia,51103.0,1119,24.0
+2019833,2021-12-16,Lancaster,Nebraska,31109.0,48846,343.0
+2020410,2021-12-16,Lancaster,Pennsylvania,42071.0,84155,1482.0
+2020555,2021-12-16,Lancaster,South Carolina,45057.0,17076,239.0
+2021104,2021-12-16,Lancaster,Virginia,51103.0,1120,24.0
+2023084,2021-12-17,Lancaster,Nebraska,31109.0,48995,344.0
+2023661,2021-12-17,Lancaster,Pennsylvania,42071.0,84477,1486.0
+2023806,2021-12-17,Lancaster,South Carolina,45057.0,17099,241.0
+2024355,2021-12-17,Lancaster,Virginia,51103.0,1123,24.0
+2026335,2021-12-18,Lancaster,Nebraska,31109.0,48995,344.0
+2026912,2021-12-18,Lancaster,Pennsylvania,42071.0,84775,1494.0
+2027057,2021-12-18,Lancaster,South Carolina,45057.0,17099,241.0
+2027606,2021-12-18,Lancaster,Virginia,51103.0,1123,24.0
+2029586,2021-12-19,Lancaster,Nebraska,31109.0,48995,344.0
+2030163,2021-12-19,Lancaster,Pennsylvania,42071.0,85229,1496.0
+2030308,2021-12-19,Lancaster,South Carolina,45057.0,17099,241.0
+2030857,2021-12-19,Lancaster,Virginia,51103.0,1123,24.0
+2032837,2021-12-20,Lancaster,Nebraska,31109.0,49247,345.0
+2033413,2021-12-20,Lancaster,Pennsylvania,42071.0,85385,1498.0
+2033558,2021-12-20,Lancaster,South Carolina,45057.0,17190,244.0
+2034107,2021-12-20,Lancaster,Virginia,51103.0,1131,24.0
+2036087,2021-12-21,Lancaster,Nebraska,31109.0,49451,346.0
+2036663,2021-12-21,Lancaster,Pennsylvania,42071.0,85753,1506.0
+2036808,2021-12-21,Lancaster,South Carolina,45057.0,17214,244.0
+2037357,2021-12-21,Lancaster,Virginia,51103.0,1135,24.0
+2039337,2021-12-22,Lancaster,Nebraska,31109.0,49632,347.0
+2039913,2021-12-22,Lancaster,Pennsylvania,42071.0,86200,1513.0
+2040058,2021-12-22,Lancaster,South Carolina,45057.0,17229,244.0
+2040607,2021-12-22,Lancaster,Virginia,51103.0,1139,24.0
+2042586,2021-12-23,Lancaster,Nebraska,31109.0,49753,349.0
+2043162,2021-12-23,Lancaster,Pennsylvania,42071.0,86711,1518.0
+2043307,2021-12-23,Lancaster,South Carolina,45057.0,17270,246.0
+2043856,2021-12-23,Lancaster,Virginia,51103.0,1140,24.0
+2045836,2021-12-24,Lancaster,Nebraska,31109.0,49753,349.0
+2046412,2021-12-24,Lancaster,Pennsylvania,42071.0,87198,1521.0
+2046557,2021-12-24,Lancaster,South Carolina,45057.0,17270,246.0
+2047106,2021-12-24,Lancaster,Virginia,51103.0,1141,24.0
+2049086,2021-12-25,Lancaster,Nebraska,31109.0,49753,349.0
+2049662,2021-12-25,Lancaster,Pennsylvania,42071.0,87649,1521.0
+2049807,2021-12-25,Lancaster,South Carolina,45057.0,17270,246.0
+2050356,2021-12-25,Lancaster,Virginia,51103.0,1141,24.0
+2052336,2021-12-26,Lancaster,Nebraska,31109.0,49753,349.0
+2052912,2021-12-26,Lancaster,Pennsylvania,42071.0,87975,1521.0
+2053057,2021-12-26,Lancaster,South Carolina,45057.0,17270,246.0
+2053606,2021-12-26,Lancaster,Virginia,51103.0,1141,24.0
+2055586,2021-12-27,Lancaster,Nebraska,31109.0,49753,350.0
+2056161,2021-12-27,Lancaster,Pennsylvania,42071.0,88314,1521.0
+2056306,2021-12-27,Lancaster,South Carolina,45057.0,17270,246.0
+2056855,2021-12-27,Lancaster,Virginia,51103.0,1149,24.0
+2058835,2021-12-28,Lancaster,Nebraska,31109.0,50254,352.0
+2059410,2021-12-28,Lancaster,Pennsylvania,42071.0,88840,1531.0
+2059555,2021-12-28,Lancaster,South Carolina,45057.0,17270,246.0
+2060104,2021-12-28,Lancaster,Virginia,51103.0,1155,24.0
+2062084,2021-12-29,Lancaster,Nebraska,31109.0,50426,354.0
+2062660,2021-12-29,Lancaster,Pennsylvania,42071.0,89423,1545.0
+2062805,2021-12-29,Lancaster,South Carolina,45057.0,17469,247.0
+2063354,2021-12-29,Lancaster,Virginia,51103.0,1167,24.0
+2065334,2021-12-30,Lancaster,Nebraska,31109.0,50996,355.0
+2065910,2021-12-30,Lancaster,Pennsylvania,42071.0,90442,1552.0
+2066055,2021-12-30,Lancaster,South Carolina,45057.0,17531,247.0
+2066604,2021-12-30,Lancaster,Virginia,51103.0,1176,24.0
+2068585,2021-12-31,Lancaster,Nebraska,31109.0,50996,355.0
+2069161,2021-12-31,Lancaster,Pennsylvania,42071.0,91511,1554.0
+2069306,2021-12-31,Lancaster,South Carolina,45057.0,17632,247.0
+2069855,2021-12-31,Lancaster,Virginia,51103.0,1195,24.0
+2071836,2022-01-01,Lancaster,Nebraska,31109.0,50996,355.0
+2072412,2022-01-01,Lancaster,Pennsylvania,42071.0,92356,1555.0
+2072557,2022-01-01,Lancaster,South Carolina,45057.0,17632,247.0
+2073106,2022-01-01,Lancaster,Virginia,51103.0,1195,24.0
+2075087,2022-01-02,Lancaster,Nebraska,31109.0,50996,355.0
+2075663,2022-01-02,Lancaster,Pennsylvania,42071.0,93158,1555.0
+2075808,2022-01-02,Lancaster,South Carolina,45057.0,17632,247.0
+2076357,2022-01-02,Lancaster,Virginia,51103.0,1195,24.0
+2078338,2022-01-03,Lancaster,Nebraska,31109.0,51987,355.0
+2078914,2022-01-03,Lancaster,Pennsylvania,42071.0,94029,1561.0
+2079059,2022-01-03,Lancaster,South Carolina,45057.0,17632,247.0
+2079609,2022-01-03,Lancaster,Virginia,51103.0,1256,24.0
+2081590,2022-01-04,Lancaster,Nebraska,31109.0,52452,358.0
+2082166,2022-01-04,Lancaster,Pennsylvania,42071.0,95034,1564.0
+2082311,2022-01-04,Lancaster,South Carolina,45057.0,18035,249.0
+2082861,2022-01-04,Lancaster,Virginia,51103.0,1285,24.0
+2084842,2022-01-05,Lancaster,Nebraska,31109.0,53028,362.0
+2085418,2022-01-05,Lancaster,Pennsylvania,42071.0,96121,1567.0
+2085563,2022-01-05,Lancaster,South Carolina,45057.0,18150,249.0
+2086113,2022-01-05,Lancaster,Virginia,51103.0,1290,24.0
+2088094,2022-01-06,Lancaster,Nebraska,31109.0,53502,363.0
+2088669,2022-01-06,Lancaster,Pennsylvania,42071.0,97017,1579.0
+2088814,2022-01-06,Lancaster,South Carolina,45057.0,18395,250.0
+2089364,2022-01-06,Lancaster,Virginia,51103.0,1302,24.0
+2091345,2022-01-07,Lancaster,Nebraska,31109.0,54039,365.0
+2091921,2022-01-07,Lancaster,Pennsylvania,42071.0,98090,1587.0
+2092066,2022-01-07,Lancaster,South Carolina,45057.0,18558,250.0
+2092616,2022-01-07,Lancaster,Virginia,51103.0,1328,24.0
+2094597,2022-01-08,Lancaster,Nebraska,31109.0,54039,365.0
+2095173,2022-01-08,Lancaster,Pennsylvania,42071.0,99490,1592.0
+2095318,2022-01-08,Lancaster,South Carolina,45057.0,18558,250.0
+2095868,2022-01-08,Lancaster,Virginia,51103.0,1328,24.0
+2097849,2022-01-09,Lancaster,Nebraska,31109.0,54039,365.0
+2098425,2022-01-09,Lancaster,Pennsylvania,42071.0,100833,1596.0
+2098570,2022-01-09,Lancaster,South Carolina,45057.0,18558,250.0
+2099119,2022-01-09,Lancaster,Virginia,51103.0,1328,24.0
+2101100,2022-01-10,Lancaster,Nebraska,31109.0,55333,366.0
+2101676,2022-01-10,Lancaster,Pennsylvania,42071.0,102154,1596.0
+2101821,2022-01-10,Lancaster,South Carolina,45057.0,19058,250.0
+2102370,2022-01-10,Lancaster,Virginia,51103.0,1396,24.0
+2104351,2022-01-11,Lancaster,Nebraska,31109.0,56059,367.0
+2104927,2022-01-11,Lancaster,Pennsylvania,42071.0,103273,1605.0
+2105072,2022-01-11,Lancaster,South Carolina,45057.0,19182,250.0
+2105621,2022-01-11,Lancaster,Virginia,51103.0,1412,24.0
+2107602,2022-01-12,Lancaster,Nebraska,31109.0,56838,368.0
+2108178,2022-01-12,Lancaster,Pennsylvania,42071.0,104297,1612.0
+2108323,2022-01-12,Lancaster,South Carolina,45057.0,19309,251.0
+2108872,2022-01-12,Lancaster,Virginia,51103.0,1421,24.0
+2110853,2022-01-13,Lancaster,Nebraska,31109.0,57839,372.0
+2111430,2022-01-13,Lancaster,Pennsylvania,42071.0,105474,1618.0
+2111575,2022-01-13,Lancaster,South Carolina,45057.0,19542,251.0
+2112124,2022-01-13,Lancaster,Virginia,51103.0,1442,24.0
+2114105,2022-01-14,Lancaster,Nebraska,31109.0,59338,372.0
+2114682,2022-01-14,Lancaster,Pennsylvania,42071.0,106386,1627.0
+2114827,2022-01-14,Lancaster,South Carolina,45057.0,19829,251.0
+2115376,2022-01-14,Lancaster,Virginia,51103.0,1468,24.0
+2117356,2022-01-15,Lancaster,Nebraska,31109.0,59338,372.0
+2117933,2022-01-15,Lancaster,Pennsylvania,42071.0,107154,1639.0
+2118078,2022-01-15,Lancaster,South Carolina,45057.0,19829,251.0
+2118628,2022-01-15,Lancaster,Virginia,51103.0,1468,24.0
+2120608,2022-01-16,Lancaster,Nebraska,31109.0,59338,372.0
+2121185,2022-01-16,Lancaster,Pennsylvania,42071.0,108759,1640.0
+2121330,2022-01-16,Lancaster,South Carolina,45057.0,19829,251.0
+2121880,2022-01-16,Lancaster,Virginia,51103.0,1468,24.0
+2123860,2022-01-17,Lancaster,Nebraska,31109.0,61043,372.0
+2124437,2022-01-17,Lancaster,Pennsylvania,42071.0,109284,1640.0
+2124582,2022-01-17,Lancaster,South Carolina,45057.0,19829,251.0
+2125132,2022-01-17,Lancaster,Virginia,51103.0,1538,24.0
+2127112,2022-01-18,Lancaster,Nebraska,31109.0,62169,374.0
+2127689,2022-01-18,Lancaster,Pennsylvania,42071.0,109890,1643.0
+2127834,2022-01-18,Lancaster,South Carolina,45057.0,20711,252.0
+2128385,2022-01-18,Lancaster,Virginia,51103.0,1545,24.0
+2130366,2022-01-19,Lancaster,Nebraska,31109.0,63237,378.0
+2130943,2022-01-19,Lancaster,Pennsylvania,42071.0,110532,1645.0
+2131088,2022-01-19,Lancaster,South Carolina,45057.0,20895,253.0
+2131639,2022-01-19,Lancaster,Virginia,51103.0,1552,24.0
+2133619,2022-01-20,Lancaster,Nebraska,31109.0,64642,379.0
+2134195,2022-01-20,Lancaster,Pennsylvania,42071.0,111284,1654.0
+2134340,2022-01-20,Lancaster,South Carolina,45057.0,21077,253.0
+2134891,2022-01-20,Lancaster,Virginia,51103.0,1559,24.0
+2136871,2022-01-21,Lancaster,Nebraska,31109.0,65467,382.0
+2137449,2022-01-21,Lancaster,Pennsylvania,42071.0,112108,1666.0
+2137594,2022-01-21,Lancaster,South Carolina,45057.0,21256,255.0
+2138145,2022-01-21,Lancaster,Virginia,51103.0,1582,24.0
+2140127,2022-01-22,Lancaster,Nebraska,31109.0,65467,382.0
+2140705,2022-01-22,Lancaster,Pennsylvania,42071.0,112792,1672.0
+2140850,2022-01-22,Lancaster,South Carolina,45057.0,21256,255.0
+2141401,2022-01-22,Lancaster,Virginia,51103.0,1582,24.0
+2143382,2022-01-23,Lancaster,Nebraska,31109.0,65467,382.0
+2143960,2022-01-23,Lancaster,Pennsylvania,42071.0,113233,1677.0
+2144105,2022-01-23,Lancaster,South Carolina,45057.0,21256,255.0
+2144656,2022-01-23,Lancaster,Virginia,51103.0,1582,24.0
+2146637,2022-01-24,Lancaster,Nebraska,31109.0,67096,382.0
+2147214,2022-01-24,Lancaster,Pennsylvania,42071.0,113629,1679.0
+2147359,2022-01-24,Lancaster,South Carolina,45057.0,21256,255.0
+2147909,2022-01-24,Lancaster,Virginia,51103.0,1608,24.0
+2149889,2022-01-25,Lancaster,Nebraska,31109.0,67900,382.0
+2150466,2022-01-25,Lancaster,Pennsylvania,42071.0,114058,1687.0
+2150611,2022-01-25,Lancaster,South Carolina,45057.0,21256,255.0
+2151161,2022-01-25,Lancaster,Virginia,51103.0,1619,24.0
+2153141,2022-01-26,Lancaster,Nebraska,31109.0,68526,386.0
+2153718,2022-01-26,Lancaster,Pennsylvania,42071.0,114383,1694.0
+2153863,2022-01-26,Lancaster,South Carolina,45057.0,22238,255.0
+2154414,2022-01-26,Lancaster,Virginia,51103.0,1622,24.0
+2156394,2022-01-27,Lancaster,Nebraska,31109.0,69077,386.0
+2156971,2022-01-27,Lancaster,Pennsylvania,42071.0,114997,1705.0
+2157116,2022-01-27,Lancaster,South Carolina,45057.0,22420,255.0
+2157667,2022-01-27,Lancaster,Virginia,51103.0,1634,24.0
+2159648,2022-01-28,Lancaster,Nebraska,31109.0,69757,386.0
+2160227,2022-01-28,Lancaster,Pennsylvania,42071.0,115670,1715.0
+2160372,2022-01-28,Lancaster,South Carolina,45057.0,22702,255.0
+2160923,2022-01-28,Lancaster,Virginia,51103.0,1643,24.0
+2162903,2022-01-29,Lancaster,Nebraska,31109.0,69757,386.0
+2163482,2022-01-29,Lancaster,Pennsylvania,42071.0,115969,1720.0
+2163627,2022-01-29,Lancaster,South Carolina,45057.0,22702,255.0
+2164178,2022-01-29,Lancaster,Virginia,51103.0,1643,24.0
+2166158,2022-01-30,Lancaster,Nebraska,31109.0,69757,386.0
+2166737,2022-01-30,Lancaster,Pennsylvania,42071.0,116228,1722.0
+2166882,2022-01-30,Lancaster,South Carolina,45057.0,22702,255.0
+2167433,2022-01-30,Lancaster,Virginia,51103.0,1643,24.0
+2169413,2022-01-31,Lancaster,Nebraska,31109.0,70448,392.0
+2169991,2022-01-31,Lancaster,Pennsylvania,42071.0,116426,1725.0
+2170136,2022-01-31,Lancaster,South Carolina,45057.0,23182,255.0
+2170686,2022-01-31,Lancaster,Virginia,51103.0,1670,24.0
+2172666,2022-02-01,Lancaster,Nebraska,31109.0,70448,393.0
+2173243,2022-02-01,Lancaster,Pennsylvania,42071.0,116699,1728.0
+2173388,2022-02-01,Lancaster,South Carolina,45057.0,23269,256.0
+2173938,2022-02-01,Lancaster,Virginia,51103.0,1677,24.0
+2175919,2022-02-02,Lancaster,Nebraska,31109.0,71216,393.0
+2176497,2022-02-02,Lancaster,Pennsylvania,42071.0,117032,1746.0
+2176642,2022-02-02,Lancaster,South Carolina,45057.0,23331,259.0
+2177191,2022-02-02,Lancaster,Virginia,51103.0,1678,25.0
+2179171,2022-02-03,Lancaster,Nebraska,31109.0,71511,397.0
+2179748,2022-02-03,Lancaster,Pennsylvania,42071.0,117315,1755.0
+2179893,2022-02-03,Lancaster,South Carolina,45057.0,23433,260.0
+2180442,2022-02-03,Lancaster,Virginia,51103.0,1684,25.0
+2182423,2022-02-04,Lancaster,Nebraska,31109.0,71694,399.0
+2183000,2022-02-04,Lancaster,Pennsylvania,42071.0,117574,1763.0
+2183145,2022-02-04,Lancaster,South Carolina,45057.0,23579,262.0
+2183694,2022-02-04,Lancaster,Virginia,51103.0,1692,25.0
+2185675,2022-02-05,Lancaster,Nebraska,31109.0,71694,399.0
+2186252,2022-02-05,Lancaster,Pennsylvania,42071.0,118004,1769.0
+2186397,2022-02-05,Lancaster,South Carolina,45057.0,23579,262.0
+2186947,2022-02-05,Lancaster,Virginia,51103.0,1692,25.0
+2188928,2022-02-06,Lancaster,Nebraska,31109.0,71694,399.0
+2189505,2022-02-06,Lancaster,Pennsylvania,42071.0,118144,1769.0
+2189650,2022-02-06,Lancaster,South Carolina,45057.0,23579,262.0
+2190200,2022-02-06,Lancaster,Virginia,51103.0,1692,25.0
+2192181,2022-02-07,Lancaster,Nebraska,31109.0,72041,400.0
+2192759,2022-02-07,Lancaster,Pennsylvania,42071.0,118684,1774.0
+2192904,2022-02-07,Lancaster,South Carolina,45057.0,23928,265.0
+2193453,2022-02-07,Lancaster,Virginia,51103.0,1712,26.0
+2195435,2022-02-08,Lancaster,Nebraska,31109.0,72251,400.0
+2196013,2022-02-08,Lancaster,Pennsylvania,42071.0,118203,1782.0
+2196158,2022-02-08,Lancaster,South Carolina,45057.0,23973,265.0
+2196708,2022-02-08,Lancaster,Virginia,51103.0,1715,26.0
+2198689,2022-02-09,Lancaster,Nebraska,31109.0,72406,400.0
+2199267,2022-02-09,Lancaster,Pennsylvania,42071.0,118376,1784.0
+2199412,2022-02-09,Lancaster,South Carolina,45057.0,24026,265.0
+2199962,2022-02-09,Lancaster,Virginia,51103.0,1721,26.0
+2201943,2022-02-10,Lancaster,Nebraska,31109.0,72534,406.0
+2202521,2022-02-10,Lancaster,Pennsylvania,42071.0,118545,1790.0
+2202666,2022-02-10,Lancaster,South Carolina,45057.0,24100,265.0
+2203216,2022-02-10,Lancaster,Virginia,51103.0,1728,26.0
+2205196,2022-02-11,Lancaster,Nebraska,31109.0,72670,407.0
+2205774,2022-02-11,Lancaster,Pennsylvania,42071.0,118722,1794.0
+2205919,2022-02-11,Lancaster,South Carolina,45057.0,24100,265.0
+2206469,2022-02-11,Lancaster,Virginia,51103.0,1731,27.0
+2208449,2022-02-12,Lancaster,Nebraska,31109.0,72670,407.0
+2209027,2022-02-12,Lancaster,Pennsylvania,42071.0,118889,1797.0
+2209172,2022-02-12,Lancaster,South Carolina,45057.0,24100,265.0
+2209722,2022-02-12,Lancaster,Virginia,51103.0,1731,27.0
+2211702,2022-02-13,Lancaster,Nebraska,31109.0,72670,407.0
+2212280,2022-02-13,Lancaster,Pennsylvania,42071.0,118976,1797.0
+2212425,2022-02-13,Lancaster,South Carolina,45057.0,24100,265.0
+2212975,2022-02-13,Lancaster,Virginia,51103.0,1731,27.0
+2214954,2022-02-14,Lancaster,Nebraska,31109.0,72800,408.0
+2215531,2022-02-14,Lancaster,Pennsylvania,42071.0,119046,1799.0
+2215676,2022-02-14,Lancaster,South Carolina,45057.0,24368,265.0
+2216226,2022-02-14,Lancaster,Virginia,51103.0,1744,27.0
+2218205,2022-02-15,Lancaster,Nebraska,31109.0,72920,409.0
+2218782,2022-02-15,Lancaster,Pennsylvania,42071.0,119153,1803.0
+2218927,2022-02-15,Lancaster,South Carolina,45057.0,24402,265.0
+2219476,2022-02-15,Lancaster,Virginia,51103.0,1743,27.0
+2221456,2022-02-16,Lancaster,Nebraska,31109.0,72998,411.0
+2222033,2022-02-16,Lancaster,Pennsylvania,42071.0,119224,1808.0
+2222178,2022-02-16,Lancaster,South Carolina,45057.0,24450,266.0
+2222727,2022-02-16,Lancaster,Virginia,51103.0,1744,27.0
+2224707,2022-02-17,Lancaster,Nebraska,31109.0,73070,414.0
+2225284,2022-02-17,Lancaster,Pennsylvania,42071.0,119345,1814.0
+2225429,2022-02-17,Lancaster,South Carolina,45057.0,24511,268.0
+2225978,2022-02-17,Lancaster,Virginia,51103.0,1746,27.0
+2227958,2022-02-18,Lancaster,Nebraska,31109.0,73132,417.0
+2228535,2022-02-18,Lancaster,Pennsylvania,42071.0,119432,1818.0
+2228680,2022-02-18,Lancaster,South Carolina,45057.0,24564,268.0
+2229229,2022-02-18,Lancaster,Virginia,51103.0,1749,27.0
+2231209,2022-02-19,Lancaster,Nebraska,31109.0,73132,417.0
+2231786,2022-02-19,Lancaster,Pennsylvania,42071.0,119595,1818.0
+2231931,2022-02-19,Lancaster,South Carolina,45057.0,24564,268.0
+2232480,2022-02-19,Lancaster,Virginia,51103.0,1749,27.0
+2234460,2022-02-20,Lancaster,Nebraska,31109.0,73132,417.0
+2235037,2022-02-20,Lancaster,Pennsylvania,42071.0,119652,1821.0
+2235182,2022-02-20,Lancaster,South Carolina,45057.0,24564,268.0
+2235731,2022-02-20,Lancaster,Virginia,51103.0,1749,27.0
+2237711,2022-02-21,Lancaster,Nebraska,31109.0,73206,417.0
+2238288,2022-02-21,Lancaster,Pennsylvania,42071.0,119652,1821.0
+2238433,2022-02-21,Lancaster,South Carolina,45057.0,24564,268.0
+2238982,2022-02-21,Lancaster,Virginia,51103.0,1759,27.0
+2240962,2022-02-22,Lancaster,Nebraska,31109.0,73246,419.0
+2241539,2022-02-22,Lancaster,Pennsylvania,42071.0,119761,1821.0
+2241684,2022-02-22,Lancaster,South Carolina,45057.0,24717,268.0
+2242233,2022-02-22,Lancaster,Virginia,51103.0,1759,27.0
+2244213,2022-02-23,Lancaster,Nebraska,31109.0,73298,420.0
+2244790,2022-02-23,Lancaster,Pennsylvania,42071.0,119815,1831.0
+2244935,2022-02-23,Lancaster,South Carolina,45057.0,24756,268.0
+2245484,2022-02-23,Lancaster,Virginia,51103.0,1762,28.0
+2247464,2022-02-24,Lancaster,Nebraska,31109.0,73308,422.0
+2248041,2022-02-24,Lancaster,Pennsylvania,42071.0,119897,1836.0
+2248186,2022-02-24,Lancaster,South Carolina,45057.0,24793,269.0
+2248735,2022-02-24,Lancaster,Virginia,51103.0,1767,28.0
+2250715,2022-02-25,Lancaster,Nebraska,31109.0,73323,423.0
+2251292,2022-02-25,Lancaster,Pennsylvania,42071.0,119978,1838.0
+2251437,2022-02-25,Lancaster,South Carolina,45057.0,24835,270.0
+2251986,2022-02-25,Lancaster,Virginia,51103.0,1767,28.0
+2253966,2022-02-26,Lancaster,Nebraska,31109.0,73323,423.0
+2254543,2022-02-26,Lancaster,Pennsylvania,42071.0,120040,1841.0
+2254688,2022-02-26,Lancaster,South Carolina,45057.0,24835,270.0
+2255237,2022-02-26,Lancaster,Virginia,51103.0,1767,28.0
+2257217,2022-02-27,Lancaster,Nebraska,31109.0,73323,423.0
+2257794,2022-02-27,Lancaster,Pennsylvania,42071.0,120068,1841.0
+2257939,2022-02-27,Lancaster,South Carolina,45057.0,24835,270.0
+2258488,2022-02-27,Lancaster,Virginia,51103.0,1767,28.0
+2260468,2022-02-28,Lancaster,Nebraska,31109.0,77487,424.0
+2261045,2022-02-28,Lancaster,Pennsylvania,42071.0,120098,1841.0
+2261190,2022-02-28,Lancaster,South Carolina,45057.0,24902,271.0
+2261739,2022-02-28,Lancaster,Virginia,51103.0,1769,29.0
+2263719,2022-03-01,Lancaster,Nebraska,31109.0,77519,424.0
+2264295,2022-03-01,Lancaster,Pennsylvania,42071.0,120121,1843.0
+2264440,2022-03-01,Lancaster,South Carolina,45057.0,24908,271.0
+2264989,2022-03-01,Lancaster,Virginia,51103.0,1770,29.0
+2266970,2022-03-02,Lancaster,Nebraska,31109.0,77547,425.0
+2267548,2022-03-02,Lancaster,Pennsylvania,42071.0,120155,1845.0
+2267693,2022-03-02,Lancaster,South Carolina,45057.0,24913,271.0
+2268242,2022-03-02,Lancaster,Virginia,51103.0,1770,29.0
+2270223,2022-03-03,Lancaster,Nebraska,31109.0,77574,425.0
+2270800,2022-03-03,Lancaster,Pennsylvania,42071.0,120201,1847.0
+2270945,2022-03-03,Lancaster,South Carolina,45057.0,24914,272.0
+2271494,2022-03-03,Lancaster,Virginia,51103.0,1771,29.0
+2273475,2022-03-04,Lancaster,Nebraska,31109.0,77609,425.0
+2274053,2022-03-04,Lancaster,Pennsylvania,42071.0,120229,1849.0
+2274198,2022-03-04,Lancaster,South Carolina,45057.0,24929,272.0
+2274747,2022-03-04,Lancaster,Virginia,51103.0,1774,30.0
+2276728,2022-03-05,Lancaster,Nebraska,31109.0,77609,425.0
+2277306,2022-03-05,Lancaster,Pennsylvania,42071.0,120253,1849.0
+2277451,2022-03-05,Lancaster,South Carolina,45057.0,24929,272.0
+2278000,2022-03-05,Lancaster,Virginia,51103.0,1774,30.0
+2279981,2022-03-06,Lancaster,Nebraska,31109.0,77609,425.0
+2280559,2022-03-06,Lancaster,Pennsylvania,42071.0,120277,1854.0
+2280704,2022-03-06,Lancaster,South Carolina,45057.0,24929,272.0
+2281253,2022-03-06,Lancaster,Virginia,51103.0,1774,30.0
+2283234,2022-03-07,Lancaster,Nebraska,31109.0,77655,425.0
+2283811,2022-03-07,Lancaster,Pennsylvania,42071.0,120295,1854.0
+2283956,2022-03-07,Lancaster,South Carolina,45057.0,24956,274.0
+2284505,2022-03-07,Lancaster,Virginia,51103.0,1774,30.0
+2286486,2022-03-08,Lancaster,Nebraska,31109.0,77671,425.0
+2287063,2022-03-08,Lancaster,Pennsylvania,42071.0,120336,1857.0
+2287208,2022-03-08,Lancaster,South Carolina,45057.0,24959,275.0
+2287757,2022-03-08,Lancaster,Virginia,51103.0,1775,30.0
+2289738,2022-03-09,Lancaster,Nebraska,31109.0,77698,428.0
+2290315,2022-03-09,Lancaster,Pennsylvania,42071.0,120366,1862.0
+2290460,2022-03-09,Lancaster,South Carolina,45057.0,24963,275.0
+2291009,2022-03-09,Lancaster,Virginia,51103.0,1775,30.0
+2292990,2022-03-10,Lancaster,Nebraska,31109.0,77703,430.0
+2293567,2022-03-10,Lancaster,Pennsylvania,42071.0,120391,1865.0
+2293712,2022-03-10,Lancaster,South Carolina,45057.0,24979,275.0
+2294261,2022-03-10,Lancaster,Virginia,51103.0,1775,30.0
+2296242,2022-03-11,Lancaster,Nebraska,31109.0,77729,430.0
+2296819,2022-03-11,Lancaster,Pennsylvania,42071.0,120413,1867.0
+2296964,2022-03-11,Lancaster,South Carolina,45057.0,24993,276.0
+2297513,2022-03-11,Lancaster,Virginia,51103.0,1778,30.0
+2299494,2022-03-12,Lancaster,Nebraska,31109.0,77729,430.0
+2300071,2022-03-12,Lancaster,Pennsylvania,42071.0,120442,1868.0
+2300216,2022-03-12,Lancaster,South Carolina,45057.0,24993,276.0
+2300765,2022-03-12,Lancaster,Virginia,51103.0,1778,30.0
+2302746,2022-03-13,Lancaster,Nebraska,31109.0,77729,430.0
+2303323,2022-03-13,Lancaster,Pennsylvania,42071.0,120453,1868.0
+2303468,2022-03-13,Lancaster,South Carolina,45057.0,24993,276.0
+2304017,2022-03-13,Lancaster,Virginia,51103.0,1778,30.0
+2305997,2022-03-14,Lancaster,Nebraska,31109.0,77753,430.0
+2306574,2022-03-14,Lancaster,Pennsylvania,42071.0,120466,1868.0
+2306719,2022-03-14,Lancaster,South Carolina,45057.0,24993,276.0
+2307268,2022-03-14,Lancaster,Virginia,51103.0,1782,31.0
+2309249,2022-03-15,Lancaster,Nebraska,31109.0,77778,430.0
+2309827,2022-03-15,Lancaster,Pennsylvania,42071.0,120483,1870.0
+2309972,2022-03-15,Lancaster,South Carolina,45057.0,25023,276.0
+2310521,2022-03-15,Lancaster,Virginia,51103.0,1782,31.0
+2312502,2022-03-16,Lancaster,Nebraska,31109.0,77805,430.0
+2313080,2022-03-16,Lancaster,Pennsylvania,42071.0,120499,1872.0
+2313225,2022-03-16,Lancaster,South Carolina,45057.0,25023,276.0
+2313774,2022-03-16,Lancaster,Virginia,51103.0,1782,31.0
+2315755,2022-03-17,Lancaster,Nebraska,31109.0,77839,430.0
+2316333,2022-03-17,Lancaster,Pennsylvania,42071.0,120523,1873.0
+2316478,2022-03-17,Lancaster,South Carolina,45057.0,25023,276.0
+2317027,2022-03-17,Lancaster,Virginia,51103.0,1784,31.0
+2319008,2022-03-18,Lancaster,Nebraska,31109.0,77839,430.0
+2319587,2022-03-18,Lancaster,Pennsylvania,42071.0,120546,1873.0
+2319732,2022-03-18,Lancaster,South Carolina,45057.0,25023,276.0
+2320281,2022-03-18,Lancaster,Virginia,51103.0,1784,31.0
+2322262,2022-03-19,Lancaster,Nebraska,31109.0,77852,430.0
+2322841,2022-03-19,Lancaster,Pennsylvania,42071.0,120558,1873.0
+2322986,2022-03-19,Lancaster,South Carolina,45057.0,25023,276.0
+2323535,2022-03-19,Lancaster,Virginia,51103.0,1784,31.0
+2325516,2022-03-20,Lancaster,Nebraska,31109.0,77852,430.0
+2326094,2022-03-20,Lancaster,Pennsylvania,42071.0,120566,1873.0
+2326239,2022-03-20,Lancaster,South Carolina,45057.0,25023,276.0
+2326788,2022-03-20,Lancaster,Virginia,51103.0,1784,31.0
+2328768,2022-03-21,Lancaster,Nebraska,31109.0,77866,430.0
+2329346,2022-03-21,Lancaster,Pennsylvania,42071.0,120575,1873.0
+2329491,2022-03-21,Lancaster,South Carolina,45057.0,25023,276.0
+2330040,2022-03-21,Lancaster,Virginia,51103.0,1790,31.0
+2332021,2022-03-22,Lancaster,Nebraska,31109.0,77884,430.0
+2332599,2022-03-22,Lancaster,Pennsylvania,42071.0,120588,1874.0
+2332744,2022-03-22,Lancaster,South Carolina,45057.0,25035,277.0
+2333293,2022-03-22,Lancaster,Virginia,51103.0,1790,31.0
+2335275,2022-03-23,Lancaster,Nebraska,31109.0,77884,431.0
+2335853,2022-03-23,Lancaster,Pennsylvania,42071.0,120605,1874.0
+2335998,2022-03-23,Lancaster,South Carolina,45057.0,25035,277.0
+2336547,2022-03-23,Lancaster,Virginia,51103.0,1790,31.0
+2338529,2022-03-24,Lancaster,Nebraska,31109.0,77928,431.0
+2339107,2022-03-24,Lancaster,Pennsylvania,42071.0,120628,1874.0
+2339252,2022-03-24,Lancaster,South Carolina,45057.0,25035,277.0
+2339801,2022-03-24,Lancaster,Virginia,51103.0,1791,31.0
+2341782,2022-03-25,Lancaster,Nebraska,31109.0,77944,433.0
+2342360,2022-03-25,Lancaster,Pennsylvania,42071.0,120648,1874.0
+2342505,2022-03-25,Lancaster,South Carolina,45057.0,25035,277.0
+2343054,2022-03-25,Lancaster,Virginia,51103.0,1791,31.0
+2345035,2022-03-26,Lancaster,Nebraska,31109.0,77944,433.0
+2345613,2022-03-26,Lancaster,Pennsylvania,42071.0,120664,1875.0
+2345758,2022-03-26,Lancaster,South Carolina,45057.0,25035,277.0
+2346307,2022-03-26,Lancaster,Virginia,51103.0,1791,31.0
+2348288,2022-03-27,Lancaster,Nebraska,31109.0,77944,433.0
+2348866,2022-03-27,Lancaster,Pennsylvania,42071.0,120676,1875.0
+2349011,2022-03-27,Lancaster,South Carolina,45057.0,25035,277.0
+2349560,2022-03-27,Lancaster,Virginia,51103.0,1791,31.0
+2351540,2022-03-28,Lancaster,Nebraska,31109.0,78044,433.0
+2352118,2022-03-28,Lancaster,Pennsylvania,42071.0,120684,1875.0
+2352263,2022-03-28,Lancaster,South Carolina,45057.0,25035,277.0
+2352812,2022-03-28,Lancaster,Virginia,51103.0,1791,31.0
+2354793,2022-03-29,Lancaster,Nebraska,31109.0,78065,433.0
+2355371,2022-03-29,Lancaster,Pennsylvania,42071.0,120712,1875.0
+2355516,2022-03-29,Lancaster,South Carolina,45057.0,25046,278.0
+2356065,2022-03-29,Lancaster,Virginia,51103.0,1791,31.0
+2358046,2022-03-30,Lancaster,Nebraska,31109.0,78092,433.0
+2358625,2022-03-30,Lancaster,Pennsylvania,42071.0,120723,1876.0
+2358770,2022-03-30,Lancaster,South Carolina,45057.0,25046,278.0
+2359319,2022-03-30,Lancaster,Virginia,51103.0,1792,31.0
+2361300,2022-03-31,Lancaster,Nebraska,31109.0,78114,433.0
+2361879,2022-03-31,Lancaster,Pennsylvania,42071.0,120748,1876.0
+2362024,2022-03-31,Lancaster,South Carolina,45057.0,25046,278.0
+2362573,2022-03-31,Lancaster,Virginia,51103.0,1793,31.0
+2364554,2022-04-01,Lancaster,Nebraska,31109.0,78114,433.0
+2365132,2022-04-01,Lancaster,Pennsylvania,42071.0,120770,1877.0
+2365277,2022-04-01,Lancaster,South Carolina,45057.0,25046,278.0
+2365826,2022-04-01,Lancaster,Virginia,51103.0,1794,31.0
+2367807,2022-04-02,Lancaster,Nebraska,31109.0,78114,433.0
+2368385,2022-04-02,Lancaster,Pennsylvania,42071.0,120789,1877.0
+2368530,2022-04-02,Lancaster,South Carolina,45057.0,25046,278.0
+2369079,2022-04-02,Lancaster,Virginia,51103.0,1794,31.0
+2371060,2022-04-03,Lancaster,Nebraska,31109.0,78114,433.0
+2371638,2022-04-03,Lancaster,Pennsylvania,42071.0,120789,1877.0
+2371783,2022-04-03,Lancaster,South Carolina,45057.0,25046,278.0
+2372332,2022-04-03,Lancaster,Virginia,51103.0,1794,31.0
+2374312,2022-04-04,Lancaster,Nebraska,31109.0,78114,433.0
+2374890,2022-04-04,Lancaster,Pennsylvania,42071.0,120813,1877.0
+2375035,2022-04-04,Lancaster,South Carolina,45057.0,25046,278.0
+2375584,2022-04-04,Lancaster,Virginia,51103.0,1799,31.0
+2377565,2022-04-05,Lancaster,Nebraska,31109.0,78114,433.0
+2378144,2022-04-05,Lancaster,Pennsylvania,42071.0,120835,1877.0
+2378289,2022-04-05,Lancaster,South Carolina,45057.0,25063,279.0
+2378838,2022-04-05,Lancaster,Virginia,51103.0,1799,31.0
+2380820,2022-04-06,Lancaster,Nebraska,31109.0,78114,433.0
+2381399,2022-04-06,Lancaster,Pennsylvania,42071.0,120864,1877.0
+2381544,2022-04-06,Lancaster,South Carolina,45057.0,25063,279.0
+2382093,2022-04-06,Lancaster,Virginia,51103.0,1799,31.0
+2384075,2022-04-07,Lancaster,Nebraska,31109.0,78114,433.0
+2384654,2022-04-07,Lancaster,Pennsylvania,42071.0,120890,1878.0
+2384799,2022-04-07,Lancaster,South Carolina,45057.0,25063,279.0
+2385348,2022-04-07,Lancaster,Virginia,51103.0,1799,31.0
+2387329,2022-04-08,Lancaster,Nebraska,31109.0,78114,436.0
+2387908,2022-04-08,Lancaster,Pennsylvania,42071.0,120934,1878.0
+2388053,2022-04-08,Lancaster,South Carolina,45057.0,25063,279.0
+2388603,2022-04-08,Lancaster,Virginia,51103.0,1799,31.0
+2390585,2022-04-09,Lancaster,Nebraska,31109.0,78114,436.0
+2391164,2022-04-09,Lancaster,Pennsylvania,42071.0,120966,1878.0
+2391309,2022-04-09,Lancaster,South Carolina,45057.0,25063,279.0
+2391859,2022-04-09,Lancaster,Virginia,51103.0,1799,31.0

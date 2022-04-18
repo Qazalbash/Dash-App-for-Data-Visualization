@@ -1,0 +1,1486 @@
+,date,county,state,fips,cases,deaths
+6069,2020-03-20,St. Croix,Wisconsin,55109.0,2,0.0
+7102,2020-03-21,St. Croix,Wisconsin,55109.0,2,0.0
+8240,2020-03-22,St. Croix,Wisconsin,55109.0,2,0.0
+9466,2020-03-23,St. Croix,Wisconsin,55109.0,3,0.0
+10820,2020-03-24,St. Croix,Wisconsin,55109.0,4,0.0
+12351,2020-03-25,St. Croix,Wisconsin,55109.0,4,0.0
+14006,2020-03-26,St. Croix,Wisconsin,55109.0,4,0.0
+15781,2020-03-27,St. Croix,Wisconsin,55109.0,4,0.0
+17662,2020-03-28,St. Croix,Wisconsin,55109.0,4,0.0
+19631,2020-03-29,St. Croix,Wisconsin,55109.0,4,0.0
+21703,2020-03-30,St. Croix,Wisconsin,55109.0,4,0.0
+23856,2020-03-31,St. Croix,Wisconsin,55109.0,5,0.0
+26077,2020-04-01,St. Croix,Wisconsin,55109.0,6,0.0
+28370,2020-04-02,St. Croix,Wisconsin,55109.0,6,0.0
+30726,2020-04-03,St. Croix,Wisconsin,55109.0,7,0.0
+33129,2020-04-04,St. Croix,Wisconsin,55109.0,7,0.0
+35568,2020-04-05,St. Croix,Wisconsin,55109.0,7,0.0
+37818,2020-04-06,St. Croix,Virgin Islands,78010.0,13,0.0
+38055,2020-04-06,St. Croix,Wisconsin,55109.0,7,0.0
+40348,2020-04-07,St. Croix,Virgin Islands,78010.0,14,0.0
+40597,2020-04-07,St. Croix,Wisconsin,55109.0,7,0.0
+42917,2020-04-08,St. Croix,Virgin Islands,78010.0,14,0.0
+43169,2020-04-08,St. Croix,Wisconsin,55109.0,7,0.0
+45511,2020-04-09,St. Croix,Virgin Islands,78010.0,14,0.0
+45767,2020-04-09,St. Croix,Wisconsin,55109.0,7,0.0
+48135,2020-04-10,St. Croix,Virgin Islands,78010.0,14,0.0
+48396,2020-04-10,St. Croix,Wisconsin,55109.0,7,0.0
+50793,2020-04-11,St. Croix,Virgin Islands,78010.0,14,0.0
+51057,2020-04-11,St. Croix,Wisconsin,55109.0,8,0.0
+53468,2020-04-12,St. Croix,Virgin Islands,78010.0,14,0.0
+53734,2020-04-12,St. Croix,Wisconsin,55109.0,9,0.0
+56157,2020-04-13,St. Croix,Virgin Islands,78010.0,14,0.0
+56425,2020-04-13,St. Croix,Wisconsin,55109.0,10,0.0
+58863,2020-04-14,St. Croix,Virgin Islands,78010.0,14,0.0
+59132,2020-04-14,St. Croix,Wisconsin,55109.0,10,0.0
+61582,2020-04-15,St. Croix,Virgin Islands,78010.0,14,0.0
+61851,2020-04-15,St. Croix,Wisconsin,55109.0,10,0.0
+64314,2020-04-16,St. Croix,Virgin Islands,78010.0,14,0.0
+64584,2020-04-16,St. Croix,Wisconsin,55109.0,11,0.0
+67062,2020-04-17,St. Croix,Virgin Islands,78010.0,15,0.0
+67332,2020-04-17,St. Croix,Wisconsin,55109.0,11,0.0
+69824,2020-04-18,St. Croix,Virgin Islands,78010.0,15,0.0
+70094,2020-04-18,St. Croix,Wisconsin,55109.0,11,0.0
+72594,2020-04-19,St. Croix,Virgin Islands,78010.0,15,0.0
+72863,2020-04-19,St. Croix,Wisconsin,55109.0,11,0.0
+75370,2020-04-20,St. Croix,Virgin Islands,78010.0,16,0.0
+75639,2020-04-20,St. Croix,Wisconsin,55109.0,11,0.0
+78152,2020-04-21,St. Croix,Virgin Islands,78010.0,16,0.0
+78422,2020-04-21,St. Croix,Wisconsin,55109.0,11,0.0
+80944,2020-04-22,St. Croix,Virgin Islands,78010.0,16,0.0
+81215,2020-04-22,St. Croix,Wisconsin,55109.0,12,0.0
+83745,2020-04-23,St. Croix,Virgin Islands,78010.0,16,0.0
+84016,2020-04-23,St. Croix,Wisconsin,55109.0,13,0.0
+86552,2020-04-24,St. Croix,Virgin Islands,78010.0,17,0.0
+86823,2020-04-24,St. Croix,Wisconsin,55109.0,13,0.0
+89367,2020-04-25,St. Croix,Virgin Islands,78010.0,19,0.0
+89639,2020-04-25,St. Croix,Wisconsin,55109.0,13,0.0
+92184,2020-04-26,St. Croix,Virgin Islands,78010.0,20,0.0
+92457,2020-04-26,St. Croix,Wisconsin,55109.0,13,0.0
+95013,2020-04-27,St. Croix,Virgin Islands,78010.0,20,0.0
+95287,2020-04-27,St. Croix,Wisconsin,55109.0,13,0.0
+97855,2020-04-28,St. Croix,Virgin Islands,78010.0,23,0.0
+98132,2020-04-28,St. Croix,Wisconsin,55109.0,13,0.0
+100705,2020-04-29,St. Croix,Virgin Islands,78010.0,27,0.0
+100982,2020-04-29,St. Croix,Wisconsin,55109.0,13,0.0
+103560,2020-04-30,St. Croix,Virgin Islands,78010.0,27,0.0
+103837,2020-04-30,St. Croix,Wisconsin,55109.0,16,0.0
+106424,2020-05-01,St. Croix,Virgin Islands,78010.0,27,0.0
+106702,2020-05-01,St. Croix,Wisconsin,55109.0,16,0.0
+109293,2020-05-02,St. Croix,Virgin Islands,78010.0,27,0.0
+109571,2020-05-02,St. Croix,Wisconsin,55109.0,16,0.0
+112167,2020-05-03,St. Croix,Virgin Islands,78010.0,27,0.0
+112446,2020-05-03,St. Croix,Wisconsin,55109.0,18,0.0
+115050,2020-05-04,St. Croix,Virgin Islands,78010.0,27,0.0
+115329,2020-05-04,St. Croix,Wisconsin,55109.0,20,0.0
+118009,2020-05-05,St. Croix,Virgin Islands,78010.0,27,0.0
+118288,2020-05-05,St. Croix,Wisconsin,55109.0,21,0.0
+120973,2020-05-06,St. Croix,Virgin Islands,78010.0,27,0.0
+121254,2020-05-06,St. Croix,Wisconsin,55109.0,23,0.0
+123954,2020-05-07,St. Croix,Virgin Islands,78010.0,28,0.0
+124234,2020-05-07,St. Croix,Wisconsin,55109.0,23,0.0
+126939,2020-05-08,St. Croix,Virgin Islands,78010.0,29,0.0
+127219,2020-05-08,St. Croix,Wisconsin,55109.0,26,0.0
+129928,2020-05-09,St. Croix,Virgin Islands,78010.0,29,0.0
+130209,2020-05-09,St. Croix,Wisconsin,55109.0,27,0.0
+132918,2020-05-10,St. Croix,Virgin Islands,78010.0,29,0.0
+133199,2020-05-10,St. Croix,Wisconsin,55109.0,27,0.0
+135908,2020-05-11,St. Croix,Virgin Islands,78010.0,29,0.0
+136189,2020-05-11,St. Croix,Wisconsin,55109.0,29,0.0
+138899,2020-05-12,St. Croix,Virgin Islands,78010.0,29,0.0
+139180,2020-05-12,St. Croix,Wisconsin,55109.0,31,0.0
+141895,2020-05-13,St. Croix,Virgin Islands,78010.0,29,0.0
+142176,2020-05-13,St. Croix,Wisconsin,55109.0,36,0.0
+144892,2020-05-14,St. Croix,Virgin Islands,78010.0,29,0.0
+145175,2020-05-14,St. Croix,Wisconsin,55109.0,37,0.0
+147895,2020-05-15,St. Croix,Virgin Islands,78010.0,29,0.0
+148178,2020-05-15,St. Croix,Wisconsin,55109.0,37,0.0
+150904,2020-05-16,St. Croix,Virgin Islands,78010.0,29,0.0
+151187,2020-05-16,St. Croix,Wisconsin,55109.0,39,0.0
+153915,2020-05-17,St. Croix,Virgin Islands,78010.0,29,0.0
+154199,2020-05-17,St. Croix,Wisconsin,55109.0,44,0.0
+156932,2020-05-18,St. Croix,Virgin Islands,78010.0,29,0.0
+157215,2020-05-18,St. Croix,Wisconsin,55109.0,48,0.0
+159956,2020-05-19,St. Croix,Virgin Islands,78010.0,29,0.0
+160239,2020-05-19,St. Croix,Wisconsin,55109.0,48,0.0
+162984,2020-05-20,St. Croix,Virgin Islands,78010.0,29,0.0
+163267,2020-05-20,St. Croix,Wisconsin,55109.0,52,0.0
+166013,2020-05-21,St. Croix,Virgin Islands,78010.0,29,0.0
+166297,2020-05-21,St. Croix,Wisconsin,55109.0,57,0.0
+169049,2020-05-22,St. Croix,Virgin Islands,78010.0,29,0.0
+169333,2020-05-22,St. Croix,Wisconsin,55109.0,58,0.0
+172090,2020-05-23,St. Croix,Virgin Islands,78010.0,29,0.0
+172374,2020-05-23,St. Croix,Wisconsin,55109.0,65,0.0
+175133,2020-05-24,St. Croix,Virgin Islands,78010.0,29,0.0
+175417,2020-05-24,St. Croix,Wisconsin,55109.0,67,0.0
+178178,2020-05-25,St. Croix,Virgin Islands,78010.0,29,0.0
+178462,2020-05-25,St. Croix,Wisconsin,55109.0,68,0.0
+181222,2020-05-26,St. Croix,Virgin Islands,78010.0,29,0.0
+181506,2020-05-26,St. Croix,Wisconsin,55109.0,70,0.0
+184273,2020-05-27,St. Croix,Virgin Islands,78010.0,29,0.0
+184557,2020-05-27,St. Croix,Wisconsin,55109.0,71,0.0
+187330,2020-05-28,St. Croix,Virgin Islands,78010.0,29,0.0
+187614,2020-05-28,St. Croix,Wisconsin,55109.0,74,0.0
+190394,2020-05-29,St. Croix,Virgin Islands,78010.0,29,0.0
+190678,2020-05-29,St. Croix,Wisconsin,55109.0,77,0.0
+193460,2020-05-30,St. Croix,Virgin Islands,78010.0,30,0.0
+193744,2020-05-30,St. Croix,Wisconsin,55109.0,81,0.0
+196530,2020-05-31,St. Croix,Virgin Islands,78010.0,30,0.0
+196814,2020-05-31,St. Croix,Wisconsin,55109.0,86,0.0
+199603,2020-06-01,St. Croix,Virgin Islands,78010.0,30,0.0
+199887,2020-06-01,St. Croix,Wisconsin,55109.0,92,0.0
+202679,2020-06-02,St. Croix,Virgin Islands,78010.0,30,0.0
+202963,2020-06-02,St. Croix,Wisconsin,55109.0,95,0.0
+205758,2020-06-03,St. Croix,Virgin Islands,78010.0,30,0.0
+206042,2020-06-03,St. Croix,Wisconsin,55109.0,97,0.0
+208840,2020-06-04,St. Croix,Virgin Islands,78010.0,30,0.0
+209124,2020-06-04,St. Croix,Wisconsin,55109.0,100,0.0
+211925,2020-06-05,St. Croix,Virgin Islands,78010.0,30,0.0
+212209,2020-06-05,St. Croix,Wisconsin,55109.0,102,0.0
+215012,2020-06-06,St. Croix,Virgin Islands,78010.0,30,0.0
+215296,2020-06-06,St. Croix,Wisconsin,55109.0,105,0.0
+218102,2020-06-07,St. Croix,Virgin Islands,78010.0,30,0.0
+218386,2020-06-07,St. Croix,Wisconsin,55109.0,105,0.0
+221194,2020-06-08,St. Croix,Virgin Islands,78010.0,30,0.0
+221478,2020-06-08,St. Croix,Wisconsin,55109.0,106,0.0
+224290,2020-06-09,St. Croix,Virgin Islands,78010.0,31,0.0
+224574,2020-06-09,St. Croix,Wisconsin,55109.0,107,0.0
+227390,2020-06-10,St. Croix,Virgin Islands,78010.0,31,0.0
+227674,2020-06-10,St. Croix,Wisconsin,55109.0,108,0.0
+230494,2020-06-11,St. Croix,Virgin Islands,78010.0,31,0.0
+230778,2020-06-11,St. Croix,Wisconsin,55109.0,108,0.0
+233599,2020-06-12,St. Croix,Virgin Islands,78010.0,31,0.0
+233883,2020-06-12,St. Croix,Wisconsin,55109.0,110,0.0
+236706,2020-06-13,St. Croix,Virgin Islands,78010.0,31,0.0
+236990,2020-06-13,St. Croix,Wisconsin,55109.0,111,0.0
+239814,2020-06-14,St. Croix,Virgin Islands,78010.0,31,0.0
+240098,2020-06-14,St. Croix,Wisconsin,55109.0,111,0.0
+242925,2020-06-15,St. Croix,Virgin Islands,78010.0,31,0.0
+243209,2020-06-15,St. Croix,Wisconsin,55109.0,111,0.0
+246037,2020-06-16,St. Croix,Virgin Islands,78010.0,31,0.0
+246322,2020-06-16,St. Croix,Wisconsin,55109.0,116,0.0
+249149,2020-06-17,St. Croix,Virgin Islands,78010.0,31,0.0
+249434,2020-06-17,St. Croix,Wisconsin,55109.0,116,0.0
+252264,2020-06-18,St. Croix,Virgin Islands,78010.0,31,0.0
+252549,2020-06-18,St. Croix,Wisconsin,55109.0,119,0.0
+255382,2020-06-19,St. Croix,Virgin Islands,78010.0,31,0.0
+255668,2020-06-19,St. Croix,Wisconsin,55109.0,122,1.0
+258509,2020-06-20,St. Croix,Virgin Islands,78010.0,33,0.0
+258795,2020-06-20,St. Croix,Wisconsin,55109.0,126,1.0
+261636,2020-06-21,St. Croix,Virgin Islands,78010.0,33,0.0
+261922,2020-06-21,St. Croix,Wisconsin,55109.0,128,1.0
+264765,2020-06-22,St. Croix,Virgin Islands,78010.0,33,0.0
+265051,2020-06-22,St. Croix,Wisconsin,55109.0,131,1.0
+267894,2020-06-23,St. Croix,Virgin Islands,78010.0,35,0.0
+268180,2020-06-23,St. Croix,Wisconsin,55109.0,134,1.0
+271028,2020-06-24,St. Croix,Virgin Islands,78010.0,37,0.0
+271314,2020-06-24,St. Croix,Wisconsin,55109.0,135,1.0
+274168,2020-06-25,St. Croix,Virgin Islands,78010.0,37,0.0
+274454,2020-06-25,St. Croix,Wisconsin,55109.0,141,1.0
+277316,2020-06-26,St. Croix,Virgin Islands,78010.0,37,0.0
+277602,2020-06-26,St. Croix,Wisconsin,55109.0,150,1.0
+280464,2020-06-27,St. Croix,Virgin Islands,78010.0,37,0.0
+280750,2020-06-27,St. Croix,Wisconsin,55109.0,155,1.0
+283610,2020-06-28,St. Croix,Virgin Islands,78010.0,37,0.0
+283896,2020-06-28,St. Croix,Wisconsin,55109.0,158,1.0
+286756,2020-06-29,St. Croix,Virgin Islands,78010.0,40,0.0
+287042,2020-06-29,St. Croix,Wisconsin,55109.0,159,1.0
+289906,2020-06-30,St. Croix,Virgin Islands,78010.0,45,0.0
+290192,2020-06-30,St. Croix,Wisconsin,55109.0,164,1.0
+293059,2020-07-01,St. Croix,Virgin Islands,78010.0,46,0.0
+293345,2020-07-01,St. Croix,Wisconsin,55109.0,171,1.0
+296214,2020-07-02,St. Croix,Virgin Islands,78010.0,51,0.0
+296500,2020-07-02,St. Croix,Wisconsin,55109.0,179,1.0
+299376,2020-07-03,St. Croix,Virgin Islands,78010.0,62,0.0
+299662,2020-07-03,St. Croix,Wisconsin,55109.0,191,1.0
+302540,2020-07-04,St. Croix,Virgin Islands,78010.0,63,0.0
+302826,2020-07-04,St. Croix,Wisconsin,55109.0,202,1.0
+305704,2020-07-05,St. Croix,Virgin Islands,78010.0,63,0.0
+305990,2020-07-05,St. Croix,Wisconsin,55109.0,205,1.0
+308872,2020-07-06,St. Croix,Virgin Islands,78010.0,65,0.0
+309159,2020-07-06,St. Croix,Wisconsin,55109.0,218,1.0
+312041,2020-07-07,St. Croix,Virgin Islands,78010.0,71,0.0
+312328,2020-07-07,St. Croix,Wisconsin,55109.0,231,1.0
+315215,2020-07-08,St. Croix,Virgin Islands,78010.0,84,0.0
+315503,2020-07-08,St. Croix,Wisconsin,55109.0,238,1.0
+318388,2020-07-09,St. Croix,Virgin Islands,78010.0,91,0.0
+318676,2020-07-09,St. Croix,Wisconsin,55109.0,243,1.0
+321567,2020-07-10,St. Croix,Virgin Islands,78010.0,102,0.0
+321855,2020-07-10,St. Croix,Wisconsin,55109.0,257,1.0
+324748,2020-07-11,St. Croix,Virgin Islands,78010.0,114,0.0
+325036,2020-07-11,St. Croix,Wisconsin,55109.0,263,2.0
+327933,2020-07-12,St. Croix,Virgin Islands,78010.0,138,0.0
+328222,2020-07-12,St. Croix,Wisconsin,55109.0,280,2.0
+331119,2020-07-13,St. Croix,Virgin Islands,78010.0,148,0.0
+331408,2020-07-13,St. Croix,Wisconsin,55109.0,288,2.0
+334312,2020-07-14,St. Croix,Virgin Islands,78010.0,164,0.0
+334601,2020-07-14,St. Croix,Wisconsin,55109.0,294,2.0
+337507,2020-07-15,St. Croix,Virgin Islands,78010.0,166,0.0
+337796,2020-07-15,St. Croix,Wisconsin,55109.0,297,2.0
+340703,2020-07-16,St. Croix,Virgin Islands,78010.0,169,0.0
+340992,2020-07-16,St. Croix,Wisconsin,55109.0,310,2.0
+343902,2020-07-17,St. Croix,Virgin Islands,78010.0,183,0.0
+344191,2020-07-17,St. Croix,Wisconsin,55109.0,316,2.0
+347102,2020-07-18,St. Croix,Virgin Islands,78010.0,195,0.0
+347391,2020-07-18,St. Croix,Wisconsin,55109.0,325,2.0
+350303,2020-07-19,St. Croix,Virgin Islands,78010.0,195,0.0
+350592,2020-07-19,St. Croix,Wisconsin,55109.0,329,2.0
+353505,2020-07-20,St. Croix,Virgin Islands,78010.0,199,0.0
+353794,2020-07-20,St. Croix,Wisconsin,55109.0,333,2.0
+356708,2020-07-21,St. Croix,Virgin Islands,78010.0,199,0.0
+356997,2020-07-21,St. Croix,Wisconsin,55109.0,337,2.0
+359913,2020-07-22,St. Croix,Virgin Islands,78010.0,215,0.0
+360202,2020-07-22,St. Croix,Wisconsin,55109.0,346,2.0
+363120,2020-07-23,St. Croix,Virgin Islands,78010.0,216,4.0
+363408,2020-07-23,St. Croix,Wisconsin,55109.0,356,2.0
+366326,2020-07-24,St. Croix,Virgin Islands,78010.0,223,4.0
+366615,2020-07-24,St. Croix,Wisconsin,55109.0,375,2.0
+369535,2020-07-25,St. Croix,Virgin Islands,78010.0,223,4.0
+369825,2020-07-25,St. Croix,Wisconsin,55109.0,386,2.0
+372747,2020-07-26,St. Croix,Virgin Islands,78010.0,230,4.0
+373037,2020-07-26,St. Croix,Wisconsin,55109.0,390,2.0
+375961,2020-07-27,St. Croix,Virgin Islands,78010.0,238,4.0
+376251,2020-07-27,St. Croix,Wisconsin,55109.0,398,2.0
+379177,2020-07-28,St. Croix,Virgin Islands,78010.0,238,4.0
+379467,2020-07-28,St. Croix,Wisconsin,55109.0,400,2.0
+382394,2020-07-29,St. Croix,Virgin Islands,78010.0,246,4.0
+382684,2020-07-29,St. Croix,Wisconsin,55109.0,424,2.0
+385612,2020-07-30,St. Croix,Virgin Islands,78010.0,246,4.0
+385902,2020-07-30,St. Croix,Wisconsin,55109.0,433,2.0
+388829,2020-07-31,St. Croix,Virgin Islands,78010.0,256,4.0
+389119,2020-07-31,St. Croix,Wisconsin,55109.0,439,2.0
+392046,2020-08-01,St. Croix,Virgin Islands,78010.0,257,4.0
+392336,2020-08-01,St. Croix,Wisconsin,55109.0,442,2.0
+395262,2020-08-02,St. Croix,Virgin Islands,78010.0,257,4.0
+395552,2020-08-02,St. Croix,Wisconsin,55109.0,447,2.0
+398478,2020-08-03,St. Croix,Virgin Islands,78010.0,266,4.0
+398768,2020-08-03,St. Croix,Wisconsin,55109.0,452,2.0
+401694,2020-08-04,St. Croix,Virgin Islands,78010.0,283,4.0
+401984,2020-08-04,St. Croix,Wisconsin,55109.0,457,2.0
+404912,2020-08-05,St. Croix,Virgin Islands,78010.0,290,5.0
+405202,2020-08-05,St. Croix,Wisconsin,55109.0,470,2.0
+408132,2020-08-06,St. Croix,Virgin Islands,78010.0,293,5.0
+408422,2020-08-06,St. Croix,Wisconsin,55109.0,476,4.0
+411351,2020-08-07,St. Croix,Virgin Islands,78010.0,294,5.0
+411641,2020-08-07,St. Croix,Wisconsin,55109.0,491,7.0
+414571,2020-08-08,St. Croix,Virgin Islands,78010.0,294,5.0
+414861,2020-08-08,St. Croix,Wisconsin,55109.0,491,7.0
+417792,2020-08-09,St. Croix,Virgin Islands,78010.0,294,5.0
+418082,2020-08-09,St. Croix,Wisconsin,55109.0,493,7.0
+421013,2020-08-10,St. Croix,Virgin Islands,78010.0,300,5.0
+421303,2020-08-10,St. Croix,Wisconsin,55109.0,502,7.0
+424234,2020-08-11,St. Croix,Virgin Islands,78010.0,305,5.0
+424524,2020-08-11,St. Croix,Wisconsin,55109.0,512,7.0
+427458,2020-08-12,St. Croix,Virgin Islands,78010.0,305,5.0
+427748,2020-08-12,St. Croix,Wisconsin,55109.0,518,7.0
+430686,2020-08-13,St. Croix,Virgin Islands,78010.0,319,5.0
+430976,2020-08-13,St. Croix,Wisconsin,55109.0,530,7.0
+433911,2020-08-14,St. Croix,Virgin Islands,78010.0,326,5.0
+434201,2020-08-14,St. Croix,Wisconsin,55109.0,530,7.0
+437137,2020-08-15,St. Croix,Virgin Islands,78010.0,326,5.0
+437427,2020-08-15,St. Croix,Wisconsin,55109.0,534,7.0
+440363,2020-08-16,St. Croix,Virgin Islands,78010.0,325,5.0
+440653,2020-08-16,St. Croix,Wisconsin,55109.0,536,7.0
+443589,2020-08-17,St. Croix,Virgin Islands,78010.0,325,5.0
+443879,2020-08-17,St. Croix,Wisconsin,55109.0,552,7.0
+446816,2020-08-18,St. Croix,Virgin Islands,78010.0,335,5.0
+447106,2020-08-18,St. Croix,Wisconsin,55109.0,557,7.0
+450044,2020-08-19,St. Croix,Virgin Islands,78010.0,343,5.0
+450334,2020-08-19,St. Croix,Wisconsin,55109.0,559,7.0
+453272,2020-08-20,St. Croix,Virgin Islands,78010.0,359,5.0
+453562,2020-08-20,St. Croix,Wisconsin,55109.0,569,7.0
+456500,2020-08-21,St. Croix,Virgin Islands,78010.0,380,5.0
+456790,2020-08-21,St. Croix,Wisconsin,55109.0,575,7.0
+459727,2020-08-22,St. Croix,Virgin Islands,78010.0,380,5.0
+460017,2020-08-22,St. Croix,Wisconsin,55109.0,575,7.0
+462956,2020-08-23,St. Croix,Virgin Islands,78010.0,387,5.0
+463246,2020-08-23,St. Croix,Wisconsin,55109.0,590,7.0
+466185,2020-08-24,St. Croix,Virgin Islands,78010.0,394,5.0
+466475,2020-08-24,St. Croix,Wisconsin,55109.0,602,7.0
+469414,2020-08-25,St. Croix,Virgin Islands,78010.0,398,5.0
+469704,2020-08-25,St. Croix,Wisconsin,55109.0,618,7.0
+472646,2020-08-26,St. Croix,Virgin Islands,78010.0,398,5.0
+472936,2020-08-26,St. Croix,Wisconsin,55109.0,624,7.0
+475879,2020-08-27,St. Croix,Virgin Islands,78010.0,413,5.0
+476169,2020-08-27,St. Croix,Wisconsin,55109.0,631,7.0
+479112,2020-08-28,St. Croix,Virgin Islands,78010.0,413,5.0
+479402,2020-08-28,St. Croix,Wisconsin,55109.0,640,7.0
+482346,2020-08-29,St. Croix,Virgin Islands,78010.0,421,5.0
+482636,2020-08-29,St. Croix,Wisconsin,55109.0,640,7.0
+485581,2020-08-30,St. Croix,Virgin Islands,78010.0,422,5.0
+485871,2020-08-30,St. Croix,Wisconsin,55109.0,640,7.0
+488814,2020-08-31,St. Croix,Virgin Islands,78010.0,422,5.0
+489104,2020-08-31,St. Croix,Wisconsin,55109.0,655,7.0
+492047,2020-09-01,St. Croix,Virgin Islands,78010.0,423,5.0
+492337,2020-09-01,St. Croix,Wisconsin,55109.0,658,7.0
+495281,2020-09-02,St. Croix,Virgin Islands,78010.0,423,5.0
+495571,2020-09-02,St. Croix,Wisconsin,55109.0,658,7.0
+498514,2020-09-03,St. Croix,Virgin Islands,78010.0,425,5.0
+498804,2020-09-03,St. Croix,Wisconsin,55109.0,677,7.0
+501748,2020-09-04,St. Croix,Virgin Islands,78010.0,425,5.0
+502038,2020-09-04,St. Croix,Wisconsin,55109.0,722,7.0
+504982,2020-09-05,St. Croix,Virgin Islands,78010.0,428,5.0
+505272,2020-09-05,St. Croix,Wisconsin,55109.0,729,7.0
+508214,2020-09-06,St. Croix,Virgin Islands,78010.0,430,5.0
+508504,2020-09-06,St. Croix,Wisconsin,55109.0,734,7.0
+511447,2020-09-07,St. Croix,Virgin Islands,78010.0,435,5.0
+511737,2020-09-07,St. Croix,Wisconsin,55109.0,736,7.0
+514680,2020-09-08,St. Croix,Virgin Islands,78010.0,435,6.0
+514970,2020-09-08,St. Croix,Wisconsin,55109.0,738,7.0
+517915,2020-09-09,St. Croix,Virgin Islands,78010.0,436,6.0
+518205,2020-09-09,St. Croix,Wisconsin,55109.0,747,7.0
+521152,2020-09-10,St. Croix,Virgin Islands,78010.0,437,6.0
+521442,2020-09-10,St. Croix,Wisconsin,55109.0,760,7.0
+524388,2020-09-11,St. Croix,Virgin Islands,78010.0,437,6.0
+524678,2020-09-11,St. Croix,Wisconsin,55109.0,766,7.0
+527624,2020-09-12,St. Croix,Virgin Islands,78010.0,441,6.0
+527914,2020-09-12,St. Croix,Wisconsin,55109.0,770,7.0
+530861,2020-09-13,St. Croix,Virgin Islands,78010.0,441,6.0
+531151,2020-09-13,St. Croix,Wisconsin,55109.0,777,7.0
+534096,2020-09-14,St. Croix,Virgin Islands,78010.0,441,6.0
+534386,2020-09-14,St. Croix,Wisconsin,55109.0,784,7.0
+537332,2020-09-15,St. Croix,Virgin Islands,78010.0,443,6.0
+537622,2020-09-15,St. Croix,Wisconsin,55109.0,793,7.0
+540569,2020-09-16,St. Croix,Virgin Islands,78010.0,443,6.0
+540859,2020-09-16,St. Croix,Wisconsin,55109.0,802,7.0
+543805,2020-09-17,St. Croix,Virgin Islands,78010.0,444,6.0
+544095,2020-09-17,St. Croix,Wisconsin,55109.0,820,8.0
+547042,2020-09-18,St. Croix,Virgin Islands,78010.0,458,6.0
+547332,2020-09-18,St. Croix,Wisconsin,55109.0,833,8.0
+550281,2020-09-19,St. Croix,Virgin Islands,78010.0,458,6.0
+550571,2020-09-19,St. Croix,Wisconsin,55109.0,858,8.0
+553520,2020-09-20,St. Croix,Virgin Islands,78010.0,460,6.0
+553810,2020-09-20,St. Croix,Wisconsin,55109.0,870,8.0
+556757,2020-09-21,St. Croix,Virgin Islands,78010.0,460,6.0
+557047,2020-09-21,St. Croix,Wisconsin,55109.0,893,8.0
+559993,2020-09-22,St. Croix,Virgin Islands,78010.0,465,6.0
+560283,2020-09-22,St. Croix,Wisconsin,55109.0,901,8.0
+563232,2020-09-23,St. Croix,Virgin Islands,78010.0,475,6.0
+563522,2020-09-23,St. Croix,Wisconsin,55109.0,922,8.0
+566473,2020-09-24,St. Croix,Virgin Islands,78010.0,475,6.0
+566763,2020-09-24,St. Croix,Wisconsin,55109.0,931,8.0
+569714,2020-09-25,St. Croix,Virgin Islands,78010.0,481,6.0
+570004,2020-09-25,St. Croix,Wisconsin,55109.0,949,8.0
+572956,2020-09-26,St. Croix,Virgin Islands,78010.0,495,6.0
+573246,2020-09-26,St. Croix,Wisconsin,55109.0,966,8.0
+576200,2020-09-27,St. Croix,Virgin Islands,78010.0,495,6.0
+576490,2020-09-27,St. Croix,Wisconsin,55109.0,978,8.0
+579441,2020-09-28,St. Croix,Virgin Islands,78010.0,494,6.0
+579731,2020-09-28,St. Croix,Wisconsin,55109.0,997,8.0
+582680,2020-09-29,St. Croix,Virgin Islands,78010.0,494,6.0
+582970,2020-09-29,St. Croix,Wisconsin,55109.0,1011,8.0
+585920,2020-09-30,St. Croix,Virgin Islands,78010.0,494,6.0
+586210,2020-09-30,St. Croix,Wisconsin,55109.0,1024,9.0
+589161,2020-10-01,St. Croix,Virgin Islands,78010.0,496,6.0
+589451,2020-10-01,St. Croix,Wisconsin,55109.0,1045,9.0
+592401,2020-10-02,St. Croix,Virgin Islands,78010.0,496,6.0
+592691,2020-10-02,St. Croix,Wisconsin,55109.0,1069,9.0
+595643,2020-10-03,St. Croix,Virgin Islands,78010.0,495,6.0
+595933,2020-10-03,St. Croix,Wisconsin,55109.0,1096,9.0
+598886,2020-10-04,St. Croix,Virgin Islands,78010.0,495,6.0
+599176,2020-10-04,St. Croix,Wisconsin,55109.0,1121,9.0
+602129,2020-10-05,St. Croix,Virgin Islands,78010.0,489,6.0
+602419,2020-10-05,St. Croix,Wisconsin,55109.0,1134,9.0
+605371,2020-10-06,St. Croix,Virgin Islands,78010.0,488,6.0
+605661,2020-10-06,St. Croix,Wisconsin,55109.0,1149,9.0
+608614,2020-10-07,St. Croix,Virgin Islands,78010.0,488,6.0
+608904,2020-10-07,St. Croix,Wisconsin,55109.0,1167,9.0
+611856,2020-10-08,St. Croix,Virgin Islands,78010.0,489,6.0
+612146,2020-10-08,St. Croix,Wisconsin,55109.0,1197,9.0
+615097,2020-10-09,St. Croix,Virgin Islands,78010.0,489,6.0
+615387,2020-10-09,St. Croix,Wisconsin,55109.0,1232,9.0
+618339,2020-10-10,St. Croix,Virgin Islands,78010.0,489,6.0
+618629,2020-10-10,St. Croix,Wisconsin,55109.0,1247,9.0
+621582,2020-10-11,St. Croix,Virgin Islands,78010.0,489,6.0
+621872,2020-10-11,St. Croix,Wisconsin,55109.0,1289,9.0
+624825,2020-10-12,St. Croix,Virgin Islands,78010.0,489,6.0
+625115,2020-10-12,St. Croix,Wisconsin,55109.0,1320,9.0
+628068,2020-10-13,St. Croix,Virgin Islands,78010.0,491,6.0
+628358,2020-10-13,St. Croix,Wisconsin,55109.0,1359,9.0
+631312,2020-10-14,St. Croix,Virgin Islands,78010.0,491,6.0
+631602,2020-10-14,St. Croix,Wisconsin,55109.0,1389,9.0
+634557,2020-10-15,St. Croix,Virgin Islands,78010.0,491,6.0
+634847,2020-10-15,St. Croix,Wisconsin,55109.0,1417,9.0
+637802,2020-10-16,St. Croix,Virgin Islands,78010.0,491,6.0
+638092,2020-10-16,St. Croix,Wisconsin,55109.0,1463,9.0
+641049,2020-10-17,St. Croix,Virgin Islands,78010.0,496,6.0
+641339,2020-10-17,St. Croix,Wisconsin,55109.0,1463,9.0
+644297,2020-10-18,St. Croix,Virgin Islands,78010.0,496,6.0
+644587,2020-10-18,St. Croix,Wisconsin,55109.0,1463,9.0
+647543,2020-10-19,St. Croix,Virgin Islands,78010.0,496,6.0
+647833,2020-10-19,St. Croix,Wisconsin,55109.0,1511,10.0
+650787,2020-10-20,St. Croix,Virgin Islands,78010.0,496,6.0
+651077,2020-10-20,St. Croix,Wisconsin,55109.0,1555,10.0
+654032,2020-10-21,St. Croix,Virgin Islands,78010.0,496,6.0
+654322,2020-10-21,St. Croix,Wisconsin,55109.0,1634,10.0
+657277,2020-10-22,St. Croix,Virgin Islands,78010.0,500,6.0
+657567,2020-10-22,St. Croix,Wisconsin,55109.0,1667,11.0
+660521,2020-10-23,St. Croix,Virgin Islands,78010.0,502,6.0
+660811,2020-10-23,St. Croix,Wisconsin,55109.0,1698,11.0
+663765,2020-10-24,St. Croix,Virgin Islands,78010.0,502,6.0
+664055,2020-10-24,St. Croix,Wisconsin,55109.0,1759,11.0
+667010,2020-10-25,St. Croix,Virgin Islands,78010.0,502,6.0
+667300,2020-10-25,St. Croix,Wisconsin,55109.0,1786,11.0
+670253,2020-10-26,St. Croix,Virgin Islands,78010.0,502,6.0
+670543,2020-10-26,St. Croix,Wisconsin,55109.0,1868,11.0
+673495,2020-10-27,St. Croix,Virgin Islands,78010.0,504,6.0
+673785,2020-10-27,St. Croix,Wisconsin,55109.0,1899,11.0
+676738,2020-10-28,St. Croix,Virgin Islands,78010.0,504,6.0
+677028,2020-10-28,St. Croix,Wisconsin,55109.0,1952,11.0
+679981,2020-10-29,St. Croix,Virgin Islands,78010.0,504,6.0
+680271,2020-10-29,St. Croix,Wisconsin,55109.0,2013,11.0
+683224,2020-10-30,St. Croix,Virgin Islands,78010.0,506,6.0
+683514,2020-10-30,St. Croix,Wisconsin,55109.0,2074,11.0
+686467,2020-10-31,St. Croix,Virgin Islands,78010.0,512,6.0
+686757,2020-10-31,St. Croix,Wisconsin,55109.0,2155,11.0
+689712,2020-11-01,St. Croix,Virgin Islands,78010.0,512,6.0
+690002,2020-11-01,St. Croix,Wisconsin,55109.0,2201,11.0
+692956,2020-11-02,St. Croix,Virgin Islands,78010.0,512,6.0
+693246,2020-11-02,St. Croix,Wisconsin,55109.0,2291,12.0
+696198,2020-11-03,St. Croix,Virgin Islands,78010.0,519,7.0
+696488,2020-11-03,St. Croix,Wisconsin,55109.0,2357,12.0
+699442,2020-11-04,St. Croix,Virgin Islands,78010.0,521,7.0
+699732,2020-11-04,St. Croix,Wisconsin,55109.0,2438,14.0
+702685,2020-11-05,St. Croix,Virgin Islands,78010.0,521,7.0
+702975,2020-11-05,St. Croix,Wisconsin,55109.0,2485,14.0
+705928,2020-11-06,St. Croix,Virgin Islands,78010.0,521,7.0
+706218,2020-11-06,St. Croix,Wisconsin,55109.0,2576,14.0
+709172,2020-11-07,St. Croix,Virgin Islands,78010.0,533,7.0
+709462,2020-11-07,St. Croix,Wisconsin,55109.0,2657,14.0
+712416,2020-11-08,St. Croix,Virgin Islands,78010.0,533,7.0
+712706,2020-11-08,St. Croix,Wisconsin,55109.0,2742,14.0
+715660,2020-11-09,St. Croix,Virgin Islands,78010.0,533,7.0
+715950,2020-11-09,St. Croix,Wisconsin,55109.0,2834,16.0
+718903,2020-11-10,St. Croix,Virgin Islands,78010.0,540,7.0
+719193,2020-11-10,St. Croix,Wisconsin,55109.0,2949,16.0
+722146,2020-11-11,St. Croix,Virgin Islands,78010.0,540,7.0
+722436,2020-11-11,St. Croix,Wisconsin,55109.0,3072,17.0
+725389,2020-11-12,St. Croix,Virgin Islands,78010.0,540,7.0
+725679,2020-11-12,St. Croix,Wisconsin,55109.0,3201,18.0
+728632,2020-11-13,St. Croix,Virgin Islands,78010.0,546,7.0
+728922,2020-11-13,St. Croix,Wisconsin,55109.0,3306,18.0
+731877,2020-11-14,St. Croix,Virgin Islands,78010.0,549,7.0
+732167,2020-11-14,St. Croix,Wisconsin,55109.0,3368,18.0
+735123,2020-11-15,St. Croix,Virgin Islands,78010.0,549,7.0
+735413,2020-11-15,St. Croix,Wisconsin,55109.0,3483,18.0
+738367,2020-11-16,St. Croix,Virgin Islands,78010.0,549,7.0
+738657,2020-11-16,St. Croix,Wisconsin,55109.0,3589,18.0
+741614,2020-11-17,St. Croix,Virgin Islands,78010.0,558,7.0
+741904,2020-11-17,St. Croix,Wisconsin,55109.0,3667,19.0
+744861,2020-11-18,St. Croix,Virgin Islands,78010.0,565,7.0
+745151,2020-11-18,St. Croix,Wisconsin,55109.0,3770,19.0
+748107,2020-11-19,St. Croix,Virgin Islands,78010.0,568,7.0
+748397,2020-11-19,St. Croix,Wisconsin,55109.0,3886,19.0
+751353,2020-11-20,St. Croix,Virgin Islands,78010.0,572,7.0
+751643,2020-11-20,St. Croix,Wisconsin,55109.0,3990,19.0
+754599,2020-11-21,St. Croix,Virgin Islands,78010.0,574,7.0
+754889,2020-11-21,St. Croix,Wisconsin,55109.0,4074,19.0
+757846,2020-11-22,St. Croix,Virgin Islands,78010.0,577,7.0
+758136,2020-11-22,St. Croix,Wisconsin,55109.0,4170,19.0
+761091,2020-11-23,St. Croix,Virgin Islands,78010.0,578,7.0
+761381,2020-11-23,St. Croix,Wisconsin,55109.0,4240,19.0
+764336,2020-11-24,St. Croix,Virgin Islands,78010.0,585,7.0
+764626,2020-11-24,St. Croix,Wisconsin,55109.0,4290,20.0
+767581,2020-11-25,St. Croix,Virgin Islands,78010.0,585,7.0
+767871,2020-11-25,St. Croix,Wisconsin,55109.0,4337,20.0
+770827,2020-11-26,St. Croix,Virgin Islands,78010.0,585,7.0
+771117,2020-11-26,St. Croix,Wisconsin,55109.0,4387,20.0
+774072,2020-11-27,St. Croix,Virgin Islands,78010.0,585,7.0
+774362,2020-11-27,St. Croix,Wisconsin,55109.0,4387,20.0
+777317,2020-11-28,St. Croix,Virgin Islands,78010.0,590,7.0
+777607,2020-11-28,St. Croix,Wisconsin,55109.0,4476,20.0
+780563,2020-11-29,St. Croix,Virgin Islands,78010.0,590,7.0
+780853,2020-11-29,St. Croix,Wisconsin,55109.0,4530,20.0
+783808,2020-11-30,St. Croix,Virgin Islands,78010.0,590,7.0
+784098,2020-11-30,St. Croix,Wisconsin,55109.0,4562,21.0
+787052,2020-12-01,St. Croix,Virgin Islands,78010.0,593,7.0
+787342,2020-12-01,St. Croix,Wisconsin,55109.0,4636,21.0
+790297,2020-12-02,St. Croix,Virgin Islands,78010.0,605,7.0
+790587,2020-12-02,St. Croix,Wisconsin,55109.0,4685,21.0
+793542,2020-12-03,St. Croix,Virgin Islands,78010.0,605,7.0
+793832,2020-12-03,St. Croix,Wisconsin,55109.0,4790,22.0
+796787,2020-12-04,St. Croix,Virgin Islands,78010.0,609,7.0
+797077,2020-12-04,St. Croix,Wisconsin,55109.0,4844,22.0
+800032,2020-12-05,St. Croix,Virgin Islands,78010.0,609,7.0
+800322,2020-12-05,St. Croix,Wisconsin,55109.0,4893,22.0
+803277,2020-12-06,St. Croix,Virgin Islands,78010.0,609,7.0
+803567,2020-12-06,St. Croix,Wisconsin,55109.0,4969,22.0
+806522,2020-12-07,St. Croix,Virgin Islands,78010.0,620,7.0
+806812,2020-12-07,St. Croix,Wisconsin,55109.0,5040,22.0
+809767,2020-12-08,St. Croix,Virgin Islands,78010.0,633,7.0
+810057,2020-12-08,St. Croix,Wisconsin,55109.0,5119,22.0
+813011,2020-12-09,St. Croix,Virgin Islands,78010.0,642,7.0
+813301,2020-12-09,St. Croix,Wisconsin,55109.0,5153,22.0
+816257,2020-12-10,St. Croix,Virgin Islands,78010.0,667,7.0
+816547,2020-12-10,St. Croix,Wisconsin,55109.0,5237,22.0
+819503,2020-12-11,St. Croix,Virgin Islands,78010.0,697,7.0
+819793,2020-12-11,St. Croix,Wisconsin,55109.0,5427,22.0
+822749,2020-12-12,St. Croix,Virgin Islands,78010.0,697,7.0
+823039,2020-12-12,St. Croix,Wisconsin,55109.0,5503,22.0
+825996,2020-12-13,St. Croix,Virgin Islands,78010.0,697,7.0
+826286,2020-12-13,St. Croix,Wisconsin,55109.0,5578,22.0
+829242,2020-12-14,St. Croix,Virgin Islands,78010.0,705,7.0
+829532,2020-12-14,St. Croix,Wisconsin,55109.0,5626,22.0
+832489,2020-12-15,St. Croix,Virgin Islands,78010.0,715,7.0
+832779,2020-12-15,St. Croix,Wisconsin,55109.0,5707,22.0
+835735,2020-12-16,St. Croix,Virgin Islands,78010.0,715,7.0
+836025,2020-12-16,St. Croix,Wisconsin,55109.0,5793,22.0
+838981,2020-12-17,St. Croix,Virgin Islands,78010.0,753,7.0
+839270,2020-12-17,St. Croix,Wisconsin,55109.0,5828,23.0
+842226,2020-12-18,St. Croix,Virgin Islands,78010.0,762,7.0
+842515,2020-12-18,St. Croix,Wisconsin,55109.0,5914,23.0
+845472,2020-12-19,St. Croix,Virgin Islands,78010.0,769,7.0
+845761,2020-12-19,St. Croix,Wisconsin,55109.0,6022,23.0
+848717,2020-12-20,St. Croix,Virgin Islands,78010.0,777,7.0
+849006,2020-12-20,St. Croix,Wisconsin,55109.0,6104,24.0
+851962,2020-12-21,St. Croix,Virgin Islands,78010.0,777,7.0
+852251,2020-12-21,St. Croix,Wisconsin,55109.0,6149,25.0
+855207,2020-12-22,St. Croix,Virgin Islands,78010.0,782,7.0
+855496,2020-12-22,St. Croix,Wisconsin,55109.0,6209,27.0
+858452,2020-12-23,St. Croix,Virgin Islands,78010.0,794,7.0
+858741,2020-12-23,St. Croix,Wisconsin,55109.0,6259,27.0
+861697,2020-12-24,St. Croix,Virgin Islands,78010.0,799,7.0
+861986,2020-12-24,St. Croix,Wisconsin,55109.0,6293,28.0
+864942,2020-12-25,St. Croix,Virgin Islands,78010.0,809,7.0
+865231,2020-12-25,St. Croix,Wisconsin,55109.0,6294,28.0
+868187,2020-12-26,St. Croix,Virgin Islands,78010.0,809,7.0
+868476,2020-12-26,St. Croix,Wisconsin,55109.0,6330,28.0
+871432,2020-12-27,St. Croix,Virgin Islands,78010.0,809,7.0
+871721,2020-12-27,St. Croix,Wisconsin,55109.0,6396,28.0
+874677,2020-12-28,St. Croix,Virgin Islands,78010.0,809,7.0
+874966,2020-12-28,St. Croix,Wisconsin,55109.0,6408,28.0
+877922,2020-12-29,St. Croix,Virgin Islands,78010.0,809,7.0
+878211,2020-12-29,St. Croix,Wisconsin,55109.0,6461,28.0
+881167,2020-12-30,St. Croix,Virgin Islands,78010.0,822,7.0
+881456,2020-12-30,St. Croix,Wisconsin,55109.0,6505,28.0
+884412,2020-12-31,St. Croix,Virgin Islands,78010.0,829,7.0
+884701,2020-12-31,St. Croix,Wisconsin,55109.0,6547,28.0
+887657,2021-01-01,St. Croix,Virgin Islands,78010.0,830,7.0
+887946,2021-01-01,St. Croix,Wisconsin,55109.0,6591,28.0
+890904,2021-01-02,St. Croix,Virgin Islands,78010.0,835,7.0
+891193,2021-01-02,St. Croix,Wisconsin,55109.0,6603,28.0
+894150,2021-01-03,St. Croix,Virgin Islands,78010.0,835,7.0
+894439,2021-01-03,St. Croix,Wisconsin,55109.0,6625,29.0
+897396,2021-01-04,St. Croix,Virgin Islands,78010.0,835,7.0
+897685,2021-01-04,St. Croix,Wisconsin,55109.0,6639,29.0
+900641,2021-01-05,St. Croix,Virgin Islands,78010.0,835,7.0
+900930,2021-01-05,St. Croix,Wisconsin,55109.0,6684,29.0
+903886,2021-01-06,St. Croix,Virgin Islands,78010.0,835,7.0
+904175,2021-01-06,St. Croix,Wisconsin,55109.0,6764,30.0
+907132,2021-01-07,St. Croix,Virgin Islands,78010.0,835,7.0
+907421,2021-01-07,St. Croix,Wisconsin,55109.0,6829,31.0
+910377,2021-01-08,St. Croix,Virgin Islands,78010.0,835,7.0
+910666,2021-01-08,St. Croix,Wisconsin,55109.0,6875,34.0
+913622,2021-01-09,St. Croix,Virgin Islands,78010.0,835,7.0
+913911,2021-01-09,St. Croix,Wisconsin,55109.0,6918,34.0
+916867,2021-01-10,St. Croix,Virgin Islands,78010.0,835,7.0
+917156,2021-01-10,St. Croix,Wisconsin,55109.0,6945,34.0
+920112,2021-01-11,St. Croix,Virgin Islands,78010.0,835,7.0
+920401,2021-01-11,St. Croix,Wisconsin,55109.0,6971,34.0
+923357,2021-01-12,St. Croix,Virgin Islands,78010.0,892,8.0
+923646,2021-01-12,St. Croix,Wisconsin,55109.0,7015,34.0
+926603,2021-01-13,St. Croix,Virgin Islands,78010.0,892,8.0
+926892,2021-01-13,St. Croix,Wisconsin,55109.0,7059,34.0
+929848,2021-01-14,St. Croix,Virgin Islands,78010.0,892,8.0
+930137,2021-01-14,St. Croix,Wisconsin,55109.0,7080,35.0
+933093,2021-01-15,St. Croix,Virgin Islands,78010.0,892,8.0
+933382,2021-01-15,St. Croix,Wisconsin,55109.0,7129,36.0
+936338,2021-01-16,St. Croix,Virgin Islands,78010.0,892,8.0
+936627,2021-01-16,St. Croix,Wisconsin,55109.0,7164,37.0
+939583,2021-01-17,St. Croix,Virgin Islands,78010.0,942,8.0
+939872,2021-01-17,St. Croix,Wisconsin,55109.0,7190,37.0
+942828,2021-01-18,St. Croix,Virgin Islands,78010.0,942,8.0
+943117,2021-01-18,St. Croix,Wisconsin,55109.0,7211,37.0
+946075,2021-01-19,St. Croix,Virgin Islands,78010.0,957,8.0
+946364,2021-01-19,St. Croix,Wisconsin,55109.0,7249,37.0
+949321,2021-01-20,St. Croix,Virgin Islands,78010.0,964,8.0
+949610,2021-01-20,St. Croix,Wisconsin,55109.0,7283,38.0
+952566,2021-01-21,St. Croix,Virgin Islands,78010.0,964,8.0
+952855,2021-01-21,St. Croix,Wisconsin,55109.0,7331,39.0
+955811,2021-01-22,St. Croix,Virgin Islands,78010.0,971,8.0
+956100,2021-01-22,St. Croix,Wisconsin,55109.0,7362,41.0
+959057,2021-01-23,St. Croix,Virgin Islands,78010.0,983,8.0
+959346,2021-01-23,St. Croix,Wisconsin,55109.0,7399,41.0
+962302,2021-01-24,St. Croix,Virgin Islands,78010.0,983,8.0
+962591,2021-01-24,St. Croix,Wisconsin,55109.0,7430,42.0
+965547,2021-01-25,St. Croix,Virgin Islands,78010.0,991,8.0
+965836,2021-01-25,St. Croix,Wisconsin,55109.0,7451,43.0
+968791,2021-01-26,St. Croix,Virgin Islands,78010.0,1000,8.0
+969080,2021-01-26,St. Croix,Wisconsin,55109.0,7476,44.0
+972036,2021-01-27,St. Croix,Virgin Islands,78010.0,1000,8.0
+972325,2021-01-27,St. Croix,Wisconsin,55109.0,7508,44.0
+975281,2021-01-28,St. Croix,Virgin Islands,78010.0,1007,8.0
+975570,2021-01-28,St. Croix,Wisconsin,55109.0,7558,44.0
+978526,2021-01-29,St. Croix,Virgin Islands,78010.0,1012,8.0
+978815,2021-01-29,St. Croix,Wisconsin,55109.0,7589,44.0
+981772,2021-01-30,St. Croix,Virgin Islands,78010.0,1012,8.0
+982061,2021-01-30,St. Croix,Wisconsin,55109.0,7610,45.0
+985019,2021-01-31,St. Croix,Virgin Islands,78010.0,1012,8.0
+985308,2021-01-31,St. Croix,Wisconsin,55109.0,7628,45.0
+988266,2021-02-01,St. Croix,Virgin Islands,78010.0,1021,8.0
+988555,2021-02-01,St. Croix,Wisconsin,55109.0,7637,45.0
+991512,2021-02-02,St. Croix,Virgin Islands,78010.0,1025,8.0
+991801,2021-02-02,St. Croix,Wisconsin,55109.0,7659,45.0
+994758,2021-02-03,St. Croix,Virgin Islands,78010.0,1025,8.0
+995047,2021-02-03,St. Croix,Wisconsin,55109.0,7689,45.0
+998004,2021-02-04,St. Croix,Virgin Islands,78010.0,1028,8.0
+998293,2021-02-04,St. Croix,Wisconsin,55109.0,7714,45.0
+1001250,2021-02-05,St. Croix,Virgin Islands,78010.0,1029,8.0
+1001539,2021-02-05,St. Croix,Wisconsin,55109.0,7725,45.0
+1004496,2021-02-06,St. Croix,Virgin Islands,78010.0,1029,8.0
+1004785,2021-02-06,St. Croix,Wisconsin,55109.0,7743,45.0
+1007742,2021-02-07,St. Croix,Virgin Islands,78010.0,1032,8.0
+1008031,2021-02-07,St. Croix,Wisconsin,55109.0,7753,45.0
+1010988,2021-02-08,St. Croix,Virgin Islands,78010.0,1032,8.0
+1011277,2021-02-08,St. Croix,Wisconsin,55109.0,7757,45.0
+1014233,2021-02-09,St. Croix,Virgin Islands,78010.0,1034,8.0
+1014522,2021-02-09,St. Croix,Wisconsin,55109.0,7777,46.0
+1017478,2021-02-10,St. Croix,Virgin Islands,78010.0,1034,8.0
+1017767,2021-02-10,St. Croix,Wisconsin,55109.0,7790,46.0
+1020723,2021-02-11,St. Croix,Virgin Islands,78010.0,1039,9.0
+1021012,2021-02-11,St. Croix,Wisconsin,55109.0,7808,46.0
+1023968,2021-02-12,St. Croix,Virgin Islands,78010.0,1045,9.0
+1024257,2021-02-12,St. Croix,Wisconsin,55109.0,7826,46.0
+1027213,2021-02-13,St. Croix,Virgin Islands,78010.0,1045,9.0
+1027502,2021-02-13,St. Croix,Wisconsin,55109.0,7832,46.0
+1030460,2021-02-14,St. Croix,Virgin Islands,78010.0,1045,9.0
+1030749,2021-02-14,St. Croix,Wisconsin,55109.0,7838,46.0
+1033706,2021-02-15,St. Croix,Virgin Islands,78010.0,1046,9.0
+1033995,2021-02-15,St. Croix,Wisconsin,55109.0,7845,46.0
+1036951,2021-02-16,St. Croix,Virgin Islands,78010.0,1046,9.0
+1037240,2021-02-16,St. Croix,Wisconsin,55109.0,7860,46.0
+1040196,2021-02-17,St. Croix,Virgin Islands,78010.0,1047,9.0
+1040485,2021-02-17,St. Croix,Wisconsin,55109.0,7878,46.0
+1043441,2021-02-18,St. Croix,Virgin Islands,78010.0,1049,9.0
+1043730,2021-02-18,St. Croix,Wisconsin,55109.0,7891,46.0
+1046686,2021-02-19,St. Croix,Virgin Islands,78010.0,1053,9.0
+1046975,2021-02-19,St. Croix,Wisconsin,55109.0,7895,46.0
+1049933,2021-02-20,St. Croix,Virgin Islands,78010.0,1053,9.0
+1050222,2021-02-20,St. Croix,Wisconsin,55109.0,7903,46.0
+1053180,2021-02-21,St. Croix,Virgin Islands,78010.0,1053,9.0
+1053469,2021-02-21,St. Croix,Wisconsin,55109.0,7906,46.0
+1056426,2021-02-22,St. Croix,Virgin Islands,78010.0,1055,9.0
+1056715,2021-02-22,St. Croix,Wisconsin,55109.0,7913,46.0
+1059672,2021-02-23,St. Croix,Virgin Islands,78010.0,1063,9.0
+1059961,2021-02-23,St. Croix,Wisconsin,55109.0,7934,46.0
+1062917,2021-02-24,St. Croix,Virgin Islands,78010.0,1087,9.0
+1063206,2021-02-24,St. Croix,Wisconsin,55109.0,7955,47.0
+1066162,2021-02-25,St. Croix,Virgin Islands,78010.0,1096,9.0
+1066451,2021-02-25,St. Croix,Wisconsin,55109.0,7964,47.0
+1069407,2021-02-26,St. Croix,Virgin Islands,78010.0,1096,9.0
+1069696,2021-02-26,St. Croix,Wisconsin,55109.0,7984,47.0
+1072653,2021-02-27,St. Croix,Virgin Islands,78010.0,1100,9.0
+1072942,2021-02-27,St. Croix,Wisconsin,55109.0,7993,47.0
+1075899,2021-02-28,St. Croix,Virgin Islands,78010.0,1100,9.0
+1076188,2021-02-28,St. Croix,Wisconsin,55109.0,7996,47.0
+1079144,2021-03-01,St. Croix,Virgin Islands,78010.0,1100,9.0
+1079433,2021-03-01,St. Croix,Wisconsin,55109.0,8011,47.0
+1082390,2021-03-02,St. Croix,Virgin Islands,78010.0,1100,9.0
+1082679,2021-03-02,St. Croix,Wisconsin,55109.0,8016,47.0
+1085636,2021-03-03,St. Croix,Virgin Islands,78010.0,1137,9.0
+1085925,2021-03-03,St. Croix,Wisconsin,55109.0,8029,47.0
+1088881,2021-03-04,St. Croix,Virgin Islands,78010.0,1138,9.0
+1089170,2021-03-04,St. Croix,Wisconsin,55109.0,8039,47.0
+1092127,2021-03-05,St. Croix,Virgin Islands,78010.0,1144,9.0
+1092416,2021-03-05,St. Croix,Wisconsin,55109.0,8063,47.0
+1095373,2021-03-06,St. Croix,Virgin Islands,78010.0,1144,9.0
+1095662,2021-03-06,St. Croix,Wisconsin,55109.0,8065,47.0
+1098621,2021-03-07,St. Croix,Virgin Islands,78010.0,1144,9.0
+1098910,2021-03-07,St. Croix,Wisconsin,55109.0,8072,47.0
+1101867,2021-03-08,St. Croix,Virgin Islands,78010.0,1165,9.0
+1102156,2021-03-08,St. Croix,Wisconsin,55109.0,8074,47.0
+1105113,2021-03-09,St. Croix,Virgin Islands,78010.0,1165,9.0
+1105402,2021-03-09,St. Croix,Wisconsin,55109.0,8088,48.0
+1108359,2021-03-10,St. Croix,Virgin Islands,78010.0,1174,9.0
+1108648,2021-03-10,St. Croix,Wisconsin,55109.0,8094,48.0
+1111605,2021-03-11,St. Croix,Virgin Islands,78010.0,1179,9.0
+1111894,2021-03-11,St. Croix,Wisconsin,55109.0,8107,48.0
+1114851,2021-03-12,St. Croix,Virgin Islands,78010.0,1181,9.0
+1115140,2021-03-12,St. Croix,Wisconsin,55109.0,8121,48.0
+1118098,2021-03-13,St. Croix,Virgin Islands,78010.0,1181,9.0
+1118387,2021-03-13,St. Croix,Wisconsin,55109.0,8161,54.0
+1121345,2021-03-14,St. Croix,Virgin Islands,78010.0,1181,9.0
+1121634,2021-03-14,St. Croix,Wisconsin,55109.0,8170,54.0
+1124591,2021-03-15,St. Croix,Virgin Islands,78010.0,1181,9.0
+1124880,2021-03-15,St. Croix,Wisconsin,55109.0,8184,54.0
+1127837,2021-03-16,St. Croix,Virgin Islands,78010.0,1181,9.0
+1128126,2021-03-16,St. Croix,Wisconsin,55109.0,8191,54.0
+1131084,2021-03-17,St. Croix,Virgin Islands,78010.0,1181,9.0
+1131373,2021-03-17,St. Croix,Wisconsin,55109.0,8199,54.0
+1134332,2021-03-18,St. Croix,Virgin Islands,78010.0,1181,9.0
+1134621,2021-03-18,St. Croix,Wisconsin,55109.0,8203,54.0
+1137578,2021-03-19,St. Croix,Virgin Islands,78010.0,1181,9.0
+1137867,2021-03-19,St. Croix,Wisconsin,55109.0,8230,54.0
+1140824,2021-03-20,St. Croix,Virgin Islands,78010.0,1181,9.0
+1141113,2021-03-20,St. Croix,Wisconsin,55109.0,8236,54.0
+1144071,2021-03-21,St. Croix,Virgin Islands,78010.0,1181,9.0
+1144360,2021-03-21,St. Croix,Wisconsin,55109.0,8242,54.0
+1147318,2021-03-22,St. Croix,Virgin Islands,78010.0,1181,9.0
+1147607,2021-03-22,St. Croix,Wisconsin,55109.0,8257,54.0
+1150565,2021-03-23,St. Croix,Virgin Islands,78010.0,1181,9.0
+1150854,2021-03-23,St. Croix,Wisconsin,55109.0,8257,54.0
+1153812,2021-03-24,St. Croix,Virgin Islands,78010.0,1248,9.0
+1154101,2021-03-24,St. Croix,Wisconsin,55109.0,8288,54.0
+1157059,2021-03-25,St. Croix,Virgin Islands,78010.0,1248,9.0
+1157348,2021-03-25,St. Croix,Wisconsin,55109.0,8298,54.0
+1160306,2021-03-26,St. Croix,Virgin Islands,78010.0,1253,9.0
+1160596,2021-03-26,St. Croix,Wisconsin,55109.0,8319,54.0
+1163555,2021-03-27,St. Croix,Virgin Islands,78010.0,1259,10.0
+1163844,2021-03-27,St. Croix,Wisconsin,55109.0,8349,54.0
+1166803,2021-03-28,St. Croix,Virgin Islands,78010.0,1261,10.0
+1167092,2021-03-28,St. Croix,Wisconsin,55109.0,8360,54.0
+1170051,2021-03-29,St. Croix,Virgin Islands,78010.0,1261,10.0
+1170340,2021-03-29,St. Croix,Wisconsin,55109.0,8375,54.0
+1173298,2021-03-30,St. Croix,Virgin Islands,78010.0,1261,10.0
+1173587,2021-03-30,St. Croix,Wisconsin,55109.0,8399,54.0
+1176545,2021-03-31,St. Croix,Virgin Islands,78010.0,1261,10.0
+1176834,2021-03-31,St. Croix,Wisconsin,55109.0,8419,54.0
+1179792,2021-04-01,St. Croix,Virgin Islands,78010.0,1261,10.0
+1180081,2021-04-01,St. Croix,Wisconsin,55109.0,8449,54.0
+1183039,2021-04-02,St. Croix,Virgin Islands,78010.0,1261,10.0
+1183328,2021-04-02,St. Croix,Wisconsin,55109.0,8491,55.0
+1186286,2021-04-03,St. Croix,Virgin Islands,78010.0,1261,10.0
+1186575,2021-04-03,St. Croix,Wisconsin,55109.0,8519,55.0
+1189533,2021-04-04,St. Croix,Virgin Islands,78010.0,1261,10.0
+1189822,2021-04-04,St. Croix,Wisconsin,55109.0,8542,55.0
+1192782,2021-04-05,St. Croix,Virgin Islands,78010.0,1287,10.0
+1193072,2021-04-05,St. Croix,Wisconsin,55109.0,8576,55.0
+1196030,2021-04-06,St. Croix,Virgin Islands,78010.0,1287,10.0
+1196320,2021-04-06,St. Croix,Wisconsin,55109.0,8601,56.0
+1199279,2021-04-07,St. Croix,Virgin Islands,78010.0,1287,10.0
+1199569,2021-04-07,St. Croix,Wisconsin,55109.0,8627,56.0
+1202528,2021-04-08,St. Croix,Virgin Islands,78010.0,1303,10.0
+1202817,2021-04-08,St. Croix,Wisconsin,55109.0,8660,56.0
+1205776,2021-04-09,St. Croix,Virgin Islands,78010.0,1303,10.0
+1206065,2021-04-09,St. Croix,Wisconsin,55109.0,8699,56.0
+1209024,2021-04-10,St. Croix,Virgin Islands,78010.0,1303,10.0
+1209313,2021-04-10,St. Croix,Wisconsin,55109.0,8721,56.0
+1212273,2021-04-11,St. Croix,Virgin Islands,78010.0,1303,10.0
+1212562,2021-04-11,St. Croix,Wisconsin,55109.0,8742,56.0
+1215520,2021-04-12,St. Croix,Virgin Islands,78010.0,1321,10.0
+1215809,2021-04-12,St. Croix,Wisconsin,55109.0,8776,56.0
+1218768,2021-04-13,St. Croix,Virgin Islands,78010.0,1324,10.0
+1219057,2021-04-13,St. Croix,Wisconsin,55109.0,8800,57.0
+1222016,2021-04-14,St. Croix,Virgin Islands,78010.0,1324,10.0
+1222305,2021-04-14,St. Croix,Wisconsin,55109.0,8842,57.0
+1225263,2021-04-15,St. Croix,Virgin Islands,78010.0,1328,10.0
+1225552,2021-04-15,St. Croix,Wisconsin,55109.0,8898,57.0
+1228511,2021-04-16,St. Croix,Virgin Islands,78010.0,1329,10.0
+1228800,2021-04-16,St. Croix,Wisconsin,55109.0,8923,57.0
+1231759,2021-04-17,St. Croix,Virgin Islands,78010.0,1329,10.0
+1232048,2021-04-17,St. Croix,Wisconsin,55109.0,8946,57.0
+1235007,2021-04-18,St. Croix,Virgin Islands,78010.0,1329,10.0
+1235296,2021-04-18,St. Croix,Wisconsin,55109.0,8970,57.0
+1238254,2021-04-19,St. Croix,Virgin Islands,78010.0,1334,10.0
+1238543,2021-04-19,St. Croix,Wisconsin,55109.0,8992,57.0
+1241501,2021-04-20,St. Croix,Virgin Islands,78010.0,1334,10.0
+1241790,2021-04-20,St. Croix,Wisconsin,55109.0,9025,57.0
+1244748,2021-04-21,St. Croix,Virgin Islands,78010.0,1334,10.0
+1245037,2021-04-21,St. Croix,Wisconsin,55109.0,9043,57.0
+1247995,2021-04-22,St. Croix,Virgin Islands,78010.0,1344,10.0
+1248284,2021-04-22,St. Croix,Wisconsin,55109.0,9080,57.0
+1251242,2021-04-23,St. Croix,Virgin Islands,78010.0,1344,10.0
+1251531,2021-04-23,St. Croix,Wisconsin,55109.0,9113,57.0
+1254489,2021-04-24,St. Croix,Virgin Islands,78010.0,1344,10.0
+1254778,2021-04-24,St. Croix,Wisconsin,55109.0,9141,57.0
+1257736,2021-04-25,St. Croix,Virgin Islands,78010.0,1344,10.0
+1258025,2021-04-25,St. Croix,Wisconsin,55109.0,9157,57.0
+1260983,2021-04-26,St. Croix,Virgin Islands,78010.0,1352,10.0
+1261272,2021-04-26,St. Croix,Wisconsin,55109.0,9193,57.0
+1264230,2021-04-27,St. Croix,Virgin Islands,78010.0,1352,10.0
+1264519,2021-04-27,St. Croix,Wisconsin,55109.0,9212,57.0
+1267477,2021-04-28,St. Croix,Virgin Islands,78010.0,1355,10.0
+1267766,2021-04-28,St. Croix,Wisconsin,55109.0,9241,57.0
+1270724,2021-04-29,St. Croix,Virgin Islands,78010.0,1355,10.0
+1271013,2021-04-29,St. Croix,Wisconsin,55109.0,9289,57.0
+1273971,2021-04-30,St. Croix,Virgin Islands,78010.0,1361,10.0
+1274260,2021-04-30,St. Croix,Wisconsin,55109.0,9330,57.0
+1277218,2021-05-01,St. Croix,Virgin Islands,78010.0,1361,10.0
+1277507,2021-05-01,St. Croix,Wisconsin,55109.0,9358,57.0
+1280465,2021-05-02,St. Croix,Virgin Islands,78010.0,1363,10.0
+1280754,2021-05-02,St. Croix,Wisconsin,55109.0,9373,57.0
+1283712,2021-05-03,St. Croix,Virgin Islands,78010.0,1363,10.0
+1284001,2021-05-03,St. Croix,Wisconsin,55109.0,9398,57.0
+1286958,2021-05-04,St. Croix,Virgin Islands,78010.0,1364,10.0
+1287247,2021-05-04,St. Croix,Wisconsin,55109.0,9425,58.0
+1290204,2021-05-05,St. Croix,Virgin Islands,78010.0,1364,10.0
+1290493,2021-05-05,St. Croix,Wisconsin,55109.0,9453,59.0
+1293450,2021-05-06,St. Croix,Virgin Islands,78010.0,1364,10.0
+1293739,2021-05-06,St. Croix,Wisconsin,55109.0,9479,59.0
+1296696,2021-05-07,St. Croix,Virgin Islands,78010.0,1364,10.0
+1296985,2021-05-07,St. Croix,Wisconsin,55109.0,9497,59.0
+1299943,2021-05-08,St. Croix,Virgin Islands,78010.0,1379,10.0
+1300232,2021-05-08,St. Croix,Wisconsin,55109.0,9512,60.0
+1303190,2021-05-09,St. Croix,Virgin Islands,78010.0,1379,10.0
+1303479,2021-05-09,St. Croix,Wisconsin,55109.0,9521,60.0
+1306436,2021-05-10,St. Croix,Virgin Islands,78010.0,1379,10.0
+1306725,2021-05-10,St. Croix,Wisconsin,55109.0,9531,60.0
+1309682,2021-05-11,St. Croix,Virgin Islands,78010.0,1379,10.0
+1309971,2021-05-11,St. Croix,Wisconsin,55109.0,9553,60.0
+1312929,2021-05-12,St. Croix,Virgin Islands,78010.0,1380,10.0
+1313218,2021-05-12,St. Croix,Wisconsin,55109.0,9595,60.0
+1316175,2021-05-13,St. Croix,Virgin Islands,78010.0,1380,10.0
+1316464,2021-05-13,St. Croix,Wisconsin,55109.0,9611,60.0
+1319423,2021-05-14,St. Croix,Virgin Islands,78010.0,1380,10.0
+1319712,2021-05-14,St. Croix,Wisconsin,55109.0,9622,61.0
+1322669,2021-05-15,St. Croix,Virgin Islands,78010.0,1380,10.0
+1322958,2021-05-15,St. Croix,Wisconsin,55109.0,9646,61.0
+1325915,2021-05-16,St. Croix,Virgin Islands,78010.0,1380,10.0
+1326204,2021-05-16,St. Croix,Wisconsin,55109.0,9646,61.0
+1329161,2021-05-17,St. Croix,Virgin Islands,78010.0,1380,10.0
+1329450,2021-05-17,St. Croix,Wisconsin,55109.0,9652,61.0
+1332408,2021-05-18,St. Croix,Virgin Islands,78010.0,1381,10.0
+1332697,2021-05-18,St. Croix,Wisconsin,55109.0,9663,62.0
+1335655,2021-05-19,St. Croix,Virgin Islands,78010.0,1381,10.0
+1335944,2021-05-19,St. Croix,Wisconsin,55109.0,9673,62.0
+1338902,2021-05-20,St. Croix,Virgin Islands,78010.0,1382,10.0
+1339191,2021-05-20,St. Croix,Wisconsin,55109.0,9688,62.0
+1342150,2021-05-21,St. Croix,Virgin Islands,78010.0,1382,10.0
+1342439,2021-05-21,St. Croix,Wisconsin,55109.0,9697,62.0
+1345398,2021-05-22,St. Croix,Virgin Islands,78010.0,1382,10.0
+1345687,2021-05-22,St. Croix,Wisconsin,55109.0,9710,63.0
+1348646,2021-05-23,St. Croix,Virgin Islands,78010.0,1382,10.0
+1348935,2021-05-23,St. Croix,Wisconsin,55109.0,9714,63.0
+1351892,2021-05-24,St. Croix,Virgin Islands,78010.0,1392,10.0
+1352181,2021-05-24,St. Croix,Wisconsin,55109.0,9714,63.0
+1355138,2021-05-25,St. Croix,Virgin Islands,78010.0,1392,10.0
+1355427,2021-05-25,St. Croix,Wisconsin,55109.0,9720,63.0
+1358384,2021-05-26,St. Croix,Virgin Islands,78010.0,1392,10.0
+1358673,2021-05-26,St. Croix,Wisconsin,55109.0,9727,64.0
+1361630,2021-05-27,St. Croix,Virgin Islands,78010.0,1392,10.0
+1361919,2021-05-27,St. Croix,Wisconsin,55109.0,9736,65.0
+1364876,2021-05-28,St. Croix,Virgin Islands,78010.0,1395,10.0
+1365165,2021-05-28,St. Croix,Wisconsin,55109.0,9745,66.0
+1368122,2021-05-29,St. Croix,Virgin Islands,78010.0,1395,10.0
+1368411,2021-05-29,St. Croix,Wisconsin,55109.0,9745,66.0
+1371368,2021-05-30,St. Croix,Virgin Islands,78010.0,1395,10.0
+1371657,2021-05-30,St. Croix,Wisconsin,55109.0,9745,66.0
+1374613,2021-05-31,St. Croix,Virgin Islands,78010.0,1395,10.0
+1374902,2021-05-31,St. Croix,Wisconsin,55109.0,9763,66.0
+1377859,2021-06-01,St. Croix,Virgin Islands,78010.0,1397,10.0
+1378148,2021-06-01,St. Croix,Wisconsin,55109.0,9764,66.0
+1381104,2021-06-02,St. Croix,Virgin Islands,78010.0,1398,10.0
+1381393,2021-06-02,St. Croix,Wisconsin,55109.0,9767,66.0
+1384350,2021-06-03,St. Croix,Virgin Islands,78010.0,1398,10.0
+1384639,2021-06-03,St. Croix,Wisconsin,55109.0,9771,66.0
+1387595,2021-06-04,St. Croix,Virgin Islands,78010.0,1398,10.0
+1387884,2021-06-04,St. Croix,Wisconsin,55109.0,9774,67.0
+1390840,2021-06-05,St. Croix,Virgin Islands,78010.0,1398,10.0
+1391129,2021-06-05,St. Croix,Wisconsin,55109.0,9774,67.0
+1394085,2021-06-06,St. Croix,Virgin Islands,78010.0,1398,10.0
+1394374,2021-06-06,St. Croix,Wisconsin,55109.0,9774,67.0
+1397332,2021-06-07,St. Croix,Virgin Islands,78010.0,1401,10.0
+1397621,2021-06-07,St. Croix,Wisconsin,55109.0,9781,67.0
+1400577,2021-06-08,St. Croix,Virgin Islands,78010.0,1404,10.0
+1400866,2021-06-08,St. Croix,Wisconsin,55109.0,9789,67.0
+1403822,2021-06-09,St. Croix,Virgin Islands,78010.0,1409,10.0
+1404111,2021-06-09,St. Croix,Wisconsin,55109.0,9792,67.0
+1407068,2021-06-10,St. Croix,Virgin Islands,78010.0,1409,10.0
+1407357,2021-06-10,St. Croix,Wisconsin,55109.0,9796,67.0
+1410313,2021-06-11,St. Croix,Virgin Islands,78010.0,1418,10.0
+1410602,2021-06-11,St. Croix,Wisconsin,55109.0,9798,67.0
+1413558,2021-06-12,St. Croix,Virgin Islands,78010.0,1418,10.0
+1413847,2021-06-12,St. Croix,Wisconsin,55109.0,9798,67.0
+1416804,2021-06-13,St. Croix,Virgin Islands,78010.0,1418,10.0
+1417093,2021-06-13,St. Croix,Wisconsin,55109.0,9798,67.0
+1420049,2021-06-14,St. Croix,Virgin Islands,78010.0,1420,10.0
+1420338,2021-06-14,St. Croix,Wisconsin,55109.0,9804,67.0
+1423295,2021-06-15,St. Croix,Virgin Islands,78010.0,1424,10.0
+1423585,2021-06-15,St. Croix,Wisconsin,55109.0,9807,67.0
+1426542,2021-06-16,St. Croix,Virgin Islands,78010.0,1427,10.0
+1426831,2021-06-16,St. Croix,Wisconsin,55109.0,9806,67.0
+1429787,2021-06-17,St. Croix,Virgin Islands,78010.0,1431,10.0
+1430076,2021-06-17,St. Croix,Wisconsin,55109.0,9806,67.0
+1433033,2021-06-18,St. Croix,Virgin Islands,78010.0,1432,10.0
+1433322,2021-06-18,St. Croix,Wisconsin,55109.0,9811,67.0
+1436280,2021-06-19,St. Croix,Virgin Islands,78010.0,1432,10.0
+1436569,2021-06-19,St. Croix,Wisconsin,55109.0,9811,67.0
+1439527,2021-06-20,St. Croix,Virgin Islands,78010.0,1432,10.0
+1439816,2021-06-20,St. Croix,Wisconsin,55109.0,9811,67.0
+1442772,2021-06-21,St. Croix,Virgin Islands,78010.0,1437,10.0
+1443061,2021-06-21,St. Croix,Wisconsin,55109.0,9817,67.0
+1446017,2021-06-22,St. Croix,Virgin Islands,78010.0,1439,10.0
+1446306,2021-06-22,St. Croix,Wisconsin,55109.0,9822,67.0
+1449262,2021-06-23,St. Croix,Virgin Islands,78010.0,1439,10.0
+1449551,2021-06-23,St. Croix,Wisconsin,55109.0,9826,67.0
+1452508,2021-06-24,St. Croix,Virgin Islands,78010.0,1439,10.0
+1452797,2021-06-24,St. Croix,Wisconsin,55109.0,9828,67.0
+1455753,2021-06-25,St. Croix,Virgin Islands,78010.0,1464,10.0
+1456042,2021-06-25,St. Croix,Wisconsin,55109.0,9831,67.0
+1458998,2021-06-26,St. Croix,Virgin Islands,78010.0,1464,10.0
+1459287,2021-06-26,St. Croix,Wisconsin,55109.0,9831,67.0
+1462243,2021-06-27,St. Croix,Virgin Islands,78010.0,1464,10.0
+1462532,2021-06-27,St. Croix,Wisconsin,55109.0,9831,67.0
+1465488,2021-06-28,St. Croix,Virgin Islands,78010.0,1464,10.0
+1465777,2021-06-28,St. Croix,Wisconsin,55109.0,9835,68.0
+1468733,2021-06-29,St. Croix,Virgin Islands,78010.0,1469,10.0
+1469022,2021-06-29,St. Croix,Wisconsin,55109.0,9838,69.0
+1471978,2021-06-30,St. Croix,Virgin Islands,78010.0,1469,10.0
+1472267,2021-06-30,St. Croix,Wisconsin,55109.0,9840,69.0
+1475224,2021-07-01,St. Croix,Virgin Islands,78010.0,1491,10.0
+1475513,2021-07-01,St. Croix,Wisconsin,55109.0,9840,69.0
+1478470,2021-07-02,St. Croix,Virgin Islands,78010.0,1491,10.0
+1478759,2021-07-02,St. Croix,Wisconsin,55109.0,9842,69.0
+1481717,2021-07-03,St. Croix,Virgin Islands,78010.0,1491,10.0
+1482006,2021-07-03,St. Croix,Wisconsin,55109.0,9842,69.0
+1484963,2021-07-04,St. Croix,Virgin Islands,78010.0,1491,10.0
+1485252,2021-07-04,St. Croix,Wisconsin,55109.0,9842,69.0
+1488210,2021-07-05,St. Croix,Virgin Islands,78010.0,1491,10.0
+1488499,2021-07-05,St. Croix,Wisconsin,55109.0,9849,70.0
+1491457,2021-07-06,St. Croix,Virgin Islands,78010.0,1511,10.0
+1491746,2021-07-06,St. Croix,Wisconsin,55109.0,9849,70.0
+1494704,2021-07-07,St. Croix,Virgin Islands,78010.0,1517,11.0
+1494993,2021-07-07,St. Croix,Wisconsin,55109.0,9851,71.0
+1497951,2021-07-08,St. Croix,Virgin Islands,78010.0,1517,11.0
+1498240,2021-07-08,St. Croix,Wisconsin,55109.0,9855,71.0
+1501197,2021-07-09,St. Croix,Virgin Islands,78010.0,1536,11.0
+1501486,2021-07-09,St. Croix,Wisconsin,55109.0,9856,72.0
+1504443,2021-07-10,St. Croix,Virgin Islands,78010.0,1536,11.0
+1504732,2021-07-10,St. Croix,Wisconsin,55109.0,9856,72.0
+1507689,2021-07-11,St. Croix,Virgin Islands,78010.0,1536,11.0
+1507978,2021-07-11,St. Croix,Wisconsin,55109.0,9856,72.0
+1510936,2021-07-12,St. Croix,Virgin Islands,78010.0,1553,11.0
+1511225,2021-07-12,St. Croix,Wisconsin,55109.0,9860,72.0
+1514182,2021-07-13,St. Croix,Virgin Islands,78010.0,1556,11.0
+1514471,2021-07-13,St. Croix,Wisconsin,55109.0,9862,72.0
+1517429,2021-07-14,St. Croix,Virgin Islands,78010.0,1585,11.0
+1517718,2021-07-14,St. Croix,Wisconsin,55109.0,9867,72.0
+1520677,2021-07-15,St. Croix,Virgin Islands,78010.0,1593,11.0
+1520966,2021-07-15,St. Croix,Wisconsin,55109.0,9869,72.0
+1523925,2021-07-16,St. Croix,Virgin Islands,78010.0,1593,11.0
+1524214,2021-07-16,St. Croix,Wisconsin,55109.0,9871,72.0
+1527172,2021-07-17,St. Croix,Virgin Islands,78010.0,1593,11.0
+1527461,2021-07-17,St. Croix,Wisconsin,55109.0,9871,72.0
+1530419,2021-07-18,St. Croix,Virgin Islands,78010.0,1593,11.0
+1530708,2021-07-18,St. Croix,Wisconsin,55109.0,9871,72.0
+1533666,2021-07-19,St. Croix,Virgin Islands,78010.0,1619,11.0
+1533955,2021-07-19,St. Croix,Wisconsin,55109.0,9878,72.0
+1536914,2021-07-20,St. Croix,Virgin Islands,78010.0,1625,11.0
+1537203,2021-07-20,St. Croix,Wisconsin,55109.0,9884,72.0
+1540161,2021-07-21,St. Croix,Virgin Islands,78010.0,1625,11.0
+1540450,2021-07-21,St. Croix,Wisconsin,55109.0,9885,72.0
+1543409,2021-07-22,St. Croix,Virgin Islands,78010.0,1644,12.0
+1543698,2021-07-22,St. Croix,Wisconsin,55109.0,9893,72.0
+1546656,2021-07-23,St. Croix,Virgin Islands,78010.0,1644,12.0
+1546945,2021-07-23,St. Croix,Wisconsin,55109.0,9897,72.0
+1549903,2021-07-24,St. Croix,Virgin Islands,78010.0,1644,12.0
+1550192,2021-07-24,St. Croix,Wisconsin,55109.0,9897,72.0
+1553150,2021-07-25,St. Croix,Virgin Islands,78010.0,1644,12.0
+1553439,2021-07-25,St. Croix,Wisconsin,55109.0,9897,72.0
+1556397,2021-07-26,St. Croix,Virgin Islands,78010.0,1668,12.0
+1556686,2021-07-26,St. Croix,Wisconsin,55109.0,9908,72.0
+1559644,2021-07-27,St. Croix,Virgin Islands,78010.0,1668,12.0
+1559933,2021-07-27,St. Croix,Wisconsin,55109.0,9920,72.0
+1562892,2021-07-28,St. Croix,Virgin Islands,78010.0,1668,12.0
+1563181,2021-07-28,St. Croix,Wisconsin,55109.0,9927,72.0
+1566140,2021-07-29,St. Croix,Virgin Islands,78010.0,1715,13.0
+1566429,2021-07-29,St. Croix,Wisconsin,55109.0,9934,72.0
+1569388,2021-07-30,St. Croix,Virgin Islands,78010.0,1721,13.0
+1569677,2021-07-30,St. Croix,Wisconsin,55109.0,9935,72.0
+1572636,2021-07-31,St. Croix,Virgin Islands,78010.0,1721,13.0
+1572925,2021-07-31,St. Croix,Wisconsin,55109.0,9935,72.0
+1575884,2021-08-01,St. Croix,Virgin Islands,78010.0,1721,13.0
+1576173,2021-08-01,St. Croix,Wisconsin,55109.0,9935,72.0
+1579132,2021-08-02,St. Croix,Virgin Islands,78010.0,1768,14.0
+1579421,2021-08-02,St. Croix,Wisconsin,55109.0,9945,72.0
+1582381,2021-08-03,St. Croix,Virgin Islands,78010.0,1783,14.0
+1582671,2021-08-03,St. Croix,Wisconsin,55109.0,9963,72.0
+1585631,2021-08-04,St. Croix,Virgin Islands,78010.0,1793,14.0
+1585921,2021-08-04,St. Croix,Wisconsin,55109.0,9973,72.0
+1588881,2021-08-05,St. Croix,Virgin Islands,78010.0,1834,16.0
+1589170,2021-08-05,St. Croix,Wisconsin,55109.0,9984,72.0
+1592130,2021-08-06,St. Croix,Virgin Islands,78010.0,1849,16.0
+1592419,2021-08-06,St. Croix,Wisconsin,55109.0,9987,72.0
+1595379,2021-08-07,St. Croix,Virgin Islands,78010.0,1849,16.0
+1595668,2021-08-07,St. Croix,Wisconsin,55109.0,9987,72.0
+1598628,2021-08-08,St. Croix,Virgin Islands,78010.0,1849,16.0
+1598917,2021-08-08,St. Croix,Wisconsin,55109.0,9987,72.0
+1601876,2021-08-09,St. Croix,Virgin Islands,78010.0,1884,16.0
+1602165,2021-08-09,St. Croix,Wisconsin,55109.0,10016,72.0
+1605125,2021-08-10,St. Croix,Virgin Islands,78010.0,1915,16.0
+1605415,2021-08-10,St. Croix,Wisconsin,55109.0,10059,72.0
+1608374,2021-08-11,St. Croix,Virgin Islands,78010.0,1915,16.0
+1608664,2021-08-11,St. Croix,Wisconsin,55109.0,10081,72.0
+1611622,2021-08-12,St. Croix,Virgin Islands,78010.0,1949,16.0
+1611911,2021-08-12,St. Croix,Wisconsin,55109.0,10105,72.0
+1614871,2021-08-13,St. Croix,Virgin Islands,78010.0,1969,16.0
+1615160,2021-08-13,St. Croix,Wisconsin,55109.0,10128,72.0
+1618119,2021-08-14,St. Croix,Virgin Islands,78010.0,1969,16.0
+1618408,2021-08-14,St. Croix,Wisconsin,55109.0,10128,72.0
+1621367,2021-08-15,St. Croix,Virgin Islands,78010.0,1969,16.0
+1621656,2021-08-15,St. Croix,Wisconsin,55109.0,10128,72.0
+1624614,2021-08-16,St. Croix,Virgin Islands,78010.0,1992,16.0
+1624903,2021-08-16,St. Croix,Wisconsin,55109.0,10161,72.0
+1627861,2021-08-17,St. Croix,Virgin Islands,78010.0,1992,16.0
+1628150,2021-08-17,St. Croix,Wisconsin,55109.0,10181,72.0
+1631108,2021-08-18,St. Croix,Virgin Islands,78010.0,2028,16.0
+1631397,2021-08-18,St. Croix,Wisconsin,55109.0,10200,72.0
+1634355,2021-08-19,St. Croix,Virgin Islands,78010.0,2037,16.0
+1634645,2021-08-19,St. Croix,Wisconsin,55109.0,10235,72.0
+1637605,2021-08-20,St. Croix,Virgin Islands,78010.0,2037,16.0
+1637895,2021-08-20,St. Croix,Wisconsin,55109.0,10276,72.0
+1640855,2021-08-21,St. Croix,Virgin Islands,78010.0,2037,16.0
+1641145,2021-08-21,St. Croix,Wisconsin,55109.0,10276,72.0
+1644105,2021-08-22,St. Croix,Virgin Islands,78010.0,2093,17.0
+1644395,2021-08-22,St. Croix,Wisconsin,55109.0,10276,72.0
+1647354,2021-08-23,St. Croix,Virgin Islands,78010.0,2100,17.0
+1647644,2021-08-23,St. Croix,Wisconsin,55109.0,10349,72.0
+1650603,2021-08-24,St. Croix,Virgin Islands,78010.0,2125,17.0
+1650893,2021-08-24,St. Croix,Wisconsin,55109.0,10367,73.0
+1653850,2021-08-25,St. Croix,Virgin Islands,78010.0,2125,17.0
+1654139,2021-08-25,St. Croix,Wisconsin,55109.0,10388,73.0
+1657097,2021-08-26,St. Croix,Virgin Islands,78010.0,2125,17.0
+1657387,2021-08-26,St. Croix,Wisconsin,55109.0,10427,73.0
+1660346,2021-08-27,St. Croix,Virgin Islands,78010.0,2164,17.0
+1660635,2021-08-27,St. Croix,Wisconsin,55109.0,10464,73.0
+1663594,2021-08-28,St. Croix,Virgin Islands,78010.0,2164,17.0
+1663883,2021-08-28,St. Croix,Wisconsin,55109.0,10464,73.0
+1666842,2021-08-29,St. Croix,Virgin Islands,78010.0,2164,17.0
+1667131,2021-08-29,St. Croix,Wisconsin,55109.0,10464,73.0
+1670089,2021-08-30,St. Croix,Virgin Islands,78010.0,2164,17.0
+1670378,2021-08-30,St. Croix,Wisconsin,55109.0,10542,73.0
+1673337,2021-08-31,St. Croix,Virgin Islands,78010.0,2206,17.0
+1673626,2021-08-31,St. Croix,Wisconsin,55109.0,10559,73.0
+1676584,2021-09-01,St. Croix,Virgin Islands,78010.0,2255,18.0
+1676873,2021-09-01,St. Croix,Wisconsin,55109.0,10582,75.0
+1679832,2021-09-02,St. Croix,Virgin Islands,78010.0,2275,18.0
+1680121,2021-09-02,St. Croix,Wisconsin,55109.0,10611,76.0
+1683082,2021-09-03,St. Croix,Virgin Islands,78010.0,2275,18.0
+1683372,2021-09-03,St. Croix,Wisconsin,55109.0,10644,75.0
+1686333,2021-09-04,St. Croix,Virgin Islands,78010.0,2275,18.0
+1686622,2021-09-04,St. Croix,Wisconsin,55109.0,10644,75.0
+1689583,2021-09-05,St. Croix,Virgin Islands,78010.0,2275,18.0
+1689872,2021-09-05,St. Croix,Wisconsin,55109.0,10644,75.0
+1692832,2021-09-06,St. Croix,Virgin Islands,78010.0,2275,18.0
+1693121,2021-09-06,St. Croix,Wisconsin,55109.0,10728,75.0
+1696080,2021-09-07,St. Croix,Virgin Islands,78010.0,2345,19.0
+1696369,2021-09-07,St. Croix,Wisconsin,55109.0,10727,75.0
+1699328,2021-09-08,St. Croix,Virgin Islands,78010.0,2362,20.0
+1699617,2021-09-08,St. Croix,Wisconsin,55109.0,10767,75.0
+1702577,2021-09-09,St. Croix,Virgin Islands,78010.0,2362,20.0
+1702867,2021-09-09,St. Croix,Wisconsin,55109.0,10794,75.0
+1705827,2021-09-10,St. Croix,Virgin Islands,78010.0,2412,20.0
+1706116,2021-09-10,St. Croix,Wisconsin,55109.0,10837,75.0
+1709074,2021-09-11,St. Croix,Virgin Islands,78010.0,2412,20.0
+1709363,2021-09-11,St. Croix,Wisconsin,55109.0,10837,75.0
+1712321,2021-09-12,St. Croix,Virgin Islands,78010.0,2412,20.0
+1712610,2021-09-12,St. Croix,Wisconsin,55109.0,10837,75.0
+1715567,2021-09-13,St. Croix,Virgin Islands,78010.0,2479,22.0
+1715856,2021-09-13,St. Croix,Wisconsin,55109.0,10920,75.0
+1718815,2021-09-14,St. Croix,Virgin Islands,78010.0,2484,22.0
+1719104,2021-09-14,St. Croix,Wisconsin,55109.0,10951,75.0
+1722063,2021-09-15,St. Croix,Virgin Islands,78010.0,2484,22.0
+1722352,2021-09-15,St. Croix,Wisconsin,55109.0,11031,75.0
+1725312,2021-09-16,St. Croix,Virgin Islands,78010.0,2547,22.0
+1725601,2021-09-16,St. Croix,Wisconsin,55109.0,11106,75.0
+1728561,2021-09-17,St. Croix,Virgin Islands,78010.0,2547,22.0
+1728851,2021-09-17,St. Croix,Wisconsin,55109.0,11147,75.0
+1731811,2021-09-18,St. Croix,Virgin Islands,78010.0,2547,22.0
+1732101,2021-09-18,St. Croix,Wisconsin,55109.0,11147,75.0
+1735061,2021-09-19,St. Croix,Virgin Islands,78010.0,2547,22.0
+1735351,2021-09-19,St. Croix,Wisconsin,55109.0,11147,75.0
+1738311,2021-09-20,St. Croix,Virgin Islands,78010.0,2606,22.0
+1738600,2021-09-20,St. Croix,Wisconsin,55109.0,11295,75.0
+1741560,2021-09-21,St. Croix,Virgin Islands,78010.0,2632,22.0
+1741849,2021-09-21,St. Croix,Wisconsin,55109.0,11380,75.0
+1744809,2021-09-22,St. Croix,Virgin Islands,78010.0,2690,23.0
+1745098,2021-09-22,St. Croix,Wisconsin,55109.0,11440,78.0
+1748059,2021-09-23,St. Croix,Virgin Islands,78010.0,2690,23.0
+1748348,2021-09-23,St. Croix,Wisconsin,55109.0,11505,78.0
+1751308,2021-09-24,St. Croix,Virgin Islands,78010.0,2690,23.0
+1751597,2021-09-24,St. Croix,Wisconsin,55109.0,11549,79.0
+1754556,2021-09-25,St. Croix,Virgin Islands,78010.0,2690,23.0
+1754845,2021-09-25,St. Croix,Wisconsin,55109.0,11549,79.0
+1757804,2021-09-26,St. Croix,Virgin Islands,78010.0,2690,23.0
+1758093,2021-09-26,St. Croix,Wisconsin,55109.0,11549,79.0
+1761052,2021-09-27,St. Croix,Virgin Islands,78010.0,2778,24.0
+1761341,2021-09-27,St. Croix,Wisconsin,55109.0,11664,79.0
+1764301,2021-09-28,St. Croix,Virgin Islands,78010.0,2778,24.0
+1764590,2021-09-28,St. Croix,Wisconsin,55109.0,11693,79.0
+1767550,2021-09-29,St. Croix,Virgin Islands,78010.0,2813,24.0
+1767839,2021-09-29,St. Croix,Wisconsin,55109.0,11748,79.0
+1770799,2021-09-30,St. Croix,Virgin Islands,78010.0,2813,24.0
+1771088,2021-09-30,St. Croix,Wisconsin,55109.0,11807,79.0
+1774049,2021-10-01,St. Croix,Virgin Islands,78010.0,2863,24.0
+1774338,2021-10-01,St. Croix,Wisconsin,55109.0,11851,82.0
+1777299,2021-10-02,St. Croix,Virgin Islands,78010.0,2863,24.0
+1777588,2021-10-02,St. Croix,Wisconsin,55109.0,11851,82.0
+1780549,2021-10-03,St. Croix,Virgin Islands,78010.0,2863,24.0
+1780838,2021-10-03,St. Croix,Wisconsin,55109.0,11851,82.0
+1783798,2021-10-04,St. Croix,Virgin Islands,78010.0,2909,25.0
+1784087,2021-10-04,St. Croix,Wisconsin,55109.0,12004,82.0
+1787047,2021-10-05,St. Croix,Virgin Islands,78010.0,2909,25.0
+1787336,2021-10-05,St. Croix,Wisconsin,55109.0,12058,83.0
+1790295,2021-10-06,St. Croix,Virgin Islands,78010.0,2938,25.0
+1790584,2021-10-06,St. Croix,Wisconsin,55109.0,12078,83.0
+1793544,2021-10-07,St. Croix,Virgin Islands,78010.0,2978,25.0
+1793833,2021-10-07,St. Croix,Wisconsin,55109.0,12154,83.0
+1796793,2021-10-08,St. Croix,Virgin Islands,78010.0,2987,26.0
+1797082,2021-10-08,St. Croix,Wisconsin,55109.0,12210,83.0
+1800042,2021-10-09,St. Croix,Virgin Islands,78010.0,2987,26.0
+1800331,2021-10-09,St. Croix,Wisconsin,55109.0,12210,83.0
+1803291,2021-10-10,St. Croix,Virgin Islands,78010.0,2987,26.0
+1803580,2021-10-10,St. Croix,Wisconsin,55109.0,12210,83.0
+1806541,2021-10-11,St. Croix,Virgin Islands,78010.0,3008,26.0
+1806831,2021-10-11,St. Croix,Wisconsin,55109.0,12327,83.0
+1809791,2021-10-12,St. Croix,Virgin Islands,78010.0,3008,26.0
+1810080,2021-10-12,St. Croix,Wisconsin,55109.0,12363,83.0
+1813040,2021-10-13,St. Croix,Virgin Islands,78010.0,3029,27.0
+1813329,2021-10-13,St. Croix,Wisconsin,55109.0,12386,83.0
+1816288,2021-10-14,St. Croix,Virgin Islands,78010.0,3029,27.0
+1816577,2021-10-14,St. Croix,Wisconsin,55109.0,12463,84.0
+1819537,2021-10-15,St. Croix,Virgin Islands,78010.0,3029,27.0
+1819826,2021-10-15,St. Croix,Wisconsin,55109.0,12463,84.0
+1822786,2021-10-16,St. Croix,Virgin Islands,78010.0,3029,27.0
+1823075,2021-10-16,St. Croix,Wisconsin,55109.0,12463,84.0
+1826035,2021-10-17,St. Croix,Virgin Islands,78010.0,3029,27.0
+1826324,2021-10-17,St. Croix,Wisconsin,55109.0,12551,84.0
+1829284,2021-10-18,St. Croix,Virgin Islands,78010.0,3112,30.0
+1829573,2021-10-18,St. Croix,Wisconsin,55109.0,12613,84.0
+1832533,2021-10-19,St. Croix,Virgin Islands,78010.0,3116,30.0
+1832822,2021-10-19,St. Croix,Wisconsin,55109.0,12641,85.0
+1835782,2021-10-20,St. Croix,Virgin Islands,78010.0,3127,30.0
+1836071,2021-10-20,St. Croix,Wisconsin,55109.0,12674,85.0
+1839031,2021-10-21,St. Croix,Virgin Islands,78010.0,3127,30.0
+1839320,2021-10-21,St. Croix,Wisconsin,55109.0,12738,85.0
+1842280,2021-10-22,St. Croix,Virgin Islands,78010.0,3147,30.0
+1842569,2021-10-22,St. Croix,Wisconsin,55109.0,12788,85.0
+1845530,2021-10-23,St. Croix,Virgin Islands,78010.0,3147,30.0
+1845819,2021-10-23,St. Croix,Wisconsin,55109.0,12788,85.0
+1848780,2021-10-24,St. Croix,Virgin Islands,78010.0,3147,30.0
+1849069,2021-10-24,St. Croix,Wisconsin,55109.0,12788,85.0
+1852030,2021-10-25,St. Croix,Virgin Islands,78010.0,3165,31.0
+1852319,2021-10-25,St. Croix,Wisconsin,55109.0,12925,85.0
+1855279,2021-10-26,St. Croix,Virgin Islands,78010.0,3165,31.0
+1855568,2021-10-26,St. Croix,Wisconsin,55109.0,12974,85.0
+1858528,2021-10-27,St. Croix,Virgin Islands,78010.0,3165,31.0
+1858817,2021-10-27,St. Croix,Wisconsin,55109.0,13021,85.0
+1861777,2021-10-28,St. Croix,Virgin Islands,78010.0,3192,32.0
+1862066,2021-10-28,St. Croix,Wisconsin,55109.0,13100,86.0
+1865026,2021-10-29,St. Croix,Virgin Islands,78010.0,3221,32.0
+1865315,2021-10-29,St. Croix,Wisconsin,55109.0,13160,86.0
+1868275,2021-10-30,St. Croix,Virgin Islands,78010.0,3221,32.0
+1868564,2021-10-30,St. Croix,Wisconsin,55109.0,13160,86.0
+1871524,2021-10-31,St. Croix,Virgin Islands,78010.0,3221,32.0
+1871813,2021-10-31,St. Croix,Wisconsin,55109.0,13160,86.0
+1874773,2021-11-01,St. Croix,Virgin Islands,78010.0,3221,32.0
+1875062,2021-11-01,St. Croix,Wisconsin,55109.0,13372,86.0
+1878022,2021-11-02,St. Croix,Virgin Islands,78010.0,3245,32.0
+1878311,2021-11-02,St. Croix,Wisconsin,55109.0,13445,86.0
+1881271,2021-11-03,St. Croix,Virgin Islands,78010.0,3261,33.0
+1881560,2021-11-03,St. Croix,Wisconsin,55109.0,13495,86.0
+1884520,2021-11-04,St. Croix,Virgin Islands,78010.0,3270,34.0
+1884809,2021-11-04,St. Croix,Wisconsin,55109.0,13610,86.0
+1887770,2021-11-05,St. Croix,Virgin Islands,78010.0,3284,34.0
+1888059,2021-11-05,St. Croix,Wisconsin,55109.0,13705,86.0
+1891020,2021-11-06,St. Croix,Virgin Islands,78010.0,3284,34.0
+1891309,2021-11-06,St. Croix,Wisconsin,55109.0,13705,86.0
+1894270,2021-11-07,St. Croix,Virgin Islands,78010.0,3284,34.0
+1894559,2021-11-07,St. Croix,Wisconsin,55109.0,13705,86.0
+1897520,2021-11-08,St. Croix,Virgin Islands,78010.0,3309,34.0
+1897809,2021-11-08,St. Croix,Wisconsin,55109.0,13941,86.0
+1900770,2021-11-09,St. Croix,Virgin Islands,78010.0,3309,34.0
+1901059,2021-11-09,St. Croix,Wisconsin,55109.0,14040,86.0
+1904020,2021-11-10,St. Croix,Virgin Islands,78010.0,3327,35.0
+1904309,2021-11-10,St. Croix,Wisconsin,55109.0,14137,86.0
+1907269,2021-11-11,St. Croix,Virgin Islands,78010.0,3327,35.0
+1907558,2021-11-11,St. Croix,Wisconsin,55109.0,14274,86.0
+1910518,2021-11-12,St. Croix,Virgin Islands,78010.0,3327,35.0
+1910807,2021-11-12,St. Croix,Wisconsin,55109.0,14400,86.0
+1913768,2021-11-13,St. Croix,Virgin Islands,78010.0,3327,35.0
+1914057,2021-11-13,St. Croix,Wisconsin,55109.0,14400,86.0
+1917018,2021-11-14,St. Croix,Virgin Islands,78010.0,3327,35.0
+1917307,2021-11-14,St. Croix,Wisconsin,55109.0,14400,86.0
+1920268,2021-11-15,St. Croix,Virgin Islands,78010.0,3365,35.0
+1920557,2021-11-15,St. Croix,Wisconsin,55109.0,14659,86.0
+1923517,2021-11-16,St. Croix,Virgin Islands,78010.0,3365,35.0
+1923806,2021-11-16,St. Croix,Wisconsin,55109.0,14740,87.0
+1926767,2021-11-17,St. Croix,Virgin Islands,78010.0,3375,35.0
+1927056,2021-11-17,St. Croix,Wisconsin,55109.0,14859,87.0
+1930017,2021-11-18,St. Croix,Virgin Islands,78010.0,3418,35.0
+1930306,2021-11-18,St. Croix,Wisconsin,55109.0,14970,87.0
+1933268,2021-11-19,St. Croix,Virgin Islands,78010.0,3428,35.0
+1933558,2021-11-19,St. Croix,Wisconsin,55109.0,15082,87.0
+1936518,2021-11-20,St. Croix,Virgin Islands,78010.0,3428,35.0
+1936808,2021-11-20,St. Croix,Wisconsin,55109.0,15082,87.0
+1939768,2021-11-21,St. Croix,Virgin Islands,78010.0,3428,35.0
+1940058,2021-11-21,St. Croix,Wisconsin,55109.0,15082,87.0
+1943018,2021-11-22,St. Croix,Virgin Islands,78010.0,3450,35.0
+1943308,2021-11-22,St. Croix,Wisconsin,55109.0,15359,88.0
+1946269,2021-11-23,St. Croix,Virgin Islands,78010.0,3459,35.0
+1946559,2021-11-23,St. Croix,Wisconsin,55109.0,15446,89.0
+1949520,2021-11-24,St. Croix,Virgin Islands,78010.0,3468,35.0
+1949810,2021-11-24,St. Croix,Wisconsin,55109.0,15553,90.0
+1952771,2021-11-25,St. Croix,Virgin Islands,78010.0,3468,35.0
+1953061,2021-11-25,St. Croix,Wisconsin,55109.0,15640,90.0
+1956022,2021-11-26,St. Croix,Virgin Islands,78010.0,3468,35.0
+1956312,2021-11-26,St. Croix,Wisconsin,55109.0,15640,90.0
+1959273,2021-11-27,St. Croix,Virgin Islands,78010.0,3468,35.0
+1959563,2021-11-27,St. Croix,Wisconsin,55109.0,15640,90.0
+1962524,2021-11-28,St. Croix,Virgin Islands,78010.0,3468,35.0
+1962814,2021-11-28,St. Croix,Wisconsin,55109.0,15640,90.0
+1965776,2021-11-29,St. Croix,Virgin Islands,78010.0,3486,35.0
+1966066,2021-11-29,St. Croix,Wisconsin,55109.0,15926,90.0
+1969027,2021-11-30,St. Croix,Virgin Islands,78010.0,3488,37.0
+1969316,2021-11-30,St. Croix,Wisconsin,55109.0,15997,91.0
+1972277,2021-12-01,St. Croix,Virgin Islands,78010.0,3491,37.0
+1972566,2021-12-01,St. Croix,Wisconsin,55109.0,16104,91.0
+1975526,2021-12-02,St. Croix,Virgin Islands,78010.0,3499,37.0
+1975815,2021-12-02,St. Croix,Wisconsin,55109.0,16232,94.0
+1978776,2021-12-03,St. Croix,Virgin Islands,78010.0,3503,37.0
+1979065,2021-12-03,St. Croix,Wisconsin,55109.0,16333,96.0
+1982026,2021-12-04,St. Croix,Virgin Islands,78010.0,3503,37.0
+1982315,2021-12-04,St. Croix,Wisconsin,55109.0,16333,96.0
+1985276,2021-12-05,St. Croix,Virgin Islands,78010.0,3503,37.0
+1985565,2021-12-05,St. Croix,Wisconsin,55109.0,16333,96.0
+1988526,2021-12-06,St. Croix,Virgin Islands,78010.0,3516,37.0
+1988815,2021-12-06,St. Croix,Wisconsin,55109.0,16333,96.0
+1991777,2021-12-07,St. Croix,Virgin Islands,78010.0,3535,37.0
+1992066,2021-12-07,St. Croix,Wisconsin,55109.0,16333,96.0
+1995028,2021-12-08,St. Croix,Virgin Islands,78010.0,3541,37.0
+1995317,2021-12-08,St. Croix,Wisconsin,55109.0,16621,100.0
+1998279,2021-12-09,St. Croix,Virgin Islands,78010.0,3545,37.0
+1998568,2021-12-09,St. Croix,Wisconsin,55109.0,16735,100.0
+2001529,2021-12-10,St. Croix,Virgin Islands,78010.0,3545,37.0
+2001818,2021-12-10,St. Croix,Wisconsin,55109.0,16885,100.0
+2004780,2021-12-11,St. Croix,Virgin Islands,78010.0,3545,37.0
+2005069,2021-12-11,St. Croix,Wisconsin,55109.0,16885,100.0
+2008031,2021-12-12,St. Croix,Virgin Islands,78010.0,3545,37.0
+2008320,2021-12-12,St. Croix,Wisconsin,55109.0,16885,100.0
+2011282,2021-12-13,St. Croix,Virgin Islands,78010.0,3557,38.0
+2011571,2021-12-13,St. Croix,Wisconsin,55109.0,17039,100.0
+2014533,2021-12-14,St. Croix,Virgin Islands,78010.0,3557,38.0
+2014822,2021-12-14,St. Croix,Wisconsin,55109.0,17136,102.0
+2017783,2021-12-15,St. Croix,Virgin Islands,78010.0,3557,38.0
+2018072,2021-12-15,St. Croix,Wisconsin,55109.0,17167,106.0
+2021034,2021-12-16,St. Croix,Virgin Islands,78010.0,3557,38.0
+2021323,2021-12-16,St. Croix,Wisconsin,55109.0,17229,109.0
+2024285,2021-12-17,St. Croix,Virgin Islands,78010.0,3579,38.0
+2024574,2021-12-17,St. Croix,Wisconsin,55109.0,17324,110.0
+2027536,2021-12-18,St. Croix,Virgin Islands,78010.0,3579,38.0
+2027825,2021-12-18,St. Croix,Wisconsin,55109.0,17324,110.0
+2030787,2021-12-19,St. Croix,Virgin Islands,78010.0,3579,38.0
+2031076,2021-12-19,St. Croix,Wisconsin,55109.0,17324,110.0
+2034037,2021-12-20,St. Croix,Virgin Islands,78010.0,3603,38.0
+2034326,2021-12-20,St. Croix,Wisconsin,55109.0,17408,110.0
+2037287,2021-12-21,St. Croix,Virgin Islands,78010.0,3603,38.0
+2037576,2021-12-21,St. Croix,Wisconsin,55109.0,17497,110.0
+2040537,2021-12-22,St. Croix,Virgin Islands,78010.0,3648,38.0
+2040826,2021-12-22,St. Croix,Wisconsin,55109.0,17564,111.0
+2043786,2021-12-23,St. Croix,Virgin Islands,78010.0,3648,38.0
+2044075,2021-12-23,St. Croix,Wisconsin,55109.0,17617,113.0
+2047036,2021-12-24,St. Croix,Virgin Islands,78010.0,3648,38.0
+2047325,2021-12-24,St. Croix,Wisconsin,55109.0,17678,113.0
+2050286,2021-12-25,St. Croix,Virgin Islands,78010.0,3648,38.0
+2050575,2021-12-25,St. Croix,Wisconsin,55109.0,17678,113.0
+2053536,2021-12-26,St. Croix,Virgin Islands,78010.0,3648,38.0
+2053825,2021-12-26,St. Croix,Wisconsin,55109.0,17678,113.0
+2056785,2021-12-27,St. Croix,Virgin Islands,78010.0,3832,38.0
+2057074,2021-12-27,St. Croix,Wisconsin,55109.0,17821,114.0
+2060034,2021-12-28,St. Croix,Virgin Islands,78010.0,4001,38.0
+2060323,2021-12-28,St. Croix,Wisconsin,55109.0,17868,112.0
+2063284,2021-12-29,St. Croix,Virgin Islands,78010.0,4001,38.0
+2063573,2021-12-29,St. Croix,Wisconsin,55109.0,17923,112.0
+2066534,2021-12-30,St. Croix,Virgin Islands,78010.0,4282,38.0
+2066823,2021-12-30,St. Croix,Wisconsin,55109.0,18010,113.0
+2069785,2021-12-31,St. Croix,Virgin Islands,78010.0,4282,38.0
+2070074,2021-12-31,St. Croix,Wisconsin,55109.0,18144,116.0
+2073036,2022-01-01,St. Croix,Virgin Islands,78010.0,4282,38.0
+2073325,2022-01-01,St. Croix,Wisconsin,55109.0,18144,116.0
+2076287,2022-01-02,St. Croix,Virgin Islands,78010.0,4282,38.0
+2076576,2022-01-02,St. Croix,Wisconsin,55109.0,18144,116.0
+2079538,2022-01-03,St. Croix,Virgin Islands,78010.0,4818,38.0
+2079828,2022-01-03,St. Croix,Wisconsin,55109.0,18392,116.0
+2082790,2022-01-04,St. Croix,Virgin Islands,78010.0,5049,38.0
+2083080,2022-01-04,St. Croix,Wisconsin,55109.0,18519,116.0
+2086042,2022-01-05,St. Croix,Virgin Islands,78010.0,5049,38.0
+2086332,2022-01-05,St. Croix,Wisconsin,55109.0,18637,118.0
+2089293,2022-01-06,St. Croix,Virgin Islands,78010.0,5257,38.0
+2089583,2022-01-06,St. Croix,Wisconsin,55109.0,18892,117.0
+2092545,2022-01-07,St. Croix,Virgin Islands,78010.0,5257,38.0
+2092835,2022-01-07,St. Croix,Wisconsin,55109.0,19057,118.0
+2095797,2022-01-08,St. Croix,Virgin Islands,78010.0,5257,38.0
+2096087,2022-01-08,St. Croix,Wisconsin,55109.0,19057,118.0
+2099049,2022-01-09,St. Croix,Virgin Islands,78010.0,5668,38.0
+2099338,2022-01-09,St. Croix,Wisconsin,55109.0,19057,118.0
+2102300,2022-01-10,St. Croix,Virgin Islands,78010.0,5920,38.0
+2102589,2022-01-10,St. Croix,Wisconsin,55109.0,19633,118.0
+2105551,2022-01-11,St. Croix,Virgin Islands,78010.0,6076,38.0
+2105840,2022-01-11,St. Croix,Wisconsin,55109.0,19837,121.0
+2108802,2022-01-12,St. Croix,Virgin Islands,78010.0,6076,38.0
+2109091,2022-01-12,St. Croix,Wisconsin,55109.0,20000,121.0
+2112054,2022-01-13,St. Croix,Virgin Islands,78010.0,6347,38.0
+2112343,2022-01-13,St. Croix,Wisconsin,55109.0,20261,123.0
+2115306,2022-01-14,St. Croix,Virgin Islands,78010.0,6428,38.0
+2115595,2022-01-14,St. Croix,Wisconsin,55109.0,20553,124.0
+2118558,2022-01-15,St. Croix,Virgin Islands,78010.0,6428,38.0
+2118847,2022-01-15,St. Croix,Wisconsin,55109.0,20553,124.0
+2121810,2022-01-16,St. Croix,Virgin Islands,78010.0,6428,38.0
+2122099,2022-01-16,St. Croix,Wisconsin,55109.0,20553,124.0
+2125062,2022-01-17,St. Croix,Virgin Islands,78010.0,6566,38.0
+2125351,2022-01-17,St. Croix,Wisconsin,55109.0,21097,124.0
+2128314,2022-01-18,St. Croix,Virgin Islands,78010.0,6658,38.0
+2128604,2022-01-18,St. Croix,Wisconsin,55109.0,21340,124.0
+2131568,2022-01-19,St. Croix,Virgin Islands,78010.0,6658,38.0
+2131858,2022-01-19,St. Croix,Wisconsin,55109.0,21528,125.0
+2134820,2022-01-20,St. Croix,Virgin Islands,78010.0,6716,38.0
+2135110,2022-01-20,St. Croix,Wisconsin,55109.0,21795,126.0
+2138074,2022-01-21,St. Croix,Virgin Islands,78010.0,6716,38.0
+2138365,2022-01-21,St. Croix,Wisconsin,55109.0,21988,126.0
+2141330,2022-01-22,St. Croix,Virgin Islands,78010.0,6716,38.0
+2141621,2022-01-22,St. Croix,Wisconsin,55109.0,21988,126.0
+2144585,2022-01-23,St. Croix,Virgin Islands,78010.0,6716,38.0
+2144876,2022-01-23,St. Croix,Wisconsin,55109.0,21988,126.0
+2147839,2022-01-24,St. Croix,Virgin Islands,78010.0,6971,41.0
+2148128,2022-01-24,St. Croix,Wisconsin,55109.0,22383,126.0
+2151091,2022-01-25,St. Croix,Virgin Islands,78010.0,7002,41.0
+2151380,2022-01-25,St. Croix,Wisconsin,55109.0,22510,125.0
+2154343,2022-01-26,St. Croix,Virgin Islands,78010.0,7102,41.0
+2154633,2022-01-26,St. Croix,Wisconsin,55109.0,22605,126.0
+2157596,2022-01-27,St. Croix,Virgin Islands,78010.0,7146,41.0
+2157886,2022-01-27,St. Croix,Wisconsin,55109.0,22751,126.0
+2160852,2022-01-28,St. Croix,Virgin Islands,78010.0,7186,41.0
+2161142,2022-01-28,St. Croix,Wisconsin,55109.0,22912,126.0
+2164107,2022-01-29,St. Croix,Virgin Islands,78010.0,7186,41.0
+2164397,2022-01-29,St. Croix,Wisconsin,55109.0,22912,126.0
+2167362,2022-01-30,St. Croix,Virgin Islands,78010.0,7186,41.0
+2167652,2022-01-30,St. Croix,Wisconsin,55109.0,22912,126.0
+2170616,2022-01-31,St. Croix,Virgin Islands,78010.0,7219,42.0
+2170905,2022-01-31,St. Croix,Wisconsin,55109.0,23214,128.0
+2173868,2022-02-01,St. Croix,Virgin Islands,78010.0,7245,42.0
+2174157,2022-02-01,St. Croix,Wisconsin,55109.0,23283,129.0
+2177121,2022-02-02,St. Croix,Virgin Islands,78010.0,7245,42.0
+2177410,2022-02-02,St. Croix,Wisconsin,55109.0,23347,132.0
+2180372,2022-02-03,St. Croix,Virgin Islands,78010.0,7287,43.0
+2180661,2022-02-03,St. Croix,Wisconsin,55109.0,23431,133.0
+2183624,2022-02-04,St. Croix,Virgin Islands,78010.0,7302,43.0
+2183913,2022-02-04,St. Croix,Wisconsin,55109.0,23502,134.0
+2186877,2022-02-05,St. Croix,Virgin Islands,78010.0,7302,43.0
+2187166,2022-02-05,St. Croix,Wisconsin,55109.0,23502,134.0
+2190130,2022-02-06,St. Croix,Virgin Islands,78010.0,7302,43.0
+2190419,2022-02-06,St. Croix,Wisconsin,55109.0,23502,134.0
+2193383,2022-02-07,St. Croix,Virgin Islands,78010.0,7302,43.0
+2193672,2022-02-07,St. Croix,Wisconsin,55109.0,23636,134.0
+2196637,2022-02-08,St. Croix,Virgin Islands,78010.0,7344,43.0
+2196927,2022-02-08,St. Croix,Wisconsin,55109.0,23674,133.0
+2199891,2022-02-09,St. Croix,Virgin Islands,78010.0,7344,43.0
+2200181,2022-02-09,St. Croix,Wisconsin,55109.0,23709,135.0
+2203145,2022-02-10,St. Croix,Virgin Islands,78010.0,7344,43.0
+2203435,2022-02-10,St. Croix,Wisconsin,55109.0,23765,136.0
+2206398,2022-02-11,St. Croix,Virgin Islands,78010.0,7406,43.0
+2206688,2022-02-11,St. Croix,Wisconsin,55109.0,23789,136.0
+2209651,2022-02-12,St. Croix,Virgin Islands,78010.0,7406,43.0
+2209941,2022-02-12,St. Croix,Wisconsin,55109.0,23789,136.0
+2212904,2022-02-13,St. Croix,Virgin Islands,78010.0,7406,43.0
+2213194,2022-02-13,St. Croix,Wisconsin,55109.0,23789,136.0
+2216155,2022-02-14,St. Croix,Virgin Islands,78010.0,7413,43.0
+2216445,2022-02-14,St. Croix,Wisconsin,55109.0,23874,136.0
+2219406,2022-02-15,St. Croix,Virgin Islands,78010.0,7453,44.0
+2219695,2022-02-15,St. Croix,Wisconsin,55109.0,23902,136.0
+2222657,2022-02-16,St. Croix,Virgin Islands,78010.0,7453,44.0
+2222946,2022-02-16,St. Croix,Wisconsin,55109.0,23938,136.0
+2225908,2022-02-17,St. Croix,Virgin Islands,78010.0,7472,45.0
+2226197,2022-02-17,St. Croix,Wisconsin,55109.0,23978,136.0
+2229159,2022-02-18,St. Croix,Virgin Islands,78010.0,7472,45.0
+2229448,2022-02-18,St. Croix,Wisconsin,55109.0,24001,136.0
+2232410,2022-02-19,St. Croix,Virgin Islands,78010.0,7472,45.0
+2232699,2022-02-19,St. Croix,Wisconsin,55109.0,24001,136.0
+2235661,2022-02-20,St. Croix,Virgin Islands,78010.0,7472,45.0
+2235950,2022-02-20,St. Croix,Wisconsin,55109.0,24001,136.0
+2238912,2022-02-21,St. Croix,Virgin Islands,78010.0,7472,45.0
+2239201,2022-02-21,St. Croix,Wisconsin,55109.0,24043,137.0
+2242163,2022-02-22,St. Croix,Virgin Islands,78010.0,7472,45.0
+2242452,2022-02-22,St. Croix,Wisconsin,55109.0,24068,137.0
+2245414,2022-02-23,St. Croix,Virgin Islands,78010.0,7472,45.0
+2245703,2022-02-23,St. Croix,Wisconsin,55109.0,24102,138.0
+2248665,2022-02-24,St. Croix,Virgin Islands,78010.0,7535,45.0
+2248954,2022-02-24,St. Croix,Wisconsin,55109.0,24120,138.0
+2251916,2022-02-25,St. Croix,Virgin Islands,78010.0,7551,45.0
+2252205,2022-02-25,St. Croix,Wisconsin,55109.0,24159,139.0
+2255167,2022-02-26,St. Croix,Virgin Islands,78010.0,7551,45.0
+2255456,2022-02-26,St. Croix,Wisconsin,55109.0,24159,139.0
+2258418,2022-02-27,St. Croix,Virgin Islands,78010.0,7551,45.0
+2258707,2022-02-27,St. Croix,Wisconsin,55109.0,24159,139.0
+2261669,2022-02-28,St. Croix,Virgin Islands,78010.0,7576,45.0
+2261958,2022-02-28,St. Croix,Wisconsin,55109.0,24186,140.0
+2264919,2022-03-01,St. Croix,Virgin Islands,78010.0,7580,45.0
+2265208,2022-03-01,St. Croix,Wisconsin,55109.0,24206,140.0
+2268172,2022-03-02,St. Croix,Virgin Islands,78010.0,7587,45.0
+2268461,2022-03-02,St. Croix,Wisconsin,55109.0,24240,141.0
+2271424,2022-03-03,St. Croix,Virgin Islands,78010.0,7588,45.0
+2271713,2022-03-03,St. Croix,Wisconsin,55109.0,24256,142.0
+2274677,2022-03-04,St. Croix,Virgin Islands,78010.0,7595,45.0
+2274966,2022-03-04,St. Croix,Wisconsin,55109.0,24279,142.0
+2277930,2022-03-05,St. Croix,Virgin Islands,78010.0,7595,45.0
+2278219,2022-03-05,St. Croix,Wisconsin,55109.0,24279,142.0
+2281183,2022-03-06,St. Croix,Virgin Islands,78010.0,7595,45.0
+2281472,2022-03-06,St. Croix,Wisconsin,55109.0,24279,142.0
+2284435,2022-03-07,St. Croix,Virgin Islands,78010.0,7595,45.0
+2284724,2022-03-07,St. Croix,Wisconsin,55109.0,24288,143.0
+2287687,2022-03-08,St. Croix,Virgin Islands,78010.0,7601,45.0
+2287976,2022-03-08,St. Croix,Wisconsin,55109.0,24294,143.0
+2290939,2022-03-09,St. Croix,Virgin Islands,78010.0,7603,45.0
+2291228,2022-03-09,St. Croix,Wisconsin,55109.0,24313,143.0
+2294191,2022-03-10,St. Croix,Virgin Islands,78010.0,7607,45.0
+2294480,2022-03-10,St. Croix,Wisconsin,55109.0,24324,143.0
+2297443,2022-03-11,St. Croix,Virgin Islands,78010.0,7671,45.0
+2297732,2022-03-11,St. Croix,Wisconsin,55109.0,24327,143.0
+2300695,2022-03-12,St. Croix,Virgin Islands,78010.0,7671,45.0
+2300984,2022-03-12,St. Croix,Wisconsin,55109.0,24327,143.0
+2303947,2022-03-13,St. Croix,Virgin Islands,78010.0,7671,45.0
+2304236,2022-03-13,St. Croix,Wisconsin,55109.0,24327,143.0
+2307198,2022-03-14,St. Croix,Virgin Islands,78010.0,7671,45.0
+2307487,2022-03-14,St. Croix,Wisconsin,55109.0,24342,144.0
+2310451,2022-03-15,St. Croix,Virgin Islands,78010.0,7678,45.0
+2310740,2022-03-15,St. Croix,Wisconsin,55109.0,24348,144.0
+2313704,2022-03-16,St. Croix,Virgin Islands,78010.0,7680,45.0
+2313993,2022-03-16,St. Croix,Wisconsin,55109.0,24362,144.0
+2316957,2022-03-17,St. Croix,Virgin Islands,78010.0,7682,46.0
+2317246,2022-03-17,St. Croix,Wisconsin,55109.0,24388,144.0
+2320211,2022-03-18,St. Croix,Virgin Islands,78010.0,7683,46.0
+2320500,2022-03-18,St. Croix,Wisconsin,55109.0,24399,144.0
+2323465,2022-03-19,St. Croix,Virgin Islands,78010.0,7683,46.0
+2323754,2022-03-19,St. Croix,Wisconsin,55109.0,24399,144.0
+2326718,2022-03-20,St. Croix,Virgin Islands,78010.0,7683,46.0
+2327007,2022-03-20,St. Croix,Wisconsin,55109.0,24399,144.0
+2329970,2022-03-21,St. Croix,Virgin Islands,78010.0,7686,46.0
+2330259,2022-03-21,St. Croix,Wisconsin,55109.0,24422,144.0
+2333223,2022-03-22,St. Croix,Virgin Islands,78010.0,7690,46.0
+2333513,2022-03-22,St. Croix,Wisconsin,55109.0,24438,145.0
+2336477,2022-03-23,St. Croix,Virgin Islands,78010.0,7694,46.0
+2336767,2022-03-23,St. Croix,Wisconsin,55109.0,24446,145.0
+2339731,2022-03-24,St. Croix,Virgin Islands,78010.0,7704,46.0
+2340020,2022-03-24,St. Croix,Wisconsin,55109.0,24464,145.0
+2342984,2022-03-25,St. Croix,Virgin Islands,78010.0,7706,46.0
+2343273,2022-03-25,St. Croix,Wisconsin,55109.0,24482,146.0
+2346237,2022-03-26,St. Croix,Virgin Islands,78010.0,7706,46.0
+2346526,2022-03-26,St. Croix,Wisconsin,55109.0,24482,146.0
+2349490,2022-03-27,St. Croix,Virgin Islands,78010.0,7706,46.0
+2349779,2022-03-27,St. Croix,Wisconsin,55109.0,24482,146.0
+2352742,2022-03-28,St. Croix,Virgin Islands,78010.0,7706,46.0
+2353031,2022-03-28,St. Croix,Wisconsin,55109.0,24496,146.0
+2355995,2022-03-29,St. Croix,Virgin Islands,78010.0,7723,47.0
+2356284,2022-03-29,St. Croix,Wisconsin,55109.0,24515,146.0
+2359249,2022-03-30,St. Croix,Virgin Islands,78010.0,7723,47.0
+2359538,2022-03-30,St. Croix,Wisconsin,55109.0,24526,146.0
+2362503,2022-03-31,St. Croix,Virgin Islands,78010.0,7724,47.0
+2362792,2022-03-31,St. Croix,Wisconsin,55109.0,24547,146.0
+2365756,2022-04-01,St. Croix,Virgin Islands,78010.0,7730,47.0
+2366045,2022-04-01,St. Croix,Wisconsin,55109.0,24558,147.0
+2369009,2022-04-02,St. Croix,Virgin Islands,78010.0,7730,47.0
+2369298,2022-04-02,St. Croix,Wisconsin,55109.0,24558,147.0
+2372262,2022-04-03,St. Croix,Virgin Islands,78010.0,7730,47.0
+2372551,2022-04-03,St. Croix,Wisconsin,55109.0,24558,147.0
+2375514,2022-04-04,St. Croix,Virgin Islands,78010.0,7730,47.0
+2375803,2022-04-04,St. Croix,Wisconsin,55109.0,24580,147.0
+2378768,2022-04-05,St. Croix,Virgin Islands,78010.0,7737,47.0
+2379057,2022-04-05,St. Croix,Wisconsin,55109.0,24601,147.0
+2382023,2022-04-06,St. Croix,Virgin Islands,78010.0,7745,47.0
+2382312,2022-04-06,St. Croix,Wisconsin,55109.0,24611,147.0
+2385278,2022-04-07,St. Croix,Virgin Islands,78010.0,7751,47.0
+2385567,2022-04-07,St. Croix,Wisconsin,55109.0,24635,147.0
+2388533,2022-04-08,St. Croix,Virgin Islands,78010.0,7759,47.0
+2388822,2022-04-08,St. Croix,Wisconsin,55109.0,24665,147.0
+2391789,2022-04-09,St. Croix,Virgin Islands,78010.0,7759,47.0
+2392078,2022-04-09,St. Croix,Wisconsin,55109.0,24665,147.0
