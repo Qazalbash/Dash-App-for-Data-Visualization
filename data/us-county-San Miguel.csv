@@ -1,1504 +1,1504 @@
-,date,county,state,fips,cases,deaths
-4857,2020-03-19,San Miguel,New Mexico,35047.0,1,0.0
-5282,2020-03-20,San Miguel,Colorado,8113.0,1,0.0
-5703,2020-03-20,San Miguel,New Mexico,35047.0,1,0.0
-6209,2020-03-21,San Miguel,Colorado,8113.0,1,0.0
-6697,2020-03-21,San Miguel,New Mexico,35047.0,1,0.0
-7244,2020-03-22,San Miguel,Colorado,8113.0,1,0.0
-7790,2020-03-22,San Miguel,New Mexico,35047.0,1,0.0
-8389,2020-03-23,San Miguel,Colorado,8113.0,1,0.0
-8987,2020-03-23,San Miguel,New Mexico,35047.0,1,0.0
-9634,2020-03-24,San Miguel,Colorado,8113.0,1,0.0
-10293,2020-03-24,San Miguel,New Mexico,35047.0,1,0.0
-11008,2020-03-25,San Miguel,Colorado,8113.0,1,0.0
-11727,2020-03-25,San Miguel,New Mexico,35047.0,1,0.0
-12555,2020-03-26,San Miguel,Colorado,8113.0,1,0.0
-13330,2020-03-26,San Miguel,New Mexico,35047.0,1,0.0
-14224,2020-03-27,San Miguel,Colorado,8113.0,1,0.0
-15063,2020-03-27,San Miguel,New Mexico,35047.0,1,0.0
-16008,2020-03-28,San Miguel,Colorado,8113.0,1,0.0
-16892,2020-03-28,San Miguel,New Mexico,35047.0,1,0.0
-17900,2020-03-29,San Miguel,Colorado,8113.0,1,0.0
-18816,2020-03-29,San Miguel,New Mexico,35047.0,1,0.0
-19879,2020-03-30,San Miguel,Colorado,8113.0,1,0.0
-20854,2020-03-30,San Miguel,New Mexico,35047.0,1,0.0
-21956,2020-03-31,San Miguel,Colorado,8113.0,4,0.0
-22977,2020-03-31,San Miguel,New Mexico,35047.0,1,0.0
-24115,2020-04-01,San Miguel,Colorado,8113.0,4,0.0
-25171,2020-04-01,San Miguel,New Mexico,35047.0,1,0.0
-26345,2020-04-02,San Miguel,Colorado,8113.0,7,0.0
-27431,2020-04-02,San Miguel,New Mexico,35047.0,1,0.0
-28647,2020-04-03,San Miguel,Colorado,8113.0,9,0.0
-29754,2020-04-03,San Miguel,New Mexico,35047.0,1,0.0
-31005,2020-04-04,San Miguel,Colorado,8113.0,9,0.0
-32141,2020-04-04,San Miguel,New Mexico,35047.0,1,0.0
-33411,2020-04-05,San Miguel,Colorado,8113.0,10,0.0
-34572,2020-04-05,San Miguel,New Mexico,35047.0,1,0.0
-35856,2020-04-06,San Miguel,Colorado,8113.0,10,0.0
-37042,2020-04-06,San Miguel,New Mexico,35047.0,1,0.0
-38346,2020-04-07,San Miguel,Colorado,8113.0,10,0.0
-39557,2020-04-07,San Miguel,New Mexico,35047.0,1,0.0
-40889,2020-04-08,San Miguel,Colorado,8113.0,10,0.0
-42114,2020-04-08,San Miguel,New Mexico,35047.0,1,0.0
-43463,2020-04-09,San Miguel,Colorado,8113.0,11,0.0
-44697,2020-04-09,San Miguel,New Mexico,35047.0,1,0.0
-46063,2020-04-10,San Miguel,Colorado,8113.0,11,0.0
-47310,2020-04-10,San Miguel,New Mexico,35047.0,1,0.0
-48693,2020-04-11,San Miguel,Colorado,8113.0,12,0.0
-49965,2020-04-11,San Miguel,New Mexico,35047.0,1,0.0
-51355,2020-04-12,San Miguel,Colorado,8113.0,12,0.0
-52638,2020-04-12,San Miguel,New Mexico,35047.0,1,0.0
-54034,2020-04-13,San Miguel,Colorado,8113.0,12,0.0
-55321,2020-04-13,San Miguel,New Mexico,35047.0,1,0.0
-56726,2020-04-14,San Miguel,Colorado,8113.0,12,0.0
-58021,2020-04-14,San Miguel,New Mexico,35047.0,2,0.0
-59434,2020-04-15,San Miguel,Colorado,8113.0,12,0.0
-60735,2020-04-15,San Miguel,New Mexico,35047.0,2,0.0
-62153,2020-04-16,San Miguel,Colorado,8113.0,12,0.0
-63461,2020-04-16,San Miguel,New Mexico,35047.0,2,0.0
-64886,2020-04-17,San Miguel,Colorado,8113.0,13,0.0
-66203,2020-04-17,San Miguel,New Mexico,35047.0,2,0.0
-67634,2020-04-18,San Miguel,Colorado,8113.0,13,0.0
-68960,2020-04-18,San Miguel,New Mexico,35047.0,2,0.0
-70396,2020-04-19,San Miguel,Colorado,8113.0,15,0.0
-71727,2020-04-19,San Miguel,New Mexico,35047.0,2,0.0
-73165,2020-04-20,San Miguel,Colorado,8113.0,17,0.0
-74502,2020-04-20,San Miguel,New Mexico,35047.0,2,0.0
-75941,2020-04-21,San Miguel,Colorado,8113.0,17,0.0
-77283,2020-04-21,San Miguel,New Mexico,35047.0,2,0.0
-78725,2020-04-22,San Miguel,Colorado,8113.0,17,0.0
-80072,2020-04-22,San Miguel,New Mexico,35047.0,2,0.0
-81519,2020-04-23,San Miguel,Colorado,8113.0,17,0.0
-82871,2020-04-23,San Miguel,New Mexico,35047.0,2,0.0
-84319,2020-04-24,San Miguel,Colorado,8113.0,17,0.0
-85675,2020-04-24,San Miguel,New Mexico,35047.0,2,0.0
-87127,2020-04-25,San Miguel,Colorado,8113.0,17,0.0
-88486,2020-04-25,San Miguel,New Mexico,35047.0,2,0.0
-89944,2020-04-26,San Miguel,Colorado,8113.0,19,0.0
-91301,2020-04-26,San Miguel,New Mexico,35047.0,2,0.0
-92762,2020-04-27,San Miguel,Colorado,8113.0,19,0.0
-94125,2020-04-27,San Miguel,New Mexico,35047.0,2,0.0
-95594,2020-04-28,San Miguel,Colorado,8113.0,19,0.0
-96961,2020-04-28,San Miguel,New Mexico,35047.0,2,0.0
-98439,2020-04-29,San Miguel,Colorado,8113.0,19,0.0
-99808,2020-04-29,San Miguel,New Mexico,35047.0,2,0.0
-101289,2020-04-30,San Miguel,Colorado,8113.0,19,0.0
-102661,2020-04-30,San Miguel,New Mexico,35047.0,2,0.0
-104144,2020-05-01,San Miguel,Colorado,8113.0,19,0.0
-105523,2020-05-01,San Miguel,New Mexico,35047.0,2,0.0
-107009,2020-05-02,San Miguel,Colorado,8113.0,19,0.0
-108389,2020-05-02,San Miguel,New Mexico,35047.0,2,0.0
-109878,2020-05-03,San Miguel,Colorado,8113.0,19,0.0
-111262,2020-05-03,San Miguel,New Mexico,35047.0,2,0.0
-112753,2020-05-04,San Miguel,Colorado,8113.0,20,0.0
-114143,2020-05-04,San Miguel,New Mexico,35047.0,2,0.0
-115636,2020-05-05,San Miguel,Colorado,8113.0,20,0.0
-117024,2020-05-05,San Miguel,New Mexico,35047.0,3,0.0
-118596,2020-05-06,San Miguel,Colorado,8113.0,20,0.0
-119985,2020-05-06,San Miguel,New Mexico,35047.0,4,0.0
-121565,2020-05-07,San Miguel,Colorado,8113.0,20,0.0
-122960,2020-05-07,San Miguel,New Mexico,35047.0,4,0.0
-124545,2020-05-08,San Miguel,Colorado,8113.0,20,0.0
-125943,2020-05-08,San Miguel,New Mexico,35047.0,5,0.0
-127531,2020-05-09,San Miguel,Colorado,8113.0,20,0.0
-128932,2020-05-09,San Miguel,New Mexico,35047.0,6,0.0
-130522,2020-05-10,San Miguel,Colorado,8113.0,20,0.0
-131921,2020-05-10,San Miguel,New Mexico,35047.0,6,0.0
-133513,2020-05-11,San Miguel,Colorado,8113.0,20,0.0
-134912,2020-05-11,San Miguel,New Mexico,35047.0,7,0.0
-136502,2020-05-12,San Miguel,Colorado,8113.0,22,0.0
-137902,2020-05-12,San Miguel,New Mexico,35047.0,7,0.0
-139493,2020-05-13,San Miguel,Colorado,8113.0,22,0.0
-140898,2020-05-13,San Miguel,New Mexico,35047.0,7,0.0
-142489,2020-05-14,San Miguel,Colorado,8113.0,22,0.0
-143893,2020-05-14,San Miguel,New Mexico,35047.0,7,0.0
-145489,2020-05-15,San Miguel,Colorado,8113.0,22,0.0
-146894,2020-05-15,San Miguel,New Mexico,35047.0,9,0.0
-148492,2020-05-16,San Miguel,Colorado,8113.0,22,0.0
-149901,2020-05-16,San Miguel,New Mexico,35047.0,10,0.0
-151501,2020-05-17,San Miguel,Colorado,8113.0,22,0.0
-152911,2020-05-17,San Miguel,New Mexico,35047.0,10,0.0
-154513,2020-05-18,San Miguel,Colorado,8113.0,22,0.0
-155928,2020-05-18,San Miguel,New Mexico,35047.0,10,0.0
-157529,2020-05-19,San Miguel,Colorado,8113.0,22,0.0
-158946,2020-05-19,San Miguel,New Mexico,35047.0,10,0.0
-160555,2020-05-20,San Miguel,Colorado,8113.0,22,0.0
-161972,2020-05-20,San Miguel,New Mexico,35047.0,10,0.0
-163583,2020-05-21,San Miguel,Colorado,8113.0,23,0.0
-165001,2020-05-21,San Miguel,New Mexico,35047.0,10,0.0
-166616,2020-05-22,San Miguel,Colorado,8113.0,23,0.0
-168037,2020-05-22,San Miguel,New Mexico,35047.0,10,0.0
-169653,2020-05-23,San Miguel,Colorado,8113.0,23,0.0
-171076,2020-05-23,San Miguel,New Mexico,35047.0,11,0.0
-172694,2020-05-24,San Miguel,Colorado,8113.0,23,0.0
-174118,2020-05-24,San Miguel,New Mexico,35047.0,11,0.0
-175738,2020-05-25,San Miguel,Colorado,8113.0,23,0.0
-177161,2020-05-25,San Miguel,New Mexico,35047.0,15,0.0
-178782,2020-05-26,San Miguel,Colorado,8113.0,23,0.0
-180205,2020-05-26,San Miguel,New Mexico,35047.0,15,0.0
-181826,2020-05-27,San Miguel,Colorado,8113.0,23,0.0
-183253,2020-05-27,San Miguel,New Mexico,35047.0,14,0.0
-184880,2020-05-28,San Miguel,Colorado,8113.0,23,0.0
-186310,2020-05-28,San Miguel,New Mexico,35047.0,14,0.0
-187936,2020-05-29,San Miguel,Colorado,8113.0,23,0.0
-189370,2020-05-29,San Miguel,New Mexico,35047.0,15,0.0
-191001,2020-05-30,San Miguel,Colorado,8113.0,23,0.0
-192434,2020-05-30,San Miguel,New Mexico,35047.0,15,0.0
-194068,2020-05-31,San Miguel,Colorado,8113.0,23,0.0
-195504,2020-05-31,San Miguel,New Mexico,35047.0,15,0.0
-197138,2020-06-01,San Miguel,Colorado,8113.0,23,0.0
-198577,2020-06-01,San Miguel,New Mexico,35047.0,15,0.0
-200211,2020-06-02,San Miguel,Colorado,8113.0,23,0.0
-201651,2020-06-02,San Miguel,New Mexico,35047.0,15,0.0
-203287,2020-06-03,San Miguel,Colorado,8113.0,24,0.0
-204728,2020-06-03,San Miguel,New Mexico,35047.0,15,0.0
-206367,2020-06-04,San Miguel,Colorado,8113.0,24,0.0
-207809,2020-06-04,San Miguel,New Mexico,35047.0,15,0.0
-209448,2020-06-05,San Miguel,Colorado,8113.0,23,0.0
-210891,2020-06-05,San Miguel,New Mexico,35047.0,15,0.0
-212533,2020-06-06,San Miguel,Colorado,8113.0,23,0.0
-213975,2020-06-06,San Miguel,New Mexico,35047.0,15,0.0
-215620,2020-06-07,San Miguel,Colorado,8113.0,23,0.0
-217064,2020-06-07,San Miguel,New Mexico,35047.0,15,0.0
-218711,2020-06-08,San Miguel,Colorado,8113.0,23,0.0
-220156,2020-06-08,San Miguel,New Mexico,35047.0,16,0.0
-221806,2020-06-09,San Miguel,Colorado,8113.0,23,0.0
-223251,2020-06-09,San Miguel,New Mexico,35047.0,16,0.0
-224901,2020-06-10,San Miguel,Colorado,8113.0,23,0.0
-226351,2020-06-10,San Miguel,New Mexico,35047.0,16,0.0
-228003,2020-06-11,San Miguel,Colorado,8113.0,23,0.0
-229455,2020-06-11,San Miguel,New Mexico,35047.0,16,0.0
-231106,2020-06-12,San Miguel,Colorado,8113.0,23,0.0
-232560,2020-06-12,San Miguel,New Mexico,35047.0,16,0.0
-234212,2020-06-13,San Miguel,Colorado,8113.0,24,0.0
-235665,2020-06-13,San Miguel,New Mexico,35047.0,16,0.0
-237319,2020-06-14,San Miguel,Colorado,8113.0,24,0.0
-238772,2020-06-14,San Miguel,New Mexico,35047.0,16,0.0
-240427,2020-06-15,San Miguel,Colorado,8113.0,24,0.0
-241882,2020-06-15,San Miguel,New Mexico,35047.0,16,0.0
-243538,2020-06-16,San Miguel,Colorado,8113.0,25,0.0
-244994,2020-06-16,San Miguel,New Mexico,35047.0,16,0.0
-246651,2020-06-17,San Miguel,Colorado,8113.0,25,0.0
-248107,2020-06-17,San Miguel,New Mexico,35047.0,16,0.0
-249763,2020-06-18,San Miguel,Colorado,8113.0,28,0.0
-251222,2020-06-18,San Miguel,New Mexico,35047.0,18,0.0
-252878,2020-06-19,San Miguel,Colorado,8113.0,28,0.0
-254337,2020-06-19,San Miguel,New Mexico,35047.0,18,0.0
-255997,2020-06-20,San Miguel,Colorado,8113.0,28,0.0
-257460,2020-06-20,San Miguel,New Mexico,35047.0,18,0.0
-259124,2020-06-21,San Miguel,Colorado,8113.0,28,0.0
-260586,2020-06-21,San Miguel,New Mexico,35047.0,18,0.0
-262251,2020-06-22,San Miguel,Colorado,8113.0,28,0.0
-263715,2020-06-22,San Miguel,New Mexico,35047.0,18,0.0
-265379,2020-06-23,San Miguel,Colorado,8113.0,32,0.0
-266842,2020-06-23,San Miguel,New Mexico,35047.0,18,0.0
-268509,2020-06-24,San Miguel,Colorado,8113.0,32,0.0
-269977,2020-06-24,San Miguel,New Mexico,35047.0,18,0.0
-271645,2020-06-25,San Miguel,Colorado,8113.0,34,0.0
-273116,2020-06-25,San Miguel,New Mexico,35047.0,18,0.0
-274785,2020-06-26,San Miguel,Colorado,8113.0,35,0.0
-276261,2020-06-26,San Miguel,New Mexico,35047.0,20,0.0
-277933,2020-06-27,San Miguel,Colorado,8113.0,35,0.0
-279409,2020-06-27,San Miguel,New Mexico,35047.0,20,0.0
-281080,2020-06-28,San Miguel,Colorado,8113.0,36,0.0
-282556,2020-06-28,San Miguel,New Mexico,35047.0,21,0.0
-284226,2020-06-29,San Miguel,Colorado,8113.0,37,0.0
-285701,2020-06-29,San Miguel,New Mexico,35047.0,21,0.0
-287372,2020-06-30,San Miguel,Colorado,8113.0,37,0.0
-288851,2020-06-30,San Miguel,New Mexico,35047.0,21,0.0
-290523,2020-07-01,San Miguel,Colorado,8113.0,39,0.0
-292003,2020-07-01,San Miguel,New Mexico,35047.0,21,0.0
-293677,2020-07-02,San Miguel,Colorado,8113.0,39,0.0
-295158,2020-07-02,San Miguel,New Mexico,35047.0,22,0.0
-296833,2020-07-03,San Miguel,Colorado,8113.0,39,0.0
-298318,2020-07-03,San Miguel,New Mexico,35047.0,22,0.0
-299995,2020-07-04,San Miguel,Colorado,8113.0,39,0.0
-301481,2020-07-04,San Miguel,New Mexico,35047.0,22,0.0
-303159,2020-07-05,San Miguel,Colorado,8113.0,39,0.0
-304644,2020-07-05,San Miguel,New Mexico,35047.0,22,0.0
-306323,2020-07-06,San Miguel,Colorado,8113.0,39,0.0
-307811,2020-07-06,San Miguel,New Mexico,35047.0,22,0.0
-309491,2020-07-07,San Miguel,Colorado,8113.0,39,0.0
-310979,2020-07-07,San Miguel,New Mexico,35047.0,23,0.0
-312661,2020-07-08,San Miguel,Colorado,8113.0,41,0.0
-314150,2020-07-08,San Miguel,New Mexico,35047.0,23,0.0
-315836,2020-07-09,San Miguel,Colorado,8113.0,43,0.0
-317324,2020-07-09,San Miguel,New Mexico,35047.0,23,0.0
-319009,2020-07-10,San Miguel,Colorado,8113.0,45,0.0
-320501,2020-07-10,San Miguel,New Mexico,35047.0,25,0.0
-322188,2020-07-11,San Miguel,Colorado,8113.0,48,0.0
-323681,2020-07-11,San Miguel,New Mexico,35047.0,25,0.0
-325369,2020-07-12,San Miguel,Colorado,8113.0,49,0.0
-326865,2020-07-12,San Miguel,New Mexico,35047.0,26,0.0
-328555,2020-07-13,San Miguel,Colorado,8113.0,50,0.0
-330052,2020-07-13,San Miguel,New Mexico,35047.0,27,0.0
-331741,2020-07-14,San Miguel,Colorado,8113.0,50,0.0
-333242,2020-07-14,San Miguel,New Mexico,35047.0,28,0.0
-334934,2020-07-15,San Miguel,Colorado,8113.0,57,0.0
-336436,2020-07-15,San Miguel,New Mexico,35047.0,28,0.0
-338129,2020-07-16,San Miguel,Colorado,8113.0,60,0.0
-339632,2020-07-16,San Miguel,New Mexico,35047.0,29,0.0
-341326,2020-07-17,San Miguel,Colorado,8113.0,64,0.0
-342830,2020-07-17,San Miguel,New Mexico,35047.0,30,0.0
-344525,2020-07-18,San Miguel,Colorado,8113.0,64,0.0
-346029,2020-07-18,San Miguel,New Mexico,35047.0,31,0.0
-347725,2020-07-19,San Miguel,Colorado,8113.0,66,0.0
-349230,2020-07-19,San Miguel,New Mexico,35047.0,32,0.0
-350926,2020-07-20,San Miguel,Colorado,8113.0,67,0.0
-352433,2020-07-20,San Miguel,New Mexico,35047.0,34,0.0
-354128,2020-07-21,San Miguel,Colorado,8113.0,68,0.0
-355636,2020-07-21,San Miguel,New Mexico,35047.0,34,0.0
-357331,2020-07-22,San Miguel,Colorado,8113.0,69,0.0
-358840,2020-07-22,San Miguel,New Mexico,35047.0,36,0.0
-360536,2020-07-23,San Miguel,Colorado,8113.0,70,0.0
-362046,2020-07-23,San Miguel,New Mexico,35047.0,35,0.0
-363743,2020-07-24,San Miguel,Colorado,8113.0,70,0.0
-365252,2020-07-24,San Miguel,New Mexico,35047.0,36,0.0
-366950,2020-07-25,San Miguel,Colorado,8113.0,73,0.0
-368461,2020-07-25,San Miguel,New Mexico,35047.0,37,0.0
-370160,2020-07-26,San Miguel,Colorado,8113.0,73,0.0
-371673,2020-07-26,San Miguel,New Mexico,35047.0,39,0.0
-373372,2020-07-27,San Miguel,Colorado,8113.0,73,0.0
-374885,2020-07-27,San Miguel,New Mexico,35047.0,39,0.0
-376586,2020-07-28,San Miguel,Colorado,8113.0,73,0.0
-378100,2020-07-28,San Miguel,New Mexico,35047.0,40,0.0
-379803,2020-07-29,San Miguel,Colorado,8113.0,73,0.0
-381318,2020-07-29,San Miguel,New Mexico,35047.0,40,0.0
-383020,2020-07-30,San Miguel,Colorado,8113.0,73,0.0
-384536,2020-07-30,San Miguel,New Mexico,35047.0,41,0.0
-386238,2020-07-31,San Miguel,Colorado,8113.0,73,0.0
-387753,2020-07-31,San Miguel,New Mexico,35047.0,41,0.0
-389455,2020-08-01,San Miguel,Colorado,8113.0,76,0.0
-390969,2020-08-01,San Miguel,New Mexico,35047.0,41,0.0
-392672,2020-08-02,San Miguel,Colorado,8113.0,76,0.0
-394186,2020-08-02,San Miguel,New Mexico,35047.0,42,0.0
-395888,2020-08-03,San Miguel,Colorado,8113.0,76,0.0
-397403,2020-08-03,San Miguel,New Mexico,35047.0,42,0.0
-399104,2020-08-04,San Miguel,Colorado,8113.0,80,0.0
-400618,2020-08-04,San Miguel,New Mexico,35047.0,42,0.0
-402320,2020-08-05,San Miguel,Colorado,8113.0,80,0.0
-403836,2020-08-05,San Miguel,New Mexico,35047.0,42,0.0
-405538,2020-08-06,San Miguel,Colorado,8113.0,80,0.0
-407055,2020-08-06,San Miguel,New Mexico,35047.0,42,0.0
-408758,2020-08-07,San Miguel,Colorado,8113.0,82,0.0
-410275,2020-08-07,San Miguel,New Mexico,35047.0,42,0.0
-411977,2020-08-08,San Miguel,Colorado,8113.0,88,0.0
-413495,2020-08-08,San Miguel,New Mexico,35047.0,43,0.0
-415197,2020-08-09,San Miguel,Colorado,8113.0,89,0.0
-416716,2020-08-09,San Miguel,New Mexico,35047.0,43,0.0
-418418,2020-08-10,San Miguel,Colorado,8113.0,89,0.0
-419936,2020-08-10,San Miguel,New Mexico,35047.0,44,0.0
-421639,2020-08-11,San Miguel,Colorado,8113.0,90,0.0
-423159,2020-08-11,San Miguel,New Mexico,35047.0,45,0.0
-424860,2020-08-12,San Miguel,Colorado,8113.0,91,0.0
-426382,2020-08-12,San Miguel,New Mexico,35047.0,46,0.0
-428084,2020-08-13,San Miguel,Colorado,8113.0,92,0.0
-429606,2020-08-13,San Miguel,New Mexico,35047.0,46,0.0
-431312,2020-08-14,San Miguel,Colorado,8113.0,92,0.0
-432833,2020-08-14,San Miguel,New Mexico,35047.0,51,0.0
-434537,2020-08-15,San Miguel,Colorado,8113.0,93,0.0
-436059,2020-08-15,San Miguel,New Mexico,35047.0,53,0.0
-437763,2020-08-16,San Miguel,Colorado,8113.0,93,0.0
-439284,2020-08-16,San Miguel,New Mexico,35047.0,53,0.0
-440989,2020-08-17,San Miguel,Colorado,8113.0,93,0.0
-442511,2020-08-17,San Miguel,New Mexico,35047.0,55,0.0
-444215,2020-08-18,San Miguel,Colorado,8113.0,93,0.0
-445737,2020-08-18,San Miguel,New Mexico,35047.0,55,0.0
-447442,2020-08-19,San Miguel,Colorado,8113.0,93,0.0
-448964,2020-08-19,San Miguel,New Mexico,35047.0,56,0.0
-450670,2020-08-20,San Miguel,Colorado,8113.0,93,0.0
-452193,2020-08-20,San Miguel,New Mexico,35047.0,58,0.0
-453898,2020-08-21,San Miguel,Colorado,8113.0,93,0.0
-455421,2020-08-21,San Miguel,New Mexico,35047.0,61,0.0
-457126,2020-08-22,San Miguel,Colorado,8113.0,93,0.0
-458648,2020-08-22,San Miguel,New Mexico,35047.0,62,0.0
-460353,2020-08-23,San Miguel,Colorado,8113.0,93,0.0
-461876,2020-08-23,San Miguel,New Mexico,35047.0,67,0.0
-463582,2020-08-24,San Miguel,Colorado,8113.0,93,0.0
-465106,2020-08-24,San Miguel,New Mexico,35047.0,67,0.0
-466811,2020-08-25,San Miguel,Colorado,8113.0,93,0.0
-468334,2020-08-25,San Miguel,New Mexico,35047.0,67,0.0
-470040,2020-08-26,San Miguel,Colorado,8113.0,93,0.0
-471566,2020-08-26,San Miguel,New Mexico,35047.0,75,0.0
-473272,2020-08-27,San Miguel,Colorado,8113.0,94,0.0
-474800,2020-08-27,San Miguel,New Mexico,35047.0,77,0.0
-476505,2020-08-28,San Miguel,Colorado,8113.0,93,0.0
-478033,2020-08-28,San Miguel,New Mexico,35047.0,77,0.0
-479738,2020-08-29,San Miguel,Colorado,8113.0,93,0.0
-481265,2020-08-29,San Miguel,New Mexico,35047.0,78,0.0
-482972,2020-08-30,San Miguel,Colorado,8113.0,93,0.0
-484500,2020-08-30,San Miguel,New Mexico,35047.0,78,0.0
-486207,2020-08-31,San Miguel,Colorado,8113.0,93,0.0
-487734,2020-08-31,San Miguel,New Mexico,35047.0,81,0.0
-489440,2020-09-01,San Miguel,Colorado,8113.0,93,0.0
-490967,2020-09-01,San Miguel,New Mexico,35047.0,82,0.0
-492673,2020-09-02,San Miguel,Colorado,8113.0,93,0.0
-494201,2020-09-02,San Miguel,New Mexico,35047.0,83,0.0
-495907,2020-09-03,San Miguel,Colorado,8113.0,93,0.0
-497434,2020-09-03,San Miguel,New Mexico,35047.0,85,0.0
-499140,2020-09-04,San Miguel,Colorado,8113.0,94,0.0
-500668,2020-09-04,San Miguel,New Mexico,35047.0,86,0.0
-502374,2020-09-05,San Miguel,Colorado,8113.0,94,0.0
-503902,2020-09-05,San Miguel,New Mexico,35047.0,86,0.0
-505608,2020-09-06,San Miguel,Colorado,8113.0,94,0.0
-507134,2020-09-06,San Miguel,New Mexico,35047.0,87,0.0
-508840,2020-09-07,San Miguel,Colorado,8113.0,94,0.0
-510367,2020-09-07,San Miguel,New Mexico,35047.0,87,0.0
-512073,2020-09-08,San Miguel,Colorado,8113.0,94,0.0
-513600,2020-09-08,San Miguel,New Mexico,35047.0,87,0.0
-515306,2020-09-09,San Miguel,Colorado,8113.0,94,0.0
-516834,2020-09-09,San Miguel,New Mexico,35047.0,87,0.0
-518541,2020-09-10,San Miguel,Colorado,8113.0,93,0.0
-520070,2020-09-10,San Miguel,New Mexico,35047.0,89,0.0
-521778,2020-09-11,San Miguel,Colorado,8113.0,93,0.0
-523307,2020-09-11,San Miguel,New Mexico,35047.0,89,0.0
-525014,2020-09-12,San Miguel,Colorado,8113.0,93,0.0
-526543,2020-09-12,San Miguel,New Mexico,35047.0,89,0.0
-528250,2020-09-13,San Miguel,Colorado,8113.0,93,0.0
-529779,2020-09-13,San Miguel,New Mexico,35047.0,91,0.0
-531487,2020-09-14,San Miguel,Colorado,8113.0,93,0.0
-533015,2020-09-14,San Miguel,New Mexico,35047.0,91,0.0
-534722,2020-09-15,San Miguel,Colorado,8113.0,93,0.0
-536250,2020-09-15,San Miguel,New Mexico,35047.0,91,0.0
-537958,2020-09-16,San Miguel,Colorado,8113.0,94,0.0
-539487,2020-09-16,San Miguel,New Mexico,35047.0,91,0.0
-541195,2020-09-17,San Miguel,Colorado,8113.0,95,0.0
-542724,2020-09-17,San Miguel,New Mexico,35047.0,91,0.0
-544431,2020-09-18,San Miguel,Colorado,8113.0,95,0.0
-545961,2020-09-18,San Miguel,New Mexico,35047.0,93,0.0
-547669,2020-09-19,San Miguel,Colorado,8113.0,95,0.0
-549199,2020-09-19,San Miguel,New Mexico,35047.0,93,0.0
-550908,2020-09-20,San Miguel,Colorado,8113.0,95,0.0
-552438,2020-09-20,San Miguel,New Mexico,35047.0,94,0.0
-554147,2020-09-21,San Miguel,Colorado,8113.0,95,0.0
-555676,2020-09-21,San Miguel,New Mexico,35047.0,94,0.0
-557384,2020-09-22,San Miguel,Colorado,8113.0,95,0.0
-558913,2020-09-22,San Miguel,New Mexico,35047.0,103,0.0
-560620,2020-09-23,San Miguel,Colorado,8113.0,96,0.0
-562150,2020-09-23,San Miguel,New Mexico,35047.0,103,0.0
-563860,2020-09-24,San Miguel,Colorado,8113.0,96,0.0
-565391,2020-09-24,San Miguel,New Mexico,35047.0,105,0.0
-567100,2020-09-25,San Miguel,Colorado,8113.0,96,0.0
-568632,2020-09-25,San Miguel,New Mexico,35047.0,98,0.0
-570342,2020-09-26,San Miguel,Colorado,8113.0,97,0.0
-571874,2020-09-26,San Miguel,New Mexico,35047.0,100,0.0
-573584,2020-09-27,San Miguel,Colorado,8113.0,97,0.0
-575117,2020-09-27,San Miguel,New Mexico,35047.0,100,0.0
-576827,2020-09-28,San Miguel,Colorado,8113.0,97,0.0
-578358,2020-09-28,San Miguel,New Mexico,35047.0,100,0.0
-580068,2020-09-29,San Miguel,Colorado,8113.0,97,0.0
-581599,2020-09-29,San Miguel,New Mexico,35047.0,100,0.0
-583307,2020-09-30,San Miguel,Colorado,8113.0,94,0.0
-584840,2020-09-30,San Miguel,New Mexico,35047.0,101,0.0
-586547,2020-10-01,San Miguel,Colorado,8113.0,94,0.0
-588080,2020-10-01,San Miguel,New Mexico,35047.0,101,0.0
-589788,2020-10-02,San Miguel,Colorado,8113.0,94,0.0
-591321,2020-10-02,San Miguel,New Mexico,35047.0,101,0.0
-593028,2020-10-03,San Miguel,Colorado,8113.0,94,0.0
-594562,2020-10-03,San Miguel,New Mexico,35047.0,102,0.0
-596270,2020-10-04,San Miguel,Colorado,8113.0,94,0.0
-597804,2020-10-04,San Miguel,New Mexico,35047.0,103,0.0
-599513,2020-10-05,San Miguel,Colorado,8113.0,95,0.0
-601048,2020-10-05,San Miguel,New Mexico,35047.0,104,0.0
-602756,2020-10-06,San Miguel,Colorado,8113.0,95,0.0
-604290,2020-10-06,San Miguel,New Mexico,35047.0,105,0.0
-605998,2020-10-07,San Miguel,Colorado,8113.0,95,0.0
-607533,2020-10-07,San Miguel,New Mexico,35047.0,107,0.0
-609241,2020-10-08,San Miguel,Colorado,8113.0,96,0.0
-610775,2020-10-08,San Miguel,New Mexico,35047.0,111,0.0
-612483,2020-10-09,San Miguel,Colorado,8113.0,98,0.0
-614016,2020-10-09,San Miguel,New Mexico,35047.0,112,0.0
-615724,2020-10-10,San Miguel,Colorado,8113.0,98,0.0
-617258,2020-10-10,San Miguel,New Mexico,35047.0,115,0.0
-618966,2020-10-11,San Miguel,Colorado,8113.0,97,0.0
-620500,2020-10-11,San Miguel,New Mexico,35047.0,115,0.0
-622209,2020-10-12,San Miguel,Colorado,8113.0,97,0.0
-623743,2020-10-12,San Miguel,New Mexico,35047.0,120,0.0
-625452,2020-10-13,San Miguel,Colorado,8113.0,97,0.0
-626985,2020-10-13,San Miguel,New Mexico,35047.0,123,0.0
-628695,2020-10-14,San Miguel,Colorado,8113.0,97,0.0
-630229,2020-10-14,San Miguel,New Mexico,35047.0,125,0.0
-631939,2020-10-15,San Miguel,Colorado,8113.0,99,0.0
-633474,2020-10-15,San Miguel,New Mexico,35047.0,128,0.0
-635185,2020-10-16,San Miguel,Colorado,8113.0,99,0.0
-636720,2020-10-16,San Miguel,New Mexico,35047.0,132,0.0
-638430,2020-10-17,San Miguel,Colorado,8113.0,100,0.0
-639966,2020-10-17,San Miguel,New Mexico,35047.0,139,0.0
-641677,2020-10-18,San Miguel,Colorado,8113.0,100,0.0
-643214,2020-10-18,San Miguel,New Mexico,35047.0,143,0.0
-644925,2020-10-19,San Miguel,Colorado,8113.0,100,0.0
-646460,2020-10-19,San Miguel,New Mexico,35047.0,147,0.0
-648170,2020-10-20,San Miguel,Colorado,8113.0,100,0.0
-649704,2020-10-20,San Miguel,New Mexico,35047.0,150,0.0
-651414,2020-10-21,San Miguel,Colorado,8113.0,100,0.0
-652949,2020-10-21,San Miguel,New Mexico,35047.0,151,0.0
-654659,2020-10-22,San Miguel,Colorado,8113.0,100,0.0
-656194,2020-10-22,San Miguel,New Mexico,35047.0,152,0.0
-657904,2020-10-23,San Miguel,Colorado,8113.0,100,0.0
-659438,2020-10-23,San Miguel,New Mexico,35047.0,159,0.0
-661148,2020-10-24,San Miguel,Colorado,8113.0,101,0.0
-662682,2020-10-24,San Miguel,New Mexico,35047.0,162,0.0
-664392,2020-10-25,San Miguel,Colorado,8113.0,101,0.0
-665927,2020-10-25,San Miguel,New Mexico,35047.0,170,0.0
-667637,2020-10-26,San Miguel,Colorado,8113.0,102,0.0
-669171,2020-10-26,San Miguel,New Mexico,35047.0,171,0.0
-670880,2020-10-27,San Miguel,Colorado,8113.0,102,0.0
-672413,2020-10-27,San Miguel,New Mexico,35047.0,171,0.0
-674122,2020-10-28,San Miguel,Colorado,8113.0,104,0.0
-675656,2020-10-28,San Miguel,New Mexico,35047.0,175,0.0
-677365,2020-10-29,San Miguel,Colorado,8113.0,104,0.0
-678899,2020-10-29,San Miguel,New Mexico,35047.0,182,0.0
-680608,2020-10-30,San Miguel,Colorado,8113.0,104,0.0
-682142,2020-10-30,San Miguel,New Mexico,35047.0,186,0.0
-683851,2020-10-31,San Miguel,Colorado,8113.0,109,0.0
-685385,2020-10-31,San Miguel,New Mexico,35047.0,187,0.0
-687095,2020-11-01,San Miguel,Colorado,8113.0,110,0.0
-688630,2020-11-01,San Miguel,New Mexico,35047.0,196,0.0
-690340,2020-11-02,San Miguel,Colorado,8113.0,111,0.0
-691874,2020-11-02,San Miguel,New Mexico,35047.0,200,0.0
-693583,2020-11-03,San Miguel,Colorado,8113.0,112,0.0
-695116,2020-11-03,San Miguel,New Mexico,35047.0,203,0.0
-696825,2020-11-04,San Miguel,Colorado,8113.0,112,0.0
-698359,2020-11-04,San Miguel,New Mexico,35047.0,209,0.0
-700069,2020-11-05,San Miguel,Colorado,8113.0,114,0.0
-701603,2020-11-05,San Miguel,New Mexico,35047.0,214,0.0
-703312,2020-11-06,San Miguel,Colorado,8113.0,114,0.0
-704846,2020-11-06,San Miguel,New Mexico,35047.0,221,0.0
-706555,2020-11-07,San Miguel,Colorado,8113.0,116,0.0
-708089,2020-11-07,San Miguel,New Mexico,35047.0,226,0.0
-709799,2020-11-08,San Miguel,Colorado,8113.0,118,0.0
-711333,2020-11-08,San Miguel,New Mexico,35047.0,238,0.0
-713043,2020-11-09,San Miguel,Colorado,8113.0,125,0.0
-714577,2020-11-09,San Miguel,New Mexico,35047.0,245,0.0
-716287,2020-11-10,San Miguel,Colorado,8113.0,126,0.0
-717820,2020-11-10,San Miguel,New Mexico,35047.0,250,0.0
-719530,2020-11-11,San Miguel,Colorado,8113.0,127,0.0
-721063,2020-11-11,San Miguel,New Mexico,35047.0,256,0.0
-722773,2020-11-12,San Miguel,Colorado,8113.0,128,0.0
-724306,2020-11-12,San Miguel,New Mexico,35047.0,266,0.0
-726016,2020-11-13,San Miguel,Colorado,8113.0,144,0.0
-727550,2020-11-13,San Miguel,New Mexico,35047.0,275,0.0
-729259,2020-11-14,San Miguel,Colorado,8113.0,155,0.0
-730794,2020-11-14,San Miguel,New Mexico,35047.0,281,0.0
-732504,2020-11-15,San Miguel,Colorado,8113.0,163,0.0
-734039,2020-11-15,San Miguel,New Mexico,35047.0,285,0.0
-735750,2020-11-16,San Miguel,Colorado,8113.0,165,0.0
-737284,2020-11-16,San Miguel,New Mexico,35047.0,291,0.0
-738994,2020-11-17,San Miguel,Colorado,8113.0,166,0.0
-740529,2020-11-17,San Miguel,New Mexico,35047.0,294,0.0
-742241,2020-11-18,San Miguel,Colorado,8113.0,168,0.0
-743776,2020-11-18,San Miguel,New Mexico,35047.0,304,0.0
-745488,2020-11-19,San Miguel,Colorado,8113.0,173,0.0
-747022,2020-11-19,San Miguel,New Mexico,35047.0,328,0.0
-748734,2020-11-20,San Miguel,Colorado,8113.0,174,0.0
-750268,2020-11-20,San Miguel,New Mexico,35047.0,340,0.0
-751980,2020-11-21,San Miguel,Colorado,8113.0,180,0.0
-753514,2020-11-21,San Miguel,New Mexico,35047.0,347,0.0
-755226,2020-11-22,San Miguel,Colorado,8113.0,178,0.0
-756761,2020-11-22,San Miguel,New Mexico,35047.0,368,0.0
-758473,2020-11-23,San Miguel,Colorado,8113.0,184,0.0
-760007,2020-11-23,San Miguel,New Mexico,35047.0,375,0.0
-761718,2020-11-24,San Miguel,Colorado,8113.0,186,0.0
-763252,2020-11-24,San Miguel,New Mexico,35047.0,384,0.0
-764963,2020-11-25,San Miguel,Colorado,8113.0,188,0.0
-766497,2020-11-25,San Miguel,New Mexico,35047.0,386,0.0
-768209,2020-11-26,San Miguel,Colorado,8113.0,190,0.0
-769743,2020-11-26,San Miguel,New Mexico,35047.0,394,2.0
-771454,2020-11-27,San Miguel,Colorado,8113.0,192,0.0
-772988,2020-11-27,San Miguel,New Mexico,35047.0,402,2.0
-774699,2020-11-28,San Miguel,Colorado,8113.0,196,0.0
-776233,2020-11-28,San Miguel,New Mexico,35047.0,407,2.0
-777944,2020-11-29,San Miguel,Colorado,8113.0,211,0.0
-779478,2020-11-29,San Miguel,New Mexico,35047.0,414,2.0
-781190,2020-11-30,San Miguel,Colorado,8113.0,211,0.0
-782724,2020-11-30,San Miguel,New Mexico,35047.0,420,2.0
-784435,2020-12-01,San Miguel,Colorado,8113.0,213,0.0
-785968,2020-12-01,San Miguel,New Mexico,35047.0,439,2.0
-787679,2020-12-02,San Miguel,Colorado,8113.0,216,0.0
-789213,2020-12-02,San Miguel,New Mexico,35047.0,444,2.0
-790924,2020-12-03,San Miguel,Colorado,8113.0,222,0.0
-792458,2020-12-03,San Miguel,New Mexico,35047.0,460,2.0
-794169,2020-12-04,San Miguel,Colorado,8113.0,227,0.0
-795703,2020-12-04,San Miguel,New Mexico,35047.0,470,2.0
-797414,2020-12-05,San Miguel,Colorado,8113.0,255,0.0
-798948,2020-12-05,San Miguel,New Mexico,35047.0,488,2.0
-800659,2020-12-06,San Miguel,Colorado,8113.0,267,0.0
-802193,2020-12-06,San Miguel,New Mexico,35047.0,502,2.0
-803904,2020-12-07,San Miguel,Colorado,8113.0,268,0.0
-805438,2020-12-07,San Miguel,New Mexico,35047.0,512,2.0
-807149,2020-12-08,San Miguel,Colorado,8113.0,269,0.0
-808683,2020-12-08,San Miguel,New Mexico,35047.0,524,2.0
-810394,2020-12-09,San Miguel,Colorado,8113.0,251,0.0
-811928,2020-12-09,San Miguel,New Mexico,35047.0,538,2.0
-813638,2020-12-10,San Miguel,Colorado,8113.0,264,0.0
-815173,2020-12-10,San Miguel,New Mexico,35047.0,549,2.0
-816884,2020-12-11,San Miguel,Colorado,8113.0,269,0.0
-818419,2020-12-11,San Miguel,New Mexico,35047.0,560,2.0
-820130,2020-12-12,San Miguel,Colorado,8113.0,283,0.0
-821665,2020-12-12,San Miguel,New Mexico,35047.0,580,2.0
-823376,2020-12-13,San Miguel,Colorado,8113.0,288,0.0
-824911,2020-12-13,San Miguel,New Mexico,35047.0,595,2.0
-826623,2020-12-14,San Miguel,Colorado,8113.0,288,0.0
-828158,2020-12-14,San Miguel,New Mexico,35047.0,618,2.0
-829869,2020-12-15,San Miguel,Colorado,8113.0,296,0.0
-831404,2020-12-15,San Miguel,New Mexico,35047.0,628,2.0
-833116,2020-12-16,San Miguel,Colorado,8113.0,302,0.0
-834651,2020-12-16,San Miguel,New Mexico,35047.0,650,2.0
-836362,2020-12-17,San Miguel,Colorado,8113.0,317,0.0
-837897,2020-12-17,San Miguel,New Mexico,35047.0,660,3.0
-839607,2020-12-18,San Miguel,Colorado,8113.0,337,0.0
-841142,2020-12-18,San Miguel,New Mexico,35047.0,677,3.0
-842852,2020-12-19,San Miguel,Colorado,8113.0,366,0.0
-844387,2020-12-19,San Miguel,New Mexico,35047.0,687,3.0
-846098,2020-12-20,San Miguel,Colorado,8113.0,371,0.0
-847633,2020-12-20,San Miguel,New Mexico,35047.0,703,3.0
-849343,2020-12-21,San Miguel,Colorado,8113.0,372,0.0
-850878,2020-12-21,San Miguel,New Mexico,35047.0,720,3.0
-852588,2020-12-22,San Miguel,Colorado,8113.0,378,0.0
-854123,2020-12-22,San Miguel,New Mexico,35047.0,726,3.0
-855833,2020-12-23,San Miguel,Colorado,8113.0,379,0.0
-857368,2020-12-23,San Miguel,New Mexico,35047.0,765,3.0
-859078,2020-12-24,San Miguel,Colorado,8113.0,383,0.0
-860613,2020-12-24,San Miguel,New Mexico,35047.0,779,3.0
-862323,2020-12-25,San Miguel,Colorado,8113.0,384,0.0
-863858,2020-12-25,San Miguel,New Mexico,35047.0,797,3.0
-865568,2020-12-26,San Miguel,Colorado,8113.0,384,0.0
-867103,2020-12-26,San Miguel,New Mexico,35047.0,801,3.0
-868813,2020-12-27,San Miguel,Colorado,8113.0,388,0.0
-870348,2020-12-27,San Miguel,New Mexico,35047.0,806,3.0
-872058,2020-12-28,San Miguel,Colorado,8113.0,388,0.0
-873593,2020-12-28,San Miguel,New Mexico,35047.0,810,4.0
-875303,2020-12-29,San Miguel,Colorado,8113.0,389,0.0
-876838,2020-12-29,San Miguel,New Mexico,35047.0,813,4.0
-878548,2020-12-30,San Miguel,Colorado,8113.0,391,0.0
-880083,2020-12-30,San Miguel,New Mexico,35047.0,834,4.0
-881793,2020-12-31,San Miguel,Colorado,8113.0,394,0.0
-883328,2020-12-31,San Miguel,New Mexico,35047.0,846,4.0
-885038,2021-01-01,San Miguel,Colorado,8113.0,394,0.0
-886573,2021-01-01,San Miguel,New Mexico,35047.0,861,4.0
-888283,2021-01-02,San Miguel,Colorado,8113.0,396,0.0
-889819,2021-01-02,San Miguel,New Mexico,35047.0,877,4.0
-891530,2021-01-03,San Miguel,Colorado,8113.0,400,0.0
-893065,2021-01-03,San Miguel,New Mexico,35047.0,879,4.0
-894777,2021-01-04,San Miguel,Colorado,8113.0,400,0.0
-896312,2021-01-04,San Miguel,New Mexico,35047.0,888,4.0
-898022,2021-01-05,San Miguel,Colorado,8113.0,399,0.0
-899557,2021-01-05,San Miguel,New Mexico,35047.0,898,4.0
-901267,2021-01-06,San Miguel,Colorado,8113.0,399,0.0
-902802,2021-01-06,San Miguel,New Mexico,35047.0,904,4.0
-904512,2021-01-07,San Miguel,Colorado,8113.0,407,0.0
-906047,2021-01-07,San Miguel,New Mexico,35047.0,916,5.0
-907758,2021-01-08,San Miguel,Colorado,8113.0,413,0.0
-909293,2021-01-08,San Miguel,New Mexico,35047.0,931,5.0
-911003,2021-01-09,San Miguel,Colorado,8113.0,417,0.0
-912538,2021-01-09,San Miguel,New Mexico,35047.0,947,5.0
-914248,2021-01-10,San Miguel,Colorado,8113.0,431,0.0
-915783,2021-01-10,San Miguel,New Mexico,35047.0,954,5.0
-917493,2021-01-11,San Miguel,Colorado,8113.0,433,0.0
-919028,2021-01-11,San Miguel,New Mexico,35047.0,960,6.0
-920738,2021-01-12,San Miguel,Colorado,8113.0,435,0.0
-922273,2021-01-12,San Miguel,New Mexico,35047.0,966,6.0
-923983,2021-01-13,San Miguel,Colorado,8113.0,437,0.0
-925518,2021-01-13,San Miguel,New Mexico,35047.0,987,6.0
-927229,2021-01-14,San Miguel,Colorado,8113.0,443,0.0
-928764,2021-01-14,San Miguel,New Mexico,35047.0,996,6.0
-930474,2021-01-15,San Miguel,Colorado,8113.0,449,0.0
-932009,2021-01-15,San Miguel,New Mexico,35047.0,1012,6.0
-933719,2021-01-16,San Miguel,Colorado,8113.0,462,0.0
-935254,2021-01-16,San Miguel,New Mexico,35047.0,1018,6.0
-936964,2021-01-17,San Miguel,Colorado,8113.0,466,0.0
-938499,2021-01-17,San Miguel,New Mexico,35047.0,1033,6.0
-940209,2021-01-18,San Miguel,Colorado,8113.0,469,0.0
-941744,2021-01-18,San Miguel,New Mexico,35047.0,1040,6.0
-943454,2021-01-19,San Miguel,Colorado,8113.0,480,0.0
-944989,2021-01-19,San Miguel,New Mexico,35047.0,1043,6.0
-946701,2021-01-20,San Miguel,Colorado,8113.0,484,0.0
-948236,2021-01-20,San Miguel,New Mexico,35047.0,1053,7.0
-949947,2021-01-21,San Miguel,Colorado,8113.0,532,0.0
-951482,2021-01-21,San Miguel,New Mexico,35047.0,1060,7.0
-953192,2021-01-22,San Miguel,Colorado,8113.0,583,0.0
-954727,2021-01-22,San Miguel,New Mexico,35047.0,1068,7.0
-956437,2021-01-23,San Miguel,Colorado,8113.0,594,0.0
-957972,2021-01-23,San Miguel,New Mexico,35047.0,1074,7.0
-959683,2021-01-24,San Miguel,Colorado,8113.0,597,0.0
-961218,2021-01-24,San Miguel,New Mexico,35047.0,1082,7.0
-962928,2021-01-25,San Miguel,Colorado,8113.0,597,0.0
-964463,2021-01-25,San Miguel,New Mexico,35047.0,1087,7.0
-966173,2021-01-26,San Miguel,Colorado,8113.0,611,0.0
-967707,2021-01-26,San Miguel,New Mexico,35047.0,1095,7.0
-969417,2021-01-27,San Miguel,Colorado,8113.0,612,0.0
-970952,2021-01-27,San Miguel,New Mexico,35047.0,1109,7.0
-972662,2021-01-28,San Miguel,Colorado,8113.0,645,0.0
-974197,2021-01-28,San Miguel,New Mexico,35047.0,1113,7.0
-975907,2021-01-29,San Miguel,Colorado,8113.0,667,0.0
-977442,2021-01-29,San Miguel,New Mexico,35047.0,1125,7.0
-979152,2021-01-30,San Miguel,Colorado,8113.0,667,0.0
-980688,2021-01-30,San Miguel,New Mexico,35047.0,1128,8.0
-982398,2021-01-31,San Miguel,Colorado,8113.0,667,0.0
-983934,2021-01-31,San Miguel,New Mexico,35047.0,1132,8.0
-985645,2021-02-01,San Miguel,Colorado,8113.0,682,0.0
-987181,2021-02-01,San Miguel,New Mexico,35047.0,1132,8.0
-988892,2021-02-02,San Miguel,Colorado,8113.0,684,0.0
-990428,2021-02-02,San Miguel,New Mexico,35047.0,1135,8.0
-992138,2021-02-03,San Miguel,Colorado,8113.0,684,0.0
-993674,2021-02-03,San Miguel,New Mexico,35047.0,1139,8.0
-995384,2021-02-04,San Miguel,Colorado,8113.0,703,0.0
-996920,2021-02-04,San Miguel,New Mexico,35047.0,1143,8.0
-998630,2021-02-05,San Miguel,Colorado,8113.0,720,0.0
-1000166,2021-02-05,San Miguel,New Mexico,35047.0,1143,9.0
-1001876,2021-02-06,San Miguel,Colorado,8113.0,732,0.0
-1003411,2021-02-06,San Miguel,New Mexico,35047.0,1147,9.0
-1005122,2021-02-07,San Miguel,Colorado,8113.0,733,0.0
-1006657,2021-02-07,San Miguel,New Mexico,35047.0,1149,9.0
-1008368,2021-02-08,San Miguel,Colorado,8113.0,739,0.0
-1009904,2021-02-08,San Miguel,New Mexico,35047.0,1150,9.0
-1011614,2021-02-09,San Miguel,Colorado,8113.0,750,0.0
-1013149,2021-02-09,San Miguel,New Mexico,35047.0,1153,9.0
-1014859,2021-02-10,San Miguel,Colorado,8113.0,760,0.0
-1016394,2021-02-10,San Miguel,New Mexico,35047.0,1167,9.0
-1018104,2021-02-11,San Miguel,Colorado,8113.0,770,0.0
-1019639,2021-02-11,San Miguel,New Mexico,35047.0,1173,9.0
-1021349,2021-02-12,San Miguel,Colorado,8113.0,786,0.0
-1022884,2021-02-12,San Miguel,New Mexico,35047.0,1177,9.0
-1024594,2021-02-13,San Miguel,Colorado,8113.0,787,0.0
-1026129,2021-02-13,San Miguel,New Mexico,35047.0,1185,9.0
-1027839,2021-02-14,San Miguel,Colorado,8113.0,791,0.0
-1029375,2021-02-14,San Miguel,New Mexico,35047.0,1189,10.0
-1031086,2021-02-15,San Miguel,Colorado,8113.0,793,0.0
-1032622,2021-02-15,San Miguel,New Mexico,35047.0,1192,10.0
-1034332,2021-02-16,San Miguel,Colorado,8113.0,793,0.0
-1035867,2021-02-16,San Miguel,New Mexico,35047.0,1196,10.0
-1037577,2021-02-17,San Miguel,Colorado,8113.0,797,0.0
-1039112,2021-02-17,San Miguel,New Mexico,35047.0,1197,10.0
-1040822,2021-02-18,San Miguel,Colorado,8113.0,797,0.0
-1042357,2021-02-18,San Miguel,New Mexico,35047.0,1202,10.0
-1044067,2021-02-19,San Miguel,Colorado,8113.0,797,0.0
-1045602,2021-02-19,San Miguel,New Mexico,35047.0,1208,10.0
-1047312,2021-02-20,San Miguel,Colorado,8113.0,801,0.0
-1048848,2021-02-20,San Miguel,New Mexico,35047.0,1210,10.0
-1050559,2021-02-21,San Miguel,Colorado,8113.0,803,0.0
-1052095,2021-02-21,San Miguel,New Mexico,35047.0,1214,10.0
-1053806,2021-02-22,San Miguel,Colorado,8113.0,802,0.0
-1055342,2021-02-22,San Miguel,New Mexico,35047.0,1215,10.0
-1057052,2021-02-23,San Miguel,Colorado,8113.0,805,0.0
-1058588,2021-02-23,San Miguel,New Mexico,35047.0,1218,10.0
-1060298,2021-02-24,San Miguel,Colorado,8113.0,809,0.0
-1061834,2021-02-24,San Miguel,New Mexico,35047.0,1222,10.0
-1063543,2021-02-25,San Miguel,Colorado,8113.0,808,0.0
-1065078,2021-02-25,San Miguel,New Mexico,35047.0,1223,10.0
-1066788,2021-02-26,San Miguel,Colorado,8113.0,808,0.0
-1068323,2021-02-26,San Miguel,New Mexico,35047.0,1225,10.0
-1070033,2021-02-27,San Miguel,Colorado,8113.0,817,0.0
-1071568,2021-02-27,San Miguel,New Mexico,35047.0,1228,11.0
-1073279,2021-02-28,San Miguel,Colorado,8113.0,820,0.0
-1074814,2021-02-28,San Miguel,New Mexico,35047.0,1228,11.0
-1076525,2021-03-01,San Miguel,Colorado,8113.0,821,0.0
-1078060,2021-03-01,San Miguel,New Mexico,35047.0,1230,11.0
-1079770,2021-03-02,San Miguel,Colorado,8113.0,821,0.0
-1081306,2021-03-02,San Miguel,New Mexico,35047.0,1233,11.0
-1083016,2021-03-03,San Miguel,Colorado,8113.0,822,0.0
-1084552,2021-03-03,San Miguel,New Mexico,35047.0,1234,12.0
-1086262,2021-03-04,San Miguel,Colorado,8113.0,823,0.0
-1087797,2021-03-04,San Miguel,New Mexico,35047.0,1237,12.0
-1089507,2021-03-05,San Miguel,Colorado,8113.0,824,0.0
-1091042,2021-03-05,San Miguel,New Mexico,35047.0,1240,13.0
-1092753,2021-03-06,San Miguel,Colorado,8113.0,829,0.0
-1094288,2021-03-06,San Miguel,New Mexico,35047.0,1245,13.0
-1095999,2021-03-07,San Miguel,Colorado,8113.0,829,0.0
-1097535,2021-03-07,San Miguel,New Mexico,35047.0,1245,13.0
-1099247,2021-03-08,San Miguel,Colorado,8113.0,829,0.0
-1100782,2021-03-08,San Miguel,New Mexico,35047.0,1246,13.0
-1102493,2021-03-09,San Miguel,Colorado,8113.0,830,0.0
-1104028,2021-03-09,San Miguel,New Mexico,35047.0,1248,13.0
-1105739,2021-03-10,San Miguel,Colorado,8113.0,830,0.0
-1107274,2021-03-10,San Miguel,New Mexico,35047.0,1255,13.0
-1108985,2021-03-11,San Miguel,Colorado,8113.0,833,0.0
-1110520,2021-03-11,San Miguel,New Mexico,35047.0,1257,13.0
-1112231,2021-03-12,San Miguel,Colorado,8113.0,837,0.0
-1113766,2021-03-12,San Miguel,New Mexico,35047.0,1267,13.0
-1115477,2021-03-13,San Miguel,Colorado,8113.0,838,0.0
-1117012,2021-03-13,San Miguel,New Mexico,35047.0,1273,13.0
-1118724,2021-03-14,San Miguel,Colorado,8113.0,838,0.0
-1120259,2021-03-14,San Miguel,New Mexico,35047.0,1277,13.0
-1121971,2021-03-15,San Miguel,Colorado,8113.0,838,0.0
-1123506,2021-03-15,San Miguel,New Mexico,35047.0,1277,13.0
-1125217,2021-03-16,San Miguel,Colorado,8113.0,838,0.0
-1126752,2021-03-16,San Miguel,New Mexico,35047.0,1282,13.0
-1128463,2021-03-17,San Miguel,Colorado,8113.0,839,0.0
-1129999,2021-03-17,San Miguel,New Mexico,35047.0,1292,13.0
-1131711,2021-03-18,San Miguel,Colorado,8113.0,842,0.0
-1133247,2021-03-18,San Miguel,New Mexico,35047.0,1299,13.0
-1134958,2021-03-19,San Miguel,Colorado,8113.0,844,0.0
-1136493,2021-03-19,San Miguel,New Mexico,35047.0,1303,13.0
-1138204,2021-03-20,San Miguel,Colorado,8113.0,845,0.0
-1139739,2021-03-20,San Miguel,New Mexico,35047.0,1309,13.0
-1141450,2021-03-21,San Miguel,Colorado,8113.0,845,0.0
-1142986,2021-03-21,San Miguel,New Mexico,35047.0,1310,13.0
-1144697,2021-03-22,San Miguel,Colorado,8113.0,845,0.0
-1146233,2021-03-22,San Miguel,New Mexico,35047.0,1311,13.0
-1147944,2021-03-23,San Miguel,Colorado,8113.0,845,0.0
-1149480,2021-03-23,San Miguel,New Mexico,35047.0,1311,13.0
-1151191,2021-03-24,San Miguel,Colorado,8113.0,847,0.0
-1152727,2021-03-24,San Miguel,New Mexico,35047.0,1312,13.0
-1154438,2021-03-25,San Miguel,Colorado,8113.0,847,0.0
-1155974,2021-03-25,San Miguel,New Mexico,35047.0,1312,13.0
-1157685,2021-03-26,San Miguel,Colorado,8113.0,848,0.0
-1159221,2021-03-26,San Miguel,New Mexico,35047.0,1313,13.0
-1160933,2021-03-27,San Miguel,Colorado,8113.0,848,0.0
-1162469,2021-03-27,San Miguel,New Mexico,35047.0,1313,13.0
-1164181,2021-03-28,San Miguel,Colorado,8113.0,848,0.0
-1165717,2021-03-28,San Miguel,New Mexico,35047.0,1313,13.0
-1167429,2021-03-29,San Miguel,Colorado,8113.0,848,0.0
-1168965,2021-03-29,San Miguel,New Mexico,35047.0,1314,13.0
-1170677,2021-03-30,San Miguel,Colorado,8113.0,849,0.0
-1172213,2021-03-30,San Miguel,New Mexico,35047.0,1314,13.0
-1173924,2021-03-31,San Miguel,Colorado,8113.0,849,0.0
-1175460,2021-03-31,San Miguel,New Mexico,35047.0,1315,14.0
-1177171,2021-04-01,San Miguel,Colorado,8113.0,849,0.0
-1178707,2021-04-01,San Miguel,New Mexico,35047.0,1315,15.0
-1180418,2021-04-02,San Miguel,Colorado,8113.0,851,0.0
-1181954,2021-04-02,San Miguel,New Mexico,35047.0,1318,15.0
-1183665,2021-04-03,San Miguel,Colorado,8113.0,851,0.0
-1185201,2021-04-03,San Miguel,New Mexico,35047.0,1318,15.0
-1186912,2021-04-04,San Miguel,Colorado,8113.0,851,0.0
-1188448,2021-04-04,San Miguel,New Mexico,35047.0,1318,15.0
-1190159,2021-04-05,San Miguel,Colorado,8113.0,852,0.0
-1191696,2021-04-05,San Miguel,New Mexico,35047.0,1317,16.0
-1193409,2021-04-06,San Miguel,Colorado,8113.0,852,0.0
-1194945,2021-04-06,San Miguel,New Mexico,35047.0,1319,16.0
-1196657,2021-04-07,San Miguel,Colorado,8113.0,852,0.0
-1198194,2021-04-07,San Miguel,New Mexico,35047.0,1322,17.0
-1199906,2021-04-08,San Miguel,Colorado,8113.0,855,0.0
-1201443,2021-04-08,San Miguel,New Mexico,35047.0,1323,17.0
-1203154,2021-04-09,San Miguel,Colorado,8113.0,858,0.0
-1204691,2021-04-09,San Miguel,New Mexico,35047.0,1324,17.0
-1206402,2021-04-10,San Miguel,Colorado,8113.0,858,0.0
-1207939,2021-04-10,San Miguel,New Mexico,35047.0,1324,17.0
-1209651,2021-04-11,San Miguel,Colorado,8113.0,859,0.0
-1211188,2021-04-11,San Miguel,New Mexico,35047.0,1324,17.0
-1212899,2021-04-12,San Miguel,Colorado,8113.0,860,0.0
-1214435,2021-04-12,San Miguel,New Mexico,35047.0,1329,17.0
-1216146,2021-04-13,San Miguel,Colorado,8113.0,859,0.0
-1217683,2021-04-13,San Miguel,New Mexico,35047.0,1329,17.0
-1219394,2021-04-14,San Miguel,Colorado,8113.0,859,0.0
-1220931,2021-04-14,San Miguel,New Mexico,35047.0,1329,17.0
-1222642,2021-04-15,San Miguel,Colorado,8113.0,862,0.0
-1224178,2021-04-15,San Miguel,New Mexico,35047.0,1330,17.0
-1225889,2021-04-16,San Miguel,Colorado,8113.0,864,0.0
-1227426,2021-04-16,San Miguel,New Mexico,35047.0,1334,17.0
-1229137,2021-04-17,San Miguel,Colorado,8113.0,864,0.0
-1230674,2021-04-17,San Miguel,New Mexico,35047.0,1334,17.0
-1232386,2021-04-18,San Miguel,Colorado,8113.0,864,0.0
-1233922,2021-04-18,San Miguel,New Mexico,35047.0,1334,17.0
-1235633,2021-04-19,San Miguel,Colorado,8113.0,866,0.0
-1237169,2021-04-19,San Miguel,New Mexico,35047.0,1338,17.0
-1238880,2021-04-20,San Miguel,Colorado,8113.0,866,0.0
-1240416,2021-04-20,San Miguel,New Mexico,35047.0,1339,17.0
-1242127,2021-04-21,San Miguel,Colorado,8113.0,866,0.0
-1243663,2021-04-21,San Miguel,New Mexico,35047.0,1339,17.0
-1245374,2021-04-22,San Miguel,Colorado,8113.0,866,0.0
-1246910,2021-04-22,San Miguel,New Mexico,35047.0,1339,17.0
-1248621,2021-04-23,San Miguel,Colorado,8113.0,867,0.0
-1250157,2021-04-23,San Miguel,New Mexico,35047.0,1340,17.0
-1251868,2021-04-24,San Miguel,Colorado,8113.0,868,0.0
-1253404,2021-04-24,San Miguel,New Mexico,35047.0,1340,17.0
-1255115,2021-04-25,San Miguel,Colorado,8113.0,869,0.0
-1256651,2021-04-25,San Miguel,New Mexico,35047.0,1340,17.0
-1258362,2021-04-26,San Miguel,Colorado,8113.0,869,0.0
-1259898,2021-04-26,San Miguel,New Mexico,35047.0,1341,17.0
-1261609,2021-04-27,San Miguel,Colorado,8113.0,870,0.0
-1263145,2021-04-27,San Miguel,New Mexico,35047.0,1342,17.0
-1264856,2021-04-28,San Miguel,Colorado,8113.0,870,0.0
-1266392,2021-04-28,San Miguel,New Mexico,35047.0,1341,17.0
-1268103,2021-04-29,San Miguel,Colorado,8113.0,871,0.0
-1269639,2021-04-29,San Miguel,New Mexico,35047.0,1342,17.0
-1271350,2021-04-30,San Miguel,Colorado,8113.0,872,0.0
-1272886,2021-04-30,San Miguel,New Mexico,35047.0,1342,17.0
-1274597,2021-05-01,San Miguel,Colorado,8113.0,872,0.0
-1276133,2021-05-01,San Miguel,New Mexico,35047.0,1342,17.0
-1277844,2021-05-02,San Miguel,Colorado,8113.0,872,0.0
-1279380,2021-05-02,San Miguel,New Mexico,35047.0,1342,17.0
-1281091,2021-05-03,San Miguel,Colorado,8113.0,874,0.0
-1282627,2021-05-03,San Miguel,New Mexico,35047.0,1346,17.0
-1284338,2021-05-04,San Miguel,Colorado,8113.0,875,0.0
-1285873,2021-05-04,San Miguel,New Mexico,35047.0,1346,17.0
-1287584,2021-05-05,San Miguel,Colorado,8113.0,875,0.0
-1289119,2021-05-05,San Miguel,New Mexico,35047.0,1347,17.0
-1290830,2021-05-06,San Miguel,Colorado,8113.0,876,0.0
-1292365,2021-05-06,San Miguel,New Mexico,35047.0,1349,17.0
-1294076,2021-05-07,San Miguel,Colorado,8113.0,875,0.0
-1295611,2021-05-07,San Miguel,New Mexico,35047.0,1351,17.0
-1297322,2021-05-08,San Miguel,Colorado,8113.0,875,0.0
-1298857,2021-05-08,San Miguel,New Mexico,35047.0,1351,17.0
-1300569,2021-05-09,San Miguel,Colorado,8113.0,876,0.0
-1302105,2021-05-09,San Miguel,New Mexico,35047.0,1351,17.0
-1303816,2021-05-10,San Miguel,Colorado,8113.0,876,0.0
-1305351,2021-05-10,San Miguel,New Mexico,35047.0,1352,17.0
-1307062,2021-05-11,San Miguel,Colorado,8113.0,877,0.0
-1308597,2021-05-11,San Miguel,New Mexico,35047.0,1352,17.0
-1310308,2021-05-12,San Miguel,Colorado,8113.0,878,0.0
-1311844,2021-05-12,San Miguel,New Mexico,35047.0,1352,17.0
-1313555,2021-05-13,San Miguel,Colorado,8113.0,878,0.0
-1315090,2021-05-13,San Miguel,New Mexico,35047.0,1353,17.0
-1316802,2021-05-14,San Miguel,Colorado,8113.0,877,0.0
-1318338,2021-05-14,San Miguel,New Mexico,35047.0,1353,17.0
-1320049,2021-05-15,San Miguel,Colorado,8113.0,877,0.0
-1321584,2021-05-15,San Miguel,New Mexico,35047.0,1353,17.0
-1323295,2021-05-16,San Miguel,Colorado,8113.0,876,0.0
-1324830,2021-05-16,San Miguel,New Mexico,35047.0,1353,17.0
-1326541,2021-05-17,San Miguel,Colorado,8113.0,877,0.0
-1328076,2021-05-17,San Miguel,New Mexico,35047.0,1355,17.0
-1329788,2021-05-18,San Miguel,Colorado,8113.0,877,0.0
-1331323,2021-05-18,San Miguel,New Mexico,35047.0,1355,17.0
-1333035,2021-05-19,San Miguel,Colorado,8113.0,877,0.0
-1334570,2021-05-19,San Miguel,New Mexico,35047.0,1355,17.0
-1336282,2021-05-20,San Miguel,Colorado,8113.0,879,0.0
-1337817,2021-05-20,San Miguel,New Mexico,35047.0,1355,17.0
-1339529,2021-05-21,San Miguel,Colorado,8113.0,879,0.0
-1341065,2021-05-21,San Miguel,New Mexico,35047.0,1359,17.0
-1342777,2021-05-22,San Miguel,Colorado,8113.0,882,0.0
-1344313,2021-05-22,San Miguel,New Mexico,35047.0,1359,17.0
-1346025,2021-05-23,San Miguel,Colorado,8113.0,883,0.0
-1347561,2021-05-23,San Miguel,New Mexico,35047.0,1359,17.0
-1349272,2021-05-24,San Miguel,Colorado,8113.0,883,0.0
-1350807,2021-05-24,San Miguel,New Mexico,35047.0,1361,17.0
-1352518,2021-05-25,San Miguel,Colorado,8113.0,885,0.0
-1354053,2021-05-25,San Miguel,New Mexico,35047.0,1366,17.0
-1355764,2021-05-26,San Miguel,Colorado,8113.0,885,0.0
-1357299,2021-05-26,San Miguel,New Mexico,35047.0,1366,17.0
-1359010,2021-05-27,San Miguel,Colorado,8113.0,886,0.0
-1360545,2021-05-27,San Miguel,New Mexico,35047.0,1366,17.0
-1362257,2021-05-28,San Miguel,Colorado,8113.0,887,0.0
-1363791,2021-05-28,San Miguel,New Mexico,35047.0,1368,17.0
-1365503,2021-05-29,San Miguel,Colorado,8113.0,887,0.0
-1367037,2021-05-29,San Miguel,New Mexico,35047.0,1368,17.0
-1368749,2021-05-30,San Miguel,Colorado,8113.0,888,0.0
-1370283,2021-05-30,San Miguel,New Mexico,35047.0,1368,17.0
-1371994,2021-05-31,San Miguel,Colorado,8113.0,888,0.0
-1373528,2021-05-31,San Miguel,New Mexico,35047.0,1368,17.0
-1375239,2021-06-01,San Miguel,Colorado,8113.0,889,0.0
-1376774,2021-06-01,San Miguel,New Mexico,35047.0,1370,17.0
-1378485,2021-06-02,San Miguel,Colorado,8113.0,896,0.0
-1380019,2021-06-02,San Miguel,New Mexico,35047.0,1376,17.0
-1381730,2021-06-03,San Miguel,Colorado,8113.0,898,0.0
-1383265,2021-06-03,San Miguel,New Mexico,35047.0,1377,17.0
-1384976,2021-06-04,San Miguel,Colorado,8113.0,900,0.0
-1386510,2021-06-04,San Miguel,New Mexico,35047.0,1378,17.0
-1388221,2021-06-05,San Miguel,Colorado,8113.0,901,0.0
-1389755,2021-06-05,San Miguel,New Mexico,35047.0,1378,17.0
-1391466,2021-06-06,San Miguel,Colorado,8113.0,901,0.0
-1393000,2021-06-06,San Miguel,New Mexico,35047.0,1378,17.0
-1394711,2021-06-07,San Miguel,Colorado,8113.0,901,0.0
-1396246,2021-06-07,San Miguel,New Mexico,35047.0,1381,17.0
-1397958,2021-06-08,San Miguel,Colorado,8113.0,902,0.0
-1399492,2021-06-08,San Miguel,New Mexico,35047.0,1383,17.0
-1401203,2021-06-09,San Miguel,Colorado,8113.0,906,0.0
-1402737,2021-06-09,San Miguel,New Mexico,35047.0,1384,17.0
-1404448,2021-06-10,San Miguel,Colorado,8113.0,909,0.0
-1405983,2021-06-10,San Miguel,New Mexico,35047.0,1384,17.0
-1407694,2021-06-11,San Miguel,Colorado,8113.0,909,0.0
-1409228,2021-06-11,San Miguel,New Mexico,35047.0,1384,17.0
-1410939,2021-06-12,San Miguel,Colorado,8113.0,910,0.0
-1412473,2021-06-12,San Miguel,New Mexico,35047.0,1384,17.0
-1414184,2021-06-13,San Miguel,Colorado,8113.0,910,0.0
-1415719,2021-06-13,San Miguel,New Mexico,35047.0,1384,17.0
-1417430,2021-06-14,San Miguel,Colorado,8113.0,911,0.0
-1418964,2021-06-14,San Miguel,New Mexico,35047.0,1387,17.0
-1420675,2021-06-15,San Miguel,Colorado,8113.0,917,1.0
-1422209,2021-06-15,San Miguel,New Mexico,35047.0,1389,17.0
-1423923,2021-06-16,San Miguel,Colorado,8113.0,919,1.0
-1425457,2021-06-16,San Miguel,New Mexico,35047.0,1391,17.0
-1427168,2021-06-17,San Miguel,Colorado,8113.0,917,1.0
-1428702,2021-06-17,San Miguel,New Mexico,35047.0,1392,17.0
-1430413,2021-06-18,San Miguel,Colorado,8113.0,917,1.0
-1431947,2021-06-18,San Miguel,New Mexico,35047.0,1393,17.0
-1433659,2021-06-19,San Miguel,Colorado,8113.0,918,1.0
-1435194,2021-06-19,San Miguel,New Mexico,35047.0,1393,17.0
-1436906,2021-06-20,San Miguel,Colorado,8113.0,918,1.0
-1438441,2021-06-20,San Miguel,New Mexico,35047.0,1393,17.0
-1440153,2021-06-21,San Miguel,Colorado,8113.0,919,1.0
-1441687,2021-06-21,San Miguel,New Mexico,35047.0,1397,17.0
-1443398,2021-06-22,San Miguel,Colorado,8113.0,919,1.0
-1444932,2021-06-22,San Miguel,New Mexico,35047.0,1402,17.0
-1446643,2021-06-23,San Miguel,Colorado,8113.0,919,1.0
-1448177,2021-06-23,San Miguel,New Mexico,35047.0,1403,17.0
-1449888,2021-06-24,San Miguel,Colorado,8113.0,920,1.0
-1451423,2021-06-24,San Miguel,New Mexico,35047.0,1404,17.0
-1453134,2021-06-25,San Miguel,Colorado,8113.0,920,1.0
-1454668,2021-06-25,San Miguel,New Mexico,35047.0,1405,17.0
-1456379,2021-06-26,San Miguel,Colorado,8113.0,920,1.0
-1457913,2021-06-26,San Miguel,New Mexico,35047.0,1405,17.0
-1459624,2021-06-27,San Miguel,Colorado,8113.0,921,1.0
-1461158,2021-06-27,San Miguel,New Mexico,35047.0,1405,17.0
-1462869,2021-06-28,San Miguel,Colorado,8113.0,921,1.0
-1464403,2021-06-28,San Miguel,New Mexico,35047.0,1408,17.0
-1466114,2021-06-29,San Miguel,Colorado,8113.0,921,1.0
-1467648,2021-06-29,San Miguel,New Mexico,35047.0,1409,17.0
-1469359,2021-06-30,San Miguel,Colorado,8113.0,923,1.0
-1470893,2021-06-30,San Miguel,New Mexico,35047.0,1408,17.0
-1472605,2021-07-01,San Miguel,Colorado,8113.0,923,1.0
-1474139,2021-07-01,San Miguel,New Mexico,35047.0,1409,17.0
-1475851,2021-07-02,San Miguel,Colorado,8113.0,925,1.0
-1477385,2021-07-02,San Miguel,New Mexico,35047.0,1410,17.0
-1479097,2021-07-03,San Miguel,Colorado,8113.0,925,1.0
-1480632,2021-07-03,San Miguel,New Mexico,35047.0,1410,17.0
-1482344,2021-07-04,San Miguel,Colorado,8113.0,925,1.0
-1483878,2021-07-04,San Miguel,New Mexico,35047.0,1410,17.0
-1485590,2021-07-05,San Miguel,Colorado,8113.0,926,1.0
-1487124,2021-07-05,San Miguel,New Mexico,35047.0,1410,17.0
-1488837,2021-07-06,San Miguel,Colorado,8113.0,926,1.0
-1490371,2021-07-06,San Miguel,New Mexico,35047.0,1413,17.0
-1492084,2021-07-07,San Miguel,Colorado,8113.0,929,1.0
-1493618,2021-07-07,San Miguel,New Mexico,35047.0,1414,17.0
-1495330,2021-07-08,San Miguel,Colorado,8113.0,930,1.0
-1496865,2021-07-08,San Miguel,New Mexico,35047.0,1414,17.0
-1498577,2021-07-09,San Miguel,Colorado,8113.0,931,1.0
-1500111,2021-07-09,San Miguel,New Mexico,35047.0,1414,17.0
-1501823,2021-07-10,San Miguel,Colorado,8113.0,931,1.0
-1503357,2021-07-10,San Miguel,New Mexico,35047.0,1414,17.0
-1505069,2021-07-11,San Miguel,Colorado,8113.0,933,1.0
-1506603,2021-07-11,San Miguel,New Mexico,35047.0,1414,17.0
-1508315,2021-07-12,San Miguel,Colorado,8113.0,933,1.0
-1509849,2021-07-12,San Miguel,New Mexico,35047.0,1417,17.0
-1511562,2021-07-13,San Miguel,Colorado,8113.0,934,1.0
-1513096,2021-07-13,San Miguel,New Mexico,35047.0,1421,17.0
-1514808,2021-07-14,San Miguel,Colorado,8113.0,935,1.0
-1516343,2021-07-14,San Miguel,New Mexico,35047.0,1424,17.0
-1518055,2021-07-15,San Miguel,Colorado,8113.0,936,1.0
-1519590,2021-07-15,San Miguel,New Mexico,35047.0,1432,17.0
-1521303,2021-07-16,San Miguel,Colorado,8113.0,937,1.0
-1522839,2021-07-16,San Miguel,New Mexico,35047.0,1436,17.0
-1524551,2021-07-17,San Miguel,Colorado,8113.0,937,1.0
-1526086,2021-07-17,San Miguel,New Mexico,35047.0,1436,17.0
-1527798,2021-07-18,San Miguel,Colorado,8113.0,937,1.0
-1529333,2021-07-18,San Miguel,New Mexico,35047.0,1436,17.0
-1531045,2021-07-19,San Miguel,Colorado,8113.0,937,1.0
-1532580,2021-07-19,San Miguel,New Mexico,35047.0,1440,17.0
-1534292,2021-07-20,San Miguel,Colorado,8113.0,937,1.0
-1535828,2021-07-20,San Miguel,New Mexico,35047.0,1442,17.0
-1537540,2021-07-21,San Miguel,Colorado,8113.0,943,1.0
-1539075,2021-07-21,San Miguel,New Mexico,35047.0,1444,17.0
-1540787,2021-07-22,San Miguel,Colorado,8113.0,942,1.0
-1542322,2021-07-22,San Miguel,New Mexico,35047.0,1456,17.0
-1544035,2021-07-23,San Miguel,Colorado,8113.0,944,1.0
-1545570,2021-07-23,San Miguel,New Mexico,35047.0,1456,17.0
-1547282,2021-07-24,San Miguel,Colorado,8113.0,944,1.0
-1548817,2021-07-24,San Miguel,New Mexico,35047.0,1456,17.0
-1550529,2021-07-25,San Miguel,Colorado,8113.0,944,1.0
-1552064,2021-07-25,San Miguel,New Mexico,35047.0,1456,17.0
-1553776,2021-07-26,San Miguel,Colorado,8113.0,946,1.0
-1555311,2021-07-26,San Miguel,New Mexico,35047.0,1462,17.0
-1557023,2021-07-27,San Miguel,Colorado,8113.0,946,1.0
-1558558,2021-07-27,San Miguel,New Mexico,35047.0,1465,17.0
-1560270,2021-07-28,San Miguel,Colorado,8113.0,948,1.0
-1561806,2021-07-28,San Miguel,New Mexico,35047.0,1468,17.0
-1563518,2021-07-29,San Miguel,Colorado,8113.0,949,1.0
-1565054,2021-07-29,San Miguel,New Mexico,35047.0,1473,17.0
-1566766,2021-07-30,San Miguel,Colorado,8113.0,952,1.0
-1568302,2021-07-30,San Miguel,New Mexico,35047.0,1473,17.0
-1570014,2021-07-31,San Miguel,Colorado,8113.0,952,1.0
-1571550,2021-07-31,San Miguel,New Mexico,35047.0,1473,17.0
-1573262,2021-08-01,San Miguel,Colorado,8113.0,952,1.0
-1574798,2021-08-01,San Miguel,New Mexico,35047.0,1473,17.0
-1576510,2021-08-02,San Miguel,Colorado,8113.0,952,1.0
-1578046,2021-08-02,San Miguel,New Mexico,35047.0,1482,17.0
-1579758,2021-08-03,San Miguel,Colorado,8113.0,953,1.0
-1581295,2021-08-03,San Miguel,New Mexico,35047.0,1488,17.0
-1583008,2021-08-04,San Miguel,Colorado,8113.0,954,1.0
-1584544,2021-08-04,San Miguel,New Mexico,35047.0,1493,17.0
-1586258,2021-08-05,San Miguel,Colorado,8113.0,957,1.0
-1587795,2021-08-05,San Miguel,New Mexico,35047.0,1500,17.0
-1589507,2021-08-06,San Miguel,Colorado,8113.0,960,1.0
-1591044,2021-08-06,San Miguel,New Mexico,35047.0,1508,17.0
-1592756,2021-08-07,San Miguel,Colorado,8113.0,960,1.0
-1594293,2021-08-07,San Miguel,New Mexico,35047.0,1508,17.0
-1596005,2021-08-08,San Miguel,Colorado,8113.0,960,1.0
-1597542,2021-08-08,San Miguel,New Mexico,35047.0,1508,17.0
-1599254,2021-08-09,San Miguel,Colorado,8113.0,963,1.0
-1600790,2021-08-09,San Miguel,New Mexico,35047.0,1526,17.0
-1602503,2021-08-10,San Miguel,Colorado,8113.0,963,1.0
-1604039,2021-08-10,San Miguel,New Mexico,35047.0,1530,17.0
-1605752,2021-08-11,San Miguel,Colorado,8113.0,966,1.0
-1607288,2021-08-11,San Miguel,New Mexico,35047.0,1537,17.0
-1609001,2021-08-12,San Miguel,Colorado,8113.0,970,1.0
-1610536,2021-08-12,San Miguel,New Mexico,35047.0,1550,17.0
-1612249,2021-08-13,San Miguel,Colorado,8113.0,970,1.0
-1613785,2021-08-13,San Miguel,New Mexico,35047.0,1558,17.0
-1615498,2021-08-14,San Miguel,Colorado,8113.0,970,1.0
-1617033,2021-08-14,San Miguel,New Mexico,35047.0,1558,17.0
-1618746,2021-08-15,San Miguel,Colorado,8113.0,970,1.0
-1620281,2021-08-15,San Miguel,New Mexico,35047.0,1558,17.0
-1621993,2021-08-16,San Miguel,Colorado,8113.0,982,1.0
-1623528,2021-08-16,San Miguel,New Mexico,35047.0,1583,17.0
-1625240,2021-08-17,San Miguel,Colorado,8113.0,982,1.0
-1626775,2021-08-17,San Miguel,New Mexico,35047.0,1597,17.0
-1628487,2021-08-18,San Miguel,Colorado,8113.0,982,1.0
-1630022,2021-08-18,San Miguel,New Mexico,35047.0,1602,17.0
-1631734,2021-08-19,San Miguel,Colorado,8113.0,986,1.0
-1633269,2021-08-19,San Miguel,New Mexico,35047.0,1627,17.0
-1634983,2021-08-20,San Miguel,Colorado,8113.0,988,1.0
-1636519,2021-08-20,San Miguel,New Mexico,35047.0,1637,17.0
-1638233,2021-08-21,San Miguel,Colorado,8113.0,988,1.0
-1639769,2021-08-21,San Miguel,New Mexico,35047.0,1637,17.0
-1641483,2021-08-22,San Miguel,Colorado,8113.0,988,1.0
-1643019,2021-08-22,San Miguel,New Mexico,35047.0,1637,17.0
-1644733,2021-08-23,San Miguel,Colorado,8113.0,991,1.0
-1646268,2021-08-23,San Miguel,New Mexico,35047.0,1675,17.0
-1647981,2021-08-24,San Miguel,Colorado,8113.0,994,1.0
-1649517,2021-08-24,San Miguel,New Mexico,35047.0,1704,17.0
-1651230,2021-08-25,San Miguel,Colorado,8113.0,998,1.0
-1652765,2021-08-25,San Miguel,New Mexico,35047.0,1709,17.0
-1654477,2021-08-26,San Miguel,Colorado,8113.0,999,1.0
-1656012,2021-08-26,San Miguel,New Mexico,35047.0,1726,17.0
-1657725,2021-08-27,San Miguel,Colorado,8113.0,1023,2.0
-1659261,2021-08-27,San Miguel,New Mexico,35047.0,1751,17.0
-1660973,2021-08-28,San Miguel,Colorado,8113.0,1023,2.0
-1662509,2021-08-28,San Miguel,New Mexico,35047.0,1751,17.0
-1664221,2021-08-29,San Miguel,Colorado,8113.0,1023,2.0
-1665757,2021-08-29,San Miguel,New Mexico,35047.0,1751,17.0
-1667468,2021-08-30,San Miguel,Colorado,8113.0,1036,2.0
-1669004,2021-08-30,San Miguel,New Mexico,35047.0,1827,17.0
-1670715,2021-08-31,San Miguel,Colorado,8113.0,1037,3.0
-1672251,2021-08-31,San Miguel,New Mexico,35047.0,1908,17.0
-1673963,2021-09-01,San Miguel,Colorado,8113.0,1039,3.0
-1675499,2021-09-01,San Miguel,New Mexico,35047.0,1941,17.0
-1677210,2021-09-02,San Miguel,Colorado,8113.0,1041,3.0
-1678747,2021-09-02,San Miguel,New Mexico,35047.0,1965,17.0
-1680458,2021-09-03,San Miguel,Colorado,8113.0,1044,3.0
-1681995,2021-09-03,San Miguel,New Mexico,35047.0,2000,17.0
-1683709,2021-09-04,San Miguel,Colorado,8113.0,1044,3.0
-1685246,2021-09-04,San Miguel,New Mexico,35047.0,2000,17.0
-1686959,2021-09-05,San Miguel,Colorado,8113.0,1044,3.0
-1688496,2021-09-05,San Miguel,New Mexico,35047.0,2000,17.0
-1690209,2021-09-06,San Miguel,Colorado,8113.0,1047,3.0
-1691746,2021-09-06,San Miguel,New Mexico,35047.0,2000,17.0
-1693458,2021-09-07,San Miguel,Colorado,8113.0,1049,3.0
-1694995,2021-09-07,San Miguel,New Mexico,35047.0,2065,17.0
-1696706,2021-09-08,San Miguel,Colorado,8113.0,1053,3.0
-1698243,2021-09-08,San Miguel,New Mexico,35047.0,2076,18.0
-1699955,2021-09-09,San Miguel,Colorado,8113.0,1053,3.0
-1701492,2021-09-09,San Miguel,New Mexico,35047.0,2099,18.0
-1703205,2021-09-10,San Miguel,Colorado,8113.0,1055,3.0
-1704742,2021-09-10,San Miguel,New Mexico,35047.0,2132,19.0
-1706453,2021-09-11,San Miguel,Colorado,8113.0,1055,3.0
-1707989,2021-09-11,San Miguel,New Mexico,35047.0,2132,19.0
-1709700,2021-09-12,San Miguel,Colorado,8113.0,1055,3.0
-1711236,2021-09-12,San Miguel,New Mexico,35047.0,2132,19.0
-1712947,2021-09-13,San Miguel,Colorado,8113.0,1068,3.0
-1714482,2021-09-13,San Miguel,New Mexico,35047.0,2184,19.0
-1716193,2021-09-14,San Miguel,Colorado,8113.0,1072,3.0
-1717730,2021-09-14,San Miguel,New Mexico,35047.0,2202,19.0
-1719441,2021-09-15,San Miguel,Colorado,8113.0,1076,3.0
-1720978,2021-09-15,San Miguel,New Mexico,35047.0,2205,19.0
-1722690,2021-09-16,San Miguel,Colorado,8113.0,1079,3.0
-1724227,2021-09-16,San Miguel,New Mexico,35047.0,2238,19.0
-1725939,2021-09-17,San Miguel,Colorado,8113.0,1085,3.0
-1727476,2021-09-17,San Miguel,New Mexico,35047.0,2242,19.0
-1729189,2021-09-18,San Miguel,Colorado,8113.0,1085,3.0
-1730726,2021-09-18,San Miguel,New Mexico,35047.0,2242,19.0
-1732439,2021-09-19,San Miguel,Colorado,8113.0,1085,3.0
-1733976,2021-09-19,San Miguel,New Mexico,35047.0,2242,19.0
-1735689,2021-09-20,San Miguel,Colorado,8113.0,1098,3.0
-1737226,2021-09-20,San Miguel,New Mexico,35047.0,2276,19.0
-1738938,2021-09-21,San Miguel,Colorado,8113.0,1099,3.0
-1740475,2021-09-21,San Miguel,New Mexico,35047.0,2278,19.0
-1742187,2021-09-22,San Miguel,Colorado,8113.0,1102,3.0
-1743724,2021-09-22,San Miguel,New Mexico,35047.0,2286,19.0
-1745436,2021-09-23,San Miguel,Colorado,8113.0,1103,3.0
-1746973,2021-09-23,San Miguel,New Mexico,35047.0,2301,19.0
-1748686,2021-09-24,San Miguel,Colorado,8113.0,1110,3.0
-1750223,2021-09-24,San Miguel,New Mexico,35047.0,2306,19.0
-1751935,2021-09-25,San Miguel,Colorado,8113.0,1110,3.0
-1753471,2021-09-25,San Miguel,New Mexico,35047.0,2306,19.0
-1755183,2021-09-26,San Miguel,Colorado,8113.0,1110,3.0
-1756719,2021-09-26,San Miguel,New Mexico,35047.0,2306,19.0
-1758431,2021-09-27,San Miguel,Colorado,8113.0,1110,3.0
-1759967,2021-09-27,San Miguel,New Mexico,35047.0,2325,19.0
-1761679,2021-09-28,San Miguel,Colorado,8113.0,1117,3.0
-1763216,2021-09-28,San Miguel,New Mexico,35047.0,2333,20.0
-1764928,2021-09-29,San Miguel,Colorado,8113.0,1118,3.0
-1766465,2021-09-29,San Miguel,New Mexico,35047.0,2354,20.0
-1768177,2021-09-30,San Miguel,Colorado,8113.0,1123,3.0
-1769714,2021-09-30,San Miguel,New Mexico,35047.0,2372,20.0
-1771426,2021-10-01,San Miguel,Colorado,8113.0,1096,3.0
-1772963,2021-10-01,San Miguel,New Mexico,35047.0,2385,20.0
-1774676,2021-10-02,San Miguel,Colorado,8113.0,1096,3.0
-1776213,2021-10-02,San Miguel,New Mexico,35047.0,2385,20.0
-1777926,2021-10-03,San Miguel,Colorado,8113.0,1096,3.0
-1779463,2021-10-03,San Miguel,New Mexico,35047.0,2385,20.0
-1781176,2021-10-04,San Miguel,Colorado,8113.0,1133,3.0
-1782713,2021-10-04,San Miguel,New Mexico,35047.0,2412,20.0
-1784425,2021-10-05,San Miguel,Colorado,8113.0,1134,3.0
-1785962,2021-10-05,San Miguel,New Mexico,35047.0,2418,20.0
-1787674,2021-10-06,San Miguel,Colorado,8113.0,1135,3.0
-1789210,2021-10-06,San Miguel,New Mexico,35047.0,2431,20.0
-1790923,2021-10-07,San Miguel,Colorado,8113.0,1136,3.0
-1792459,2021-10-07,San Miguel,New Mexico,35047.0,2448,21.0
-1794171,2021-10-08,San Miguel,Colorado,8113.0,1142,3.0
-1795708,2021-10-08,San Miguel,New Mexico,35047.0,2456,21.0
-1797420,2021-10-09,San Miguel,Colorado,8113.0,1142,3.0
-1798957,2021-10-09,San Miguel,New Mexico,35047.0,2456,21.0
-1800669,2021-10-10,San Miguel,Colorado,8113.0,1142,3.0
-1802206,2021-10-10,San Miguel,New Mexico,35047.0,2456,21.0
-1803918,2021-10-11,San Miguel,Colorado,8113.0,1147,3.0
-1805455,2021-10-11,San Miguel,New Mexico,35047.0,2456,21.0
-1807169,2021-10-12,San Miguel,Colorado,8113.0,1148,3.0
-1808706,2021-10-12,San Miguel,New Mexico,35047.0,2488,21.0
-1810418,2021-10-13,San Miguel,Colorado,8113.0,1151,4.0
-1811955,2021-10-13,San Miguel,New Mexico,35047.0,2499,21.0
-1813667,2021-10-14,San Miguel,Colorado,8113.0,1153,4.0
-1815203,2021-10-14,San Miguel,New Mexico,35047.0,2512,22.0
-1816915,2021-10-15,San Miguel,Colorado,8113.0,1158,4.0
-1818452,2021-10-15,San Miguel,New Mexico,35047.0,2524,22.0
-1820164,2021-10-16,San Miguel,Colorado,8113.0,1158,4.0
-1821701,2021-10-16,San Miguel,New Mexico,35047.0,2524,22.0
-1823413,2021-10-17,San Miguel,Colorado,8113.0,1158,4.0
-1824950,2021-10-17,San Miguel,New Mexico,35047.0,2524,22.0
-1826662,2021-10-18,San Miguel,Colorado,8113.0,1161,4.0
-1828199,2021-10-18,San Miguel,New Mexico,35047.0,2548,22.0
-1829911,2021-10-19,San Miguel,Colorado,8113.0,1163,4.0
-1831448,2021-10-19,San Miguel,New Mexico,35047.0,2554,22.0
-1833160,2021-10-20,San Miguel,Colorado,8113.0,1164,4.0
-1834697,2021-10-20,San Miguel,New Mexico,35047.0,2558,22.0
-1836409,2021-10-21,San Miguel,Colorado,8113.0,1167,4.0
-1837946,2021-10-21,San Miguel,New Mexico,35047.0,2563,23.0
-1839658,2021-10-22,San Miguel,Colorado,8113.0,1171,4.0
-1841195,2021-10-22,San Miguel,New Mexico,35047.0,2566,23.0
-1842908,2021-10-23,San Miguel,Colorado,8113.0,1171,4.0
-1844445,2021-10-23,San Miguel,New Mexico,35047.0,2566,23.0
-1846158,2021-10-24,San Miguel,Colorado,8113.0,1171,4.0
-1847695,2021-10-24,San Miguel,New Mexico,35047.0,2566,23.0
-1849408,2021-10-25,San Miguel,Colorado,8113.0,1173,4.0
-1850945,2021-10-25,San Miguel,New Mexico,35047.0,2589,24.0
-1852657,2021-10-26,San Miguel,Colorado,8113.0,1171,4.0
-1854194,2021-10-26,San Miguel,New Mexico,35047.0,2595,26.0
-1855906,2021-10-27,San Miguel,Colorado,8113.0,1173,4.0
-1857443,2021-10-27,San Miguel,New Mexico,35047.0,2601,26.0
-1859155,2021-10-28,San Miguel,Colorado,8113.0,1172,4.0
-1860692,2021-10-28,San Miguel,New Mexico,35047.0,2623,26.0
-1862404,2021-10-29,San Miguel,Colorado,8113.0,1180,4.0
-1863941,2021-10-29,San Miguel,New Mexico,35047.0,2636,26.0
-1865653,2021-10-30,San Miguel,Colorado,8113.0,1180,4.0
-1867190,2021-10-30,San Miguel,New Mexico,35047.0,2636,26.0
-1868902,2021-10-31,San Miguel,Colorado,8113.0,1180,4.0
-1870439,2021-10-31,San Miguel,New Mexico,35047.0,2636,26.0
-1872151,2021-11-01,San Miguel,Colorado,8113.0,1191,5.0
-1873688,2021-11-01,San Miguel,New Mexico,35047.0,2657,26.0
-1875400,2021-11-02,San Miguel,Colorado,8113.0,1192,5.0
-1876937,2021-11-02,San Miguel,New Mexico,35047.0,2660,26.0
-1878649,2021-11-03,San Miguel,Colorado,8113.0,1191,5.0
-1880186,2021-11-03,San Miguel,New Mexico,35047.0,2668,26.0
-1881898,2021-11-04,San Miguel,Colorado,8113.0,1197,5.0
-1883435,2021-11-04,San Miguel,New Mexico,35047.0,2686,27.0
-1885147,2021-11-05,San Miguel,Colorado,8113.0,1201,5.0
-1886684,2021-11-05,San Miguel,New Mexico,35047.0,2698,27.0
-1888397,2021-11-06,San Miguel,Colorado,8113.0,1201,5.0
-1889934,2021-11-06,San Miguel,New Mexico,35047.0,2698,27.0
-1891647,2021-11-07,San Miguel,Colorado,8113.0,1201,5.0
-1893184,2021-11-07,San Miguel,New Mexico,35047.0,2698,27.0
-1894897,2021-11-08,San Miguel,Colorado,8113.0,1205,5.0
-1896434,2021-11-08,San Miguel,New Mexico,35047.0,2723,27.0
-1898147,2021-11-09,San Miguel,Colorado,8113.0,1207,5.0
-1899684,2021-11-09,San Miguel,New Mexico,35047.0,2731,27.0
-1901397,2021-11-10,San Miguel,Colorado,8113.0,1212,5.0
-1902934,2021-11-10,San Miguel,New Mexico,35047.0,2739,27.0
-1904647,2021-11-11,San Miguel,Colorado,8113.0,1215,5.0
-1906183,2021-11-11,San Miguel,New Mexico,35047.0,2739,27.0
-1907896,2021-11-12,San Miguel,Colorado,8113.0,1216,5.0
-1909432,2021-11-12,San Miguel,New Mexico,35047.0,2789,28.0
-1911145,2021-11-13,San Miguel,Colorado,8113.0,1216,5.0
-1912682,2021-11-13,San Miguel,New Mexico,35047.0,2789,28.0
-1914395,2021-11-14,San Miguel,Colorado,8113.0,1216,5.0
-1915932,2021-11-14,San Miguel,New Mexico,35047.0,2789,28.0
-1917645,2021-11-15,San Miguel,Colorado,8113.0,1232,5.0
-1919182,2021-11-15,San Miguel,New Mexico,35047.0,2825,28.0
-1920895,2021-11-16,San Miguel,Colorado,8113.0,1231,5.0
-1922432,2021-11-16,San Miguel,New Mexico,35047.0,2837,28.0
-1924144,2021-11-17,San Miguel,Colorado,8113.0,1235,5.0
-1925681,2021-11-17,San Miguel,New Mexico,35047.0,2868,28.0
-1927394,2021-11-18,San Miguel,Colorado,8113.0,1243,5.0
-1928931,2021-11-18,San Miguel,New Mexico,35047.0,2883,28.0
-1930644,2021-11-19,San Miguel,Colorado,8113.0,1253,5.0
-1932182,2021-11-19,San Miguel,New Mexico,35047.0,2905,28.0
-1933896,2021-11-20,San Miguel,Colorado,8113.0,1253,5.0
-1935432,2021-11-20,San Miguel,New Mexico,35047.0,2905,28.0
-1937146,2021-11-21,San Miguel,Colorado,8113.0,1253,5.0
-1938682,2021-11-21,San Miguel,New Mexico,35047.0,2905,28.0
-1940396,2021-11-22,San Miguel,Colorado,8113.0,1259,5.0
-1941932,2021-11-22,San Miguel,New Mexico,35047.0,2939,29.0
-1943646,2021-11-23,San Miguel,Colorado,8113.0,1259,5.0
-1945183,2021-11-23,San Miguel,New Mexico,35047.0,2952,29.0
-1946897,2021-11-24,San Miguel,Colorado,8113.0,1260,5.0
-1948434,2021-11-24,San Miguel,New Mexico,35047.0,2961,29.0
-1950148,2021-11-25,San Miguel,Colorado,8113.0,1263,5.0
-1951685,2021-11-25,San Miguel,New Mexico,35047.0,2961,29.0
-1953399,2021-11-26,San Miguel,Colorado,8113.0,1263,5.0
-1954936,2021-11-26,San Miguel,New Mexico,35047.0,2961,29.0
-1956650,2021-11-27,San Miguel,Colorado,8113.0,1263,5.0
-1958187,2021-11-27,San Miguel,New Mexico,35047.0,2961,29.0
-1959901,2021-11-28,San Miguel,Colorado,8113.0,1263,5.0
-1961438,2021-11-28,San Miguel,New Mexico,35047.0,2961,29.0
-1963152,2021-11-29,San Miguel,Colorado,8113.0,1268,5.0
-1964689,2021-11-29,San Miguel,New Mexico,35047.0,3019,29.0
-1966404,2021-11-30,San Miguel,Colorado,8113.0,1270,5.0
-1967941,2021-11-30,San Miguel,New Mexico,35047.0,3030,29.0
-1969654,2021-12-01,San Miguel,Colorado,8113.0,1271,5.0
-1971191,2021-12-01,San Miguel,New Mexico,35047.0,3047,30.0
-1972904,2021-12-02,San Miguel,Colorado,8113.0,1278,5.0
-1974440,2021-12-02,San Miguel,New Mexico,35047.0,3066,30.0
-1976153,2021-12-03,San Miguel,Colorado,8113.0,1279,5.0
-1977690,2021-12-03,San Miguel,New Mexico,35047.0,3094,30.0
-1979403,2021-12-04,San Miguel,Colorado,8113.0,1279,5.0
-1980940,2021-12-04,San Miguel,New Mexico,35047.0,3094,30.0
-1982653,2021-12-05,San Miguel,Colorado,8113.0,1279,5.0
-1984190,2021-12-05,San Miguel,New Mexico,35047.0,3094,30.0
-1985903,2021-12-06,San Miguel,Colorado,8113.0,1281,5.0
-1987440,2021-12-06,San Miguel,New Mexico,35047.0,3130,31.0
-1989153,2021-12-07,San Miguel,Colorado,8113.0,1286,5.0
-1990690,2021-12-07,San Miguel,New Mexico,35047.0,3137,31.0
-1992404,2021-12-08,San Miguel,Colorado,8113.0,1288,5.0
-1993941,2021-12-08,San Miguel,New Mexico,35047.0,3162,31.0
-1995655,2021-12-09,San Miguel,Colorado,8113.0,1294,5.0
-1997192,2021-12-09,San Miguel,New Mexico,35047.0,3171,31.0
-1998906,2021-12-10,San Miguel,Colorado,8113.0,1298,5.0
-2000443,2021-12-10,San Miguel,New Mexico,35047.0,3188,31.0
-2002156,2021-12-11,San Miguel,Colorado,8113.0,1298,5.0
-2003693,2021-12-11,San Miguel,New Mexico,35047.0,3188,31.0
-2005407,2021-12-12,San Miguel,Colorado,8113.0,1298,5.0
-2006944,2021-12-12,San Miguel,New Mexico,35047.0,3188,31.0
-2008658,2021-12-13,San Miguel,Colorado,8113.0,1302,5.0
-2010195,2021-12-13,San Miguel,New Mexico,35047.0,3220,31.0
-2011909,2021-12-14,San Miguel,Colorado,8113.0,1307,5.0
-2013446,2021-12-14,San Miguel,New Mexico,35047.0,3225,31.0
-2015160,2021-12-15,San Miguel,Colorado,8113.0,1308,5.0
-2016697,2021-12-15,San Miguel,New Mexico,35047.0,3249,31.0
-2018410,2021-12-16,San Miguel,Colorado,8113.0,1311,5.0
-2019947,2021-12-16,San Miguel,New Mexico,35047.0,3265,31.0
-2021661,2021-12-17,San Miguel,Colorado,8113.0,1322,5.0
-2023198,2021-12-17,San Miguel,New Mexico,35047.0,3282,31.0
-2024912,2021-12-18,San Miguel,Colorado,8113.0,1322,5.0
-2026449,2021-12-18,San Miguel,New Mexico,35047.0,3282,31.0
-2028163,2021-12-19,San Miguel,Colorado,8113.0,1322,5.0
-2029700,2021-12-19,San Miguel,New Mexico,35047.0,3282,31.0
-2031414,2021-12-20,San Miguel,Colorado,8113.0,1322,6.0
-2032951,2021-12-20,San Miguel,New Mexico,35047.0,3303,33.0
-2034664,2021-12-21,San Miguel,Colorado,8113.0,1324,7.0
-2036201,2021-12-21,San Miguel,New Mexico,35047.0,3316,33.0
-2037914,2021-12-22,San Miguel,Colorado,8113.0,1327,7.0
-2039451,2021-12-22,San Miguel,New Mexico,35047.0,3335,33.0
-2041164,2021-12-23,San Miguel,Colorado,8113.0,1373,7.0
-2042700,2021-12-23,San Miguel,New Mexico,35047.0,3347,33.0
-2044413,2021-12-24,San Miguel,Colorado,8113.0,1459,7.0
-2045950,2021-12-24,San Miguel,New Mexico,35047.0,3347,33.0
-2047663,2021-12-25,San Miguel,Colorado,8113.0,1459,7.0
-2049200,2021-12-25,San Miguel,New Mexico,35047.0,3347,33.0
-2050913,2021-12-26,San Miguel,Colorado,8113.0,1459,7.0
-2052450,2021-12-26,San Miguel,New Mexico,35047.0,3347,33.0
-2054163,2021-12-27,San Miguel,Colorado,8113.0,1471,7.0
-2055700,2021-12-27,San Miguel,New Mexico,35047.0,3376,33.0
-2057412,2021-12-28,San Miguel,Colorado,8113.0,1477,7.0
-2058949,2021-12-28,San Miguel,New Mexico,35047.0,3381,34.0
-2060661,2021-12-29,San Miguel,Colorado,8113.0,1505,7.0
-2062198,2021-12-29,San Miguel,New Mexico,35047.0,3397,34.0
-2063911,2021-12-30,San Miguel,Colorado,8113.0,1590,7.0
-2065448,2021-12-30,San Miguel,New Mexico,35047.0,3429,34.0
-2067162,2021-12-31,San Miguel,Colorado,8113.0,1642,7.0
-2068699,2021-12-31,San Miguel,New Mexico,35047.0,3429,34.0
-2070413,2022-01-01,San Miguel,Colorado,8113.0,1642,7.0
-2071950,2022-01-01,San Miguel,New Mexico,35047.0,3429,34.0
-2073664,2022-01-02,San Miguel,Colorado,8113.0,1642,7.0
-2075201,2022-01-02,San Miguel,New Mexico,35047.0,3429,34.0
-2076915,2022-01-03,San Miguel,Colorado,8113.0,1675,7.0
-2078452,2022-01-03,San Miguel,New Mexico,35047.0,3517,34.0
-2080167,2022-01-04,San Miguel,Colorado,8113.0,1693,7.0
-2081704,2022-01-04,San Miguel,New Mexico,35047.0,3547,34.0
-2083419,2022-01-05,San Miguel,Colorado,8113.0,1705,7.0
-2084956,2022-01-05,San Miguel,New Mexico,35047.0,3586,37.0
-2086671,2022-01-06,San Miguel,Colorado,8113.0,1714,7.0
-2088208,2022-01-06,San Miguel,New Mexico,35047.0,3636,38.0
-2089922,2022-01-07,San Miguel,Colorado,8113.0,1721,7.0
-2091459,2022-01-07,San Miguel,New Mexico,35047.0,3678,38.0
-2093174,2022-01-08,San Miguel,Colorado,8113.0,1721,7.0
-2094711,2022-01-08,San Miguel,New Mexico,35047.0,3678,38.0
-2096426,2022-01-09,San Miguel,Colorado,8113.0,1721,7.0
-2097963,2022-01-09,San Miguel,New Mexico,35047.0,3678,38.0
-2099677,2022-01-10,San Miguel,Colorado,8113.0,1851,7.0
-2101214,2022-01-10,San Miguel,New Mexico,35047.0,3797,38.0
-2102928,2022-01-11,San Miguel,Colorado,8113.0,1877,7.0
-2104465,2022-01-11,San Miguel,New Mexico,35047.0,3839,38.0
-2106179,2022-01-12,San Miguel,Colorado,8113.0,1883,7.0
-2107716,2022-01-12,San Miguel,New Mexico,35047.0,3917,38.0
-2109430,2022-01-13,San Miguel,Colorado,8113.0,1947,7.0
-2110967,2022-01-13,San Miguel,New Mexico,35047.0,4036,40.0
-2112682,2022-01-14,San Miguel,Colorado,8113.0,1966,7.0
-2114219,2022-01-14,San Miguel,New Mexico,35047.0,4089,40.0
-2115933,2022-01-15,San Miguel,Colorado,8113.0,1966,7.0
-2117470,2022-01-15,San Miguel,New Mexico,35047.0,4089,40.0
-2119185,2022-01-16,San Miguel,Colorado,8113.0,1966,7.0
-2120722,2022-01-16,San Miguel,New Mexico,35047.0,4089,40.0
-2122437,2022-01-17,San Miguel,Colorado,8113.0,1990,7.0
-2123974,2022-01-17,San Miguel,New Mexico,35047.0,4089,40.0
-2125689,2022-01-18,San Miguel,Colorado,8113.0,1994,7.0
-2127226,2022-01-18,San Miguel,New Mexico,35047.0,4411,40.0
-2128943,2022-01-19,San Miguel,Colorado,8113.0,2000,7.0
-2130480,2022-01-19,San Miguel,New Mexico,35047.0,4461,41.0
-2132196,2022-01-20,San Miguel,Colorado,8113.0,2022,7.0
-2133733,2022-01-20,San Miguel,New Mexico,35047.0,4561,42.0
-2135448,2022-01-21,San Miguel,Colorado,8113.0,2024,7.0
-2136985,2022-01-21,San Miguel,New Mexico,35047.0,4666,42.0
-2138704,2022-01-22,San Miguel,Colorado,8113.0,2024,7.0
-2140241,2022-01-22,San Miguel,New Mexico,35047.0,4666,42.0
-2141959,2022-01-23,San Miguel,Colorado,8113.0,2024,7.0
-2143496,2022-01-23,San Miguel,New Mexico,35047.0,4666,42.0
-2145214,2022-01-24,San Miguel,Colorado,8113.0,2049,7.0
-2146751,2022-01-24,San Miguel,New Mexico,35047.0,4857,44.0
-2148466,2022-01-25,San Miguel,Colorado,8113.0,2057,7.0
-2150003,2022-01-25,San Miguel,New Mexico,35047.0,4897,44.0
-2151718,2022-01-26,San Miguel,Colorado,8113.0,2062,7.0
-2153255,2022-01-26,San Miguel,New Mexico,35047.0,4936,45.0
-2154971,2022-01-27,San Miguel,Colorado,8113.0,2068,7.0
-2156508,2022-01-27,San Miguel,New Mexico,35047.0,5023,45.0
-2158224,2022-01-28,San Miguel,Colorado,8113.0,2093,7.0
-2159762,2022-01-28,San Miguel,New Mexico,35047.0,5097,45.0
-2161480,2022-01-29,San Miguel,Colorado,8113.0,2068,7.0
-2163017,2022-01-29,San Miguel,New Mexico,35047.0,5097,45.0
-2164735,2022-01-30,San Miguel,Colorado,8113.0,2093,7.0
-2166272,2022-01-30,San Miguel,New Mexico,35047.0,5097,45.0
-2167990,2022-01-31,San Miguel,Colorado,8113.0,2108,7.0
-2169527,2022-01-31,San Miguel,New Mexico,35047.0,5206,46.0
-2171243,2022-02-01,San Miguel,Colorado,8113.0,2108,7.0
-2172780,2022-02-01,San Miguel,New Mexico,35047.0,5237,46.0
-2174496,2022-02-02,San Miguel,Colorado,8113.0,2111,7.0
-2176033,2022-02-02,San Miguel,New Mexico,35047.0,5283,46.0
-2177749,2022-02-03,San Miguel,Colorado,8113.0,2130,7.0
-2179285,2022-02-03,San Miguel,New Mexico,35047.0,5321,46.0
-2181000,2022-02-04,San Miguel,Colorado,8113.0,2132,7.0
-2182537,2022-02-04,San Miguel,New Mexico,35047.0,5334,46.0
-2184252,2022-02-05,San Miguel,Colorado,8113.0,2132,7.0
-2185789,2022-02-05,San Miguel,New Mexico,35047.0,5334,46.0
-2187505,2022-02-06,San Miguel,Colorado,8113.0,2132,7.0
-2189042,2022-02-06,San Miguel,New Mexico,35047.0,5334,46.0
-2190758,2022-02-07,San Miguel,Colorado,8113.0,2142,7.0
-2192295,2022-02-07,San Miguel,New Mexico,35047.0,5385,46.0
-2194012,2022-02-08,San Miguel,Colorado,8113.0,2142,7.0
-2195549,2022-02-08,San Miguel,New Mexico,35047.0,5393,46.0
-2197266,2022-02-09,San Miguel,Colorado,8113.0,2148,7.0
-2198803,2022-02-09,San Miguel,New Mexico,35047.0,5418,46.0
-2200520,2022-02-10,San Miguel,Colorado,8113.0,2154,7.0
-2202057,2022-02-10,San Miguel,New Mexico,35047.0,5451,48.0
-2203773,2022-02-11,San Miguel,Colorado,8113.0,2155,7.0
-2205310,2022-02-11,San Miguel,New Mexico,35047.0,5463,49.0
-2207026,2022-02-12,San Miguel,Colorado,8113.0,2155,7.0
-2208563,2022-02-12,San Miguel,New Mexico,35047.0,5463,49.0
-2210279,2022-02-13,San Miguel,Colorado,8113.0,2155,7.0
-2211816,2022-02-13,San Miguel,New Mexico,35047.0,5463,49.0
-2213531,2022-02-14,San Miguel,Colorado,8113.0,2159,7.0
-2215068,2022-02-14,San Miguel,New Mexico,35047.0,5493,49.0
-2216782,2022-02-15,San Miguel,Colorado,8113.0,2162,7.0
-2218319,2022-02-15,San Miguel,New Mexico,35047.0,5506,49.0
-2220033,2022-02-16,San Miguel,Colorado,8113.0,2197,7.0
-2221570,2022-02-16,San Miguel,New Mexico,35047.0,5522,49.0
-2223284,2022-02-17,San Miguel,Colorado,8113.0,2199,7.0
-2224821,2022-02-17,San Miguel,New Mexico,35047.0,5550,49.0
-2226535,2022-02-18,San Miguel,Colorado,8113.0,2202,7.0
-2228072,2022-02-18,San Miguel,New Mexico,35047.0,5571,49.0
-2229786,2022-02-19,San Miguel,Colorado,8113.0,2202,7.0
-2231323,2022-02-19,San Miguel,New Mexico,35047.0,5571,49.0
-2233037,2022-02-20,San Miguel,Colorado,8113.0,2202,7.0
-2234574,2022-02-20,San Miguel,New Mexico,35047.0,5571,49.0
-2236288,2022-02-21,San Miguel,Colorado,8113.0,2212,7.0
-2237825,2022-02-21,San Miguel,New Mexico,35047.0,5604,49.0
-2239539,2022-02-22,San Miguel,Colorado,8113.0,2211,7.0
-2241076,2022-02-22,San Miguel,New Mexico,35047.0,5611,49.0
-2242790,2022-02-23,San Miguel,Colorado,8113.0,2214,7.0
-2244327,2022-02-23,San Miguel,New Mexico,35047.0,5623,50.0
-2246041,2022-02-24,San Miguel,Colorado,8113.0,2216,8.0
-2247578,2022-02-24,San Miguel,New Mexico,35047.0,5645,50.0
-2249292,2022-02-25,San Miguel,Colorado,8113.0,2216,8.0
-2250829,2022-02-25,San Miguel,New Mexico,35047.0,5649,50.0
-2252543,2022-02-26,San Miguel,Colorado,8113.0,2216,8.0
-2254080,2022-02-26,San Miguel,New Mexico,35047.0,5649,50.0
-2255794,2022-02-27,San Miguel,Colorado,8113.0,2216,8.0
-2257331,2022-02-27,San Miguel,New Mexico,35047.0,5649,50.0
-2259045,2022-02-28,San Miguel,Colorado,8113.0,2217,8.0
-2260582,2022-02-28,San Miguel,New Mexico,35047.0,5658,50.0
-2262296,2022-03-01,San Miguel,Colorado,8113.0,2221,8.0
-2263833,2022-03-01,San Miguel,New Mexico,35047.0,5665,50.0
-2265547,2022-03-02,San Miguel,Colorado,8113.0,2219,8.0
-2267084,2022-03-02,San Miguel,New Mexico,35047.0,5681,50.0
-2268800,2022-03-03,San Miguel,Colorado,8113.0,2220,8.0
-2270337,2022-03-03,San Miguel,New Mexico,35047.0,5692,50.0
-2272052,2022-03-04,San Miguel,Colorado,8113.0,2222,8.0
-2273589,2022-03-04,San Miguel,New Mexico,35047.0,5703,50.0
-2275305,2022-03-05,San Miguel,Colorado,8113.0,2222,8.0
-2276842,2022-03-05,San Miguel,New Mexico,35047.0,5703,50.0
-2278558,2022-03-06,San Miguel,Colorado,8113.0,2222,8.0
-2280095,2022-03-06,San Miguel,New Mexico,35047.0,5703,50.0
-2281811,2022-03-07,San Miguel,Colorado,8113.0,2224,8.0
-2283348,2022-03-07,San Miguel,New Mexico,35047.0,5720,51.0
-2285063,2022-03-08,San Miguel,Colorado,8113.0,2225,8.0
-2286600,2022-03-08,San Miguel,New Mexico,35047.0,5726,51.0
-2288314,2022-03-09,San Miguel,Colorado,8113.0,2227,8.0
-2289852,2022-03-09,San Miguel,New Mexico,35047.0,5733,51.0
-2291566,2022-03-10,San Miguel,Colorado,8113.0,2230,8.0
-2293104,2022-03-10,San Miguel,New Mexico,35047.0,5740,51.0
-2294818,2022-03-11,San Miguel,Colorado,8113.0,2229,8.0
-2296356,2022-03-11,San Miguel,New Mexico,35047.0,5748,51.0
-2298070,2022-03-12,San Miguel,Colorado,8113.0,2229,8.0
-2299608,2022-03-12,San Miguel,New Mexico,35047.0,5748,51.0
-2301322,2022-03-13,San Miguel,Colorado,8113.0,2229,8.0
-2302860,2022-03-13,San Miguel,New Mexico,35047.0,5748,51.0
-2304574,2022-03-14,San Miguel,Colorado,8113.0,2229,8.0
-2306111,2022-03-14,San Miguel,New Mexico,35047.0,5751,51.0
-2307825,2022-03-15,San Miguel,Colorado,8113.0,2231,8.0
-2309364,2022-03-15,San Miguel,New Mexico,35047.0,5755,52.0
-2311078,2022-03-16,San Miguel,Colorado,8113.0,2231,8.0
-2312617,2022-03-16,San Miguel,New Mexico,35047.0,5756,52.0
-2314331,2022-03-17,San Miguel,Colorado,8113.0,2233,8.0
-2315870,2022-03-17,San Miguel,New Mexico,35047.0,5761,53.0
-2317584,2022-03-18,San Miguel,Colorado,8113.0,2233,8.0
-2319123,2022-03-18,San Miguel,New Mexico,35047.0,5761,53.0
-2320838,2022-03-19,San Miguel,Colorado,8113.0,2233,8.0
-2322377,2022-03-19,San Miguel,New Mexico,35047.0,5761,53.0
-2324092,2022-03-20,San Miguel,Colorado,8113.0,2233,8.0
-2325631,2022-03-20,San Miguel,New Mexico,35047.0,5761,53.0
-2327345,2022-03-21,San Miguel,Colorado,8113.0,2237,8.0
-2328883,2022-03-21,San Miguel,New Mexico,35047.0,5766,53.0
-2330597,2022-03-22,San Miguel,Colorado,8113.0,2238,8.0
-2332136,2022-03-22,San Miguel,New Mexico,35047.0,5769,54.0
-2333851,2022-03-23,San Miguel,Colorado,8113.0,2241,8.0
-2335390,2022-03-23,San Miguel,New Mexico,35047.0,5790,54.0
-2337105,2022-03-24,San Miguel,Colorado,8113.0,2247,8.0
-2338644,2022-03-24,San Miguel,New Mexico,35047.0,5794,55.0
-2340358,2022-03-25,San Miguel,Colorado,8113.0,2251,8.0
-2341897,2022-03-25,San Miguel,New Mexico,35047.0,5799,55.0
-2343611,2022-03-26,San Miguel,Colorado,8113.0,2251,8.0
-2345150,2022-03-26,San Miguel,New Mexico,35047.0,5799,55.0
-2346864,2022-03-27,San Miguel,Colorado,8113.0,2251,8.0
-2348403,2022-03-27,San Miguel,New Mexico,35047.0,5799,55.0
-2350117,2022-03-28,San Miguel,Colorado,8113.0,2252,8.0
-2351655,2022-03-28,San Miguel,New Mexico,35047.0,5810,55.0
-2353369,2022-03-29,San Miguel,Colorado,8113.0,2258,8.0
-2354908,2022-03-29,San Miguel,New Mexico,35047.0,5813,55.0
-2356622,2022-03-30,San Miguel,Colorado,8113.0,2261,8.0
-2358161,2022-03-30,San Miguel,New Mexico,35047.0,5817,55.0
-2359876,2022-03-31,San Miguel,Colorado,8113.0,2264,8.0
-2361415,2022-03-31,San Miguel,New Mexico,35047.0,5817,55.0
-2363130,2022-04-01,San Miguel,Colorado,8113.0,2264,8.0
-2364669,2022-04-01,San Miguel,New Mexico,35047.0,5819,55.0
-2366383,2022-04-02,San Miguel,Colorado,8113.0,2264,8.0
-2367922,2022-04-02,San Miguel,New Mexico,35047.0,5819,55.0
-2369636,2022-04-03,San Miguel,Colorado,8113.0,2261,8.0
-2371175,2022-04-03,San Miguel,New Mexico,35047.0,5819,55.0
-2372889,2022-04-04,San Miguel,Colorado,8113.0,2262,8.0
-2374427,2022-04-04,San Miguel,New Mexico,35047.0,5829,55.0
-2376141,2022-04-05,San Miguel,Colorado,8113.0,2262,8.0
-2377680,2022-04-05,San Miguel,New Mexico,35047.0,5831,55.0
-2379395,2022-04-06,San Miguel,Colorado,8113.0,2262,8.0
-2380935,2022-04-06,San Miguel,New Mexico,35047.0,5836,55.0
-2382650,2022-04-07,San Miguel,Colorado,8113.0,2265,8.0
-2384190,2022-04-07,San Miguel,New Mexico,35047.0,5837,55.0
-2385905,2022-04-08,San Miguel,Colorado,8113.0,2267,8.0
-2387444,2022-04-08,San Miguel,New Mexico,35047.0,5841,55.0
-2389160,2022-04-09,San Miguel,Colorado,8113.0,2267,8.0
-2390700,2022-04-09,San Miguel,New Mexico,35047.0,5841,55.0
+date,county,state,fips,cases,deaths
+2020-03-19,San Miguel,New Mexico,35047.0,1,0.0
+2020-03-20,San Miguel,Colorado,8113.0,1,0.0
+2020-03-20,San Miguel,New Mexico,35047.0,1,0.0
+2020-03-21,San Miguel,Colorado,8113.0,1,0.0
+2020-03-21,San Miguel,New Mexico,35047.0,1,0.0
+2020-03-22,San Miguel,Colorado,8113.0,1,0.0
+2020-03-22,San Miguel,New Mexico,35047.0,1,0.0
+2020-03-23,San Miguel,Colorado,8113.0,1,0.0
+2020-03-23,San Miguel,New Mexico,35047.0,1,0.0
+2020-03-24,San Miguel,Colorado,8113.0,1,0.0
+2020-03-24,San Miguel,New Mexico,35047.0,1,0.0
+2020-03-25,San Miguel,Colorado,8113.0,1,0.0
+2020-03-25,San Miguel,New Mexico,35047.0,1,0.0
+2020-03-26,San Miguel,Colorado,8113.0,1,0.0
+2020-03-26,San Miguel,New Mexico,35047.0,1,0.0
+2020-03-27,San Miguel,Colorado,8113.0,1,0.0
+2020-03-27,San Miguel,New Mexico,35047.0,1,0.0
+2020-03-28,San Miguel,Colorado,8113.0,1,0.0
+2020-03-28,San Miguel,New Mexico,35047.0,1,0.0
+2020-03-29,San Miguel,Colorado,8113.0,1,0.0
+2020-03-29,San Miguel,New Mexico,35047.0,1,0.0
+2020-03-30,San Miguel,Colorado,8113.0,1,0.0
+2020-03-30,San Miguel,New Mexico,35047.0,1,0.0
+2020-03-31,San Miguel,Colorado,8113.0,4,0.0
+2020-03-31,San Miguel,New Mexico,35047.0,1,0.0
+2020-04-01,San Miguel,Colorado,8113.0,4,0.0
+2020-04-01,San Miguel,New Mexico,35047.0,1,0.0
+2020-04-02,San Miguel,Colorado,8113.0,7,0.0
+2020-04-02,San Miguel,New Mexico,35047.0,1,0.0
+2020-04-03,San Miguel,Colorado,8113.0,9,0.0
+2020-04-03,San Miguel,New Mexico,35047.0,1,0.0
+2020-04-04,San Miguel,Colorado,8113.0,9,0.0
+2020-04-04,San Miguel,New Mexico,35047.0,1,0.0
+2020-04-05,San Miguel,Colorado,8113.0,10,0.0
+2020-04-05,San Miguel,New Mexico,35047.0,1,0.0
+2020-04-06,San Miguel,Colorado,8113.0,10,0.0
+2020-04-06,San Miguel,New Mexico,35047.0,1,0.0
+2020-04-07,San Miguel,Colorado,8113.0,10,0.0
+2020-04-07,San Miguel,New Mexico,35047.0,1,0.0
+2020-04-08,San Miguel,Colorado,8113.0,10,0.0
+2020-04-08,San Miguel,New Mexico,35047.0,1,0.0
+2020-04-09,San Miguel,Colorado,8113.0,11,0.0
+2020-04-09,San Miguel,New Mexico,35047.0,1,0.0
+2020-04-10,San Miguel,Colorado,8113.0,11,0.0
+2020-04-10,San Miguel,New Mexico,35047.0,1,0.0
+2020-04-11,San Miguel,Colorado,8113.0,12,0.0
+2020-04-11,San Miguel,New Mexico,35047.0,1,0.0
+2020-04-12,San Miguel,Colorado,8113.0,12,0.0
+2020-04-12,San Miguel,New Mexico,35047.0,1,0.0
+2020-04-13,San Miguel,Colorado,8113.0,12,0.0
+2020-04-13,San Miguel,New Mexico,35047.0,1,0.0
+2020-04-14,San Miguel,Colorado,8113.0,12,0.0
+2020-04-14,San Miguel,New Mexico,35047.0,2,0.0
+2020-04-15,San Miguel,Colorado,8113.0,12,0.0
+2020-04-15,San Miguel,New Mexico,35047.0,2,0.0
+2020-04-16,San Miguel,Colorado,8113.0,12,0.0
+2020-04-16,San Miguel,New Mexico,35047.0,2,0.0
+2020-04-17,San Miguel,Colorado,8113.0,13,0.0
+2020-04-17,San Miguel,New Mexico,35047.0,2,0.0
+2020-04-18,San Miguel,Colorado,8113.0,13,0.0
+2020-04-18,San Miguel,New Mexico,35047.0,2,0.0
+2020-04-19,San Miguel,Colorado,8113.0,15,0.0
+2020-04-19,San Miguel,New Mexico,35047.0,2,0.0
+2020-04-20,San Miguel,Colorado,8113.0,17,0.0
+2020-04-20,San Miguel,New Mexico,35047.0,2,0.0
+2020-04-21,San Miguel,Colorado,8113.0,17,0.0
+2020-04-21,San Miguel,New Mexico,35047.0,2,0.0
+2020-04-22,San Miguel,Colorado,8113.0,17,0.0
+2020-04-22,San Miguel,New Mexico,35047.0,2,0.0
+2020-04-23,San Miguel,Colorado,8113.0,17,0.0
+2020-04-23,San Miguel,New Mexico,35047.0,2,0.0
+2020-04-24,San Miguel,Colorado,8113.0,17,0.0
+2020-04-24,San Miguel,New Mexico,35047.0,2,0.0
+2020-04-25,San Miguel,Colorado,8113.0,17,0.0
+2020-04-25,San Miguel,New Mexico,35047.0,2,0.0
+2020-04-26,San Miguel,Colorado,8113.0,19,0.0
+2020-04-26,San Miguel,New Mexico,35047.0,2,0.0
+2020-04-27,San Miguel,Colorado,8113.0,19,0.0
+2020-04-27,San Miguel,New Mexico,35047.0,2,0.0
+2020-04-28,San Miguel,Colorado,8113.0,19,0.0
+2020-04-28,San Miguel,New Mexico,35047.0,2,0.0
+2020-04-29,San Miguel,Colorado,8113.0,19,0.0
+2020-04-29,San Miguel,New Mexico,35047.0,2,0.0
+2020-04-30,San Miguel,Colorado,8113.0,19,0.0
+2020-04-30,San Miguel,New Mexico,35047.0,2,0.0
+2020-05-01,San Miguel,Colorado,8113.0,19,0.0
+2020-05-01,San Miguel,New Mexico,35047.0,2,0.0
+2020-05-02,San Miguel,Colorado,8113.0,19,0.0
+2020-05-02,San Miguel,New Mexico,35047.0,2,0.0
+2020-05-03,San Miguel,Colorado,8113.0,19,0.0
+2020-05-03,San Miguel,New Mexico,35047.0,2,0.0
+2020-05-04,San Miguel,Colorado,8113.0,20,0.0
+2020-05-04,San Miguel,New Mexico,35047.0,2,0.0
+2020-05-05,San Miguel,Colorado,8113.0,20,0.0
+2020-05-05,San Miguel,New Mexico,35047.0,3,0.0
+2020-05-06,San Miguel,Colorado,8113.0,20,0.0
+2020-05-06,San Miguel,New Mexico,35047.0,4,0.0
+2020-05-07,San Miguel,Colorado,8113.0,20,0.0
+2020-05-07,San Miguel,New Mexico,35047.0,4,0.0
+2020-05-08,San Miguel,Colorado,8113.0,20,0.0
+2020-05-08,San Miguel,New Mexico,35047.0,5,0.0
+2020-05-09,San Miguel,Colorado,8113.0,20,0.0
+2020-05-09,San Miguel,New Mexico,35047.0,6,0.0
+2020-05-10,San Miguel,Colorado,8113.0,20,0.0
+2020-05-10,San Miguel,New Mexico,35047.0,6,0.0
+2020-05-11,San Miguel,Colorado,8113.0,20,0.0
+2020-05-11,San Miguel,New Mexico,35047.0,7,0.0
+2020-05-12,San Miguel,Colorado,8113.0,22,0.0
+2020-05-12,San Miguel,New Mexico,35047.0,7,0.0
+2020-05-13,San Miguel,Colorado,8113.0,22,0.0
+2020-05-13,San Miguel,New Mexico,35047.0,7,0.0
+2020-05-14,San Miguel,Colorado,8113.0,22,0.0
+2020-05-14,San Miguel,New Mexico,35047.0,7,0.0
+2020-05-15,San Miguel,Colorado,8113.0,22,0.0
+2020-05-15,San Miguel,New Mexico,35047.0,9,0.0
+2020-05-16,San Miguel,Colorado,8113.0,22,0.0
+2020-05-16,San Miguel,New Mexico,35047.0,10,0.0
+2020-05-17,San Miguel,Colorado,8113.0,22,0.0
+2020-05-17,San Miguel,New Mexico,35047.0,10,0.0
+2020-05-18,San Miguel,Colorado,8113.0,22,0.0
+2020-05-18,San Miguel,New Mexico,35047.0,10,0.0
+2020-05-19,San Miguel,Colorado,8113.0,22,0.0
+2020-05-19,San Miguel,New Mexico,35047.0,10,0.0
+2020-05-20,San Miguel,Colorado,8113.0,22,0.0
+2020-05-20,San Miguel,New Mexico,35047.0,10,0.0
+2020-05-21,San Miguel,Colorado,8113.0,23,0.0
+2020-05-21,San Miguel,New Mexico,35047.0,10,0.0
+2020-05-22,San Miguel,Colorado,8113.0,23,0.0
+2020-05-22,San Miguel,New Mexico,35047.0,10,0.0
+2020-05-23,San Miguel,Colorado,8113.0,23,0.0
+2020-05-23,San Miguel,New Mexico,35047.0,11,0.0
+2020-05-24,San Miguel,Colorado,8113.0,23,0.0
+2020-05-24,San Miguel,New Mexico,35047.0,11,0.0
+2020-05-25,San Miguel,Colorado,8113.0,23,0.0
+2020-05-25,San Miguel,New Mexico,35047.0,15,0.0
+2020-05-26,San Miguel,Colorado,8113.0,23,0.0
+2020-05-26,San Miguel,New Mexico,35047.0,15,0.0
+2020-05-27,San Miguel,Colorado,8113.0,23,0.0
+2020-05-27,San Miguel,New Mexico,35047.0,14,0.0
+2020-05-28,San Miguel,Colorado,8113.0,23,0.0
+2020-05-28,San Miguel,New Mexico,35047.0,14,0.0
+2020-05-29,San Miguel,Colorado,8113.0,23,0.0
+2020-05-29,San Miguel,New Mexico,35047.0,15,0.0
+2020-05-30,San Miguel,Colorado,8113.0,23,0.0
+2020-05-30,San Miguel,New Mexico,35047.0,15,0.0
+2020-05-31,San Miguel,Colorado,8113.0,23,0.0
+2020-05-31,San Miguel,New Mexico,35047.0,15,0.0
+2020-06-01,San Miguel,Colorado,8113.0,23,0.0
+2020-06-01,San Miguel,New Mexico,35047.0,15,0.0
+2020-06-02,San Miguel,Colorado,8113.0,23,0.0
+2020-06-02,San Miguel,New Mexico,35047.0,15,0.0
+2020-06-03,San Miguel,Colorado,8113.0,24,0.0
+2020-06-03,San Miguel,New Mexico,35047.0,15,0.0
+2020-06-04,San Miguel,Colorado,8113.0,24,0.0
+2020-06-04,San Miguel,New Mexico,35047.0,15,0.0
+2020-06-05,San Miguel,Colorado,8113.0,23,0.0
+2020-06-05,San Miguel,New Mexico,35047.0,15,0.0
+2020-06-06,San Miguel,Colorado,8113.0,23,0.0
+2020-06-06,San Miguel,New Mexico,35047.0,15,0.0
+2020-06-07,San Miguel,Colorado,8113.0,23,0.0
+2020-06-07,San Miguel,New Mexico,35047.0,15,0.0
+2020-06-08,San Miguel,Colorado,8113.0,23,0.0
+2020-06-08,San Miguel,New Mexico,35047.0,16,0.0
+2020-06-09,San Miguel,Colorado,8113.0,23,0.0
+2020-06-09,San Miguel,New Mexico,35047.0,16,0.0
+2020-06-10,San Miguel,Colorado,8113.0,23,0.0
+2020-06-10,San Miguel,New Mexico,35047.0,16,0.0
+2020-06-11,San Miguel,Colorado,8113.0,23,0.0
+2020-06-11,San Miguel,New Mexico,35047.0,16,0.0
+2020-06-12,San Miguel,Colorado,8113.0,23,0.0
+2020-06-12,San Miguel,New Mexico,35047.0,16,0.0
+2020-06-13,San Miguel,Colorado,8113.0,24,0.0
+2020-06-13,San Miguel,New Mexico,35047.0,16,0.0
+2020-06-14,San Miguel,Colorado,8113.0,24,0.0
+2020-06-14,San Miguel,New Mexico,35047.0,16,0.0
+2020-06-15,San Miguel,Colorado,8113.0,24,0.0
+2020-06-15,San Miguel,New Mexico,35047.0,16,0.0
+2020-06-16,San Miguel,Colorado,8113.0,25,0.0
+2020-06-16,San Miguel,New Mexico,35047.0,16,0.0
+2020-06-17,San Miguel,Colorado,8113.0,25,0.0
+2020-06-17,San Miguel,New Mexico,35047.0,16,0.0
+2020-06-18,San Miguel,Colorado,8113.0,28,0.0
+2020-06-18,San Miguel,New Mexico,35047.0,18,0.0
+2020-06-19,San Miguel,Colorado,8113.0,28,0.0
+2020-06-19,San Miguel,New Mexico,35047.0,18,0.0
+2020-06-20,San Miguel,Colorado,8113.0,28,0.0
+2020-06-20,San Miguel,New Mexico,35047.0,18,0.0
+2020-06-21,San Miguel,Colorado,8113.0,28,0.0
+2020-06-21,San Miguel,New Mexico,35047.0,18,0.0
+2020-06-22,San Miguel,Colorado,8113.0,28,0.0
+2020-06-22,San Miguel,New Mexico,35047.0,18,0.0
+2020-06-23,San Miguel,Colorado,8113.0,32,0.0
+2020-06-23,San Miguel,New Mexico,35047.0,18,0.0
+2020-06-24,San Miguel,Colorado,8113.0,32,0.0
+2020-06-24,San Miguel,New Mexico,35047.0,18,0.0
+2020-06-25,San Miguel,Colorado,8113.0,34,0.0
+2020-06-25,San Miguel,New Mexico,35047.0,18,0.0
+2020-06-26,San Miguel,Colorado,8113.0,35,0.0
+2020-06-26,San Miguel,New Mexico,35047.0,20,0.0
+2020-06-27,San Miguel,Colorado,8113.0,35,0.0
+2020-06-27,San Miguel,New Mexico,35047.0,20,0.0
+2020-06-28,San Miguel,Colorado,8113.0,36,0.0
+2020-06-28,San Miguel,New Mexico,35047.0,21,0.0
+2020-06-29,San Miguel,Colorado,8113.0,37,0.0
+2020-06-29,San Miguel,New Mexico,35047.0,21,0.0
+2020-06-30,San Miguel,Colorado,8113.0,37,0.0
+2020-06-30,San Miguel,New Mexico,35047.0,21,0.0
+2020-07-01,San Miguel,Colorado,8113.0,39,0.0
+2020-07-01,San Miguel,New Mexico,35047.0,21,0.0
+2020-07-02,San Miguel,Colorado,8113.0,39,0.0
+2020-07-02,San Miguel,New Mexico,35047.0,22,0.0
+2020-07-03,San Miguel,Colorado,8113.0,39,0.0
+2020-07-03,San Miguel,New Mexico,35047.0,22,0.0
+2020-07-04,San Miguel,Colorado,8113.0,39,0.0
+2020-07-04,San Miguel,New Mexico,35047.0,22,0.0
+2020-07-05,San Miguel,Colorado,8113.0,39,0.0
+2020-07-05,San Miguel,New Mexico,35047.0,22,0.0
+2020-07-06,San Miguel,Colorado,8113.0,39,0.0
+2020-07-06,San Miguel,New Mexico,35047.0,22,0.0
+2020-07-07,San Miguel,Colorado,8113.0,39,0.0
+2020-07-07,San Miguel,New Mexico,35047.0,23,0.0
+2020-07-08,San Miguel,Colorado,8113.0,41,0.0
+2020-07-08,San Miguel,New Mexico,35047.0,23,0.0
+2020-07-09,San Miguel,Colorado,8113.0,43,0.0
+2020-07-09,San Miguel,New Mexico,35047.0,23,0.0
+2020-07-10,San Miguel,Colorado,8113.0,45,0.0
+2020-07-10,San Miguel,New Mexico,35047.0,25,0.0
+2020-07-11,San Miguel,Colorado,8113.0,48,0.0
+2020-07-11,San Miguel,New Mexico,35047.0,25,0.0
+2020-07-12,San Miguel,Colorado,8113.0,49,0.0
+2020-07-12,San Miguel,New Mexico,35047.0,26,0.0
+2020-07-13,San Miguel,Colorado,8113.0,50,0.0
+2020-07-13,San Miguel,New Mexico,35047.0,27,0.0
+2020-07-14,San Miguel,Colorado,8113.0,50,0.0
+2020-07-14,San Miguel,New Mexico,35047.0,28,0.0
+2020-07-15,San Miguel,Colorado,8113.0,57,0.0
+2020-07-15,San Miguel,New Mexico,35047.0,28,0.0
+2020-07-16,San Miguel,Colorado,8113.0,60,0.0
+2020-07-16,San Miguel,New Mexico,35047.0,29,0.0
+2020-07-17,San Miguel,Colorado,8113.0,64,0.0
+2020-07-17,San Miguel,New Mexico,35047.0,30,0.0
+2020-07-18,San Miguel,Colorado,8113.0,64,0.0
+2020-07-18,San Miguel,New Mexico,35047.0,31,0.0
+2020-07-19,San Miguel,Colorado,8113.0,66,0.0
+2020-07-19,San Miguel,New Mexico,35047.0,32,0.0
+2020-07-20,San Miguel,Colorado,8113.0,67,0.0
+2020-07-20,San Miguel,New Mexico,35047.0,34,0.0
+2020-07-21,San Miguel,Colorado,8113.0,68,0.0
+2020-07-21,San Miguel,New Mexico,35047.0,34,0.0
+2020-07-22,San Miguel,Colorado,8113.0,69,0.0
+2020-07-22,San Miguel,New Mexico,35047.0,36,0.0
+2020-07-23,San Miguel,Colorado,8113.0,70,0.0
+2020-07-23,San Miguel,New Mexico,35047.0,35,0.0
+2020-07-24,San Miguel,Colorado,8113.0,70,0.0
+2020-07-24,San Miguel,New Mexico,35047.0,36,0.0
+2020-07-25,San Miguel,Colorado,8113.0,73,0.0
+2020-07-25,San Miguel,New Mexico,35047.0,37,0.0
+2020-07-26,San Miguel,Colorado,8113.0,73,0.0
+2020-07-26,San Miguel,New Mexico,35047.0,39,0.0
+2020-07-27,San Miguel,Colorado,8113.0,73,0.0
+2020-07-27,San Miguel,New Mexico,35047.0,39,0.0
+2020-07-28,San Miguel,Colorado,8113.0,73,0.0
+2020-07-28,San Miguel,New Mexico,35047.0,40,0.0
+2020-07-29,San Miguel,Colorado,8113.0,73,0.0
+2020-07-29,San Miguel,New Mexico,35047.0,40,0.0
+2020-07-30,San Miguel,Colorado,8113.0,73,0.0
+2020-07-30,San Miguel,New Mexico,35047.0,41,0.0
+2020-07-31,San Miguel,Colorado,8113.0,73,0.0
+2020-07-31,San Miguel,New Mexico,35047.0,41,0.0
+2020-08-01,San Miguel,Colorado,8113.0,76,0.0
+2020-08-01,San Miguel,New Mexico,35047.0,41,0.0
+2020-08-02,San Miguel,Colorado,8113.0,76,0.0
+2020-08-02,San Miguel,New Mexico,35047.0,42,0.0
+2020-08-03,San Miguel,Colorado,8113.0,76,0.0
+2020-08-03,San Miguel,New Mexico,35047.0,42,0.0
+2020-08-04,San Miguel,Colorado,8113.0,80,0.0
+2020-08-04,San Miguel,New Mexico,35047.0,42,0.0
+2020-08-05,San Miguel,Colorado,8113.0,80,0.0
+2020-08-05,San Miguel,New Mexico,35047.0,42,0.0
+2020-08-06,San Miguel,Colorado,8113.0,80,0.0
+2020-08-06,San Miguel,New Mexico,35047.0,42,0.0
+2020-08-07,San Miguel,Colorado,8113.0,82,0.0
+2020-08-07,San Miguel,New Mexico,35047.0,42,0.0
+2020-08-08,San Miguel,Colorado,8113.0,88,0.0
+2020-08-08,San Miguel,New Mexico,35047.0,43,0.0
+2020-08-09,San Miguel,Colorado,8113.0,89,0.0
+2020-08-09,San Miguel,New Mexico,35047.0,43,0.0
+2020-08-10,San Miguel,Colorado,8113.0,89,0.0
+2020-08-10,San Miguel,New Mexico,35047.0,44,0.0
+2020-08-11,San Miguel,Colorado,8113.0,90,0.0
+2020-08-11,San Miguel,New Mexico,35047.0,45,0.0
+2020-08-12,San Miguel,Colorado,8113.0,91,0.0
+2020-08-12,San Miguel,New Mexico,35047.0,46,0.0
+2020-08-13,San Miguel,Colorado,8113.0,92,0.0
+2020-08-13,San Miguel,New Mexico,35047.0,46,0.0
+2020-08-14,San Miguel,Colorado,8113.0,92,0.0
+2020-08-14,San Miguel,New Mexico,35047.0,51,0.0
+2020-08-15,San Miguel,Colorado,8113.0,93,0.0
+2020-08-15,San Miguel,New Mexico,35047.0,53,0.0
+2020-08-16,San Miguel,Colorado,8113.0,93,0.0
+2020-08-16,San Miguel,New Mexico,35047.0,53,0.0
+2020-08-17,San Miguel,Colorado,8113.0,93,0.0
+2020-08-17,San Miguel,New Mexico,35047.0,55,0.0
+2020-08-18,San Miguel,Colorado,8113.0,93,0.0
+2020-08-18,San Miguel,New Mexico,35047.0,55,0.0
+2020-08-19,San Miguel,Colorado,8113.0,93,0.0
+2020-08-19,San Miguel,New Mexico,35047.0,56,0.0
+2020-08-20,San Miguel,Colorado,8113.0,93,0.0
+2020-08-20,San Miguel,New Mexico,35047.0,58,0.0
+2020-08-21,San Miguel,Colorado,8113.0,93,0.0
+2020-08-21,San Miguel,New Mexico,35047.0,61,0.0
+2020-08-22,San Miguel,Colorado,8113.0,93,0.0
+2020-08-22,San Miguel,New Mexico,35047.0,62,0.0
+2020-08-23,San Miguel,Colorado,8113.0,93,0.0
+2020-08-23,San Miguel,New Mexico,35047.0,67,0.0
+2020-08-24,San Miguel,Colorado,8113.0,93,0.0
+2020-08-24,San Miguel,New Mexico,35047.0,67,0.0
+2020-08-25,San Miguel,Colorado,8113.0,93,0.0
+2020-08-25,San Miguel,New Mexico,35047.0,67,0.0
+2020-08-26,San Miguel,Colorado,8113.0,93,0.0
+2020-08-26,San Miguel,New Mexico,35047.0,75,0.0
+2020-08-27,San Miguel,Colorado,8113.0,94,0.0
+2020-08-27,San Miguel,New Mexico,35047.0,77,0.0
+2020-08-28,San Miguel,Colorado,8113.0,93,0.0
+2020-08-28,San Miguel,New Mexico,35047.0,77,0.0
+2020-08-29,San Miguel,Colorado,8113.0,93,0.0
+2020-08-29,San Miguel,New Mexico,35047.0,78,0.0
+2020-08-30,San Miguel,Colorado,8113.0,93,0.0
+2020-08-30,San Miguel,New Mexico,35047.0,78,0.0
+2020-08-31,San Miguel,Colorado,8113.0,93,0.0
+2020-08-31,San Miguel,New Mexico,35047.0,81,0.0
+2020-09-01,San Miguel,Colorado,8113.0,93,0.0
+2020-09-01,San Miguel,New Mexico,35047.0,82,0.0
+2020-09-02,San Miguel,Colorado,8113.0,93,0.0
+2020-09-02,San Miguel,New Mexico,35047.0,83,0.0
+2020-09-03,San Miguel,Colorado,8113.0,93,0.0
+2020-09-03,San Miguel,New Mexico,35047.0,85,0.0
+2020-09-04,San Miguel,Colorado,8113.0,94,0.0
+2020-09-04,San Miguel,New Mexico,35047.0,86,0.0
+2020-09-05,San Miguel,Colorado,8113.0,94,0.0
+2020-09-05,San Miguel,New Mexico,35047.0,86,0.0
+2020-09-06,San Miguel,Colorado,8113.0,94,0.0
+2020-09-06,San Miguel,New Mexico,35047.0,87,0.0
+2020-09-07,San Miguel,Colorado,8113.0,94,0.0
+2020-09-07,San Miguel,New Mexico,35047.0,87,0.0
+2020-09-08,San Miguel,Colorado,8113.0,94,0.0
+2020-09-08,San Miguel,New Mexico,35047.0,87,0.0
+2020-09-09,San Miguel,Colorado,8113.0,94,0.0
+2020-09-09,San Miguel,New Mexico,35047.0,87,0.0
+2020-09-10,San Miguel,Colorado,8113.0,93,0.0
+2020-09-10,San Miguel,New Mexico,35047.0,89,0.0
+2020-09-11,San Miguel,Colorado,8113.0,93,0.0
+2020-09-11,San Miguel,New Mexico,35047.0,89,0.0
+2020-09-12,San Miguel,Colorado,8113.0,93,0.0
+2020-09-12,San Miguel,New Mexico,35047.0,89,0.0
+2020-09-13,San Miguel,Colorado,8113.0,93,0.0
+2020-09-13,San Miguel,New Mexico,35047.0,91,0.0
+2020-09-14,San Miguel,Colorado,8113.0,93,0.0
+2020-09-14,San Miguel,New Mexico,35047.0,91,0.0
+2020-09-15,San Miguel,Colorado,8113.0,93,0.0
+2020-09-15,San Miguel,New Mexico,35047.0,91,0.0
+2020-09-16,San Miguel,Colorado,8113.0,94,0.0
+2020-09-16,San Miguel,New Mexico,35047.0,91,0.0
+2020-09-17,San Miguel,Colorado,8113.0,95,0.0
+2020-09-17,San Miguel,New Mexico,35047.0,91,0.0
+2020-09-18,San Miguel,Colorado,8113.0,95,0.0
+2020-09-18,San Miguel,New Mexico,35047.0,93,0.0
+2020-09-19,San Miguel,Colorado,8113.0,95,0.0
+2020-09-19,San Miguel,New Mexico,35047.0,93,0.0
+2020-09-20,San Miguel,Colorado,8113.0,95,0.0
+2020-09-20,San Miguel,New Mexico,35047.0,94,0.0
+2020-09-21,San Miguel,Colorado,8113.0,95,0.0
+2020-09-21,San Miguel,New Mexico,35047.0,94,0.0
+2020-09-22,San Miguel,Colorado,8113.0,95,0.0
+2020-09-22,San Miguel,New Mexico,35047.0,103,0.0
+2020-09-23,San Miguel,Colorado,8113.0,96,0.0
+2020-09-23,San Miguel,New Mexico,35047.0,103,0.0
+2020-09-24,San Miguel,Colorado,8113.0,96,0.0
+2020-09-24,San Miguel,New Mexico,35047.0,105,0.0
+2020-09-25,San Miguel,Colorado,8113.0,96,0.0
+2020-09-25,San Miguel,New Mexico,35047.0,98,0.0
+2020-09-26,San Miguel,Colorado,8113.0,97,0.0
+2020-09-26,San Miguel,New Mexico,35047.0,100,0.0
+2020-09-27,San Miguel,Colorado,8113.0,97,0.0
+2020-09-27,San Miguel,New Mexico,35047.0,100,0.0
+2020-09-28,San Miguel,Colorado,8113.0,97,0.0
+2020-09-28,San Miguel,New Mexico,35047.0,100,0.0
+2020-09-29,San Miguel,Colorado,8113.0,97,0.0
+2020-09-29,San Miguel,New Mexico,35047.0,100,0.0
+2020-09-30,San Miguel,Colorado,8113.0,94,0.0
+2020-09-30,San Miguel,New Mexico,35047.0,101,0.0
+2020-10-01,San Miguel,Colorado,8113.0,94,0.0
+2020-10-01,San Miguel,New Mexico,35047.0,101,0.0
+2020-10-02,San Miguel,Colorado,8113.0,94,0.0
+2020-10-02,San Miguel,New Mexico,35047.0,101,0.0
+2020-10-03,San Miguel,Colorado,8113.0,94,0.0
+2020-10-03,San Miguel,New Mexico,35047.0,102,0.0
+2020-10-04,San Miguel,Colorado,8113.0,94,0.0
+2020-10-04,San Miguel,New Mexico,35047.0,103,0.0
+2020-10-05,San Miguel,Colorado,8113.0,95,0.0
+2020-10-05,San Miguel,New Mexico,35047.0,104,0.0
+2020-10-06,San Miguel,Colorado,8113.0,95,0.0
+2020-10-06,San Miguel,New Mexico,35047.0,105,0.0
+2020-10-07,San Miguel,Colorado,8113.0,95,0.0
+2020-10-07,San Miguel,New Mexico,35047.0,107,0.0
+2020-10-08,San Miguel,Colorado,8113.0,96,0.0
+2020-10-08,San Miguel,New Mexico,35047.0,111,0.0
+2020-10-09,San Miguel,Colorado,8113.0,98,0.0
+2020-10-09,San Miguel,New Mexico,35047.0,112,0.0
+2020-10-10,San Miguel,Colorado,8113.0,98,0.0
+2020-10-10,San Miguel,New Mexico,35047.0,115,0.0
+2020-10-11,San Miguel,Colorado,8113.0,97,0.0
+2020-10-11,San Miguel,New Mexico,35047.0,115,0.0
+2020-10-12,San Miguel,Colorado,8113.0,97,0.0
+2020-10-12,San Miguel,New Mexico,35047.0,120,0.0
+2020-10-13,San Miguel,Colorado,8113.0,97,0.0
+2020-10-13,San Miguel,New Mexico,35047.0,123,0.0
+2020-10-14,San Miguel,Colorado,8113.0,97,0.0
+2020-10-14,San Miguel,New Mexico,35047.0,125,0.0
+2020-10-15,San Miguel,Colorado,8113.0,99,0.0
+2020-10-15,San Miguel,New Mexico,35047.0,128,0.0
+2020-10-16,San Miguel,Colorado,8113.0,99,0.0
+2020-10-16,San Miguel,New Mexico,35047.0,132,0.0
+2020-10-17,San Miguel,Colorado,8113.0,100,0.0
+2020-10-17,San Miguel,New Mexico,35047.0,139,0.0
+2020-10-18,San Miguel,Colorado,8113.0,100,0.0
+2020-10-18,San Miguel,New Mexico,35047.0,143,0.0
+2020-10-19,San Miguel,Colorado,8113.0,100,0.0
+2020-10-19,San Miguel,New Mexico,35047.0,147,0.0
+2020-10-20,San Miguel,Colorado,8113.0,100,0.0
+2020-10-20,San Miguel,New Mexico,35047.0,150,0.0
+2020-10-21,San Miguel,Colorado,8113.0,100,0.0
+2020-10-21,San Miguel,New Mexico,35047.0,151,0.0
+2020-10-22,San Miguel,Colorado,8113.0,100,0.0
+2020-10-22,San Miguel,New Mexico,35047.0,152,0.0
+2020-10-23,San Miguel,Colorado,8113.0,100,0.0
+2020-10-23,San Miguel,New Mexico,35047.0,159,0.0
+2020-10-24,San Miguel,Colorado,8113.0,101,0.0
+2020-10-24,San Miguel,New Mexico,35047.0,162,0.0
+2020-10-25,San Miguel,Colorado,8113.0,101,0.0
+2020-10-25,San Miguel,New Mexico,35047.0,170,0.0
+2020-10-26,San Miguel,Colorado,8113.0,102,0.0
+2020-10-26,San Miguel,New Mexico,35047.0,171,0.0
+2020-10-27,San Miguel,Colorado,8113.0,102,0.0
+2020-10-27,San Miguel,New Mexico,35047.0,171,0.0
+2020-10-28,San Miguel,Colorado,8113.0,104,0.0
+2020-10-28,San Miguel,New Mexico,35047.0,175,0.0
+2020-10-29,San Miguel,Colorado,8113.0,104,0.0
+2020-10-29,San Miguel,New Mexico,35047.0,182,0.0
+2020-10-30,San Miguel,Colorado,8113.0,104,0.0
+2020-10-30,San Miguel,New Mexico,35047.0,186,0.0
+2020-10-31,San Miguel,Colorado,8113.0,109,0.0
+2020-10-31,San Miguel,New Mexico,35047.0,187,0.0
+2020-11-01,San Miguel,Colorado,8113.0,110,0.0
+2020-11-01,San Miguel,New Mexico,35047.0,196,0.0
+2020-11-02,San Miguel,Colorado,8113.0,111,0.0
+2020-11-02,San Miguel,New Mexico,35047.0,200,0.0
+2020-11-03,San Miguel,Colorado,8113.0,112,0.0
+2020-11-03,San Miguel,New Mexico,35047.0,203,0.0
+2020-11-04,San Miguel,Colorado,8113.0,112,0.0
+2020-11-04,San Miguel,New Mexico,35047.0,209,0.0
+2020-11-05,San Miguel,Colorado,8113.0,114,0.0
+2020-11-05,San Miguel,New Mexico,35047.0,214,0.0
+2020-11-06,San Miguel,Colorado,8113.0,114,0.0
+2020-11-06,San Miguel,New Mexico,35047.0,221,0.0
+2020-11-07,San Miguel,Colorado,8113.0,116,0.0
+2020-11-07,San Miguel,New Mexico,35047.0,226,0.0
+2020-11-08,San Miguel,Colorado,8113.0,118,0.0
+2020-11-08,San Miguel,New Mexico,35047.0,238,0.0
+2020-11-09,San Miguel,Colorado,8113.0,125,0.0
+2020-11-09,San Miguel,New Mexico,35047.0,245,0.0
+2020-11-10,San Miguel,Colorado,8113.0,126,0.0
+2020-11-10,San Miguel,New Mexico,35047.0,250,0.0
+2020-11-11,San Miguel,Colorado,8113.0,127,0.0
+2020-11-11,San Miguel,New Mexico,35047.0,256,0.0
+2020-11-12,San Miguel,Colorado,8113.0,128,0.0
+2020-11-12,San Miguel,New Mexico,35047.0,266,0.0
+2020-11-13,San Miguel,Colorado,8113.0,144,0.0
+2020-11-13,San Miguel,New Mexico,35047.0,275,0.0
+2020-11-14,San Miguel,Colorado,8113.0,155,0.0
+2020-11-14,San Miguel,New Mexico,35047.0,281,0.0
+2020-11-15,San Miguel,Colorado,8113.0,163,0.0
+2020-11-15,San Miguel,New Mexico,35047.0,285,0.0
+2020-11-16,San Miguel,Colorado,8113.0,165,0.0
+2020-11-16,San Miguel,New Mexico,35047.0,291,0.0
+2020-11-17,San Miguel,Colorado,8113.0,166,0.0
+2020-11-17,San Miguel,New Mexico,35047.0,294,0.0
+2020-11-18,San Miguel,Colorado,8113.0,168,0.0
+2020-11-18,San Miguel,New Mexico,35047.0,304,0.0
+2020-11-19,San Miguel,Colorado,8113.0,173,0.0
+2020-11-19,San Miguel,New Mexico,35047.0,328,0.0
+2020-11-20,San Miguel,Colorado,8113.0,174,0.0
+2020-11-20,San Miguel,New Mexico,35047.0,340,0.0
+2020-11-21,San Miguel,Colorado,8113.0,180,0.0
+2020-11-21,San Miguel,New Mexico,35047.0,347,0.0
+2020-11-22,San Miguel,Colorado,8113.0,178,0.0
+2020-11-22,San Miguel,New Mexico,35047.0,368,0.0
+2020-11-23,San Miguel,Colorado,8113.0,184,0.0
+2020-11-23,San Miguel,New Mexico,35047.0,375,0.0
+2020-11-24,San Miguel,Colorado,8113.0,186,0.0
+2020-11-24,San Miguel,New Mexico,35047.0,384,0.0
+2020-11-25,San Miguel,Colorado,8113.0,188,0.0
+2020-11-25,San Miguel,New Mexico,35047.0,386,0.0
+2020-11-26,San Miguel,Colorado,8113.0,190,0.0
+2020-11-26,San Miguel,New Mexico,35047.0,394,2.0
+2020-11-27,San Miguel,Colorado,8113.0,192,0.0
+2020-11-27,San Miguel,New Mexico,35047.0,402,2.0
+2020-11-28,San Miguel,Colorado,8113.0,196,0.0
+2020-11-28,San Miguel,New Mexico,35047.0,407,2.0
+2020-11-29,San Miguel,Colorado,8113.0,211,0.0
+2020-11-29,San Miguel,New Mexico,35047.0,414,2.0
+2020-11-30,San Miguel,Colorado,8113.0,211,0.0
+2020-11-30,San Miguel,New Mexico,35047.0,420,2.0
+2020-12-01,San Miguel,Colorado,8113.0,213,0.0
+2020-12-01,San Miguel,New Mexico,35047.0,439,2.0
+2020-12-02,San Miguel,Colorado,8113.0,216,0.0
+2020-12-02,San Miguel,New Mexico,35047.0,444,2.0
+2020-12-03,San Miguel,Colorado,8113.0,222,0.0
+2020-12-03,San Miguel,New Mexico,35047.0,460,2.0
+2020-12-04,San Miguel,Colorado,8113.0,227,0.0
+2020-12-04,San Miguel,New Mexico,35047.0,470,2.0
+2020-12-05,San Miguel,Colorado,8113.0,255,0.0
+2020-12-05,San Miguel,New Mexico,35047.0,488,2.0
+2020-12-06,San Miguel,Colorado,8113.0,267,0.0
+2020-12-06,San Miguel,New Mexico,35047.0,502,2.0
+2020-12-07,San Miguel,Colorado,8113.0,268,0.0
+2020-12-07,San Miguel,New Mexico,35047.0,512,2.0
+2020-12-08,San Miguel,Colorado,8113.0,269,0.0
+2020-12-08,San Miguel,New Mexico,35047.0,524,2.0
+2020-12-09,San Miguel,Colorado,8113.0,251,0.0
+2020-12-09,San Miguel,New Mexico,35047.0,538,2.0
+2020-12-10,San Miguel,Colorado,8113.0,264,0.0
+2020-12-10,San Miguel,New Mexico,35047.0,549,2.0
+2020-12-11,San Miguel,Colorado,8113.0,269,0.0
+2020-12-11,San Miguel,New Mexico,35047.0,560,2.0
+2020-12-12,San Miguel,Colorado,8113.0,283,0.0
+2020-12-12,San Miguel,New Mexico,35047.0,580,2.0
+2020-12-13,San Miguel,Colorado,8113.0,288,0.0
+2020-12-13,San Miguel,New Mexico,35047.0,595,2.0
+2020-12-14,San Miguel,Colorado,8113.0,288,0.0
+2020-12-14,San Miguel,New Mexico,35047.0,618,2.0
+2020-12-15,San Miguel,Colorado,8113.0,296,0.0
+2020-12-15,San Miguel,New Mexico,35047.0,628,2.0
+2020-12-16,San Miguel,Colorado,8113.0,302,0.0
+2020-12-16,San Miguel,New Mexico,35047.0,650,2.0
+2020-12-17,San Miguel,Colorado,8113.0,317,0.0
+2020-12-17,San Miguel,New Mexico,35047.0,660,3.0
+2020-12-18,San Miguel,Colorado,8113.0,337,0.0
+2020-12-18,San Miguel,New Mexico,35047.0,677,3.0
+2020-12-19,San Miguel,Colorado,8113.0,366,0.0
+2020-12-19,San Miguel,New Mexico,35047.0,687,3.0
+2020-12-20,San Miguel,Colorado,8113.0,371,0.0
+2020-12-20,San Miguel,New Mexico,35047.0,703,3.0
+2020-12-21,San Miguel,Colorado,8113.0,372,0.0
+2020-12-21,San Miguel,New Mexico,35047.0,720,3.0
+2020-12-22,San Miguel,Colorado,8113.0,378,0.0
+2020-12-22,San Miguel,New Mexico,35047.0,726,3.0
+2020-12-23,San Miguel,Colorado,8113.0,379,0.0
+2020-12-23,San Miguel,New Mexico,35047.0,765,3.0
+2020-12-24,San Miguel,Colorado,8113.0,383,0.0
+2020-12-24,San Miguel,New Mexico,35047.0,779,3.0
+2020-12-25,San Miguel,Colorado,8113.0,384,0.0
+2020-12-25,San Miguel,New Mexico,35047.0,797,3.0
+2020-12-26,San Miguel,Colorado,8113.0,384,0.0
+2020-12-26,San Miguel,New Mexico,35047.0,801,3.0
+2020-12-27,San Miguel,Colorado,8113.0,388,0.0
+2020-12-27,San Miguel,New Mexico,35047.0,806,3.0
+2020-12-28,San Miguel,Colorado,8113.0,388,0.0
+2020-12-28,San Miguel,New Mexico,35047.0,810,4.0
+2020-12-29,San Miguel,Colorado,8113.0,389,0.0
+2020-12-29,San Miguel,New Mexico,35047.0,813,4.0
+2020-12-30,San Miguel,Colorado,8113.0,391,0.0
+2020-12-30,San Miguel,New Mexico,35047.0,834,4.0
+2020-12-31,San Miguel,Colorado,8113.0,394,0.0
+2020-12-31,San Miguel,New Mexico,35047.0,846,4.0
+2021-01-01,San Miguel,Colorado,8113.0,394,0.0
+2021-01-01,San Miguel,New Mexico,35047.0,861,4.0
+2021-01-02,San Miguel,Colorado,8113.0,396,0.0
+2021-01-02,San Miguel,New Mexico,35047.0,877,4.0
+2021-01-03,San Miguel,Colorado,8113.0,400,0.0
+2021-01-03,San Miguel,New Mexico,35047.0,879,4.0
+2021-01-04,San Miguel,Colorado,8113.0,400,0.0
+2021-01-04,San Miguel,New Mexico,35047.0,888,4.0
+2021-01-05,San Miguel,Colorado,8113.0,399,0.0
+2021-01-05,San Miguel,New Mexico,35047.0,898,4.0
+2021-01-06,San Miguel,Colorado,8113.0,399,0.0
+2021-01-06,San Miguel,New Mexico,35047.0,904,4.0
+2021-01-07,San Miguel,Colorado,8113.0,407,0.0
+2021-01-07,San Miguel,New Mexico,35047.0,916,5.0
+2021-01-08,San Miguel,Colorado,8113.0,413,0.0
+2021-01-08,San Miguel,New Mexico,35047.0,931,5.0
+2021-01-09,San Miguel,Colorado,8113.0,417,0.0
+2021-01-09,San Miguel,New Mexico,35047.0,947,5.0
+2021-01-10,San Miguel,Colorado,8113.0,431,0.0
+2021-01-10,San Miguel,New Mexico,35047.0,954,5.0
+2021-01-11,San Miguel,Colorado,8113.0,433,0.0
+2021-01-11,San Miguel,New Mexico,35047.0,960,6.0
+2021-01-12,San Miguel,Colorado,8113.0,435,0.0
+2021-01-12,San Miguel,New Mexico,35047.0,966,6.0
+2021-01-13,San Miguel,Colorado,8113.0,437,0.0
+2021-01-13,San Miguel,New Mexico,35047.0,987,6.0
+2021-01-14,San Miguel,Colorado,8113.0,443,0.0
+2021-01-14,San Miguel,New Mexico,35047.0,996,6.0
+2021-01-15,San Miguel,Colorado,8113.0,449,0.0
+2021-01-15,San Miguel,New Mexico,35047.0,1012,6.0
+2021-01-16,San Miguel,Colorado,8113.0,462,0.0
+2021-01-16,San Miguel,New Mexico,35047.0,1018,6.0
+2021-01-17,San Miguel,Colorado,8113.0,466,0.0
+2021-01-17,San Miguel,New Mexico,35047.0,1033,6.0
+2021-01-18,San Miguel,Colorado,8113.0,469,0.0
+2021-01-18,San Miguel,New Mexico,35047.0,1040,6.0
+2021-01-19,San Miguel,Colorado,8113.0,480,0.0
+2021-01-19,San Miguel,New Mexico,35047.0,1043,6.0
+2021-01-20,San Miguel,Colorado,8113.0,484,0.0
+2021-01-20,San Miguel,New Mexico,35047.0,1053,7.0
+2021-01-21,San Miguel,Colorado,8113.0,532,0.0
+2021-01-21,San Miguel,New Mexico,35047.0,1060,7.0
+2021-01-22,San Miguel,Colorado,8113.0,583,0.0
+2021-01-22,San Miguel,New Mexico,35047.0,1068,7.0
+2021-01-23,San Miguel,Colorado,8113.0,594,0.0
+2021-01-23,San Miguel,New Mexico,35047.0,1074,7.0
+2021-01-24,San Miguel,Colorado,8113.0,597,0.0
+2021-01-24,San Miguel,New Mexico,35047.0,1082,7.0
+2021-01-25,San Miguel,Colorado,8113.0,597,0.0
+2021-01-25,San Miguel,New Mexico,35047.0,1087,7.0
+2021-01-26,San Miguel,Colorado,8113.0,611,0.0
+2021-01-26,San Miguel,New Mexico,35047.0,1095,7.0
+2021-01-27,San Miguel,Colorado,8113.0,612,0.0
+2021-01-27,San Miguel,New Mexico,35047.0,1109,7.0
+2021-01-28,San Miguel,Colorado,8113.0,645,0.0
+2021-01-28,San Miguel,New Mexico,35047.0,1113,7.0
+2021-01-29,San Miguel,Colorado,8113.0,667,0.0
+2021-01-29,San Miguel,New Mexico,35047.0,1125,7.0
+2021-01-30,San Miguel,Colorado,8113.0,667,0.0
+2021-01-30,San Miguel,New Mexico,35047.0,1128,8.0
+2021-01-31,San Miguel,Colorado,8113.0,667,0.0
+2021-01-31,San Miguel,New Mexico,35047.0,1132,8.0
+2021-02-01,San Miguel,Colorado,8113.0,682,0.0
+2021-02-01,San Miguel,New Mexico,35047.0,1132,8.0
+2021-02-02,San Miguel,Colorado,8113.0,684,0.0
+2021-02-02,San Miguel,New Mexico,35047.0,1135,8.0
+2021-02-03,San Miguel,Colorado,8113.0,684,0.0
+2021-02-03,San Miguel,New Mexico,35047.0,1139,8.0
+2021-02-04,San Miguel,Colorado,8113.0,703,0.0
+2021-02-04,San Miguel,New Mexico,35047.0,1143,8.0
+2021-02-05,San Miguel,Colorado,8113.0,720,0.0
+2021-02-05,San Miguel,New Mexico,35047.0,1143,9.0
+2021-02-06,San Miguel,Colorado,8113.0,732,0.0
+2021-02-06,San Miguel,New Mexico,35047.0,1147,9.0
+2021-02-07,San Miguel,Colorado,8113.0,733,0.0
+2021-02-07,San Miguel,New Mexico,35047.0,1149,9.0
+2021-02-08,San Miguel,Colorado,8113.0,739,0.0
+2021-02-08,San Miguel,New Mexico,35047.0,1150,9.0
+2021-02-09,San Miguel,Colorado,8113.0,750,0.0
+2021-02-09,San Miguel,New Mexico,35047.0,1153,9.0
+2021-02-10,San Miguel,Colorado,8113.0,760,0.0
+2021-02-10,San Miguel,New Mexico,35047.0,1167,9.0
+2021-02-11,San Miguel,Colorado,8113.0,770,0.0
+2021-02-11,San Miguel,New Mexico,35047.0,1173,9.0
+2021-02-12,San Miguel,Colorado,8113.0,786,0.0
+2021-02-12,San Miguel,New Mexico,35047.0,1177,9.0
+2021-02-13,San Miguel,Colorado,8113.0,787,0.0
+2021-02-13,San Miguel,New Mexico,35047.0,1185,9.0
+2021-02-14,San Miguel,Colorado,8113.0,791,0.0
+2021-02-14,San Miguel,New Mexico,35047.0,1189,10.0
+2021-02-15,San Miguel,Colorado,8113.0,793,0.0
+2021-02-15,San Miguel,New Mexico,35047.0,1192,10.0
+2021-02-16,San Miguel,Colorado,8113.0,793,0.0
+2021-02-16,San Miguel,New Mexico,35047.0,1196,10.0
+2021-02-17,San Miguel,Colorado,8113.0,797,0.0
+2021-02-17,San Miguel,New Mexico,35047.0,1197,10.0
+2021-02-18,San Miguel,Colorado,8113.0,797,0.0
+2021-02-18,San Miguel,New Mexico,35047.0,1202,10.0
+2021-02-19,San Miguel,Colorado,8113.0,797,0.0
+2021-02-19,San Miguel,New Mexico,35047.0,1208,10.0
+2021-02-20,San Miguel,Colorado,8113.0,801,0.0
+2021-02-20,San Miguel,New Mexico,35047.0,1210,10.0
+2021-02-21,San Miguel,Colorado,8113.0,803,0.0
+2021-02-21,San Miguel,New Mexico,35047.0,1214,10.0
+2021-02-22,San Miguel,Colorado,8113.0,802,0.0
+2021-02-22,San Miguel,New Mexico,35047.0,1215,10.0
+2021-02-23,San Miguel,Colorado,8113.0,805,0.0
+2021-02-23,San Miguel,New Mexico,35047.0,1218,10.0
+2021-02-24,San Miguel,Colorado,8113.0,809,0.0
+2021-02-24,San Miguel,New Mexico,35047.0,1222,10.0
+2021-02-25,San Miguel,Colorado,8113.0,808,0.0
+2021-02-25,San Miguel,New Mexico,35047.0,1223,10.0
+2021-02-26,San Miguel,Colorado,8113.0,808,0.0
+2021-02-26,San Miguel,New Mexico,35047.0,1225,10.0
+2021-02-27,San Miguel,Colorado,8113.0,817,0.0
+2021-02-27,San Miguel,New Mexico,35047.0,1228,11.0
+2021-02-28,San Miguel,Colorado,8113.0,820,0.0
+2021-02-28,San Miguel,New Mexico,35047.0,1228,11.0
+2021-03-01,San Miguel,Colorado,8113.0,821,0.0
+2021-03-01,San Miguel,New Mexico,35047.0,1230,11.0
+2021-03-02,San Miguel,Colorado,8113.0,821,0.0
+2021-03-02,San Miguel,New Mexico,35047.0,1233,11.0
+2021-03-03,San Miguel,Colorado,8113.0,822,0.0
+2021-03-03,San Miguel,New Mexico,35047.0,1234,12.0
+2021-03-04,San Miguel,Colorado,8113.0,823,0.0
+2021-03-04,San Miguel,New Mexico,35047.0,1237,12.0
+2021-03-05,San Miguel,Colorado,8113.0,824,0.0
+2021-03-05,San Miguel,New Mexico,35047.0,1240,13.0
+2021-03-06,San Miguel,Colorado,8113.0,829,0.0
+2021-03-06,San Miguel,New Mexico,35047.0,1245,13.0
+2021-03-07,San Miguel,Colorado,8113.0,829,0.0
+2021-03-07,San Miguel,New Mexico,35047.0,1245,13.0
+2021-03-08,San Miguel,Colorado,8113.0,829,0.0
+2021-03-08,San Miguel,New Mexico,35047.0,1246,13.0
+2021-03-09,San Miguel,Colorado,8113.0,830,0.0
+2021-03-09,San Miguel,New Mexico,35047.0,1248,13.0
+2021-03-10,San Miguel,Colorado,8113.0,830,0.0
+2021-03-10,San Miguel,New Mexico,35047.0,1255,13.0
+2021-03-11,San Miguel,Colorado,8113.0,833,0.0
+2021-03-11,San Miguel,New Mexico,35047.0,1257,13.0
+2021-03-12,San Miguel,Colorado,8113.0,837,0.0
+2021-03-12,San Miguel,New Mexico,35047.0,1267,13.0
+2021-03-13,San Miguel,Colorado,8113.0,838,0.0
+2021-03-13,San Miguel,New Mexico,35047.0,1273,13.0
+2021-03-14,San Miguel,Colorado,8113.0,838,0.0
+2021-03-14,San Miguel,New Mexico,35047.0,1277,13.0
+2021-03-15,San Miguel,Colorado,8113.0,838,0.0
+2021-03-15,San Miguel,New Mexico,35047.0,1277,13.0
+2021-03-16,San Miguel,Colorado,8113.0,838,0.0
+2021-03-16,San Miguel,New Mexico,35047.0,1282,13.0
+2021-03-17,San Miguel,Colorado,8113.0,839,0.0
+2021-03-17,San Miguel,New Mexico,35047.0,1292,13.0
+2021-03-18,San Miguel,Colorado,8113.0,842,0.0
+2021-03-18,San Miguel,New Mexico,35047.0,1299,13.0
+2021-03-19,San Miguel,Colorado,8113.0,844,0.0
+2021-03-19,San Miguel,New Mexico,35047.0,1303,13.0
+2021-03-20,San Miguel,Colorado,8113.0,845,0.0
+2021-03-20,San Miguel,New Mexico,35047.0,1309,13.0
+2021-03-21,San Miguel,Colorado,8113.0,845,0.0
+2021-03-21,San Miguel,New Mexico,35047.0,1310,13.0
+2021-03-22,San Miguel,Colorado,8113.0,845,0.0
+2021-03-22,San Miguel,New Mexico,35047.0,1311,13.0
+2021-03-23,San Miguel,Colorado,8113.0,845,0.0
+2021-03-23,San Miguel,New Mexico,35047.0,1311,13.0
+2021-03-24,San Miguel,Colorado,8113.0,847,0.0
+2021-03-24,San Miguel,New Mexico,35047.0,1312,13.0
+2021-03-25,San Miguel,Colorado,8113.0,847,0.0
+2021-03-25,San Miguel,New Mexico,35047.0,1312,13.0
+2021-03-26,San Miguel,Colorado,8113.0,848,0.0
+2021-03-26,San Miguel,New Mexico,35047.0,1313,13.0
+2021-03-27,San Miguel,Colorado,8113.0,848,0.0
+2021-03-27,San Miguel,New Mexico,35047.0,1313,13.0
+2021-03-28,San Miguel,Colorado,8113.0,848,0.0
+2021-03-28,San Miguel,New Mexico,35047.0,1313,13.0
+2021-03-29,San Miguel,Colorado,8113.0,848,0.0
+2021-03-29,San Miguel,New Mexico,35047.0,1314,13.0
+2021-03-30,San Miguel,Colorado,8113.0,849,0.0
+2021-03-30,San Miguel,New Mexico,35047.0,1314,13.0
+2021-03-31,San Miguel,Colorado,8113.0,849,0.0
+2021-03-31,San Miguel,New Mexico,35047.0,1315,14.0
+2021-04-01,San Miguel,Colorado,8113.0,849,0.0
+2021-04-01,San Miguel,New Mexico,35047.0,1315,15.0
+2021-04-02,San Miguel,Colorado,8113.0,851,0.0
+2021-04-02,San Miguel,New Mexico,35047.0,1318,15.0
+2021-04-03,San Miguel,Colorado,8113.0,851,0.0
+2021-04-03,San Miguel,New Mexico,35047.0,1318,15.0
+2021-04-04,San Miguel,Colorado,8113.0,851,0.0
+2021-04-04,San Miguel,New Mexico,35047.0,1318,15.0
+2021-04-05,San Miguel,Colorado,8113.0,852,0.0
+2021-04-05,San Miguel,New Mexico,35047.0,1317,16.0
+2021-04-06,San Miguel,Colorado,8113.0,852,0.0
+2021-04-06,San Miguel,New Mexico,35047.0,1319,16.0
+2021-04-07,San Miguel,Colorado,8113.0,852,0.0
+2021-04-07,San Miguel,New Mexico,35047.0,1322,17.0
+2021-04-08,San Miguel,Colorado,8113.0,855,0.0
+2021-04-08,San Miguel,New Mexico,35047.0,1323,17.0
+2021-04-09,San Miguel,Colorado,8113.0,858,0.0
+2021-04-09,San Miguel,New Mexico,35047.0,1324,17.0
+2021-04-10,San Miguel,Colorado,8113.0,858,0.0
+2021-04-10,San Miguel,New Mexico,35047.0,1324,17.0
+2021-04-11,San Miguel,Colorado,8113.0,859,0.0
+2021-04-11,San Miguel,New Mexico,35047.0,1324,17.0
+2021-04-12,San Miguel,Colorado,8113.0,860,0.0
+2021-04-12,San Miguel,New Mexico,35047.0,1329,17.0
+2021-04-13,San Miguel,Colorado,8113.0,859,0.0
+2021-04-13,San Miguel,New Mexico,35047.0,1329,17.0
+2021-04-14,San Miguel,Colorado,8113.0,859,0.0
+2021-04-14,San Miguel,New Mexico,35047.0,1329,17.0
+2021-04-15,San Miguel,Colorado,8113.0,862,0.0
+2021-04-15,San Miguel,New Mexico,35047.0,1330,17.0
+2021-04-16,San Miguel,Colorado,8113.0,864,0.0
+2021-04-16,San Miguel,New Mexico,35047.0,1334,17.0
+2021-04-17,San Miguel,Colorado,8113.0,864,0.0
+2021-04-17,San Miguel,New Mexico,35047.0,1334,17.0
+2021-04-18,San Miguel,Colorado,8113.0,864,0.0
+2021-04-18,San Miguel,New Mexico,35047.0,1334,17.0
+2021-04-19,San Miguel,Colorado,8113.0,866,0.0
+2021-04-19,San Miguel,New Mexico,35047.0,1338,17.0
+2021-04-20,San Miguel,Colorado,8113.0,866,0.0
+2021-04-20,San Miguel,New Mexico,35047.0,1339,17.0
+2021-04-21,San Miguel,Colorado,8113.0,866,0.0
+2021-04-21,San Miguel,New Mexico,35047.0,1339,17.0
+2021-04-22,San Miguel,Colorado,8113.0,866,0.0
+2021-04-22,San Miguel,New Mexico,35047.0,1339,17.0
+2021-04-23,San Miguel,Colorado,8113.0,867,0.0
+2021-04-23,San Miguel,New Mexico,35047.0,1340,17.0
+2021-04-24,San Miguel,Colorado,8113.0,868,0.0
+2021-04-24,San Miguel,New Mexico,35047.0,1340,17.0
+2021-04-25,San Miguel,Colorado,8113.0,869,0.0
+2021-04-25,San Miguel,New Mexico,35047.0,1340,17.0
+2021-04-26,San Miguel,Colorado,8113.0,869,0.0
+2021-04-26,San Miguel,New Mexico,35047.0,1341,17.0
+2021-04-27,San Miguel,Colorado,8113.0,870,0.0
+2021-04-27,San Miguel,New Mexico,35047.0,1342,17.0
+2021-04-28,San Miguel,Colorado,8113.0,870,0.0
+2021-04-28,San Miguel,New Mexico,35047.0,1341,17.0
+2021-04-29,San Miguel,Colorado,8113.0,871,0.0
+2021-04-29,San Miguel,New Mexico,35047.0,1342,17.0
+2021-04-30,San Miguel,Colorado,8113.0,872,0.0
+2021-04-30,San Miguel,New Mexico,35047.0,1342,17.0
+2021-05-01,San Miguel,Colorado,8113.0,872,0.0
+2021-05-01,San Miguel,New Mexico,35047.0,1342,17.0
+2021-05-02,San Miguel,Colorado,8113.0,872,0.0
+2021-05-02,San Miguel,New Mexico,35047.0,1342,17.0
+2021-05-03,San Miguel,Colorado,8113.0,874,0.0
+2021-05-03,San Miguel,New Mexico,35047.0,1346,17.0
+2021-05-04,San Miguel,Colorado,8113.0,875,0.0
+2021-05-04,San Miguel,New Mexico,35047.0,1346,17.0
+2021-05-05,San Miguel,Colorado,8113.0,875,0.0
+2021-05-05,San Miguel,New Mexico,35047.0,1347,17.0
+2021-05-06,San Miguel,Colorado,8113.0,876,0.0
+2021-05-06,San Miguel,New Mexico,35047.0,1349,17.0
+2021-05-07,San Miguel,Colorado,8113.0,875,0.0
+2021-05-07,San Miguel,New Mexico,35047.0,1351,17.0
+2021-05-08,San Miguel,Colorado,8113.0,875,0.0
+2021-05-08,San Miguel,New Mexico,35047.0,1351,17.0
+2021-05-09,San Miguel,Colorado,8113.0,876,0.0
+2021-05-09,San Miguel,New Mexico,35047.0,1351,17.0
+2021-05-10,San Miguel,Colorado,8113.0,876,0.0
+2021-05-10,San Miguel,New Mexico,35047.0,1352,17.0
+2021-05-11,San Miguel,Colorado,8113.0,877,0.0
+2021-05-11,San Miguel,New Mexico,35047.0,1352,17.0
+2021-05-12,San Miguel,Colorado,8113.0,878,0.0
+2021-05-12,San Miguel,New Mexico,35047.0,1352,17.0
+2021-05-13,San Miguel,Colorado,8113.0,878,0.0
+2021-05-13,San Miguel,New Mexico,35047.0,1353,17.0
+2021-05-14,San Miguel,Colorado,8113.0,877,0.0
+2021-05-14,San Miguel,New Mexico,35047.0,1353,17.0
+2021-05-15,San Miguel,Colorado,8113.0,877,0.0
+2021-05-15,San Miguel,New Mexico,35047.0,1353,17.0
+2021-05-16,San Miguel,Colorado,8113.0,876,0.0
+2021-05-16,San Miguel,New Mexico,35047.0,1353,17.0
+2021-05-17,San Miguel,Colorado,8113.0,877,0.0
+2021-05-17,San Miguel,New Mexico,35047.0,1355,17.0
+2021-05-18,San Miguel,Colorado,8113.0,877,0.0
+2021-05-18,San Miguel,New Mexico,35047.0,1355,17.0
+2021-05-19,San Miguel,Colorado,8113.0,877,0.0
+2021-05-19,San Miguel,New Mexico,35047.0,1355,17.0
+2021-05-20,San Miguel,Colorado,8113.0,879,0.0
+2021-05-20,San Miguel,New Mexico,35047.0,1355,17.0
+2021-05-21,San Miguel,Colorado,8113.0,879,0.0
+2021-05-21,San Miguel,New Mexico,35047.0,1359,17.0
+2021-05-22,San Miguel,Colorado,8113.0,882,0.0
+2021-05-22,San Miguel,New Mexico,35047.0,1359,17.0
+2021-05-23,San Miguel,Colorado,8113.0,883,0.0
+2021-05-23,San Miguel,New Mexico,35047.0,1359,17.0
+2021-05-24,San Miguel,Colorado,8113.0,883,0.0
+2021-05-24,San Miguel,New Mexico,35047.0,1361,17.0
+2021-05-25,San Miguel,Colorado,8113.0,885,0.0
+2021-05-25,San Miguel,New Mexico,35047.0,1366,17.0
+2021-05-26,San Miguel,Colorado,8113.0,885,0.0
+2021-05-26,San Miguel,New Mexico,35047.0,1366,17.0
+2021-05-27,San Miguel,Colorado,8113.0,886,0.0
+2021-05-27,San Miguel,New Mexico,35047.0,1366,17.0
+2021-05-28,San Miguel,Colorado,8113.0,887,0.0
+2021-05-28,San Miguel,New Mexico,35047.0,1368,17.0
+2021-05-29,San Miguel,Colorado,8113.0,887,0.0
+2021-05-29,San Miguel,New Mexico,35047.0,1368,17.0
+2021-05-30,San Miguel,Colorado,8113.0,888,0.0
+2021-05-30,San Miguel,New Mexico,35047.0,1368,17.0
+2021-05-31,San Miguel,Colorado,8113.0,888,0.0
+2021-05-31,San Miguel,New Mexico,35047.0,1368,17.0
+2021-06-01,San Miguel,Colorado,8113.0,889,0.0
+2021-06-01,San Miguel,New Mexico,35047.0,1370,17.0
+2021-06-02,San Miguel,Colorado,8113.0,896,0.0
+2021-06-02,San Miguel,New Mexico,35047.0,1376,17.0
+2021-06-03,San Miguel,Colorado,8113.0,898,0.0
+2021-06-03,San Miguel,New Mexico,35047.0,1377,17.0
+2021-06-04,San Miguel,Colorado,8113.0,900,0.0
+2021-06-04,San Miguel,New Mexico,35047.0,1378,17.0
+2021-06-05,San Miguel,Colorado,8113.0,901,0.0
+2021-06-05,San Miguel,New Mexico,35047.0,1378,17.0
+2021-06-06,San Miguel,Colorado,8113.0,901,0.0
+2021-06-06,San Miguel,New Mexico,35047.0,1378,17.0
+2021-06-07,San Miguel,Colorado,8113.0,901,0.0
+2021-06-07,San Miguel,New Mexico,35047.0,1381,17.0
+2021-06-08,San Miguel,Colorado,8113.0,902,0.0
+2021-06-08,San Miguel,New Mexico,35047.0,1383,17.0
+2021-06-09,San Miguel,Colorado,8113.0,906,0.0
+2021-06-09,San Miguel,New Mexico,35047.0,1384,17.0
+2021-06-10,San Miguel,Colorado,8113.0,909,0.0
+2021-06-10,San Miguel,New Mexico,35047.0,1384,17.0
+2021-06-11,San Miguel,Colorado,8113.0,909,0.0
+2021-06-11,San Miguel,New Mexico,35047.0,1384,17.0
+2021-06-12,San Miguel,Colorado,8113.0,910,0.0
+2021-06-12,San Miguel,New Mexico,35047.0,1384,17.0
+2021-06-13,San Miguel,Colorado,8113.0,910,0.0
+2021-06-13,San Miguel,New Mexico,35047.0,1384,17.0
+2021-06-14,San Miguel,Colorado,8113.0,911,0.0
+2021-06-14,San Miguel,New Mexico,35047.0,1387,17.0
+2021-06-15,San Miguel,Colorado,8113.0,917,1.0
+2021-06-15,San Miguel,New Mexico,35047.0,1389,17.0
+2021-06-16,San Miguel,Colorado,8113.0,919,1.0
+2021-06-16,San Miguel,New Mexico,35047.0,1391,17.0
+2021-06-17,San Miguel,Colorado,8113.0,917,1.0
+2021-06-17,San Miguel,New Mexico,35047.0,1392,17.0
+2021-06-18,San Miguel,Colorado,8113.0,917,1.0
+2021-06-18,San Miguel,New Mexico,35047.0,1393,17.0
+2021-06-19,San Miguel,Colorado,8113.0,918,1.0
+2021-06-19,San Miguel,New Mexico,35047.0,1393,17.0
+2021-06-20,San Miguel,Colorado,8113.0,918,1.0
+2021-06-20,San Miguel,New Mexico,35047.0,1393,17.0
+2021-06-21,San Miguel,Colorado,8113.0,919,1.0
+2021-06-21,San Miguel,New Mexico,35047.0,1397,17.0
+2021-06-22,San Miguel,Colorado,8113.0,919,1.0
+2021-06-22,San Miguel,New Mexico,35047.0,1402,17.0
+2021-06-23,San Miguel,Colorado,8113.0,919,1.0
+2021-06-23,San Miguel,New Mexico,35047.0,1403,17.0
+2021-06-24,San Miguel,Colorado,8113.0,920,1.0
+2021-06-24,San Miguel,New Mexico,35047.0,1404,17.0
+2021-06-25,San Miguel,Colorado,8113.0,920,1.0
+2021-06-25,San Miguel,New Mexico,35047.0,1405,17.0
+2021-06-26,San Miguel,Colorado,8113.0,920,1.0
+2021-06-26,San Miguel,New Mexico,35047.0,1405,17.0
+2021-06-27,San Miguel,Colorado,8113.0,921,1.0
+2021-06-27,San Miguel,New Mexico,35047.0,1405,17.0
+2021-06-28,San Miguel,Colorado,8113.0,921,1.0
+2021-06-28,San Miguel,New Mexico,35047.0,1408,17.0
+2021-06-29,San Miguel,Colorado,8113.0,921,1.0
+2021-06-29,San Miguel,New Mexico,35047.0,1409,17.0
+2021-06-30,San Miguel,Colorado,8113.0,923,1.0
+2021-06-30,San Miguel,New Mexico,35047.0,1408,17.0
+2021-07-01,San Miguel,Colorado,8113.0,923,1.0
+2021-07-01,San Miguel,New Mexico,35047.0,1409,17.0
+2021-07-02,San Miguel,Colorado,8113.0,925,1.0
+2021-07-02,San Miguel,New Mexico,35047.0,1410,17.0
+2021-07-03,San Miguel,Colorado,8113.0,925,1.0
+2021-07-03,San Miguel,New Mexico,35047.0,1410,17.0
+2021-07-04,San Miguel,Colorado,8113.0,925,1.0
+2021-07-04,San Miguel,New Mexico,35047.0,1410,17.0
+2021-07-05,San Miguel,Colorado,8113.0,926,1.0
+2021-07-05,San Miguel,New Mexico,35047.0,1410,17.0
+2021-07-06,San Miguel,Colorado,8113.0,926,1.0
+2021-07-06,San Miguel,New Mexico,35047.0,1413,17.0
+2021-07-07,San Miguel,Colorado,8113.0,929,1.0
+2021-07-07,San Miguel,New Mexico,35047.0,1414,17.0
+2021-07-08,San Miguel,Colorado,8113.0,930,1.0
+2021-07-08,San Miguel,New Mexico,35047.0,1414,17.0
+2021-07-09,San Miguel,Colorado,8113.0,931,1.0
+2021-07-09,San Miguel,New Mexico,35047.0,1414,17.0
+2021-07-10,San Miguel,Colorado,8113.0,931,1.0
+2021-07-10,San Miguel,New Mexico,35047.0,1414,17.0
+2021-07-11,San Miguel,Colorado,8113.0,933,1.0
+2021-07-11,San Miguel,New Mexico,35047.0,1414,17.0
+2021-07-12,San Miguel,Colorado,8113.0,933,1.0
+2021-07-12,San Miguel,New Mexico,35047.0,1417,17.0
+2021-07-13,San Miguel,Colorado,8113.0,934,1.0
+2021-07-13,San Miguel,New Mexico,35047.0,1421,17.0
+2021-07-14,San Miguel,Colorado,8113.0,935,1.0
+2021-07-14,San Miguel,New Mexico,35047.0,1424,17.0
+2021-07-15,San Miguel,Colorado,8113.0,936,1.0
+2021-07-15,San Miguel,New Mexico,35047.0,1432,17.0
+2021-07-16,San Miguel,Colorado,8113.0,937,1.0
+2021-07-16,San Miguel,New Mexico,35047.0,1436,17.0
+2021-07-17,San Miguel,Colorado,8113.0,937,1.0
+2021-07-17,San Miguel,New Mexico,35047.0,1436,17.0
+2021-07-18,San Miguel,Colorado,8113.0,937,1.0
+2021-07-18,San Miguel,New Mexico,35047.0,1436,17.0
+2021-07-19,San Miguel,Colorado,8113.0,937,1.0
+2021-07-19,San Miguel,New Mexico,35047.0,1440,17.0
+2021-07-20,San Miguel,Colorado,8113.0,937,1.0
+2021-07-20,San Miguel,New Mexico,35047.0,1442,17.0
+2021-07-21,San Miguel,Colorado,8113.0,943,1.0
+2021-07-21,San Miguel,New Mexico,35047.0,1444,17.0
+2021-07-22,San Miguel,Colorado,8113.0,942,1.0
+2021-07-22,San Miguel,New Mexico,35047.0,1456,17.0
+2021-07-23,San Miguel,Colorado,8113.0,944,1.0
+2021-07-23,San Miguel,New Mexico,35047.0,1456,17.0
+2021-07-24,San Miguel,Colorado,8113.0,944,1.0
+2021-07-24,San Miguel,New Mexico,35047.0,1456,17.0
+2021-07-25,San Miguel,Colorado,8113.0,944,1.0
+2021-07-25,San Miguel,New Mexico,35047.0,1456,17.0
+2021-07-26,San Miguel,Colorado,8113.0,946,1.0
+2021-07-26,San Miguel,New Mexico,35047.0,1462,17.0
+2021-07-27,San Miguel,Colorado,8113.0,946,1.0
+2021-07-27,San Miguel,New Mexico,35047.0,1465,17.0
+2021-07-28,San Miguel,Colorado,8113.0,948,1.0
+2021-07-28,San Miguel,New Mexico,35047.0,1468,17.0
+2021-07-29,San Miguel,Colorado,8113.0,949,1.0
+2021-07-29,San Miguel,New Mexico,35047.0,1473,17.0
+2021-07-30,San Miguel,Colorado,8113.0,952,1.0
+2021-07-30,San Miguel,New Mexico,35047.0,1473,17.0
+2021-07-31,San Miguel,Colorado,8113.0,952,1.0
+2021-07-31,San Miguel,New Mexico,35047.0,1473,17.0
+2021-08-01,San Miguel,Colorado,8113.0,952,1.0
+2021-08-01,San Miguel,New Mexico,35047.0,1473,17.0
+2021-08-02,San Miguel,Colorado,8113.0,952,1.0
+2021-08-02,San Miguel,New Mexico,35047.0,1482,17.0
+2021-08-03,San Miguel,Colorado,8113.0,953,1.0
+2021-08-03,San Miguel,New Mexico,35047.0,1488,17.0
+2021-08-04,San Miguel,Colorado,8113.0,954,1.0
+2021-08-04,San Miguel,New Mexico,35047.0,1493,17.0
+2021-08-05,San Miguel,Colorado,8113.0,957,1.0
+2021-08-05,San Miguel,New Mexico,35047.0,1500,17.0
+2021-08-06,San Miguel,Colorado,8113.0,960,1.0
+2021-08-06,San Miguel,New Mexico,35047.0,1508,17.0
+2021-08-07,San Miguel,Colorado,8113.0,960,1.0
+2021-08-07,San Miguel,New Mexico,35047.0,1508,17.0
+2021-08-08,San Miguel,Colorado,8113.0,960,1.0
+2021-08-08,San Miguel,New Mexico,35047.0,1508,17.0
+2021-08-09,San Miguel,Colorado,8113.0,963,1.0
+2021-08-09,San Miguel,New Mexico,35047.0,1526,17.0
+2021-08-10,San Miguel,Colorado,8113.0,963,1.0
+2021-08-10,San Miguel,New Mexico,35047.0,1530,17.0
+2021-08-11,San Miguel,Colorado,8113.0,966,1.0
+2021-08-11,San Miguel,New Mexico,35047.0,1537,17.0
+2021-08-12,San Miguel,Colorado,8113.0,970,1.0
+2021-08-12,San Miguel,New Mexico,35047.0,1550,17.0
+2021-08-13,San Miguel,Colorado,8113.0,970,1.0
+2021-08-13,San Miguel,New Mexico,35047.0,1558,17.0
+2021-08-14,San Miguel,Colorado,8113.0,970,1.0
+2021-08-14,San Miguel,New Mexico,35047.0,1558,17.0
+2021-08-15,San Miguel,Colorado,8113.0,970,1.0
+2021-08-15,San Miguel,New Mexico,35047.0,1558,17.0
+2021-08-16,San Miguel,Colorado,8113.0,982,1.0
+2021-08-16,San Miguel,New Mexico,35047.0,1583,17.0
+2021-08-17,San Miguel,Colorado,8113.0,982,1.0
+2021-08-17,San Miguel,New Mexico,35047.0,1597,17.0
+2021-08-18,San Miguel,Colorado,8113.0,982,1.0
+2021-08-18,San Miguel,New Mexico,35047.0,1602,17.0
+2021-08-19,San Miguel,Colorado,8113.0,986,1.0
+2021-08-19,San Miguel,New Mexico,35047.0,1627,17.0
+2021-08-20,San Miguel,Colorado,8113.0,988,1.0
+2021-08-20,San Miguel,New Mexico,35047.0,1637,17.0
+2021-08-21,San Miguel,Colorado,8113.0,988,1.0
+2021-08-21,San Miguel,New Mexico,35047.0,1637,17.0
+2021-08-22,San Miguel,Colorado,8113.0,988,1.0
+2021-08-22,San Miguel,New Mexico,35047.0,1637,17.0
+2021-08-23,San Miguel,Colorado,8113.0,991,1.0
+2021-08-23,San Miguel,New Mexico,35047.0,1675,17.0
+2021-08-24,San Miguel,Colorado,8113.0,994,1.0
+2021-08-24,San Miguel,New Mexico,35047.0,1704,17.0
+2021-08-25,San Miguel,Colorado,8113.0,998,1.0
+2021-08-25,San Miguel,New Mexico,35047.0,1709,17.0
+2021-08-26,San Miguel,Colorado,8113.0,999,1.0
+2021-08-26,San Miguel,New Mexico,35047.0,1726,17.0
+2021-08-27,San Miguel,Colorado,8113.0,1023,2.0
+2021-08-27,San Miguel,New Mexico,35047.0,1751,17.0
+2021-08-28,San Miguel,Colorado,8113.0,1023,2.0
+2021-08-28,San Miguel,New Mexico,35047.0,1751,17.0
+2021-08-29,San Miguel,Colorado,8113.0,1023,2.0
+2021-08-29,San Miguel,New Mexico,35047.0,1751,17.0
+2021-08-30,San Miguel,Colorado,8113.0,1036,2.0
+2021-08-30,San Miguel,New Mexico,35047.0,1827,17.0
+2021-08-31,San Miguel,Colorado,8113.0,1037,3.0
+2021-08-31,San Miguel,New Mexico,35047.0,1908,17.0
+2021-09-01,San Miguel,Colorado,8113.0,1039,3.0
+2021-09-01,San Miguel,New Mexico,35047.0,1941,17.0
+2021-09-02,San Miguel,Colorado,8113.0,1041,3.0
+2021-09-02,San Miguel,New Mexico,35047.0,1965,17.0
+2021-09-03,San Miguel,Colorado,8113.0,1044,3.0
+2021-09-03,San Miguel,New Mexico,35047.0,2000,17.0
+2021-09-04,San Miguel,Colorado,8113.0,1044,3.0
+2021-09-04,San Miguel,New Mexico,35047.0,2000,17.0
+2021-09-05,San Miguel,Colorado,8113.0,1044,3.0
+2021-09-05,San Miguel,New Mexico,35047.0,2000,17.0
+2021-09-06,San Miguel,Colorado,8113.0,1047,3.0
+2021-09-06,San Miguel,New Mexico,35047.0,2000,17.0
+2021-09-07,San Miguel,Colorado,8113.0,1049,3.0
+2021-09-07,San Miguel,New Mexico,35047.0,2065,17.0
+2021-09-08,San Miguel,Colorado,8113.0,1053,3.0
+2021-09-08,San Miguel,New Mexico,35047.0,2076,18.0
+2021-09-09,San Miguel,Colorado,8113.0,1053,3.0
+2021-09-09,San Miguel,New Mexico,35047.0,2099,18.0
+2021-09-10,San Miguel,Colorado,8113.0,1055,3.0
+2021-09-10,San Miguel,New Mexico,35047.0,2132,19.0
+2021-09-11,San Miguel,Colorado,8113.0,1055,3.0
+2021-09-11,San Miguel,New Mexico,35047.0,2132,19.0
+2021-09-12,San Miguel,Colorado,8113.0,1055,3.0
+2021-09-12,San Miguel,New Mexico,35047.0,2132,19.0
+2021-09-13,San Miguel,Colorado,8113.0,1068,3.0
+2021-09-13,San Miguel,New Mexico,35047.0,2184,19.0
+2021-09-14,San Miguel,Colorado,8113.0,1072,3.0
+2021-09-14,San Miguel,New Mexico,35047.0,2202,19.0
+2021-09-15,San Miguel,Colorado,8113.0,1076,3.0
+2021-09-15,San Miguel,New Mexico,35047.0,2205,19.0
+2021-09-16,San Miguel,Colorado,8113.0,1079,3.0
+2021-09-16,San Miguel,New Mexico,35047.0,2238,19.0
+2021-09-17,San Miguel,Colorado,8113.0,1085,3.0
+2021-09-17,San Miguel,New Mexico,35047.0,2242,19.0
+2021-09-18,San Miguel,Colorado,8113.0,1085,3.0
+2021-09-18,San Miguel,New Mexico,35047.0,2242,19.0
+2021-09-19,San Miguel,Colorado,8113.0,1085,3.0
+2021-09-19,San Miguel,New Mexico,35047.0,2242,19.0
+2021-09-20,San Miguel,Colorado,8113.0,1098,3.0
+2021-09-20,San Miguel,New Mexico,35047.0,2276,19.0
+2021-09-21,San Miguel,Colorado,8113.0,1099,3.0
+2021-09-21,San Miguel,New Mexico,35047.0,2278,19.0
+2021-09-22,San Miguel,Colorado,8113.0,1102,3.0
+2021-09-22,San Miguel,New Mexico,35047.0,2286,19.0
+2021-09-23,San Miguel,Colorado,8113.0,1103,3.0
+2021-09-23,San Miguel,New Mexico,35047.0,2301,19.0
+2021-09-24,San Miguel,Colorado,8113.0,1110,3.0
+2021-09-24,San Miguel,New Mexico,35047.0,2306,19.0
+2021-09-25,San Miguel,Colorado,8113.0,1110,3.0
+2021-09-25,San Miguel,New Mexico,35047.0,2306,19.0
+2021-09-26,San Miguel,Colorado,8113.0,1110,3.0
+2021-09-26,San Miguel,New Mexico,35047.0,2306,19.0
+2021-09-27,San Miguel,Colorado,8113.0,1110,3.0
+2021-09-27,San Miguel,New Mexico,35047.0,2325,19.0
+2021-09-28,San Miguel,Colorado,8113.0,1117,3.0
+2021-09-28,San Miguel,New Mexico,35047.0,2333,20.0
+2021-09-29,San Miguel,Colorado,8113.0,1118,3.0
+2021-09-29,San Miguel,New Mexico,35047.0,2354,20.0
+2021-09-30,San Miguel,Colorado,8113.0,1123,3.0
+2021-09-30,San Miguel,New Mexico,35047.0,2372,20.0
+2021-10-01,San Miguel,Colorado,8113.0,1096,3.0
+2021-10-01,San Miguel,New Mexico,35047.0,2385,20.0
+2021-10-02,San Miguel,Colorado,8113.0,1096,3.0
+2021-10-02,San Miguel,New Mexico,35047.0,2385,20.0
+2021-10-03,San Miguel,Colorado,8113.0,1096,3.0
+2021-10-03,San Miguel,New Mexico,35047.0,2385,20.0
+2021-10-04,San Miguel,Colorado,8113.0,1133,3.0
+2021-10-04,San Miguel,New Mexico,35047.0,2412,20.0
+2021-10-05,San Miguel,Colorado,8113.0,1134,3.0
+2021-10-05,San Miguel,New Mexico,35047.0,2418,20.0
+2021-10-06,San Miguel,Colorado,8113.0,1135,3.0
+2021-10-06,San Miguel,New Mexico,35047.0,2431,20.0
+2021-10-07,San Miguel,Colorado,8113.0,1136,3.0
+2021-10-07,San Miguel,New Mexico,35047.0,2448,21.0
+2021-10-08,San Miguel,Colorado,8113.0,1142,3.0
+2021-10-08,San Miguel,New Mexico,35047.0,2456,21.0
+2021-10-09,San Miguel,Colorado,8113.0,1142,3.0
+2021-10-09,San Miguel,New Mexico,35047.0,2456,21.0
+2021-10-10,San Miguel,Colorado,8113.0,1142,3.0
+2021-10-10,San Miguel,New Mexico,35047.0,2456,21.0
+2021-10-11,San Miguel,Colorado,8113.0,1147,3.0
+2021-10-11,San Miguel,New Mexico,35047.0,2456,21.0
+2021-10-12,San Miguel,Colorado,8113.0,1148,3.0
+2021-10-12,San Miguel,New Mexico,35047.0,2488,21.0
+2021-10-13,San Miguel,Colorado,8113.0,1151,4.0
+2021-10-13,San Miguel,New Mexico,35047.0,2499,21.0
+2021-10-14,San Miguel,Colorado,8113.0,1153,4.0
+2021-10-14,San Miguel,New Mexico,35047.0,2512,22.0
+2021-10-15,San Miguel,Colorado,8113.0,1158,4.0
+2021-10-15,San Miguel,New Mexico,35047.0,2524,22.0
+2021-10-16,San Miguel,Colorado,8113.0,1158,4.0
+2021-10-16,San Miguel,New Mexico,35047.0,2524,22.0
+2021-10-17,San Miguel,Colorado,8113.0,1158,4.0
+2021-10-17,San Miguel,New Mexico,35047.0,2524,22.0
+2021-10-18,San Miguel,Colorado,8113.0,1161,4.0
+2021-10-18,San Miguel,New Mexico,35047.0,2548,22.0
+2021-10-19,San Miguel,Colorado,8113.0,1163,4.0
+2021-10-19,San Miguel,New Mexico,35047.0,2554,22.0
+2021-10-20,San Miguel,Colorado,8113.0,1164,4.0
+2021-10-20,San Miguel,New Mexico,35047.0,2558,22.0
+2021-10-21,San Miguel,Colorado,8113.0,1167,4.0
+2021-10-21,San Miguel,New Mexico,35047.0,2563,23.0
+2021-10-22,San Miguel,Colorado,8113.0,1171,4.0
+2021-10-22,San Miguel,New Mexico,35047.0,2566,23.0
+2021-10-23,San Miguel,Colorado,8113.0,1171,4.0
+2021-10-23,San Miguel,New Mexico,35047.0,2566,23.0
+2021-10-24,San Miguel,Colorado,8113.0,1171,4.0
+2021-10-24,San Miguel,New Mexico,35047.0,2566,23.0
+2021-10-25,San Miguel,Colorado,8113.0,1173,4.0
+2021-10-25,San Miguel,New Mexico,35047.0,2589,24.0
+2021-10-26,San Miguel,Colorado,8113.0,1171,4.0
+2021-10-26,San Miguel,New Mexico,35047.0,2595,26.0
+2021-10-27,San Miguel,Colorado,8113.0,1173,4.0
+2021-10-27,San Miguel,New Mexico,35047.0,2601,26.0
+2021-10-28,San Miguel,Colorado,8113.0,1172,4.0
+2021-10-28,San Miguel,New Mexico,35047.0,2623,26.0
+2021-10-29,San Miguel,Colorado,8113.0,1180,4.0
+2021-10-29,San Miguel,New Mexico,35047.0,2636,26.0
+2021-10-30,San Miguel,Colorado,8113.0,1180,4.0
+2021-10-30,San Miguel,New Mexico,35047.0,2636,26.0
+2021-10-31,San Miguel,Colorado,8113.0,1180,4.0
+2021-10-31,San Miguel,New Mexico,35047.0,2636,26.0
+2021-11-01,San Miguel,Colorado,8113.0,1191,5.0
+2021-11-01,San Miguel,New Mexico,35047.0,2657,26.0
+2021-11-02,San Miguel,Colorado,8113.0,1192,5.0
+2021-11-02,San Miguel,New Mexico,35047.0,2660,26.0
+2021-11-03,San Miguel,Colorado,8113.0,1191,5.0
+2021-11-03,San Miguel,New Mexico,35047.0,2668,26.0
+2021-11-04,San Miguel,Colorado,8113.0,1197,5.0
+2021-11-04,San Miguel,New Mexico,35047.0,2686,27.0
+2021-11-05,San Miguel,Colorado,8113.0,1201,5.0
+2021-11-05,San Miguel,New Mexico,35047.0,2698,27.0
+2021-11-06,San Miguel,Colorado,8113.0,1201,5.0
+2021-11-06,San Miguel,New Mexico,35047.0,2698,27.0
+2021-11-07,San Miguel,Colorado,8113.0,1201,5.0
+2021-11-07,San Miguel,New Mexico,35047.0,2698,27.0
+2021-11-08,San Miguel,Colorado,8113.0,1205,5.0
+2021-11-08,San Miguel,New Mexico,35047.0,2723,27.0
+2021-11-09,San Miguel,Colorado,8113.0,1207,5.0
+2021-11-09,San Miguel,New Mexico,35047.0,2731,27.0
+2021-11-10,San Miguel,Colorado,8113.0,1212,5.0
+2021-11-10,San Miguel,New Mexico,35047.0,2739,27.0
+2021-11-11,San Miguel,Colorado,8113.0,1215,5.0
+2021-11-11,San Miguel,New Mexico,35047.0,2739,27.0
+2021-11-12,San Miguel,Colorado,8113.0,1216,5.0
+2021-11-12,San Miguel,New Mexico,35047.0,2789,28.0
+2021-11-13,San Miguel,Colorado,8113.0,1216,5.0
+2021-11-13,San Miguel,New Mexico,35047.0,2789,28.0
+2021-11-14,San Miguel,Colorado,8113.0,1216,5.0
+2021-11-14,San Miguel,New Mexico,35047.0,2789,28.0
+2021-11-15,San Miguel,Colorado,8113.0,1232,5.0
+2021-11-15,San Miguel,New Mexico,35047.0,2825,28.0
+2021-11-16,San Miguel,Colorado,8113.0,1231,5.0
+2021-11-16,San Miguel,New Mexico,35047.0,2837,28.0
+2021-11-17,San Miguel,Colorado,8113.0,1235,5.0
+2021-11-17,San Miguel,New Mexico,35047.0,2868,28.0
+2021-11-18,San Miguel,Colorado,8113.0,1243,5.0
+2021-11-18,San Miguel,New Mexico,35047.0,2883,28.0
+2021-11-19,San Miguel,Colorado,8113.0,1253,5.0
+2021-11-19,San Miguel,New Mexico,35047.0,2905,28.0
+2021-11-20,San Miguel,Colorado,8113.0,1253,5.0
+2021-11-20,San Miguel,New Mexico,35047.0,2905,28.0
+2021-11-21,San Miguel,Colorado,8113.0,1253,5.0
+2021-11-21,San Miguel,New Mexico,35047.0,2905,28.0
+2021-11-22,San Miguel,Colorado,8113.0,1259,5.0
+2021-11-22,San Miguel,New Mexico,35047.0,2939,29.0
+2021-11-23,San Miguel,Colorado,8113.0,1259,5.0
+2021-11-23,San Miguel,New Mexico,35047.0,2952,29.0
+2021-11-24,San Miguel,Colorado,8113.0,1260,5.0
+2021-11-24,San Miguel,New Mexico,35047.0,2961,29.0
+2021-11-25,San Miguel,Colorado,8113.0,1263,5.0
+2021-11-25,San Miguel,New Mexico,35047.0,2961,29.0
+2021-11-26,San Miguel,Colorado,8113.0,1263,5.0
+2021-11-26,San Miguel,New Mexico,35047.0,2961,29.0
+2021-11-27,San Miguel,Colorado,8113.0,1263,5.0
+2021-11-27,San Miguel,New Mexico,35047.0,2961,29.0
+2021-11-28,San Miguel,Colorado,8113.0,1263,5.0
+2021-11-28,San Miguel,New Mexico,35047.0,2961,29.0
+2021-11-29,San Miguel,Colorado,8113.0,1268,5.0
+2021-11-29,San Miguel,New Mexico,35047.0,3019,29.0
+2021-11-30,San Miguel,Colorado,8113.0,1270,5.0
+2021-11-30,San Miguel,New Mexico,35047.0,3030,29.0
+2021-12-01,San Miguel,Colorado,8113.0,1271,5.0
+2021-12-01,San Miguel,New Mexico,35047.0,3047,30.0
+2021-12-02,San Miguel,Colorado,8113.0,1278,5.0
+2021-12-02,San Miguel,New Mexico,35047.0,3066,30.0
+2021-12-03,San Miguel,Colorado,8113.0,1279,5.0
+2021-12-03,San Miguel,New Mexico,35047.0,3094,30.0
+2021-12-04,San Miguel,Colorado,8113.0,1279,5.0
+2021-12-04,San Miguel,New Mexico,35047.0,3094,30.0
+2021-12-05,San Miguel,Colorado,8113.0,1279,5.0
+2021-12-05,San Miguel,New Mexico,35047.0,3094,30.0
+2021-12-06,San Miguel,Colorado,8113.0,1281,5.0
+2021-12-06,San Miguel,New Mexico,35047.0,3130,31.0
+2021-12-07,San Miguel,Colorado,8113.0,1286,5.0
+2021-12-07,San Miguel,New Mexico,35047.0,3137,31.0
+2021-12-08,San Miguel,Colorado,8113.0,1288,5.0
+2021-12-08,San Miguel,New Mexico,35047.0,3162,31.0
+2021-12-09,San Miguel,Colorado,8113.0,1294,5.0
+2021-12-09,San Miguel,New Mexico,35047.0,3171,31.0
+2021-12-10,San Miguel,Colorado,8113.0,1298,5.0
+2021-12-10,San Miguel,New Mexico,35047.0,3188,31.0
+2021-12-11,San Miguel,Colorado,8113.0,1298,5.0
+2021-12-11,San Miguel,New Mexico,35047.0,3188,31.0
+2021-12-12,San Miguel,Colorado,8113.0,1298,5.0
+2021-12-12,San Miguel,New Mexico,35047.0,3188,31.0
+2021-12-13,San Miguel,Colorado,8113.0,1302,5.0
+2021-12-13,San Miguel,New Mexico,35047.0,3220,31.0
+2021-12-14,San Miguel,Colorado,8113.0,1307,5.0
+2021-12-14,San Miguel,New Mexico,35047.0,3225,31.0
+2021-12-15,San Miguel,Colorado,8113.0,1308,5.0
+2021-12-15,San Miguel,New Mexico,35047.0,3249,31.0
+2021-12-16,San Miguel,Colorado,8113.0,1311,5.0
+2021-12-16,San Miguel,New Mexico,35047.0,3265,31.0
+2021-12-17,San Miguel,Colorado,8113.0,1322,5.0
+2021-12-17,San Miguel,New Mexico,35047.0,3282,31.0
+2021-12-18,San Miguel,Colorado,8113.0,1322,5.0
+2021-12-18,San Miguel,New Mexico,35047.0,3282,31.0
+2021-12-19,San Miguel,Colorado,8113.0,1322,5.0
+2021-12-19,San Miguel,New Mexico,35047.0,3282,31.0
+2021-12-20,San Miguel,Colorado,8113.0,1322,6.0
+2021-12-20,San Miguel,New Mexico,35047.0,3303,33.0
+2021-12-21,San Miguel,Colorado,8113.0,1324,7.0
+2021-12-21,San Miguel,New Mexico,35047.0,3316,33.0
+2021-12-22,San Miguel,Colorado,8113.0,1327,7.0
+2021-12-22,San Miguel,New Mexico,35047.0,3335,33.0
+2021-12-23,San Miguel,Colorado,8113.0,1373,7.0
+2021-12-23,San Miguel,New Mexico,35047.0,3347,33.0
+2021-12-24,San Miguel,Colorado,8113.0,1459,7.0
+2021-12-24,San Miguel,New Mexico,35047.0,3347,33.0
+2021-12-25,San Miguel,Colorado,8113.0,1459,7.0
+2021-12-25,San Miguel,New Mexico,35047.0,3347,33.0
+2021-12-26,San Miguel,Colorado,8113.0,1459,7.0
+2021-12-26,San Miguel,New Mexico,35047.0,3347,33.0
+2021-12-27,San Miguel,Colorado,8113.0,1471,7.0
+2021-12-27,San Miguel,New Mexico,35047.0,3376,33.0
+2021-12-28,San Miguel,Colorado,8113.0,1477,7.0
+2021-12-28,San Miguel,New Mexico,35047.0,3381,34.0
+2021-12-29,San Miguel,Colorado,8113.0,1505,7.0
+2021-12-29,San Miguel,New Mexico,35047.0,3397,34.0
+2021-12-30,San Miguel,Colorado,8113.0,1590,7.0
+2021-12-30,San Miguel,New Mexico,35047.0,3429,34.0
+2021-12-31,San Miguel,Colorado,8113.0,1642,7.0
+2021-12-31,San Miguel,New Mexico,35047.0,3429,34.0
+2022-01-01,San Miguel,Colorado,8113.0,1642,7.0
+2022-01-01,San Miguel,New Mexico,35047.0,3429,34.0
+2022-01-02,San Miguel,Colorado,8113.0,1642,7.0
+2022-01-02,San Miguel,New Mexico,35047.0,3429,34.0
+2022-01-03,San Miguel,Colorado,8113.0,1675,7.0
+2022-01-03,San Miguel,New Mexico,35047.0,3517,34.0
+2022-01-04,San Miguel,Colorado,8113.0,1693,7.0
+2022-01-04,San Miguel,New Mexico,35047.0,3547,34.0
+2022-01-05,San Miguel,Colorado,8113.0,1705,7.0
+2022-01-05,San Miguel,New Mexico,35047.0,3586,37.0
+2022-01-06,San Miguel,Colorado,8113.0,1714,7.0
+2022-01-06,San Miguel,New Mexico,35047.0,3636,38.0
+2022-01-07,San Miguel,Colorado,8113.0,1721,7.0
+2022-01-07,San Miguel,New Mexico,35047.0,3678,38.0
+2022-01-08,San Miguel,Colorado,8113.0,1721,7.0
+2022-01-08,San Miguel,New Mexico,35047.0,3678,38.0
+2022-01-09,San Miguel,Colorado,8113.0,1721,7.0
+2022-01-09,San Miguel,New Mexico,35047.0,3678,38.0
+2022-01-10,San Miguel,Colorado,8113.0,1851,7.0
+2022-01-10,San Miguel,New Mexico,35047.0,3797,38.0
+2022-01-11,San Miguel,Colorado,8113.0,1877,7.0
+2022-01-11,San Miguel,New Mexico,35047.0,3839,38.0
+2022-01-12,San Miguel,Colorado,8113.0,1883,7.0
+2022-01-12,San Miguel,New Mexico,35047.0,3917,38.0
+2022-01-13,San Miguel,Colorado,8113.0,1947,7.0
+2022-01-13,San Miguel,New Mexico,35047.0,4036,40.0
+2022-01-14,San Miguel,Colorado,8113.0,1966,7.0
+2022-01-14,San Miguel,New Mexico,35047.0,4089,40.0
+2022-01-15,San Miguel,Colorado,8113.0,1966,7.0
+2022-01-15,San Miguel,New Mexico,35047.0,4089,40.0
+2022-01-16,San Miguel,Colorado,8113.0,1966,7.0
+2022-01-16,San Miguel,New Mexico,35047.0,4089,40.0
+2022-01-17,San Miguel,Colorado,8113.0,1990,7.0
+2022-01-17,San Miguel,New Mexico,35047.0,4089,40.0
+2022-01-18,San Miguel,Colorado,8113.0,1994,7.0
+2022-01-18,San Miguel,New Mexico,35047.0,4411,40.0
+2022-01-19,San Miguel,Colorado,8113.0,2000,7.0
+2022-01-19,San Miguel,New Mexico,35047.0,4461,41.0
+2022-01-20,San Miguel,Colorado,8113.0,2022,7.0
+2022-01-20,San Miguel,New Mexico,35047.0,4561,42.0
+2022-01-21,San Miguel,Colorado,8113.0,2024,7.0
+2022-01-21,San Miguel,New Mexico,35047.0,4666,42.0
+2022-01-22,San Miguel,Colorado,8113.0,2024,7.0
+2022-01-22,San Miguel,New Mexico,35047.0,4666,42.0
+2022-01-23,San Miguel,Colorado,8113.0,2024,7.0
+2022-01-23,San Miguel,New Mexico,35047.0,4666,42.0
+2022-01-24,San Miguel,Colorado,8113.0,2049,7.0
+2022-01-24,San Miguel,New Mexico,35047.0,4857,44.0
+2022-01-25,San Miguel,Colorado,8113.0,2057,7.0
+2022-01-25,San Miguel,New Mexico,35047.0,4897,44.0
+2022-01-26,San Miguel,Colorado,8113.0,2062,7.0
+2022-01-26,San Miguel,New Mexico,35047.0,4936,45.0
+2022-01-27,San Miguel,Colorado,8113.0,2068,7.0
+2022-01-27,San Miguel,New Mexico,35047.0,5023,45.0
+2022-01-28,San Miguel,Colorado,8113.0,2093,7.0
+2022-01-28,San Miguel,New Mexico,35047.0,5097,45.0
+2022-01-29,San Miguel,Colorado,8113.0,2068,7.0
+2022-01-29,San Miguel,New Mexico,35047.0,5097,45.0
+2022-01-30,San Miguel,Colorado,8113.0,2093,7.0
+2022-01-30,San Miguel,New Mexico,35047.0,5097,45.0
+2022-01-31,San Miguel,Colorado,8113.0,2108,7.0
+2022-01-31,San Miguel,New Mexico,35047.0,5206,46.0
+2022-02-01,San Miguel,Colorado,8113.0,2108,7.0
+2022-02-01,San Miguel,New Mexico,35047.0,5237,46.0
+2022-02-02,San Miguel,Colorado,8113.0,2111,7.0
+2022-02-02,San Miguel,New Mexico,35047.0,5283,46.0
+2022-02-03,San Miguel,Colorado,8113.0,2130,7.0
+2022-02-03,San Miguel,New Mexico,35047.0,5321,46.0
+2022-02-04,San Miguel,Colorado,8113.0,2132,7.0
+2022-02-04,San Miguel,New Mexico,35047.0,5334,46.0
+2022-02-05,San Miguel,Colorado,8113.0,2132,7.0
+2022-02-05,San Miguel,New Mexico,35047.0,5334,46.0
+2022-02-06,San Miguel,Colorado,8113.0,2132,7.0
+2022-02-06,San Miguel,New Mexico,35047.0,5334,46.0
+2022-02-07,San Miguel,Colorado,8113.0,2142,7.0
+2022-02-07,San Miguel,New Mexico,35047.0,5385,46.0
+2022-02-08,San Miguel,Colorado,8113.0,2142,7.0
+2022-02-08,San Miguel,New Mexico,35047.0,5393,46.0
+2022-02-09,San Miguel,Colorado,8113.0,2148,7.0
+2022-02-09,San Miguel,New Mexico,35047.0,5418,46.0
+2022-02-10,San Miguel,Colorado,8113.0,2154,7.0
+2022-02-10,San Miguel,New Mexico,35047.0,5451,48.0
+2022-02-11,San Miguel,Colorado,8113.0,2155,7.0
+2022-02-11,San Miguel,New Mexico,35047.0,5463,49.0
+2022-02-12,San Miguel,Colorado,8113.0,2155,7.0
+2022-02-12,San Miguel,New Mexico,35047.0,5463,49.0
+2022-02-13,San Miguel,Colorado,8113.0,2155,7.0
+2022-02-13,San Miguel,New Mexico,35047.0,5463,49.0
+2022-02-14,San Miguel,Colorado,8113.0,2159,7.0
+2022-02-14,San Miguel,New Mexico,35047.0,5493,49.0
+2022-02-15,San Miguel,Colorado,8113.0,2162,7.0
+2022-02-15,San Miguel,New Mexico,35047.0,5506,49.0
+2022-02-16,San Miguel,Colorado,8113.0,2197,7.0
+2022-02-16,San Miguel,New Mexico,35047.0,5522,49.0
+2022-02-17,San Miguel,Colorado,8113.0,2199,7.0
+2022-02-17,San Miguel,New Mexico,35047.0,5550,49.0
+2022-02-18,San Miguel,Colorado,8113.0,2202,7.0
+2022-02-18,San Miguel,New Mexico,35047.0,5571,49.0
+2022-02-19,San Miguel,Colorado,8113.0,2202,7.0
+2022-02-19,San Miguel,New Mexico,35047.0,5571,49.0
+2022-02-20,San Miguel,Colorado,8113.0,2202,7.0
+2022-02-20,San Miguel,New Mexico,35047.0,5571,49.0
+2022-02-21,San Miguel,Colorado,8113.0,2212,7.0
+2022-02-21,San Miguel,New Mexico,35047.0,5604,49.0
+2022-02-22,San Miguel,Colorado,8113.0,2211,7.0
+2022-02-22,San Miguel,New Mexico,35047.0,5611,49.0
+2022-02-23,San Miguel,Colorado,8113.0,2214,7.0
+2022-02-23,San Miguel,New Mexico,35047.0,5623,50.0
+2022-02-24,San Miguel,Colorado,8113.0,2216,8.0
+2022-02-24,San Miguel,New Mexico,35047.0,5645,50.0
+2022-02-25,San Miguel,Colorado,8113.0,2216,8.0
+2022-02-25,San Miguel,New Mexico,35047.0,5649,50.0
+2022-02-26,San Miguel,Colorado,8113.0,2216,8.0
+2022-02-26,San Miguel,New Mexico,35047.0,5649,50.0
+2022-02-27,San Miguel,Colorado,8113.0,2216,8.0
+2022-02-27,San Miguel,New Mexico,35047.0,5649,50.0
+2022-02-28,San Miguel,Colorado,8113.0,2217,8.0
+2022-02-28,San Miguel,New Mexico,35047.0,5658,50.0
+2022-03-01,San Miguel,Colorado,8113.0,2221,8.0
+2022-03-01,San Miguel,New Mexico,35047.0,5665,50.0
+2022-03-02,San Miguel,Colorado,8113.0,2219,8.0
+2022-03-02,San Miguel,New Mexico,35047.0,5681,50.0
+2022-03-03,San Miguel,Colorado,8113.0,2220,8.0
+2022-03-03,San Miguel,New Mexico,35047.0,5692,50.0
+2022-03-04,San Miguel,Colorado,8113.0,2222,8.0
+2022-03-04,San Miguel,New Mexico,35047.0,5703,50.0
+2022-03-05,San Miguel,Colorado,8113.0,2222,8.0
+2022-03-05,San Miguel,New Mexico,35047.0,5703,50.0
+2022-03-06,San Miguel,Colorado,8113.0,2222,8.0
+2022-03-06,San Miguel,New Mexico,35047.0,5703,50.0
+2022-03-07,San Miguel,Colorado,8113.0,2224,8.0
+2022-03-07,San Miguel,New Mexico,35047.0,5720,51.0
+2022-03-08,San Miguel,Colorado,8113.0,2225,8.0
+2022-03-08,San Miguel,New Mexico,35047.0,5726,51.0
+2022-03-09,San Miguel,Colorado,8113.0,2227,8.0
+2022-03-09,San Miguel,New Mexico,35047.0,5733,51.0
+2022-03-10,San Miguel,Colorado,8113.0,2230,8.0
+2022-03-10,San Miguel,New Mexico,35047.0,5740,51.0
+2022-03-11,San Miguel,Colorado,8113.0,2229,8.0
+2022-03-11,San Miguel,New Mexico,35047.0,5748,51.0
+2022-03-12,San Miguel,Colorado,8113.0,2229,8.0
+2022-03-12,San Miguel,New Mexico,35047.0,5748,51.0
+2022-03-13,San Miguel,Colorado,8113.0,2229,8.0
+2022-03-13,San Miguel,New Mexico,35047.0,5748,51.0
+2022-03-14,San Miguel,Colorado,8113.0,2229,8.0
+2022-03-14,San Miguel,New Mexico,35047.0,5751,51.0
+2022-03-15,San Miguel,Colorado,8113.0,2231,8.0
+2022-03-15,San Miguel,New Mexico,35047.0,5755,52.0
+2022-03-16,San Miguel,Colorado,8113.0,2231,8.0
+2022-03-16,San Miguel,New Mexico,35047.0,5756,52.0
+2022-03-17,San Miguel,Colorado,8113.0,2233,8.0
+2022-03-17,San Miguel,New Mexico,35047.0,5761,53.0
+2022-03-18,San Miguel,Colorado,8113.0,2233,8.0
+2022-03-18,San Miguel,New Mexico,35047.0,5761,53.0
+2022-03-19,San Miguel,Colorado,8113.0,2233,8.0
+2022-03-19,San Miguel,New Mexico,35047.0,5761,53.0
+2022-03-20,San Miguel,Colorado,8113.0,2233,8.0
+2022-03-20,San Miguel,New Mexico,35047.0,5761,53.0
+2022-03-21,San Miguel,Colorado,8113.0,2237,8.0
+2022-03-21,San Miguel,New Mexico,35047.0,5766,53.0
+2022-03-22,San Miguel,Colorado,8113.0,2238,8.0
+2022-03-22,San Miguel,New Mexico,35047.0,5769,54.0
+2022-03-23,San Miguel,Colorado,8113.0,2241,8.0
+2022-03-23,San Miguel,New Mexico,35047.0,5790,54.0
+2022-03-24,San Miguel,Colorado,8113.0,2247,8.0
+2022-03-24,San Miguel,New Mexico,35047.0,5794,55.0
+2022-03-25,San Miguel,Colorado,8113.0,2251,8.0
+2022-03-25,San Miguel,New Mexico,35047.0,5799,55.0
+2022-03-26,San Miguel,Colorado,8113.0,2251,8.0
+2022-03-26,San Miguel,New Mexico,35047.0,5799,55.0
+2022-03-27,San Miguel,Colorado,8113.0,2251,8.0
+2022-03-27,San Miguel,New Mexico,35047.0,5799,55.0
+2022-03-28,San Miguel,Colorado,8113.0,2252,8.0
+2022-03-28,San Miguel,New Mexico,35047.0,5810,55.0
+2022-03-29,San Miguel,Colorado,8113.0,2258,8.0
+2022-03-29,San Miguel,New Mexico,35047.0,5813,55.0
+2022-03-30,San Miguel,Colorado,8113.0,2261,8.0
+2022-03-30,San Miguel,New Mexico,35047.0,5817,55.0
+2022-03-31,San Miguel,Colorado,8113.0,2264,8.0
+2022-03-31,San Miguel,New Mexico,35047.0,5817,55.0
+2022-04-01,San Miguel,Colorado,8113.0,2264,8.0
+2022-04-01,San Miguel,New Mexico,35047.0,5819,55.0
+2022-04-02,San Miguel,Colorado,8113.0,2264,8.0
+2022-04-02,San Miguel,New Mexico,35047.0,5819,55.0
+2022-04-03,San Miguel,Colorado,8113.0,2261,8.0
+2022-04-03,San Miguel,New Mexico,35047.0,5819,55.0
+2022-04-04,San Miguel,Colorado,8113.0,2262,8.0
+2022-04-04,San Miguel,New Mexico,35047.0,5829,55.0
+2022-04-05,San Miguel,Colorado,8113.0,2262,8.0
+2022-04-05,San Miguel,New Mexico,35047.0,5831,55.0
+2022-04-06,San Miguel,Colorado,8113.0,2262,8.0
+2022-04-06,San Miguel,New Mexico,35047.0,5836,55.0
+2022-04-07,San Miguel,Colorado,8113.0,2265,8.0
+2022-04-07,San Miguel,New Mexico,35047.0,5837,55.0
+2022-04-08,San Miguel,Colorado,8113.0,2267,8.0
+2022-04-08,San Miguel,New Mexico,35047.0,5841,55.0
+2022-04-09,San Miguel,Colorado,8113.0,2267,8.0
+2022-04-09,San Miguel,New Mexico,35047.0,5841,55.0

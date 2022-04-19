@@ -1,1468 +1,1468 @@
-,date,county,state,fips,cases,deaths
-9253,2020-03-23,Pennington,South Dakota,46103.0,1,0.0
-10580,2020-03-24,Pennington,South Dakota,46103.0,1,0.0
-12056,2020-03-25,Pennington,South Dakota,46103.0,1,0.0
-13678,2020-03-26,Pennington,South Dakota,46103.0,1,0.0
-15428,2020-03-27,Pennington,South Dakota,46103.0,3,0.0
-17286,2020-03-28,Pennington,South Dakota,46103.0,3,0.0
-19229,2020-03-29,Pennington,South Dakota,46103.0,4,0.0
-21282,2020-03-30,Pennington,South Dakota,46103.0,5,0.0
-23420,2020-03-31,Pennington,South Dakota,46103.0,5,0.0
-25618,2020-04-01,Pennington,South Dakota,46103.0,5,0.0
-27895,2020-04-02,Pennington,South Dakota,46103.0,6,0.0
-30230,2020-04-03,Pennington,South Dakota,46103.0,6,0.0
-32621,2020-04-04,Pennington,South Dakota,46103.0,6,0.0
-35057,2020-04-05,Pennington,South Dakota,46103.0,6,0.0
-37532,2020-04-06,Pennington,South Dakota,46103.0,6,0.0
-40055,2020-04-07,Pennington,South Dakota,46103.0,6,0.0
-42616,2020-04-08,Pennington,South Dakota,46103.0,6,0.0
-45204,2020-04-09,Pennington,South Dakota,46103.0,7,0.0
-47822,2020-04-10,Pennington,South Dakota,46103.0,8,0.0
-50479,2020-04-11,Pennington,South Dakota,46103.0,8,0.0
-53152,2020-04-12,Pennington,South Dakota,46103.0,8,0.0
-55838,2020-04-13,Pennington,South Dakota,46103.0,9,0.0
-58541,2020-04-14,Pennington,South Dakota,46103.0,9,0.0
-61256,2020-04-15,Pennington,South Dakota,46103.0,9,0.0
-63983,2020-04-16,Pennington,South Dakota,46103.0,10,0.0
-66729,2020-04-17,Pennington,South Dakota,46103.0,10,0.0
-69487,2020-04-18,Pennington,South Dakota,46103.0,10,0.0
-72254,2020-04-19,Pennington,South Dakota,46103.0,10,0.0
-75029,2020-04-20,Pennington,South Dakota,46103.0,11,0.0
-76929,2020-04-21,Pennington,Minnesota,27113.0,1,0.0
-77811,2020-04-21,Pennington,South Dakota,46103.0,11,0.0
-79714,2020-04-22,Pennington,Minnesota,27113.0,1,0.0
-80601,2020-04-22,Pennington,South Dakota,46103.0,11,0.0
-82510,2020-04-23,Pennington,Minnesota,27113.0,1,0.0
-83400,2020-04-23,Pennington,South Dakota,46103.0,11,0.0
-85314,2020-04-24,Pennington,Minnesota,27113.0,1,0.0
-86204,2020-04-24,Pennington,South Dakota,46103.0,11,0.0
-88124,2020-04-25,Pennington,Minnesota,27113.0,1,0.0
-89019,2020-04-25,Pennington,South Dakota,46103.0,11,0.0
-90940,2020-04-26,Pennington,Minnesota,27113.0,1,0.0
-91836,2020-04-26,Pennington,South Dakota,46103.0,12,0.0
-93761,2020-04-27,Pennington,Minnesota,27113.0,1,0.0
-94664,2020-04-27,Pennington,South Dakota,46103.0,12,0.0
-96596,2020-04-28,Pennington,Minnesota,27113.0,1,0.0
-97504,2020-04-28,Pennington,South Dakota,46103.0,12,0.0
-99442,2020-04-29,Pennington,Minnesota,27113.0,1,0.0
-100354,2020-04-29,Pennington,South Dakota,46103.0,12,0.0
-102294,2020-04-30,Pennington,Minnesota,27113.0,1,0.0
-103207,2020-04-30,Pennington,South Dakota,46103.0,11,0.0
-105155,2020-05-01,Pennington,Minnesota,27113.0,1,0.0
-106070,2020-05-01,Pennington,South Dakota,46103.0,13,0.0
-108020,2020-05-02,Pennington,Minnesota,27113.0,1,0.0
-108937,2020-05-02,Pennington,South Dakota,46103.0,13,0.0
-110891,2020-05-03,Pennington,Minnesota,27113.0,1,0.0
-111811,2020-05-03,Pennington,South Dakota,46103.0,14,0.0
-113770,2020-05-04,Pennington,Minnesota,27113.0,1,0.0
-114693,2020-05-04,Pennington,South Dakota,46103.0,14,0.0
-116651,2020-05-05,Pennington,Minnesota,27113.0,1,0.0
-117649,2020-05-05,Pennington,South Dakota,46103.0,16,0.0
-119611,2020-05-06,Pennington,Minnesota,27113.0,1,0.0
-120612,2020-05-06,Pennington,South Dakota,46103.0,16,0.0
-122585,2020-05-07,Pennington,Minnesota,27113.0,1,0.0
-123590,2020-05-07,Pennington,South Dakota,46103.0,17,0.0
-125567,2020-05-08,Pennington,Minnesota,27113.0,1,0.0
-126573,2020-05-08,Pennington,South Dakota,46103.0,18,0.0
-128554,2020-05-09,Pennington,Minnesota,27113.0,1,0.0
-129562,2020-05-09,Pennington,South Dakota,46103.0,19,0.0
-131544,2020-05-10,Pennington,Minnesota,27113.0,1,0.0
-132551,2020-05-10,Pennington,South Dakota,46103.0,26,0.0
-134535,2020-05-11,Pennington,Minnesota,27113.0,1,0.0
-135542,2020-05-11,Pennington,South Dakota,46103.0,27,0.0
-137525,2020-05-12,Pennington,Minnesota,27113.0,1,0.0
-138532,2020-05-12,Pennington,South Dakota,46103.0,32,0.0
-140519,2020-05-13,Pennington,Minnesota,27113.0,1,0.0
-141528,2020-05-13,Pennington,South Dakota,46103.0,36,0.0
-143514,2020-05-14,Pennington,Minnesota,27113.0,1,0.0
-144524,2020-05-14,Pennington,South Dakota,46103.0,40,0.0
-146514,2020-05-15,Pennington,Minnesota,27113.0,1,0.0
-147525,2020-05-15,Pennington,South Dakota,46103.0,43,0.0
-149519,2020-05-16,Pennington,Minnesota,27113.0,1,0.0
-150533,2020-05-16,Pennington,South Dakota,46103.0,49,0.0
-152530,2020-05-17,Pennington,Minnesota,27113.0,1,0.0
-153544,2020-05-17,Pennington,South Dakota,46103.0,52,0.0
-155544,2020-05-18,Pennington,Minnesota,27113.0,2,0.0
-156561,2020-05-18,Pennington,South Dakota,46103.0,58,0.0
-158562,2020-05-19,Pennington,Minnesota,27113.0,3,0.0
-159582,2020-05-19,Pennington,South Dakota,46103.0,74,1.0
-161588,2020-05-20,Pennington,Minnesota,27113.0,3,0.0
-162609,2020-05-20,Pennington,South Dakota,46103.0,85,1.0
-164617,2020-05-21,Pennington,Minnesota,27113.0,4,0.0
-165638,2020-05-21,Pennington,South Dakota,46103.0,85,1.0
-167653,2020-05-22,Pennington,Minnesota,27113.0,6,0.0
-168674,2020-05-22,Pennington,South Dakota,46103.0,127,1.0
-170691,2020-05-23,Pennington,Minnesota,27113.0,7,0.0
-171713,2020-05-23,Pennington,South Dakota,46103.0,138,2.0
-173733,2020-05-24,Pennington,Minnesota,27113.0,7,0.0
-174756,2020-05-24,Pennington,South Dakota,46103.0,152,2.0
-176776,2020-05-25,Pennington,Minnesota,27113.0,9,0.0
-177800,2020-05-25,Pennington,South Dakota,46103.0,156,2.0
-179820,2020-05-26,Pennington,Minnesota,27113.0,14,0.0
-180843,2020-05-26,Pennington,South Dakota,46103.0,162,2.0
-182866,2020-05-27,Pennington,Minnesota,27113.0,17,0.0
-183893,2020-05-27,Pennington,South Dakota,46103.0,172,2.0
-185921,2020-05-28,Pennington,Minnesota,27113.0,17,0.0
-186950,2020-05-28,Pennington,South Dakota,46103.0,186,2.0
-188979,2020-05-29,Pennington,Minnesota,27113.0,17,0.0
-190014,2020-05-29,Pennington,South Dakota,46103.0,201,2.0
-192043,2020-05-30,Pennington,Minnesota,27113.0,17,0.0
-193079,2020-05-30,Pennington,South Dakota,46103.0,218,3.0
-195111,2020-05-31,Pennington,Minnesota,27113.0,19,0.0
-196149,2020-05-31,Pennington,South Dakota,46103.0,227,3.0
-198182,2020-06-01,Pennington,Minnesota,27113.0,19,0.0
-199222,2020-06-01,Pennington,South Dakota,46103.0,235,3.0
-201255,2020-06-02,Pennington,Minnesota,27113.0,19,0.0
-202297,2020-06-02,Pennington,South Dakota,46103.0,241,3.0
-204332,2020-06-03,Pennington,Minnesota,27113.0,21,0.0
-205376,2020-06-03,Pennington,South Dakota,46103.0,257,3.0
-207413,2020-06-04,Pennington,Minnesota,27113.0,23,0.0
-208458,2020-06-04,Pennington,South Dakota,46103.0,275,4.0
-210494,2020-06-05,Pennington,Minnesota,27113.0,30,0.0
-211540,2020-06-05,Pennington,South Dakota,46103.0,284,4.0
-213578,2020-06-06,Pennington,Minnesota,27113.0,31,0.0
-214627,2020-06-06,Pennington,South Dakota,46103.0,297,4.0
-216666,2020-06-07,Pennington,Minnesota,27113.0,34,0.0
-217717,2020-06-07,Pennington,South Dakota,46103.0,305,4.0
-219758,2020-06-08,Pennington,Minnesota,27113.0,36,0.0
-220809,2020-06-08,Pennington,South Dakota,46103.0,314,4.0
-222853,2020-06-09,Pennington,Minnesota,27113.0,37,0.0
-223904,2020-06-09,Pennington,South Dakota,46103.0,321,5.0
-225951,2020-06-10,Pennington,Minnesota,27113.0,37,0.0
-227004,2020-06-10,Pennington,South Dakota,46103.0,335,5.0
-229053,2020-06-11,Pennington,Minnesota,27113.0,37,0.0
-230108,2020-06-11,Pennington,South Dakota,46103.0,351,6.0
-232157,2020-06-12,Pennington,Minnesota,27113.0,50,0.0
-233213,2020-06-12,Pennington,South Dakota,46103.0,362,6.0
-235263,2020-06-13,Pennington,Minnesota,27113.0,50,0.0
-236319,2020-06-13,Pennington,South Dakota,46103.0,378,7.0
-238370,2020-06-14,Pennington,Minnesota,27113.0,50,0.0
-239427,2020-06-14,Pennington,South Dakota,46103.0,386,7.0
-241479,2020-06-15,Pennington,Minnesota,27113.0,51,0.0
-242537,2020-06-15,Pennington,South Dakota,46103.0,392,7.0
-244590,2020-06-16,Pennington,Minnesota,27113.0,51,0.0
-245649,2020-06-16,Pennington,South Dakota,46103.0,402,8.0
-247703,2020-06-17,Pennington,Minnesota,27113.0,51,0.0
-248762,2020-06-17,Pennington,South Dakota,46103.0,424,8.0
-250815,2020-06-18,Pennington,Minnesota,27113.0,52,0.0
-251877,2020-06-18,Pennington,South Dakota,46103.0,430,8.0
-253930,2020-06-19,Pennington,Minnesota,27113.0,50,0.0
-254992,2020-06-19,Pennington,South Dakota,46103.0,437,10.0
-257050,2020-06-20,Pennington,Minnesota,27113.0,50,0.0
-258118,2020-06-20,Pennington,South Dakota,46103.0,446,10.0
-260176,2020-06-21,Pennington,Minnesota,27113.0,50,0.0
-261245,2020-06-21,Pennington,South Dakota,46103.0,457,10.0
-263305,2020-06-22,Pennington,Minnesota,27113.0,50,0.0
-264373,2020-06-22,Pennington,South Dakota,46103.0,462,10.0
-266431,2020-06-23,Pennington,Minnesota,27113.0,50,0.0
-267501,2020-06-23,Pennington,South Dakota,46103.0,466,11.0
-269564,2020-06-24,Pennington,Minnesota,27113.0,50,0.0
-270635,2020-06-24,Pennington,South Dakota,46103.0,475,11.0
-272701,2020-06-25,Pennington,Minnesota,27113.0,50,0.0
-273774,2020-06-25,Pennington,South Dakota,46103.0,482,12.0
-275844,2020-06-26,Pennington,Minnesota,27113.0,50,0.0
-276921,2020-06-26,Pennington,South Dakota,46103.0,486,13.0
-278992,2020-06-27,Pennington,Minnesota,27113.0,50,0.0
-280069,2020-06-27,Pennington,South Dakota,46103.0,497,15.0
-282140,2020-06-28,Pennington,Minnesota,27113.0,50,0.0
-283215,2020-06-28,Pennington,South Dakota,46103.0,507,15.0
-285285,2020-06-29,Pennington,Minnesota,27113.0,50,0.0
-286360,2020-06-29,Pennington,South Dakota,46103.0,513,15.0
-288435,2020-06-30,Pennington,Minnesota,27113.0,50,0.0
-289511,2020-06-30,Pennington,South Dakota,46103.0,518,15.0
-291586,2020-07-01,Pennington,Minnesota,27113.0,51,0.0
-292663,2020-07-01,Pennington,South Dakota,46103.0,523,15.0
-294740,2020-07-02,Pennington,Minnesota,27113.0,51,0.0
-295819,2020-07-02,Pennington,South Dakota,46103.0,536,16.0
-297898,2020-07-03,Pennington,Minnesota,27113.0,50,0.0
-298979,2020-07-03,Pennington,South Dakota,46103.0,546,16.0
-301061,2020-07-04,Pennington,Minnesota,27113.0,50,0.0
-302143,2020-07-04,Pennington,South Dakota,46103.0,556,16.0
-304225,2020-07-05,Pennington,Minnesota,27113.0,51,0.0
-305306,2020-07-05,Pennington,South Dakota,46103.0,560,16.0
-307392,2020-07-06,Pennington,Minnesota,27113.0,51,0.0
-308474,2020-07-06,Pennington,South Dakota,46103.0,575,16.0
-310560,2020-07-07,Pennington,Minnesota,27113.0,52,0.0
-311643,2020-07-07,Pennington,South Dakota,46103.0,590,16.0
-313730,2020-07-08,Pennington,Minnesota,27113.0,52,0.0
-314817,2020-07-08,Pennington,South Dakota,46103.0,606,16.0
-316904,2020-07-09,Pennington,Minnesota,27113.0,53,0.0
-317990,2020-07-09,Pennington,South Dakota,46103.0,616,17.0
-320079,2020-07-10,Pennington,Minnesota,27113.0,53,0.0
-321168,2020-07-10,Pennington,South Dakota,46103.0,624,20.0
-323258,2020-07-11,Pennington,Minnesota,27113.0,53,0.0
-324348,2020-07-11,Pennington,South Dakota,46103.0,630,20.0
-326441,2020-07-12,Pennington,Minnesota,27113.0,54,0.0
-327533,2020-07-12,Pennington,South Dakota,46103.0,635,20.0
-329627,2020-07-13,Pennington,Minnesota,27113.0,54,0.0
-330719,2020-07-13,Pennington,South Dakota,46103.0,641,20.0
-332814,2020-07-14,Pennington,Minnesota,27113.0,54,0.0
-333911,2020-07-14,Pennington,South Dakota,46103.0,649,20.0
-336007,2020-07-15,Pennington,Minnesota,27113.0,55,0.0
-337105,2020-07-15,Pennington,South Dakota,46103.0,674,21.0
-339203,2020-07-16,Pennington,Minnesota,27113.0,55,0.0
-340302,2020-07-16,Pennington,South Dakota,46103.0,679,21.0
-342399,2020-07-17,Pennington,Minnesota,27113.0,58,0.0
-343500,2020-07-17,Pennington,South Dakota,46103.0,704,21.0
-345599,2020-07-18,Pennington,Minnesota,27113.0,58,0.0
-346700,2020-07-18,Pennington,South Dakota,46103.0,713,21.0
-348800,2020-07-19,Pennington,Minnesota,27113.0,60,0.0
-349900,2020-07-19,Pennington,South Dakota,46103.0,720,22.0
-352000,2020-07-20,Pennington,Minnesota,27113.0,59,0.0
-353103,2020-07-20,Pennington,South Dakota,46103.0,725,22.0
-355202,2020-07-21,Pennington,Minnesota,27113.0,60,0.0
-356306,2020-07-21,Pennington,South Dakota,46103.0,750,22.0
-358405,2020-07-22,Pennington,Minnesota,27113.0,60,0.0
-359510,2020-07-22,Pennington,South Dakota,46103.0,756,23.0
-361610,2020-07-23,Pennington,Minnesota,27113.0,60,1.0
-362716,2020-07-23,Pennington,South Dakota,46103.0,765,24.0
-364817,2020-07-24,Pennington,Minnesota,27113.0,60,1.0
-365922,2020-07-24,Pennington,South Dakota,46103.0,767,25.0
-368025,2020-07-25,Pennington,Minnesota,27113.0,62,1.0
-369131,2020-07-25,Pennington,South Dakota,46103.0,774,25.0
-371235,2020-07-26,Pennington,Minnesota,27113.0,62,1.0
-372343,2020-07-26,Pennington,South Dakota,46103.0,778,25.0
-374447,2020-07-27,Pennington,Minnesota,27113.0,63,1.0
-375556,2020-07-27,Pennington,South Dakota,46103.0,786,25.0
-377662,2020-07-28,Pennington,Minnesota,27113.0,65,1.0
-378772,2020-07-28,Pennington,South Dakota,46103.0,787,25.0
-380879,2020-07-29,Pennington,Minnesota,27113.0,65,1.0
-381989,2020-07-29,Pennington,South Dakota,46103.0,796,25.0
-384096,2020-07-30,Pennington,Minnesota,27113.0,69,1.0
-385207,2020-07-30,Pennington,South Dakota,46103.0,804,25.0
-387314,2020-07-31,Pennington,Minnesota,27113.0,70,1.0
-388424,2020-07-31,Pennington,South Dakota,46103.0,811,26.0
-390531,2020-08-01,Pennington,Minnesota,27113.0,70,1.0
-391641,2020-08-01,Pennington,South Dakota,46103.0,818,28.0
-393748,2020-08-02,Pennington,Minnesota,27113.0,70,1.0
-394857,2020-08-02,Pennington,South Dakota,46103.0,826,28.0
-396964,2020-08-03,Pennington,Minnesota,27113.0,72,1.0
-398074,2020-08-03,Pennington,South Dakota,46103.0,845,28.0
-400178,2020-08-04,Pennington,Minnesota,27113.0,73,1.0
-401289,2020-08-04,Pennington,South Dakota,46103.0,848,28.0
-403395,2020-08-05,Pennington,Minnesota,27113.0,73,1.0
-404507,2020-08-05,Pennington,South Dakota,46103.0,858,28.0
-406613,2020-08-06,Pennington,Minnesota,27113.0,73,1.0
-407727,2020-08-06,Pennington,South Dakota,46103.0,863,30.0
-409833,2020-08-07,Pennington,Minnesota,27113.0,73,1.0
-410946,2020-08-07,Pennington,South Dakota,46103.0,875,30.0
-413053,2020-08-08,Pennington,Minnesota,27113.0,75,1.0
-414166,2020-08-08,Pennington,South Dakota,46103.0,881,32.0
-416273,2020-08-09,Pennington,Minnesota,27113.0,75,1.0
-417387,2020-08-09,Pennington,South Dakota,46103.0,891,32.0
-419494,2020-08-10,Pennington,Minnesota,27113.0,75,1.0
-420608,2020-08-10,Pennington,South Dakota,46103.0,896,32.0
-422716,2020-08-11,Pennington,Minnesota,27113.0,75,1.0
-423830,2020-08-11,Pennington,South Dakota,46103.0,898,32.0
-425938,2020-08-12,Pennington,Minnesota,27113.0,75,1.0
-427053,2020-08-12,Pennington,South Dakota,46103.0,910,32.0
-429162,2020-08-13,Pennington,Minnesota,27113.0,75,1.0
-430280,2020-08-13,Pennington,South Dakota,46103.0,915,32.0
-432389,2020-08-14,Pennington,Minnesota,27113.0,75,1.0
-433505,2020-08-14,Pennington,South Dakota,46103.0,924,33.0
-435615,2020-08-15,Pennington,Minnesota,27113.0,75,1.0
-436732,2020-08-15,Pennington,South Dakota,46103.0,930,33.0
-438840,2020-08-16,Pennington,Minnesota,27113.0,75,1.0
-439957,2020-08-16,Pennington,South Dakota,46103.0,942,33.0
-442067,2020-08-17,Pennington,Minnesota,27113.0,75,1.0
-443184,2020-08-17,Pennington,South Dakota,46103.0,951,33.0
-445293,2020-08-18,Pennington,Minnesota,27113.0,75,1.0
-446410,2020-08-18,Pennington,South Dakota,46103.0,958,33.0
-448519,2020-08-19,Pennington,Minnesota,27113.0,74,1.0
-449638,2020-08-19,Pennington,South Dakota,46103.0,962,33.0
-451747,2020-08-20,Pennington,Minnesota,27113.0,74,1.0
-452866,2020-08-20,Pennington,South Dakota,46103.0,975,33.0
-454975,2020-08-21,Pennington,Minnesota,27113.0,74,1.0
-456094,2020-08-21,Pennington,South Dakota,46103.0,994,33.0
-458203,2020-08-22,Pennington,Minnesota,27113.0,74,1.0
-459322,2020-08-22,Pennington,South Dakota,46103.0,1028,33.0
-461430,2020-08-23,Pennington,Minnesota,27113.0,76,1.0
-462550,2020-08-23,Pennington,South Dakota,46103.0,1042,33.0
-464661,2020-08-24,Pennington,Minnesota,27113.0,76,1.0
-465779,2020-08-24,Pennington,South Dakota,46103.0,1070,33.0
-467890,2020-08-25,Pennington,Minnesota,27113.0,77,1.0
-469007,2020-08-25,Pennington,South Dakota,46103.0,1082,33.0
-471120,2020-08-26,Pennington,Minnesota,27113.0,77,1.0
-472239,2020-08-26,Pennington,South Dakota,46103.0,1091,33.0
-474352,2020-08-27,Pennington,Minnesota,27113.0,80,1.0
-475473,2020-08-27,Pennington,South Dakota,46103.0,1211,33.0
-477585,2020-08-28,Pennington,Minnesota,27113.0,81,1.0
-478706,2020-08-28,Pennington,South Dakota,46103.0,1284,33.0
-480817,2020-08-29,Pennington,Minnesota,27113.0,86,1.0
-481940,2020-08-29,Pennington,South Dakota,46103.0,1337,33.0
-484052,2020-08-30,Pennington,Minnesota,27113.0,87,1.0
-485175,2020-08-30,Pennington,South Dakota,46103.0,1406,33.0
-487286,2020-08-31,Pennington,Minnesota,27113.0,88,1.0
-488408,2020-08-31,Pennington,South Dakota,46103.0,1432,33.0
-490519,2020-09-01,Pennington,Minnesota,27113.0,91,1.0
-491641,2020-09-01,Pennington,South Dakota,46103.0,1448,33.0
-493753,2020-09-02,Pennington,Minnesota,27113.0,94,1.0
-494875,2020-09-02,Pennington,South Dakota,46103.0,1475,33.0
-496986,2020-09-03,Pennington,Minnesota,27113.0,96,1.0
-498108,2020-09-03,Pennington,South Dakota,46103.0,1536,33.0
-500220,2020-09-04,Pennington,Minnesota,27113.0,98,1.0
-501342,2020-09-04,Pennington,South Dakota,46103.0,1560,33.0
-503454,2020-09-05,Pennington,Minnesota,27113.0,100,1.0
-504576,2020-09-05,Pennington,South Dakota,46103.0,1598,33.0
-506687,2020-09-06,Pennington,Minnesota,27113.0,101,1.0
-507808,2020-09-06,Pennington,South Dakota,46103.0,1617,33.0
-509920,2020-09-07,Pennington,Minnesota,27113.0,103,1.0
-511041,2020-09-07,Pennington,South Dakota,46103.0,1635,33.0
-513152,2020-09-08,Pennington,Minnesota,27113.0,102,1.0
-514274,2020-09-08,Pennington,South Dakota,46103.0,1642,33.0
-516386,2020-09-09,Pennington,Minnesota,27113.0,102,1.0
-517509,2020-09-09,Pennington,South Dakota,46103.0,1666,33.0
-519621,2020-09-10,Pennington,Minnesota,27113.0,102,1.0
-520745,2020-09-10,Pennington,South Dakota,46103.0,1701,33.0
-522858,2020-09-11,Pennington,Minnesota,27113.0,102,1.0
-523981,2020-09-11,Pennington,South Dakota,46103.0,1731,33.0
-526094,2020-09-12,Pennington,Minnesota,27113.0,102,1.0
-527217,2020-09-12,Pennington,South Dakota,46103.0,1766,33.0
-529330,2020-09-13,Pennington,Minnesota,27113.0,103,1.0
-530454,2020-09-13,Pennington,South Dakota,46103.0,1795,33.0
-532566,2020-09-14,Pennington,Minnesota,27113.0,104,1.0
-533689,2020-09-14,Pennington,South Dakota,46103.0,1814,33.0
-535801,2020-09-15,Pennington,Minnesota,27113.0,104,1.0
-536925,2020-09-15,Pennington,South Dakota,46103.0,1841,33.0
-539038,2020-09-16,Pennington,Minnesota,27113.0,105,1.0
-540162,2020-09-16,Pennington,South Dakota,46103.0,1862,34.0
-542274,2020-09-17,Pennington,Minnesota,27113.0,107,1.0
-543398,2020-09-17,Pennington,South Dakota,46103.0,1897,34.0
-545511,2020-09-18,Pennington,Minnesota,27113.0,108,1.0
-546635,2020-09-18,Pennington,South Dakota,46103.0,1926,34.0
-548749,2020-09-19,Pennington,Minnesota,27113.0,108,1.0
-549874,2020-09-19,Pennington,South Dakota,46103.0,1960,35.0
-551988,2020-09-20,Pennington,Minnesota,27113.0,112,1.0
-553113,2020-09-20,Pennington,South Dakota,46103.0,1984,35.0
-555226,2020-09-21,Pennington,Minnesota,27113.0,112,1.0
-556350,2020-09-21,Pennington,South Dakota,46103.0,2004,35.0
-558463,2020-09-22,Pennington,Minnesota,27113.0,113,1.0
-559587,2020-09-22,Pennington,South Dakota,46103.0,2041,35.0
-561700,2020-09-23,Pennington,Minnesota,27113.0,115,1.0
-562824,2020-09-23,Pennington,South Dakota,46103.0,2091,35.0
-564940,2020-09-24,Pennington,Minnesota,27113.0,116,1.0
-566065,2020-09-24,Pennington,South Dakota,46103.0,2142,36.0
-568180,2020-09-25,Pennington,Minnesota,27113.0,117,1.0
-569306,2020-09-25,Pennington,South Dakota,46103.0,2198,36.0
-571422,2020-09-26,Pennington,Minnesota,27113.0,119,1.0
-572548,2020-09-26,Pennington,South Dakota,46103.0,2249,37.0
-574665,2020-09-27,Pennington,Minnesota,27113.0,120,1.0
-575792,2020-09-27,Pennington,South Dakota,46103.0,2311,37.0
-577906,2020-09-28,Pennington,Minnesota,27113.0,120,1.0
-579033,2020-09-28,Pennington,South Dakota,46103.0,2328,37.0
-581147,2020-09-29,Pennington,Minnesota,27113.0,120,1.0
-582273,2020-09-29,Pennington,South Dakota,46103.0,2365,37.0
-584388,2020-09-30,Pennington,Minnesota,27113.0,120,1.0
-585513,2020-09-30,Pennington,South Dakota,46103.0,2405,37.0
-587628,2020-10-01,Pennington,Minnesota,27113.0,120,1.0
-588753,2020-10-01,Pennington,South Dakota,46103.0,2479,37.0
-590869,2020-10-02,Pennington,Minnesota,27113.0,123,1.0
-591994,2020-10-02,Pennington,South Dakota,46103.0,2516,37.0
-594110,2020-10-03,Pennington,Minnesota,27113.0,129,1.0
-595235,2020-10-03,Pennington,South Dakota,46103.0,2568,37.0
-597351,2020-10-04,Pennington,Minnesota,27113.0,136,1.0
-598478,2020-10-04,Pennington,South Dakota,46103.0,2607,37.0
-600594,2020-10-05,Pennington,Minnesota,27113.0,136,1.0
-601721,2020-10-05,Pennington,South Dakota,46103.0,2623,37.0
-603836,2020-10-06,Pennington,Minnesota,27113.0,136,1.0
-604963,2020-10-06,Pennington,South Dakota,46103.0,2667,37.0
-607079,2020-10-07,Pennington,Minnesota,27113.0,138,1.0
-608206,2020-10-07,Pennington,South Dakota,46103.0,2864,38.0
-610321,2020-10-08,Pennington,Minnesota,27113.0,140,1.0
-611448,2020-10-08,Pennington,South Dakota,46103.0,2921,38.0
-613563,2020-10-09,Pennington,Minnesota,27113.0,140,1.0
-614689,2020-10-09,Pennington,South Dakota,46103.0,3001,38.0
-616804,2020-10-10,Pennington,Minnesota,27113.0,142,1.0
-617931,2020-10-10,Pennington,South Dakota,46103.0,3063,40.0
-620046,2020-10-11,Pennington,Minnesota,27113.0,144,1.0
-621174,2020-10-11,Pennington,South Dakota,46103.0,3121,40.0
-623289,2020-10-12,Pennington,Minnesota,27113.0,145,1.0
-624417,2020-10-12,Pennington,South Dakota,46103.0,3177,40.0
-626531,2020-10-13,Pennington,Minnesota,27113.0,145,1.0
-627659,2020-10-13,Pennington,South Dakota,46103.0,3207,40.0
-629775,2020-10-14,Pennington,Minnesota,27113.0,150,1.0
-630903,2020-10-14,Pennington,South Dakota,46103.0,3292,41.0
-633020,2020-10-15,Pennington,Minnesota,27113.0,151,1.0
-634148,2020-10-15,Pennington,South Dakota,46103.0,3378,42.0
-636266,2020-10-16,Pennington,Minnesota,27113.0,153,1.0
-637394,2020-10-16,Pennington,South Dakota,46103.0,3468,42.0
-639512,2020-10-17,Pennington,Minnesota,27113.0,157,1.0
-640640,2020-10-17,Pennington,South Dakota,46103.0,3504,42.0
-642759,2020-10-18,Pennington,Minnesota,27113.0,162,1.0
-643888,2020-10-18,Pennington,South Dakota,46103.0,3554,43.0
-646006,2020-10-19,Pennington,Minnesota,27113.0,163,1.0
-647134,2020-10-19,Pennington,South Dakota,46103.0,3591,43.0
-649250,2020-10-20,Pennington,Minnesota,27113.0,165,1.0
-650378,2020-10-20,Pennington,South Dakota,46103.0,3687,44.0
-652495,2020-10-21,Pennington,Minnesota,27113.0,170,1.0
-653623,2020-10-21,Pennington,South Dakota,46103.0,3742,44.0
-655740,2020-10-22,Pennington,Minnesota,27113.0,171,1.0
-656868,2020-10-22,Pennington,South Dakota,46103.0,3835,46.0
-658985,2020-10-23,Pennington,Minnesota,27113.0,174,1.0
-660112,2020-10-23,Pennington,South Dakota,46103.0,3909,48.0
-662229,2020-10-24,Pennington,Minnesota,27113.0,185,1.0
-663356,2020-10-24,Pennington,South Dakota,46103.0,4042,48.0
-665474,2020-10-25,Pennington,Minnesota,27113.0,191,1.0
-666601,2020-10-25,Pennington,South Dakota,46103.0,4136,48.0
-668718,2020-10-26,Pennington,Minnesota,27113.0,195,1.0
-669845,2020-10-26,Pennington,South Dakota,46103.0,4183,48.0
-671960,2020-10-27,Pennington,Minnesota,27113.0,207,1.0
-673087,2020-10-27,Pennington,South Dakota,46103.0,4239,48.0
-675203,2020-10-28,Pennington,Minnesota,27113.0,209,1.0
-676330,2020-10-28,Pennington,South Dakota,46103.0,4381,48.0
-678445,2020-10-29,Pennington,Minnesota,27113.0,218,1.0
-679573,2020-10-29,Pennington,South Dakota,46103.0,4466,48.0
-681689,2020-10-30,Pennington,Minnesota,27113.0,222,1.0
-682816,2020-10-30,Pennington,South Dakota,46103.0,4633,48.0
-684932,2020-10-31,Pennington,Minnesota,27113.0,227,1.0
-686059,2020-10-31,Pennington,South Dakota,46103.0,4787,48.0
-688176,2020-11-01,Pennington,Minnesota,27113.0,235,2.0
-689304,2020-11-01,Pennington,South Dakota,46103.0,4914,48.0
-691421,2020-11-02,Pennington,Minnesota,27113.0,238,2.0
-692548,2020-11-02,Pennington,South Dakota,46103.0,4948,48.0
-694663,2020-11-03,Pennington,Minnesota,27113.0,240,2.0
-695790,2020-11-03,Pennington,South Dakota,46103.0,5049,48.0
-697906,2020-11-04,Pennington,Minnesota,27113.0,246,2.0
-699033,2020-11-04,Pennington,South Dakota,46103.0,5181,50.0
-701150,2020-11-05,Pennington,Minnesota,27113.0,254,2.0
-702277,2020-11-05,Pennington,South Dakota,46103.0,5377,50.0
-704392,2020-11-06,Pennington,Minnesota,27113.0,261,2.0
-705520,2020-11-06,Pennington,South Dakota,46103.0,5475,50.0
-707635,2020-11-07,Pennington,Minnesota,27113.0,269,2.0
-708763,2020-11-07,Pennington,South Dakota,46103.0,5639,50.0
-710879,2020-11-08,Pennington,Minnesota,27113.0,278,2.0
-712007,2020-11-08,Pennington,South Dakota,46103.0,5767,50.0
-714123,2020-11-09,Pennington,Minnesota,27113.0,288,2.0
-715251,2020-11-09,Pennington,South Dakota,46103.0,5856,50.0
-717367,2020-11-10,Pennington,Minnesota,27113.0,296,2.0
-718494,2020-11-10,Pennington,South Dakota,46103.0,5981,51.0
-720610,2020-11-11,Pennington,Minnesota,27113.0,312,2.0
-721737,2020-11-11,Pennington,South Dakota,46103.0,6175,55.0
-723853,2020-11-12,Pennington,Minnesota,27113.0,331,2.0
-724980,2020-11-12,Pennington,South Dakota,46103.0,6519,55.0
-727096,2020-11-13,Pennington,Minnesota,27113.0,358,2.0
-728224,2020-11-13,Pennington,South Dakota,46103.0,6647,55.0
-730339,2020-11-14,Pennington,Minnesota,27113.0,375,3.0
-731468,2020-11-14,Pennington,South Dakota,46103.0,6847,59.0
-733584,2020-11-15,Pennington,Minnesota,27113.0,388,4.0
-734714,2020-11-15,Pennington,South Dakota,46103.0,6993,59.0
-736830,2020-11-16,Pennington,Minnesota,27113.0,411,4.0
-737958,2020-11-16,Pennington,South Dakota,46103.0,7077,59.0
-740074,2020-11-17,Pennington,Minnesota,27113.0,427,4.0
-741204,2020-11-17,Pennington,South Dakota,46103.0,7159,59.0
-743321,2020-11-18,Pennington,Minnesota,27113.0,439,4.0
-744451,2020-11-18,Pennington,South Dakota,46103.0,7385,60.0
-746568,2020-11-19,Pennington,Minnesota,27113.0,451,4.0
-747697,2020-11-19,Pennington,South Dakota,46103.0,7469,60.0
-749814,2020-11-20,Pennington,Minnesota,27113.0,466,4.0
-750943,2020-11-20,Pennington,South Dakota,46103.0,7608,60.0
-753060,2020-11-21,Pennington,Minnesota,27113.0,480,6.0
-754189,2020-11-21,Pennington,South Dakota,46103.0,7679,65.0
-756306,2020-11-22,Pennington,Minnesota,27113.0,507,6.0
-757436,2020-11-22,Pennington,South Dakota,46103.0,7764,66.0
-759553,2020-11-23,Pennington,Minnesota,27113.0,535,6.0
-760681,2020-11-23,Pennington,South Dakota,46103.0,7843,66.0
-762798,2020-11-24,Pennington,Minnesota,27113.0,557,6.0
-763926,2020-11-24,Pennington,South Dakota,46103.0,7960,67.0
-766043,2020-11-25,Pennington,Minnesota,27113.0,585,6.0
-767171,2020-11-25,Pennington,South Dakota,46103.0,8122,70.0
-769289,2020-11-26,Pennington,Minnesota,27113.0,585,6.0
-770417,2020-11-26,Pennington,South Dakota,46103.0,8122,70.0
-772534,2020-11-27,Pennington,Minnesota,27113.0,613,7.0
-773662,2020-11-27,Pennington,South Dakota,46103.0,8375,72.0
-775779,2020-11-28,Pennington,Minnesota,27113.0,627,7.0
-776907,2020-11-28,Pennington,South Dakota,46103.0,8465,76.0
-779024,2020-11-29,Pennington,Minnesota,27113.0,647,8.0
-780153,2020-11-29,Pennington,South Dakota,46103.0,8604,76.0
-782270,2020-11-30,Pennington,Minnesota,27113.0,663,8.0
-783398,2020-11-30,Pennington,South Dakota,46103.0,8670,76.0
-785514,2020-12-01,Pennington,Minnesota,27113.0,669,8.0
-786642,2020-12-01,Pennington,South Dakota,46103.0,8733,77.0
-788759,2020-12-02,Pennington,Minnesota,27113.0,675,8.0
-789887,2020-12-02,Pennington,South Dakota,46103.0,8912,78.0
-792004,2020-12-03,Pennington,Minnesota,27113.0,705,8.0
-793132,2020-12-03,Pennington,South Dakota,46103.0,9036,78.0
-795249,2020-12-04,Pennington,Minnesota,27113.0,733,9.0
-796377,2020-12-04,Pennington,South Dakota,46103.0,9153,79.0
-798494,2020-12-05,Pennington,Minnesota,27113.0,765,9.0
-799622,2020-12-05,Pennington,South Dakota,46103.0,9278,83.0
-801739,2020-12-06,Pennington,Minnesota,27113.0,782,9.0
-802867,2020-12-06,Pennington,South Dakota,46103.0,9349,89.0
-804984,2020-12-07,Pennington,Minnesota,27113.0,793,9.0
-806112,2020-12-07,Pennington,South Dakota,46103.0,9407,89.0
-808229,2020-12-08,Pennington,Minnesota,27113.0,800,9.0
-809357,2020-12-08,Pennington,South Dakota,46103.0,9447,89.0
-811474,2020-12-09,Pennington,Minnesota,27113.0,799,9.0
-812601,2020-12-09,Pennington,South Dakota,46103.0,9608,94.0
-814719,2020-12-10,Pennington,Minnesota,27113.0,811,9.0
-815847,2020-12-10,Pennington,South Dakota,46103.0,9703,97.0
-817965,2020-12-11,Pennington,Minnesota,27113.0,819,9.0
-819093,2020-12-11,Pennington,South Dakota,46103.0,9817,106.0
-821211,2020-12-12,Pennington,Minnesota,27113.0,823,9.0
-822339,2020-12-12,Pennington,South Dakota,46103.0,9943,111.0
-824457,2020-12-13,Pennington,Minnesota,27113.0,830,10.0
-825586,2020-12-13,Pennington,South Dakota,46103.0,10006,115.0
-827704,2020-12-14,Pennington,Minnesota,27113.0,832,10.0
-828832,2020-12-14,Pennington,South Dakota,46103.0,10062,115.0
-830950,2020-12-15,Pennington,Minnesota,27113.0,842,10.0
-832079,2020-12-15,Pennington,South Dakota,46103.0,10093,116.0
-834197,2020-12-16,Pennington,Minnesota,27113.0,848,11.0
-835325,2020-12-16,Pennington,South Dakota,46103.0,10218,119.0
-837443,2020-12-17,Pennington,Minnesota,27113.0,847,12.0
-838571,2020-12-17,Pennington,South Dakota,46103.0,10295,119.0
-840688,2020-12-18,Pennington,Minnesota,27113.0,863,12.0
-841816,2020-12-18,Pennington,South Dakota,46103.0,10379,123.0
-843933,2020-12-19,Pennington,Minnesota,27113.0,865,12.0
-845062,2020-12-19,Pennington,South Dakota,46103.0,10454,122.0
-847179,2020-12-20,Pennington,Minnesota,27113.0,865,12.0
-848307,2020-12-20,Pennington,South Dakota,46103.0,10505,122.0
-850424,2020-12-21,Pennington,Minnesota,27113.0,867,12.0
-851552,2020-12-21,Pennington,South Dakota,46103.0,10543,122.0
-853669,2020-12-22,Pennington,Minnesota,27113.0,871,12.0
-854797,2020-12-22,Pennington,South Dakota,46103.0,10613,122.0
-856914,2020-12-23,Pennington,Minnesota,27113.0,873,13.0
-858042,2020-12-23,Pennington,South Dakota,46103.0,10728,123.0
-860159,2020-12-24,Pennington,Minnesota,27113.0,875,14.0
-861287,2020-12-24,Pennington,South Dakota,46103.0,10802,126.0
-863404,2020-12-25,Pennington,Minnesota,27113.0,875,14.0
-864532,2020-12-25,Pennington,South Dakota,46103.0,10802,126.0
-866649,2020-12-26,Pennington,Minnesota,27113.0,878,14.0
-867777,2020-12-26,Pennington,South Dakota,46103.0,10862,127.0
-869894,2020-12-27,Pennington,Minnesota,27113.0,882,14.0
-871022,2020-12-27,Pennington,South Dakota,46103.0,10909,127.0
-873139,2020-12-28,Pennington,Minnesota,27113.0,882,14.0
-874267,2020-12-28,Pennington,South Dakota,46103.0,10950,127.0
-876384,2020-12-29,Pennington,Minnesota,27113.0,895,14.0
-877512,2020-12-29,Pennington,South Dakota,46103.0,11029,127.0
-879629,2020-12-30,Pennington,Minnesota,27113.0,900,14.0
-880757,2020-12-30,Pennington,South Dakota,46103.0,11117,128.0
-882874,2020-12-31,Pennington,Minnesota,27113.0,905,14.0
-884002,2020-12-31,Pennington,South Dakota,46103.0,11197,130.0
-886119,2021-01-01,Pennington,Minnesota,27113.0,905,14.0
-887247,2021-01-01,Pennington,South Dakota,46103.0,11197,130.0
-889365,2021-01-02,Pennington,Minnesota,27113.0,906,14.0
-890494,2021-01-02,Pennington,South Dakota,46103.0,11347,133.0
-892611,2021-01-03,Pennington,Minnesota,27113.0,908,14.0
-893740,2021-01-03,Pennington,South Dakota,46103.0,11432,133.0
-895858,2021-01-04,Pennington,Minnesota,27113.0,911,14.0
-896986,2021-01-04,Pennington,South Dakota,46103.0,11457,133.0
-899103,2021-01-05,Pennington,Minnesota,27113.0,914,14.0
-900231,2021-01-05,Pennington,South Dakota,46103.0,11520,133.0
-902348,2021-01-06,Pennington,Minnesota,27113.0,915,14.0
-903476,2021-01-06,Pennington,South Dakota,46103.0,11614,135.0
-905593,2021-01-07,Pennington,Minnesota,27113.0,919,14.0
-906722,2021-01-07,Pennington,South Dakota,46103.0,11673,139.0
-908839,2021-01-08,Pennington,Minnesota,27113.0,921,14.0
-909967,2021-01-08,Pennington,South Dakota,46103.0,11718,141.0
-912084,2021-01-09,Pennington,Minnesota,27113.0,923,15.0
-913212,2021-01-09,Pennington,South Dakota,46103.0,11755,142.0
-915329,2021-01-10,Pennington,Minnesota,27113.0,927,15.0
-916457,2021-01-10,Pennington,South Dakota,46103.0,11797,143.0
-918574,2021-01-11,Pennington,Minnesota,27113.0,932,15.0
-919702,2021-01-11,Pennington,South Dakota,46103.0,11811,143.0
-921819,2021-01-12,Pennington,Minnesota,27113.0,939,15.0
-922947,2021-01-12,Pennington,South Dakota,46103.0,11838,143.0
-925064,2021-01-13,Pennington,Minnesota,27113.0,948,15.0
-926193,2021-01-13,Pennington,South Dakota,46103.0,11881,148.0
-928310,2021-01-14,Pennington,Minnesota,27113.0,959,15.0
-929438,2021-01-14,Pennington,South Dakota,46103.0,11931,150.0
-931555,2021-01-15,Pennington,Minnesota,27113.0,967,15.0
-932683,2021-01-15,Pennington,South Dakota,46103.0,11982,151.0
-934800,2021-01-16,Pennington,Minnesota,27113.0,977,15.0
-935928,2021-01-16,Pennington,South Dakota,46103.0,12015,151.0
-938045,2021-01-17,Pennington,Minnesota,27113.0,988,15.0
-939173,2021-01-17,Pennington,South Dakota,46103.0,12043,157.0
-941290,2021-01-18,Pennington,Minnesota,27113.0,992,15.0
-942418,2021-01-18,Pennington,South Dakota,46103.0,12057,160.0
-944535,2021-01-19,Pennington,Minnesota,27113.0,992,15.0
-945665,2021-01-19,Pennington,South Dakota,46103.0,12068,160.0
-947782,2021-01-20,Pennington,Minnesota,27113.0,997,15.0
-948911,2021-01-20,Pennington,South Dakota,46103.0,12115,160.0
-951028,2021-01-21,Pennington,Minnesota,27113.0,1003,15.0
-952156,2021-01-21,Pennington,South Dakota,46103.0,12139,162.0
-954273,2021-01-22,Pennington,Minnesota,27113.0,1007,16.0
-955401,2021-01-22,Pennington,South Dakota,46103.0,12181,164.0
-957518,2021-01-23,Pennington,Minnesota,27113.0,1010,16.0
-958647,2021-01-23,Pennington,South Dakota,46103.0,12206,165.0
-960764,2021-01-24,Pennington,Minnesota,27113.0,1010,16.0
-961892,2021-01-24,Pennington,South Dakota,46103.0,12241,165.0
-964009,2021-01-25,Pennington,Minnesota,27113.0,1010,16.0
-965137,2021-01-25,Pennington,South Dakota,46103.0,12248,165.0
-967253,2021-01-26,Pennington,Minnesota,27113.0,1013,16.0
-968381,2021-01-26,Pennington,South Dakota,46103.0,12271,165.0
-970498,2021-01-27,Pennington,Minnesota,27113.0,1012,16.0
-971626,2021-01-27,Pennington,South Dakota,46103.0,12295,166.0
-973743,2021-01-28,Pennington,Minnesota,27113.0,1015,16.0
-974871,2021-01-28,Pennington,South Dakota,46103.0,12310,167.0
-976988,2021-01-29,Pennington,Minnesota,27113.0,1015,16.0
-978116,2021-01-29,Pennington,South Dakota,46103.0,12335,167.0
-980234,2021-01-30,Pennington,Minnesota,27113.0,1016,16.0
-981362,2021-01-30,Pennington,South Dakota,46103.0,12353,168.0
-983480,2021-01-31,Pennington,Minnesota,27113.0,1016,16.0
-984609,2021-01-31,Pennington,South Dakota,46103.0,12370,170.0
-986727,2021-02-01,Pennington,Minnesota,27113.0,1017,16.0
-987856,2021-02-01,Pennington,South Dakota,46103.0,12379,170.0
-989974,2021-02-02,Pennington,Minnesota,27113.0,1017,16.0
-991102,2021-02-02,Pennington,South Dakota,46103.0,12395,170.0
-993220,2021-02-03,Pennington,Minnesota,27113.0,1019,16.0
-994348,2021-02-03,Pennington,South Dakota,46103.0,12424,170.0
-996466,2021-02-04,Pennington,Minnesota,27113.0,1023,16.0
-997594,2021-02-04,Pennington,South Dakota,46103.0,12444,171.0
-999712,2021-02-05,Pennington,Minnesota,27113.0,1035,16.0
-1000840,2021-02-05,Pennington,South Dakota,46103.0,12464,174.0
-1002957,2021-02-06,Pennington,Minnesota,27113.0,1049,16.0
-1004086,2021-02-06,Pennington,South Dakota,46103.0,12483,174.0
-1006203,2021-02-07,Pennington,Minnesota,27113.0,1057,16.0
-1007332,2021-02-07,Pennington,South Dakota,46103.0,12494,176.0
-1009450,2021-02-08,Pennington,Minnesota,27113.0,1060,16.0
-1010578,2021-02-08,Pennington,South Dakota,46103.0,12501,176.0
-1012695,2021-02-09,Pennington,Minnesota,27113.0,1063,16.0
-1013823,2021-02-09,Pennington,South Dakota,46103.0,12521,176.0
-1015940,2021-02-10,Pennington,Minnesota,27113.0,1081,16.0
-1017068,2021-02-10,Pennington,South Dakota,46103.0,12532,177.0
-1019185,2021-02-11,Pennington,Minnesota,27113.0,1103,16.0
-1020313,2021-02-11,Pennington,South Dakota,46103.0,12559,180.0
-1022430,2021-02-12,Pennington,Minnesota,27113.0,1123,16.0
-1023558,2021-02-12,Pennington,South Dakota,46103.0,12580,181.0
-1025675,2021-02-13,Pennington,Minnesota,27113.0,1150,16.0
-1026803,2021-02-13,Pennington,South Dakota,46103.0,12601,182.0
-1028921,2021-02-14,Pennington,Minnesota,27113.0,1157,16.0
-1030050,2021-02-14,Pennington,South Dakota,46103.0,12616,183.0
-1032168,2021-02-15,Pennington,Minnesota,27113.0,1163,16.0
-1033296,2021-02-15,Pennington,South Dakota,46103.0,12629,183.0
-1035413,2021-02-16,Pennington,Minnesota,27113.0,1164,16.0
-1036541,2021-02-16,Pennington,South Dakota,46103.0,12653,183.0
-1038658,2021-02-17,Pennington,Minnesota,27113.0,1190,16.0
-1039786,2021-02-17,Pennington,South Dakota,46103.0,12669,183.0
-1041903,2021-02-18,Pennington,Minnesota,27113.0,1202,16.0
-1043031,2021-02-18,Pennington,South Dakota,46103.0,12691,183.0
-1045148,2021-02-19,Pennington,Minnesota,27113.0,1229,16.0
-1046276,2021-02-19,Pennington,South Dakota,46103.0,12709,184.0
-1048394,2021-02-20,Pennington,Minnesota,27113.0,1237,16.0
-1049523,2021-02-20,Pennington,South Dakota,46103.0,12727,184.0
-1051641,2021-02-21,Pennington,Minnesota,27113.0,1245,16.0
-1052770,2021-02-21,Pennington,South Dakota,46103.0,12746,184.0
-1054888,2021-02-22,Pennington,Minnesota,27113.0,1255,16.0
-1056016,2021-02-22,Pennington,South Dakota,46103.0,12754,184.0
-1058134,2021-02-23,Pennington,Minnesota,27113.0,1257,16.0
-1059262,2021-02-23,Pennington,South Dakota,46103.0,12787,184.0
-1061380,2021-02-24,Pennington,Minnesota,27113.0,1270,16.0
-1062507,2021-02-24,Pennington,South Dakota,46103.0,12827,184.0
-1064624,2021-02-25,Pennington,Minnesota,27113.0,1278,16.0
-1065752,2021-02-25,Pennington,South Dakota,46103.0,12860,184.0
-1067869,2021-02-26,Pennington,Minnesota,27113.0,1288,16.0
-1068997,2021-02-26,Pennington,South Dakota,46103.0,12871,184.0
-1071114,2021-02-27,Pennington,Minnesota,27113.0,1318,16.0
-1072243,2021-02-27,Pennington,South Dakota,46103.0,12890,187.0
-1074360,2021-02-28,Pennington,Minnesota,27113.0,1332,16.0
-1075489,2021-02-28,Pennington,South Dakota,46103.0,12903,188.0
-1077606,2021-03-01,Pennington,Minnesota,27113.0,1341,16.0
-1078734,2021-03-01,Pennington,South Dakota,46103.0,12908,188.0
-1080852,2021-03-02,Pennington,Minnesota,27113.0,1344,16.0
-1081980,2021-03-02,Pennington,South Dakota,46103.0,12918,188.0
-1084098,2021-03-03,Pennington,Minnesota,27113.0,1363,16.0
-1085226,2021-03-03,Pennington,South Dakota,46103.0,12938,188.0
-1087343,2021-03-04,Pennington,Minnesota,27113.0,1370,16.0
-1088471,2021-03-04,Pennington,South Dakota,46103.0,12962,188.0
-1090588,2021-03-05,Pennington,Minnesota,27113.0,1377,16.0
-1091717,2021-03-05,Pennington,South Dakota,46103.0,12974,188.0
-1093834,2021-03-06,Pennington,Minnesota,27113.0,1387,16.0
-1094963,2021-03-06,Pennington,South Dakota,46103.0,12980,188.0
-1097081,2021-03-07,Pennington,Minnesota,27113.0,1398,16.0
-1098211,2021-03-07,Pennington,South Dakota,46103.0,12994,188.0
-1100328,2021-03-08,Pennington,Minnesota,27113.0,1398,16.0
-1101457,2021-03-08,Pennington,South Dakota,46103.0,12992,188.0
-1103574,2021-03-09,Pennington,Minnesota,27113.0,1398,16.0
-1104703,2021-03-09,Pennington,South Dakota,46103.0,13005,188.0
-1106820,2021-03-10,Pennington,Minnesota,27113.0,1409,16.0
-1107949,2021-03-10,Pennington,South Dakota,46103.0,13026,188.0
-1110066,2021-03-11,Pennington,Minnesota,27113.0,1410,16.0
-1111195,2021-03-11,Pennington,South Dakota,46103.0,13036,188.0
-1113312,2021-03-12,Pennington,Minnesota,27113.0,1432,17.0
-1114441,2021-03-12,Pennington,South Dakota,46103.0,13051,187.0
-1116558,2021-03-13,Pennington,Minnesota,27113.0,1435,17.0
-1117688,2021-03-13,Pennington,South Dakota,46103.0,13067,188.0
-1119805,2021-03-14,Pennington,Minnesota,27113.0,1440,18.0
-1120935,2021-03-14,Pennington,South Dakota,46103.0,13070,189.0
-1123052,2021-03-15,Pennington,Minnesota,27113.0,1440,18.0
-1124181,2021-03-15,Pennington,South Dakota,46103.0,13072,189.0
-1126298,2021-03-16,Pennington,Minnesota,27113.0,1445,18.0
-1127427,2021-03-16,Pennington,South Dakota,46103.0,13079,189.0
-1129545,2021-03-17,Pennington,Minnesota,27113.0,1445,18.0
-1130674,2021-03-17,Pennington,South Dakota,46103.0,13092,189.0
-1132793,2021-03-18,Pennington,Minnesota,27113.0,1448,18.0
-1133922,2021-03-18,Pennington,South Dakota,46103.0,13108,190.0
-1136039,2021-03-19,Pennington,Minnesota,27113.0,1450,18.0
-1137168,2021-03-19,Pennington,South Dakota,46103.0,13148,190.0
-1139285,2021-03-20,Pennington,Minnesota,27113.0,1458,18.0
-1140414,2021-03-20,Pennington,South Dakota,46103.0,13162,190.0
-1142532,2021-03-21,Pennington,Minnesota,27113.0,1459,18.0
-1143661,2021-03-21,Pennington,South Dakota,46103.0,13168,190.0
-1145779,2021-03-22,Pennington,Minnesota,27113.0,1464,18.0
-1146908,2021-03-22,Pennington,South Dakota,46103.0,13174,190.0
-1149026,2021-03-23,Pennington,Minnesota,27113.0,1464,18.0
-1150155,2021-03-23,Pennington,South Dakota,46103.0,13177,190.0
-1152273,2021-03-24,Pennington,Minnesota,27113.0,1467,18.0
-1153402,2021-03-24,Pennington,South Dakota,46103.0,13200,190.0
-1155520,2021-03-25,Pennington,Minnesota,27113.0,1469,18.0
-1156649,2021-03-25,Pennington,South Dakota,46103.0,13209,190.0
-1158767,2021-03-26,Pennington,Minnesota,27113.0,1471,18.0
-1159896,2021-03-26,Pennington,South Dakota,46103.0,13218,190.0
-1162015,2021-03-27,Pennington,Minnesota,27113.0,1472,18.0
-1163145,2021-03-27,Pennington,South Dakota,46103.0,13226,190.0
-1165263,2021-03-28,Pennington,Minnesota,27113.0,1473,18.0
-1166393,2021-03-28,Pennington,South Dakota,46103.0,13232,190.0
-1168511,2021-03-29,Pennington,Minnesota,27113.0,1474,18.0
-1169641,2021-03-29,Pennington,South Dakota,46103.0,13237,190.0
-1171759,2021-03-30,Pennington,Minnesota,27113.0,1474,18.0
-1172888,2021-03-30,Pennington,South Dakota,46103.0,13237,190.0
-1175006,2021-03-31,Pennington,Minnesota,27113.0,1476,18.0
-1176135,2021-03-31,Pennington,South Dakota,46103.0,13246,190.0
-1178253,2021-04-01,Pennington,Minnesota,27113.0,1478,18.0
-1179382,2021-04-01,Pennington,South Dakota,46103.0,13253,190.0
-1181500,2021-04-02,Pennington,Minnesota,27113.0,1478,18.0
-1182629,2021-04-02,Pennington,South Dakota,46103.0,13267,190.0
-1184746,2021-04-03,Pennington,Minnesota,27113.0,1479,18.0
-1185876,2021-04-03,Pennington,South Dakota,46103.0,13275,190.0
-1187993,2021-04-04,Pennington,Minnesota,27113.0,1479,18.0
-1189123,2021-04-04,Pennington,South Dakota,46103.0,13275,190.0
-1191241,2021-04-05,Pennington,Minnesota,27113.0,1479,18.0
-1192372,2021-04-05,Pennington,South Dakota,46103.0,13279,190.0
-1194490,2021-04-06,Pennington,Minnesota,27113.0,1480,18.0
-1195620,2021-04-06,Pennington,South Dakota,46103.0,13293,190.0
-1197739,2021-04-07,Pennington,Minnesota,27113.0,1482,18.0
-1198869,2021-04-07,Pennington,South Dakota,46103.0,13315,190.0
-1200988,2021-04-08,Pennington,Minnesota,27113.0,1484,18.0
-1202118,2021-04-08,Pennington,South Dakota,46103.0,13328,190.0
-1204236,2021-04-09,Pennington,Minnesota,27113.0,1484,19.0
-1205366,2021-04-09,Pennington,South Dakota,46103.0,13357,190.0
-1207484,2021-04-10,Pennington,Minnesota,27113.0,1484,19.0
-1208614,2021-04-10,Pennington,South Dakota,46103.0,13371,190.0
-1210733,2021-04-11,Pennington,Minnesota,27113.0,1485,19.0
-1211863,2021-04-11,Pennington,South Dakota,46103.0,13371,190.0
-1213981,2021-04-12,Pennington,Minnesota,27113.0,1487,19.0
-1215110,2021-04-12,Pennington,South Dakota,46103.0,13376,189.0
-1217228,2021-04-13,Pennington,Minnesota,27113.0,1488,19.0
-1218358,2021-04-13,Pennington,South Dakota,46103.0,13400,189.0
-1220476,2021-04-14,Pennington,Minnesota,27113.0,1490,19.0
-1221606,2021-04-14,Pennington,South Dakota,46103.0,13420,189.0
-1223723,2021-04-15,Pennington,Minnesota,27113.0,1495,19.0
-1224853,2021-04-15,Pennington,South Dakota,46103.0,13434,189.0
-1226971,2021-04-16,Pennington,Minnesota,27113.0,1506,19.0
-1228101,2021-04-16,Pennington,South Dakota,46103.0,13439,189.0
-1230219,2021-04-17,Pennington,Minnesota,27113.0,1506,19.0
-1231349,2021-04-17,Pennington,South Dakota,46103.0,13454,189.0
-1233467,2021-04-18,Pennington,Minnesota,27113.0,1510,19.0
-1234597,2021-04-18,Pennington,South Dakota,46103.0,13454,189.0
-1236714,2021-04-19,Pennington,Minnesota,27113.0,1512,19.0
-1237844,2021-04-19,Pennington,South Dakota,46103.0,13468,190.0
-1239961,2021-04-20,Pennington,Minnesota,27113.0,1512,19.0
-1241091,2021-04-20,Pennington,South Dakota,46103.0,13483,190.0
-1243208,2021-04-21,Pennington,Minnesota,27113.0,1515,19.0
-1244338,2021-04-21,Pennington,South Dakota,46103.0,13495,190.0
-1246455,2021-04-22,Pennington,Minnesota,27113.0,1519,19.0
-1247585,2021-04-22,Pennington,South Dakota,46103.0,13514,190.0
-1249702,2021-04-23,Pennington,Minnesota,27113.0,1521,19.0
-1250832,2021-04-23,Pennington,South Dakota,46103.0,13528,190.0
-1252949,2021-04-24,Pennington,Minnesota,27113.0,1523,19.0
-1254079,2021-04-24,Pennington,South Dakota,46103.0,13545,190.0
-1256196,2021-04-25,Pennington,Minnesota,27113.0,1523,19.0
-1257326,2021-04-25,Pennington,South Dakota,46103.0,13545,190.0
-1259443,2021-04-26,Pennington,Minnesota,27113.0,1524,19.0
-1260573,2021-04-26,Pennington,South Dakota,46103.0,13550,190.0
-1262690,2021-04-27,Pennington,Minnesota,27113.0,1525,19.0
-1263820,2021-04-27,Pennington,South Dakota,46103.0,13565,190.0
-1265937,2021-04-28,Pennington,Minnesota,27113.0,1529,19.0
-1267067,2021-04-28,Pennington,South Dakota,46103.0,13585,190.0
-1269184,2021-04-29,Pennington,Minnesota,27113.0,1529,19.0
-1270314,2021-04-29,Pennington,South Dakota,46103.0,13592,190.0
-1272431,2021-04-30,Pennington,Minnesota,27113.0,1530,19.0
-1273561,2021-04-30,Pennington,South Dakota,46103.0,13606,190.0
-1275678,2021-05-01,Pennington,Minnesota,27113.0,1532,19.0
-1276808,2021-05-01,Pennington,South Dakota,46103.0,13606,190.0
-1278925,2021-05-02,Pennington,Minnesota,27113.0,1532,19.0
-1280055,2021-05-02,Pennington,South Dakota,46103.0,13606,190.0
-1282172,2021-05-03,Pennington,Minnesota,27113.0,1532,19.0
-1283302,2021-05-03,Pennington,South Dakota,46103.0,13620,190.0
-1285418,2021-05-04,Pennington,Minnesota,27113.0,1532,19.0
-1286548,2021-05-04,Pennington,South Dakota,46103.0,13643,190.0
-1288664,2021-05-05,Pennington,Minnesota,27113.0,1533,19.0
-1289794,2021-05-05,Pennington,South Dakota,46103.0,13659,190.0
-1291910,2021-05-06,Pennington,Minnesota,27113.0,1533,19.0
-1293040,2021-05-06,Pennington,South Dakota,46103.0,13675,190.0
-1295156,2021-05-07,Pennington,Minnesota,27113.0,1534,19.0
-1296286,2021-05-07,Pennington,South Dakota,46103.0,13684,191.0
-1298402,2021-05-08,Pennington,Minnesota,27113.0,1535,19.0
-1299533,2021-05-08,Pennington,South Dakota,46103.0,13684,191.0
-1301650,2021-05-09,Pennington,Minnesota,27113.0,1536,19.0
-1302780,2021-05-09,Pennington,South Dakota,46103.0,13684,191.0
-1304896,2021-05-10,Pennington,Minnesota,27113.0,1536,19.0
-1306026,2021-05-10,Pennington,South Dakota,46103.0,13706,192.0
-1308142,2021-05-11,Pennington,Minnesota,27113.0,1536,19.0
-1309272,2021-05-11,Pennington,South Dakota,46103.0,13726,192.0
-1311389,2021-05-12,Pennington,Minnesota,27113.0,1536,19.0
-1312519,2021-05-12,Pennington,South Dakota,46103.0,13732,192.0
-1314635,2021-05-13,Pennington,Minnesota,27113.0,1536,19.0
-1315765,2021-05-13,Pennington,South Dakota,46103.0,13742,193.0
-1317883,2021-05-14,Pennington,Minnesota,27113.0,1536,19.0
-1319013,2021-05-14,Pennington,South Dakota,46103.0,13755,193.0
-1321129,2021-05-15,Pennington,Minnesota,27113.0,1537,19.0
-1322259,2021-05-15,Pennington,South Dakota,46103.0,13755,193.0
-1324375,2021-05-16,Pennington,Minnesota,27113.0,1537,19.0
-1325505,2021-05-16,Pennington,South Dakota,46103.0,13755,193.0
-1327621,2021-05-17,Pennington,Minnesota,27113.0,1537,19.0
-1328751,2021-05-17,Pennington,South Dakota,46103.0,13756,193.0
-1330868,2021-05-18,Pennington,Minnesota,27113.0,1537,19.0
-1331998,2021-05-18,Pennington,South Dakota,46103.0,13775,193.0
-1334115,2021-05-19,Pennington,Minnesota,27113.0,1537,19.0
-1335245,2021-05-19,Pennington,South Dakota,46103.0,13780,193.0
-1337362,2021-05-20,Pennington,Minnesota,27113.0,1538,19.0
-1338492,2021-05-20,Pennington,South Dakota,46103.0,13791,195.0
-1340609,2021-05-21,Pennington,Minnesota,27113.0,1539,19.0
-1341740,2021-05-21,Pennington,South Dakota,46103.0,13791,195.0
-1343858,2021-05-22,Pennington,Minnesota,27113.0,1539,19.0
-1344988,2021-05-22,Pennington,South Dakota,46103.0,13791,195.0
-1347106,2021-05-23,Pennington,Minnesota,27113.0,1539,19.0
-1348236,2021-05-23,Pennington,South Dakota,46103.0,13791,195.0
-1350352,2021-05-24,Pennington,Minnesota,27113.0,1539,19.0
-1351482,2021-05-24,Pennington,South Dakota,46103.0,13795,197.0
-1353598,2021-05-25,Pennington,Minnesota,27113.0,1539,19.0
-1354728,2021-05-25,Pennington,South Dakota,46103.0,13806,197.0
-1356844,2021-05-26,Pennington,Minnesota,27113.0,1539,19.0
-1357974,2021-05-26,Pennington,South Dakota,46103.0,13815,197.0
-1360090,2021-05-27,Pennington,Minnesota,27113.0,1539,19.0
-1361220,2021-05-27,Pennington,South Dakota,46103.0,13825,197.0
-1363337,2021-05-28,Pennington,Minnesota,27113.0,1539,19.0
-1364466,2021-05-28,Pennington,South Dakota,46103.0,13831,199.0
-1366583,2021-05-29,Pennington,Minnesota,27113.0,1539,19.0
-1367712,2021-05-29,Pennington,South Dakota,46103.0,13831,199.0
-1369829,2021-05-30,Pennington,Minnesota,27113.0,1539,19.0
-1370958,2021-05-30,Pennington,South Dakota,46103.0,13831,199.0
-1373074,2021-05-31,Pennington,Minnesota,27113.0,1539,19.0
-1374203,2021-05-31,Pennington,South Dakota,46103.0,13837,199.0
-1376320,2021-06-01,Pennington,Minnesota,27113.0,1539,19.0
-1377449,2021-06-01,Pennington,South Dakota,46103.0,13837,199.0
-1379565,2021-06-02,Pennington,Minnesota,27113.0,1539,19.0
-1380694,2021-06-02,Pennington,South Dakota,46103.0,13844,199.0
-1382811,2021-06-03,Pennington,Minnesota,27113.0,1539,19.0
-1383940,2021-06-03,Pennington,South Dakota,46103.0,13846,199.0
-1386056,2021-06-04,Pennington,Minnesota,27113.0,1538,19.0
-1387185,2021-06-04,Pennington,South Dakota,46103.0,13849,200.0
-1389301,2021-06-05,Pennington,Minnesota,27113.0,1538,20.0
-1390430,2021-06-05,Pennington,South Dakota,46103.0,13849,200.0
-1392546,2021-06-06,Pennington,Minnesota,27113.0,1538,20.0
-1393675,2021-06-06,Pennington,South Dakota,46103.0,13849,200.0
-1395792,2021-06-07,Pennington,Minnesota,27113.0,1538,20.0
-1396922,2021-06-07,Pennington,South Dakota,46103.0,13851,200.0
-1399038,2021-06-08,Pennington,Minnesota,27113.0,1538,20.0
-1400167,2021-06-08,Pennington,South Dakota,46103.0,13861,201.0
-1402283,2021-06-09,Pennington,Minnesota,27113.0,1538,20.0
-1403412,2021-06-09,Pennington,South Dakota,46103.0,13865,201.0
-1405529,2021-06-10,Pennington,Minnesota,27113.0,1538,20.0
-1406658,2021-06-10,Pennington,South Dakota,46103.0,13872,201.0
-1408774,2021-06-11,Pennington,Minnesota,27113.0,1538,20.0
-1409903,2021-06-11,Pennington,South Dakota,46103.0,13873,201.0
-1412019,2021-06-12,Pennington,Minnesota,27113.0,1538,20.0
-1413148,2021-06-12,Pennington,South Dakota,46103.0,13873,201.0
-1415265,2021-06-13,Pennington,Minnesota,27113.0,1538,20.0
-1416394,2021-06-13,Pennington,South Dakota,46103.0,13874,201.0
-1418510,2021-06-14,Pennington,Minnesota,27113.0,1538,20.0
-1419639,2021-06-14,Pennington,South Dakota,46103.0,13874,201.0
-1421755,2021-06-15,Pennington,Minnesota,27113.0,1538,20.0
-1422885,2021-06-15,Pennington,South Dakota,46103.0,13880,201.0
-1425003,2021-06-16,Pennington,Minnesota,27113.0,1538,20.0
-1426132,2021-06-16,Pennington,South Dakota,46103.0,13886,201.0
-1428248,2021-06-17,Pennington,Minnesota,27113.0,1538,20.0
-1429377,2021-06-17,Pennington,South Dakota,46103.0,13894,202.0
-1431493,2021-06-18,Pennington,Minnesota,27113.0,1538,20.0
-1432623,2021-06-18,Pennington,South Dakota,46103.0,13894,202.0
-1434740,2021-06-19,Pennington,Minnesota,27113.0,1538,20.0
-1435870,2021-06-19,Pennington,South Dakota,46103.0,13894,202.0
-1437987,2021-06-20,Pennington,Minnesota,27113.0,1538,20.0
-1439117,2021-06-20,Pennington,South Dakota,46103.0,13894,202.0
-1441233,2021-06-21,Pennington,Minnesota,27113.0,1538,20.0
-1442362,2021-06-21,Pennington,South Dakota,46103.0,13900,202.0
-1444478,2021-06-22,Pennington,Minnesota,27113.0,1538,20.0
-1445607,2021-06-22,Pennington,South Dakota,46103.0,13912,202.0
-1447723,2021-06-23,Pennington,Minnesota,27113.0,1538,20.0
-1448852,2021-06-23,Pennington,South Dakota,46103.0,13918,202.0
-1450969,2021-06-24,Pennington,Minnesota,27113.0,1538,20.0
-1452098,2021-06-24,Pennington,South Dakota,46103.0,13922,202.0
-1454214,2021-06-25,Pennington,Minnesota,27113.0,1538,20.0
-1455343,2021-06-25,Pennington,South Dakota,46103.0,13923,202.0
-1457459,2021-06-26,Pennington,Minnesota,27113.0,1538,20.0
-1458588,2021-06-26,Pennington,South Dakota,46103.0,13923,202.0
-1460704,2021-06-27,Pennington,Minnesota,27113.0,1538,20.0
-1461833,2021-06-27,Pennington,South Dakota,46103.0,13923,202.0
-1463949,2021-06-28,Pennington,Minnesota,27113.0,1538,20.0
-1465078,2021-06-28,Pennington,South Dakota,46103.0,13928,202.0
-1467194,2021-06-29,Pennington,Minnesota,27113.0,1538,20.0
-1468323,2021-06-29,Pennington,South Dakota,46103.0,13936,202.0
-1470439,2021-06-30,Pennington,Minnesota,27113.0,1538,20.0
-1471568,2021-06-30,Pennington,South Dakota,46103.0,13940,203.0
-1473685,2021-07-01,Pennington,Minnesota,27113.0,1538,20.0
-1474814,2021-07-01,Pennington,South Dakota,46103.0,13944,204.0
-1476931,2021-07-02,Pennington,Minnesota,27113.0,1538,20.0
-1478060,2021-07-02,Pennington,South Dakota,46103.0,13949,204.0
-1480178,2021-07-03,Pennington,Minnesota,27113.0,1538,20.0
-1481307,2021-07-03,Pennington,South Dakota,46103.0,13949,204.0
-1483424,2021-07-04,Pennington,Minnesota,27113.0,1538,20.0
-1484553,2021-07-04,Pennington,South Dakota,46103.0,13949,204.0
-1486670,2021-07-05,Pennington,Minnesota,27113.0,1538,20.0
-1487800,2021-07-05,Pennington,South Dakota,46103.0,13949,204.0
-1489917,2021-07-06,Pennington,Minnesota,27113.0,1538,20.0
-1491047,2021-07-06,Pennington,South Dakota,46103.0,13949,204.0
-1493164,2021-07-07,Pennington,Minnesota,27113.0,1538,20.0
-1494294,2021-07-07,Pennington,South Dakota,46103.0,13970,205.0
-1496411,2021-07-08,Pennington,Minnesota,27113.0,1538,20.0
-1497541,2021-07-08,Pennington,South Dakota,46103.0,13970,205.0
-1499657,2021-07-09,Pennington,Minnesota,27113.0,1538,20.0
-1500787,2021-07-09,Pennington,South Dakota,46103.0,13970,205.0
-1502903,2021-07-10,Pennington,Minnesota,27113.0,1538,20.0
-1504033,2021-07-10,Pennington,South Dakota,46103.0,13970,205.0
-1506149,2021-07-11,Pennington,Minnesota,27113.0,1538,20.0
-1507279,2021-07-11,Pennington,South Dakota,46103.0,13970,205.0
-1509395,2021-07-12,Pennington,Minnesota,27113.0,1538,20.0
-1510526,2021-07-12,Pennington,South Dakota,46103.0,13970,205.0
-1512642,2021-07-13,Pennington,Minnesota,27113.0,1538,20.0
-1513772,2021-07-13,Pennington,South Dakota,46103.0,13970,205.0
-1515888,2021-07-14,Pennington,Minnesota,27113.0,1538,20.0
-1517019,2021-07-14,Pennington,South Dakota,46103.0,14003,205.0
-1519135,2021-07-15,Pennington,Minnesota,27113.0,1538,20.0
-1520267,2021-07-15,Pennington,South Dakota,46103.0,14003,205.0
-1522384,2021-07-16,Pennington,Minnesota,27113.0,1538,20.0
-1523515,2021-07-16,Pennington,South Dakota,46103.0,14003,205.0
-1525631,2021-07-17,Pennington,Minnesota,27113.0,1538,20.0
-1526762,2021-07-17,Pennington,South Dakota,46103.0,14003,205.0
-1528878,2021-07-18,Pennington,Minnesota,27113.0,1538,20.0
-1530009,2021-07-18,Pennington,South Dakota,46103.0,14003,205.0
-1532125,2021-07-19,Pennington,Minnesota,27113.0,1538,20.0
-1533256,2021-07-19,Pennington,South Dakota,46103.0,14003,205.0
-1535373,2021-07-20,Pennington,Minnesota,27113.0,1538,20.0
-1536504,2021-07-20,Pennington,South Dakota,46103.0,14003,205.0
-1538620,2021-07-21,Pennington,Minnesota,27113.0,1538,20.0
-1539751,2021-07-21,Pennington,South Dakota,46103.0,14041,206.0
-1541867,2021-07-22,Pennington,Minnesota,27113.0,1538,20.0
-1542999,2021-07-22,Pennington,South Dakota,46103.0,14041,206.0
-1545115,2021-07-23,Pennington,Minnesota,27113.0,1538,20.0
-1546246,2021-07-23,Pennington,South Dakota,46103.0,14041,206.0
-1548362,2021-07-24,Pennington,Minnesota,27113.0,1538,20.0
-1549493,2021-07-24,Pennington,South Dakota,46103.0,14041,206.0
-1551609,2021-07-25,Pennington,Minnesota,27113.0,1538,20.0
-1552740,2021-07-25,Pennington,South Dakota,46103.0,14041,206.0
-1554856,2021-07-26,Pennington,Minnesota,27113.0,1538,20.0
-1555987,2021-07-26,Pennington,South Dakota,46103.0,14041,206.0
-1558103,2021-07-27,Pennington,Minnesota,27113.0,1539,20.0
-1559234,2021-07-27,Pennington,South Dakota,46103.0,14041,206.0
-1561351,2021-07-28,Pennington,Minnesota,27113.0,1541,20.0
-1562482,2021-07-28,Pennington,South Dakota,46103.0,14098,206.0
-1564599,2021-07-29,Pennington,Minnesota,27113.0,1541,20.0
-1565730,2021-07-29,Pennington,South Dakota,46103.0,14098,206.0
-1567847,2021-07-30,Pennington,Minnesota,27113.0,1541,20.0
-1568978,2021-07-30,Pennington,South Dakota,46103.0,14098,206.0
-1571095,2021-07-31,Pennington,Minnesota,27113.0,1541,20.0
-1572226,2021-07-31,Pennington,South Dakota,46103.0,14098,206.0
-1574343,2021-08-01,Pennington,Minnesota,27113.0,1541,20.0
-1575474,2021-08-01,Pennington,South Dakota,46103.0,14098,206.0
-1577591,2021-08-02,Pennington,Minnesota,27113.0,1542,20.0
-1578722,2021-08-02,Pennington,South Dakota,46103.0,14098,206.0
-1580840,2021-08-03,Pennington,Minnesota,27113.0,1543,20.0
-1581971,2021-08-03,Pennington,South Dakota,46103.0,14098,206.0
-1584089,2021-08-04,Pennington,Minnesota,27113.0,1543,20.0
-1585221,2021-08-04,Pennington,South Dakota,46103.0,14175,207.0
-1587340,2021-08-05,Pennington,Minnesota,27113.0,1545,20.0
-1588471,2021-08-05,Pennington,South Dakota,46103.0,14175,207.0
-1590589,2021-08-06,Pennington,Minnesota,27113.0,1549,20.0
-1591720,2021-08-06,Pennington,South Dakota,46103.0,14175,207.0
-1593838,2021-08-07,Pennington,Minnesota,27113.0,1549,20.0
-1594969,2021-08-07,Pennington,South Dakota,46103.0,14175,207.0
-1597087,2021-08-08,Pennington,Minnesota,27113.0,1549,20.0
-1598218,2021-08-08,Pennington,South Dakota,46103.0,14175,207.0
-1600335,2021-08-09,Pennington,Minnesota,27113.0,1552,20.0
-1601466,2021-08-09,Pennington,South Dakota,46103.0,14175,207.0
-1603584,2021-08-10,Pennington,Minnesota,27113.0,1553,20.0
-1604715,2021-08-10,Pennington,South Dakota,46103.0,14175,207.0
-1606833,2021-08-11,Pennington,Minnesota,27113.0,1558,20.0
-1607964,2021-08-11,Pennington,South Dakota,46103.0,14310,208.0
-1610081,2021-08-12,Pennington,Minnesota,27113.0,1559,20.0
-1611212,2021-08-12,Pennington,South Dakota,46103.0,14342,208.0
-1613330,2021-08-13,Pennington,Minnesota,27113.0,1565,20.0
-1614461,2021-08-13,Pennington,South Dakota,46103.0,14373,208.0
-1616578,2021-08-14,Pennington,Minnesota,27113.0,1565,20.0
-1617709,2021-08-14,Pennington,South Dakota,46103.0,14373,208.0
-1619826,2021-08-15,Pennington,Minnesota,27113.0,1565,20.0
-1620957,2021-08-15,Pennington,South Dakota,46103.0,14373,208.0
-1623073,2021-08-16,Pennington,Minnesota,27113.0,1569,20.0
-1624204,2021-08-16,Pennington,South Dakota,46103.0,14413,208.0
-1626320,2021-08-17,Pennington,Minnesota,27113.0,1574,20.0
-1627451,2021-08-17,Pennington,South Dakota,46103.0,14513,208.0
-1629567,2021-08-18,Pennington,Minnesota,27113.0,1575,20.0
-1630698,2021-08-18,Pennington,South Dakota,46103.0,14598,208.0
-1632814,2021-08-19,Pennington,Minnesota,27113.0,1587,20.0
-1633945,2021-08-19,Pennington,South Dakota,46103.0,14671,208.0
-1636064,2021-08-20,Pennington,Minnesota,27113.0,1592,20.0
-1637195,2021-08-20,Pennington,South Dakota,46103.0,14744,208.0
-1639314,2021-08-21,Pennington,Minnesota,27113.0,1592,20.0
-1640445,2021-08-21,Pennington,South Dakota,46103.0,14744,208.0
-1642564,2021-08-22,Pennington,Minnesota,27113.0,1592,20.0
-1643695,2021-08-22,Pennington,South Dakota,46103.0,14744,208.0
-1645813,2021-08-23,Pennington,Minnesota,27113.0,1601,20.0
-1646944,2021-08-23,Pennington,South Dakota,46103.0,14827,208.0
-1649062,2021-08-24,Pennington,Minnesota,27113.0,1624,20.0
-1650193,2021-08-24,Pennington,South Dakota,46103.0,15020,208.0
-1652310,2021-08-25,Pennington,Minnesota,27113.0,1632,20.0
-1653440,2021-08-25,Pennington,South Dakota,46103.0,15147,208.0
-1655557,2021-08-26,Pennington,Minnesota,27113.0,1658,20.0
-1656687,2021-08-26,Pennington,South Dakota,46103.0,15273,208.0
-1658806,2021-08-27,Pennington,Minnesota,27113.0,1676,20.0
-1659936,2021-08-27,Pennington,South Dakota,46103.0,15414,209.0
-1662054,2021-08-28,Pennington,Minnesota,27113.0,1676,20.0
-1663184,2021-08-28,Pennington,South Dakota,46103.0,15414,209.0
-1665302,2021-08-29,Pennington,Minnesota,27113.0,1676,20.0
-1666432,2021-08-29,Pennington,South Dakota,46103.0,15414,209.0
-1668549,2021-08-30,Pennington,Minnesota,27113.0,1699,20.0
-1669679,2021-08-30,Pennington,South Dakota,46103.0,15544,210.0
-1671796,2021-08-31,Pennington,Minnesota,27113.0,1730,20.0
-1672927,2021-08-31,Pennington,South Dakota,46103.0,15867,210.0
-1675044,2021-09-01,Pennington,Minnesota,27113.0,1744,20.0
-1676174,2021-09-01,Pennington,South Dakota,46103.0,16026,210.0
-1678292,2021-09-02,Pennington,Minnesota,27113.0,1763,20.0
-1679422,2021-09-02,Pennington,South Dakota,46103.0,16178,210.0
-1681540,2021-09-03,Pennington,Minnesota,27113.0,1798,20.0
-1682672,2021-09-03,Pennington,South Dakota,46103.0,16316,211.0
-1684791,2021-09-04,Pennington,Minnesota,27113.0,1798,20.0
-1685923,2021-09-04,Pennington,South Dakota,46103.0,16316,211.0
-1688041,2021-09-05,Pennington,Minnesota,27113.0,1798,20.0
-1689173,2021-09-05,Pennington,South Dakota,46103.0,16316,211.0
-1691291,2021-09-06,Pennington,Minnesota,27113.0,1798,20.0
-1692422,2021-09-06,Pennington,South Dakota,46103.0,16316,211.0
-1694540,2021-09-07,Pennington,Minnesota,27113.0,1806,20.0
-1695670,2021-09-07,Pennington,South Dakota,46103.0,16438,211.0
-1697788,2021-09-08,Pennington,Minnesota,27113.0,1823,20.0
-1698918,2021-09-08,Pennington,South Dakota,46103.0,16818,211.0
-1701037,2021-09-09,Pennington,Minnesota,27113.0,1827,20.0
-1702167,2021-09-09,Pennington,South Dakota,46103.0,16978,212.0
-1704287,2021-09-10,Pennington,Minnesota,27113.0,1841,20.0
-1705417,2021-09-10,Pennington,South Dakota,46103.0,17111,215.0
-1707534,2021-09-11,Pennington,Minnesota,27113.0,1841,20.0
-1708664,2021-09-11,Pennington,South Dakota,46103.0,17111,215.0
-1710781,2021-09-12,Pennington,Minnesota,27113.0,1841,20.0
-1711911,2021-09-12,Pennington,South Dakota,46103.0,17111,215.0
-1714027,2021-09-13,Pennington,Minnesota,27113.0,1852,21.0
-1715157,2021-09-13,Pennington,South Dakota,46103.0,17241,216.0
-1717275,2021-09-14,Pennington,Minnesota,27113.0,1871,21.0
-1718405,2021-09-14,Pennington,South Dakota,46103.0,17519,217.0
-1720523,2021-09-15,Pennington,Minnesota,27113.0,1884,21.0
-1721653,2021-09-15,Pennington,South Dakota,46103.0,17651,218.0
-1723772,2021-09-16,Pennington,Minnesota,27113.0,1895,21.0
-1724902,2021-09-16,Pennington,South Dakota,46103.0,17813,221.0
-1727021,2021-09-17,Pennington,Minnesota,27113.0,1902,21.0
-1728151,2021-09-17,Pennington,South Dakota,46103.0,17964,221.0
-1730271,2021-09-18,Pennington,Minnesota,27113.0,1902,21.0
-1731401,2021-09-18,Pennington,South Dakota,46103.0,17964,221.0
-1733521,2021-09-19,Pennington,Minnesota,27113.0,1902,21.0
-1734651,2021-09-19,Pennington,South Dakota,46103.0,17964,221.0
-1736771,2021-09-20,Pennington,Minnesota,27113.0,1911,21.0
-1737901,2021-09-20,Pennington,South Dakota,46103.0,18050,223.0
-1740020,2021-09-21,Pennington,Minnesota,27113.0,1930,22.0
-1741150,2021-09-21,Pennington,South Dakota,46103.0,18206,224.0
-1743269,2021-09-22,Pennington,Minnesota,27113.0,1936,22.0
-1744399,2021-09-22,Pennington,South Dakota,46103.0,18337,225.0
-1746518,2021-09-23,Pennington,Minnesota,27113.0,1949,22.0
-1747649,2021-09-23,Pennington,South Dakota,46103.0,18468,226.0
-1749768,2021-09-24,Pennington,Minnesota,27113.0,1960,22.0
-1750898,2021-09-24,Pennington,South Dakota,46103.0,18565,230.0
-1753016,2021-09-25,Pennington,Minnesota,27113.0,1960,22.0
-1754146,2021-09-25,Pennington,South Dakota,46103.0,18565,230.0
-1756264,2021-09-26,Pennington,Minnesota,27113.0,1960,22.0
-1757394,2021-09-26,Pennington,South Dakota,46103.0,18565,230.0
-1759512,2021-09-27,Pennington,Minnesota,27113.0,1965,22.0
-1760642,2021-09-27,Pennington,South Dakota,46103.0,18625,230.0
-1762761,2021-09-28,Pennington,Minnesota,27113.0,1983,22.0
-1763891,2021-09-28,Pennington,South Dakota,46103.0,18830,231.0
-1766010,2021-09-29,Pennington,Minnesota,27113.0,1992,22.0
-1767140,2021-09-29,Pennington,South Dakota,46103.0,18933,231.0
-1769259,2021-09-30,Pennington,Minnesota,27113.0,2004,22.0
-1770389,2021-09-30,Pennington,South Dakota,46103.0,19012,232.0
-1772508,2021-10-01,Pennington,Minnesota,27113.0,2012,22.0
-1773639,2021-10-01,Pennington,South Dakota,46103.0,19080,233.0
-1775758,2021-10-02,Pennington,Minnesota,27113.0,2012,22.0
-1776889,2021-10-02,Pennington,South Dakota,46103.0,19080,233.0
-1779008,2021-10-03,Pennington,Minnesota,27113.0,2012,22.0
-1780139,2021-10-03,Pennington,South Dakota,46103.0,19080,233.0
-1782258,2021-10-04,Pennington,Minnesota,27113.0,2021,23.0
-1783388,2021-10-04,Pennington,South Dakota,46103.0,19142,236.0
-1785507,2021-10-05,Pennington,Minnesota,27113.0,2044,23.0
-1786637,2021-10-05,Pennington,South Dakota,46103.0,19283,236.0
-1788755,2021-10-06,Pennington,Minnesota,27113.0,2053,23.0
-1789885,2021-10-06,Pennington,South Dakota,46103.0,19362,236.0
-1792004,2021-10-07,Pennington,Minnesota,27113.0,2068,24.0
-1793134,2021-10-07,Pennington,South Dakota,46103.0,19507,237.0
-1795253,2021-10-08,Pennington,Minnesota,27113.0,2076,24.0
-1796383,2021-10-08,Pennington,South Dakota,46103.0,19569,238.0
-1798502,2021-10-09,Pennington,Minnesota,27113.0,2076,24.0
-1799632,2021-10-09,Pennington,South Dakota,46103.0,19569,238.0
-1801751,2021-10-10,Pennington,Minnesota,27113.0,2076,24.0
-1802881,2021-10-10,Pennington,South Dakota,46103.0,19569,238.0
-1805000,2021-10-11,Pennington,Minnesota,27113.0,2090,24.0
-1806131,2021-10-11,Pennington,South Dakota,46103.0,19569,238.0
-1808251,2021-10-12,Pennington,Minnesota,27113.0,2104,25.0
-1809381,2021-10-12,Pennington,South Dakota,46103.0,19636,239.0
-1811500,2021-10-13,Pennington,Minnesota,27113.0,2114,26.0
-1812630,2021-10-13,Pennington,South Dakota,46103.0,19840,239.0
-1814748,2021-10-14,Pennington,Minnesota,27113.0,2125,27.0
-1815878,2021-10-14,Pennington,South Dakota,46103.0,19910,239.0
-1817997,2021-10-15,Pennington,Minnesota,27113.0,2132,27.0
-1819127,2021-10-15,Pennington,South Dakota,46103.0,19958,242.0
-1821246,2021-10-16,Pennington,Minnesota,27113.0,2132,27.0
-1822376,2021-10-16,Pennington,South Dakota,46103.0,19958,242.0
-1824495,2021-10-17,Pennington,Minnesota,27113.0,2132,27.0
-1825625,2021-10-17,Pennington,South Dakota,46103.0,19958,242.0
-1827744,2021-10-18,Pennington,Minnesota,27113.0,2137,27.0
-1828874,2021-10-18,Pennington,South Dakota,46103.0,20030,243.0
-1830993,2021-10-19,Pennington,Minnesota,27113.0,2150,27.0
-1832123,2021-10-19,Pennington,South Dakota,46103.0,20201,243.0
-1834242,2021-10-20,Pennington,Minnesota,27113.0,2158,27.0
-1835372,2021-10-20,Pennington,South Dakota,46103.0,20272,243.0
-1837491,2021-10-21,Pennington,Minnesota,27113.0,2165,27.0
-1838621,2021-10-21,Pennington,South Dakota,46103.0,20353,245.0
-1840740,2021-10-22,Pennington,Minnesota,27113.0,2172,27.0
-1841870,2021-10-22,Pennington,South Dakota,46103.0,20429,246.0
-1843990,2021-10-23,Pennington,Minnesota,27113.0,2172,27.0
-1845120,2021-10-23,Pennington,South Dakota,46103.0,20429,246.0
-1847240,2021-10-24,Pennington,Minnesota,27113.0,2172,27.0
-1848370,2021-10-24,Pennington,South Dakota,46103.0,20429,246.0
-1850490,2021-10-25,Pennington,Minnesota,27113.0,2175,27.0
-1851620,2021-10-25,Pennington,South Dakota,46103.0,20488,246.0
-1853739,2021-10-26,Pennington,Minnesota,27113.0,2184,27.0
-1854869,2021-10-26,Pennington,South Dakota,46103.0,20641,247.0
-1856988,2021-10-27,Pennington,Minnesota,27113.0,2194,27.0
-1858118,2021-10-27,Pennington,South Dakota,46103.0,20706,247.0
-1860237,2021-10-28,Pennington,Minnesota,27113.0,2205,27.0
-1861367,2021-10-28,Pennington,South Dakota,46103.0,20780,248.0
-1863486,2021-10-29,Pennington,Minnesota,27113.0,2211,27.0
-1864616,2021-10-29,Pennington,South Dakota,46103.0,20863,248.0
-1866735,2021-10-30,Pennington,Minnesota,27113.0,2211,27.0
-1867865,2021-10-30,Pennington,South Dakota,46103.0,20863,248.0
-1869984,2021-10-31,Pennington,Minnesota,27113.0,2211,27.0
-1871114,2021-10-31,Pennington,South Dakota,46103.0,20863,248.0
-1873233,2021-11-01,Pennington,Minnesota,27113.0,2232,27.0
-1874363,2021-11-01,Pennington,South Dakota,46103.0,20925,248.0
-1876482,2021-11-02,Pennington,Minnesota,27113.0,2244,27.0
-1877612,2021-11-02,Pennington,South Dakota,46103.0,21046,251.0
-1879731,2021-11-03,Pennington,Minnesota,27113.0,2247,27.0
-1880861,2021-11-03,Pennington,South Dakota,46103.0,21139,253.0
-1882980,2021-11-04,Pennington,Minnesota,27113.0,2253,27.0
-1884110,2021-11-04,Pennington,South Dakota,46103.0,21223,253.0
-1886229,2021-11-05,Pennington,Minnesota,27113.0,2259,28.0
-1887360,2021-11-05,Pennington,South Dakota,46103.0,21282,255.0
-1889479,2021-11-06,Pennington,Minnesota,27113.0,2259,28.0
-1890610,2021-11-06,Pennington,South Dakota,46103.0,21282,255.0
-1892729,2021-11-07,Pennington,Minnesota,27113.0,2259,28.0
-1893860,2021-11-07,Pennington,South Dakota,46103.0,21282,255.0
-1895979,2021-11-08,Pennington,Minnesota,27113.0,2262,29.0
-1897110,2021-11-08,Pennington,South Dakota,46103.0,21354,255.0
-1899229,2021-11-09,Pennington,Minnesota,27113.0,2284,29.0
-1900360,2021-11-09,Pennington,South Dakota,46103.0,21530,256.0
-1902479,2021-11-10,Pennington,Minnesota,27113.0,2285,29.0
-1903610,2021-11-10,Pennington,South Dakota,46103.0,21606,256.0
-1905728,2021-11-11,Pennington,Minnesota,27113.0,2298,29.0
-1906859,2021-11-11,Pennington,South Dakota,46103.0,21606,256.0
-1908977,2021-11-12,Pennington,Minnesota,27113.0,2309,29.0
-1910108,2021-11-12,Pennington,South Dakota,46103.0,21666,257.0
-1912227,2021-11-13,Pennington,Minnesota,27113.0,2309,29.0
-1913358,2021-11-13,Pennington,South Dakota,46103.0,21666,257.0
-1915477,2021-11-14,Pennington,Minnesota,27113.0,2309,29.0
-1916608,2021-11-14,Pennington,South Dakota,46103.0,21666,257.0
-1918727,2021-11-15,Pennington,Minnesota,27113.0,2324,29.0
-1919858,2021-11-15,Pennington,South Dakota,46103.0,21781,259.0
-1921977,2021-11-16,Pennington,Minnesota,27113.0,2350,29.0
-1923107,2021-11-16,Pennington,South Dakota,46103.0,21912,259.0
-1925226,2021-11-17,Pennington,Minnesota,27113.0,2356,29.0
-1926357,2021-11-17,Pennington,South Dakota,46103.0,21978,259.0
-1928476,2021-11-18,Pennington,Minnesota,27113.0,2376,29.0
-1929607,2021-11-18,Pennington,South Dakota,46103.0,22039,262.0
-1931727,2021-11-19,Pennington,Minnesota,27113.0,2394,29.0
-1932858,2021-11-19,Pennington,South Dakota,46103.0,22112,262.0
-1934977,2021-11-20,Pennington,Minnesota,27113.0,2394,29.0
-1936108,2021-11-20,Pennington,South Dakota,46103.0,22112,262.0
-1938227,2021-11-21,Pennington,Minnesota,27113.0,2394,29.0
-1939358,2021-11-21,Pennington,South Dakota,46103.0,22112,262.0
-1941477,2021-11-22,Pennington,Minnesota,27113.0,2417,29.0
-1942608,2021-11-22,Pennington,South Dakota,46103.0,22165,263.0
-1944728,2021-11-23,Pennington,Minnesota,27113.0,2447,29.0
-1945859,2021-11-23,Pennington,South Dakota,46103.0,22289,264.0
-1947979,2021-11-24,Pennington,Minnesota,27113.0,2456,29.0
-1949110,2021-11-24,Pennington,South Dakota,46103.0,22374,263.0
-1951230,2021-11-25,Pennington,Minnesota,27113.0,2456,29.0
-1952361,2021-11-25,Pennington,South Dakota,46103.0,22374,263.0
-1954481,2021-11-26,Pennington,Minnesota,27113.0,2475,29.0
-1955612,2021-11-26,Pennington,South Dakota,46103.0,22374,263.0
-1957732,2021-11-27,Pennington,Minnesota,27113.0,2475,29.0
-1958863,2021-11-27,Pennington,South Dakota,46103.0,22374,263.0
-1960983,2021-11-28,Pennington,Minnesota,27113.0,2475,29.0
-1962114,2021-11-28,Pennington,South Dakota,46103.0,22374,263.0
-1964234,2021-11-29,Pennington,Minnesota,27113.0,2487,30.0
-1965366,2021-11-29,Pennington,South Dakota,46103.0,22438,263.0
-1967486,2021-11-30,Pennington,Minnesota,27113.0,2510,30.0
-1968617,2021-11-30,Pennington,South Dakota,46103.0,22590,264.0
-1970736,2021-12-01,Pennington,Minnesota,27113.0,2521,30.0
-1971867,2021-12-01,Pennington,South Dakota,46103.0,22680,266.0
-1973985,2021-12-02,Pennington,Minnesota,27113.0,2534,30.0
-1975116,2021-12-02,Pennington,South Dakota,46103.0,22733,269.0
-1977235,2021-12-03,Pennington,Minnesota,27113.0,2548,30.0
-1978366,2021-12-03,Pennington,South Dakota,46103.0,22779,269.0
-1980485,2021-12-04,Pennington,Minnesota,27113.0,2548,30.0
-1981616,2021-12-04,Pennington,South Dakota,46103.0,22779,269.0
-1983735,2021-12-05,Pennington,Minnesota,27113.0,2548,30.0
-1984866,2021-12-05,Pennington,South Dakota,46103.0,22779,269.0
-1986985,2021-12-06,Pennington,Minnesota,27113.0,2561,30.0
-1988116,2021-12-06,Pennington,South Dakota,46103.0,22820,269.0
-1990235,2021-12-07,Pennington,Minnesota,27113.0,2573,30.0
-1991367,2021-12-07,Pennington,South Dakota,46103.0,22934,270.0
-1993486,2021-12-08,Pennington,Minnesota,27113.0,2583,30.0
-1994618,2021-12-08,Pennington,South Dakota,46103.0,22981,270.0
-1996737,2021-12-09,Pennington,Minnesota,27113.0,2591,30.0
-1997869,2021-12-09,Pennington,South Dakota,46103.0,23029,271.0
-1999988,2021-12-10,Pennington,Minnesota,27113.0,2597,30.0
-2001119,2021-12-10,Pennington,South Dakota,46103.0,23068,271.0
-2003238,2021-12-11,Pennington,Minnesota,27113.0,2597,30.0
-2004370,2021-12-11,Pennington,South Dakota,46103.0,23068,271.0
-2006489,2021-12-12,Pennington,Minnesota,27113.0,2597,30.0
-2007621,2021-12-12,Pennington,South Dakota,46103.0,23068,271.0
-2009740,2021-12-13,Pennington,Minnesota,27113.0,2606,30.0
-2010872,2021-12-13,Pennington,South Dakota,46103.0,23102,272.0
-2012991,2021-12-14,Pennington,Minnesota,27113.0,2612,30.0
-2014123,2021-12-14,Pennington,South Dakota,46103.0,23160,273.0
-2016242,2021-12-15,Pennington,Minnesota,27113.0,2618,30.0
-2017373,2021-12-15,Pennington,South Dakota,46103.0,23201,273.0
-2019492,2021-12-16,Pennington,Minnesota,27113.0,2624,30.0
-2020624,2021-12-16,Pennington,South Dakota,46103.0,23252,275.0
-2022743,2021-12-17,Pennington,Minnesota,27113.0,2631,31.0
-2023875,2021-12-17,Pennington,South Dakota,46103.0,23281,275.0
-2025994,2021-12-18,Pennington,Minnesota,27113.0,2631,31.0
-2027126,2021-12-18,Pennington,South Dakota,46103.0,23281,275.0
-2029245,2021-12-19,Pennington,Minnesota,27113.0,2631,31.0
-2030377,2021-12-19,Pennington,South Dakota,46103.0,23281,275.0
-2032496,2021-12-20,Pennington,Minnesota,27113.0,2638,31.0
-2033627,2021-12-20,Pennington,South Dakota,46103.0,23307,277.0
-2035746,2021-12-21,Pennington,Minnesota,27113.0,2641,31.0
-2036877,2021-12-21,Pennington,South Dakota,46103.0,23369,278.0
-2038996,2021-12-22,Pennington,Minnesota,27113.0,2644,31.0
-2040127,2021-12-22,Pennington,South Dakota,46103.0,23419,278.0
-2042245,2021-12-23,Pennington,Minnesota,27113.0,2646,31.0
-2043376,2021-12-23,Pennington,South Dakota,46103.0,23479,278.0
-2045495,2021-12-24,Pennington,Minnesota,27113.0,2646,31.0
-2046626,2021-12-24,Pennington,South Dakota,46103.0,23479,278.0
-2048745,2021-12-25,Pennington,Minnesota,27113.0,2646,31.0
-2049876,2021-12-25,Pennington,South Dakota,46103.0,23479,278.0
-2051995,2021-12-26,Pennington,Minnesota,27113.0,2646,31.0
-2053126,2021-12-26,Pennington,South Dakota,46103.0,23479,278.0
-2055245,2021-12-27,Pennington,Minnesota,27113.0,2653,31.0
-2056375,2021-12-27,Pennington,South Dakota,46103.0,23528,280.0
-2058494,2021-12-28,Pennington,Minnesota,27113.0,2661,31.0
-2059624,2021-12-28,Pennington,South Dakota,46103.0,23691,280.0
-2061743,2021-12-29,Pennington,Minnesota,27113.0,2664,31.0
-2062874,2021-12-29,Pennington,South Dakota,46103.0,23801,280.0
-2064993,2021-12-30,Pennington,Minnesota,27113.0,2669,32.0
-2066124,2021-12-30,Pennington,South Dakota,46103.0,23859,284.0
-2068244,2021-12-31,Pennington,Minnesota,27113.0,2669,32.0
-2069375,2021-12-31,Pennington,South Dakota,46103.0,23859,284.0
-2071495,2022-01-01,Pennington,Minnesota,27113.0,2669,32.0
-2072626,2022-01-01,Pennington,South Dakota,46103.0,23859,284.0
-2074746,2022-01-02,Pennington,Minnesota,27113.0,2669,32.0
-2075877,2022-01-02,Pennington,South Dakota,46103.0,23859,284.0
-2077997,2022-01-03,Pennington,Minnesota,27113.0,2675,32.0
-2079128,2022-01-03,Pennington,South Dakota,46103.0,23942,286.0
-2081249,2022-01-04,Pennington,Minnesota,27113.0,2702,32.0
-2082380,2022-01-04,Pennington,South Dakota,46103.0,24314,286.0
-2084501,2022-01-05,Pennington,Minnesota,27113.0,2704,32.0
-2085632,2022-01-05,Pennington,South Dakota,46103.0,24488,289.0
-2087753,2022-01-06,Pennington,Minnesota,27113.0,2722,32.0
-2088883,2022-01-06,Pennington,South Dakota,46103.0,24775,289.0
-2091004,2022-01-07,Pennington,Minnesota,27113.0,2729,33.0
-2092135,2022-01-07,Pennington,South Dakota,46103.0,25010,289.0
-2094256,2022-01-08,Pennington,Minnesota,27113.0,2729,33.0
-2095387,2022-01-08,Pennington,South Dakota,46103.0,25010,289.0
-2097508,2022-01-09,Pennington,Minnesota,27113.0,2729,33.0
-2098639,2022-01-09,Pennington,South Dakota,46103.0,25010,289.0
-2100759,2022-01-10,Pennington,Minnesota,27113.0,2739,33.0
-2101890,2022-01-10,Pennington,South Dakota,46103.0,25283,291.0
-2104010,2022-01-11,Pennington,Minnesota,27113.0,2776,33.0
-2105141,2022-01-11,Pennington,South Dakota,46103.0,25913,291.0
-2107261,2022-01-12,Pennington,Minnesota,27113.0,2789,34.0
-2108392,2022-01-12,Pennington,South Dakota,46103.0,26274,292.0
-2110512,2022-01-13,Pennington,Minnesota,27113.0,2799,34.0
-2111644,2022-01-13,Pennington,South Dakota,46103.0,26606,293.0
-2113764,2022-01-14,Pennington,Minnesota,27113.0,2809,34.0
-2114896,2022-01-14,Pennington,South Dakota,46103.0,27003,295.0
-2117015,2022-01-15,Pennington,Minnesota,27113.0,2809,34.0
-2118147,2022-01-15,Pennington,South Dakota,46103.0,27003,295.0
-2120267,2022-01-16,Pennington,Minnesota,27113.0,2809,34.0
-2121399,2022-01-16,Pennington,South Dakota,46103.0,27003,295.0
-2123519,2022-01-17,Pennington,Minnesota,27113.0,2809,34.0
-2124651,2022-01-17,Pennington,South Dakota,46103.0,27003,295.0
-2126771,2022-01-18,Pennington,Minnesota,27113.0,2821,34.0
-2127903,2022-01-18,Pennington,South Dakota,46103.0,27354,295.0
-2130025,2022-01-19,Pennington,Minnesota,27113.0,2868,34.0
-2131157,2022-01-19,Pennington,South Dakota,46103.0,28545,298.0
-2133278,2022-01-20,Pennington,Minnesota,27113.0,2897,34.0
-2134409,2022-01-20,Pennington,South Dakota,46103.0,28937,301.0
-2136530,2022-01-21,Pennington,Minnesota,27113.0,2919,34.0
-2137663,2022-01-21,Pennington,South Dakota,46103.0,29364,304.0
-2139786,2022-01-22,Pennington,Minnesota,27113.0,2919,34.0
-2140919,2022-01-22,Pennington,South Dakota,46103.0,29364,304.0
-2143041,2022-01-23,Pennington,Minnesota,27113.0,2919,34.0
-2144174,2022-01-23,Pennington,South Dakota,46103.0,29364,304.0
-2146296,2022-01-24,Pennington,Minnesota,27113.0,2943,34.0
-2147428,2022-01-24,Pennington,South Dakota,46103.0,29687,304.0
-2149548,2022-01-25,Pennington,Minnesota,27113.0,3016,34.0
-2150680,2022-01-25,Pennington,South Dakota,46103.0,30268,304.0
-2152800,2022-01-26,Pennington,Minnesota,27113.0,3058,34.0
-2153932,2022-01-26,Pennington,South Dakota,46103.0,30530,306.0
-2156053,2022-01-27,Pennington,Minnesota,27113.0,3105,35.0
-2157185,2022-01-27,Pennington,South Dakota,46103.0,30740,306.0
-2159307,2022-01-28,Pennington,Minnesota,27113.0,3129,35.0
-2160441,2022-01-28,Pennington,South Dakota,46103.0,30904,306.0
-2162562,2022-01-29,Pennington,Minnesota,27113.0,3129,35.0
-2163696,2022-01-29,Pennington,South Dakota,46103.0,30904,306.0
-2165817,2022-01-30,Pennington,Minnesota,27113.0,3129,35.0
-2166951,2022-01-30,Pennington,South Dakota,46103.0,30904,306.0
-2169072,2022-01-31,Pennington,Minnesota,27113.0,3174,35.0
-2170205,2022-01-31,Pennington,South Dakota,46103.0,31070,309.0
-2172325,2022-02-01,Pennington,Minnesota,27113.0,3235,36.0
-2173457,2022-02-01,Pennington,South Dakota,46103.0,31382,310.0
-2175578,2022-02-02,Pennington,Minnesota,27113.0,3246,36.0
-2176711,2022-02-02,Pennington,South Dakota,46103.0,31482,310.0
-2178830,2022-02-03,Pennington,Minnesota,27113.0,3263,36.0
-2179962,2022-02-03,Pennington,South Dakota,46103.0,31602,310.0
-2182082,2022-02-04,Pennington,Minnesota,27113.0,3281,36.0
-2183214,2022-02-04,Pennington,South Dakota,46103.0,31676,311.0
-2185334,2022-02-05,Pennington,Minnesota,27113.0,3281,36.0
-2186466,2022-02-05,Pennington,South Dakota,46103.0,31676,311.0
-2188587,2022-02-06,Pennington,Minnesota,27113.0,3281,36.0
-2189719,2022-02-06,Pennington,South Dakota,46103.0,31676,311.0
-2191840,2022-02-07,Pennington,Minnesota,27113.0,3295,36.0
-2192973,2022-02-07,Pennington,South Dakota,46103.0,31760,312.0
-2195094,2022-02-08,Pennington,Minnesota,27113.0,3322,36.0
-2196227,2022-02-08,Pennington,South Dakota,46103.0,31868,313.0
-2198348,2022-02-09,Pennington,Minnesota,27113.0,3345,37.0
-2199481,2022-02-09,Pennington,South Dakota,46103.0,31982,316.0
-2201602,2022-02-10,Pennington,Minnesota,27113.0,3358,38.0
-2202735,2022-02-10,Pennington,South Dakota,46103.0,32038,318.0
-2204855,2022-02-11,Pennington,Minnesota,27113.0,3375,38.0
-2205988,2022-02-11,Pennington,South Dakota,46103.0,32081,321.0
-2208108,2022-02-12,Pennington,Minnesota,27113.0,3375,38.0
-2209241,2022-02-12,Pennington,South Dakota,46103.0,32081,321.0
-2211361,2022-02-13,Pennington,Minnesota,27113.0,3375,38.0
-2212494,2022-02-13,Pennington,South Dakota,46103.0,32081,321.0
-2214613,2022-02-14,Pennington,Minnesota,27113.0,3388,38.0
-2215745,2022-02-14,Pennington,South Dakota,46103.0,32124,321.0
-2217864,2022-02-15,Pennington,Minnesota,27113.0,3400,38.0
-2218996,2022-02-15,Pennington,South Dakota,46103.0,32197,321.0
-2221115,2022-02-16,Pennington,Minnesota,27113.0,3405,39.0
-2222247,2022-02-16,Pennington,South Dakota,46103.0,32242,322.0
-2224366,2022-02-17,Pennington,Minnesota,27113.0,3413,39.0
-2225498,2022-02-17,Pennington,South Dakota,46103.0,32275,322.0
-2227617,2022-02-18,Pennington,Minnesota,27113.0,3429,39.0
-2228749,2022-02-18,Pennington,South Dakota,46103.0,32299,324.0
-2230868,2022-02-19,Pennington,Minnesota,27113.0,3429,39.0
-2232000,2022-02-19,Pennington,South Dakota,46103.0,32299,324.0
-2234119,2022-02-20,Pennington,Minnesota,27113.0,3429,39.0
-2235251,2022-02-20,Pennington,South Dakota,46103.0,32299,324.0
-2237370,2022-02-21,Pennington,Minnesota,27113.0,3429,39.0
-2238502,2022-02-21,Pennington,South Dakota,46103.0,32299,324.0
-2240621,2022-02-22,Pennington,Minnesota,27113.0,3433,39.0
-2241753,2022-02-22,Pennington,South Dakota,46103.0,32328,325.0
-2243872,2022-02-23,Pennington,Minnesota,27113.0,3450,40.0
-2245004,2022-02-23,Pennington,South Dakota,46103.0,32382,325.0
-2247123,2022-02-24,Pennington,Minnesota,27113.0,3459,40.0
-2248255,2022-02-24,Pennington,South Dakota,46103.0,32403,325.0
-2250374,2022-02-25,Pennington,Minnesota,27113.0,3470,40.0
-2251506,2022-02-25,Pennington,South Dakota,46103.0,32424,327.0
-2253625,2022-02-26,Pennington,Minnesota,27113.0,3470,40.0
-2254757,2022-02-26,Pennington,South Dakota,46103.0,32424,327.0
-2256876,2022-02-27,Pennington,Minnesota,27113.0,3470,40.0
-2258008,2022-02-27,Pennington,South Dakota,46103.0,32424,327.0
-2260127,2022-02-28,Pennington,Minnesota,27113.0,3476,40.0
-2261259,2022-02-28,Pennington,South Dakota,46103.0,32447,328.0
-2263378,2022-03-01,Pennington,Minnesota,27113.0,3489,40.0
-2264509,2022-03-01,Pennington,South Dakota,46103.0,32480,330.0
-2266629,2022-03-02,Pennington,Minnesota,27113.0,3495,40.0
-2267762,2022-03-02,Pennington,South Dakota,46103.0,32488,330.0
-2269882,2022-03-03,Pennington,Minnesota,27113.0,3496,40.0
-2271014,2022-03-03,Pennington,South Dakota,46103.0,32505,331.0
-2273134,2022-03-04,Pennington,Minnesota,27113.0,3498,40.0
-2274267,2022-03-04,Pennington,South Dakota,46103.0,32516,331.0
-2276387,2022-03-05,Pennington,Minnesota,27113.0,3498,40.0
-2277520,2022-03-05,Pennington,South Dakota,46103.0,32516,331.0
-2279640,2022-03-06,Pennington,Minnesota,27113.0,3498,40.0
-2280773,2022-03-06,Pennington,South Dakota,46103.0,32516,331.0
-2282893,2022-03-07,Pennington,Minnesota,27113.0,3501,41.0
-2284025,2022-03-07,Pennington,South Dakota,46103.0,32523,331.0
-2286145,2022-03-08,Pennington,Minnesota,27113.0,3504,41.0
-2287277,2022-03-08,Pennington,South Dakota,46103.0,32538,332.0
-2289396,2022-03-09,Pennington,Minnesota,27113.0,3504,41.0
-2290529,2022-03-09,Pennington,South Dakota,46103.0,32546,332.0
-2292648,2022-03-10,Pennington,Minnesota,27113.0,3506,41.0
-2293781,2022-03-10,Pennington,South Dakota,46103.0,32551,332.0
-2295900,2022-03-11,Pennington,Minnesota,27113.0,3523,41.0
-2297033,2022-03-11,Pennington,South Dakota,46103.0,32559,334.0
-2299152,2022-03-12,Pennington,Minnesota,27113.0,3523,41.0
-2300285,2022-03-12,Pennington,South Dakota,46103.0,32559,334.0
-2302404,2022-03-13,Pennington,Minnesota,27113.0,3523,41.0
-2303537,2022-03-13,Pennington,South Dakota,46103.0,32559,334.0
-2305656,2022-03-14,Pennington,Minnesota,27113.0,3525,41.0
-2306788,2022-03-14,Pennington,South Dakota,46103.0,32562,334.0
-2308907,2022-03-15,Pennington,Minnesota,27113.0,3526,41.0
-2310041,2022-03-15,Pennington,South Dakota,46103.0,32573,334.0
-2312160,2022-03-16,Pennington,Minnesota,27113.0,3532,41.0
-2313294,2022-03-16,Pennington,South Dakota,46103.0,32583,335.0
-2315413,2022-03-17,Pennington,Minnesota,27113.0,3532,41.0
-2316547,2022-03-17,Pennington,South Dakota,46103.0,32600,336.0
-2318666,2022-03-18,Pennington,Minnesota,27113.0,3532,41.0
-2319801,2022-03-18,Pennington,South Dakota,46103.0,32611,337.0
-2321920,2022-03-19,Pennington,Minnesota,27113.0,3532,41.0
-2323055,2022-03-19,Pennington,South Dakota,46103.0,32611,337.0
-2325174,2022-03-20,Pennington,Minnesota,27113.0,3532,41.0
-2326308,2022-03-20,Pennington,South Dakota,46103.0,32611,337.0
-2328427,2022-03-21,Pennington,Minnesota,27113.0,3532,41.0
-2329560,2022-03-21,Pennington,South Dakota,46103.0,32611,337.0
-2331679,2022-03-22,Pennington,Minnesota,27113.0,3532,41.0
-2332813,2022-03-22,Pennington,South Dakota,46103.0,32611,337.0
-2334933,2022-03-23,Pennington,Minnesota,27113.0,3532,41.0
-2336067,2022-03-23,Pennington,South Dakota,46103.0,32635,338.0
-2338187,2022-03-24,Pennington,Minnesota,27113.0,3532,41.0
-2339321,2022-03-24,Pennington,South Dakota,46103.0,32635,338.0
-2341440,2022-03-25,Pennington,Minnesota,27113.0,3532,41.0
-2342574,2022-03-25,Pennington,South Dakota,46103.0,32635,338.0
-2344693,2022-03-26,Pennington,Minnesota,27113.0,3532,41.0
-2345827,2022-03-26,Pennington,South Dakota,46103.0,32635,338.0
-2347946,2022-03-27,Pennington,Minnesota,27113.0,3532,41.0
-2349080,2022-03-27,Pennington,South Dakota,46103.0,32635,338.0
-2351199,2022-03-28,Pennington,Minnesota,27113.0,3532,41.0
-2352332,2022-03-28,Pennington,South Dakota,46103.0,32635,338.0
-2354451,2022-03-29,Pennington,Minnesota,27113.0,3536,41.0
-2355585,2022-03-29,Pennington,South Dakota,46103.0,32635,338.0
-2357704,2022-03-30,Pennington,Minnesota,27113.0,3536,41.0
-2358839,2022-03-30,Pennington,South Dakota,46103.0,32660,340.0
-2360958,2022-03-31,Pennington,Minnesota,27113.0,3540,41.0
-2362093,2022-03-31,Pennington,South Dakota,46103.0,32660,340.0
-2364212,2022-04-01,Pennington,Minnesota,27113.0,3543,41.0
-2365346,2022-04-01,Pennington,South Dakota,46103.0,32660,340.0
-2367465,2022-04-02,Pennington,Minnesota,27113.0,3543,41.0
-2368599,2022-04-02,Pennington,South Dakota,46103.0,32660,340.0
-2370718,2022-04-03,Pennington,Minnesota,27113.0,3543,41.0
-2371852,2022-04-03,Pennington,South Dakota,46103.0,32660,340.0
-2373971,2022-04-04,Pennington,Minnesota,27113.0,3544,41.0
-2375104,2022-04-04,Pennington,South Dakota,46103.0,32660,340.0
-2377223,2022-04-05,Pennington,Minnesota,27113.0,3545,41.0
-2378358,2022-04-05,Pennington,South Dakota,46103.0,32660,340.0
-2380478,2022-04-06,Pennington,Minnesota,27113.0,3546,41.0
-2381613,2022-04-06,Pennington,South Dakota,46103.0,32674,340.0
-2383733,2022-04-07,Pennington,Minnesota,27113.0,3549,41.0
-2384868,2022-04-07,Pennington,South Dakota,46103.0,32674,340.0
-2386987,2022-04-08,Pennington,Minnesota,27113.0,3549,41.0
-2388122,2022-04-08,Pennington,South Dakota,46103.0,32674,340.0
-2390243,2022-04-09,Pennington,Minnesota,27113.0,3549,41.0
-2391378,2022-04-09,Pennington,South Dakota,46103.0,32674,340.0
+date,county,state,fips,cases,deaths
+2020-03-23,Pennington,South Dakota,46103.0,1,0.0
+2020-03-24,Pennington,South Dakota,46103.0,1,0.0
+2020-03-25,Pennington,South Dakota,46103.0,1,0.0
+2020-03-26,Pennington,South Dakota,46103.0,1,0.0
+2020-03-27,Pennington,South Dakota,46103.0,3,0.0
+2020-03-28,Pennington,South Dakota,46103.0,3,0.0
+2020-03-29,Pennington,South Dakota,46103.0,4,0.0
+2020-03-30,Pennington,South Dakota,46103.0,5,0.0
+2020-03-31,Pennington,South Dakota,46103.0,5,0.0
+2020-04-01,Pennington,South Dakota,46103.0,5,0.0
+2020-04-02,Pennington,South Dakota,46103.0,6,0.0
+2020-04-03,Pennington,South Dakota,46103.0,6,0.0
+2020-04-04,Pennington,South Dakota,46103.0,6,0.0
+2020-04-05,Pennington,South Dakota,46103.0,6,0.0
+2020-04-06,Pennington,South Dakota,46103.0,6,0.0
+2020-04-07,Pennington,South Dakota,46103.0,6,0.0
+2020-04-08,Pennington,South Dakota,46103.0,6,0.0
+2020-04-09,Pennington,South Dakota,46103.0,7,0.0
+2020-04-10,Pennington,South Dakota,46103.0,8,0.0
+2020-04-11,Pennington,South Dakota,46103.0,8,0.0
+2020-04-12,Pennington,South Dakota,46103.0,8,0.0
+2020-04-13,Pennington,South Dakota,46103.0,9,0.0
+2020-04-14,Pennington,South Dakota,46103.0,9,0.0
+2020-04-15,Pennington,South Dakota,46103.0,9,0.0
+2020-04-16,Pennington,South Dakota,46103.0,10,0.0
+2020-04-17,Pennington,South Dakota,46103.0,10,0.0
+2020-04-18,Pennington,South Dakota,46103.0,10,0.0
+2020-04-19,Pennington,South Dakota,46103.0,10,0.0
+2020-04-20,Pennington,South Dakota,46103.0,11,0.0
+2020-04-21,Pennington,Minnesota,27113.0,1,0.0
+2020-04-21,Pennington,South Dakota,46103.0,11,0.0
+2020-04-22,Pennington,Minnesota,27113.0,1,0.0
+2020-04-22,Pennington,South Dakota,46103.0,11,0.0
+2020-04-23,Pennington,Minnesota,27113.0,1,0.0
+2020-04-23,Pennington,South Dakota,46103.0,11,0.0
+2020-04-24,Pennington,Minnesota,27113.0,1,0.0
+2020-04-24,Pennington,South Dakota,46103.0,11,0.0
+2020-04-25,Pennington,Minnesota,27113.0,1,0.0
+2020-04-25,Pennington,South Dakota,46103.0,11,0.0
+2020-04-26,Pennington,Minnesota,27113.0,1,0.0
+2020-04-26,Pennington,South Dakota,46103.0,12,0.0
+2020-04-27,Pennington,Minnesota,27113.0,1,0.0
+2020-04-27,Pennington,South Dakota,46103.0,12,0.0
+2020-04-28,Pennington,Minnesota,27113.0,1,0.0
+2020-04-28,Pennington,South Dakota,46103.0,12,0.0
+2020-04-29,Pennington,Minnesota,27113.0,1,0.0
+2020-04-29,Pennington,South Dakota,46103.0,12,0.0
+2020-04-30,Pennington,Minnesota,27113.0,1,0.0
+2020-04-30,Pennington,South Dakota,46103.0,11,0.0
+2020-05-01,Pennington,Minnesota,27113.0,1,0.0
+2020-05-01,Pennington,South Dakota,46103.0,13,0.0
+2020-05-02,Pennington,Minnesota,27113.0,1,0.0
+2020-05-02,Pennington,South Dakota,46103.0,13,0.0
+2020-05-03,Pennington,Minnesota,27113.0,1,0.0
+2020-05-03,Pennington,South Dakota,46103.0,14,0.0
+2020-05-04,Pennington,Minnesota,27113.0,1,0.0
+2020-05-04,Pennington,South Dakota,46103.0,14,0.0
+2020-05-05,Pennington,Minnesota,27113.0,1,0.0
+2020-05-05,Pennington,South Dakota,46103.0,16,0.0
+2020-05-06,Pennington,Minnesota,27113.0,1,0.0
+2020-05-06,Pennington,South Dakota,46103.0,16,0.0
+2020-05-07,Pennington,Minnesota,27113.0,1,0.0
+2020-05-07,Pennington,South Dakota,46103.0,17,0.0
+2020-05-08,Pennington,Minnesota,27113.0,1,0.0
+2020-05-08,Pennington,South Dakota,46103.0,18,0.0
+2020-05-09,Pennington,Minnesota,27113.0,1,0.0
+2020-05-09,Pennington,South Dakota,46103.0,19,0.0
+2020-05-10,Pennington,Minnesota,27113.0,1,0.0
+2020-05-10,Pennington,South Dakota,46103.0,26,0.0
+2020-05-11,Pennington,Minnesota,27113.0,1,0.0
+2020-05-11,Pennington,South Dakota,46103.0,27,0.0
+2020-05-12,Pennington,Minnesota,27113.0,1,0.0
+2020-05-12,Pennington,South Dakota,46103.0,32,0.0
+2020-05-13,Pennington,Minnesota,27113.0,1,0.0
+2020-05-13,Pennington,South Dakota,46103.0,36,0.0
+2020-05-14,Pennington,Minnesota,27113.0,1,0.0
+2020-05-14,Pennington,South Dakota,46103.0,40,0.0
+2020-05-15,Pennington,Minnesota,27113.0,1,0.0
+2020-05-15,Pennington,South Dakota,46103.0,43,0.0
+2020-05-16,Pennington,Minnesota,27113.0,1,0.0
+2020-05-16,Pennington,South Dakota,46103.0,49,0.0
+2020-05-17,Pennington,Minnesota,27113.0,1,0.0
+2020-05-17,Pennington,South Dakota,46103.0,52,0.0
+2020-05-18,Pennington,Minnesota,27113.0,2,0.0
+2020-05-18,Pennington,South Dakota,46103.0,58,0.0
+2020-05-19,Pennington,Minnesota,27113.0,3,0.0
+2020-05-19,Pennington,South Dakota,46103.0,74,1.0
+2020-05-20,Pennington,Minnesota,27113.0,3,0.0
+2020-05-20,Pennington,South Dakota,46103.0,85,1.0
+2020-05-21,Pennington,Minnesota,27113.0,4,0.0
+2020-05-21,Pennington,South Dakota,46103.0,85,1.0
+2020-05-22,Pennington,Minnesota,27113.0,6,0.0
+2020-05-22,Pennington,South Dakota,46103.0,127,1.0
+2020-05-23,Pennington,Minnesota,27113.0,7,0.0
+2020-05-23,Pennington,South Dakota,46103.0,138,2.0
+2020-05-24,Pennington,Minnesota,27113.0,7,0.0
+2020-05-24,Pennington,South Dakota,46103.0,152,2.0
+2020-05-25,Pennington,Minnesota,27113.0,9,0.0
+2020-05-25,Pennington,South Dakota,46103.0,156,2.0
+2020-05-26,Pennington,Minnesota,27113.0,14,0.0
+2020-05-26,Pennington,South Dakota,46103.0,162,2.0
+2020-05-27,Pennington,Minnesota,27113.0,17,0.0
+2020-05-27,Pennington,South Dakota,46103.0,172,2.0
+2020-05-28,Pennington,Minnesota,27113.0,17,0.0
+2020-05-28,Pennington,South Dakota,46103.0,186,2.0
+2020-05-29,Pennington,Minnesota,27113.0,17,0.0
+2020-05-29,Pennington,South Dakota,46103.0,201,2.0
+2020-05-30,Pennington,Minnesota,27113.0,17,0.0
+2020-05-30,Pennington,South Dakota,46103.0,218,3.0
+2020-05-31,Pennington,Minnesota,27113.0,19,0.0
+2020-05-31,Pennington,South Dakota,46103.0,227,3.0
+2020-06-01,Pennington,Minnesota,27113.0,19,0.0
+2020-06-01,Pennington,South Dakota,46103.0,235,3.0
+2020-06-02,Pennington,Minnesota,27113.0,19,0.0
+2020-06-02,Pennington,South Dakota,46103.0,241,3.0
+2020-06-03,Pennington,Minnesota,27113.0,21,0.0
+2020-06-03,Pennington,South Dakota,46103.0,257,3.0
+2020-06-04,Pennington,Minnesota,27113.0,23,0.0
+2020-06-04,Pennington,South Dakota,46103.0,275,4.0
+2020-06-05,Pennington,Minnesota,27113.0,30,0.0
+2020-06-05,Pennington,South Dakota,46103.0,284,4.0
+2020-06-06,Pennington,Minnesota,27113.0,31,0.0
+2020-06-06,Pennington,South Dakota,46103.0,297,4.0
+2020-06-07,Pennington,Minnesota,27113.0,34,0.0
+2020-06-07,Pennington,South Dakota,46103.0,305,4.0
+2020-06-08,Pennington,Minnesota,27113.0,36,0.0
+2020-06-08,Pennington,South Dakota,46103.0,314,4.0
+2020-06-09,Pennington,Minnesota,27113.0,37,0.0
+2020-06-09,Pennington,South Dakota,46103.0,321,5.0
+2020-06-10,Pennington,Minnesota,27113.0,37,0.0
+2020-06-10,Pennington,South Dakota,46103.0,335,5.0
+2020-06-11,Pennington,Minnesota,27113.0,37,0.0
+2020-06-11,Pennington,South Dakota,46103.0,351,6.0
+2020-06-12,Pennington,Minnesota,27113.0,50,0.0
+2020-06-12,Pennington,South Dakota,46103.0,362,6.0
+2020-06-13,Pennington,Minnesota,27113.0,50,0.0
+2020-06-13,Pennington,South Dakota,46103.0,378,7.0
+2020-06-14,Pennington,Minnesota,27113.0,50,0.0
+2020-06-14,Pennington,South Dakota,46103.0,386,7.0
+2020-06-15,Pennington,Minnesota,27113.0,51,0.0
+2020-06-15,Pennington,South Dakota,46103.0,392,7.0
+2020-06-16,Pennington,Minnesota,27113.0,51,0.0
+2020-06-16,Pennington,South Dakota,46103.0,402,8.0
+2020-06-17,Pennington,Minnesota,27113.0,51,0.0
+2020-06-17,Pennington,South Dakota,46103.0,424,8.0
+2020-06-18,Pennington,Minnesota,27113.0,52,0.0
+2020-06-18,Pennington,South Dakota,46103.0,430,8.0
+2020-06-19,Pennington,Minnesota,27113.0,50,0.0
+2020-06-19,Pennington,South Dakota,46103.0,437,10.0
+2020-06-20,Pennington,Minnesota,27113.0,50,0.0
+2020-06-20,Pennington,South Dakota,46103.0,446,10.0
+2020-06-21,Pennington,Minnesota,27113.0,50,0.0
+2020-06-21,Pennington,South Dakota,46103.0,457,10.0
+2020-06-22,Pennington,Minnesota,27113.0,50,0.0
+2020-06-22,Pennington,South Dakota,46103.0,462,10.0
+2020-06-23,Pennington,Minnesota,27113.0,50,0.0
+2020-06-23,Pennington,South Dakota,46103.0,466,11.0
+2020-06-24,Pennington,Minnesota,27113.0,50,0.0
+2020-06-24,Pennington,South Dakota,46103.0,475,11.0
+2020-06-25,Pennington,Minnesota,27113.0,50,0.0
+2020-06-25,Pennington,South Dakota,46103.0,482,12.0
+2020-06-26,Pennington,Minnesota,27113.0,50,0.0
+2020-06-26,Pennington,South Dakota,46103.0,486,13.0
+2020-06-27,Pennington,Minnesota,27113.0,50,0.0
+2020-06-27,Pennington,South Dakota,46103.0,497,15.0
+2020-06-28,Pennington,Minnesota,27113.0,50,0.0
+2020-06-28,Pennington,South Dakota,46103.0,507,15.0
+2020-06-29,Pennington,Minnesota,27113.0,50,0.0
+2020-06-29,Pennington,South Dakota,46103.0,513,15.0
+2020-06-30,Pennington,Minnesota,27113.0,50,0.0
+2020-06-30,Pennington,South Dakota,46103.0,518,15.0
+2020-07-01,Pennington,Minnesota,27113.0,51,0.0
+2020-07-01,Pennington,South Dakota,46103.0,523,15.0
+2020-07-02,Pennington,Minnesota,27113.0,51,0.0
+2020-07-02,Pennington,South Dakota,46103.0,536,16.0
+2020-07-03,Pennington,Minnesota,27113.0,50,0.0
+2020-07-03,Pennington,South Dakota,46103.0,546,16.0
+2020-07-04,Pennington,Minnesota,27113.0,50,0.0
+2020-07-04,Pennington,South Dakota,46103.0,556,16.0
+2020-07-05,Pennington,Minnesota,27113.0,51,0.0
+2020-07-05,Pennington,South Dakota,46103.0,560,16.0
+2020-07-06,Pennington,Minnesota,27113.0,51,0.0
+2020-07-06,Pennington,South Dakota,46103.0,575,16.0
+2020-07-07,Pennington,Minnesota,27113.0,52,0.0
+2020-07-07,Pennington,South Dakota,46103.0,590,16.0
+2020-07-08,Pennington,Minnesota,27113.0,52,0.0
+2020-07-08,Pennington,South Dakota,46103.0,606,16.0
+2020-07-09,Pennington,Minnesota,27113.0,53,0.0
+2020-07-09,Pennington,South Dakota,46103.0,616,17.0
+2020-07-10,Pennington,Minnesota,27113.0,53,0.0
+2020-07-10,Pennington,South Dakota,46103.0,624,20.0
+2020-07-11,Pennington,Minnesota,27113.0,53,0.0
+2020-07-11,Pennington,South Dakota,46103.0,630,20.0
+2020-07-12,Pennington,Minnesota,27113.0,54,0.0
+2020-07-12,Pennington,South Dakota,46103.0,635,20.0
+2020-07-13,Pennington,Minnesota,27113.0,54,0.0
+2020-07-13,Pennington,South Dakota,46103.0,641,20.0
+2020-07-14,Pennington,Minnesota,27113.0,54,0.0
+2020-07-14,Pennington,South Dakota,46103.0,649,20.0
+2020-07-15,Pennington,Minnesota,27113.0,55,0.0
+2020-07-15,Pennington,South Dakota,46103.0,674,21.0
+2020-07-16,Pennington,Minnesota,27113.0,55,0.0
+2020-07-16,Pennington,South Dakota,46103.0,679,21.0
+2020-07-17,Pennington,Minnesota,27113.0,58,0.0
+2020-07-17,Pennington,South Dakota,46103.0,704,21.0
+2020-07-18,Pennington,Minnesota,27113.0,58,0.0
+2020-07-18,Pennington,South Dakota,46103.0,713,21.0
+2020-07-19,Pennington,Minnesota,27113.0,60,0.0
+2020-07-19,Pennington,South Dakota,46103.0,720,22.0
+2020-07-20,Pennington,Minnesota,27113.0,59,0.0
+2020-07-20,Pennington,South Dakota,46103.0,725,22.0
+2020-07-21,Pennington,Minnesota,27113.0,60,0.0
+2020-07-21,Pennington,South Dakota,46103.0,750,22.0
+2020-07-22,Pennington,Minnesota,27113.0,60,0.0
+2020-07-22,Pennington,South Dakota,46103.0,756,23.0
+2020-07-23,Pennington,Minnesota,27113.0,60,1.0
+2020-07-23,Pennington,South Dakota,46103.0,765,24.0
+2020-07-24,Pennington,Minnesota,27113.0,60,1.0
+2020-07-24,Pennington,South Dakota,46103.0,767,25.0
+2020-07-25,Pennington,Minnesota,27113.0,62,1.0
+2020-07-25,Pennington,South Dakota,46103.0,774,25.0
+2020-07-26,Pennington,Minnesota,27113.0,62,1.0
+2020-07-26,Pennington,South Dakota,46103.0,778,25.0
+2020-07-27,Pennington,Minnesota,27113.0,63,1.0
+2020-07-27,Pennington,South Dakota,46103.0,786,25.0
+2020-07-28,Pennington,Minnesota,27113.0,65,1.0
+2020-07-28,Pennington,South Dakota,46103.0,787,25.0
+2020-07-29,Pennington,Minnesota,27113.0,65,1.0
+2020-07-29,Pennington,South Dakota,46103.0,796,25.0
+2020-07-30,Pennington,Minnesota,27113.0,69,1.0
+2020-07-30,Pennington,South Dakota,46103.0,804,25.0
+2020-07-31,Pennington,Minnesota,27113.0,70,1.0
+2020-07-31,Pennington,South Dakota,46103.0,811,26.0
+2020-08-01,Pennington,Minnesota,27113.0,70,1.0
+2020-08-01,Pennington,South Dakota,46103.0,818,28.0
+2020-08-02,Pennington,Minnesota,27113.0,70,1.0
+2020-08-02,Pennington,South Dakota,46103.0,826,28.0
+2020-08-03,Pennington,Minnesota,27113.0,72,1.0
+2020-08-03,Pennington,South Dakota,46103.0,845,28.0
+2020-08-04,Pennington,Minnesota,27113.0,73,1.0
+2020-08-04,Pennington,South Dakota,46103.0,848,28.0
+2020-08-05,Pennington,Minnesota,27113.0,73,1.0
+2020-08-05,Pennington,South Dakota,46103.0,858,28.0
+2020-08-06,Pennington,Minnesota,27113.0,73,1.0
+2020-08-06,Pennington,South Dakota,46103.0,863,30.0
+2020-08-07,Pennington,Minnesota,27113.0,73,1.0
+2020-08-07,Pennington,South Dakota,46103.0,875,30.0
+2020-08-08,Pennington,Minnesota,27113.0,75,1.0
+2020-08-08,Pennington,South Dakota,46103.0,881,32.0
+2020-08-09,Pennington,Minnesota,27113.0,75,1.0
+2020-08-09,Pennington,South Dakota,46103.0,891,32.0
+2020-08-10,Pennington,Minnesota,27113.0,75,1.0
+2020-08-10,Pennington,South Dakota,46103.0,896,32.0
+2020-08-11,Pennington,Minnesota,27113.0,75,1.0
+2020-08-11,Pennington,South Dakota,46103.0,898,32.0
+2020-08-12,Pennington,Minnesota,27113.0,75,1.0
+2020-08-12,Pennington,South Dakota,46103.0,910,32.0
+2020-08-13,Pennington,Minnesota,27113.0,75,1.0
+2020-08-13,Pennington,South Dakota,46103.0,915,32.0
+2020-08-14,Pennington,Minnesota,27113.0,75,1.0
+2020-08-14,Pennington,South Dakota,46103.0,924,33.0
+2020-08-15,Pennington,Minnesota,27113.0,75,1.0
+2020-08-15,Pennington,South Dakota,46103.0,930,33.0
+2020-08-16,Pennington,Minnesota,27113.0,75,1.0
+2020-08-16,Pennington,South Dakota,46103.0,942,33.0
+2020-08-17,Pennington,Minnesota,27113.0,75,1.0
+2020-08-17,Pennington,South Dakota,46103.0,951,33.0
+2020-08-18,Pennington,Minnesota,27113.0,75,1.0
+2020-08-18,Pennington,South Dakota,46103.0,958,33.0
+2020-08-19,Pennington,Minnesota,27113.0,74,1.0
+2020-08-19,Pennington,South Dakota,46103.0,962,33.0
+2020-08-20,Pennington,Minnesota,27113.0,74,1.0
+2020-08-20,Pennington,South Dakota,46103.0,975,33.0
+2020-08-21,Pennington,Minnesota,27113.0,74,1.0
+2020-08-21,Pennington,South Dakota,46103.0,994,33.0
+2020-08-22,Pennington,Minnesota,27113.0,74,1.0
+2020-08-22,Pennington,South Dakota,46103.0,1028,33.0
+2020-08-23,Pennington,Minnesota,27113.0,76,1.0
+2020-08-23,Pennington,South Dakota,46103.0,1042,33.0
+2020-08-24,Pennington,Minnesota,27113.0,76,1.0
+2020-08-24,Pennington,South Dakota,46103.0,1070,33.0
+2020-08-25,Pennington,Minnesota,27113.0,77,1.0
+2020-08-25,Pennington,South Dakota,46103.0,1082,33.0
+2020-08-26,Pennington,Minnesota,27113.0,77,1.0
+2020-08-26,Pennington,South Dakota,46103.0,1091,33.0
+2020-08-27,Pennington,Minnesota,27113.0,80,1.0
+2020-08-27,Pennington,South Dakota,46103.0,1211,33.0
+2020-08-28,Pennington,Minnesota,27113.0,81,1.0
+2020-08-28,Pennington,South Dakota,46103.0,1284,33.0
+2020-08-29,Pennington,Minnesota,27113.0,86,1.0
+2020-08-29,Pennington,South Dakota,46103.0,1337,33.0
+2020-08-30,Pennington,Minnesota,27113.0,87,1.0
+2020-08-30,Pennington,South Dakota,46103.0,1406,33.0
+2020-08-31,Pennington,Minnesota,27113.0,88,1.0
+2020-08-31,Pennington,South Dakota,46103.0,1432,33.0
+2020-09-01,Pennington,Minnesota,27113.0,91,1.0
+2020-09-01,Pennington,South Dakota,46103.0,1448,33.0
+2020-09-02,Pennington,Minnesota,27113.0,94,1.0
+2020-09-02,Pennington,South Dakota,46103.0,1475,33.0
+2020-09-03,Pennington,Minnesota,27113.0,96,1.0
+2020-09-03,Pennington,South Dakota,46103.0,1536,33.0
+2020-09-04,Pennington,Minnesota,27113.0,98,1.0
+2020-09-04,Pennington,South Dakota,46103.0,1560,33.0
+2020-09-05,Pennington,Minnesota,27113.0,100,1.0
+2020-09-05,Pennington,South Dakota,46103.0,1598,33.0
+2020-09-06,Pennington,Minnesota,27113.0,101,1.0
+2020-09-06,Pennington,South Dakota,46103.0,1617,33.0
+2020-09-07,Pennington,Minnesota,27113.0,103,1.0
+2020-09-07,Pennington,South Dakota,46103.0,1635,33.0
+2020-09-08,Pennington,Minnesota,27113.0,102,1.0
+2020-09-08,Pennington,South Dakota,46103.0,1642,33.0
+2020-09-09,Pennington,Minnesota,27113.0,102,1.0
+2020-09-09,Pennington,South Dakota,46103.0,1666,33.0
+2020-09-10,Pennington,Minnesota,27113.0,102,1.0
+2020-09-10,Pennington,South Dakota,46103.0,1701,33.0
+2020-09-11,Pennington,Minnesota,27113.0,102,1.0
+2020-09-11,Pennington,South Dakota,46103.0,1731,33.0
+2020-09-12,Pennington,Minnesota,27113.0,102,1.0
+2020-09-12,Pennington,South Dakota,46103.0,1766,33.0
+2020-09-13,Pennington,Minnesota,27113.0,103,1.0
+2020-09-13,Pennington,South Dakota,46103.0,1795,33.0
+2020-09-14,Pennington,Minnesota,27113.0,104,1.0
+2020-09-14,Pennington,South Dakota,46103.0,1814,33.0
+2020-09-15,Pennington,Minnesota,27113.0,104,1.0
+2020-09-15,Pennington,South Dakota,46103.0,1841,33.0
+2020-09-16,Pennington,Minnesota,27113.0,105,1.0
+2020-09-16,Pennington,South Dakota,46103.0,1862,34.0
+2020-09-17,Pennington,Minnesota,27113.0,107,1.0
+2020-09-17,Pennington,South Dakota,46103.0,1897,34.0
+2020-09-18,Pennington,Minnesota,27113.0,108,1.0
+2020-09-18,Pennington,South Dakota,46103.0,1926,34.0
+2020-09-19,Pennington,Minnesota,27113.0,108,1.0
+2020-09-19,Pennington,South Dakota,46103.0,1960,35.0
+2020-09-20,Pennington,Minnesota,27113.0,112,1.0
+2020-09-20,Pennington,South Dakota,46103.0,1984,35.0
+2020-09-21,Pennington,Minnesota,27113.0,112,1.0
+2020-09-21,Pennington,South Dakota,46103.0,2004,35.0
+2020-09-22,Pennington,Minnesota,27113.0,113,1.0
+2020-09-22,Pennington,South Dakota,46103.0,2041,35.0
+2020-09-23,Pennington,Minnesota,27113.0,115,1.0
+2020-09-23,Pennington,South Dakota,46103.0,2091,35.0
+2020-09-24,Pennington,Minnesota,27113.0,116,1.0
+2020-09-24,Pennington,South Dakota,46103.0,2142,36.0
+2020-09-25,Pennington,Minnesota,27113.0,117,1.0
+2020-09-25,Pennington,South Dakota,46103.0,2198,36.0
+2020-09-26,Pennington,Minnesota,27113.0,119,1.0
+2020-09-26,Pennington,South Dakota,46103.0,2249,37.0
+2020-09-27,Pennington,Minnesota,27113.0,120,1.0
+2020-09-27,Pennington,South Dakota,46103.0,2311,37.0
+2020-09-28,Pennington,Minnesota,27113.0,120,1.0
+2020-09-28,Pennington,South Dakota,46103.0,2328,37.0
+2020-09-29,Pennington,Minnesota,27113.0,120,1.0
+2020-09-29,Pennington,South Dakota,46103.0,2365,37.0
+2020-09-30,Pennington,Minnesota,27113.0,120,1.0
+2020-09-30,Pennington,South Dakota,46103.0,2405,37.0
+2020-10-01,Pennington,Minnesota,27113.0,120,1.0
+2020-10-01,Pennington,South Dakota,46103.0,2479,37.0
+2020-10-02,Pennington,Minnesota,27113.0,123,1.0
+2020-10-02,Pennington,South Dakota,46103.0,2516,37.0
+2020-10-03,Pennington,Minnesota,27113.0,129,1.0
+2020-10-03,Pennington,South Dakota,46103.0,2568,37.0
+2020-10-04,Pennington,Minnesota,27113.0,136,1.0
+2020-10-04,Pennington,South Dakota,46103.0,2607,37.0
+2020-10-05,Pennington,Minnesota,27113.0,136,1.0
+2020-10-05,Pennington,South Dakota,46103.0,2623,37.0
+2020-10-06,Pennington,Minnesota,27113.0,136,1.0
+2020-10-06,Pennington,South Dakota,46103.0,2667,37.0
+2020-10-07,Pennington,Minnesota,27113.0,138,1.0
+2020-10-07,Pennington,South Dakota,46103.0,2864,38.0
+2020-10-08,Pennington,Minnesota,27113.0,140,1.0
+2020-10-08,Pennington,South Dakota,46103.0,2921,38.0
+2020-10-09,Pennington,Minnesota,27113.0,140,1.0
+2020-10-09,Pennington,South Dakota,46103.0,3001,38.0
+2020-10-10,Pennington,Minnesota,27113.0,142,1.0
+2020-10-10,Pennington,South Dakota,46103.0,3063,40.0
+2020-10-11,Pennington,Minnesota,27113.0,144,1.0
+2020-10-11,Pennington,South Dakota,46103.0,3121,40.0
+2020-10-12,Pennington,Minnesota,27113.0,145,1.0
+2020-10-12,Pennington,South Dakota,46103.0,3177,40.0
+2020-10-13,Pennington,Minnesota,27113.0,145,1.0
+2020-10-13,Pennington,South Dakota,46103.0,3207,40.0
+2020-10-14,Pennington,Minnesota,27113.0,150,1.0
+2020-10-14,Pennington,South Dakota,46103.0,3292,41.0
+2020-10-15,Pennington,Minnesota,27113.0,151,1.0
+2020-10-15,Pennington,South Dakota,46103.0,3378,42.0
+2020-10-16,Pennington,Minnesota,27113.0,153,1.0
+2020-10-16,Pennington,South Dakota,46103.0,3468,42.0
+2020-10-17,Pennington,Minnesota,27113.0,157,1.0
+2020-10-17,Pennington,South Dakota,46103.0,3504,42.0
+2020-10-18,Pennington,Minnesota,27113.0,162,1.0
+2020-10-18,Pennington,South Dakota,46103.0,3554,43.0
+2020-10-19,Pennington,Minnesota,27113.0,163,1.0
+2020-10-19,Pennington,South Dakota,46103.0,3591,43.0
+2020-10-20,Pennington,Minnesota,27113.0,165,1.0
+2020-10-20,Pennington,South Dakota,46103.0,3687,44.0
+2020-10-21,Pennington,Minnesota,27113.0,170,1.0
+2020-10-21,Pennington,South Dakota,46103.0,3742,44.0
+2020-10-22,Pennington,Minnesota,27113.0,171,1.0
+2020-10-22,Pennington,South Dakota,46103.0,3835,46.0
+2020-10-23,Pennington,Minnesota,27113.0,174,1.0
+2020-10-23,Pennington,South Dakota,46103.0,3909,48.0
+2020-10-24,Pennington,Minnesota,27113.0,185,1.0
+2020-10-24,Pennington,South Dakota,46103.0,4042,48.0
+2020-10-25,Pennington,Minnesota,27113.0,191,1.0
+2020-10-25,Pennington,South Dakota,46103.0,4136,48.0
+2020-10-26,Pennington,Minnesota,27113.0,195,1.0
+2020-10-26,Pennington,South Dakota,46103.0,4183,48.0
+2020-10-27,Pennington,Minnesota,27113.0,207,1.0
+2020-10-27,Pennington,South Dakota,46103.0,4239,48.0
+2020-10-28,Pennington,Minnesota,27113.0,209,1.0
+2020-10-28,Pennington,South Dakota,46103.0,4381,48.0
+2020-10-29,Pennington,Minnesota,27113.0,218,1.0
+2020-10-29,Pennington,South Dakota,46103.0,4466,48.0
+2020-10-30,Pennington,Minnesota,27113.0,222,1.0
+2020-10-30,Pennington,South Dakota,46103.0,4633,48.0
+2020-10-31,Pennington,Minnesota,27113.0,227,1.0
+2020-10-31,Pennington,South Dakota,46103.0,4787,48.0
+2020-11-01,Pennington,Minnesota,27113.0,235,2.0
+2020-11-01,Pennington,South Dakota,46103.0,4914,48.0
+2020-11-02,Pennington,Minnesota,27113.0,238,2.0
+2020-11-02,Pennington,South Dakota,46103.0,4948,48.0
+2020-11-03,Pennington,Minnesota,27113.0,240,2.0
+2020-11-03,Pennington,South Dakota,46103.0,5049,48.0
+2020-11-04,Pennington,Minnesota,27113.0,246,2.0
+2020-11-04,Pennington,South Dakota,46103.0,5181,50.0
+2020-11-05,Pennington,Minnesota,27113.0,254,2.0
+2020-11-05,Pennington,South Dakota,46103.0,5377,50.0
+2020-11-06,Pennington,Minnesota,27113.0,261,2.0
+2020-11-06,Pennington,South Dakota,46103.0,5475,50.0
+2020-11-07,Pennington,Minnesota,27113.0,269,2.0
+2020-11-07,Pennington,South Dakota,46103.0,5639,50.0
+2020-11-08,Pennington,Minnesota,27113.0,278,2.0
+2020-11-08,Pennington,South Dakota,46103.0,5767,50.0
+2020-11-09,Pennington,Minnesota,27113.0,288,2.0
+2020-11-09,Pennington,South Dakota,46103.0,5856,50.0
+2020-11-10,Pennington,Minnesota,27113.0,296,2.0
+2020-11-10,Pennington,South Dakota,46103.0,5981,51.0
+2020-11-11,Pennington,Minnesota,27113.0,312,2.0
+2020-11-11,Pennington,South Dakota,46103.0,6175,55.0
+2020-11-12,Pennington,Minnesota,27113.0,331,2.0
+2020-11-12,Pennington,South Dakota,46103.0,6519,55.0
+2020-11-13,Pennington,Minnesota,27113.0,358,2.0
+2020-11-13,Pennington,South Dakota,46103.0,6647,55.0
+2020-11-14,Pennington,Minnesota,27113.0,375,3.0
+2020-11-14,Pennington,South Dakota,46103.0,6847,59.0
+2020-11-15,Pennington,Minnesota,27113.0,388,4.0
+2020-11-15,Pennington,South Dakota,46103.0,6993,59.0
+2020-11-16,Pennington,Minnesota,27113.0,411,4.0
+2020-11-16,Pennington,South Dakota,46103.0,7077,59.0
+2020-11-17,Pennington,Minnesota,27113.0,427,4.0
+2020-11-17,Pennington,South Dakota,46103.0,7159,59.0
+2020-11-18,Pennington,Minnesota,27113.0,439,4.0
+2020-11-18,Pennington,South Dakota,46103.0,7385,60.0
+2020-11-19,Pennington,Minnesota,27113.0,451,4.0
+2020-11-19,Pennington,South Dakota,46103.0,7469,60.0
+2020-11-20,Pennington,Minnesota,27113.0,466,4.0
+2020-11-20,Pennington,South Dakota,46103.0,7608,60.0
+2020-11-21,Pennington,Minnesota,27113.0,480,6.0
+2020-11-21,Pennington,South Dakota,46103.0,7679,65.0
+2020-11-22,Pennington,Minnesota,27113.0,507,6.0
+2020-11-22,Pennington,South Dakota,46103.0,7764,66.0
+2020-11-23,Pennington,Minnesota,27113.0,535,6.0
+2020-11-23,Pennington,South Dakota,46103.0,7843,66.0
+2020-11-24,Pennington,Minnesota,27113.0,557,6.0
+2020-11-24,Pennington,South Dakota,46103.0,7960,67.0
+2020-11-25,Pennington,Minnesota,27113.0,585,6.0
+2020-11-25,Pennington,South Dakota,46103.0,8122,70.0
+2020-11-26,Pennington,Minnesota,27113.0,585,6.0
+2020-11-26,Pennington,South Dakota,46103.0,8122,70.0
+2020-11-27,Pennington,Minnesota,27113.0,613,7.0
+2020-11-27,Pennington,South Dakota,46103.0,8375,72.0
+2020-11-28,Pennington,Minnesota,27113.0,627,7.0
+2020-11-28,Pennington,South Dakota,46103.0,8465,76.0
+2020-11-29,Pennington,Minnesota,27113.0,647,8.0
+2020-11-29,Pennington,South Dakota,46103.0,8604,76.0
+2020-11-30,Pennington,Minnesota,27113.0,663,8.0
+2020-11-30,Pennington,South Dakota,46103.0,8670,76.0
+2020-12-01,Pennington,Minnesota,27113.0,669,8.0
+2020-12-01,Pennington,South Dakota,46103.0,8733,77.0
+2020-12-02,Pennington,Minnesota,27113.0,675,8.0
+2020-12-02,Pennington,South Dakota,46103.0,8912,78.0
+2020-12-03,Pennington,Minnesota,27113.0,705,8.0
+2020-12-03,Pennington,South Dakota,46103.0,9036,78.0
+2020-12-04,Pennington,Minnesota,27113.0,733,9.0
+2020-12-04,Pennington,South Dakota,46103.0,9153,79.0
+2020-12-05,Pennington,Minnesota,27113.0,765,9.0
+2020-12-05,Pennington,South Dakota,46103.0,9278,83.0
+2020-12-06,Pennington,Minnesota,27113.0,782,9.0
+2020-12-06,Pennington,South Dakota,46103.0,9349,89.0
+2020-12-07,Pennington,Minnesota,27113.0,793,9.0
+2020-12-07,Pennington,South Dakota,46103.0,9407,89.0
+2020-12-08,Pennington,Minnesota,27113.0,800,9.0
+2020-12-08,Pennington,South Dakota,46103.0,9447,89.0
+2020-12-09,Pennington,Minnesota,27113.0,799,9.0
+2020-12-09,Pennington,South Dakota,46103.0,9608,94.0
+2020-12-10,Pennington,Minnesota,27113.0,811,9.0
+2020-12-10,Pennington,South Dakota,46103.0,9703,97.0
+2020-12-11,Pennington,Minnesota,27113.0,819,9.0
+2020-12-11,Pennington,South Dakota,46103.0,9817,106.0
+2020-12-12,Pennington,Minnesota,27113.0,823,9.0
+2020-12-12,Pennington,South Dakota,46103.0,9943,111.0
+2020-12-13,Pennington,Minnesota,27113.0,830,10.0
+2020-12-13,Pennington,South Dakota,46103.0,10006,115.0
+2020-12-14,Pennington,Minnesota,27113.0,832,10.0
+2020-12-14,Pennington,South Dakota,46103.0,10062,115.0
+2020-12-15,Pennington,Minnesota,27113.0,842,10.0
+2020-12-15,Pennington,South Dakota,46103.0,10093,116.0
+2020-12-16,Pennington,Minnesota,27113.0,848,11.0
+2020-12-16,Pennington,South Dakota,46103.0,10218,119.0
+2020-12-17,Pennington,Minnesota,27113.0,847,12.0
+2020-12-17,Pennington,South Dakota,46103.0,10295,119.0
+2020-12-18,Pennington,Minnesota,27113.0,863,12.0
+2020-12-18,Pennington,South Dakota,46103.0,10379,123.0
+2020-12-19,Pennington,Minnesota,27113.0,865,12.0
+2020-12-19,Pennington,South Dakota,46103.0,10454,122.0
+2020-12-20,Pennington,Minnesota,27113.0,865,12.0
+2020-12-20,Pennington,South Dakota,46103.0,10505,122.0
+2020-12-21,Pennington,Minnesota,27113.0,867,12.0
+2020-12-21,Pennington,South Dakota,46103.0,10543,122.0
+2020-12-22,Pennington,Minnesota,27113.0,871,12.0
+2020-12-22,Pennington,South Dakota,46103.0,10613,122.0
+2020-12-23,Pennington,Minnesota,27113.0,873,13.0
+2020-12-23,Pennington,South Dakota,46103.0,10728,123.0
+2020-12-24,Pennington,Minnesota,27113.0,875,14.0
+2020-12-24,Pennington,South Dakota,46103.0,10802,126.0
+2020-12-25,Pennington,Minnesota,27113.0,875,14.0
+2020-12-25,Pennington,South Dakota,46103.0,10802,126.0
+2020-12-26,Pennington,Minnesota,27113.0,878,14.0
+2020-12-26,Pennington,South Dakota,46103.0,10862,127.0
+2020-12-27,Pennington,Minnesota,27113.0,882,14.0
+2020-12-27,Pennington,South Dakota,46103.0,10909,127.0
+2020-12-28,Pennington,Minnesota,27113.0,882,14.0
+2020-12-28,Pennington,South Dakota,46103.0,10950,127.0
+2020-12-29,Pennington,Minnesota,27113.0,895,14.0
+2020-12-29,Pennington,South Dakota,46103.0,11029,127.0
+2020-12-30,Pennington,Minnesota,27113.0,900,14.0
+2020-12-30,Pennington,South Dakota,46103.0,11117,128.0
+2020-12-31,Pennington,Minnesota,27113.0,905,14.0
+2020-12-31,Pennington,South Dakota,46103.0,11197,130.0
+2021-01-01,Pennington,Minnesota,27113.0,905,14.0
+2021-01-01,Pennington,South Dakota,46103.0,11197,130.0
+2021-01-02,Pennington,Minnesota,27113.0,906,14.0
+2021-01-02,Pennington,South Dakota,46103.0,11347,133.0
+2021-01-03,Pennington,Minnesota,27113.0,908,14.0
+2021-01-03,Pennington,South Dakota,46103.0,11432,133.0
+2021-01-04,Pennington,Minnesota,27113.0,911,14.0
+2021-01-04,Pennington,South Dakota,46103.0,11457,133.0
+2021-01-05,Pennington,Minnesota,27113.0,914,14.0
+2021-01-05,Pennington,South Dakota,46103.0,11520,133.0
+2021-01-06,Pennington,Minnesota,27113.0,915,14.0
+2021-01-06,Pennington,South Dakota,46103.0,11614,135.0
+2021-01-07,Pennington,Minnesota,27113.0,919,14.0
+2021-01-07,Pennington,South Dakota,46103.0,11673,139.0
+2021-01-08,Pennington,Minnesota,27113.0,921,14.0
+2021-01-08,Pennington,South Dakota,46103.0,11718,141.0
+2021-01-09,Pennington,Minnesota,27113.0,923,15.0
+2021-01-09,Pennington,South Dakota,46103.0,11755,142.0
+2021-01-10,Pennington,Minnesota,27113.0,927,15.0
+2021-01-10,Pennington,South Dakota,46103.0,11797,143.0
+2021-01-11,Pennington,Minnesota,27113.0,932,15.0
+2021-01-11,Pennington,South Dakota,46103.0,11811,143.0
+2021-01-12,Pennington,Minnesota,27113.0,939,15.0
+2021-01-12,Pennington,South Dakota,46103.0,11838,143.0
+2021-01-13,Pennington,Minnesota,27113.0,948,15.0
+2021-01-13,Pennington,South Dakota,46103.0,11881,148.0
+2021-01-14,Pennington,Minnesota,27113.0,959,15.0
+2021-01-14,Pennington,South Dakota,46103.0,11931,150.0
+2021-01-15,Pennington,Minnesota,27113.0,967,15.0
+2021-01-15,Pennington,South Dakota,46103.0,11982,151.0
+2021-01-16,Pennington,Minnesota,27113.0,977,15.0
+2021-01-16,Pennington,South Dakota,46103.0,12015,151.0
+2021-01-17,Pennington,Minnesota,27113.0,988,15.0
+2021-01-17,Pennington,South Dakota,46103.0,12043,157.0
+2021-01-18,Pennington,Minnesota,27113.0,992,15.0
+2021-01-18,Pennington,South Dakota,46103.0,12057,160.0
+2021-01-19,Pennington,Minnesota,27113.0,992,15.0
+2021-01-19,Pennington,South Dakota,46103.0,12068,160.0
+2021-01-20,Pennington,Minnesota,27113.0,997,15.0
+2021-01-20,Pennington,South Dakota,46103.0,12115,160.0
+2021-01-21,Pennington,Minnesota,27113.0,1003,15.0
+2021-01-21,Pennington,South Dakota,46103.0,12139,162.0
+2021-01-22,Pennington,Minnesota,27113.0,1007,16.0
+2021-01-22,Pennington,South Dakota,46103.0,12181,164.0
+2021-01-23,Pennington,Minnesota,27113.0,1010,16.0
+2021-01-23,Pennington,South Dakota,46103.0,12206,165.0
+2021-01-24,Pennington,Minnesota,27113.0,1010,16.0
+2021-01-24,Pennington,South Dakota,46103.0,12241,165.0
+2021-01-25,Pennington,Minnesota,27113.0,1010,16.0
+2021-01-25,Pennington,South Dakota,46103.0,12248,165.0
+2021-01-26,Pennington,Minnesota,27113.0,1013,16.0
+2021-01-26,Pennington,South Dakota,46103.0,12271,165.0
+2021-01-27,Pennington,Minnesota,27113.0,1012,16.0
+2021-01-27,Pennington,South Dakota,46103.0,12295,166.0
+2021-01-28,Pennington,Minnesota,27113.0,1015,16.0
+2021-01-28,Pennington,South Dakota,46103.0,12310,167.0
+2021-01-29,Pennington,Minnesota,27113.0,1015,16.0
+2021-01-29,Pennington,South Dakota,46103.0,12335,167.0
+2021-01-30,Pennington,Minnesota,27113.0,1016,16.0
+2021-01-30,Pennington,South Dakota,46103.0,12353,168.0
+2021-01-31,Pennington,Minnesota,27113.0,1016,16.0
+2021-01-31,Pennington,South Dakota,46103.0,12370,170.0
+2021-02-01,Pennington,Minnesota,27113.0,1017,16.0
+2021-02-01,Pennington,South Dakota,46103.0,12379,170.0
+2021-02-02,Pennington,Minnesota,27113.0,1017,16.0
+2021-02-02,Pennington,South Dakota,46103.0,12395,170.0
+2021-02-03,Pennington,Minnesota,27113.0,1019,16.0
+2021-02-03,Pennington,South Dakota,46103.0,12424,170.0
+2021-02-04,Pennington,Minnesota,27113.0,1023,16.0
+2021-02-04,Pennington,South Dakota,46103.0,12444,171.0
+2021-02-05,Pennington,Minnesota,27113.0,1035,16.0
+2021-02-05,Pennington,South Dakota,46103.0,12464,174.0
+2021-02-06,Pennington,Minnesota,27113.0,1049,16.0
+2021-02-06,Pennington,South Dakota,46103.0,12483,174.0
+2021-02-07,Pennington,Minnesota,27113.0,1057,16.0
+2021-02-07,Pennington,South Dakota,46103.0,12494,176.0
+2021-02-08,Pennington,Minnesota,27113.0,1060,16.0
+2021-02-08,Pennington,South Dakota,46103.0,12501,176.0
+2021-02-09,Pennington,Minnesota,27113.0,1063,16.0
+2021-02-09,Pennington,South Dakota,46103.0,12521,176.0
+2021-02-10,Pennington,Minnesota,27113.0,1081,16.0
+2021-02-10,Pennington,South Dakota,46103.0,12532,177.0
+2021-02-11,Pennington,Minnesota,27113.0,1103,16.0
+2021-02-11,Pennington,South Dakota,46103.0,12559,180.0
+2021-02-12,Pennington,Minnesota,27113.0,1123,16.0
+2021-02-12,Pennington,South Dakota,46103.0,12580,181.0
+2021-02-13,Pennington,Minnesota,27113.0,1150,16.0
+2021-02-13,Pennington,South Dakota,46103.0,12601,182.0
+2021-02-14,Pennington,Minnesota,27113.0,1157,16.0
+2021-02-14,Pennington,South Dakota,46103.0,12616,183.0
+2021-02-15,Pennington,Minnesota,27113.0,1163,16.0
+2021-02-15,Pennington,South Dakota,46103.0,12629,183.0
+2021-02-16,Pennington,Minnesota,27113.0,1164,16.0
+2021-02-16,Pennington,South Dakota,46103.0,12653,183.0
+2021-02-17,Pennington,Minnesota,27113.0,1190,16.0
+2021-02-17,Pennington,South Dakota,46103.0,12669,183.0
+2021-02-18,Pennington,Minnesota,27113.0,1202,16.0
+2021-02-18,Pennington,South Dakota,46103.0,12691,183.0
+2021-02-19,Pennington,Minnesota,27113.0,1229,16.0
+2021-02-19,Pennington,South Dakota,46103.0,12709,184.0
+2021-02-20,Pennington,Minnesota,27113.0,1237,16.0
+2021-02-20,Pennington,South Dakota,46103.0,12727,184.0
+2021-02-21,Pennington,Minnesota,27113.0,1245,16.0
+2021-02-21,Pennington,South Dakota,46103.0,12746,184.0
+2021-02-22,Pennington,Minnesota,27113.0,1255,16.0
+2021-02-22,Pennington,South Dakota,46103.0,12754,184.0
+2021-02-23,Pennington,Minnesota,27113.0,1257,16.0
+2021-02-23,Pennington,South Dakota,46103.0,12787,184.0
+2021-02-24,Pennington,Minnesota,27113.0,1270,16.0
+2021-02-24,Pennington,South Dakota,46103.0,12827,184.0
+2021-02-25,Pennington,Minnesota,27113.0,1278,16.0
+2021-02-25,Pennington,South Dakota,46103.0,12860,184.0
+2021-02-26,Pennington,Minnesota,27113.0,1288,16.0
+2021-02-26,Pennington,South Dakota,46103.0,12871,184.0
+2021-02-27,Pennington,Minnesota,27113.0,1318,16.0
+2021-02-27,Pennington,South Dakota,46103.0,12890,187.0
+2021-02-28,Pennington,Minnesota,27113.0,1332,16.0
+2021-02-28,Pennington,South Dakota,46103.0,12903,188.0
+2021-03-01,Pennington,Minnesota,27113.0,1341,16.0
+2021-03-01,Pennington,South Dakota,46103.0,12908,188.0
+2021-03-02,Pennington,Minnesota,27113.0,1344,16.0
+2021-03-02,Pennington,South Dakota,46103.0,12918,188.0
+2021-03-03,Pennington,Minnesota,27113.0,1363,16.0
+2021-03-03,Pennington,South Dakota,46103.0,12938,188.0
+2021-03-04,Pennington,Minnesota,27113.0,1370,16.0
+2021-03-04,Pennington,South Dakota,46103.0,12962,188.0
+2021-03-05,Pennington,Minnesota,27113.0,1377,16.0
+2021-03-05,Pennington,South Dakota,46103.0,12974,188.0
+2021-03-06,Pennington,Minnesota,27113.0,1387,16.0
+2021-03-06,Pennington,South Dakota,46103.0,12980,188.0
+2021-03-07,Pennington,Minnesota,27113.0,1398,16.0
+2021-03-07,Pennington,South Dakota,46103.0,12994,188.0
+2021-03-08,Pennington,Minnesota,27113.0,1398,16.0
+2021-03-08,Pennington,South Dakota,46103.0,12992,188.0
+2021-03-09,Pennington,Minnesota,27113.0,1398,16.0
+2021-03-09,Pennington,South Dakota,46103.0,13005,188.0
+2021-03-10,Pennington,Minnesota,27113.0,1409,16.0
+2021-03-10,Pennington,South Dakota,46103.0,13026,188.0
+2021-03-11,Pennington,Minnesota,27113.0,1410,16.0
+2021-03-11,Pennington,South Dakota,46103.0,13036,188.0
+2021-03-12,Pennington,Minnesota,27113.0,1432,17.0
+2021-03-12,Pennington,South Dakota,46103.0,13051,187.0
+2021-03-13,Pennington,Minnesota,27113.0,1435,17.0
+2021-03-13,Pennington,South Dakota,46103.0,13067,188.0
+2021-03-14,Pennington,Minnesota,27113.0,1440,18.0
+2021-03-14,Pennington,South Dakota,46103.0,13070,189.0
+2021-03-15,Pennington,Minnesota,27113.0,1440,18.0
+2021-03-15,Pennington,South Dakota,46103.0,13072,189.0
+2021-03-16,Pennington,Minnesota,27113.0,1445,18.0
+2021-03-16,Pennington,South Dakota,46103.0,13079,189.0
+2021-03-17,Pennington,Minnesota,27113.0,1445,18.0
+2021-03-17,Pennington,South Dakota,46103.0,13092,189.0
+2021-03-18,Pennington,Minnesota,27113.0,1448,18.0
+2021-03-18,Pennington,South Dakota,46103.0,13108,190.0
+2021-03-19,Pennington,Minnesota,27113.0,1450,18.0
+2021-03-19,Pennington,South Dakota,46103.0,13148,190.0
+2021-03-20,Pennington,Minnesota,27113.0,1458,18.0
+2021-03-20,Pennington,South Dakota,46103.0,13162,190.0
+2021-03-21,Pennington,Minnesota,27113.0,1459,18.0
+2021-03-21,Pennington,South Dakota,46103.0,13168,190.0
+2021-03-22,Pennington,Minnesota,27113.0,1464,18.0
+2021-03-22,Pennington,South Dakota,46103.0,13174,190.0
+2021-03-23,Pennington,Minnesota,27113.0,1464,18.0
+2021-03-23,Pennington,South Dakota,46103.0,13177,190.0
+2021-03-24,Pennington,Minnesota,27113.0,1467,18.0
+2021-03-24,Pennington,South Dakota,46103.0,13200,190.0
+2021-03-25,Pennington,Minnesota,27113.0,1469,18.0
+2021-03-25,Pennington,South Dakota,46103.0,13209,190.0
+2021-03-26,Pennington,Minnesota,27113.0,1471,18.0
+2021-03-26,Pennington,South Dakota,46103.0,13218,190.0
+2021-03-27,Pennington,Minnesota,27113.0,1472,18.0
+2021-03-27,Pennington,South Dakota,46103.0,13226,190.0
+2021-03-28,Pennington,Minnesota,27113.0,1473,18.0
+2021-03-28,Pennington,South Dakota,46103.0,13232,190.0
+2021-03-29,Pennington,Minnesota,27113.0,1474,18.0
+2021-03-29,Pennington,South Dakota,46103.0,13237,190.0
+2021-03-30,Pennington,Minnesota,27113.0,1474,18.0
+2021-03-30,Pennington,South Dakota,46103.0,13237,190.0
+2021-03-31,Pennington,Minnesota,27113.0,1476,18.0
+2021-03-31,Pennington,South Dakota,46103.0,13246,190.0
+2021-04-01,Pennington,Minnesota,27113.0,1478,18.0
+2021-04-01,Pennington,South Dakota,46103.0,13253,190.0
+2021-04-02,Pennington,Minnesota,27113.0,1478,18.0
+2021-04-02,Pennington,South Dakota,46103.0,13267,190.0
+2021-04-03,Pennington,Minnesota,27113.0,1479,18.0
+2021-04-03,Pennington,South Dakota,46103.0,13275,190.0
+2021-04-04,Pennington,Minnesota,27113.0,1479,18.0
+2021-04-04,Pennington,South Dakota,46103.0,13275,190.0
+2021-04-05,Pennington,Minnesota,27113.0,1479,18.0
+2021-04-05,Pennington,South Dakota,46103.0,13279,190.0
+2021-04-06,Pennington,Minnesota,27113.0,1480,18.0
+2021-04-06,Pennington,South Dakota,46103.0,13293,190.0
+2021-04-07,Pennington,Minnesota,27113.0,1482,18.0
+2021-04-07,Pennington,South Dakota,46103.0,13315,190.0
+2021-04-08,Pennington,Minnesota,27113.0,1484,18.0
+2021-04-08,Pennington,South Dakota,46103.0,13328,190.0
+2021-04-09,Pennington,Minnesota,27113.0,1484,19.0
+2021-04-09,Pennington,South Dakota,46103.0,13357,190.0
+2021-04-10,Pennington,Minnesota,27113.0,1484,19.0
+2021-04-10,Pennington,South Dakota,46103.0,13371,190.0
+2021-04-11,Pennington,Minnesota,27113.0,1485,19.0
+2021-04-11,Pennington,South Dakota,46103.0,13371,190.0
+2021-04-12,Pennington,Minnesota,27113.0,1487,19.0
+2021-04-12,Pennington,South Dakota,46103.0,13376,189.0
+2021-04-13,Pennington,Minnesota,27113.0,1488,19.0
+2021-04-13,Pennington,South Dakota,46103.0,13400,189.0
+2021-04-14,Pennington,Minnesota,27113.0,1490,19.0
+2021-04-14,Pennington,South Dakota,46103.0,13420,189.0
+2021-04-15,Pennington,Minnesota,27113.0,1495,19.0
+2021-04-15,Pennington,South Dakota,46103.0,13434,189.0
+2021-04-16,Pennington,Minnesota,27113.0,1506,19.0
+2021-04-16,Pennington,South Dakota,46103.0,13439,189.0
+2021-04-17,Pennington,Minnesota,27113.0,1506,19.0
+2021-04-17,Pennington,South Dakota,46103.0,13454,189.0
+2021-04-18,Pennington,Minnesota,27113.0,1510,19.0
+2021-04-18,Pennington,South Dakota,46103.0,13454,189.0
+2021-04-19,Pennington,Minnesota,27113.0,1512,19.0
+2021-04-19,Pennington,South Dakota,46103.0,13468,190.0
+2021-04-20,Pennington,Minnesota,27113.0,1512,19.0
+2021-04-20,Pennington,South Dakota,46103.0,13483,190.0
+2021-04-21,Pennington,Minnesota,27113.0,1515,19.0
+2021-04-21,Pennington,South Dakota,46103.0,13495,190.0
+2021-04-22,Pennington,Minnesota,27113.0,1519,19.0
+2021-04-22,Pennington,South Dakota,46103.0,13514,190.0
+2021-04-23,Pennington,Minnesota,27113.0,1521,19.0
+2021-04-23,Pennington,South Dakota,46103.0,13528,190.0
+2021-04-24,Pennington,Minnesota,27113.0,1523,19.0
+2021-04-24,Pennington,South Dakota,46103.0,13545,190.0
+2021-04-25,Pennington,Minnesota,27113.0,1523,19.0
+2021-04-25,Pennington,South Dakota,46103.0,13545,190.0
+2021-04-26,Pennington,Minnesota,27113.0,1524,19.0
+2021-04-26,Pennington,South Dakota,46103.0,13550,190.0
+2021-04-27,Pennington,Minnesota,27113.0,1525,19.0
+2021-04-27,Pennington,South Dakota,46103.0,13565,190.0
+2021-04-28,Pennington,Minnesota,27113.0,1529,19.0
+2021-04-28,Pennington,South Dakota,46103.0,13585,190.0
+2021-04-29,Pennington,Minnesota,27113.0,1529,19.0
+2021-04-29,Pennington,South Dakota,46103.0,13592,190.0
+2021-04-30,Pennington,Minnesota,27113.0,1530,19.0
+2021-04-30,Pennington,South Dakota,46103.0,13606,190.0
+2021-05-01,Pennington,Minnesota,27113.0,1532,19.0
+2021-05-01,Pennington,South Dakota,46103.0,13606,190.0
+2021-05-02,Pennington,Minnesota,27113.0,1532,19.0
+2021-05-02,Pennington,South Dakota,46103.0,13606,190.0
+2021-05-03,Pennington,Minnesota,27113.0,1532,19.0
+2021-05-03,Pennington,South Dakota,46103.0,13620,190.0
+2021-05-04,Pennington,Minnesota,27113.0,1532,19.0
+2021-05-04,Pennington,South Dakota,46103.0,13643,190.0
+2021-05-05,Pennington,Minnesota,27113.0,1533,19.0
+2021-05-05,Pennington,South Dakota,46103.0,13659,190.0
+2021-05-06,Pennington,Minnesota,27113.0,1533,19.0
+2021-05-06,Pennington,South Dakota,46103.0,13675,190.0
+2021-05-07,Pennington,Minnesota,27113.0,1534,19.0
+2021-05-07,Pennington,South Dakota,46103.0,13684,191.0
+2021-05-08,Pennington,Minnesota,27113.0,1535,19.0
+2021-05-08,Pennington,South Dakota,46103.0,13684,191.0
+2021-05-09,Pennington,Minnesota,27113.0,1536,19.0
+2021-05-09,Pennington,South Dakota,46103.0,13684,191.0
+2021-05-10,Pennington,Minnesota,27113.0,1536,19.0
+2021-05-10,Pennington,South Dakota,46103.0,13706,192.0
+2021-05-11,Pennington,Minnesota,27113.0,1536,19.0
+2021-05-11,Pennington,South Dakota,46103.0,13726,192.0
+2021-05-12,Pennington,Minnesota,27113.0,1536,19.0
+2021-05-12,Pennington,South Dakota,46103.0,13732,192.0
+2021-05-13,Pennington,Minnesota,27113.0,1536,19.0
+2021-05-13,Pennington,South Dakota,46103.0,13742,193.0
+2021-05-14,Pennington,Minnesota,27113.0,1536,19.0
+2021-05-14,Pennington,South Dakota,46103.0,13755,193.0
+2021-05-15,Pennington,Minnesota,27113.0,1537,19.0
+2021-05-15,Pennington,South Dakota,46103.0,13755,193.0
+2021-05-16,Pennington,Minnesota,27113.0,1537,19.0
+2021-05-16,Pennington,South Dakota,46103.0,13755,193.0
+2021-05-17,Pennington,Minnesota,27113.0,1537,19.0
+2021-05-17,Pennington,South Dakota,46103.0,13756,193.0
+2021-05-18,Pennington,Minnesota,27113.0,1537,19.0
+2021-05-18,Pennington,South Dakota,46103.0,13775,193.0
+2021-05-19,Pennington,Minnesota,27113.0,1537,19.0
+2021-05-19,Pennington,South Dakota,46103.0,13780,193.0
+2021-05-20,Pennington,Minnesota,27113.0,1538,19.0
+2021-05-20,Pennington,South Dakota,46103.0,13791,195.0
+2021-05-21,Pennington,Minnesota,27113.0,1539,19.0
+2021-05-21,Pennington,South Dakota,46103.0,13791,195.0
+2021-05-22,Pennington,Minnesota,27113.0,1539,19.0
+2021-05-22,Pennington,South Dakota,46103.0,13791,195.0
+2021-05-23,Pennington,Minnesota,27113.0,1539,19.0
+2021-05-23,Pennington,South Dakota,46103.0,13791,195.0
+2021-05-24,Pennington,Minnesota,27113.0,1539,19.0
+2021-05-24,Pennington,South Dakota,46103.0,13795,197.0
+2021-05-25,Pennington,Minnesota,27113.0,1539,19.0
+2021-05-25,Pennington,South Dakota,46103.0,13806,197.0
+2021-05-26,Pennington,Minnesota,27113.0,1539,19.0
+2021-05-26,Pennington,South Dakota,46103.0,13815,197.0
+2021-05-27,Pennington,Minnesota,27113.0,1539,19.0
+2021-05-27,Pennington,South Dakota,46103.0,13825,197.0
+2021-05-28,Pennington,Minnesota,27113.0,1539,19.0
+2021-05-28,Pennington,South Dakota,46103.0,13831,199.0
+2021-05-29,Pennington,Minnesota,27113.0,1539,19.0
+2021-05-29,Pennington,South Dakota,46103.0,13831,199.0
+2021-05-30,Pennington,Minnesota,27113.0,1539,19.0
+2021-05-30,Pennington,South Dakota,46103.0,13831,199.0
+2021-05-31,Pennington,Minnesota,27113.0,1539,19.0
+2021-05-31,Pennington,South Dakota,46103.0,13837,199.0
+2021-06-01,Pennington,Minnesota,27113.0,1539,19.0
+2021-06-01,Pennington,South Dakota,46103.0,13837,199.0
+2021-06-02,Pennington,Minnesota,27113.0,1539,19.0
+2021-06-02,Pennington,South Dakota,46103.0,13844,199.0
+2021-06-03,Pennington,Minnesota,27113.0,1539,19.0
+2021-06-03,Pennington,South Dakota,46103.0,13846,199.0
+2021-06-04,Pennington,Minnesota,27113.0,1538,19.0
+2021-06-04,Pennington,South Dakota,46103.0,13849,200.0
+2021-06-05,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-05,Pennington,South Dakota,46103.0,13849,200.0
+2021-06-06,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-06,Pennington,South Dakota,46103.0,13849,200.0
+2021-06-07,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-07,Pennington,South Dakota,46103.0,13851,200.0
+2021-06-08,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-08,Pennington,South Dakota,46103.0,13861,201.0
+2021-06-09,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-09,Pennington,South Dakota,46103.0,13865,201.0
+2021-06-10,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-10,Pennington,South Dakota,46103.0,13872,201.0
+2021-06-11,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-11,Pennington,South Dakota,46103.0,13873,201.0
+2021-06-12,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-12,Pennington,South Dakota,46103.0,13873,201.0
+2021-06-13,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-13,Pennington,South Dakota,46103.0,13874,201.0
+2021-06-14,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-14,Pennington,South Dakota,46103.0,13874,201.0
+2021-06-15,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-15,Pennington,South Dakota,46103.0,13880,201.0
+2021-06-16,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-16,Pennington,South Dakota,46103.0,13886,201.0
+2021-06-17,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-17,Pennington,South Dakota,46103.0,13894,202.0
+2021-06-18,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-18,Pennington,South Dakota,46103.0,13894,202.0
+2021-06-19,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-19,Pennington,South Dakota,46103.0,13894,202.0
+2021-06-20,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-20,Pennington,South Dakota,46103.0,13894,202.0
+2021-06-21,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-21,Pennington,South Dakota,46103.0,13900,202.0
+2021-06-22,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-22,Pennington,South Dakota,46103.0,13912,202.0
+2021-06-23,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-23,Pennington,South Dakota,46103.0,13918,202.0
+2021-06-24,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-24,Pennington,South Dakota,46103.0,13922,202.0
+2021-06-25,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-25,Pennington,South Dakota,46103.0,13923,202.0
+2021-06-26,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-26,Pennington,South Dakota,46103.0,13923,202.0
+2021-06-27,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-27,Pennington,South Dakota,46103.0,13923,202.0
+2021-06-28,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-28,Pennington,South Dakota,46103.0,13928,202.0
+2021-06-29,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-29,Pennington,South Dakota,46103.0,13936,202.0
+2021-06-30,Pennington,Minnesota,27113.0,1538,20.0
+2021-06-30,Pennington,South Dakota,46103.0,13940,203.0
+2021-07-01,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-01,Pennington,South Dakota,46103.0,13944,204.0
+2021-07-02,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-02,Pennington,South Dakota,46103.0,13949,204.0
+2021-07-03,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-03,Pennington,South Dakota,46103.0,13949,204.0
+2021-07-04,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-04,Pennington,South Dakota,46103.0,13949,204.0
+2021-07-05,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-05,Pennington,South Dakota,46103.0,13949,204.0
+2021-07-06,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-06,Pennington,South Dakota,46103.0,13949,204.0
+2021-07-07,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-07,Pennington,South Dakota,46103.0,13970,205.0
+2021-07-08,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-08,Pennington,South Dakota,46103.0,13970,205.0
+2021-07-09,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-09,Pennington,South Dakota,46103.0,13970,205.0
+2021-07-10,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-10,Pennington,South Dakota,46103.0,13970,205.0
+2021-07-11,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-11,Pennington,South Dakota,46103.0,13970,205.0
+2021-07-12,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-12,Pennington,South Dakota,46103.0,13970,205.0
+2021-07-13,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-13,Pennington,South Dakota,46103.0,13970,205.0
+2021-07-14,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-14,Pennington,South Dakota,46103.0,14003,205.0
+2021-07-15,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-15,Pennington,South Dakota,46103.0,14003,205.0
+2021-07-16,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-16,Pennington,South Dakota,46103.0,14003,205.0
+2021-07-17,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-17,Pennington,South Dakota,46103.0,14003,205.0
+2021-07-18,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-18,Pennington,South Dakota,46103.0,14003,205.0
+2021-07-19,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-19,Pennington,South Dakota,46103.0,14003,205.0
+2021-07-20,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-20,Pennington,South Dakota,46103.0,14003,205.0
+2021-07-21,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-21,Pennington,South Dakota,46103.0,14041,206.0
+2021-07-22,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-22,Pennington,South Dakota,46103.0,14041,206.0
+2021-07-23,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-23,Pennington,South Dakota,46103.0,14041,206.0
+2021-07-24,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-24,Pennington,South Dakota,46103.0,14041,206.0
+2021-07-25,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-25,Pennington,South Dakota,46103.0,14041,206.0
+2021-07-26,Pennington,Minnesota,27113.0,1538,20.0
+2021-07-26,Pennington,South Dakota,46103.0,14041,206.0
+2021-07-27,Pennington,Minnesota,27113.0,1539,20.0
+2021-07-27,Pennington,South Dakota,46103.0,14041,206.0
+2021-07-28,Pennington,Minnesota,27113.0,1541,20.0
+2021-07-28,Pennington,South Dakota,46103.0,14098,206.0
+2021-07-29,Pennington,Minnesota,27113.0,1541,20.0
+2021-07-29,Pennington,South Dakota,46103.0,14098,206.0
+2021-07-30,Pennington,Minnesota,27113.0,1541,20.0
+2021-07-30,Pennington,South Dakota,46103.0,14098,206.0
+2021-07-31,Pennington,Minnesota,27113.0,1541,20.0
+2021-07-31,Pennington,South Dakota,46103.0,14098,206.0
+2021-08-01,Pennington,Minnesota,27113.0,1541,20.0
+2021-08-01,Pennington,South Dakota,46103.0,14098,206.0
+2021-08-02,Pennington,Minnesota,27113.0,1542,20.0
+2021-08-02,Pennington,South Dakota,46103.0,14098,206.0
+2021-08-03,Pennington,Minnesota,27113.0,1543,20.0
+2021-08-03,Pennington,South Dakota,46103.0,14098,206.0
+2021-08-04,Pennington,Minnesota,27113.0,1543,20.0
+2021-08-04,Pennington,South Dakota,46103.0,14175,207.0
+2021-08-05,Pennington,Minnesota,27113.0,1545,20.0
+2021-08-05,Pennington,South Dakota,46103.0,14175,207.0
+2021-08-06,Pennington,Minnesota,27113.0,1549,20.0
+2021-08-06,Pennington,South Dakota,46103.0,14175,207.0
+2021-08-07,Pennington,Minnesota,27113.0,1549,20.0
+2021-08-07,Pennington,South Dakota,46103.0,14175,207.0
+2021-08-08,Pennington,Minnesota,27113.0,1549,20.0
+2021-08-08,Pennington,South Dakota,46103.0,14175,207.0
+2021-08-09,Pennington,Minnesota,27113.0,1552,20.0
+2021-08-09,Pennington,South Dakota,46103.0,14175,207.0
+2021-08-10,Pennington,Minnesota,27113.0,1553,20.0
+2021-08-10,Pennington,South Dakota,46103.0,14175,207.0
+2021-08-11,Pennington,Minnesota,27113.0,1558,20.0
+2021-08-11,Pennington,South Dakota,46103.0,14310,208.0
+2021-08-12,Pennington,Minnesota,27113.0,1559,20.0
+2021-08-12,Pennington,South Dakota,46103.0,14342,208.0
+2021-08-13,Pennington,Minnesota,27113.0,1565,20.0
+2021-08-13,Pennington,South Dakota,46103.0,14373,208.0
+2021-08-14,Pennington,Minnesota,27113.0,1565,20.0
+2021-08-14,Pennington,South Dakota,46103.0,14373,208.0
+2021-08-15,Pennington,Minnesota,27113.0,1565,20.0
+2021-08-15,Pennington,South Dakota,46103.0,14373,208.0
+2021-08-16,Pennington,Minnesota,27113.0,1569,20.0
+2021-08-16,Pennington,South Dakota,46103.0,14413,208.0
+2021-08-17,Pennington,Minnesota,27113.0,1574,20.0
+2021-08-17,Pennington,South Dakota,46103.0,14513,208.0
+2021-08-18,Pennington,Minnesota,27113.0,1575,20.0
+2021-08-18,Pennington,South Dakota,46103.0,14598,208.0
+2021-08-19,Pennington,Minnesota,27113.0,1587,20.0
+2021-08-19,Pennington,South Dakota,46103.0,14671,208.0
+2021-08-20,Pennington,Minnesota,27113.0,1592,20.0
+2021-08-20,Pennington,South Dakota,46103.0,14744,208.0
+2021-08-21,Pennington,Minnesota,27113.0,1592,20.0
+2021-08-21,Pennington,South Dakota,46103.0,14744,208.0
+2021-08-22,Pennington,Minnesota,27113.0,1592,20.0
+2021-08-22,Pennington,South Dakota,46103.0,14744,208.0
+2021-08-23,Pennington,Minnesota,27113.0,1601,20.0
+2021-08-23,Pennington,South Dakota,46103.0,14827,208.0
+2021-08-24,Pennington,Minnesota,27113.0,1624,20.0
+2021-08-24,Pennington,South Dakota,46103.0,15020,208.0
+2021-08-25,Pennington,Minnesota,27113.0,1632,20.0
+2021-08-25,Pennington,South Dakota,46103.0,15147,208.0
+2021-08-26,Pennington,Minnesota,27113.0,1658,20.0
+2021-08-26,Pennington,South Dakota,46103.0,15273,208.0
+2021-08-27,Pennington,Minnesota,27113.0,1676,20.0
+2021-08-27,Pennington,South Dakota,46103.0,15414,209.0
+2021-08-28,Pennington,Minnesota,27113.0,1676,20.0
+2021-08-28,Pennington,South Dakota,46103.0,15414,209.0
+2021-08-29,Pennington,Minnesota,27113.0,1676,20.0
+2021-08-29,Pennington,South Dakota,46103.0,15414,209.0
+2021-08-30,Pennington,Minnesota,27113.0,1699,20.0
+2021-08-30,Pennington,South Dakota,46103.0,15544,210.0
+2021-08-31,Pennington,Minnesota,27113.0,1730,20.0
+2021-08-31,Pennington,South Dakota,46103.0,15867,210.0
+2021-09-01,Pennington,Minnesota,27113.0,1744,20.0
+2021-09-01,Pennington,South Dakota,46103.0,16026,210.0
+2021-09-02,Pennington,Minnesota,27113.0,1763,20.0
+2021-09-02,Pennington,South Dakota,46103.0,16178,210.0
+2021-09-03,Pennington,Minnesota,27113.0,1798,20.0
+2021-09-03,Pennington,South Dakota,46103.0,16316,211.0
+2021-09-04,Pennington,Minnesota,27113.0,1798,20.0
+2021-09-04,Pennington,South Dakota,46103.0,16316,211.0
+2021-09-05,Pennington,Minnesota,27113.0,1798,20.0
+2021-09-05,Pennington,South Dakota,46103.0,16316,211.0
+2021-09-06,Pennington,Minnesota,27113.0,1798,20.0
+2021-09-06,Pennington,South Dakota,46103.0,16316,211.0
+2021-09-07,Pennington,Minnesota,27113.0,1806,20.0
+2021-09-07,Pennington,South Dakota,46103.0,16438,211.0
+2021-09-08,Pennington,Minnesota,27113.0,1823,20.0
+2021-09-08,Pennington,South Dakota,46103.0,16818,211.0
+2021-09-09,Pennington,Minnesota,27113.0,1827,20.0
+2021-09-09,Pennington,South Dakota,46103.0,16978,212.0
+2021-09-10,Pennington,Minnesota,27113.0,1841,20.0
+2021-09-10,Pennington,South Dakota,46103.0,17111,215.0
+2021-09-11,Pennington,Minnesota,27113.0,1841,20.0
+2021-09-11,Pennington,South Dakota,46103.0,17111,215.0
+2021-09-12,Pennington,Minnesota,27113.0,1841,20.0
+2021-09-12,Pennington,South Dakota,46103.0,17111,215.0
+2021-09-13,Pennington,Minnesota,27113.0,1852,21.0
+2021-09-13,Pennington,South Dakota,46103.0,17241,216.0
+2021-09-14,Pennington,Minnesota,27113.0,1871,21.0
+2021-09-14,Pennington,South Dakota,46103.0,17519,217.0
+2021-09-15,Pennington,Minnesota,27113.0,1884,21.0
+2021-09-15,Pennington,South Dakota,46103.0,17651,218.0
+2021-09-16,Pennington,Minnesota,27113.0,1895,21.0
+2021-09-16,Pennington,South Dakota,46103.0,17813,221.0
+2021-09-17,Pennington,Minnesota,27113.0,1902,21.0
+2021-09-17,Pennington,South Dakota,46103.0,17964,221.0
+2021-09-18,Pennington,Minnesota,27113.0,1902,21.0
+2021-09-18,Pennington,South Dakota,46103.0,17964,221.0
+2021-09-19,Pennington,Minnesota,27113.0,1902,21.0
+2021-09-19,Pennington,South Dakota,46103.0,17964,221.0
+2021-09-20,Pennington,Minnesota,27113.0,1911,21.0
+2021-09-20,Pennington,South Dakota,46103.0,18050,223.0
+2021-09-21,Pennington,Minnesota,27113.0,1930,22.0
+2021-09-21,Pennington,South Dakota,46103.0,18206,224.0
+2021-09-22,Pennington,Minnesota,27113.0,1936,22.0
+2021-09-22,Pennington,South Dakota,46103.0,18337,225.0
+2021-09-23,Pennington,Minnesota,27113.0,1949,22.0
+2021-09-23,Pennington,South Dakota,46103.0,18468,226.0
+2021-09-24,Pennington,Minnesota,27113.0,1960,22.0
+2021-09-24,Pennington,South Dakota,46103.0,18565,230.0
+2021-09-25,Pennington,Minnesota,27113.0,1960,22.0
+2021-09-25,Pennington,South Dakota,46103.0,18565,230.0
+2021-09-26,Pennington,Minnesota,27113.0,1960,22.0
+2021-09-26,Pennington,South Dakota,46103.0,18565,230.0
+2021-09-27,Pennington,Minnesota,27113.0,1965,22.0
+2021-09-27,Pennington,South Dakota,46103.0,18625,230.0
+2021-09-28,Pennington,Minnesota,27113.0,1983,22.0
+2021-09-28,Pennington,South Dakota,46103.0,18830,231.0
+2021-09-29,Pennington,Minnesota,27113.0,1992,22.0
+2021-09-29,Pennington,South Dakota,46103.0,18933,231.0
+2021-09-30,Pennington,Minnesota,27113.0,2004,22.0
+2021-09-30,Pennington,South Dakota,46103.0,19012,232.0
+2021-10-01,Pennington,Minnesota,27113.0,2012,22.0
+2021-10-01,Pennington,South Dakota,46103.0,19080,233.0
+2021-10-02,Pennington,Minnesota,27113.0,2012,22.0
+2021-10-02,Pennington,South Dakota,46103.0,19080,233.0
+2021-10-03,Pennington,Minnesota,27113.0,2012,22.0
+2021-10-03,Pennington,South Dakota,46103.0,19080,233.0
+2021-10-04,Pennington,Minnesota,27113.0,2021,23.0
+2021-10-04,Pennington,South Dakota,46103.0,19142,236.0
+2021-10-05,Pennington,Minnesota,27113.0,2044,23.0
+2021-10-05,Pennington,South Dakota,46103.0,19283,236.0
+2021-10-06,Pennington,Minnesota,27113.0,2053,23.0
+2021-10-06,Pennington,South Dakota,46103.0,19362,236.0
+2021-10-07,Pennington,Minnesota,27113.0,2068,24.0
+2021-10-07,Pennington,South Dakota,46103.0,19507,237.0
+2021-10-08,Pennington,Minnesota,27113.0,2076,24.0
+2021-10-08,Pennington,South Dakota,46103.0,19569,238.0
+2021-10-09,Pennington,Minnesota,27113.0,2076,24.0
+2021-10-09,Pennington,South Dakota,46103.0,19569,238.0
+2021-10-10,Pennington,Minnesota,27113.0,2076,24.0
+2021-10-10,Pennington,South Dakota,46103.0,19569,238.0
+2021-10-11,Pennington,Minnesota,27113.0,2090,24.0
+2021-10-11,Pennington,South Dakota,46103.0,19569,238.0
+2021-10-12,Pennington,Minnesota,27113.0,2104,25.0
+2021-10-12,Pennington,South Dakota,46103.0,19636,239.0
+2021-10-13,Pennington,Minnesota,27113.0,2114,26.0
+2021-10-13,Pennington,South Dakota,46103.0,19840,239.0
+2021-10-14,Pennington,Minnesota,27113.0,2125,27.0
+2021-10-14,Pennington,South Dakota,46103.0,19910,239.0
+2021-10-15,Pennington,Minnesota,27113.0,2132,27.0
+2021-10-15,Pennington,South Dakota,46103.0,19958,242.0
+2021-10-16,Pennington,Minnesota,27113.0,2132,27.0
+2021-10-16,Pennington,South Dakota,46103.0,19958,242.0
+2021-10-17,Pennington,Minnesota,27113.0,2132,27.0
+2021-10-17,Pennington,South Dakota,46103.0,19958,242.0
+2021-10-18,Pennington,Minnesota,27113.0,2137,27.0
+2021-10-18,Pennington,South Dakota,46103.0,20030,243.0
+2021-10-19,Pennington,Minnesota,27113.0,2150,27.0
+2021-10-19,Pennington,South Dakota,46103.0,20201,243.0
+2021-10-20,Pennington,Minnesota,27113.0,2158,27.0
+2021-10-20,Pennington,South Dakota,46103.0,20272,243.0
+2021-10-21,Pennington,Minnesota,27113.0,2165,27.0
+2021-10-21,Pennington,South Dakota,46103.0,20353,245.0
+2021-10-22,Pennington,Minnesota,27113.0,2172,27.0
+2021-10-22,Pennington,South Dakota,46103.0,20429,246.0
+2021-10-23,Pennington,Minnesota,27113.0,2172,27.0
+2021-10-23,Pennington,South Dakota,46103.0,20429,246.0
+2021-10-24,Pennington,Minnesota,27113.0,2172,27.0
+2021-10-24,Pennington,South Dakota,46103.0,20429,246.0
+2021-10-25,Pennington,Minnesota,27113.0,2175,27.0
+2021-10-25,Pennington,South Dakota,46103.0,20488,246.0
+2021-10-26,Pennington,Minnesota,27113.0,2184,27.0
+2021-10-26,Pennington,South Dakota,46103.0,20641,247.0
+2021-10-27,Pennington,Minnesota,27113.0,2194,27.0
+2021-10-27,Pennington,South Dakota,46103.0,20706,247.0
+2021-10-28,Pennington,Minnesota,27113.0,2205,27.0
+2021-10-28,Pennington,South Dakota,46103.0,20780,248.0
+2021-10-29,Pennington,Minnesota,27113.0,2211,27.0
+2021-10-29,Pennington,South Dakota,46103.0,20863,248.0
+2021-10-30,Pennington,Minnesota,27113.0,2211,27.0
+2021-10-30,Pennington,South Dakota,46103.0,20863,248.0
+2021-10-31,Pennington,Minnesota,27113.0,2211,27.0
+2021-10-31,Pennington,South Dakota,46103.0,20863,248.0
+2021-11-01,Pennington,Minnesota,27113.0,2232,27.0
+2021-11-01,Pennington,South Dakota,46103.0,20925,248.0
+2021-11-02,Pennington,Minnesota,27113.0,2244,27.0
+2021-11-02,Pennington,South Dakota,46103.0,21046,251.0
+2021-11-03,Pennington,Minnesota,27113.0,2247,27.0
+2021-11-03,Pennington,South Dakota,46103.0,21139,253.0
+2021-11-04,Pennington,Minnesota,27113.0,2253,27.0
+2021-11-04,Pennington,South Dakota,46103.0,21223,253.0
+2021-11-05,Pennington,Minnesota,27113.0,2259,28.0
+2021-11-05,Pennington,South Dakota,46103.0,21282,255.0
+2021-11-06,Pennington,Minnesota,27113.0,2259,28.0
+2021-11-06,Pennington,South Dakota,46103.0,21282,255.0
+2021-11-07,Pennington,Minnesota,27113.0,2259,28.0
+2021-11-07,Pennington,South Dakota,46103.0,21282,255.0
+2021-11-08,Pennington,Minnesota,27113.0,2262,29.0
+2021-11-08,Pennington,South Dakota,46103.0,21354,255.0
+2021-11-09,Pennington,Minnesota,27113.0,2284,29.0
+2021-11-09,Pennington,South Dakota,46103.0,21530,256.0
+2021-11-10,Pennington,Minnesota,27113.0,2285,29.0
+2021-11-10,Pennington,South Dakota,46103.0,21606,256.0
+2021-11-11,Pennington,Minnesota,27113.0,2298,29.0
+2021-11-11,Pennington,South Dakota,46103.0,21606,256.0
+2021-11-12,Pennington,Minnesota,27113.0,2309,29.0
+2021-11-12,Pennington,South Dakota,46103.0,21666,257.0
+2021-11-13,Pennington,Minnesota,27113.0,2309,29.0
+2021-11-13,Pennington,South Dakota,46103.0,21666,257.0
+2021-11-14,Pennington,Minnesota,27113.0,2309,29.0
+2021-11-14,Pennington,South Dakota,46103.0,21666,257.0
+2021-11-15,Pennington,Minnesota,27113.0,2324,29.0
+2021-11-15,Pennington,South Dakota,46103.0,21781,259.0
+2021-11-16,Pennington,Minnesota,27113.0,2350,29.0
+2021-11-16,Pennington,South Dakota,46103.0,21912,259.0
+2021-11-17,Pennington,Minnesota,27113.0,2356,29.0
+2021-11-17,Pennington,South Dakota,46103.0,21978,259.0
+2021-11-18,Pennington,Minnesota,27113.0,2376,29.0
+2021-11-18,Pennington,South Dakota,46103.0,22039,262.0
+2021-11-19,Pennington,Minnesota,27113.0,2394,29.0
+2021-11-19,Pennington,South Dakota,46103.0,22112,262.0
+2021-11-20,Pennington,Minnesota,27113.0,2394,29.0
+2021-11-20,Pennington,South Dakota,46103.0,22112,262.0
+2021-11-21,Pennington,Minnesota,27113.0,2394,29.0
+2021-11-21,Pennington,South Dakota,46103.0,22112,262.0
+2021-11-22,Pennington,Minnesota,27113.0,2417,29.0
+2021-11-22,Pennington,South Dakota,46103.0,22165,263.0
+2021-11-23,Pennington,Minnesota,27113.0,2447,29.0
+2021-11-23,Pennington,South Dakota,46103.0,22289,264.0
+2021-11-24,Pennington,Minnesota,27113.0,2456,29.0
+2021-11-24,Pennington,South Dakota,46103.0,22374,263.0
+2021-11-25,Pennington,Minnesota,27113.0,2456,29.0
+2021-11-25,Pennington,South Dakota,46103.0,22374,263.0
+2021-11-26,Pennington,Minnesota,27113.0,2475,29.0
+2021-11-26,Pennington,South Dakota,46103.0,22374,263.0
+2021-11-27,Pennington,Minnesota,27113.0,2475,29.0
+2021-11-27,Pennington,South Dakota,46103.0,22374,263.0
+2021-11-28,Pennington,Minnesota,27113.0,2475,29.0
+2021-11-28,Pennington,South Dakota,46103.0,22374,263.0
+2021-11-29,Pennington,Minnesota,27113.0,2487,30.0
+2021-11-29,Pennington,South Dakota,46103.0,22438,263.0
+2021-11-30,Pennington,Minnesota,27113.0,2510,30.0
+2021-11-30,Pennington,South Dakota,46103.0,22590,264.0
+2021-12-01,Pennington,Minnesota,27113.0,2521,30.0
+2021-12-01,Pennington,South Dakota,46103.0,22680,266.0
+2021-12-02,Pennington,Minnesota,27113.0,2534,30.0
+2021-12-02,Pennington,South Dakota,46103.0,22733,269.0
+2021-12-03,Pennington,Minnesota,27113.0,2548,30.0
+2021-12-03,Pennington,South Dakota,46103.0,22779,269.0
+2021-12-04,Pennington,Minnesota,27113.0,2548,30.0
+2021-12-04,Pennington,South Dakota,46103.0,22779,269.0
+2021-12-05,Pennington,Minnesota,27113.0,2548,30.0
+2021-12-05,Pennington,South Dakota,46103.0,22779,269.0
+2021-12-06,Pennington,Minnesota,27113.0,2561,30.0
+2021-12-06,Pennington,South Dakota,46103.0,22820,269.0
+2021-12-07,Pennington,Minnesota,27113.0,2573,30.0
+2021-12-07,Pennington,South Dakota,46103.0,22934,270.0
+2021-12-08,Pennington,Minnesota,27113.0,2583,30.0
+2021-12-08,Pennington,South Dakota,46103.0,22981,270.0
+2021-12-09,Pennington,Minnesota,27113.0,2591,30.0
+2021-12-09,Pennington,South Dakota,46103.0,23029,271.0
+2021-12-10,Pennington,Minnesota,27113.0,2597,30.0
+2021-12-10,Pennington,South Dakota,46103.0,23068,271.0
+2021-12-11,Pennington,Minnesota,27113.0,2597,30.0
+2021-12-11,Pennington,South Dakota,46103.0,23068,271.0
+2021-12-12,Pennington,Minnesota,27113.0,2597,30.0
+2021-12-12,Pennington,South Dakota,46103.0,23068,271.0
+2021-12-13,Pennington,Minnesota,27113.0,2606,30.0
+2021-12-13,Pennington,South Dakota,46103.0,23102,272.0
+2021-12-14,Pennington,Minnesota,27113.0,2612,30.0
+2021-12-14,Pennington,South Dakota,46103.0,23160,273.0
+2021-12-15,Pennington,Minnesota,27113.0,2618,30.0
+2021-12-15,Pennington,South Dakota,46103.0,23201,273.0
+2021-12-16,Pennington,Minnesota,27113.0,2624,30.0
+2021-12-16,Pennington,South Dakota,46103.0,23252,275.0
+2021-12-17,Pennington,Minnesota,27113.0,2631,31.0
+2021-12-17,Pennington,South Dakota,46103.0,23281,275.0
+2021-12-18,Pennington,Minnesota,27113.0,2631,31.0
+2021-12-18,Pennington,South Dakota,46103.0,23281,275.0
+2021-12-19,Pennington,Minnesota,27113.0,2631,31.0
+2021-12-19,Pennington,South Dakota,46103.0,23281,275.0
+2021-12-20,Pennington,Minnesota,27113.0,2638,31.0
+2021-12-20,Pennington,South Dakota,46103.0,23307,277.0
+2021-12-21,Pennington,Minnesota,27113.0,2641,31.0
+2021-12-21,Pennington,South Dakota,46103.0,23369,278.0
+2021-12-22,Pennington,Minnesota,27113.0,2644,31.0
+2021-12-22,Pennington,South Dakota,46103.0,23419,278.0
+2021-12-23,Pennington,Minnesota,27113.0,2646,31.0
+2021-12-23,Pennington,South Dakota,46103.0,23479,278.0
+2021-12-24,Pennington,Minnesota,27113.0,2646,31.0
+2021-12-24,Pennington,South Dakota,46103.0,23479,278.0
+2021-12-25,Pennington,Minnesota,27113.0,2646,31.0
+2021-12-25,Pennington,South Dakota,46103.0,23479,278.0
+2021-12-26,Pennington,Minnesota,27113.0,2646,31.0
+2021-12-26,Pennington,South Dakota,46103.0,23479,278.0
+2021-12-27,Pennington,Minnesota,27113.0,2653,31.0
+2021-12-27,Pennington,South Dakota,46103.0,23528,280.0
+2021-12-28,Pennington,Minnesota,27113.0,2661,31.0
+2021-12-28,Pennington,South Dakota,46103.0,23691,280.0
+2021-12-29,Pennington,Minnesota,27113.0,2664,31.0
+2021-12-29,Pennington,South Dakota,46103.0,23801,280.0
+2021-12-30,Pennington,Minnesota,27113.0,2669,32.0
+2021-12-30,Pennington,South Dakota,46103.0,23859,284.0
+2021-12-31,Pennington,Minnesota,27113.0,2669,32.0
+2021-12-31,Pennington,South Dakota,46103.0,23859,284.0
+2022-01-01,Pennington,Minnesota,27113.0,2669,32.0
+2022-01-01,Pennington,South Dakota,46103.0,23859,284.0
+2022-01-02,Pennington,Minnesota,27113.0,2669,32.0
+2022-01-02,Pennington,South Dakota,46103.0,23859,284.0
+2022-01-03,Pennington,Minnesota,27113.0,2675,32.0
+2022-01-03,Pennington,South Dakota,46103.0,23942,286.0
+2022-01-04,Pennington,Minnesota,27113.0,2702,32.0
+2022-01-04,Pennington,South Dakota,46103.0,24314,286.0
+2022-01-05,Pennington,Minnesota,27113.0,2704,32.0
+2022-01-05,Pennington,South Dakota,46103.0,24488,289.0
+2022-01-06,Pennington,Minnesota,27113.0,2722,32.0
+2022-01-06,Pennington,South Dakota,46103.0,24775,289.0
+2022-01-07,Pennington,Minnesota,27113.0,2729,33.0
+2022-01-07,Pennington,South Dakota,46103.0,25010,289.0
+2022-01-08,Pennington,Minnesota,27113.0,2729,33.0
+2022-01-08,Pennington,South Dakota,46103.0,25010,289.0
+2022-01-09,Pennington,Minnesota,27113.0,2729,33.0
+2022-01-09,Pennington,South Dakota,46103.0,25010,289.0
+2022-01-10,Pennington,Minnesota,27113.0,2739,33.0
+2022-01-10,Pennington,South Dakota,46103.0,25283,291.0
+2022-01-11,Pennington,Minnesota,27113.0,2776,33.0
+2022-01-11,Pennington,South Dakota,46103.0,25913,291.0
+2022-01-12,Pennington,Minnesota,27113.0,2789,34.0
+2022-01-12,Pennington,South Dakota,46103.0,26274,292.0
+2022-01-13,Pennington,Minnesota,27113.0,2799,34.0
+2022-01-13,Pennington,South Dakota,46103.0,26606,293.0
+2022-01-14,Pennington,Minnesota,27113.0,2809,34.0
+2022-01-14,Pennington,South Dakota,46103.0,27003,295.0
+2022-01-15,Pennington,Minnesota,27113.0,2809,34.0
+2022-01-15,Pennington,South Dakota,46103.0,27003,295.0
+2022-01-16,Pennington,Minnesota,27113.0,2809,34.0
+2022-01-16,Pennington,South Dakota,46103.0,27003,295.0
+2022-01-17,Pennington,Minnesota,27113.0,2809,34.0
+2022-01-17,Pennington,South Dakota,46103.0,27003,295.0
+2022-01-18,Pennington,Minnesota,27113.0,2821,34.0
+2022-01-18,Pennington,South Dakota,46103.0,27354,295.0
+2022-01-19,Pennington,Minnesota,27113.0,2868,34.0
+2022-01-19,Pennington,South Dakota,46103.0,28545,298.0
+2022-01-20,Pennington,Minnesota,27113.0,2897,34.0
+2022-01-20,Pennington,South Dakota,46103.0,28937,301.0
+2022-01-21,Pennington,Minnesota,27113.0,2919,34.0
+2022-01-21,Pennington,South Dakota,46103.0,29364,304.0
+2022-01-22,Pennington,Minnesota,27113.0,2919,34.0
+2022-01-22,Pennington,South Dakota,46103.0,29364,304.0
+2022-01-23,Pennington,Minnesota,27113.0,2919,34.0
+2022-01-23,Pennington,South Dakota,46103.0,29364,304.0
+2022-01-24,Pennington,Minnesota,27113.0,2943,34.0
+2022-01-24,Pennington,South Dakota,46103.0,29687,304.0
+2022-01-25,Pennington,Minnesota,27113.0,3016,34.0
+2022-01-25,Pennington,South Dakota,46103.0,30268,304.0
+2022-01-26,Pennington,Minnesota,27113.0,3058,34.0
+2022-01-26,Pennington,South Dakota,46103.0,30530,306.0
+2022-01-27,Pennington,Minnesota,27113.0,3105,35.0
+2022-01-27,Pennington,South Dakota,46103.0,30740,306.0
+2022-01-28,Pennington,Minnesota,27113.0,3129,35.0
+2022-01-28,Pennington,South Dakota,46103.0,30904,306.0
+2022-01-29,Pennington,Minnesota,27113.0,3129,35.0
+2022-01-29,Pennington,South Dakota,46103.0,30904,306.0
+2022-01-30,Pennington,Minnesota,27113.0,3129,35.0
+2022-01-30,Pennington,South Dakota,46103.0,30904,306.0
+2022-01-31,Pennington,Minnesota,27113.0,3174,35.0
+2022-01-31,Pennington,South Dakota,46103.0,31070,309.0
+2022-02-01,Pennington,Minnesota,27113.0,3235,36.0
+2022-02-01,Pennington,South Dakota,46103.0,31382,310.0
+2022-02-02,Pennington,Minnesota,27113.0,3246,36.0
+2022-02-02,Pennington,South Dakota,46103.0,31482,310.0
+2022-02-03,Pennington,Minnesota,27113.0,3263,36.0
+2022-02-03,Pennington,South Dakota,46103.0,31602,310.0
+2022-02-04,Pennington,Minnesota,27113.0,3281,36.0
+2022-02-04,Pennington,South Dakota,46103.0,31676,311.0
+2022-02-05,Pennington,Minnesota,27113.0,3281,36.0
+2022-02-05,Pennington,South Dakota,46103.0,31676,311.0
+2022-02-06,Pennington,Minnesota,27113.0,3281,36.0
+2022-02-06,Pennington,South Dakota,46103.0,31676,311.0
+2022-02-07,Pennington,Minnesota,27113.0,3295,36.0
+2022-02-07,Pennington,South Dakota,46103.0,31760,312.0
+2022-02-08,Pennington,Minnesota,27113.0,3322,36.0
+2022-02-08,Pennington,South Dakota,46103.0,31868,313.0
+2022-02-09,Pennington,Minnesota,27113.0,3345,37.0
+2022-02-09,Pennington,South Dakota,46103.0,31982,316.0
+2022-02-10,Pennington,Minnesota,27113.0,3358,38.0
+2022-02-10,Pennington,South Dakota,46103.0,32038,318.0
+2022-02-11,Pennington,Minnesota,27113.0,3375,38.0
+2022-02-11,Pennington,South Dakota,46103.0,32081,321.0
+2022-02-12,Pennington,Minnesota,27113.0,3375,38.0
+2022-02-12,Pennington,South Dakota,46103.0,32081,321.0
+2022-02-13,Pennington,Minnesota,27113.0,3375,38.0
+2022-02-13,Pennington,South Dakota,46103.0,32081,321.0
+2022-02-14,Pennington,Minnesota,27113.0,3388,38.0
+2022-02-14,Pennington,South Dakota,46103.0,32124,321.0
+2022-02-15,Pennington,Minnesota,27113.0,3400,38.0
+2022-02-15,Pennington,South Dakota,46103.0,32197,321.0
+2022-02-16,Pennington,Minnesota,27113.0,3405,39.0
+2022-02-16,Pennington,South Dakota,46103.0,32242,322.0
+2022-02-17,Pennington,Minnesota,27113.0,3413,39.0
+2022-02-17,Pennington,South Dakota,46103.0,32275,322.0
+2022-02-18,Pennington,Minnesota,27113.0,3429,39.0
+2022-02-18,Pennington,South Dakota,46103.0,32299,324.0
+2022-02-19,Pennington,Minnesota,27113.0,3429,39.0
+2022-02-19,Pennington,South Dakota,46103.0,32299,324.0
+2022-02-20,Pennington,Minnesota,27113.0,3429,39.0
+2022-02-20,Pennington,South Dakota,46103.0,32299,324.0
+2022-02-21,Pennington,Minnesota,27113.0,3429,39.0
+2022-02-21,Pennington,South Dakota,46103.0,32299,324.0
+2022-02-22,Pennington,Minnesota,27113.0,3433,39.0
+2022-02-22,Pennington,South Dakota,46103.0,32328,325.0
+2022-02-23,Pennington,Minnesota,27113.0,3450,40.0
+2022-02-23,Pennington,South Dakota,46103.0,32382,325.0
+2022-02-24,Pennington,Minnesota,27113.0,3459,40.0
+2022-02-24,Pennington,South Dakota,46103.0,32403,325.0
+2022-02-25,Pennington,Minnesota,27113.0,3470,40.0
+2022-02-25,Pennington,South Dakota,46103.0,32424,327.0
+2022-02-26,Pennington,Minnesota,27113.0,3470,40.0
+2022-02-26,Pennington,South Dakota,46103.0,32424,327.0
+2022-02-27,Pennington,Minnesota,27113.0,3470,40.0
+2022-02-27,Pennington,South Dakota,46103.0,32424,327.0
+2022-02-28,Pennington,Minnesota,27113.0,3476,40.0
+2022-02-28,Pennington,South Dakota,46103.0,32447,328.0
+2022-03-01,Pennington,Minnesota,27113.0,3489,40.0
+2022-03-01,Pennington,South Dakota,46103.0,32480,330.0
+2022-03-02,Pennington,Minnesota,27113.0,3495,40.0
+2022-03-02,Pennington,South Dakota,46103.0,32488,330.0
+2022-03-03,Pennington,Minnesota,27113.0,3496,40.0
+2022-03-03,Pennington,South Dakota,46103.0,32505,331.0
+2022-03-04,Pennington,Minnesota,27113.0,3498,40.0
+2022-03-04,Pennington,South Dakota,46103.0,32516,331.0
+2022-03-05,Pennington,Minnesota,27113.0,3498,40.0
+2022-03-05,Pennington,South Dakota,46103.0,32516,331.0
+2022-03-06,Pennington,Minnesota,27113.0,3498,40.0
+2022-03-06,Pennington,South Dakota,46103.0,32516,331.0
+2022-03-07,Pennington,Minnesota,27113.0,3501,41.0
+2022-03-07,Pennington,South Dakota,46103.0,32523,331.0
+2022-03-08,Pennington,Minnesota,27113.0,3504,41.0
+2022-03-08,Pennington,South Dakota,46103.0,32538,332.0
+2022-03-09,Pennington,Minnesota,27113.0,3504,41.0
+2022-03-09,Pennington,South Dakota,46103.0,32546,332.0
+2022-03-10,Pennington,Minnesota,27113.0,3506,41.0
+2022-03-10,Pennington,South Dakota,46103.0,32551,332.0
+2022-03-11,Pennington,Minnesota,27113.0,3523,41.0
+2022-03-11,Pennington,South Dakota,46103.0,32559,334.0
+2022-03-12,Pennington,Minnesota,27113.0,3523,41.0
+2022-03-12,Pennington,South Dakota,46103.0,32559,334.0
+2022-03-13,Pennington,Minnesota,27113.0,3523,41.0
+2022-03-13,Pennington,South Dakota,46103.0,32559,334.0
+2022-03-14,Pennington,Minnesota,27113.0,3525,41.0
+2022-03-14,Pennington,South Dakota,46103.0,32562,334.0
+2022-03-15,Pennington,Minnesota,27113.0,3526,41.0
+2022-03-15,Pennington,South Dakota,46103.0,32573,334.0
+2022-03-16,Pennington,Minnesota,27113.0,3532,41.0
+2022-03-16,Pennington,South Dakota,46103.0,32583,335.0
+2022-03-17,Pennington,Minnesota,27113.0,3532,41.0
+2022-03-17,Pennington,South Dakota,46103.0,32600,336.0
+2022-03-18,Pennington,Minnesota,27113.0,3532,41.0
+2022-03-18,Pennington,South Dakota,46103.0,32611,337.0
+2022-03-19,Pennington,Minnesota,27113.0,3532,41.0
+2022-03-19,Pennington,South Dakota,46103.0,32611,337.0
+2022-03-20,Pennington,Minnesota,27113.0,3532,41.0
+2022-03-20,Pennington,South Dakota,46103.0,32611,337.0
+2022-03-21,Pennington,Minnesota,27113.0,3532,41.0
+2022-03-21,Pennington,South Dakota,46103.0,32611,337.0
+2022-03-22,Pennington,Minnesota,27113.0,3532,41.0
+2022-03-22,Pennington,South Dakota,46103.0,32611,337.0
+2022-03-23,Pennington,Minnesota,27113.0,3532,41.0
+2022-03-23,Pennington,South Dakota,46103.0,32635,338.0
+2022-03-24,Pennington,Minnesota,27113.0,3532,41.0
+2022-03-24,Pennington,South Dakota,46103.0,32635,338.0
+2022-03-25,Pennington,Minnesota,27113.0,3532,41.0
+2022-03-25,Pennington,South Dakota,46103.0,32635,338.0
+2022-03-26,Pennington,Minnesota,27113.0,3532,41.0
+2022-03-26,Pennington,South Dakota,46103.0,32635,338.0
+2022-03-27,Pennington,Minnesota,27113.0,3532,41.0
+2022-03-27,Pennington,South Dakota,46103.0,32635,338.0
+2022-03-28,Pennington,Minnesota,27113.0,3532,41.0
+2022-03-28,Pennington,South Dakota,46103.0,32635,338.0
+2022-03-29,Pennington,Minnesota,27113.0,3536,41.0
+2022-03-29,Pennington,South Dakota,46103.0,32635,338.0
+2022-03-30,Pennington,Minnesota,27113.0,3536,41.0
+2022-03-30,Pennington,South Dakota,46103.0,32660,340.0
+2022-03-31,Pennington,Minnesota,27113.0,3540,41.0
+2022-03-31,Pennington,South Dakota,46103.0,32660,340.0
+2022-04-01,Pennington,Minnesota,27113.0,3543,41.0
+2022-04-01,Pennington,South Dakota,46103.0,32660,340.0
+2022-04-02,Pennington,Minnesota,27113.0,3543,41.0
+2022-04-02,Pennington,South Dakota,46103.0,32660,340.0
+2022-04-03,Pennington,Minnesota,27113.0,3543,41.0
+2022-04-03,Pennington,South Dakota,46103.0,32660,340.0
+2022-04-04,Pennington,Minnesota,27113.0,3544,41.0
+2022-04-04,Pennington,South Dakota,46103.0,32660,340.0
+2022-04-05,Pennington,Minnesota,27113.0,3545,41.0
+2022-04-05,Pennington,South Dakota,46103.0,32660,340.0
+2022-04-06,Pennington,Minnesota,27113.0,3546,41.0
+2022-04-06,Pennington,South Dakota,46103.0,32674,340.0
+2022-04-07,Pennington,Minnesota,27113.0,3549,41.0
+2022-04-07,Pennington,South Dakota,46103.0,32674,340.0
+2022-04-08,Pennington,Minnesota,27113.0,3549,41.0
+2022-04-08,Pennington,South Dakota,46103.0,32674,340.0
+2022-04-09,Pennington,Minnesota,27113.0,3549,41.0
+2022-04-09,Pennington,South Dakota,46103.0,32674,340.0

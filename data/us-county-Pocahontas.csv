@@ -1,1427 +1,1427 @@
-,date,county,state,fips,cases,deaths
-93300,2020-04-27,Pocahontas,Iowa,19151.0,1,0.0
-95217,2020-04-27,Pocahontas,West Virginia,54075.0,1,0.0
-96132,2020-04-28,Pocahontas,Iowa,19151.0,1,0.0
-98062,2020-04-28,Pocahontas,West Virginia,54075.0,2,0.0
-98977,2020-04-29,Pocahontas,Iowa,19151.0,1,0.0
-100912,2020-04-29,Pocahontas,West Virginia,54075.0,2,0.0
-101828,2020-04-30,Pocahontas,Iowa,19151.0,1,0.0
-103767,2020-04-30,Pocahontas,West Virginia,54075.0,2,0.0
-104686,2020-05-01,Pocahontas,Iowa,19151.0,3,0.0
-106631,2020-05-01,Pocahontas,West Virginia,54075.0,2,0.0
-107551,2020-05-02,Pocahontas,Iowa,19151.0,3,0.0
-109500,2020-05-02,Pocahontas,West Virginia,54075.0,2,0.0
-110422,2020-05-03,Pocahontas,Iowa,19151.0,3,0.0
-112374,2020-05-03,Pocahontas,West Virginia,54075.0,2,0.0
-113297,2020-05-04,Pocahontas,Iowa,19151.0,3,0.0
-115257,2020-05-04,Pocahontas,West Virginia,54075.0,2,0.0
-116180,2020-05-05,Pocahontas,Iowa,19151.0,3,0.0
-118216,2020-05-05,Pocahontas,West Virginia,54075.0,2,0.0
-119140,2020-05-06,Pocahontas,Iowa,19151.0,3,0.0
-121181,2020-05-06,Pocahontas,West Virginia,54075.0,2,0.0
-122110,2020-05-07,Pocahontas,Iowa,19151.0,3,0.0
-124161,2020-05-07,Pocahontas,West Virginia,54075.0,2,0.0
-125092,2020-05-08,Pocahontas,Iowa,19151.0,3,0.0
-127146,2020-05-08,Pocahontas,West Virginia,54075.0,2,0.0
-128079,2020-05-09,Pocahontas,Iowa,19151.0,3,0.0
-130136,2020-05-09,Pocahontas,West Virginia,54075.0,2,0.0
-131070,2020-05-10,Pocahontas,Iowa,19151.0,3,0.0
-133126,2020-05-10,Pocahontas,West Virginia,54075.0,2,0.0
-134060,2020-05-11,Pocahontas,Iowa,19151.0,3,0.0
-136116,2020-05-11,Pocahontas,West Virginia,54075.0,2,0.0
-137050,2020-05-12,Pocahontas,Iowa,19151.0,3,0.0
-139107,2020-05-12,Pocahontas,West Virginia,54075.0,2,0.0
-140043,2020-05-13,Pocahontas,Iowa,19151.0,3,0.0
-142103,2020-05-13,Pocahontas,West Virginia,54075.0,2,0.0
-143039,2020-05-14,Pocahontas,Iowa,19151.0,3,0.0
-145100,2020-05-14,Pocahontas,West Virginia,54075.0,2,0.0
-146039,2020-05-15,Pocahontas,Iowa,19151.0,3,0.0
-148103,2020-05-15,Pocahontas,West Virginia,54075.0,2,0.0
-149043,2020-05-16,Pocahontas,Iowa,19151.0,3,0.0
-151112,2020-05-16,Pocahontas,West Virginia,54075.0,4,0.0
-152054,2020-05-17,Pocahontas,Iowa,19151.0,3,0.0
-154123,2020-05-17,Pocahontas,West Virginia,54075.0,9,0.0
-155066,2020-05-18,Pocahontas,Iowa,19151.0,3,0.0
-157140,2020-05-18,Pocahontas,West Virginia,54075.0,8,0.0
-158082,2020-05-19,Pocahontas,Iowa,19151.0,3,0.0
-160164,2020-05-19,Pocahontas,West Virginia,54075.0,8,0.0
-161108,2020-05-20,Pocahontas,Iowa,19151.0,3,0.0
-163192,2020-05-20,Pocahontas,West Virginia,54075.0,10,0.0
-164136,2020-05-21,Pocahontas,Iowa,19151.0,3,0.0
-166221,2020-05-21,Pocahontas,West Virginia,54075.0,15,0.0
-167169,2020-05-22,Pocahontas,Iowa,19151.0,3,0.0
-169257,2020-05-22,Pocahontas,West Virginia,54075.0,24,0.0
-170206,2020-05-23,Pocahontas,Iowa,19151.0,3,0.0
-172298,2020-05-23,Pocahontas,West Virginia,54075.0,23,0.0
-173247,2020-05-24,Pocahontas,Iowa,19151.0,4,0.0
-175341,2020-05-24,Pocahontas,West Virginia,54075.0,24,0.0
-176291,2020-05-25,Pocahontas,Iowa,19151.0,4,0.0
-178386,2020-05-25,Pocahontas,West Virginia,54075.0,24,0.0
-179335,2020-05-26,Pocahontas,Iowa,19151.0,6,0.0
-181430,2020-05-26,Pocahontas,West Virginia,54075.0,24,0.0
-182380,2020-05-27,Pocahontas,Iowa,19151.0,10,0.0
-184481,2020-05-27,Pocahontas,West Virginia,54075.0,17,0.0
-185434,2020-05-28,Pocahontas,Iowa,19151.0,10,0.0
-187538,2020-05-28,Pocahontas,West Virginia,54075.0,18,0.0
-188492,2020-05-29,Pocahontas,Iowa,19151.0,11,0.0
-190602,2020-05-29,Pocahontas,West Virginia,54075.0,21,0.0
-191557,2020-05-30,Pocahontas,Iowa,19151.0,11,0.0
-193668,2020-05-30,Pocahontas,West Virginia,54075.0,21,0.0
-194624,2020-05-31,Pocahontas,Iowa,19151.0,12,0.0
-196738,2020-05-31,Pocahontas,West Virginia,54075.0,21,0.0
-197694,2020-06-01,Pocahontas,Iowa,19151.0,13,0.0
-199811,2020-06-01,Pocahontas,West Virginia,54075.0,21,0.0
-200767,2020-06-02,Pocahontas,Iowa,19151.0,13,0.0
-202887,2020-06-02,Pocahontas,West Virginia,54075.0,21,0.0
-203843,2020-06-03,Pocahontas,Iowa,19151.0,14,0.0
-205966,2020-06-03,Pocahontas,West Virginia,54075.0,21,0.0
-206923,2020-06-04,Pocahontas,Iowa,19151.0,18,0.0
-209048,2020-06-04,Pocahontas,West Virginia,54075.0,21,0.0
-210004,2020-06-05,Pocahontas,Iowa,19151.0,20,0.0
-212133,2020-06-05,Pocahontas,West Virginia,54075.0,21,0.0
-213089,2020-06-06,Pocahontas,Iowa,19151.0,20,0.0
-215220,2020-06-06,Pocahontas,West Virginia,54075.0,21,0.0
-216176,2020-06-07,Pocahontas,Iowa,19151.0,20,0.0
-218310,2020-06-07,Pocahontas,West Virginia,54075.0,21,0.0
-219268,2020-06-08,Pocahontas,Iowa,19151.0,21,0.0
-221402,2020-06-08,Pocahontas,West Virginia,54075.0,21,0.0
-222363,2020-06-09,Pocahontas,Iowa,19151.0,21,0.0
-224498,2020-06-09,Pocahontas,West Virginia,54075.0,21,0.0
-225458,2020-06-10,Pocahontas,Iowa,19151.0,29,0.0
-227598,2020-06-10,Pocahontas,West Virginia,54075.0,21,0.0
-228560,2020-06-11,Pocahontas,Iowa,19151.0,30,0.0
-230702,2020-06-11,Pocahontas,West Virginia,54075.0,21,0.0
-231663,2020-06-12,Pocahontas,Iowa,19151.0,30,0.0
-233807,2020-06-12,Pocahontas,West Virginia,54075.0,21,0.0
-234769,2020-06-13,Pocahontas,Iowa,19151.0,30,0.0
-236914,2020-06-13,Pocahontas,West Virginia,54075.0,21,0.0
-237876,2020-06-14,Pocahontas,Iowa,19151.0,30,0.0
-240022,2020-06-14,Pocahontas,West Virginia,54075.0,21,0.0
-240984,2020-06-15,Pocahontas,Iowa,19151.0,30,0.0
-243133,2020-06-15,Pocahontas,West Virginia,54075.0,21,0.0
-244095,2020-06-16,Pocahontas,Iowa,19151.0,30,0.0
-246246,2020-06-16,Pocahontas,West Virginia,54075.0,21,0.0
-247208,2020-06-17,Pocahontas,Iowa,19151.0,32,0.0
-249358,2020-06-17,Pocahontas,West Virginia,54075.0,21,0.0
-250320,2020-06-18,Pocahontas,Iowa,19151.0,32,0.0
-252473,2020-06-18,Pocahontas,West Virginia,54075.0,22,0.0
-253435,2020-06-19,Pocahontas,Iowa,19151.0,36,0.0
-255592,2020-06-19,Pocahontas,West Virginia,54075.0,22,0.0
-256555,2020-06-20,Pocahontas,Iowa,19151.0,38,1.0
-258719,2020-06-20,Pocahontas,West Virginia,54075.0,24,0.0
-259681,2020-06-21,Pocahontas,Iowa,19151.0,38,1.0
-261846,2020-06-21,Pocahontas,West Virginia,54075.0,24,0.0
-262808,2020-06-22,Pocahontas,Iowa,19151.0,39,1.0
-264975,2020-06-22,Pocahontas,West Virginia,54075.0,24,0.0
-265936,2020-06-23,Pocahontas,Iowa,19151.0,39,1.0
-268104,2020-06-23,Pocahontas,West Virginia,54075.0,24,0.0
-269066,2020-06-24,Pocahontas,Iowa,19151.0,41,1.0
-271238,2020-06-24,Pocahontas,West Virginia,54075.0,24,0.0
-272203,2020-06-25,Pocahontas,Iowa,19151.0,46,1.0
-274378,2020-06-25,Pocahontas,West Virginia,54075.0,24,0.0
-275345,2020-06-26,Pocahontas,Iowa,19151.0,50,1.0
-277526,2020-06-26,Pocahontas,West Virginia,54075.0,24,0.0
-278493,2020-06-27,Pocahontas,Iowa,19151.0,66,1.0
-280674,2020-06-27,Pocahontas,West Virginia,54075.0,24,0.0
-281641,2020-06-28,Pocahontas,Iowa,19151.0,70,1.0
-283820,2020-06-28,Pocahontas,West Virginia,54075.0,24,0.0
-284786,2020-06-29,Pocahontas,Iowa,19151.0,73,1.0
-286966,2020-06-29,Pocahontas,West Virginia,54075.0,24,0.0
-287935,2020-06-30,Pocahontas,Iowa,19151.0,75,1.0
-290116,2020-06-30,Pocahontas,West Virginia,54075.0,25,0.0
-291085,2020-07-01,Pocahontas,Iowa,19151.0,88,1.0
-293269,2020-07-01,Pocahontas,West Virginia,54075.0,25,0.0
-294239,2020-07-02,Pocahontas,Iowa,19151.0,93,1.0
-296424,2020-07-02,Pocahontas,West Virginia,54075.0,28,0.0
-297397,2020-07-03,Pocahontas,Iowa,19151.0,93,1.0
-299586,2020-07-03,Pocahontas,West Virginia,54075.0,29,0.0
-300559,2020-07-04,Pocahontas,Iowa,19151.0,95,1.0
-302750,2020-07-04,Pocahontas,West Virginia,54075.0,31,0.0
-303723,2020-07-05,Pocahontas,Iowa,19151.0,96,1.0
-305914,2020-07-05,Pocahontas,West Virginia,54075.0,31,0.0
-306888,2020-07-06,Pocahontas,Iowa,19151.0,97,1.0
-309082,2020-07-06,Pocahontas,West Virginia,54075.0,31,0.0
-310056,2020-07-07,Pocahontas,Iowa,19151.0,98,1.0
-312251,2020-07-07,Pocahontas,West Virginia,54075.0,37,0.0
-313226,2020-07-08,Pocahontas,Iowa,19151.0,103,1.0
-315426,2020-07-08,Pocahontas,West Virginia,54075.0,37,0.0
-316400,2020-07-09,Pocahontas,Iowa,19151.0,104,1.0
-318599,2020-07-09,Pocahontas,West Virginia,54075.0,37,0.0
-319573,2020-07-10,Pocahontas,Iowa,19151.0,107,1.0
-321778,2020-07-10,Pocahontas,West Virginia,54075.0,37,0.0
-322752,2020-07-11,Pocahontas,Iowa,19151.0,107,1.0
-324959,2020-07-11,Pocahontas,West Virginia,54075.0,37,0.0
-325933,2020-07-12,Pocahontas,Iowa,19151.0,109,1.0
-328145,2020-07-12,Pocahontas,West Virginia,54075.0,37,0.0
-329119,2020-07-13,Pocahontas,Iowa,19151.0,109,1.0
-331331,2020-07-13,Pocahontas,West Virginia,54075.0,38,0.0
-332306,2020-07-14,Pocahontas,Iowa,19151.0,109,1.0
-334524,2020-07-14,Pocahontas,West Virginia,54075.0,38,0.0
-335499,2020-07-15,Pocahontas,Iowa,19151.0,109,1.0
-337719,2020-07-15,Pocahontas,West Virginia,54075.0,38,0.0
-338695,2020-07-16,Pocahontas,Iowa,19151.0,108,1.0
-340915,2020-07-16,Pocahontas,West Virginia,54075.0,38,0.0
-341891,2020-07-17,Pocahontas,Iowa,19151.0,108,1.0
-344114,2020-07-17,Pocahontas,West Virginia,54075.0,38,0.0
-345091,2020-07-18,Pocahontas,Iowa,19151.0,109,1.0
-347314,2020-07-18,Pocahontas,West Virginia,54075.0,38,0.0
-348292,2020-07-19,Pocahontas,Iowa,19151.0,109,1.0
-350515,2020-07-19,Pocahontas,West Virginia,54075.0,38,0.0
-351492,2020-07-20,Pocahontas,Iowa,19151.0,110,1.0
-353717,2020-07-20,Pocahontas,West Virginia,54075.0,39,0.0
-354694,2020-07-21,Pocahontas,Iowa,19151.0,109,1.0
-356920,2020-07-21,Pocahontas,West Virginia,54075.0,40,0.0
-357896,2020-07-22,Pocahontas,Iowa,19151.0,109,1.0
-360125,2020-07-22,Pocahontas,West Virginia,54075.0,40,0.0
-361101,2020-07-23,Pocahontas,Iowa,19151.0,110,1.0
-363331,2020-07-23,Pocahontas,West Virginia,54075.0,40,0.0
-364308,2020-07-24,Pocahontas,Iowa,19151.0,111,1.0
-366538,2020-07-24,Pocahontas,West Virginia,54075.0,40,0.0
-367515,2020-07-25,Pocahontas,Iowa,19151.0,111,1.0
-369748,2020-07-25,Pocahontas,West Virginia,54075.0,40,0.0
-370725,2020-07-26,Pocahontas,Iowa,19151.0,111,1.0
-372960,2020-07-26,Pocahontas,West Virginia,54075.0,40,0.0
-373937,2020-07-27,Pocahontas,Iowa,19151.0,112,1.0
-376174,2020-07-27,Pocahontas,West Virginia,54075.0,40,0.0
-377152,2020-07-28,Pocahontas,Iowa,19151.0,112,1.0
-379390,2020-07-28,Pocahontas,West Virginia,54075.0,41,0.0
-380369,2020-07-29,Pocahontas,Iowa,19151.0,112,1.0
-382607,2020-07-29,Pocahontas,West Virginia,54075.0,41,0.0
-383586,2020-07-30,Pocahontas,Iowa,19151.0,113,1.0
-385825,2020-07-30,Pocahontas,West Virginia,54075.0,41,0.0
-386804,2020-07-31,Pocahontas,Iowa,19151.0,113,1.0
-389042,2020-07-31,Pocahontas,West Virginia,54075.0,41,0.0
-390021,2020-08-01,Pocahontas,Iowa,19151.0,113,1.0
-392259,2020-08-01,Pocahontas,West Virginia,54075.0,41,0.0
-393238,2020-08-02,Pocahontas,Iowa,19151.0,113,1.0
-395475,2020-08-02,Pocahontas,West Virginia,54075.0,41,0.0
-396454,2020-08-03,Pocahontas,Iowa,19151.0,113,1.0
-398691,2020-08-03,Pocahontas,West Virginia,54075.0,41,0.0
-399670,2020-08-04,Pocahontas,Iowa,19151.0,114,1.0
-401907,2020-08-04,Pocahontas,West Virginia,54075.0,41,0.0
-402886,2020-08-05,Pocahontas,Iowa,19151.0,114,1.0
-405125,2020-08-05,Pocahontas,West Virginia,54075.0,41,0.0
-406104,2020-08-06,Pocahontas,Iowa,19151.0,115,1.0
-408345,2020-08-06,Pocahontas,West Virginia,54075.0,41,0.0
-409324,2020-08-07,Pocahontas,Iowa,19151.0,115,1.0
-411564,2020-08-07,Pocahontas,West Virginia,54075.0,41,0.0
-412543,2020-08-08,Pocahontas,Iowa,19151.0,115,2.0
-414784,2020-08-08,Pocahontas,West Virginia,54075.0,41,0.0
-415763,2020-08-09,Pocahontas,Iowa,19151.0,115,2.0
-418005,2020-08-09,Pocahontas,West Virginia,54075.0,41,0.0
-418984,2020-08-10,Pocahontas,Iowa,19151.0,116,2.0
-421226,2020-08-10,Pocahontas,West Virginia,54075.0,41,0.0
-422207,2020-08-11,Pocahontas,Iowa,19151.0,117,2.0
-424447,2020-08-11,Pocahontas,West Virginia,54075.0,42,0.0
-425428,2020-08-12,Pocahontas,Iowa,19151.0,118,2.0
-427671,2020-08-12,Pocahontas,West Virginia,54075.0,42,0.0
-428652,2020-08-13,Pocahontas,Iowa,19151.0,121,2.0
-430899,2020-08-13,Pocahontas,West Virginia,54075.0,42,0.0
-431880,2020-08-14,Pocahontas,Iowa,19151.0,120,2.0
-434124,2020-08-14,Pocahontas,West Virginia,54075.0,42,0.0
-435105,2020-08-15,Pocahontas,Iowa,19151.0,122,2.0
-437350,2020-08-15,Pocahontas,West Virginia,54075.0,42,0.0
-438331,2020-08-16,Pocahontas,Iowa,19151.0,122,2.0
-440576,2020-08-16,Pocahontas,West Virginia,54075.0,42,0.0
-441557,2020-08-17,Pocahontas,Iowa,19151.0,122,2.0
-443802,2020-08-17,Pocahontas,West Virginia,54075.0,42,0.0
-444783,2020-08-18,Pocahontas,Iowa,19151.0,122,2.0
-447029,2020-08-18,Pocahontas,West Virginia,54075.0,42,0.0
-448010,2020-08-19,Pocahontas,Iowa,19151.0,119,2.0
-450257,2020-08-19,Pocahontas,West Virginia,54075.0,42,0.0
-451238,2020-08-20,Pocahontas,Iowa,19151.0,119,2.0
-453485,2020-08-20,Pocahontas,West Virginia,54075.0,42,0.0
-454466,2020-08-21,Pocahontas,Iowa,19151.0,121,2.0
-456713,2020-08-21,Pocahontas,West Virginia,54075.0,42,0.0
-457694,2020-08-22,Pocahontas,Iowa,19151.0,121,2.0
-459940,2020-08-22,Pocahontas,West Virginia,54075.0,42,0.0
-460921,2020-08-23,Pocahontas,Iowa,19151.0,122,2.0
-463169,2020-08-23,Pocahontas,West Virginia,54075.0,42,0.0
-464150,2020-08-24,Pocahontas,Iowa,19151.0,122,2.0
-466398,2020-08-24,Pocahontas,West Virginia,54075.0,42,0.0
-467379,2020-08-25,Pocahontas,Iowa,19151.0,122,2.0
-469627,2020-08-25,Pocahontas,West Virginia,54075.0,42,0.0
-470608,2020-08-26,Pocahontas,Iowa,19151.0,124,2.0
-472859,2020-08-26,Pocahontas,West Virginia,54075.0,42,0.0
-473840,2020-08-27,Pocahontas,Iowa,19151.0,128,2.0
-476092,2020-08-27,Pocahontas,West Virginia,54075.0,42,0.0
-477073,2020-08-28,Pocahontas,Iowa,19151.0,129,2.0
-479325,2020-08-28,Pocahontas,West Virginia,54075.0,42,0.0
-480306,2020-08-29,Pocahontas,Iowa,19151.0,129,2.0
-482559,2020-08-29,Pocahontas,West Virginia,54075.0,42,0.0
-483540,2020-08-30,Pocahontas,Iowa,19151.0,130,2.0
-485794,2020-08-30,Pocahontas,West Virginia,54075.0,42,0.0
-486775,2020-08-31,Pocahontas,Iowa,19151.0,131,2.0
-489027,2020-08-31,Pocahontas,West Virginia,54075.0,42,0.0
-490008,2020-09-01,Pocahontas,Iowa,19151.0,131,2.0
-492260,2020-09-01,Pocahontas,West Virginia,54075.0,45,0.0
-493241,2020-09-02,Pocahontas,Iowa,19151.0,131,2.0
-495494,2020-09-02,Pocahontas,West Virginia,54075.0,43,0.0
-496475,2020-09-03,Pocahontas,Iowa,19151.0,133,2.0
-498727,2020-09-03,Pocahontas,West Virginia,54075.0,43,0.0
-499708,2020-09-04,Pocahontas,Iowa,19151.0,137,2.0
-501961,2020-09-04,Pocahontas,West Virginia,54075.0,43,0.0
-502942,2020-09-05,Pocahontas,Iowa,19151.0,139,2.0
-505195,2020-09-05,Pocahontas,West Virginia,54075.0,45,0.0
-506176,2020-09-06,Pocahontas,Iowa,19151.0,140,2.0
-508427,2020-09-06,Pocahontas,West Virginia,54075.0,45,0.0
-509408,2020-09-07,Pocahontas,Iowa,19151.0,140,2.0
-511660,2020-09-07,Pocahontas,West Virginia,54075.0,45,0.0
-512641,2020-09-08,Pocahontas,Iowa,19151.0,140,2.0
-514893,2020-09-08,Pocahontas,West Virginia,54075.0,45,0.0
-515874,2020-09-09,Pocahontas,Iowa,19151.0,140,2.0
-518128,2020-09-09,Pocahontas,West Virginia,54075.0,55,0.0
-519109,2020-09-10,Pocahontas,Iowa,19151.0,142,2.0
-521365,2020-09-10,Pocahontas,West Virginia,54075.0,55,0.0
-522346,2020-09-11,Pocahontas,Iowa,19151.0,143,2.0
-524601,2020-09-11,Pocahontas,West Virginia,54075.0,55,0.0
-525582,2020-09-12,Pocahontas,Iowa,19151.0,146,2.0
-527837,2020-09-12,Pocahontas,West Virginia,54075.0,56,0.0
-528818,2020-09-13,Pocahontas,Iowa,19151.0,146,2.0
-531074,2020-09-13,Pocahontas,West Virginia,54075.0,56,0.0
-532055,2020-09-14,Pocahontas,Iowa,19151.0,146,2.0
-534309,2020-09-14,Pocahontas,West Virginia,54075.0,58,0.0
-535290,2020-09-15,Pocahontas,Iowa,19151.0,146,2.0
-537545,2020-09-15,Pocahontas,West Virginia,54075.0,58,0.0
-538526,2020-09-16,Pocahontas,Iowa,19151.0,146,2.0
-540782,2020-09-16,Pocahontas,West Virginia,54075.0,58,0.0
-541763,2020-09-17,Pocahontas,Iowa,19151.0,149,2.0
-544018,2020-09-17,Pocahontas,West Virginia,54075.0,59,0.0
-544999,2020-09-18,Pocahontas,Iowa,19151.0,150,2.0
-547255,2020-09-18,Pocahontas,West Virginia,54075.0,59,0.0
-548237,2020-09-19,Pocahontas,Iowa,19151.0,151,2.0
-550494,2020-09-19,Pocahontas,West Virginia,54075.0,59,0.0
-551476,2020-09-20,Pocahontas,Iowa,19151.0,152,2.0
-553733,2020-09-20,Pocahontas,West Virginia,54075.0,59,0.0
-554715,2020-09-21,Pocahontas,Iowa,19151.0,154,2.0
-556970,2020-09-21,Pocahontas,West Virginia,54075.0,59,0.0
-557952,2020-09-22,Pocahontas,Iowa,19151.0,154,2.0
-560206,2020-09-22,Pocahontas,West Virginia,54075.0,59,0.0
-561188,2020-09-23,Pocahontas,Iowa,19151.0,156,2.0
-563445,2020-09-23,Pocahontas,West Virginia,54075.0,59,0.0
-564428,2020-09-24,Pocahontas,Iowa,19151.0,156,2.0
-566686,2020-09-24,Pocahontas,West Virginia,54075.0,59,0.0
-567668,2020-09-25,Pocahontas,Iowa,19151.0,157,2.0
-569927,2020-09-25,Pocahontas,West Virginia,54075.0,59,0.0
-570910,2020-09-26,Pocahontas,Iowa,19151.0,159,2.0
-573169,2020-09-26,Pocahontas,West Virginia,54075.0,59,0.0
-574153,2020-09-27,Pocahontas,Iowa,19151.0,163,2.0
-576413,2020-09-27,Pocahontas,West Virginia,54075.0,59,0.0
-577395,2020-09-28,Pocahontas,Iowa,19151.0,165,2.0
-579654,2020-09-28,Pocahontas,West Virginia,54075.0,59,0.0
-580636,2020-09-29,Pocahontas,Iowa,19151.0,166,2.0
-582893,2020-09-29,Pocahontas,West Virginia,54075.0,59,0.0
-583875,2020-09-30,Pocahontas,Iowa,19151.0,168,2.0
-586133,2020-09-30,Pocahontas,West Virginia,54075.0,59,0.0
-587115,2020-10-01,Pocahontas,Iowa,19151.0,174,2.0
-589374,2020-10-01,Pocahontas,West Virginia,54075.0,59,0.0
-590356,2020-10-02,Pocahontas,Iowa,19151.0,177,2.0
-592614,2020-10-02,Pocahontas,West Virginia,54075.0,60,0.0
-593597,2020-10-03,Pocahontas,Iowa,19151.0,177,2.0
-595856,2020-10-03,Pocahontas,West Virginia,54075.0,60,0.0
-596839,2020-10-04,Pocahontas,Iowa,19151.0,178,2.0
-599099,2020-10-04,Pocahontas,West Virginia,54075.0,60,0.0
-600081,2020-10-05,Pocahontas,Iowa,19151.0,178,2.0
-602342,2020-10-05,Pocahontas,West Virginia,54075.0,60,0.0
-603324,2020-10-06,Pocahontas,Iowa,19151.0,180,2.0
-605584,2020-10-06,Pocahontas,West Virginia,54075.0,60,0.0
-606566,2020-10-07,Pocahontas,Iowa,19151.0,183,2.0
-608827,2020-10-07,Pocahontas,West Virginia,54075.0,60,0.0
-609809,2020-10-08,Pocahontas,Iowa,19151.0,189,2.0
-612069,2020-10-08,Pocahontas,West Virginia,54075.0,60,0.0
-613051,2020-10-09,Pocahontas,Iowa,19151.0,189,2.0
-615310,2020-10-09,Pocahontas,West Virginia,54075.0,60,0.0
-616292,2020-10-10,Pocahontas,Iowa,19151.0,191,2.0
-618552,2020-10-10,Pocahontas,West Virginia,54075.0,61,0.0
-619534,2020-10-11,Pocahontas,Iowa,19151.0,191,2.0
-621795,2020-10-11,Pocahontas,West Virginia,54075.0,61,0.0
-622778,2020-10-12,Pocahontas,Iowa,19151.0,191,2.0
-625038,2020-10-12,Pocahontas,West Virginia,54075.0,61,0.0
-626020,2020-10-13,Pocahontas,Iowa,19151.0,195,2.0
-628281,2020-10-13,Pocahontas,West Virginia,54075.0,61,0.0
-629263,2020-10-14,Pocahontas,Iowa,19151.0,195,2.0
-631525,2020-10-14,Pocahontas,West Virginia,54075.0,61,0.0
-632507,2020-10-15,Pocahontas,Iowa,19151.0,198,2.0
-634770,2020-10-15,Pocahontas,West Virginia,54075.0,62,0.0
-635753,2020-10-16,Pocahontas,Iowa,19151.0,202,2.0
-638015,2020-10-16,Pocahontas,West Virginia,54075.0,64,0.0
-638999,2020-10-17,Pocahontas,Iowa,19151.0,202,2.0
-641262,2020-10-17,Pocahontas,West Virginia,54075.0,64,0.0
-642246,2020-10-18,Pocahontas,Iowa,19151.0,203,2.0
-644510,2020-10-18,Pocahontas,West Virginia,54075.0,63,0.0
-645493,2020-10-19,Pocahontas,Iowa,19151.0,209,2.0
-647756,2020-10-19,Pocahontas,West Virginia,54075.0,64,0.0
-648738,2020-10-20,Pocahontas,Iowa,19151.0,211,2.0
-651000,2020-10-20,Pocahontas,West Virginia,54075.0,64,0.0
-651982,2020-10-21,Pocahontas,Iowa,19151.0,215,2.0
-654245,2020-10-21,Pocahontas,West Virginia,54075.0,64,0.0
-655227,2020-10-22,Pocahontas,Iowa,19151.0,217,2.0
-657490,2020-10-22,Pocahontas,West Virginia,54075.0,66,0.0
-658472,2020-10-23,Pocahontas,Iowa,19151.0,219,2.0
-660734,2020-10-23,Pocahontas,West Virginia,54075.0,68,0.0
-661716,2020-10-24,Pocahontas,Iowa,19151.0,221,2.0
-663978,2020-10-24,Pocahontas,West Virginia,54075.0,68,0.0
-664961,2020-10-25,Pocahontas,Iowa,19151.0,223,2.0
-667223,2020-10-25,Pocahontas,West Virginia,54075.0,68,0.0
-668205,2020-10-26,Pocahontas,Iowa,19151.0,226,2.0
-670466,2020-10-26,Pocahontas,West Virginia,54075.0,68,0.0
-671448,2020-10-27,Pocahontas,Iowa,19151.0,233,2.0
-673708,2020-10-27,Pocahontas,West Virginia,54075.0,69,0.0
-674690,2020-10-28,Pocahontas,Iowa,19151.0,238,2.0
-676951,2020-10-28,Pocahontas,West Virginia,54075.0,70,0.0
-677933,2020-10-29,Pocahontas,Iowa,19151.0,245,2.0
-680194,2020-10-29,Pocahontas,West Virginia,54075.0,70,0.0
-681176,2020-10-30,Pocahontas,Iowa,19151.0,253,2.0
-683437,2020-10-30,Pocahontas,West Virginia,54075.0,72,0.0
-684419,2020-10-31,Pocahontas,Iowa,19151.0,261,2.0
-686680,2020-10-31,Pocahontas,West Virginia,54075.0,73,0.0
-687663,2020-11-01,Pocahontas,Iowa,19151.0,266,2.0
-689925,2020-11-01,Pocahontas,West Virginia,54075.0,73,0.0
-690908,2020-11-02,Pocahontas,Iowa,19151.0,273,2.0
-693169,2020-11-02,Pocahontas,West Virginia,54075.0,73,0.0
-694151,2020-11-03,Pocahontas,Iowa,19151.0,287,2.0
-696411,2020-11-03,Pocahontas,West Virginia,54075.0,74,0.0
-697393,2020-11-04,Pocahontas,Iowa,19151.0,298,2.0
-699655,2020-11-04,Pocahontas,West Virginia,54075.0,74,0.0
-700637,2020-11-05,Pocahontas,Iowa,19151.0,312,2.0
-702898,2020-11-05,Pocahontas,West Virginia,54075.0,74,0.0
-703879,2020-11-06,Pocahontas,Iowa,19151.0,322,2.0
-706141,2020-11-06,Pocahontas,West Virginia,54075.0,76,0.0
-707122,2020-11-07,Pocahontas,Iowa,19151.0,339,2.0
-709385,2020-11-07,Pocahontas,West Virginia,54075.0,76,0.0
-710366,2020-11-08,Pocahontas,Iowa,19151.0,358,2.0
-712629,2020-11-08,Pocahontas,West Virginia,54075.0,77,0.0
-713610,2020-11-09,Pocahontas,Iowa,19151.0,374,2.0
-715873,2020-11-09,Pocahontas,West Virginia,54075.0,77,0.0
-716854,2020-11-10,Pocahontas,Iowa,19151.0,387,2.0
-719116,2020-11-10,Pocahontas,West Virginia,54075.0,77,0.0
-720097,2020-11-11,Pocahontas,Iowa,19151.0,408,2.0
-722359,2020-11-11,Pocahontas,West Virginia,54075.0,77,0.0
-723340,2020-11-12,Pocahontas,Iowa,19151.0,420,2.0
-725602,2020-11-12,Pocahontas,West Virginia,54075.0,79,0.0
-726583,2020-11-13,Pocahontas,Iowa,19151.0,433,2.0
-728845,2020-11-13,Pocahontas,West Virginia,54075.0,79,0.0
-729826,2020-11-14,Pocahontas,Iowa,19151.0,441,2.0
-732090,2020-11-14,Pocahontas,West Virginia,54075.0,80,0.0
-733071,2020-11-15,Pocahontas,Iowa,19151.0,444,2.0
-735336,2020-11-15,Pocahontas,West Virginia,54075.0,81,0.0
-736317,2020-11-16,Pocahontas,Iowa,19151.0,462,2.0
-738580,2020-11-16,Pocahontas,West Virginia,54075.0,81,0.0
-739561,2020-11-17,Pocahontas,Iowa,19151.0,475,2.0
-741827,2020-11-17,Pocahontas,West Virginia,54075.0,80,0.0
-742808,2020-11-18,Pocahontas,Iowa,19151.0,485,2.0
-745074,2020-11-18,Pocahontas,West Virginia,54075.0,82,0.0
-746055,2020-11-19,Pocahontas,Iowa,19151.0,492,2.0
-748320,2020-11-19,Pocahontas,West Virginia,54075.0,84,0.0
-749301,2020-11-20,Pocahontas,Iowa,19151.0,495,2.0
-751566,2020-11-20,Pocahontas,West Virginia,54075.0,89,0.0
-752547,2020-11-21,Pocahontas,Iowa,19151.0,507,2.0
-754812,2020-11-21,Pocahontas,West Virginia,54075.0,94,0.0
-755793,2020-11-22,Pocahontas,Iowa,19151.0,507,2.0
-758059,2020-11-22,Pocahontas,West Virginia,54075.0,96,0.0
-759040,2020-11-23,Pocahontas,Iowa,19151.0,519,2.0
-761304,2020-11-23,Pocahontas,West Virginia,54075.0,102,0.0
-762285,2020-11-24,Pocahontas,Iowa,19151.0,544,2.0
-764549,2020-11-24,Pocahontas,West Virginia,54075.0,107,0.0
-765530,2020-11-25,Pocahontas,Iowa,19151.0,551,2.0
-767794,2020-11-25,Pocahontas,West Virginia,54075.0,115,0.0
-768776,2020-11-26,Pocahontas,Iowa,19151.0,553,2.0
-771040,2020-11-26,Pocahontas,West Virginia,54075.0,152,0.0
-772021,2020-11-27,Pocahontas,Iowa,19151.0,557,2.0
-774285,2020-11-27,Pocahontas,West Virginia,54075.0,152,0.0
-775266,2020-11-28,Pocahontas,Iowa,19151.0,557,4.0
-777530,2020-11-28,Pocahontas,West Virginia,54075.0,162,0.0
-778511,2020-11-29,Pocahontas,Iowa,19151.0,558,4.0
-780776,2020-11-29,Pocahontas,West Virginia,54075.0,173,0.0
-781757,2020-11-30,Pocahontas,Iowa,19151.0,564,4.0
-784021,2020-11-30,Pocahontas,West Virginia,54075.0,211,0.0
-785002,2020-12-01,Pocahontas,Iowa,19151.0,584,4.0
-787265,2020-12-01,Pocahontas,West Virginia,54075.0,216,1.0
-788246,2020-12-02,Pocahontas,Iowa,19151.0,598,4.0
-790510,2020-12-02,Pocahontas,West Virginia,54075.0,225,2.0
-791491,2020-12-03,Pocahontas,Iowa,19151.0,602,4.0
-793755,2020-12-03,Pocahontas,West Virginia,54075.0,235,2.0
-794736,2020-12-04,Pocahontas,Iowa,19151.0,606,4.0
-797000,2020-12-04,Pocahontas,West Virginia,54075.0,239,2.0
-797981,2020-12-05,Pocahontas,Iowa,19151.0,609,4.0
-800245,2020-12-05,Pocahontas,West Virginia,54075.0,266,2.0
-801226,2020-12-06,Pocahontas,Iowa,19151.0,610,4.0
-803490,2020-12-06,Pocahontas,West Virginia,54075.0,270,2.0
-804471,2020-12-07,Pocahontas,Iowa,19151.0,616,4.0
-806735,2020-12-07,Pocahontas,West Virginia,54075.0,273,2.0
-807716,2020-12-08,Pocahontas,Iowa,19151.0,616,3.0
-809980,2020-12-08,Pocahontas,West Virginia,54075.0,277,2.0
-810961,2020-12-09,Pocahontas,Iowa,19151.0,620,3.0
-813224,2020-12-09,Pocahontas,West Virginia,54075.0,281,2.0
-814206,2020-12-10,Pocahontas,Iowa,19151.0,625,4.0
-816470,2020-12-10,Pocahontas,West Virginia,54075.0,289,2.0
-817452,2020-12-11,Pocahontas,Iowa,19151.0,633,4.0
-819716,2020-12-11,Pocahontas,West Virginia,54075.0,289,2.0
-820698,2020-12-12,Pocahontas,Iowa,19151.0,638,4.0
-822962,2020-12-12,Pocahontas,West Virginia,54075.0,292,2.0
-823944,2020-12-13,Pocahontas,Iowa,19151.0,639,4.0
-826209,2020-12-13,Pocahontas,West Virginia,54075.0,294,2.0
-827191,2020-12-14,Pocahontas,Iowa,19151.0,639,4.0
-829455,2020-12-14,Pocahontas,West Virginia,54075.0,295,2.0
-830437,2020-12-15,Pocahontas,Iowa,19151.0,643,4.0
-832702,2020-12-15,Pocahontas,West Virginia,54075.0,300,2.0
-833684,2020-12-16,Pocahontas,Iowa,19151.0,656,4.0
-835948,2020-12-16,Pocahontas,West Virginia,54075.0,303,9.0
-836930,2020-12-17,Pocahontas,Iowa,19151.0,662,6.0
-839193,2020-12-17,Pocahontas,West Virginia,54075.0,304,9.0
-840175,2020-12-18,Pocahontas,Iowa,19151.0,668,6.0
-842438,2020-12-18,Pocahontas,West Virginia,54075.0,309,5.0
-843420,2020-12-19,Pocahontas,Iowa,19151.0,669,6.0
-845684,2020-12-19,Pocahontas,West Virginia,54075.0,314,5.0
-846666,2020-12-20,Pocahontas,Iowa,19151.0,669,8.0
-848929,2020-12-20,Pocahontas,West Virginia,54075.0,315,5.0
-849911,2020-12-21,Pocahontas,Iowa,19151.0,673,8.0
-852174,2020-12-21,Pocahontas,West Virginia,54075.0,315,5.0
-853156,2020-12-22,Pocahontas,Iowa,19151.0,678,8.0
-855419,2020-12-22,Pocahontas,West Virginia,54075.0,319,5.0
-856401,2020-12-23,Pocahontas,Iowa,19151.0,678,8.0
-858664,2020-12-23,Pocahontas,West Virginia,54075.0,327,5.0
-859646,2020-12-24,Pocahontas,Iowa,19151.0,683,11.0
-861909,2020-12-24,Pocahontas,West Virginia,54075.0,333,9.0
-862891,2020-12-25,Pocahontas,Iowa,19151.0,683,11.0
-865154,2020-12-25,Pocahontas,West Virginia,54075.0,336,9.0
-866136,2020-12-26,Pocahontas,Iowa,19151.0,683,11.0
-868399,2020-12-26,Pocahontas,West Virginia,54075.0,337,9.0
-869381,2020-12-27,Pocahontas,Iowa,19151.0,683,11.0
-871644,2020-12-27,Pocahontas,West Virginia,54075.0,337,9.0
-872626,2020-12-28,Pocahontas,Iowa,19151.0,705,11.0
-874889,2020-12-28,Pocahontas,West Virginia,54075.0,338,9.0
-875871,2020-12-29,Pocahontas,Iowa,19151.0,711,11.0
-878134,2020-12-29,Pocahontas,West Virginia,54075.0,344,9.0
-879116,2020-12-30,Pocahontas,Iowa,19151.0,718,11.0
-881379,2020-12-30,Pocahontas,West Virginia,54075.0,351,9.0
-882361,2020-12-31,Pocahontas,Iowa,19151.0,724,12.0
-884624,2020-12-31,Pocahontas,West Virginia,54075.0,356,9.0
-885606,2021-01-01,Pocahontas,Iowa,19151.0,724,12.0
-887869,2021-01-01,Pocahontas,West Virginia,54075.0,360,9.0
-888852,2021-01-02,Pocahontas,Iowa,19151.0,726,12.0
-891116,2021-01-02,Pocahontas,West Virginia,54075.0,364,9.0
-892098,2021-01-03,Pocahontas,Iowa,19151.0,729,12.0
-894362,2021-01-03,Pocahontas,West Virginia,54075.0,367,9.0
-895345,2021-01-04,Pocahontas,Iowa,19151.0,744,12.0
-897608,2021-01-04,Pocahontas,West Virginia,54075.0,368,9.0
-898590,2021-01-05,Pocahontas,Iowa,19151.0,749,11.0
-900853,2021-01-05,Pocahontas,West Virginia,54075.0,374,9.0
-901835,2021-01-06,Pocahontas,Iowa,19151.0,754,11.0
-904098,2021-01-06,Pocahontas,West Virginia,54075.0,385,9.0
-905080,2021-01-07,Pocahontas,Iowa,19151.0,760,11.0
-907344,2021-01-07,Pocahontas,West Virginia,54075.0,397,9.0
-908326,2021-01-08,Pocahontas,Iowa,19151.0,762,11.0
-910589,2021-01-08,Pocahontas,West Virginia,54075.0,405,9.0
-911571,2021-01-09,Pocahontas,Iowa,19151.0,762,11.0
-913834,2021-01-09,Pocahontas,West Virginia,54075.0,416,9.0
-914816,2021-01-10,Pocahontas,Iowa,19151.0,762,11.0
-917079,2021-01-10,Pocahontas,West Virginia,54075.0,418,9.0
-918061,2021-01-11,Pocahontas,Iowa,19151.0,767,11.0
-920324,2021-01-11,Pocahontas,West Virginia,54075.0,419,9.0
-921306,2021-01-12,Pocahontas,Iowa,19151.0,768,11.0
-923569,2021-01-12,Pocahontas,West Virginia,54075.0,425,9.0
-924551,2021-01-13,Pocahontas,Iowa,19151.0,771,11.0
-926815,2021-01-13,Pocahontas,West Virginia,54075.0,438,9.0
-927797,2021-01-14,Pocahontas,Iowa,19151.0,772,11.0
-930060,2021-01-14,Pocahontas,West Virginia,54075.0,451,9.0
-931042,2021-01-15,Pocahontas,Iowa,19151.0,772,11.0
-933305,2021-01-15,Pocahontas,West Virginia,54075.0,464,9.0
-934287,2021-01-16,Pocahontas,Iowa,19151.0,772,11.0
-936550,2021-01-16,Pocahontas,West Virginia,54075.0,501,9.0
-937532,2021-01-17,Pocahontas,Iowa,19151.0,772,11.0
-939795,2021-01-17,Pocahontas,West Virginia,54075.0,509,9.0
-940777,2021-01-18,Pocahontas,Iowa,19151.0,776,11.0
-943040,2021-01-18,Pocahontas,West Virginia,54075.0,511,9.0
-944022,2021-01-19,Pocahontas,Iowa,19151.0,776,11.0
-946287,2021-01-19,Pocahontas,West Virginia,54075.0,516,9.0
-947269,2021-01-20,Pocahontas,Iowa,19151.0,777,11.0
-949533,2021-01-20,Pocahontas,West Virginia,54075.0,521,9.0
-950515,2021-01-21,Pocahontas,Iowa,19151.0,778,11.0
-952778,2021-01-21,Pocahontas,West Virginia,54075.0,529,9.0
-953760,2021-01-22,Pocahontas,Iowa,19151.0,781,11.0
-956023,2021-01-22,Pocahontas,West Virginia,54075.0,531,9.0
-957005,2021-01-23,Pocahontas,Iowa,19151.0,781,11.0
-959269,2021-01-23,Pocahontas,West Virginia,54075.0,545,9.0
-960251,2021-01-24,Pocahontas,Iowa,19151.0,782,11.0
-962514,2021-01-24,Pocahontas,West Virginia,54075.0,545,9.0
-963496,2021-01-25,Pocahontas,Iowa,19151.0,787,11.0
-965759,2021-01-25,Pocahontas,West Virginia,54075.0,547,9.0
-966741,2021-01-26,Pocahontas,Iowa,19151.0,788,11.0
-969003,2021-01-26,Pocahontas,West Virginia,54075.0,548,9.0
-969985,2021-01-27,Pocahontas,Iowa,19151.0,788,11.0
-972248,2021-01-27,Pocahontas,West Virginia,54075.0,548,9.0
-973230,2021-01-28,Pocahontas,Iowa,19151.0,789,11.0
-975493,2021-01-28,Pocahontas,West Virginia,54075.0,554,9.0
-976475,2021-01-29,Pocahontas,Iowa,19151.0,789,11.0
-978738,2021-01-29,Pocahontas,West Virginia,54075.0,555,9.0
-979721,2021-01-30,Pocahontas,Iowa,19151.0,791,12.0
-981984,2021-01-30,Pocahontas,West Virginia,54075.0,556,9.0
-982967,2021-01-31,Pocahontas,Iowa,19151.0,791,17.0
-985231,2021-01-31,Pocahontas,West Virginia,54075.0,556,9.0
-986214,2021-02-01,Pocahontas,Iowa,19151.0,793,17.0
-988478,2021-02-01,Pocahontas,West Virginia,54075.0,556,9.0
-989461,2021-02-02,Pocahontas,Iowa,19151.0,794,17.0
-991724,2021-02-02,Pocahontas,West Virginia,54075.0,561,9.0
-992707,2021-02-03,Pocahontas,Iowa,19151.0,795,17.0
-994970,2021-02-03,Pocahontas,West Virginia,54075.0,563,9.0
-995953,2021-02-04,Pocahontas,Iowa,19151.0,797,17.0
-998216,2021-02-04,Pocahontas,West Virginia,54075.0,564,9.0
-999199,2021-02-05,Pocahontas,Iowa,19151.0,797,17.0
-1001462,2021-02-05,Pocahontas,West Virginia,54075.0,564,9.0
-1002445,2021-02-06,Pocahontas,Iowa,19151.0,799,17.0
-1004708,2021-02-06,Pocahontas,West Virginia,54075.0,568,9.0
-1005691,2021-02-07,Pocahontas,Iowa,19151.0,799,17.0
-1007954,2021-02-07,Pocahontas,West Virginia,54075.0,568,9.0
-1008937,2021-02-08,Pocahontas,Iowa,19151.0,799,17.0
-1011200,2021-02-08,Pocahontas,West Virginia,54075.0,569,9.0
-1012183,2021-02-09,Pocahontas,Iowa,19151.0,802,17.0
-1014445,2021-02-09,Pocahontas,West Virginia,54075.0,570,9.0
-1015428,2021-02-10,Pocahontas,Iowa,19151.0,803,18.0
-1017690,2021-02-10,Pocahontas,West Virginia,54075.0,572,9.0
-1018673,2021-02-11,Pocahontas,Iowa,19151.0,803,18.0
-1020935,2021-02-11,Pocahontas,West Virginia,54075.0,574,9.0
-1021918,2021-02-12,Pocahontas,Iowa,19151.0,804,18.0
-1024180,2021-02-12,Pocahontas,West Virginia,54075.0,574,9.0
-1025163,2021-02-13,Pocahontas,Iowa,19151.0,804,18.0
-1027425,2021-02-13,Pocahontas,West Virginia,54075.0,575,9.0
-1028408,2021-02-14,Pocahontas,Iowa,19151.0,804,18.0
-1030672,2021-02-14,Pocahontas,West Virginia,54075.0,575,9.0
-1031655,2021-02-15,Pocahontas,Iowa,19151.0,804,18.0
-1033918,2021-02-15,Pocahontas,West Virginia,54075.0,576,9.0
-1034901,2021-02-16,Pocahontas,Iowa,19151.0,804,18.0
-1037163,2021-02-16,Pocahontas,West Virginia,54075.0,576,9.0
-1038146,2021-02-17,Pocahontas,Iowa,19151.0,804,18.0
-1040408,2021-02-17,Pocahontas,West Virginia,54075.0,577,9.0
-1041391,2021-02-18,Pocahontas,Iowa,19151.0,804,18.0
-1043653,2021-02-18,Pocahontas,West Virginia,54075.0,578,9.0
-1044636,2021-02-19,Pocahontas,Iowa,19151.0,804,19.0
-1046898,2021-02-19,Pocahontas,West Virginia,54075.0,580,9.0
-1047881,2021-02-20,Pocahontas,Iowa,19151.0,804,19.0
-1050145,2021-02-20,Pocahontas,West Virginia,54075.0,581,9.0
-1051128,2021-02-21,Pocahontas,Iowa,19151.0,804,19.0
-1053392,2021-02-21,Pocahontas,West Virginia,54075.0,581,9.0
-1054375,2021-02-22,Pocahontas,Iowa,19151.0,804,19.0
-1056638,2021-02-22,Pocahontas,West Virginia,54075.0,582,9.0
-1057621,2021-02-23,Pocahontas,Iowa,19151.0,804,19.0
-1059884,2021-02-23,Pocahontas,West Virginia,54075.0,582,9.0
-1060867,2021-02-24,Pocahontas,Iowa,19151.0,804,19.0
-1063129,2021-02-24,Pocahontas,West Virginia,54075.0,584,9.0
-1064112,2021-02-25,Pocahontas,Iowa,19151.0,807,19.0
-1066374,2021-02-25,Pocahontas,West Virginia,54075.0,589,9.0
-1067357,2021-02-26,Pocahontas,Iowa,19151.0,807,19.0
-1069619,2021-02-26,Pocahontas,West Virginia,54075.0,589,9.0
-1070602,2021-02-27,Pocahontas,Iowa,19151.0,807,19.0
-1072865,2021-02-27,Pocahontas,West Virginia,54075.0,593,9.0
-1073848,2021-02-28,Pocahontas,Iowa,19151.0,807,19.0
-1076111,2021-02-28,Pocahontas,West Virginia,54075.0,595,9.0
-1077094,2021-03-01,Pocahontas,Iowa,19151.0,807,19.0
-1079356,2021-03-01,Pocahontas,West Virginia,54075.0,595,9.0
-1080339,2021-03-02,Pocahontas,Iowa,19151.0,809,19.0
-1082602,2021-03-02,Pocahontas,West Virginia,54075.0,596,9.0
-1083585,2021-03-03,Pocahontas,Iowa,19151.0,809,19.0
-1085848,2021-03-03,Pocahontas,West Virginia,54075.0,596,9.0
-1086831,2021-03-04,Pocahontas,Iowa,19151.0,809,19.0
-1089093,2021-03-04,Pocahontas,West Virginia,54075.0,596,9.0
-1090076,2021-03-05,Pocahontas,Iowa,19151.0,809,19.0
-1092339,2021-03-05,Pocahontas,West Virginia,54075.0,596,9.0
-1093322,2021-03-06,Pocahontas,Iowa,19151.0,809,19.0
-1095585,2021-03-06,Pocahontas,West Virginia,54075.0,597,9.0
-1096568,2021-03-07,Pocahontas,Iowa,19151.0,809,19.0
-1098833,2021-03-07,Pocahontas,West Virginia,54075.0,597,9.0
-1099816,2021-03-08,Pocahontas,Iowa,19151.0,809,19.0
-1102079,2021-03-08,Pocahontas,West Virginia,54075.0,597,9.0
-1103062,2021-03-09,Pocahontas,Iowa,19151.0,809,19.0
-1105325,2021-03-09,Pocahontas,West Virginia,54075.0,597,9.0
-1106308,2021-03-10,Pocahontas,Iowa,19151.0,811,19.0
-1108571,2021-03-10,Pocahontas,West Virginia,54075.0,597,9.0
-1109554,2021-03-11,Pocahontas,Iowa,19151.0,811,19.0
-1111817,2021-03-11,Pocahontas,West Virginia,54075.0,599,9.0
-1112800,2021-03-12,Pocahontas,Iowa,19151.0,814,19.0
-1115063,2021-03-12,Pocahontas,West Virginia,54075.0,599,9.0
-1116046,2021-03-13,Pocahontas,Iowa,19151.0,815,19.0
-1118310,2021-03-13,Pocahontas,West Virginia,54075.0,601,9.0
-1119293,2021-03-14,Pocahontas,Iowa,19151.0,815,19.0
-1121557,2021-03-14,Pocahontas,West Virginia,54075.0,601,9.0
-1122540,2021-03-15,Pocahontas,Iowa,19151.0,818,19.0
-1124803,2021-03-15,Pocahontas,West Virginia,54075.0,601,9.0
-1125786,2021-03-16,Pocahontas,Iowa,19151.0,820,19.0
-1128049,2021-03-16,Pocahontas,West Virginia,54075.0,601,9.0
-1129032,2021-03-17,Pocahontas,Iowa,19151.0,820,19.0
-1131296,2021-03-17,Pocahontas,West Virginia,54075.0,602,9.0
-1132280,2021-03-18,Pocahontas,Iowa,19151.0,821,19.0
-1134544,2021-03-18,Pocahontas,West Virginia,54075.0,602,9.0
-1135527,2021-03-19,Pocahontas,Iowa,19151.0,823,19.0
-1137790,2021-03-19,Pocahontas,West Virginia,54075.0,603,9.0
-1138773,2021-03-20,Pocahontas,Iowa,19151.0,823,19.0
-1141036,2021-03-20,Pocahontas,West Virginia,54075.0,606,9.0
-1142019,2021-03-21,Pocahontas,Iowa,19151.0,823,19.0
-1144283,2021-03-21,Pocahontas,West Virginia,54075.0,607,9.0
-1145266,2021-03-22,Pocahontas,Iowa,19151.0,823,19.0
-1147530,2021-03-22,Pocahontas,West Virginia,54075.0,607,9.0
-1148513,2021-03-23,Pocahontas,Iowa,19151.0,823,19.0
-1150777,2021-03-23,Pocahontas,West Virginia,54075.0,607,9.0
-1151760,2021-03-24,Pocahontas,Iowa,19151.0,823,19.0
-1154024,2021-03-24,Pocahontas,West Virginia,54075.0,609,9.0
-1155007,2021-03-25,Pocahontas,Iowa,19151.0,825,19.0
-1157271,2021-03-25,Pocahontas,West Virginia,54075.0,611,9.0
-1158254,2021-03-26,Pocahontas,Iowa,19151.0,826,19.0
-1160519,2021-03-26,Pocahontas,West Virginia,54075.0,611,9.0
-1161502,2021-03-27,Pocahontas,Iowa,19151.0,827,19.0
-1163767,2021-03-27,Pocahontas,West Virginia,54075.0,615,9.0
-1164750,2021-03-28,Pocahontas,Iowa,19151.0,827,19.0
-1167015,2021-03-28,Pocahontas,West Virginia,54075.0,615,9.0
-1167998,2021-03-29,Pocahontas,Iowa,19151.0,827,19.0
-1170263,2021-03-29,Pocahontas,West Virginia,54075.0,615,9.0
-1171246,2021-03-30,Pocahontas,Iowa,19151.0,829,19.0
-1173510,2021-03-30,Pocahontas,West Virginia,54075.0,616,9.0
-1174493,2021-03-31,Pocahontas,Iowa,19151.0,830,19.0
-1176757,2021-03-31,Pocahontas,West Virginia,54075.0,616,10.0
-1177740,2021-04-01,Pocahontas,Iowa,19151.0,830,20.0
-1180004,2021-04-01,Pocahontas,West Virginia,54075.0,618,10.0
-1180987,2021-04-02,Pocahontas,Iowa,19151.0,830,20.0
-1183251,2021-04-02,Pocahontas,West Virginia,54075.0,620,10.0
-1184234,2021-04-03,Pocahontas,Iowa,19151.0,830,21.0
-1186498,2021-04-03,Pocahontas,West Virginia,54075.0,621,10.0
-1187481,2021-04-04,Pocahontas,Iowa,19151.0,830,21.0
-1189745,2021-04-04,Pocahontas,West Virginia,54075.0,621,10.0
-1190728,2021-04-05,Pocahontas,Iowa,19151.0,830,21.0
-1192995,2021-04-05,Pocahontas,West Virginia,54075.0,621,10.0
-1193978,2021-04-06,Pocahontas,Iowa,19151.0,830,21.0
-1196243,2021-04-06,Pocahontas,West Virginia,54075.0,622,10.0
-1197226,2021-04-07,Pocahontas,Iowa,19151.0,830,21.0
-1199492,2021-04-07,Pocahontas,West Virginia,54075.0,625,10.0
-1200475,2021-04-08,Pocahontas,Iowa,19151.0,830,21.0
-1202740,2021-04-08,Pocahontas,West Virginia,54075.0,626,10.0
-1203723,2021-04-09,Pocahontas,Iowa,19151.0,830,21.0
-1205988,2021-04-09,Pocahontas,West Virginia,54075.0,626,10.0
-1206971,2021-04-10,Pocahontas,Iowa,19151.0,830,21.0
-1209236,2021-04-10,Pocahontas,West Virginia,54075.0,627,10.0
-1210220,2021-04-11,Pocahontas,Iowa,19151.0,830,21.0
-1212485,2021-04-11,Pocahontas,West Virginia,54075.0,627,10.0
-1213468,2021-04-12,Pocahontas,Iowa,19151.0,830,21.0
-1215732,2021-04-12,Pocahontas,West Virginia,54075.0,630,10.0
-1216715,2021-04-13,Pocahontas,Iowa,19151.0,831,21.0
-1218980,2021-04-13,Pocahontas,West Virginia,54075.0,631,10.0
-1219963,2021-04-14,Pocahontas,Iowa,19151.0,832,21.0
-1222228,2021-04-14,Pocahontas,West Virginia,54075.0,632,10.0
-1223211,2021-04-15,Pocahontas,Iowa,19151.0,833,21.0
-1225475,2021-04-15,Pocahontas,West Virginia,54075.0,634,10.0
-1226458,2021-04-16,Pocahontas,Iowa,19151.0,834,21.0
-1228723,2021-04-16,Pocahontas,West Virginia,54075.0,638,10.0
-1229706,2021-04-17,Pocahontas,Iowa,19151.0,836,21.0
-1231971,2021-04-17,Pocahontas,West Virginia,54075.0,640,10.0
-1232955,2021-04-18,Pocahontas,Iowa,19151.0,837,21.0
-1235219,2021-04-18,Pocahontas,West Virginia,54075.0,640,10.0
-1236202,2021-04-19,Pocahontas,Iowa,19151.0,837,21.0
-1238466,2021-04-19,Pocahontas,West Virginia,54075.0,642,10.0
-1239449,2021-04-20,Pocahontas,Iowa,19151.0,838,21.0
-1241713,2021-04-20,Pocahontas,West Virginia,54075.0,647,10.0
-1242696,2021-04-21,Pocahontas,Iowa,19151.0,841,21.0
-1244960,2021-04-21,Pocahontas,West Virginia,54075.0,649,10.0
-1245943,2021-04-22,Pocahontas,Iowa,19151.0,843,21.0
-1248207,2021-04-22,Pocahontas,West Virginia,54075.0,656,10.0
-1249190,2021-04-23,Pocahontas,Iowa,19151.0,844,21.0
-1251454,2021-04-23,Pocahontas,West Virginia,54075.0,656,10.0
-1252437,2021-04-24,Pocahontas,Iowa,19151.0,845,21.0
-1254701,2021-04-24,Pocahontas,West Virginia,54075.0,657,10.0
-1255684,2021-04-25,Pocahontas,Iowa,19151.0,846,21.0
-1257948,2021-04-25,Pocahontas,West Virginia,54075.0,657,10.0
-1258931,2021-04-26,Pocahontas,Iowa,19151.0,847,21.0
-1261195,2021-04-26,Pocahontas,West Virginia,54075.0,657,10.0
-1262178,2021-04-27,Pocahontas,Iowa,19151.0,849,21.0
-1264442,2021-04-27,Pocahontas,West Virginia,54075.0,658,10.0
-1265425,2021-04-28,Pocahontas,Iowa,19151.0,849,21.0
-1267689,2021-04-28,Pocahontas,West Virginia,54075.0,658,10.0
-1268672,2021-04-29,Pocahontas,Iowa,19151.0,852,21.0
-1270936,2021-04-29,Pocahontas,West Virginia,54075.0,659,10.0
-1271919,2021-04-30,Pocahontas,Iowa,19151.0,852,21.0
-1274183,2021-04-30,Pocahontas,West Virginia,54075.0,662,10.0
-1275166,2021-05-01,Pocahontas,Iowa,19151.0,852,21.0
-1277430,2021-05-01,Pocahontas,West Virginia,54075.0,661,10.0
-1278413,2021-05-02,Pocahontas,Iowa,19151.0,852,22.0
-1280677,2021-05-02,Pocahontas,West Virginia,54075.0,661,11.0
-1281660,2021-05-03,Pocahontas,Iowa,19151.0,852,22.0
-1283924,2021-05-03,Pocahontas,West Virginia,54075.0,661,11.0
-1284907,2021-05-04,Pocahontas,Iowa,19151.0,854,22.0
-1287170,2021-05-04,Pocahontas,West Virginia,54075.0,662,11.0
-1288153,2021-05-05,Pocahontas,Iowa,19151.0,854,22.0
-1290416,2021-05-05,Pocahontas,West Virginia,54075.0,662,11.0
-1291399,2021-05-06,Pocahontas,Iowa,19151.0,854,22.0
-1293662,2021-05-06,Pocahontas,West Virginia,54075.0,662,11.0
-1294645,2021-05-07,Pocahontas,Iowa,19151.0,854,22.0
-1296908,2021-05-07,Pocahontas,West Virginia,54075.0,662,11.0
-1297891,2021-05-08,Pocahontas,Iowa,19151.0,854,22.0
-1300155,2021-05-08,Pocahontas,West Virginia,54075.0,662,11.0
-1301138,2021-05-09,Pocahontas,Iowa,19151.0,854,22.0
-1303402,2021-05-09,Pocahontas,West Virginia,54075.0,663,11.0
-1304385,2021-05-10,Pocahontas,Iowa,19151.0,854,22.0
-1306648,2021-05-10,Pocahontas,West Virginia,54075.0,663,11.0
-1307631,2021-05-11,Pocahontas,Iowa,19151.0,853,22.0
-1309894,2021-05-11,Pocahontas,West Virginia,54075.0,663,11.0
-1310877,2021-05-12,Pocahontas,Iowa,19151.0,855,22.0
-1313141,2021-05-12,Pocahontas,West Virginia,54075.0,663,11.0
-1314124,2021-05-13,Pocahontas,Iowa,19151.0,855,22.0
-1316387,2021-05-13,Pocahontas,West Virginia,54075.0,663,11.0
-1317371,2021-05-14,Pocahontas,Iowa,19151.0,855,22.0
-1319635,2021-05-14,Pocahontas,West Virginia,54075.0,663,11.0
-1320618,2021-05-15,Pocahontas,Iowa,19151.0,855,22.0
-1322881,2021-05-15,Pocahontas,West Virginia,54075.0,664,11.0
-1323864,2021-05-16,Pocahontas,Iowa,19151.0,855,22.0
-1326127,2021-05-16,Pocahontas,West Virginia,54075.0,664,11.0
-1327110,2021-05-17,Pocahontas,Iowa,19151.0,855,22.0
-1329373,2021-05-17,Pocahontas,West Virginia,54075.0,664,11.0
-1330357,2021-05-18,Pocahontas,Iowa,19151.0,855,22.0
-1332620,2021-05-18,Pocahontas,West Virginia,54075.0,667,11.0
-1333604,2021-05-19,Pocahontas,Iowa,19151.0,855,22.0
-1335867,2021-05-19,Pocahontas,West Virginia,54075.0,664,11.0
-1336851,2021-05-20,Pocahontas,Iowa,19151.0,856,22.0
-1339114,2021-05-20,Pocahontas,West Virginia,54075.0,665,11.0
-1340098,2021-05-21,Pocahontas,Iowa,19151.0,856,22.0
-1342362,2021-05-21,Pocahontas,West Virginia,54075.0,665,11.0
-1343346,2021-05-22,Pocahontas,Iowa,19151.0,856,22.0
-1345610,2021-05-22,Pocahontas,West Virginia,54075.0,665,11.0
-1346594,2021-05-23,Pocahontas,Iowa,19151.0,856,22.0
-1348858,2021-05-23,Pocahontas,West Virginia,54075.0,665,11.0
-1349841,2021-05-24,Pocahontas,Iowa,19151.0,858,22.0
-1352104,2021-05-24,Pocahontas,West Virginia,54075.0,666,11.0
-1353087,2021-05-25,Pocahontas,Iowa,19151.0,858,22.0
-1355350,2021-05-25,Pocahontas,West Virginia,54075.0,668,11.0
-1356333,2021-05-26,Pocahontas,Iowa,19151.0,858,22.0
-1358596,2021-05-26,Pocahontas,West Virginia,54075.0,668,11.0
-1359579,2021-05-27,Pocahontas,Iowa,19151.0,858,22.0
-1361842,2021-05-27,Pocahontas,West Virginia,54075.0,673,12.0
-1362826,2021-05-28,Pocahontas,Iowa,19151.0,858,22.0
-1365088,2021-05-28,Pocahontas,West Virginia,54075.0,673,12.0
-1366072,2021-05-29,Pocahontas,Iowa,19151.0,858,22.0
-1368334,2021-05-29,Pocahontas,West Virginia,54075.0,673,12.0
-1369318,2021-05-30,Pocahontas,Iowa,19151.0,858,22.0
-1371580,2021-05-30,Pocahontas,West Virginia,54075.0,673,12.0
-1372563,2021-05-31,Pocahontas,Iowa,19151.0,858,22.0
-1374825,2021-05-31,Pocahontas,West Virginia,54075.0,673,12.0
-1375808,2021-06-01,Pocahontas,Iowa,19151.0,858,22.0
-1378071,2021-06-01,Pocahontas,West Virginia,54075.0,678,12.0
-1379054,2021-06-02,Pocahontas,Iowa,19151.0,858,22.0
-1381316,2021-06-02,Pocahontas,West Virginia,54075.0,679,12.0
-1382299,2021-06-03,Pocahontas,Iowa,19151.0,858,22.0
-1384562,2021-06-03,Pocahontas,West Virginia,54075.0,680,12.0
-1385545,2021-06-04,Pocahontas,Iowa,19151.0,858,22.0
-1387807,2021-06-04,Pocahontas,West Virginia,54075.0,680,12.0
-1388790,2021-06-05,Pocahontas,Iowa,19151.0,858,22.0
-1391052,2021-06-05,Pocahontas,West Virginia,54075.0,680,12.0
-1392035,2021-06-06,Pocahontas,Iowa,19151.0,858,22.0
-1394297,2021-06-06,Pocahontas,West Virginia,54075.0,680,12.0
-1395280,2021-06-07,Pocahontas,Iowa,19151.0,858,22.0
-1397544,2021-06-07,Pocahontas,West Virginia,54075.0,681,12.0
-1398527,2021-06-08,Pocahontas,Iowa,19151.0,858,22.0
-1400789,2021-06-08,Pocahontas,West Virginia,54075.0,680,12.0
-1401772,2021-06-09,Pocahontas,Iowa,19151.0,858,22.0
-1404034,2021-06-09,Pocahontas,West Virginia,54075.0,680,12.0
-1405017,2021-06-10,Pocahontas,Iowa,19151.0,858,22.0
-1407280,2021-06-10,Pocahontas,West Virginia,54075.0,681,12.0
-1408263,2021-06-11,Pocahontas,Iowa,19151.0,858,22.0
-1410525,2021-06-11,Pocahontas,West Virginia,54075.0,681,12.0
-1411508,2021-06-12,Pocahontas,Iowa,19151.0,858,22.0
-1413770,2021-06-12,Pocahontas,West Virginia,54075.0,681,12.0
-1414753,2021-06-13,Pocahontas,Iowa,19151.0,858,22.0
-1417016,2021-06-13,Pocahontas,West Virginia,54075.0,681,12.0
-1417999,2021-06-14,Pocahontas,Iowa,19151.0,858,22.0
-1420261,2021-06-14,Pocahontas,West Virginia,54075.0,680,12.0
-1421244,2021-06-15,Pocahontas,Iowa,19151.0,858,22.0
-1423508,2021-06-15,Pocahontas,West Virginia,54075.0,680,12.0
-1424492,2021-06-16,Pocahontas,Iowa,19151.0,858,22.0
-1426754,2021-06-16,Pocahontas,West Virginia,54075.0,681,12.0
-1427737,2021-06-17,Pocahontas,Iowa,19151.0,858,22.0
-1429999,2021-06-17,Pocahontas,West Virginia,54075.0,681,12.0
-1430982,2021-06-18,Pocahontas,Iowa,19151.0,858,22.0
-1433245,2021-06-18,Pocahontas,West Virginia,54075.0,681,12.0
-1434228,2021-06-19,Pocahontas,Iowa,19151.0,858,22.0
-1436492,2021-06-19,Pocahontas,West Virginia,54075.0,681,12.0
-1437475,2021-06-20,Pocahontas,Iowa,19151.0,858,22.0
-1439739,2021-06-20,Pocahontas,West Virginia,54075.0,681,12.0
-1440722,2021-06-21,Pocahontas,Iowa,19151.0,858,22.0
-1442984,2021-06-21,Pocahontas,West Virginia,54075.0,681,12.0
-1443967,2021-06-22,Pocahontas,Iowa,19151.0,858,22.0
-1446229,2021-06-22,Pocahontas,West Virginia,54075.0,680,12.0
-1447212,2021-06-23,Pocahontas,Iowa,19151.0,858,22.0
-1449474,2021-06-23,Pocahontas,West Virginia,54075.0,680,12.0
-1450457,2021-06-24,Pocahontas,Iowa,19151.0,858,22.0
-1452720,2021-06-24,Pocahontas,West Virginia,54075.0,681,12.0
-1453703,2021-06-25,Pocahontas,Iowa,19151.0,858,22.0
-1455965,2021-06-25,Pocahontas,West Virginia,54075.0,681,12.0
-1456948,2021-06-26,Pocahontas,Iowa,19151.0,858,22.0
-1459210,2021-06-26,Pocahontas,West Virginia,54075.0,681,12.0
-1460193,2021-06-27,Pocahontas,Iowa,19151.0,858,22.0
-1462455,2021-06-27,Pocahontas,West Virginia,54075.0,681,12.0
-1463438,2021-06-28,Pocahontas,Iowa,19151.0,858,22.0
-1465700,2021-06-28,Pocahontas,West Virginia,54075.0,681,12.0
-1466683,2021-06-29,Pocahontas,Iowa,19151.0,858,22.0
-1468945,2021-06-29,Pocahontas,West Virginia,54075.0,681,12.0
-1469928,2021-06-30,Pocahontas,Iowa,19151.0,858,22.0
-1472190,2021-06-30,Pocahontas,West Virginia,54075.0,681,12.0
-1473174,2021-07-01,Pocahontas,Iowa,19151.0,857,22.0
-1475436,2021-07-01,Pocahontas,West Virginia,54075.0,681,12.0
-1476420,2021-07-02,Pocahontas,Iowa,19151.0,858,22.0
-1478682,2021-07-02,Pocahontas,West Virginia,54075.0,681,12.0
-1479666,2021-07-03,Pocahontas,Iowa,19151.0,858,22.0
-1481929,2021-07-03,Pocahontas,West Virginia,54075.0,681,12.0
-1482913,2021-07-04,Pocahontas,Iowa,19151.0,858,22.0
-1485175,2021-07-04,Pocahontas,West Virginia,54075.0,681,12.0
-1486159,2021-07-05,Pocahontas,Iowa,19151.0,858,22.0
-1488422,2021-07-05,Pocahontas,West Virginia,54075.0,681,12.0
-1489406,2021-07-06,Pocahontas,Iowa,19151.0,858,22.0
-1491669,2021-07-06,Pocahontas,West Virginia,54075.0,682,12.0
-1492653,2021-07-07,Pocahontas,Iowa,19151.0,863,22.0
-1494916,2021-07-07,Pocahontas,West Virginia,54075.0,683,12.0
-1495899,2021-07-08,Pocahontas,Iowa,19151.0,863,22.0
-1498163,2021-07-08,Pocahontas,West Virginia,54075.0,683,12.0
-1499146,2021-07-09,Pocahontas,Iowa,19151.0,863,22.0
-1501409,2021-07-09,Pocahontas,West Virginia,54075.0,683,12.0
-1502392,2021-07-10,Pocahontas,Iowa,19151.0,863,22.0
-1504655,2021-07-10,Pocahontas,West Virginia,54075.0,683,12.0
-1505638,2021-07-11,Pocahontas,Iowa,19151.0,863,22.0
-1507901,2021-07-11,Pocahontas,West Virginia,54075.0,683,12.0
-1508884,2021-07-12,Pocahontas,Iowa,19151.0,863,22.0
-1511148,2021-07-12,Pocahontas,West Virginia,54075.0,683,12.0
-1512131,2021-07-13,Pocahontas,Iowa,19151.0,863,22.0
-1514394,2021-07-13,Pocahontas,West Virginia,54075.0,684,12.0
-1515377,2021-07-14,Pocahontas,Iowa,19151.0,866,22.0
-1517641,2021-07-14,Pocahontas,West Virginia,54075.0,684,12.0
-1518624,2021-07-15,Pocahontas,Iowa,19151.0,866,22.0
-1520889,2021-07-15,Pocahontas,West Virginia,54075.0,682,12.0
-1521872,2021-07-16,Pocahontas,Iowa,19151.0,866,22.0
-1524137,2021-07-16,Pocahontas,West Virginia,54075.0,683,12.0
-1525120,2021-07-17,Pocahontas,Iowa,19151.0,866,22.0
-1527384,2021-07-17,Pocahontas,West Virginia,54075.0,683,12.0
-1528367,2021-07-18,Pocahontas,Iowa,19151.0,866,22.0
-1530631,2021-07-18,Pocahontas,West Virginia,54075.0,683,12.0
-1531614,2021-07-19,Pocahontas,Iowa,19151.0,866,22.0
-1533878,2021-07-19,Pocahontas,West Virginia,54075.0,683,12.0
-1534861,2021-07-20,Pocahontas,Iowa,19151.0,866,22.0
-1537126,2021-07-20,Pocahontas,West Virginia,54075.0,683,12.0
-1538109,2021-07-21,Pocahontas,Iowa,19151.0,868,22.0
-1540373,2021-07-21,Pocahontas,West Virginia,54075.0,683,12.0
-1541356,2021-07-22,Pocahontas,Iowa,19151.0,868,22.0
-1543621,2021-07-22,Pocahontas,West Virginia,54075.0,682,12.0
-1544604,2021-07-23,Pocahontas,Iowa,19151.0,868,22.0
-1546868,2021-07-23,Pocahontas,West Virginia,54075.0,683,12.0
-1547851,2021-07-24,Pocahontas,Iowa,19151.0,868,22.0
-1550115,2021-07-24,Pocahontas,West Virginia,54075.0,683,12.0
-1551098,2021-07-25,Pocahontas,Iowa,19151.0,868,22.0
-1553362,2021-07-25,Pocahontas,West Virginia,54075.0,683,12.0
-1554345,2021-07-26,Pocahontas,Iowa,19151.0,868,22.0
-1556609,2021-07-26,Pocahontas,West Virginia,54075.0,683,12.0
-1557592,2021-07-27,Pocahontas,Iowa,19151.0,868,22.0
-1559856,2021-07-27,Pocahontas,West Virginia,54075.0,684,12.0
-1560839,2021-07-28,Pocahontas,Iowa,19151.0,870,22.0
-1563104,2021-07-28,Pocahontas,West Virginia,54075.0,689,12.0
-1564087,2021-07-29,Pocahontas,Iowa,19151.0,870,22.0
-1566352,2021-07-29,Pocahontas,West Virginia,54075.0,689,12.0
-1567335,2021-07-30,Pocahontas,Iowa,19151.0,870,22.0
-1569600,2021-07-30,Pocahontas,West Virginia,54075.0,690,12.0
-1570583,2021-07-31,Pocahontas,Iowa,19151.0,870,22.0
-1572848,2021-07-31,Pocahontas,West Virginia,54075.0,690,12.0
-1573831,2021-08-01,Pocahontas,Iowa,19151.0,870,22.0
-1576096,2021-08-01,Pocahontas,West Virginia,54075.0,690,12.0
-1577079,2021-08-02,Pocahontas,Iowa,19151.0,870,22.0
-1579344,2021-08-02,Pocahontas,West Virginia,54075.0,694,12.0
-1580328,2021-08-03,Pocahontas,Iowa,19151.0,870,22.0
-1582594,2021-08-03,Pocahontas,West Virginia,54075.0,696,12.0
-1583578,2021-08-04,Pocahontas,Iowa,19151.0,876,22.0
-1585844,2021-08-04,Pocahontas,West Virginia,54075.0,697,12.0
-1586828,2021-08-05,Pocahontas,Iowa,19151.0,876,22.0
-1589093,2021-08-05,Pocahontas,West Virginia,54075.0,699,12.0
-1590077,2021-08-06,Pocahontas,Iowa,19151.0,876,22.0
-1592342,2021-08-06,Pocahontas,West Virginia,54075.0,697,12.0
-1593326,2021-08-07,Pocahontas,Iowa,19151.0,876,22.0
-1595591,2021-08-07,Pocahontas,West Virginia,54075.0,697,12.0
-1596575,2021-08-08,Pocahontas,Iowa,19151.0,876,22.0
-1598840,2021-08-08,Pocahontas,West Virginia,54075.0,697,12.0
-1599823,2021-08-09,Pocahontas,Iowa,19151.0,876,22.0
-1602088,2021-08-09,Pocahontas,West Virginia,54075.0,702,12.0
-1603072,2021-08-10,Pocahontas,Iowa,19151.0,876,22.0
-1605338,2021-08-10,Pocahontas,West Virginia,54075.0,716,12.0
-1606321,2021-08-11,Pocahontas,Iowa,19151.0,879,22.0
-1608587,2021-08-11,Pocahontas,West Virginia,54075.0,723,12.0
-1609570,2021-08-12,Pocahontas,Iowa,19151.0,879,22.0
-1611834,2021-08-12,Pocahontas,West Virginia,54075.0,724,12.0
-1612818,2021-08-13,Pocahontas,Iowa,19151.0,879,22.0
-1615083,2021-08-13,Pocahontas,West Virginia,54075.0,725,12.0
-1616067,2021-08-14,Pocahontas,Iowa,19151.0,879,22.0
-1618331,2021-08-14,Pocahontas,West Virginia,54075.0,725,12.0
-1619315,2021-08-15,Pocahontas,Iowa,19151.0,879,22.0
-1621579,2021-08-15,Pocahontas,West Virginia,54075.0,725,12.0
-1622562,2021-08-16,Pocahontas,Iowa,19151.0,879,22.0
-1624826,2021-08-16,Pocahontas,West Virginia,54075.0,731,12.0
-1625809,2021-08-17,Pocahontas,Iowa,19151.0,879,22.0
-1628073,2021-08-17,Pocahontas,West Virginia,54075.0,741,12.0
-1629056,2021-08-18,Pocahontas,Iowa,19151.0,884,22.0
-1631320,2021-08-18,Pocahontas,West Virginia,54075.0,747,12.0
-1632303,2021-08-19,Pocahontas,Iowa,19151.0,884,22.0
-1634568,2021-08-19,Pocahontas,West Virginia,54075.0,747,12.0
-1635553,2021-08-20,Pocahontas,Iowa,19151.0,884,22.0
-1637818,2021-08-20,Pocahontas,West Virginia,54075.0,750,12.0
-1638803,2021-08-21,Pocahontas,Iowa,19151.0,884,22.0
-1641068,2021-08-21,Pocahontas,West Virginia,54075.0,750,12.0
-1642053,2021-08-22,Pocahontas,Iowa,19151.0,884,22.0
-1644318,2021-08-22,Pocahontas,West Virginia,54075.0,750,12.0
-1645302,2021-08-23,Pocahontas,Iowa,19151.0,884,22.0
-1647567,2021-08-23,Pocahontas,West Virginia,54075.0,759,12.0
-1648550,2021-08-24,Pocahontas,Iowa,19151.0,884,22.0
-1650816,2021-08-24,Pocahontas,West Virginia,54075.0,760,12.0
-1651799,2021-08-25,Pocahontas,Iowa,19151.0,893,22.0
-1654062,2021-08-25,Pocahontas,West Virginia,54075.0,766,13.0
-1655046,2021-08-26,Pocahontas,Iowa,19151.0,893,22.0
-1657310,2021-08-26,Pocahontas,West Virginia,54075.0,775,14.0
-1658294,2021-08-27,Pocahontas,Iowa,19151.0,893,22.0
-1660558,2021-08-27,Pocahontas,West Virginia,54075.0,776,14.0
-1661542,2021-08-28,Pocahontas,Iowa,19151.0,893,22.0
-1663806,2021-08-28,Pocahontas,West Virginia,54075.0,776,14.0
-1664790,2021-08-29,Pocahontas,Iowa,19151.0,893,22.0
-1667054,2021-08-29,Pocahontas,West Virginia,54075.0,783,14.0
-1668037,2021-08-30,Pocahontas,Iowa,19151.0,893,22.0
-1670301,2021-08-30,Pocahontas,West Virginia,54075.0,784,14.0
-1671284,2021-08-31,Pocahontas,Iowa,19151.0,893,22.0
-1673549,2021-08-31,Pocahontas,West Virginia,54075.0,796,15.0
-1674533,2021-09-01,Pocahontas,Iowa,19151.0,912,23.0
-1676796,2021-09-01,Pocahontas,West Virginia,54075.0,803,15.0
-1677780,2021-09-02,Pocahontas,Iowa,19151.0,912,23.0
-1680044,2021-09-02,Pocahontas,West Virginia,54075.0,816,15.0
-1681028,2021-09-03,Pocahontas,Iowa,19151.0,912,23.0
-1683294,2021-09-03,Pocahontas,West Virginia,54075.0,828,15.0
-1684279,2021-09-04,Pocahontas,Iowa,19151.0,912,23.0
-1686545,2021-09-04,Pocahontas,West Virginia,54075.0,835,15.0
-1687529,2021-09-05,Pocahontas,Iowa,19151.0,912,23.0
-1689795,2021-09-05,Pocahontas,West Virginia,54075.0,838,15.0
-1690779,2021-09-06,Pocahontas,Iowa,19151.0,912,23.0
-1693044,2021-09-06,Pocahontas,West Virginia,54075.0,843,15.0
-1694028,2021-09-07,Pocahontas,Iowa,19151.0,912,23.0
-1696292,2021-09-07,Pocahontas,West Virginia,54075.0,848,15.0
-1697276,2021-09-08,Pocahontas,Iowa,19151.0,941,23.0
-1699540,2021-09-08,Pocahontas,West Virginia,54075.0,853,15.0
-1700525,2021-09-09,Pocahontas,Iowa,19151.0,941,23.0
-1702789,2021-09-09,Pocahontas,West Virginia,54075.0,863,15.0
-1703775,2021-09-10,Pocahontas,Iowa,19151.0,941,23.0
-1706039,2021-09-10,Pocahontas,West Virginia,54075.0,870,15.0
-1707023,2021-09-11,Pocahontas,Iowa,19151.0,941,23.0
-1709286,2021-09-11,Pocahontas,West Virginia,54075.0,876,15.0
-1710270,2021-09-12,Pocahontas,Iowa,19151.0,941,23.0
-1712533,2021-09-12,Pocahontas,West Virginia,54075.0,882,15.0
-1713517,2021-09-13,Pocahontas,Iowa,19151.0,941,23.0
-1715779,2021-09-13,Pocahontas,West Virginia,54075.0,884,15.0
-1716763,2021-09-14,Pocahontas,Iowa,19151.0,941,23.0
-1719027,2021-09-14,Pocahontas,West Virginia,54075.0,901,15.0
-1720011,2021-09-15,Pocahontas,Iowa,19151.0,990,23.0
-1722275,2021-09-15,Pocahontas,West Virginia,54075.0,904,15.0
-1723260,2021-09-16,Pocahontas,Iowa,19151.0,990,23.0
-1725524,2021-09-16,Pocahontas,West Virginia,54075.0,919,15.0
-1726509,2021-09-17,Pocahontas,Iowa,19151.0,990,23.0
-1728774,2021-09-17,Pocahontas,West Virginia,54075.0,927,15.0
-1729759,2021-09-18,Pocahontas,Iowa,19151.0,990,23.0
-1732024,2021-09-18,Pocahontas,West Virginia,54075.0,939,15.0
-1733009,2021-09-19,Pocahontas,Iowa,19151.0,990,23.0
-1735274,2021-09-19,Pocahontas,West Virginia,54075.0,940,15.0
-1736259,2021-09-20,Pocahontas,Iowa,19151.0,990,23.0
-1738523,2021-09-20,Pocahontas,West Virginia,54075.0,941,15.0
-1739508,2021-09-21,Pocahontas,Iowa,19151.0,990,23.0
-1741772,2021-09-21,Pocahontas,West Virginia,54075.0,949,15.0
-1742757,2021-09-22,Pocahontas,Iowa,19151.0,1027,23.0
-1745021,2021-09-22,Pocahontas,West Virginia,54075.0,954,16.0
-1746006,2021-09-23,Pocahontas,Iowa,19151.0,1027,23.0
-1748271,2021-09-23,Pocahontas,West Virginia,54075.0,955,16.0
-1749256,2021-09-24,Pocahontas,Iowa,19151.0,1027,23.0
-1751520,2021-09-24,Pocahontas,West Virginia,54075.0,989,16.0
-1752505,2021-09-25,Pocahontas,Iowa,19151.0,1027,23.0
-1754768,2021-09-25,Pocahontas,West Virginia,54075.0,991,16.0
-1755753,2021-09-26,Pocahontas,Iowa,19151.0,1027,23.0
-1758016,2021-09-26,Pocahontas,West Virginia,54075.0,992,16.0
-1759001,2021-09-27,Pocahontas,Iowa,19151.0,1027,23.0
-1761264,2021-09-27,Pocahontas,West Virginia,54075.0,995,16.0
-1762249,2021-09-28,Pocahontas,Iowa,19151.0,1027,23.0
-1764513,2021-09-28,Pocahontas,West Virginia,54075.0,1004,16.0
-1765498,2021-09-29,Pocahontas,Iowa,19151.0,1044,23.0
-1767762,2021-09-29,Pocahontas,West Virginia,54075.0,1013,16.0
-1768747,2021-09-30,Pocahontas,Iowa,19151.0,1044,23.0
-1771011,2021-09-30,Pocahontas,West Virginia,54075.0,1025,16.0
-1771996,2021-10-01,Pocahontas,Iowa,19151.0,1044,23.0
-1774261,2021-10-01,Pocahontas,West Virginia,54075.0,1032,16.0
-1775246,2021-10-02,Pocahontas,Iowa,19151.0,1044,23.0
-1777511,2021-10-02,Pocahontas,West Virginia,54075.0,1036,16.0
-1778496,2021-10-03,Pocahontas,Iowa,19151.0,1044,23.0
-1780761,2021-10-03,Pocahontas,West Virginia,54075.0,1036,16.0
-1781746,2021-10-04,Pocahontas,Iowa,19151.0,1044,23.0
-1784010,2021-10-04,Pocahontas,West Virginia,54075.0,1036,16.0
-1784995,2021-10-05,Pocahontas,Iowa,19151.0,1044,23.0
-1787259,2021-10-05,Pocahontas,West Virginia,54075.0,1043,17.0
-1788244,2021-10-06,Pocahontas,Iowa,19151.0,1068,23.0
-1790507,2021-10-06,Pocahontas,West Virginia,54075.0,1052,17.0
-1791493,2021-10-07,Pocahontas,Iowa,19151.0,1068,23.0
-1793756,2021-10-07,Pocahontas,West Virginia,54075.0,1056,17.0
-1794741,2021-10-08,Pocahontas,Iowa,19151.0,1068,23.0
-1797005,2021-10-08,Pocahontas,West Virginia,54075.0,1069,17.0
-1797990,2021-10-09,Pocahontas,Iowa,19151.0,1068,23.0
-1800254,2021-10-09,Pocahontas,West Virginia,54075.0,1072,17.0
-1801239,2021-10-10,Pocahontas,Iowa,19151.0,1068,23.0
-1803503,2021-10-10,Pocahontas,West Virginia,54075.0,1075,17.0
-1804488,2021-10-11,Pocahontas,Iowa,19151.0,1068,23.0
-1806754,2021-10-11,Pocahontas,West Virginia,54075.0,1079,17.0
-1807739,2021-10-12,Pocahontas,Iowa,19151.0,1068,23.0
-1810003,2021-10-12,Pocahontas,West Virginia,54075.0,1082,17.0
-1810988,2021-10-13,Pocahontas,Iowa,19151.0,1093,23.0
-1813252,2021-10-13,Pocahontas,West Virginia,54075.0,1091,17.0
-1814237,2021-10-14,Pocahontas,Iowa,19151.0,1093,23.0
-1816500,2021-10-14,Pocahontas,West Virginia,54075.0,1098,17.0
-1817485,2021-10-15,Pocahontas,Iowa,19151.0,1093,23.0
-1819749,2021-10-15,Pocahontas,West Virginia,54075.0,1102,18.0
-1820734,2021-10-16,Pocahontas,Iowa,19151.0,1093,23.0
-1822998,2021-10-16,Pocahontas,West Virginia,54075.0,1106,18.0
-1823983,2021-10-17,Pocahontas,Iowa,19151.0,1093,23.0
-1826247,2021-10-17,Pocahontas,West Virginia,54075.0,1108,18.0
-1827232,2021-10-18,Pocahontas,Iowa,19151.0,1093,23.0
-1829496,2021-10-18,Pocahontas,West Virginia,54075.0,1109,18.0
-1830481,2021-10-19,Pocahontas,Iowa,19151.0,1093,23.0
-1832745,2021-10-19,Pocahontas,West Virginia,54075.0,1122,18.0
-1833730,2021-10-20,Pocahontas,Iowa,19151.0,1114,23.0
-1835994,2021-10-20,Pocahontas,West Virginia,54075.0,1125,18.0
-1836979,2021-10-21,Pocahontas,Iowa,19151.0,1114,23.0
-1839243,2021-10-21,Pocahontas,West Virginia,54075.0,1133,18.0
-1840228,2021-10-22,Pocahontas,Iowa,19151.0,1114,23.0
-1842492,2021-10-22,Pocahontas,West Virginia,54075.0,1136,18.0
-1843478,2021-10-23,Pocahontas,Iowa,19151.0,1114,23.0
-1845742,2021-10-23,Pocahontas,West Virginia,54075.0,1134,18.0
-1846728,2021-10-24,Pocahontas,Iowa,19151.0,1114,23.0
-1848992,2021-10-24,Pocahontas,West Virginia,54075.0,1136,18.0
-1849978,2021-10-25,Pocahontas,Iowa,19151.0,1114,23.0
-1852242,2021-10-25,Pocahontas,West Virginia,54075.0,1140,18.0
-1853227,2021-10-26,Pocahontas,Iowa,19151.0,1114,23.0
-1855491,2021-10-26,Pocahontas,West Virginia,54075.0,1145,18.0
-1856476,2021-10-27,Pocahontas,Iowa,19151.0,1130,24.0
-1858740,2021-10-27,Pocahontas,West Virginia,54075.0,1150,18.0
-1859725,2021-10-28,Pocahontas,Iowa,19151.0,1130,24.0
-1861989,2021-10-28,Pocahontas,West Virginia,54075.0,1153,18.0
-1862974,2021-10-29,Pocahontas,Iowa,19151.0,1130,24.0
-1865238,2021-10-29,Pocahontas,West Virginia,54075.0,1157,18.0
-1866223,2021-10-30,Pocahontas,Iowa,19151.0,1130,24.0
-1868487,2021-10-30,Pocahontas,West Virginia,54075.0,1158,18.0
-1869472,2021-10-31,Pocahontas,Iowa,19151.0,1130,24.0
-1871736,2021-10-31,Pocahontas,West Virginia,54075.0,1160,18.0
-1872721,2021-11-01,Pocahontas,Iowa,19151.0,1130,24.0
-1874985,2021-11-01,Pocahontas,West Virginia,54075.0,1161,18.0
-1875970,2021-11-02,Pocahontas,Iowa,19151.0,1130,24.0
-1878234,2021-11-02,Pocahontas,West Virginia,54075.0,1167,18.0
-1879219,2021-11-03,Pocahontas,Iowa,19151.0,1144,24.0
-1881483,2021-11-03,Pocahontas,West Virginia,54075.0,1175,18.0
-1882468,2021-11-04,Pocahontas,Iowa,19151.0,1144,24.0
-1884732,2021-11-04,Pocahontas,West Virginia,54075.0,1173,18.0
-1885717,2021-11-05,Pocahontas,Iowa,19151.0,1144,24.0
-1887982,2021-11-05,Pocahontas,West Virginia,54075.0,1178,18.0
-1888967,2021-11-06,Pocahontas,Iowa,19151.0,1144,24.0
-1891232,2021-11-06,Pocahontas,West Virginia,54075.0,1183,18.0
-1892217,2021-11-07,Pocahontas,Iowa,19151.0,1144,24.0
-1894482,2021-11-07,Pocahontas,West Virginia,54075.0,1183,18.0
-1895467,2021-11-08,Pocahontas,Iowa,19151.0,1144,24.0
-1897732,2021-11-08,Pocahontas,West Virginia,54075.0,1184,18.0
-1898717,2021-11-09,Pocahontas,Iowa,19151.0,1144,24.0
-1900982,2021-11-09,Pocahontas,West Virginia,54075.0,1186,18.0
-1901967,2021-11-10,Pocahontas,Iowa,19151.0,1170,24.0
-1904232,2021-11-10,Pocahontas,West Virginia,54075.0,1188,18.0
-1905217,2021-11-11,Pocahontas,Iowa,19151.0,1170,24.0
-1907481,2021-11-11,Pocahontas,West Virginia,54075.0,1189,18.0
-1908466,2021-11-12,Pocahontas,Iowa,19151.0,1170,24.0
-1910730,2021-11-12,Pocahontas,West Virginia,54075.0,1190,18.0
-1911715,2021-11-13,Pocahontas,Iowa,19151.0,1170,24.0
-1913980,2021-11-13,Pocahontas,West Virginia,54075.0,1197,18.0
-1914965,2021-11-14,Pocahontas,Iowa,19151.0,1170,24.0
-1917230,2021-11-14,Pocahontas,West Virginia,54075.0,1199,18.0
-1918215,2021-11-15,Pocahontas,Iowa,19151.0,1170,24.0
-1920480,2021-11-15,Pocahontas,West Virginia,54075.0,1200,18.0
-1921465,2021-11-16,Pocahontas,Iowa,19151.0,1170,24.0
-1923729,2021-11-16,Pocahontas,West Virginia,54075.0,1209,18.0
-1924714,2021-11-17,Pocahontas,Iowa,19151.0,1186,24.0
-1926979,2021-11-17,Pocahontas,West Virginia,54075.0,1216,18.0
-1927964,2021-11-18,Pocahontas,Iowa,19151.0,1186,24.0
-1930229,2021-11-18,Pocahontas,West Virginia,54075.0,1222,18.0
-1931215,2021-11-19,Pocahontas,Iowa,19151.0,1186,24.0
-1933481,2021-11-19,Pocahontas,West Virginia,54075.0,1228,18.0
-1934466,2021-11-20,Pocahontas,Iowa,19151.0,1186,24.0
-1936731,2021-11-20,Pocahontas,West Virginia,54075.0,1231,18.0
-1937716,2021-11-21,Pocahontas,Iowa,19151.0,1186,24.0
-1939981,2021-11-21,Pocahontas,West Virginia,54075.0,1230,18.0
-1940966,2021-11-22,Pocahontas,Iowa,19151.0,1186,24.0
-1943231,2021-11-22,Pocahontas,West Virginia,54075.0,1230,18.0
-1944216,2021-11-23,Pocahontas,Iowa,19151.0,1186,24.0
-1946482,2021-11-23,Pocahontas,West Virginia,54075.0,1236,18.0
-1947467,2021-11-24,Pocahontas,Iowa,19151.0,1209,24.0
-1949733,2021-11-24,Pocahontas,West Virginia,54075.0,1238,19.0
-1950718,2021-11-25,Pocahontas,Iowa,19151.0,1209,24.0
-1952984,2021-11-25,Pocahontas,West Virginia,54075.0,1238,19.0
-1953969,2021-11-26,Pocahontas,Iowa,19151.0,1209,24.0
-1956235,2021-11-26,Pocahontas,West Virginia,54075.0,1238,19.0
-1957220,2021-11-27,Pocahontas,Iowa,19151.0,1209,24.0
-1959486,2021-11-27,Pocahontas,West Virginia,54075.0,1238,19.0
-1960471,2021-11-28,Pocahontas,Iowa,19151.0,1209,24.0
-1962737,2021-11-28,Pocahontas,West Virginia,54075.0,1238,19.0
-1963722,2021-11-29,Pocahontas,Iowa,19151.0,1209,24.0
-1965989,2021-11-29,Pocahontas,West Virginia,54075.0,1257,19.0
-1966974,2021-11-30,Pocahontas,Iowa,19151.0,1209,24.0
-1969239,2021-11-30,Pocahontas,West Virginia,54075.0,1262,21.0
-1970224,2021-12-01,Pocahontas,Iowa,19151.0,1224,25.0
-1972489,2021-12-01,Pocahontas,West Virginia,54075.0,1270,21.0
-1973474,2021-12-02,Pocahontas,Iowa,19151.0,1224,25.0
-1975738,2021-12-02,Pocahontas,West Virginia,54075.0,1274,21.0
-1976723,2021-12-03,Pocahontas,Iowa,19151.0,1224,25.0
-1978988,2021-12-03,Pocahontas,West Virginia,54075.0,1276,21.0
-1979973,2021-12-04,Pocahontas,Iowa,19151.0,1224,25.0
-1982238,2021-12-04,Pocahontas,West Virginia,54075.0,1279,21.0
-1983223,2021-12-05,Pocahontas,Iowa,19151.0,1224,25.0
-1985488,2021-12-05,Pocahontas,West Virginia,54075.0,1281,21.0
-1986473,2021-12-06,Pocahontas,Iowa,19151.0,1224,25.0
-1988738,2021-12-06,Pocahontas,West Virginia,54075.0,1282,21.0
-1989723,2021-12-07,Pocahontas,Iowa,19151.0,1224,25.0
-1991989,2021-12-07,Pocahontas,West Virginia,54075.0,1283,21.0
-1992974,2021-12-08,Pocahontas,Iowa,19151.0,1233,25.0
-1995240,2021-12-08,Pocahontas,West Virginia,54075.0,1284,21.0
-1996225,2021-12-09,Pocahontas,Iowa,19151.0,1233,25.0
-1998491,2021-12-09,Pocahontas,West Virginia,54075.0,1285,21.0
-1999476,2021-12-10,Pocahontas,Iowa,19151.0,1233,25.0
-2001741,2021-12-10,Pocahontas,West Virginia,54075.0,1288,21.0
-2002726,2021-12-11,Pocahontas,Iowa,19151.0,1233,25.0
-2004992,2021-12-11,Pocahontas,West Virginia,54075.0,1289,21.0
-2005977,2021-12-12,Pocahontas,Iowa,19151.0,1233,25.0
-2008243,2021-12-12,Pocahontas,West Virginia,54075.0,1291,21.0
-2009228,2021-12-13,Pocahontas,Iowa,19151.0,1233,25.0
-2011494,2021-12-13,Pocahontas,West Virginia,54075.0,1292,21.0
-2012479,2021-12-14,Pocahontas,Iowa,19151.0,1233,25.0
-2014745,2021-12-14,Pocahontas,West Virginia,54075.0,1299,21.0
-2015730,2021-12-15,Pocahontas,Iowa,19151.0,1260,25.0
-2017995,2021-12-15,Pocahontas,West Virginia,54075.0,1305,21.0
-2018980,2021-12-16,Pocahontas,Iowa,19151.0,1260,25.0
-2021246,2021-12-16,Pocahontas,West Virginia,54075.0,1308,21.0
-2022231,2021-12-17,Pocahontas,Iowa,19151.0,1260,25.0
-2024497,2021-12-17,Pocahontas,West Virginia,54075.0,1314,21.0
-2025482,2021-12-18,Pocahontas,Iowa,19151.0,1260,25.0
-2027748,2021-12-18,Pocahontas,West Virginia,54075.0,1319,21.0
-2028733,2021-12-19,Pocahontas,Iowa,19151.0,1260,25.0
-2030999,2021-12-19,Pocahontas,West Virginia,54075.0,1321,21.0
-2031984,2021-12-20,Pocahontas,Iowa,19151.0,1260,25.0
-2034249,2021-12-20,Pocahontas,West Virginia,54075.0,1321,21.0
-2035234,2021-12-21,Pocahontas,Iowa,19151.0,1260,25.0
-2037499,2021-12-21,Pocahontas,West Virginia,54075.0,1324,22.0
-2038484,2021-12-22,Pocahontas,Iowa,19151.0,1278,25.0
-2040749,2021-12-22,Pocahontas,West Virginia,54075.0,1325,22.0
-2041734,2021-12-23,Pocahontas,Iowa,19151.0,1278,25.0
-2043998,2021-12-23,Pocahontas,West Virginia,54075.0,1329,22.0
-2044983,2021-12-24,Pocahontas,Iowa,19151.0,1278,25.0
-2047248,2021-12-24,Pocahontas,West Virginia,54075.0,1329,22.0
-2048233,2021-12-25,Pocahontas,Iowa,19151.0,1278,25.0
-2050498,2021-12-25,Pocahontas,West Virginia,54075.0,1329,22.0
-2051483,2021-12-26,Pocahontas,Iowa,19151.0,1278,25.0
-2053748,2021-12-26,Pocahontas,West Virginia,54075.0,1329,22.0
-2054733,2021-12-27,Pocahontas,Iowa,19151.0,1278,25.0
-2056997,2021-12-27,Pocahontas,West Virginia,54075.0,1344,22.0
-2057982,2021-12-28,Pocahontas,Iowa,19151.0,1278,25.0
-2060246,2021-12-28,Pocahontas,West Virginia,54075.0,1347,22.0
-2061231,2021-12-29,Pocahontas,Iowa,19151.0,1294,25.0
-2063496,2021-12-29,Pocahontas,West Virginia,54075.0,1355,22.0
-2064481,2021-12-30,Pocahontas,Iowa,19151.0,1294,25.0
-2066746,2021-12-30,Pocahontas,West Virginia,54075.0,1364,22.0
-2067732,2021-12-31,Pocahontas,Iowa,19151.0,1294,25.0
-2069997,2021-12-31,Pocahontas,West Virginia,54075.0,1364,22.0
-2070983,2022-01-01,Pocahontas,Iowa,19151.0,1294,25.0
-2073248,2022-01-01,Pocahontas,West Virginia,54075.0,1364,22.0
-2074234,2022-01-02,Pocahontas,Iowa,19151.0,1294,25.0
-2076499,2022-01-02,Pocahontas,West Virginia,54075.0,1364,22.0
-2077485,2022-01-03,Pocahontas,Iowa,19151.0,1294,25.0
-2079751,2022-01-03,Pocahontas,West Virginia,54075.0,1397,22.0
-2080737,2022-01-04,Pocahontas,Iowa,19151.0,1294,25.0
-2083003,2022-01-04,Pocahontas,West Virginia,54075.0,1416,22.0
-2083989,2022-01-05,Pocahontas,Iowa,19151.0,1324,25.0
-2086255,2022-01-05,Pocahontas,West Virginia,54075.0,1423,23.0
-2087241,2022-01-06,Pocahontas,Iowa,19151.0,1324,25.0
-2089506,2022-01-06,Pocahontas,West Virginia,54075.0,1436,23.0
-2090492,2022-01-07,Pocahontas,Iowa,19151.0,1324,25.0
-2092758,2022-01-07,Pocahontas,West Virginia,54075.0,1448,23.0
-2093744,2022-01-08,Pocahontas,Iowa,19151.0,1324,25.0
-2096010,2022-01-08,Pocahontas,West Virginia,54075.0,1458,23.0
-2096996,2022-01-09,Pocahontas,Iowa,19151.0,1324,25.0
-2099261,2022-01-09,Pocahontas,West Virginia,54075.0,1460,23.0
-2100247,2022-01-10,Pocahontas,Iowa,19151.0,1324,25.0
-2102512,2022-01-10,Pocahontas,West Virginia,54075.0,1464,23.0
-2103498,2022-01-11,Pocahontas,Iowa,19151.0,1324,25.0
-2105763,2022-01-11,Pocahontas,West Virginia,54075.0,1477,23.0
-2106749,2022-01-12,Pocahontas,Iowa,19151.0,1380,25.0
-2109014,2022-01-12,Pocahontas,West Virginia,54075.0,1488,23.0
-2110000,2022-01-13,Pocahontas,Iowa,19151.0,1380,25.0
-2112266,2022-01-13,Pocahontas,West Virginia,54075.0,1509,23.0
-2113252,2022-01-14,Pocahontas,Iowa,19151.0,1380,25.0
-2115518,2022-01-14,Pocahontas,West Virginia,54075.0,1522,23.0
-2116503,2022-01-15,Pocahontas,Iowa,19151.0,1380,25.0
-2118770,2022-01-15,Pocahontas,West Virginia,54075.0,1533,23.0
-2119755,2022-01-16,Pocahontas,Iowa,19151.0,1380,25.0
-2122022,2022-01-16,Pocahontas,West Virginia,54075.0,1540,23.0
-2123007,2022-01-17,Pocahontas,Iowa,19151.0,1380,25.0
-2125274,2022-01-17,Pocahontas,West Virginia,54075.0,1546,24.0
-2126259,2022-01-18,Pocahontas,Iowa,19151.0,1380,25.0
-2128527,2022-01-18,Pocahontas,West Virginia,54075.0,1560,25.0
-2129513,2022-01-19,Pocahontas,Iowa,19151.0,1447,25.0
-2131781,2022-01-19,Pocahontas,West Virginia,54075.0,1577,25.0
-2132766,2022-01-20,Pocahontas,Iowa,19151.0,1447,25.0
-2135033,2022-01-20,Pocahontas,West Virginia,54075.0,1591,25.0
-2136018,2022-01-21,Pocahontas,Iowa,19151.0,1447,25.0
-2138288,2022-01-21,Pocahontas,West Virginia,54075.0,1604,25.0
-2139274,2022-01-22,Pocahontas,Iowa,19151.0,1447,25.0
-2141544,2022-01-22,Pocahontas,West Virginia,54075.0,1623,25.0
-2142529,2022-01-23,Pocahontas,Iowa,19151.0,1447,25.0
-2144799,2022-01-23,Pocahontas,West Virginia,54075.0,1634,25.0
-2145784,2022-01-24,Pocahontas,Iowa,19151.0,1447,25.0
-2148051,2022-01-24,Pocahontas,West Virginia,54075.0,1663,25.0
-2149036,2022-01-25,Pocahontas,Iowa,19151.0,1447,25.0
-2151303,2022-01-25,Pocahontas,West Virginia,54075.0,1675,25.0
-2152288,2022-01-26,Pocahontas,Iowa,19151.0,1503,25.0
-2154556,2022-01-26,Pocahontas,West Virginia,54075.0,1717,25.0
-2155541,2022-01-27,Pocahontas,Iowa,19151.0,1503,25.0
-2157809,2022-01-27,Pocahontas,West Virginia,54075.0,1740,25.0
-2158795,2022-01-28,Pocahontas,Iowa,19151.0,1503,25.0
-2161065,2022-01-28,Pocahontas,West Virginia,54075.0,1751,25.0
-2162050,2022-01-29,Pocahontas,Iowa,19151.0,1503,25.0
-2164320,2022-01-29,Pocahontas,West Virginia,54075.0,1766,25.0
-2165305,2022-01-30,Pocahontas,Iowa,19151.0,1503,25.0
-2167575,2022-01-30,Pocahontas,West Virginia,54075.0,1770,25.0
-2168560,2022-01-31,Pocahontas,Iowa,19151.0,1503,25.0
-2170828,2022-01-31,Pocahontas,West Virginia,54075.0,1776,25.0
-2171813,2022-02-01,Pocahontas,Iowa,19151.0,1503,25.0
-2174080,2022-02-01,Pocahontas,West Virginia,54075.0,1796,25.0
-2175066,2022-02-02,Pocahontas,Iowa,19151.0,1537,26.0
-2177333,2022-02-02,Pocahontas,West Virginia,54075.0,1810,25.0
-2178319,2022-02-03,Pocahontas,Iowa,19151.0,1537,26.0
-2180584,2022-02-03,Pocahontas,West Virginia,54075.0,1822,25.0
-2181570,2022-02-04,Pocahontas,Iowa,19151.0,1537,26.0
-2183836,2022-02-04,Pocahontas,West Virginia,54075.0,1830,25.0
-2184822,2022-02-05,Pocahontas,Iowa,19151.0,1537,26.0
-2187089,2022-02-05,Pocahontas,West Virginia,54075.0,1837,25.0
-2188075,2022-02-06,Pocahontas,Iowa,19151.0,1537,26.0
-2190342,2022-02-06,Pocahontas,West Virginia,54075.0,1842,25.0
-2191328,2022-02-07,Pocahontas,Iowa,19151.0,1537,26.0
-2193595,2022-02-07,Pocahontas,West Virginia,54075.0,1852,25.0
-2194582,2022-02-08,Pocahontas,Iowa,19151.0,1537,26.0
-2196850,2022-02-08,Pocahontas,West Virginia,54075.0,1864,25.0
-2197836,2022-02-09,Pocahontas,Iowa,19151.0,1558,27.0
-2200104,2022-02-09,Pocahontas,West Virginia,54075.0,1878,25.0
-2201090,2022-02-10,Pocahontas,Iowa,19151.0,1558,27.0
-2203358,2022-02-10,Pocahontas,West Virginia,54075.0,1890,25.0
-2204343,2022-02-11,Pocahontas,Iowa,19151.0,1558,27.0
-2206611,2022-02-11,Pocahontas,West Virginia,54075.0,1900,25.0
-2207596,2022-02-12,Pocahontas,Iowa,19151.0,1558,27.0
-2209864,2022-02-12,Pocahontas,West Virginia,54075.0,1909,25.0
-2210849,2022-02-13,Pocahontas,Iowa,19151.0,1558,27.0
-2213117,2022-02-13,Pocahontas,West Virginia,54075.0,1925,25.0
-2214101,2022-02-14,Pocahontas,Iowa,19151.0,1558,27.0
-2216368,2022-02-14,Pocahontas,West Virginia,54075.0,1933,25.0
-2217352,2022-02-15,Pocahontas,Iowa,19151.0,1558,27.0
-2219618,2022-02-15,Pocahontas,West Virginia,54075.0,1936,25.0
-2220603,2022-02-16,Pocahontas,Iowa,19151.0,1565,27.0
-2222869,2022-02-16,Pocahontas,West Virginia,54075.0,1940,25.0
-2223854,2022-02-17,Pocahontas,Iowa,19151.0,1565,27.0
-2226120,2022-02-17,Pocahontas,West Virginia,54075.0,1944,25.0
-2227105,2022-02-18,Pocahontas,Iowa,19151.0,1565,27.0
-2229371,2022-02-18,Pocahontas,West Virginia,54075.0,1951,25.0
-2230356,2022-02-19,Pocahontas,Iowa,19151.0,1565,27.0
-2232622,2022-02-19,Pocahontas,West Virginia,54075.0,1951,25.0
-2233607,2022-02-20,Pocahontas,Iowa,19151.0,1565,27.0
-2235873,2022-02-20,Pocahontas,West Virginia,54075.0,1951,25.0
-2236858,2022-02-21,Pocahontas,Iowa,19151.0,1565,27.0
-2239124,2022-02-21,Pocahontas,West Virginia,54075.0,1963,25.0
-2240109,2022-02-22,Pocahontas,Iowa,19151.0,1565,27.0
-2242375,2022-02-22,Pocahontas,West Virginia,54075.0,1964,26.0
-2243360,2022-02-23,Pocahontas,Iowa,19151.0,1571,27.0
-2245626,2022-02-23,Pocahontas,West Virginia,54075.0,1971,26.0
-2246611,2022-02-24,Pocahontas,Iowa,19151.0,1571,27.0
-2248877,2022-02-24,Pocahontas,West Virginia,54075.0,1975,27.0
-2249862,2022-02-25,Pocahontas,Iowa,19151.0,1571,27.0
-2252128,2022-02-25,Pocahontas,West Virginia,54075.0,1978,27.0
-2253113,2022-02-26,Pocahontas,Iowa,19151.0,1571,27.0
-2255379,2022-02-26,Pocahontas,West Virginia,54075.0,1978,27.0
-2256364,2022-02-27,Pocahontas,Iowa,19151.0,1571,27.0
-2258630,2022-02-27,Pocahontas,West Virginia,54075.0,1978,27.0
-2259615,2022-02-28,Pocahontas,Iowa,19151.0,1571,27.0
-2261881,2022-02-28,Pocahontas,West Virginia,54075.0,1979,27.0
-2262866,2022-03-01,Pocahontas,Iowa,19151.0,1571,27.0
-2265131,2022-03-01,Pocahontas,West Virginia,54075.0,1980,27.0
-2266117,2022-03-02,Pocahontas,Iowa,19151.0,1573,27.0
-2268384,2022-03-02,Pocahontas,West Virginia,54075.0,1980,27.0
-2269370,2022-03-03,Pocahontas,Iowa,19151.0,1573,27.0
-2271636,2022-03-03,Pocahontas,West Virginia,54075.0,1983,27.0
-2272622,2022-03-04,Pocahontas,Iowa,19151.0,1573,27.0
-2274889,2022-03-04,Pocahontas,West Virginia,54075.0,1991,27.0
-2275875,2022-03-05,Pocahontas,Iowa,19151.0,1573,27.0
-2278142,2022-03-05,Pocahontas,West Virginia,54075.0,1991,27.0
-2279128,2022-03-06,Pocahontas,Iowa,19151.0,1573,27.0
-2281395,2022-03-06,Pocahontas,West Virginia,54075.0,1991,27.0
-2282381,2022-03-07,Pocahontas,Iowa,19151.0,1573,27.0
-2284647,2022-03-07,Pocahontas,West Virginia,54075.0,1996,27.0
-2285633,2022-03-08,Pocahontas,Iowa,19151.0,1573,27.0
-2287899,2022-03-08,Pocahontas,West Virginia,54075.0,1998,27.0
-2288884,2022-03-09,Pocahontas,Iowa,19151.0,1575,27.0
-2291151,2022-03-09,Pocahontas,West Virginia,54075.0,1998,27.0
-2292136,2022-03-10,Pocahontas,Iowa,19151.0,1575,27.0
-2294403,2022-03-10,Pocahontas,West Virginia,54075.0,1999,27.0
-2295388,2022-03-11,Pocahontas,Iowa,19151.0,1575,27.0
-2297655,2022-03-11,Pocahontas,West Virginia,54075.0,2000,27.0
-2298640,2022-03-12,Pocahontas,Iowa,19151.0,1575,27.0
-2300907,2022-03-12,Pocahontas,West Virginia,54075.0,2000,27.0
-2301892,2022-03-13,Pocahontas,Iowa,19151.0,1575,27.0
-2304159,2022-03-13,Pocahontas,West Virginia,54075.0,2000,27.0
-2305144,2022-03-14,Pocahontas,Iowa,19151.0,1575,27.0
-2307410,2022-03-14,Pocahontas,West Virginia,54075.0,2002,27.0
-2308395,2022-03-15,Pocahontas,Iowa,19151.0,1575,27.0
-2310663,2022-03-15,Pocahontas,West Virginia,54075.0,2003,27.0
-2311648,2022-03-16,Pocahontas,Iowa,19151.0,1588,27.0
-2313916,2022-03-16,Pocahontas,West Virginia,54075.0,2003,27.0
-2314901,2022-03-17,Pocahontas,Iowa,19151.0,1588,27.0
-2317169,2022-03-17,Pocahontas,West Virginia,54075.0,2004,28.0
-2318154,2022-03-18,Pocahontas,Iowa,19151.0,1588,27.0
-2320423,2022-03-18,Pocahontas,West Virginia,54075.0,2004,28.0
-2321408,2022-03-19,Pocahontas,Iowa,19151.0,1588,27.0
-2323677,2022-03-19,Pocahontas,West Virginia,54075.0,2004,28.0
-2324662,2022-03-20,Pocahontas,Iowa,19151.0,1588,27.0
-2326930,2022-03-20,Pocahontas,West Virginia,54075.0,2004,28.0
-2327915,2022-03-21,Pocahontas,Iowa,19151.0,1588,27.0
-2330182,2022-03-21,Pocahontas,West Virginia,54075.0,2005,28.0
-2331167,2022-03-22,Pocahontas,Iowa,19151.0,1588,27.0
-2333436,2022-03-22,Pocahontas,West Virginia,54075.0,2005,28.0
-2334421,2022-03-23,Pocahontas,Iowa,19151.0,1590,27.0
-2336690,2022-03-23,Pocahontas,West Virginia,54075.0,2005,28.0
-2337675,2022-03-24,Pocahontas,Iowa,19151.0,1590,27.0
-2339943,2022-03-24,Pocahontas,West Virginia,54075.0,2006,28.0
-2340928,2022-03-25,Pocahontas,Iowa,19151.0,1590,27.0
-2343196,2022-03-25,Pocahontas,West Virginia,54075.0,2006,28.0
-2344181,2022-03-26,Pocahontas,Iowa,19151.0,1590,27.0
-2346449,2022-03-26,Pocahontas,West Virginia,54075.0,2006,28.0
-2347434,2022-03-27,Pocahontas,Iowa,19151.0,1590,27.0
-2349702,2022-03-27,Pocahontas,West Virginia,54075.0,2006,28.0
-2350687,2022-03-28,Pocahontas,Iowa,19151.0,1590,27.0
-2352954,2022-03-28,Pocahontas,West Virginia,54075.0,2007,28.0
-2353939,2022-03-29,Pocahontas,Iowa,19151.0,1590,27.0
-2356207,2022-03-29,Pocahontas,West Virginia,54075.0,2008,28.0
-2357192,2022-03-30,Pocahontas,Iowa,19151.0,1596,27.0
-2359461,2022-03-30,Pocahontas,West Virginia,54075.0,2008,28.0
-2360446,2022-03-31,Pocahontas,Iowa,19151.0,1596,27.0
-2362715,2022-03-31,Pocahontas,West Virginia,54075.0,2008,28.0
-2363700,2022-04-01,Pocahontas,Iowa,19151.0,1596,27.0
-2365968,2022-04-01,Pocahontas,West Virginia,54075.0,2009,28.0
-2366953,2022-04-02,Pocahontas,Iowa,19151.0,1596,27.0
-2369221,2022-04-02,Pocahontas,West Virginia,54075.0,2009,28.0
-2370206,2022-04-03,Pocahontas,Iowa,19151.0,1596,27.0
-2372474,2022-04-03,Pocahontas,West Virginia,54075.0,2009,28.0
-2373459,2022-04-04,Pocahontas,Iowa,19151.0,1596,27.0
-2375726,2022-04-04,Pocahontas,West Virginia,54075.0,2009,28.0
-2376711,2022-04-05,Pocahontas,Iowa,19151.0,1596,27.0
-2378980,2022-04-05,Pocahontas,West Virginia,54075.0,2009,28.0
-2379966,2022-04-06,Pocahontas,Iowa,19151.0,1598,27.0
-2382235,2022-04-06,Pocahontas,West Virginia,54075.0,2010,28.0
-2383221,2022-04-07,Pocahontas,Iowa,19151.0,1598,27.0
-2385490,2022-04-07,Pocahontas,West Virginia,54075.0,2010,28.0
-2386475,2022-04-08,Pocahontas,Iowa,19151.0,1598,27.0
-2388745,2022-04-08,Pocahontas,West Virginia,54075.0,2011,28.0
-2389731,2022-04-09,Pocahontas,Iowa,19151.0,1598,27.0
-2392001,2022-04-09,Pocahontas,West Virginia,54075.0,2011,28.0
+date,county,state,fips,cases,deaths
+2020-04-27,Pocahontas,Iowa,19151.0,1,0.0
+2020-04-27,Pocahontas,West Virginia,54075.0,1,0.0
+2020-04-28,Pocahontas,Iowa,19151.0,1,0.0
+2020-04-28,Pocahontas,West Virginia,54075.0,2,0.0
+2020-04-29,Pocahontas,Iowa,19151.0,1,0.0
+2020-04-29,Pocahontas,West Virginia,54075.0,2,0.0
+2020-04-30,Pocahontas,Iowa,19151.0,1,0.0
+2020-04-30,Pocahontas,West Virginia,54075.0,2,0.0
+2020-05-01,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-01,Pocahontas,West Virginia,54075.0,2,0.0
+2020-05-02,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-02,Pocahontas,West Virginia,54075.0,2,0.0
+2020-05-03,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-03,Pocahontas,West Virginia,54075.0,2,0.0
+2020-05-04,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-04,Pocahontas,West Virginia,54075.0,2,0.0
+2020-05-05,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-05,Pocahontas,West Virginia,54075.0,2,0.0
+2020-05-06,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-06,Pocahontas,West Virginia,54075.0,2,0.0
+2020-05-07,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-07,Pocahontas,West Virginia,54075.0,2,0.0
+2020-05-08,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-08,Pocahontas,West Virginia,54075.0,2,0.0
+2020-05-09,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-09,Pocahontas,West Virginia,54075.0,2,0.0
+2020-05-10,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-10,Pocahontas,West Virginia,54075.0,2,0.0
+2020-05-11,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-11,Pocahontas,West Virginia,54075.0,2,0.0
+2020-05-12,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-12,Pocahontas,West Virginia,54075.0,2,0.0
+2020-05-13,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-13,Pocahontas,West Virginia,54075.0,2,0.0
+2020-05-14,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-14,Pocahontas,West Virginia,54075.0,2,0.0
+2020-05-15,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-15,Pocahontas,West Virginia,54075.0,2,0.0
+2020-05-16,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-16,Pocahontas,West Virginia,54075.0,4,0.0
+2020-05-17,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-17,Pocahontas,West Virginia,54075.0,9,0.0
+2020-05-18,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-18,Pocahontas,West Virginia,54075.0,8,0.0
+2020-05-19,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-19,Pocahontas,West Virginia,54075.0,8,0.0
+2020-05-20,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-20,Pocahontas,West Virginia,54075.0,10,0.0
+2020-05-21,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-21,Pocahontas,West Virginia,54075.0,15,0.0
+2020-05-22,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-22,Pocahontas,West Virginia,54075.0,24,0.0
+2020-05-23,Pocahontas,Iowa,19151.0,3,0.0
+2020-05-23,Pocahontas,West Virginia,54075.0,23,0.0
+2020-05-24,Pocahontas,Iowa,19151.0,4,0.0
+2020-05-24,Pocahontas,West Virginia,54075.0,24,0.0
+2020-05-25,Pocahontas,Iowa,19151.0,4,0.0
+2020-05-25,Pocahontas,West Virginia,54075.0,24,0.0
+2020-05-26,Pocahontas,Iowa,19151.0,6,0.0
+2020-05-26,Pocahontas,West Virginia,54075.0,24,0.0
+2020-05-27,Pocahontas,Iowa,19151.0,10,0.0
+2020-05-27,Pocahontas,West Virginia,54075.0,17,0.0
+2020-05-28,Pocahontas,Iowa,19151.0,10,0.0
+2020-05-28,Pocahontas,West Virginia,54075.0,18,0.0
+2020-05-29,Pocahontas,Iowa,19151.0,11,0.0
+2020-05-29,Pocahontas,West Virginia,54075.0,21,0.0
+2020-05-30,Pocahontas,Iowa,19151.0,11,0.0
+2020-05-30,Pocahontas,West Virginia,54075.0,21,0.0
+2020-05-31,Pocahontas,Iowa,19151.0,12,0.0
+2020-05-31,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-01,Pocahontas,Iowa,19151.0,13,0.0
+2020-06-01,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-02,Pocahontas,Iowa,19151.0,13,0.0
+2020-06-02,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-03,Pocahontas,Iowa,19151.0,14,0.0
+2020-06-03,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-04,Pocahontas,Iowa,19151.0,18,0.0
+2020-06-04,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-05,Pocahontas,Iowa,19151.0,20,0.0
+2020-06-05,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-06,Pocahontas,Iowa,19151.0,20,0.0
+2020-06-06,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-07,Pocahontas,Iowa,19151.0,20,0.0
+2020-06-07,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-08,Pocahontas,Iowa,19151.0,21,0.0
+2020-06-08,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-09,Pocahontas,Iowa,19151.0,21,0.0
+2020-06-09,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-10,Pocahontas,Iowa,19151.0,29,0.0
+2020-06-10,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-11,Pocahontas,Iowa,19151.0,30,0.0
+2020-06-11,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-12,Pocahontas,Iowa,19151.0,30,0.0
+2020-06-12,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-13,Pocahontas,Iowa,19151.0,30,0.0
+2020-06-13,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-14,Pocahontas,Iowa,19151.0,30,0.0
+2020-06-14,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-15,Pocahontas,Iowa,19151.0,30,0.0
+2020-06-15,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-16,Pocahontas,Iowa,19151.0,30,0.0
+2020-06-16,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-17,Pocahontas,Iowa,19151.0,32,0.0
+2020-06-17,Pocahontas,West Virginia,54075.0,21,0.0
+2020-06-18,Pocahontas,Iowa,19151.0,32,0.0
+2020-06-18,Pocahontas,West Virginia,54075.0,22,0.0
+2020-06-19,Pocahontas,Iowa,19151.0,36,0.0
+2020-06-19,Pocahontas,West Virginia,54075.0,22,0.0
+2020-06-20,Pocahontas,Iowa,19151.0,38,1.0
+2020-06-20,Pocahontas,West Virginia,54075.0,24,0.0
+2020-06-21,Pocahontas,Iowa,19151.0,38,1.0
+2020-06-21,Pocahontas,West Virginia,54075.0,24,0.0
+2020-06-22,Pocahontas,Iowa,19151.0,39,1.0
+2020-06-22,Pocahontas,West Virginia,54075.0,24,0.0
+2020-06-23,Pocahontas,Iowa,19151.0,39,1.0
+2020-06-23,Pocahontas,West Virginia,54075.0,24,0.0
+2020-06-24,Pocahontas,Iowa,19151.0,41,1.0
+2020-06-24,Pocahontas,West Virginia,54075.0,24,0.0
+2020-06-25,Pocahontas,Iowa,19151.0,46,1.0
+2020-06-25,Pocahontas,West Virginia,54075.0,24,0.0
+2020-06-26,Pocahontas,Iowa,19151.0,50,1.0
+2020-06-26,Pocahontas,West Virginia,54075.0,24,0.0
+2020-06-27,Pocahontas,Iowa,19151.0,66,1.0
+2020-06-27,Pocahontas,West Virginia,54075.0,24,0.0
+2020-06-28,Pocahontas,Iowa,19151.0,70,1.0
+2020-06-28,Pocahontas,West Virginia,54075.0,24,0.0
+2020-06-29,Pocahontas,Iowa,19151.0,73,1.0
+2020-06-29,Pocahontas,West Virginia,54075.0,24,0.0
+2020-06-30,Pocahontas,Iowa,19151.0,75,1.0
+2020-06-30,Pocahontas,West Virginia,54075.0,25,0.0
+2020-07-01,Pocahontas,Iowa,19151.0,88,1.0
+2020-07-01,Pocahontas,West Virginia,54075.0,25,0.0
+2020-07-02,Pocahontas,Iowa,19151.0,93,1.0
+2020-07-02,Pocahontas,West Virginia,54075.0,28,0.0
+2020-07-03,Pocahontas,Iowa,19151.0,93,1.0
+2020-07-03,Pocahontas,West Virginia,54075.0,29,0.0
+2020-07-04,Pocahontas,Iowa,19151.0,95,1.0
+2020-07-04,Pocahontas,West Virginia,54075.0,31,0.0
+2020-07-05,Pocahontas,Iowa,19151.0,96,1.0
+2020-07-05,Pocahontas,West Virginia,54075.0,31,0.0
+2020-07-06,Pocahontas,Iowa,19151.0,97,1.0
+2020-07-06,Pocahontas,West Virginia,54075.0,31,0.0
+2020-07-07,Pocahontas,Iowa,19151.0,98,1.0
+2020-07-07,Pocahontas,West Virginia,54075.0,37,0.0
+2020-07-08,Pocahontas,Iowa,19151.0,103,1.0
+2020-07-08,Pocahontas,West Virginia,54075.0,37,0.0
+2020-07-09,Pocahontas,Iowa,19151.0,104,1.0
+2020-07-09,Pocahontas,West Virginia,54075.0,37,0.0
+2020-07-10,Pocahontas,Iowa,19151.0,107,1.0
+2020-07-10,Pocahontas,West Virginia,54075.0,37,0.0
+2020-07-11,Pocahontas,Iowa,19151.0,107,1.0
+2020-07-11,Pocahontas,West Virginia,54075.0,37,0.0
+2020-07-12,Pocahontas,Iowa,19151.0,109,1.0
+2020-07-12,Pocahontas,West Virginia,54075.0,37,0.0
+2020-07-13,Pocahontas,Iowa,19151.0,109,1.0
+2020-07-13,Pocahontas,West Virginia,54075.0,38,0.0
+2020-07-14,Pocahontas,Iowa,19151.0,109,1.0
+2020-07-14,Pocahontas,West Virginia,54075.0,38,0.0
+2020-07-15,Pocahontas,Iowa,19151.0,109,1.0
+2020-07-15,Pocahontas,West Virginia,54075.0,38,0.0
+2020-07-16,Pocahontas,Iowa,19151.0,108,1.0
+2020-07-16,Pocahontas,West Virginia,54075.0,38,0.0
+2020-07-17,Pocahontas,Iowa,19151.0,108,1.0
+2020-07-17,Pocahontas,West Virginia,54075.0,38,0.0
+2020-07-18,Pocahontas,Iowa,19151.0,109,1.0
+2020-07-18,Pocahontas,West Virginia,54075.0,38,0.0
+2020-07-19,Pocahontas,Iowa,19151.0,109,1.0
+2020-07-19,Pocahontas,West Virginia,54075.0,38,0.0
+2020-07-20,Pocahontas,Iowa,19151.0,110,1.0
+2020-07-20,Pocahontas,West Virginia,54075.0,39,0.0
+2020-07-21,Pocahontas,Iowa,19151.0,109,1.0
+2020-07-21,Pocahontas,West Virginia,54075.0,40,0.0
+2020-07-22,Pocahontas,Iowa,19151.0,109,1.0
+2020-07-22,Pocahontas,West Virginia,54075.0,40,0.0
+2020-07-23,Pocahontas,Iowa,19151.0,110,1.0
+2020-07-23,Pocahontas,West Virginia,54075.0,40,0.0
+2020-07-24,Pocahontas,Iowa,19151.0,111,1.0
+2020-07-24,Pocahontas,West Virginia,54075.0,40,0.0
+2020-07-25,Pocahontas,Iowa,19151.0,111,1.0
+2020-07-25,Pocahontas,West Virginia,54075.0,40,0.0
+2020-07-26,Pocahontas,Iowa,19151.0,111,1.0
+2020-07-26,Pocahontas,West Virginia,54075.0,40,0.0
+2020-07-27,Pocahontas,Iowa,19151.0,112,1.0
+2020-07-27,Pocahontas,West Virginia,54075.0,40,0.0
+2020-07-28,Pocahontas,Iowa,19151.0,112,1.0
+2020-07-28,Pocahontas,West Virginia,54075.0,41,0.0
+2020-07-29,Pocahontas,Iowa,19151.0,112,1.0
+2020-07-29,Pocahontas,West Virginia,54075.0,41,0.0
+2020-07-30,Pocahontas,Iowa,19151.0,113,1.0
+2020-07-30,Pocahontas,West Virginia,54075.0,41,0.0
+2020-07-31,Pocahontas,Iowa,19151.0,113,1.0
+2020-07-31,Pocahontas,West Virginia,54075.0,41,0.0
+2020-08-01,Pocahontas,Iowa,19151.0,113,1.0
+2020-08-01,Pocahontas,West Virginia,54075.0,41,0.0
+2020-08-02,Pocahontas,Iowa,19151.0,113,1.0
+2020-08-02,Pocahontas,West Virginia,54075.0,41,0.0
+2020-08-03,Pocahontas,Iowa,19151.0,113,1.0
+2020-08-03,Pocahontas,West Virginia,54075.0,41,0.0
+2020-08-04,Pocahontas,Iowa,19151.0,114,1.0
+2020-08-04,Pocahontas,West Virginia,54075.0,41,0.0
+2020-08-05,Pocahontas,Iowa,19151.0,114,1.0
+2020-08-05,Pocahontas,West Virginia,54075.0,41,0.0
+2020-08-06,Pocahontas,Iowa,19151.0,115,1.0
+2020-08-06,Pocahontas,West Virginia,54075.0,41,0.0
+2020-08-07,Pocahontas,Iowa,19151.0,115,1.0
+2020-08-07,Pocahontas,West Virginia,54075.0,41,0.0
+2020-08-08,Pocahontas,Iowa,19151.0,115,2.0
+2020-08-08,Pocahontas,West Virginia,54075.0,41,0.0
+2020-08-09,Pocahontas,Iowa,19151.0,115,2.0
+2020-08-09,Pocahontas,West Virginia,54075.0,41,0.0
+2020-08-10,Pocahontas,Iowa,19151.0,116,2.0
+2020-08-10,Pocahontas,West Virginia,54075.0,41,0.0
+2020-08-11,Pocahontas,Iowa,19151.0,117,2.0
+2020-08-11,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-12,Pocahontas,Iowa,19151.0,118,2.0
+2020-08-12,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-13,Pocahontas,Iowa,19151.0,121,2.0
+2020-08-13,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-14,Pocahontas,Iowa,19151.0,120,2.0
+2020-08-14,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-15,Pocahontas,Iowa,19151.0,122,2.0
+2020-08-15,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-16,Pocahontas,Iowa,19151.0,122,2.0
+2020-08-16,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-17,Pocahontas,Iowa,19151.0,122,2.0
+2020-08-17,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-18,Pocahontas,Iowa,19151.0,122,2.0
+2020-08-18,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-19,Pocahontas,Iowa,19151.0,119,2.0
+2020-08-19,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-20,Pocahontas,Iowa,19151.0,119,2.0
+2020-08-20,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-21,Pocahontas,Iowa,19151.0,121,2.0
+2020-08-21,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-22,Pocahontas,Iowa,19151.0,121,2.0
+2020-08-22,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-23,Pocahontas,Iowa,19151.0,122,2.0
+2020-08-23,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-24,Pocahontas,Iowa,19151.0,122,2.0
+2020-08-24,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-25,Pocahontas,Iowa,19151.0,122,2.0
+2020-08-25,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-26,Pocahontas,Iowa,19151.0,124,2.0
+2020-08-26,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-27,Pocahontas,Iowa,19151.0,128,2.0
+2020-08-27,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-28,Pocahontas,Iowa,19151.0,129,2.0
+2020-08-28,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-29,Pocahontas,Iowa,19151.0,129,2.0
+2020-08-29,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-30,Pocahontas,Iowa,19151.0,130,2.0
+2020-08-30,Pocahontas,West Virginia,54075.0,42,0.0
+2020-08-31,Pocahontas,Iowa,19151.0,131,2.0
+2020-08-31,Pocahontas,West Virginia,54075.0,42,0.0
+2020-09-01,Pocahontas,Iowa,19151.0,131,2.0
+2020-09-01,Pocahontas,West Virginia,54075.0,45,0.0
+2020-09-02,Pocahontas,Iowa,19151.0,131,2.0
+2020-09-02,Pocahontas,West Virginia,54075.0,43,0.0
+2020-09-03,Pocahontas,Iowa,19151.0,133,2.0
+2020-09-03,Pocahontas,West Virginia,54075.0,43,0.0
+2020-09-04,Pocahontas,Iowa,19151.0,137,2.0
+2020-09-04,Pocahontas,West Virginia,54075.0,43,0.0
+2020-09-05,Pocahontas,Iowa,19151.0,139,2.0
+2020-09-05,Pocahontas,West Virginia,54075.0,45,0.0
+2020-09-06,Pocahontas,Iowa,19151.0,140,2.0
+2020-09-06,Pocahontas,West Virginia,54075.0,45,0.0
+2020-09-07,Pocahontas,Iowa,19151.0,140,2.0
+2020-09-07,Pocahontas,West Virginia,54075.0,45,0.0
+2020-09-08,Pocahontas,Iowa,19151.0,140,2.0
+2020-09-08,Pocahontas,West Virginia,54075.0,45,0.0
+2020-09-09,Pocahontas,Iowa,19151.0,140,2.0
+2020-09-09,Pocahontas,West Virginia,54075.0,55,0.0
+2020-09-10,Pocahontas,Iowa,19151.0,142,2.0
+2020-09-10,Pocahontas,West Virginia,54075.0,55,0.0
+2020-09-11,Pocahontas,Iowa,19151.0,143,2.0
+2020-09-11,Pocahontas,West Virginia,54075.0,55,0.0
+2020-09-12,Pocahontas,Iowa,19151.0,146,2.0
+2020-09-12,Pocahontas,West Virginia,54075.0,56,0.0
+2020-09-13,Pocahontas,Iowa,19151.0,146,2.0
+2020-09-13,Pocahontas,West Virginia,54075.0,56,0.0
+2020-09-14,Pocahontas,Iowa,19151.0,146,2.0
+2020-09-14,Pocahontas,West Virginia,54075.0,58,0.0
+2020-09-15,Pocahontas,Iowa,19151.0,146,2.0
+2020-09-15,Pocahontas,West Virginia,54075.0,58,0.0
+2020-09-16,Pocahontas,Iowa,19151.0,146,2.0
+2020-09-16,Pocahontas,West Virginia,54075.0,58,0.0
+2020-09-17,Pocahontas,Iowa,19151.0,149,2.0
+2020-09-17,Pocahontas,West Virginia,54075.0,59,0.0
+2020-09-18,Pocahontas,Iowa,19151.0,150,2.0
+2020-09-18,Pocahontas,West Virginia,54075.0,59,0.0
+2020-09-19,Pocahontas,Iowa,19151.0,151,2.0
+2020-09-19,Pocahontas,West Virginia,54075.0,59,0.0
+2020-09-20,Pocahontas,Iowa,19151.0,152,2.0
+2020-09-20,Pocahontas,West Virginia,54075.0,59,0.0
+2020-09-21,Pocahontas,Iowa,19151.0,154,2.0
+2020-09-21,Pocahontas,West Virginia,54075.0,59,0.0
+2020-09-22,Pocahontas,Iowa,19151.0,154,2.0
+2020-09-22,Pocahontas,West Virginia,54075.0,59,0.0
+2020-09-23,Pocahontas,Iowa,19151.0,156,2.0
+2020-09-23,Pocahontas,West Virginia,54075.0,59,0.0
+2020-09-24,Pocahontas,Iowa,19151.0,156,2.0
+2020-09-24,Pocahontas,West Virginia,54075.0,59,0.0
+2020-09-25,Pocahontas,Iowa,19151.0,157,2.0
+2020-09-25,Pocahontas,West Virginia,54075.0,59,0.0
+2020-09-26,Pocahontas,Iowa,19151.0,159,2.0
+2020-09-26,Pocahontas,West Virginia,54075.0,59,0.0
+2020-09-27,Pocahontas,Iowa,19151.0,163,2.0
+2020-09-27,Pocahontas,West Virginia,54075.0,59,0.0
+2020-09-28,Pocahontas,Iowa,19151.0,165,2.0
+2020-09-28,Pocahontas,West Virginia,54075.0,59,0.0
+2020-09-29,Pocahontas,Iowa,19151.0,166,2.0
+2020-09-29,Pocahontas,West Virginia,54075.0,59,0.0
+2020-09-30,Pocahontas,Iowa,19151.0,168,2.0
+2020-09-30,Pocahontas,West Virginia,54075.0,59,0.0
+2020-10-01,Pocahontas,Iowa,19151.0,174,2.0
+2020-10-01,Pocahontas,West Virginia,54075.0,59,0.0
+2020-10-02,Pocahontas,Iowa,19151.0,177,2.0
+2020-10-02,Pocahontas,West Virginia,54075.0,60,0.0
+2020-10-03,Pocahontas,Iowa,19151.0,177,2.0
+2020-10-03,Pocahontas,West Virginia,54075.0,60,0.0
+2020-10-04,Pocahontas,Iowa,19151.0,178,2.0
+2020-10-04,Pocahontas,West Virginia,54075.0,60,0.0
+2020-10-05,Pocahontas,Iowa,19151.0,178,2.0
+2020-10-05,Pocahontas,West Virginia,54075.0,60,0.0
+2020-10-06,Pocahontas,Iowa,19151.0,180,2.0
+2020-10-06,Pocahontas,West Virginia,54075.0,60,0.0
+2020-10-07,Pocahontas,Iowa,19151.0,183,2.0
+2020-10-07,Pocahontas,West Virginia,54075.0,60,0.0
+2020-10-08,Pocahontas,Iowa,19151.0,189,2.0
+2020-10-08,Pocahontas,West Virginia,54075.0,60,0.0
+2020-10-09,Pocahontas,Iowa,19151.0,189,2.0
+2020-10-09,Pocahontas,West Virginia,54075.0,60,0.0
+2020-10-10,Pocahontas,Iowa,19151.0,191,2.0
+2020-10-10,Pocahontas,West Virginia,54075.0,61,0.0
+2020-10-11,Pocahontas,Iowa,19151.0,191,2.0
+2020-10-11,Pocahontas,West Virginia,54075.0,61,0.0
+2020-10-12,Pocahontas,Iowa,19151.0,191,2.0
+2020-10-12,Pocahontas,West Virginia,54075.0,61,0.0
+2020-10-13,Pocahontas,Iowa,19151.0,195,2.0
+2020-10-13,Pocahontas,West Virginia,54075.0,61,0.0
+2020-10-14,Pocahontas,Iowa,19151.0,195,2.0
+2020-10-14,Pocahontas,West Virginia,54075.0,61,0.0
+2020-10-15,Pocahontas,Iowa,19151.0,198,2.0
+2020-10-15,Pocahontas,West Virginia,54075.0,62,0.0
+2020-10-16,Pocahontas,Iowa,19151.0,202,2.0
+2020-10-16,Pocahontas,West Virginia,54075.0,64,0.0
+2020-10-17,Pocahontas,Iowa,19151.0,202,2.0
+2020-10-17,Pocahontas,West Virginia,54075.0,64,0.0
+2020-10-18,Pocahontas,Iowa,19151.0,203,2.0
+2020-10-18,Pocahontas,West Virginia,54075.0,63,0.0
+2020-10-19,Pocahontas,Iowa,19151.0,209,2.0
+2020-10-19,Pocahontas,West Virginia,54075.0,64,0.0
+2020-10-20,Pocahontas,Iowa,19151.0,211,2.0
+2020-10-20,Pocahontas,West Virginia,54075.0,64,0.0
+2020-10-21,Pocahontas,Iowa,19151.0,215,2.0
+2020-10-21,Pocahontas,West Virginia,54075.0,64,0.0
+2020-10-22,Pocahontas,Iowa,19151.0,217,2.0
+2020-10-22,Pocahontas,West Virginia,54075.0,66,0.0
+2020-10-23,Pocahontas,Iowa,19151.0,219,2.0
+2020-10-23,Pocahontas,West Virginia,54075.0,68,0.0
+2020-10-24,Pocahontas,Iowa,19151.0,221,2.0
+2020-10-24,Pocahontas,West Virginia,54075.0,68,0.0
+2020-10-25,Pocahontas,Iowa,19151.0,223,2.0
+2020-10-25,Pocahontas,West Virginia,54075.0,68,0.0
+2020-10-26,Pocahontas,Iowa,19151.0,226,2.0
+2020-10-26,Pocahontas,West Virginia,54075.0,68,0.0
+2020-10-27,Pocahontas,Iowa,19151.0,233,2.0
+2020-10-27,Pocahontas,West Virginia,54075.0,69,0.0
+2020-10-28,Pocahontas,Iowa,19151.0,238,2.0
+2020-10-28,Pocahontas,West Virginia,54075.0,70,0.0
+2020-10-29,Pocahontas,Iowa,19151.0,245,2.0
+2020-10-29,Pocahontas,West Virginia,54075.0,70,0.0
+2020-10-30,Pocahontas,Iowa,19151.0,253,2.0
+2020-10-30,Pocahontas,West Virginia,54075.0,72,0.0
+2020-10-31,Pocahontas,Iowa,19151.0,261,2.0
+2020-10-31,Pocahontas,West Virginia,54075.0,73,0.0
+2020-11-01,Pocahontas,Iowa,19151.0,266,2.0
+2020-11-01,Pocahontas,West Virginia,54075.0,73,0.0
+2020-11-02,Pocahontas,Iowa,19151.0,273,2.0
+2020-11-02,Pocahontas,West Virginia,54075.0,73,0.0
+2020-11-03,Pocahontas,Iowa,19151.0,287,2.0
+2020-11-03,Pocahontas,West Virginia,54075.0,74,0.0
+2020-11-04,Pocahontas,Iowa,19151.0,298,2.0
+2020-11-04,Pocahontas,West Virginia,54075.0,74,0.0
+2020-11-05,Pocahontas,Iowa,19151.0,312,2.0
+2020-11-05,Pocahontas,West Virginia,54075.0,74,0.0
+2020-11-06,Pocahontas,Iowa,19151.0,322,2.0
+2020-11-06,Pocahontas,West Virginia,54075.0,76,0.0
+2020-11-07,Pocahontas,Iowa,19151.0,339,2.0
+2020-11-07,Pocahontas,West Virginia,54075.0,76,0.0
+2020-11-08,Pocahontas,Iowa,19151.0,358,2.0
+2020-11-08,Pocahontas,West Virginia,54075.0,77,0.0
+2020-11-09,Pocahontas,Iowa,19151.0,374,2.0
+2020-11-09,Pocahontas,West Virginia,54075.0,77,0.0
+2020-11-10,Pocahontas,Iowa,19151.0,387,2.0
+2020-11-10,Pocahontas,West Virginia,54075.0,77,0.0
+2020-11-11,Pocahontas,Iowa,19151.0,408,2.0
+2020-11-11,Pocahontas,West Virginia,54075.0,77,0.0
+2020-11-12,Pocahontas,Iowa,19151.0,420,2.0
+2020-11-12,Pocahontas,West Virginia,54075.0,79,0.0
+2020-11-13,Pocahontas,Iowa,19151.0,433,2.0
+2020-11-13,Pocahontas,West Virginia,54075.0,79,0.0
+2020-11-14,Pocahontas,Iowa,19151.0,441,2.0
+2020-11-14,Pocahontas,West Virginia,54075.0,80,0.0
+2020-11-15,Pocahontas,Iowa,19151.0,444,2.0
+2020-11-15,Pocahontas,West Virginia,54075.0,81,0.0
+2020-11-16,Pocahontas,Iowa,19151.0,462,2.0
+2020-11-16,Pocahontas,West Virginia,54075.0,81,0.0
+2020-11-17,Pocahontas,Iowa,19151.0,475,2.0
+2020-11-17,Pocahontas,West Virginia,54075.0,80,0.0
+2020-11-18,Pocahontas,Iowa,19151.0,485,2.0
+2020-11-18,Pocahontas,West Virginia,54075.0,82,0.0
+2020-11-19,Pocahontas,Iowa,19151.0,492,2.0
+2020-11-19,Pocahontas,West Virginia,54075.0,84,0.0
+2020-11-20,Pocahontas,Iowa,19151.0,495,2.0
+2020-11-20,Pocahontas,West Virginia,54075.0,89,0.0
+2020-11-21,Pocahontas,Iowa,19151.0,507,2.0
+2020-11-21,Pocahontas,West Virginia,54075.0,94,0.0
+2020-11-22,Pocahontas,Iowa,19151.0,507,2.0
+2020-11-22,Pocahontas,West Virginia,54075.0,96,0.0
+2020-11-23,Pocahontas,Iowa,19151.0,519,2.0
+2020-11-23,Pocahontas,West Virginia,54075.0,102,0.0
+2020-11-24,Pocahontas,Iowa,19151.0,544,2.0
+2020-11-24,Pocahontas,West Virginia,54075.0,107,0.0
+2020-11-25,Pocahontas,Iowa,19151.0,551,2.0
+2020-11-25,Pocahontas,West Virginia,54075.0,115,0.0
+2020-11-26,Pocahontas,Iowa,19151.0,553,2.0
+2020-11-26,Pocahontas,West Virginia,54075.0,152,0.0
+2020-11-27,Pocahontas,Iowa,19151.0,557,2.0
+2020-11-27,Pocahontas,West Virginia,54075.0,152,0.0
+2020-11-28,Pocahontas,Iowa,19151.0,557,4.0
+2020-11-28,Pocahontas,West Virginia,54075.0,162,0.0
+2020-11-29,Pocahontas,Iowa,19151.0,558,4.0
+2020-11-29,Pocahontas,West Virginia,54075.0,173,0.0
+2020-11-30,Pocahontas,Iowa,19151.0,564,4.0
+2020-11-30,Pocahontas,West Virginia,54075.0,211,0.0
+2020-12-01,Pocahontas,Iowa,19151.0,584,4.0
+2020-12-01,Pocahontas,West Virginia,54075.0,216,1.0
+2020-12-02,Pocahontas,Iowa,19151.0,598,4.0
+2020-12-02,Pocahontas,West Virginia,54075.0,225,2.0
+2020-12-03,Pocahontas,Iowa,19151.0,602,4.0
+2020-12-03,Pocahontas,West Virginia,54075.0,235,2.0
+2020-12-04,Pocahontas,Iowa,19151.0,606,4.0
+2020-12-04,Pocahontas,West Virginia,54075.0,239,2.0
+2020-12-05,Pocahontas,Iowa,19151.0,609,4.0
+2020-12-05,Pocahontas,West Virginia,54075.0,266,2.0
+2020-12-06,Pocahontas,Iowa,19151.0,610,4.0
+2020-12-06,Pocahontas,West Virginia,54075.0,270,2.0
+2020-12-07,Pocahontas,Iowa,19151.0,616,4.0
+2020-12-07,Pocahontas,West Virginia,54075.0,273,2.0
+2020-12-08,Pocahontas,Iowa,19151.0,616,3.0
+2020-12-08,Pocahontas,West Virginia,54075.0,277,2.0
+2020-12-09,Pocahontas,Iowa,19151.0,620,3.0
+2020-12-09,Pocahontas,West Virginia,54075.0,281,2.0
+2020-12-10,Pocahontas,Iowa,19151.0,625,4.0
+2020-12-10,Pocahontas,West Virginia,54075.0,289,2.0
+2020-12-11,Pocahontas,Iowa,19151.0,633,4.0
+2020-12-11,Pocahontas,West Virginia,54075.0,289,2.0
+2020-12-12,Pocahontas,Iowa,19151.0,638,4.0
+2020-12-12,Pocahontas,West Virginia,54075.0,292,2.0
+2020-12-13,Pocahontas,Iowa,19151.0,639,4.0
+2020-12-13,Pocahontas,West Virginia,54075.0,294,2.0
+2020-12-14,Pocahontas,Iowa,19151.0,639,4.0
+2020-12-14,Pocahontas,West Virginia,54075.0,295,2.0
+2020-12-15,Pocahontas,Iowa,19151.0,643,4.0
+2020-12-15,Pocahontas,West Virginia,54075.0,300,2.0
+2020-12-16,Pocahontas,Iowa,19151.0,656,4.0
+2020-12-16,Pocahontas,West Virginia,54075.0,303,9.0
+2020-12-17,Pocahontas,Iowa,19151.0,662,6.0
+2020-12-17,Pocahontas,West Virginia,54075.0,304,9.0
+2020-12-18,Pocahontas,Iowa,19151.0,668,6.0
+2020-12-18,Pocahontas,West Virginia,54075.0,309,5.0
+2020-12-19,Pocahontas,Iowa,19151.0,669,6.0
+2020-12-19,Pocahontas,West Virginia,54075.0,314,5.0
+2020-12-20,Pocahontas,Iowa,19151.0,669,8.0
+2020-12-20,Pocahontas,West Virginia,54075.0,315,5.0
+2020-12-21,Pocahontas,Iowa,19151.0,673,8.0
+2020-12-21,Pocahontas,West Virginia,54075.0,315,5.0
+2020-12-22,Pocahontas,Iowa,19151.0,678,8.0
+2020-12-22,Pocahontas,West Virginia,54075.0,319,5.0
+2020-12-23,Pocahontas,Iowa,19151.0,678,8.0
+2020-12-23,Pocahontas,West Virginia,54075.0,327,5.0
+2020-12-24,Pocahontas,Iowa,19151.0,683,11.0
+2020-12-24,Pocahontas,West Virginia,54075.0,333,9.0
+2020-12-25,Pocahontas,Iowa,19151.0,683,11.0
+2020-12-25,Pocahontas,West Virginia,54075.0,336,9.0
+2020-12-26,Pocahontas,Iowa,19151.0,683,11.0
+2020-12-26,Pocahontas,West Virginia,54075.0,337,9.0
+2020-12-27,Pocahontas,Iowa,19151.0,683,11.0
+2020-12-27,Pocahontas,West Virginia,54075.0,337,9.0
+2020-12-28,Pocahontas,Iowa,19151.0,705,11.0
+2020-12-28,Pocahontas,West Virginia,54075.0,338,9.0
+2020-12-29,Pocahontas,Iowa,19151.0,711,11.0
+2020-12-29,Pocahontas,West Virginia,54075.0,344,9.0
+2020-12-30,Pocahontas,Iowa,19151.0,718,11.0
+2020-12-30,Pocahontas,West Virginia,54075.0,351,9.0
+2020-12-31,Pocahontas,Iowa,19151.0,724,12.0
+2020-12-31,Pocahontas,West Virginia,54075.0,356,9.0
+2021-01-01,Pocahontas,Iowa,19151.0,724,12.0
+2021-01-01,Pocahontas,West Virginia,54075.0,360,9.0
+2021-01-02,Pocahontas,Iowa,19151.0,726,12.0
+2021-01-02,Pocahontas,West Virginia,54075.0,364,9.0
+2021-01-03,Pocahontas,Iowa,19151.0,729,12.0
+2021-01-03,Pocahontas,West Virginia,54075.0,367,9.0
+2021-01-04,Pocahontas,Iowa,19151.0,744,12.0
+2021-01-04,Pocahontas,West Virginia,54075.0,368,9.0
+2021-01-05,Pocahontas,Iowa,19151.0,749,11.0
+2021-01-05,Pocahontas,West Virginia,54075.0,374,9.0
+2021-01-06,Pocahontas,Iowa,19151.0,754,11.0
+2021-01-06,Pocahontas,West Virginia,54075.0,385,9.0
+2021-01-07,Pocahontas,Iowa,19151.0,760,11.0
+2021-01-07,Pocahontas,West Virginia,54075.0,397,9.0
+2021-01-08,Pocahontas,Iowa,19151.0,762,11.0
+2021-01-08,Pocahontas,West Virginia,54075.0,405,9.0
+2021-01-09,Pocahontas,Iowa,19151.0,762,11.0
+2021-01-09,Pocahontas,West Virginia,54075.0,416,9.0
+2021-01-10,Pocahontas,Iowa,19151.0,762,11.0
+2021-01-10,Pocahontas,West Virginia,54075.0,418,9.0
+2021-01-11,Pocahontas,Iowa,19151.0,767,11.0
+2021-01-11,Pocahontas,West Virginia,54075.0,419,9.0
+2021-01-12,Pocahontas,Iowa,19151.0,768,11.0
+2021-01-12,Pocahontas,West Virginia,54075.0,425,9.0
+2021-01-13,Pocahontas,Iowa,19151.0,771,11.0
+2021-01-13,Pocahontas,West Virginia,54075.0,438,9.0
+2021-01-14,Pocahontas,Iowa,19151.0,772,11.0
+2021-01-14,Pocahontas,West Virginia,54075.0,451,9.0
+2021-01-15,Pocahontas,Iowa,19151.0,772,11.0
+2021-01-15,Pocahontas,West Virginia,54075.0,464,9.0
+2021-01-16,Pocahontas,Iowa,19151.0,772,11.0
+2021-01-16,Pocahontas,West Virginia,54075.0,501,9.0
+2021-01-17,Pocahontas,Iowa,19151.0,772,11.0
+2021-01-17,Pocahontas,West Virginia,54075.0,509,9.0
+2021-01-18,Pocahontas,Iowa,19151.0,776,11.0
+2021-01-18,Pocahontas,West Virginia,54075.0,511,9.0
+2021-01-19,Pocahontas,Iowa,19151.0,776,11.0
+2021-01-19,Pocahontas,West Virginia,54075.0,516,9.0
+2021-01-20,Pocahontas,Iowa,19151.0,777,11.0
+2021-01-20,Pocahontas,West Virginia,54075.0,521,9.0
+2021-01-21,Pocahontas,Iowa,19151.0,778,11.0
+2021-01-21,Pocahontas,West Virginia,54075.0,529,9.0
+2021-01-22,Pocahontas,Iowa,19151.0,781,11.0
+2021-01-22,Pocahontas,West Virginia,54075.0,531,9.0
+2021-01-23,Pocahontas,Iowa,19151.0,781,11.0
+2021-01-23,Pocahontas,West Virginia,54075.0,545,9.0
+2021-01-24,Pocahontas,Iowa,19151.0,782,11.0
+2021-01-24,Pocahontas,West Virginia,54075.0,545,9.0
+2021-01-25,Pocahontas,Iowa,19151.0,787,11.0
+2021-01-25,Pocahontas,West Virginia,54075.0,547,9.0
+2021-01-26,Pocahontas,Iowa,19151.0,788,11.0
+2021-01-26,Pocahontas,West Virginia,54075.0,548,9.0
+2021-01-27,Pocahontas,Iowa,19151.0,788,11.0
+2021-01-27,Pocahontas,West Virginia,54075.0,548,9.0
+2021-01-28,Pocahontas,Iowa,19151.0,789,11.0
+2021-01-28,Pocahontas,West Virginia,54075.0,554,9.0
+2021-01-29,Pocahontas,Iowa,19151.0,789,11.0
+2021-01-29,Pocahontas,West Virginia,54075.0,555,9.0
+2021-01-30,Pocahontas,Iowa,19151.0,791,12.0
+2021-01-30,Pocahontas,West Virginia,54075.0,556,9.0
+2021-01-31,Pocahontas,Iowa,19151.0,791,17.0
+2021-01-31,Pocahontas,West Virginia,54075.0,556,9.0
+2021-02-01,Pocahontas,Iowa,19151.0,793,17.0
+2021-02-01,Pocahontas,West Virginia,54075.0,556,9.0
+2021-02-02,Pocahontas,Iowa,19151.0,794,17.0
+2021-02-02,Pocahontas,West Virginia,54075.0,561,9.0
+2021-02-03,Pocahontas,Iowa,19151.0,795,17.0
+2021-02-03,Pocahontas,West Virginia,54075.0,563,9.0
+2021-02-04,Pocahontas,Iowa,19151.0,797,17.0
+2021-02-04,Pocahontas,West Virginia,54075.0,564,9.0
+2021-02-05,Pocahontas,Iowa,19151.0,797,17.0
+2021-02-05,Pocahontas,West Virginia,54075.0,564,9.0
+2021-02-06,Pocahontas,Iowa,19151.0,799,17.0
+2021-02-06,Pocahontas,West Virginia,54075.0,568,9.0
+2021-02-07,Pocahontas,Iowa,19151.0,799,17.0
+2021-02-07,Pocahontas,West Virginia,54075.0,568,9.0
+2021-02-08,Pocahontas,Iowa,19151.0,799,17.0
+2021-02-08,Pocahontas,West Virginia,54075.0,569,9.0
+2021-02-09,Pocahontas,Iowa,19151.0,802,17.0
+2021-02-09,Pocahontas,West Virginia,54075.0,570,9.0
+2021-02-10,Pocahontas,Iowa,19151.0,803,18.0
+2021-02-10,Pocahontas,West Virginia,54075.0,572,9.0
+2021-02-11,Pocahontas,Iowa,19151.0,803,18.0
+2021-02-11,Pocahontas,West Virginia,54075.0,574,9.0
+2021-02-12,Pocahontas,Iowa,19151.0,804,18.0
+2021-02-12,Pocahontas,West Virginia,54075.0,574,9.0
+2021-02-13,Pocahontas,Iowa,19151.0,804,18.0
+2021-02-13,Pocahontas,West Virginia,54075.0,575,9.0
+2021-02-14,Pocahontas,Iowa,19151.0,804,18.0
+2021-02-14,Pocahontas,West Virginia,54075.0,575,9.0
+2021-02-15,Pocahontas,Iowa,19151.0,804,18.0
+2021-02-15,Pocahontas,West Virginia,54075.0,576,9.0
+2021-02-16,Pocahontas,Iowa,19151.0,804,18.0
+2021-02-16,Pocahontas,West Virginia,54075.0,576,9.0
+2021-02-17,Pocahontas,Iowa,19151.0,804,18.0
+2021-02-17,Pocahontas,West Virginia,54075.0,577,9.0
+2021-02-18,Pocahontas,Iowa,19151.0,804,18.0
+2021-02-18,Pocahontas,West Virginia,54075.0,578,9.0
+2021-02-19,Pocahontas,Iowa,19151.0,804,19.0
+2021-02-19,Pocahontas,West Virginia,54075.0,580,9.0
+2021-02-20,Pocahontas,Iowa,19151.0,804,19.0
+2021-02-20,Pocahontas,West Virginia,54075.0,581,9.0
+2021-02-21,Pocahontas,Iowa,19151.0,804,19.0
+2021-02-21,Pocahontas,West Virginia,54075.0,581,9.0
+2021-02-22,Pocahontas,Iowa,19151.0,804,19.0
+2021-02-22,Pocahontas,West Virginia,54075.0,582,9.0
+2021-02-23,Pocahontas,Iowa,19151.0,804,19.0
+2021-02-23,Pocahontas,West Virginia,54075.0,582,9.0
+2021-02-24,Pocahontas,Iowa,19151.0,804,19.0
+2021-02-24,Pocahontas,West Virginia,54075.0,584,9.0
+2021-02-25,Pocahontas,Iowa,19151.0,807,19.0
+2021-02-25,Pocahontas,West Virginia,54075.0,589,9.0
+2021-02-26,Pocahontas,Iowa,19151.0,807,19.0
+2021-02-26,Pocahontas,West Virginia,54075.0,589,9.0
+2021-02-27,Pocahontas,Iowa,19151.0,807,19.0
+2021-02-27,Pocahontas,West Virginia,54075.0,593,9.0
+2021-02-28,Pocahontas,Iowa,19151.0,807,19.0
+2021-02-28,Pocahontas,West Virginia,54075.0,595,9.0
+2021-03-01,Pocahontas,Iowa,19151.0,807,19.0
+2021-03-01,Pocahontas,West Virginia,54075.0,595,9.0
+2021-03-02,Pocahontas,Iowa,19151.0,809,19.0
+2021-03-02,Pocahontas,West Virginia,54075.0,596,9.0
+2021-03-03,Pocahontas,Iowa,19151.0,809,19.0
+2021-03-03,Pocahontas,West Virginia,54075.0,596,9.0
+2021-03-04,Pocahontas,Iowa,19151.0,809,19.0
+2021-03-04,Pocahontas,West Virginia,54075.0,596,9.0
+2021-03-05,Pocahontas,Iowa,19151.0,809,19.0
+2021-03-05,Pocahontas,West Virginia,54075.0,596,9.0
+2021-03-06,Pocahontas,Iowa,19151.0,809,19.0
+2021-03-06,Pocahontas,West Virginia,54075.0,597,9.0
+2021-03-07,Pocahontas,Iowa,19151.0,809,19.0
+2021-03-07,Pocahontas,West Virginia,54075.0,597,9.0
+2021-03-08,Pocahontas,Iowa,19151.0,809,19.0
+2021-03-08,Pocahontas,West Virginia,54075.0,597,9.0
+2021-03-09,Pocahontas,Iowa,19151.0,809,19.0
+2021-03-09,Pocahontas,West Virginia,54075.0,597,9.0
+2021-03-10,Pocahontas,Iowa,19151.0,811,19.0
+2021-03-10,Pocahontas,West Virginia,54075.0,597,9.0
+2021-03-11,Pocahontas,Iowa,19151.0,811,19.0
+2021-03-11,Pocahontas,West Virginia,54075.0,599,9.0
+2021-03-12,Pocahontas,Iowa,19151.0,814,19.0
+2021-03-12,Pocahontas,West Virginia,54075.0,599,9.0
+2021-03-13,Pocahontas,Iowa,19151.0,815,19.0
+2021-03-13,Pocahontas,West Virginia,54075.0,601,9.0
+2021-03-14,Pocahontas,Iowa,19151.0,815,19.0
+2021-03-14,Pocahontas,West Virginia,54075.0,601,9.0
+2021-03-15,Pocahontas,Iowa,19151.0,818,19.0
+2021-03-15,Pocahontas,West Virginia,54075.0,601,9.0
+2021-03-16,Pocahontas,Iowa,19151.0,820,19.0
+2021-03-16,Pocahontas,West Virginia,54075.0,601,9.0
+2021-03-17,Pocahontas,Iowa,19151.0,820,19.0
+2021-03-17,Pocahontas,West Virginia,54075.0,602,9.0
+2021-03-18,Pocahontas,Iowa,19151.0,821,19.0
+2021-03-18,Pocahontas,West Virginia,54075.0,602,9.0
+2021-03-19,Pocahontas,Iowa,19151.0,823,19.0
+2021-03-19,Pocahontas,West Virginia,54075.0,603,9.0
+2021-03-20,Pocahontas,Iowa,19151.0,823,19.0
+2021-03-20,Pocahontas,West Virginia,54075.0,606,9.0
+2021-03-21,Pocahontas,Iowa,19151.0,823,19.0
+2021-03-21,Pocahontas,West Virginia,54075.0,607,9.0
+2021-03-22,Pocahontas,Iowa,19151.0,823,19.0
+2021-03-22,Pocahontas,West Virginia,54075.0,607,9.0
+2021-03-23,Pocahontas,Iowa,19151.0,823,19.0
+2021-03-23,Pocahontas,West Virginia,54075.0,607,9.0
+2021-03-24,Pocahontas,Iowa,19151.0,823,19.0
+2021-03-24,Pocahontas,West Virginia,54075.0,609,9.0
+2021-03-25,Pocahontas,Iowa,19151.0,825,19.0
+2021-03-25,Pocahontas,West Virginia,54075.0,611,9.0
+2021-03-26,Pocahontas,Iowa,19151.0,826,19.0
+2021-03-26,Pocahontas,West Virginia,54075.0,611,9.0
+2021-03-27,Pocahontas,Iowa,19151.0,827,19.0
+2021-03-27,Pocahontas,West Virginia,54075.0,615,9.0
+2021-03-28,Pocahontas,Iowa,19151.0,827,19.0
+2021-03-28,Pocahontas,West Virginia,54075.0,615,9.0
+2021-03-29,Pocahontas,Iowa,19151.0,827,19.0
+2021-03-29,Pocahontas,West Virginia,54075.0,615,9.0
+2021-03-30,Pocahontas,Iowa,19151.0,829,19.0
+2021-03-30,Pocahontas,West Virginia,54075.0,616,9.0
+2021-03-31,Pocahontas,Iowa,19151.0,830,19.0
+2021-03-31,Pocahontas,West Virginia,54075.0,616,10.0
+2021-04-01,Pocahontas,Iowa,19151.0,830,20.0
+2021-04-01,Pocahontas,West Virginia,54075.0,618,10.0
+2021-04-02,Pocahontas,Iowa,19151.0,830,20.0
+2021-04-02,Pocahontas,West Virginia,54075.0,620,10.0
+2021-04-03,Pocahontas,Iowa,19151.0,830,21.0
+2021-04-03,Pocahontas,West Virginia,54075.0,621,10.0
+2021-04-04,Pocahontas,Iowa,19151.0,830,21.0
+2021-04-04,Pocahontas,West Virginia,54075.0,621,10.0
+2021-04-05,Pocahontas,Iowa,19151.0,830,21.0
+2021-04-05,Pocahontas,West Virginia,54075.0,621,10.0
+2021-04-06,Pocahontas,Iowa,19151.0,830,21.0
+2021-04-06,Pocahontas,West Virginia,54075.0,622,10.0
+2021-04-07,Pocahontas,Iowa,19151.0,830,21.0
+2021-04-07,Pocahontas,West Virginia,54075.0,625,10.0
+2021-04-08,Pocahontas,Iowa,19151.0,830,21.0
+2021-04-08,Pocahontas,West Virginia,54075.0,626,10.0
+2021-04-09,Pocahontas,Iowa,19151.0,830,21.0
+2021-04-09,Pocahontas,West Virginia,54075.0,626,10.0
+2021-04-10,Pocahontas,Iowa,19151.0,830,21.0
+2021-04-10,Pocahontas,West Virginia,54075.0,627,10.0
+2021-04-11,Pocahontas,Iowa,19151.0,830,21.0
+2021-04-11,Pocahontas,West Virginia,54075.0,627,10.0
+2021-04-12,Pocahontas,Iowa,19151.0,830,21.0
+2021-04-12,Pocahontas,West Virginia,54075.0,630,10.0
+2021-04-13,Pocahontas,Iowa,19151.0,831,21.0
+2021-04-13,Pocahontas,West Virginia,54075.0,631,10.0
+2021-04-14,Pocahontas,Iowa,19151.0,832,21.0
+2021-04-14,Pocahontas,West Virginia,54075.0,632,10.0
+2021-04-15,Pocahontas,Iowa,19151.0,833,21.0
+2021-04-15,Pocahontas,West Virginia,54075.0,634,10.0
+2021-04-16,Pocahontas,Iowa,19151.0,834,21.0
+2021-04-16,Pocahontas,West Virginia,54075.0,638,10.0
+2021-04-17,Pocahontas,Iowa,19151.0,836,21.0
+2021-04-17,Pocahontas,West Virginia,54075.0,640,10.0
+2021-04-18,Pocahontas,Iowa,19151.0,837,21.0
+2021-04-18,Pocahontas,West Virginia,54075.0,640,10.0
+2021-04-19,Pocahontas,Iowa,19151.0,837,21.0
+2021-04-19,Pocahontas,West Virginia,54075.0,642,10.0
+2021-04-20,Pocahontas,Iowa,19151.0,838,21.0
+2021-04-20,Pocahontas,West Virginia,54075.0,647,10.0
+2021-04-21,Pocahontas,Iowa,19151.0,841,21.0
+2021-04-21,Pocahontas,West Virginia,54075.0,649,10.0
+2021-04-22,Pocahontas,Iowa,19151.0,843,21.0
+2021-04-22,Pocahontas,West Virginia,54075.0,656,10.0
+2021-04-23,Pocahontas,Iowa,19151.0,844,21.0
+2021-04-23,Pocahontas,West Virginia,54075.0,656,10.0
+2021-04-24,Pocahontas,Iowa,19151.0,845,21.0
+2021-04-24,Pocahontas,West Virginia,54075.0,657,10.0
+2021-04-25,Pocahontas,Iowa,19151.0,846,21.0
+2021-04-25,Pocahontas,West Virginia,54075.0,657,10.0
+2021-04-26,Pocahontas,Iowa,19151.0,847,21.0
+2021-04-26,Pocahontas,West Virginia,54075.0,657,10.0
+2021-04-27,Pocahontas,Iowa,19151.0,849,21.0
+2021-04-27,Pocahontas,West Virginia,54075.0,658,10.0
+2021-04-28,Pocahontas,Iowa,19151.0,849,21.0
+2021-04-28,Pocahontas,West Virginia,54075.0,658,10.0
+2021-04-29,Pocahontas,Iowa,19151.0,852,21.0
+2021-04-29,Pocahontas,West Virginia,54075.0,659,10.0
+2021-04-30,Pocahontas,Iowa,19151.0,852,21.0
+2021-04-30,Pocahontas,West Virginia,54075.0,662,10.0
+2021-05-01,Pocahontas,Iowa,19151.0,852,21.0
+2021-05-01,Pocahontas,West Virginia,54075.0,661,10.0
+2021-05-02,Pocahontas,Iowa,19151.0,852,22.0
+2021-05-02,Pocahontas,West Virginia,54075.0,661,11.0
+2021-05-03,Pocahontas,Iowa,19151.0,852,22.0
+2021-05-03,Pocahontas,West Virginia,54075.0,661,11.0
+2021-05-04,Pocahontas,Iowa,19151.0,854,22.0
+2021-05-04,Pocahontas,West Virginia,54075.0,662,11.0
+2021-05-05,Pocahontas,Iowa,19151.0,854,22.0
+2021-05-05,Pocahontas,West Virginia,54075.0,662,11.0
+2021-05-06,Pocahontas,Iowa,19151.0,854,22.0
+2021-05-06,Pocahontas,West Virginia,54075.0,662,11.0
+2021-05-07,Pocahontas,Iowa,19151.0,854,22.0
+2021-05-07,Pocahontas,West Virginia,54075.0,662,11.0
+2021-05-08,Pocahontas,Iowa,19151.0,854,22.0
+2021-05-08,Pocahontas,West Virginia,54075.0,662,11.0
+2021-05-09,Pocahontas,Iowa,19151.0,854,22.0
+2021-05-09,Pocahontas,West Virginia,54075.0,663,11.0
+2021-05-10,Pocahontas,Iowa,19151.0,854,22.0
+2021-05-10,Pocahontas,West Virginia,54075.0,663,11.0
+2021-05-11,Pocahontas,Iowa,19151.0,853,22.0
+2021-05-11,Pocahontas,West Virginia,54075.0,663,11.0
+2021-05-12,Pocahontas,Iowa,19151.0,855,22.0
+2021-05-12,Pocahontas,West Virginia,54075.0,663,11.0
+2021-05-13,Pocahontas,Iowa,19151.0,855,22.0
+2021-05-13,Pocahontas,West Virginia,54075.0,663,11.0
+2021-05-14,Pocahontas,Iowa,19151.0,855,22.0
+2021-05-14,Pocahontas,West Virginia,54075.0,663,11.0
+2021-05-15,Pocahontas,Iowa,19151.0,855,22.0
+2021-05-15,Pocahontas,West Virginia,54075.0,664,11.0
+2021-05-16,Pocahontas,Iowa,19151.0,855,22.0
+2021-05-16,Pocahontas,West Virginia,54075.0,664,11.0
+2021-05-17,Pocahontas,Iowa,19151.0,855,22.0
+2021-05-17,Pocahontas,West Virginia,54075.0,664,11.0
+2021-05-18,Pocahontas,Iowa,19151.0,855,22.0
+2021-05-18,Pocahontas,West Virginia,54075.0,667,11.0
+2021-05-19,Pocahontas,Iowa,19151.0,855,22.0
+2021-05-19,Pocahontas,West Virginia,54075.0,664,11.0
+2021-05-20,Pocahontas,Iowa,19151.0,856,22.0
+2021-05-20,Pocahontas,West Virginia,54075.0,665,11.0
+2021-05-21,Pocahontas,Iowa,19151.0,856,22.0
+2021-05-21,Pocahontas,West Virginia,54075.0,665,11.0
+2021-05-22,Pocahontas,Iowa,19151.0,856,22.0
+2021-05-22,Pocahontas,West Virginia,54075.0,665,11.0
+2021-05-23,Pocahontas,Iowa,19151.0,856,22.0
+2021-05-23,Pocahontas,West Virginia,54075.0,665,11.0
+2021-05-24,Pocahontas,Iowa,19151.0,858,22.0
+2021-05-24,Pocahontas,West Virginia,54075.0,666,11.0
+2021-05-25,Pocahontas,Iowa,19151.0,858,22.0
+2021-05-25,Pocahontas,West Virginia,54075.0,668,11.0
+2021-05-26,Pocahontas,Iowa,19151.0,858,22.0
+2021-05-26,Pocahontas,West Virginia,54075.0,668,11.0
+2021-05-27,Pocahontas,Iowa,19151.0,858,22.0
+2021-05-27,Pocahontas,West Virginia,54075.0,673,12.0
+2021-05-28,Pocahontas,Iowa,19151.0,858,22.0
+2021-05-28,Pocahontas,West Virginia,54075.0,673,12.0
+2021-05-29,Pocahontas,Iowa,19151.0,858,22.0
+2021-05-29,Pocahontas,West Virginia,54075.0,673,12.0
+2021-05-30,Pocahontas,Iowa,19151.0,858,22.0
+2021-05-30,Pocahontas,West Virginia,54075.0,673,12.0
+2021-05-31,Pocahontas,Iowa,19151.0,858,22.0
+2021-05-31,Pocahontas,West Virginia,54075.0,673,12.0
+2021-06-01,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-01,Pocahontas,West Virginia,54075.0,678,12.0
+2021-06-02,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-02,Pocahontas,West Virginia,54075.0,679,12.0
+2021-06-03,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-03,Pocahontas,West Virginia,54075.0,680,12.0
+2021-06-04,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-04,Pocahontas,West Virginia,54075.0,680,12.0
+2021-06-05,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-05,Pocahontas,West Virginia,54075.0,680,12.0
+2021-06-06,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-06,Pocahontas,West Virginia,54075.0,680,12.0
+2021-06-07,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-07,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-08,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-08,Pocahontas,West Virginia,54075.0,680,12.0
+2021-06-09,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-09,Pocahontas,West Virginia,54075.0,680,12.0
+2021-06-10,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-10,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-11,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-11,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-12,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-12,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-13,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-13,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-14,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-14,Pocahontas,West Virginia,54075.0,680,12.0
+2021-06-15,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-15,Pocahontas,West Virginia,54075.0,680,12.0
+2021-06-16,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-16,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-17,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-17,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-18,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-18,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-19,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-19,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-20,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-20,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-21,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-21,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-22,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-22,Pocahontas,West Virginia,54075.0,680,12.0
+2021-06-23,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-23,Pocahontas,West Virginia,54075.0,680,12.0
+2021-06-24,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-24,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-25,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-25,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-26,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-26,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-27,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-27,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-28,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-28,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-29,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-29,Pocahontas,West Virginia,54075.0,681,12.0
+2021-06-30,Pocahontas,Iowa,19151.0,858,22.0
+2021-06-30,Pocahontas,West Virginia,54075.0,681,12.0
+2021-07-01,Pocahontas,Iowa,19151.0,857,22.0
+2021-07-01,Pocahontas,West Virginia,54075.0,681,12.0
+2021-07-02,Pocahontas,Iowa,19151.0,858,22.0
+2021-07-02,Pocahontas,West Virginia,54075.0,681,12.0
+2021-07-03,Pocahontas,Iowa,19151.0,858,22.0
+2021-07-03,Pocahontas,West Virginia,54075.0,681,12.0
+2021-07-04,Pocahontas,Iowa,19151.0,858,22.0
+2021-07-04,Pocahontas,West Virginia,54075.0,681,12.0
+2021-07-05,Pocahontas,Iowa,19151.0,858,22.0
+2021-07-05,Pocahontas,West Virginia,54075.0,681,12.0
+2021-07-06,Pocahontas,Iowa,19151.0,858,22.0
+2021-07-06,Pocahontas,West Virginia,54075.0,682,12.0
+2021-07-07,Pocahontas,Iowa,19151.0,863,22.0
+2021-07-07,Pocahontas,West Virginia,54075.0,683,12.0
+2021-07-08,Pocahontas,Iowa,19151.0,863,22.0
+2021-07-08,Pocahontas,West Virginia,54075.0,683,12.0
+2021-07-09,Pocahontas,Iowa,19151.0,863,22.0
+2021-07-09,Pocahontas,West Virginia,54075.0,683,12.0
+2021-07-10,Pocahontas,Iowa,19151.0,863,22.0
+2021-07-10,Pocahontas,West Virginia,54075.0,683,12.0
+2021-07-11,Pocahontas,Iowa,19151.0,863,22.0
+2021-07-11,Pocahontas,West Virginia,54075.0,683,12.0
+2021-07-12,Pocahontas,Iowa,19151.0,863,22.0
+2021-07-12,Pocahontas,West Virginia,54075.0,683,12.0
+2021-07-13,Pocahontas,Iowa,19151.0,863,22.0
+2021-07-13,Pocahontas,West Virginia,54075.0,684,12.0
+2021-07-14,Pocahontas,Iowa,19151.0,866,22.0
+2021-07-14,Pocahontas,West Virginia,54075.0,684,12.0
+2021-07-15,Pocahontas,Iowa,19151.0,866,22.0
+2021-07-15,Pocahontas,West Virginia,54075.0,682,12.0
+2021-07-16,Pocahontas,Iowa,19151.0,866,22.0
+2021-07-16,Pocahontas,West Virginia,54075.0,683,12.0
+2021-07-17,Pocahontas,Iowa,19151.0,866,22.0
+2021-07-17,Pocahontas,West Virginia,54075.0,683,12.0
+2021-07-18,Pocahontas,Iowa,19151.0,866,22.0
+2021-07-18,Pocahontas,West Virginia,54075.0,683,12.0
+2021-07-19,Pocahontas,Iowa,19151.0,866,22.0
+2021-07-19,Pocahontas,West Virginia,54075.0,683,12.0
+2021-07-20,Pocahontas,Iowa,19151.0,866,22.0
+2021-07-20,Pocahontas,West Virginia,54075.0,683,12.0
+2021-07-21,Pocahontas,Iowa,19151.0,868,22.0
+2021-07-21,Pocahontas,West Virginia,54075.0,683,12.0
+2021-07-22,Pocahontas,Iowa,19151.0,868,22.0
+2021-07-22,Pocahontas,West Virginia,54075.0,682,12.0
+2021-07-23,Pocahontas,Iowa,19151.0,868,22.0
+2021-07-23,Pocahontas,West Virginia,54075.0,683,12.0
+2021-07-24,Pocahontas,Iowa,19151.0,868,22.0
+2021-07-24,Pocahontas,West Virginia,54075.0,683,12.0
+2021-07-25,Pocahontas,Iowa,19151.0,868,22.0
+2021-07-25,Pocahontas,West Virginia,54075.0,683,12.0
+2021-07-26,Pocahontas,Iowa,19151.0,868,22.0
+2021-07-26,Pocahontas,West Virginia,54075.0,683,12.0
+2021-07-27,Pocahontas,Iowa,19151.0,868,22.0
+2021-07-27,Pocahontas,West Virginia,54075.0,684,12.0
+2021-07-28,Pocahontas,Iowa,19151.0,870,22.0
+2021-07-28,Pocahontas,West Virginia,54075.0,689,12.0
+2021-07-29,Pocahontas,Iowa,19151.0,870,22.0
+2021-07-29,Pocahontas,West Virginia,54075.0,689,12.0
+2021-07-30,Pocahontas,Iowa,19151.0,870,22.0
+2021-07-30,Pocahontas,West Virginia,54075.0,690,12.0
+2021-07-31,Pocahontas,Iowa,19151.0,870,22.0
+2021-07-31,Pocahontas,West Virginia,54075.0,690,12.0
+2021-08-01,Pocahontas,Iowa,19151.0,870,22.0
+2021-08-01,Pocahontas,West Virginia,54075.0,690,12.0
+2021-08-02,Pocahontas,Iowa,19151.0,870,22.0
+2021-08-02,Pocahontas,West Virginia,54075.0,694,12.0
+2021-08-03,Pocahontas,Iowa,19151.0,870,22.0
+2021-08-03,Pocahontas,West Virginia,54075.0,696,12.0
+2021-08-04,Pocahontas,Iowa,19151.0,876,22.0
+2021-08-04,Pocahontas,West Virginia,54075.0,697,12.0
+2021-08-05,Pocahontas,Iowa,19151.0,876,22.0
+2021-08-05,Pocahontas,West Virginia,54075.0,699,12.0
+2021-08-06,Pocahontas,Iowa,19151.0,876,22.0
+2021-08-06,Pocahontas,West Virginia,54075.0,697,12.0
+2021-08-07,Pocahontas,Iowa,19151.0,876,22.0
+2021-08-07,Pocahontas,West Virginia,54075.0,697,12.0
+2021-08-08,Pocahontas,Iowa,19151.0,876,22.0
+2021-08-08,Pocahontas,West Virginia,54075.0,697,12.0
+2021-08-09,Pocahontas,Iowa,19151.0,876,22.0
+2021-08-09,Pocahontas,West Virginia,54075.0,702,12.0
+2021-08-10,Pocahontas,Iowa,19151.0,876,22.0
+2021-08-10,Pocahontas,West Virginia,54075.0,716,12.0
+2021-08-11,Pocahontas,Iowa,19151.0,879,22.0
+2021-08-11,Pocahontas,West Virginia,54075.0,723,12.0
+2021-08-12,Pocahontas,Iowa,19151.0,879,22.0
+2021-08-12,Pocahontas,West Virginia,54075.0,724,12.0
+2021-08-13,Pocahontas,Iowa,19151.0,879,22.0
+2021-08-13,Pocahontas,West Virginia,54075.0,725,12.0
+2021-08-14,Pocahontas,Iowa,19151.0,879,22.0
+2021-08-14,Pocahontas,West Virginia,54075.0,725,12.0
+2021-08-15,Pocahontas,Iowa,19151.0,879,22.0
+2021-08-15,Pocahontas,West Virginia,54075.0,725,12.0
+2021-08-16,Pocahontas,Iowa,19151.0,879,22.0
+2021-08-16,Pocahontas,West Virginia,54075.0,731,12.0
+2021-08-17,Pocahontas,Iowa,19151.0,879,22.0
+2021-08-17,Pocahontas,West Virginia,54075.0,741,12.0
+2021-08-18,Pocahontas,Iowa,19151.0,884,22.0
+2021-08-18,Pocahontas,West Virginia,54075.0,747,12.0
+2021-08-19,Pocahontas,Iowa,19151.0,884,22.0
+2021-08-19,Pocahontas,West Virginia,54075.0,747,12.0
+2021-08-20,Pocahontas,Iowa,19151.0,884,22.0
+2021-08-20,Pocahontas,West Virginia,54075.0,750,12.0
+2021-08-21,Pocahontas,Iowa,19151.0,884,22.0
+2021-08-21,Pocahontas,West Virginia,54075.0,750,12.0
+2021-08-22,Pocahontas,Iowa,19151.0,884,22.0
+2021-08-22,Pocahontas,West Virginia,54075.0,750,12.0
+2021-08-23,Pocahontas,Iowa,19151.0,884,22.0
+2021-08-23,Pocahontas,West Virginia,54075.0,759,12.0
+2021-08-24,Pocahontas,Iowa,19151.0,884,22.0
+2021-08-24,Pocahontas,West Virginia,54075.0,760,12.0
+2021-08-25,Pocahontas,Iowa,19151.0,893,22.0
+2021-08-25,Pocahontas,West Virginia,54075.0,766,13.0
+2021-08-26,Pocahontas,Iowa,19151.0,893,22.0
+2021-08-26,Pocahontas,West Virginia,54075.0,775,14.0
+2021-08-27,Pocahontas,Iowa,19151.0,893,22.0
+2021-08-27,Pocahontas,West Virginia,54075.0,776,14.0
+2021-08-28,Pocahontas,Iowa,19151.0,893,22.0
+2021-08-28,Pocahontas,West Virginia,54075.0,776,14.0
+2021-08-29,Pocahontas,Iowa,19151.0,893,22.0
+2021-08-29,Pocahontas,West Virginia,54075.0,783,14.0
+2021-08-30,Pocahontas,Iowa,19151.0,893,22.0
+2021-08-30,Pocahontas,West Virginia,54075.0,784,14.0
+2021-08-31,Pocahontas,Iowa,19151.0,893,22.0
+2021-08-31,Pocahontas,West Virginia,54075.0,796,15.0
+2021-09-01,Pocahontas,Iowa,19151.0,912,23.0
+2021-09-01,Pocahontas,West Virginia,54075.0,803,15.0
+2021-09-02,Pocahontas,Iowa,19151.0,912,23.0
+2021-09-02,Pocahontas,West Virginia,54075.0,816,15.0
+2021-09-03,Pocahontas,Iowa,19151.0,912,23.0
+2021-09-03,Pocahontas,West Virginia,54075.0,828,15.0
+2021-09-04,Pocahontas,Iowa,19151.0,912,23.0
+2021-09-04,Pocahontas,West Virginia,54075.0,835,15.0
+2021-09-05,Pocahontas,Iowa,19151.0,912,23.0
+2021-09-05,Pocahontas,West Virginia,54075.0,838,15.0
+2021-09-06,Pocahontas,Iowa,19151.0,912,23.0
+2021-09-06,Pocahontas,West Virginia,54075.0,843,15.0
+2021-09-07,Pocahontas,Iowa,19151.0,912,23.0
+2021-09-07,Pocahontas,West Virginia,54075.0,848,15.0
+2021-09-08,Pocahontas,Iowa,19151.0,941,23.0
+2021-09-08,Pocahontas,West Virginia,54075.0,853,15.0
+2021-09-09,Pocahontas,Iowa,19151.0,941,23.0
+2021-09-09,Pocahontas,West Virginia,54075.0,863,15.0
+2021-09-10,Pocahontas,Iowa,19151.0,941,23.0
+2021-09-10,Pocahontas,West Virginia,54075.0,870,15.0
+2021-09-11,Pocahontas,Iowa,19151.0,941,23.0
+2021-09-11,Pocahontas,West Virginia,54075.0,876,15.0
+2021-09-12,Pocahontas,Iowa,19151.0,941,23.0
+2021-09-12,Pocahontas,West Virginia,54075.0,882,15.0
+2021-09-13,Pocahontas,Iowa,19151.0,941,23.0
+2021-09-13,Pocahontas,West Virginia,54075.0,884,15.0
+2021-09-14,Pocahontas,Iowa,19151.0,941,23.0
+2021-09-14,Pocahontas,West Virginia,54075.0,901,15.0
+2021-09-15,Pocahontas,Iowa,19151.0,990,23.0
+2021-09-15,Pocahontas,West Virginia,54075.0,904,15.0
+2021-09-16,Pocahontas,Iowa,19151.0,990,23.0
+2021-09-16,Pocahontas,West Virginia,54075.0,919,15.0
+2021-09-17,Pocahontas,Iowa,19151.0,990,23.0
+2021-09-17,Pocahontas,West Virginia,54075.0,927,15.0
+2021-09-18,Pocahontas,Iowa,19151.0,990,23.0
+2021-09-18,Pocahontas,West Virginia,54075.0,939,15.0
+2021-09-19,Pocahontas,Iowa,19151.0,990,23.0
+2021-09-19,Pocahontas,West Virginia,54075.0,940,15.0
+2021-09-20,Pocahontas,Iowa,19151.0,990,23.0
+2021-09-20,Pocahontas,West Virginia,54075.0,941,15.0
+2021-09-21,Pocahontas,Iowa,19151.0,990,23.0
+2021-09-21,Pocahontas,West Virginia,54075.0,949,15.0
+2021-09-22,Pocahontas,Iowa,19151.0,1027,23.0
+2021-09-22,Pocahontas,West Virginia,54075.0,954,16.0
+2021-09-23,Pocahontas,Iowa,19151.0,1027,23.0
+2021-09-23,Pocahontas,West Virginia,54075.0,955,16.0
+2021-09-24,Pocahontas,Iowa,19151.0,1027,23.0
+2021-09-24,Pocahontas,West Virginia,54075.0,989,16.0
+2021-09-25,Pocahontas,Iowa,19151.0,1027,23.0
+2021-09-25,Pocahontas,West Virginia,54075.0,991,16.0
+2021-09-26,Pocahontas,Iowa,19151.0,1027,23.0
+2021-09-26,Pocahontas,West Virginia,54075.0,992,16.0
+2021-09-27,Pocahontas,Iowa,19151.0,1027,23.0
+2021-09-27,Pocahontas,West Virginia,54075.0,995,16.0
+2021-09-28,Pocahontas,Iowa,19151.0,1027,23.0
+2021-09-28,Pocahontas,West Virginia,54075.0,1004,16.0
+2021-09-29,Pocahontas,Iowa,19151.0,1044,23.0
+2021-09-29,Pocahontas,West Virginia,54075.0,1013,16.0
+2021-09-30,Pocahontas,Iowa,19151.0,1044,23.0
+2021-09-30,Pocahontas,West Virginia,54075.0,1025,16.0
+2021-10-01,Pocahontas,Iowa,19151.0,1044,23.0
+2021-10-01,Pocahontas,West Virginia,54075.0,1032,16.0
+2021-10-02,Pocahontas,Iowa,19151.0,1044,23.0
+2021-10-02,Pocahontas,West Virginia,54075.0,1036,16.0
+2021-10-03,Pocahontas,Iowa,19151.0,1044,23.0
+2021-10-03,Pocahontas,West Virginia,54075.0,1036,16.0
+2021-10-04,Pocahontas,Iowa,19151.0,1044,23.0
+2021-10-04,Pocahontas,West Virginia,54075.0,1036,16.0
+2021-10-05,Pocahontas,Iowa,19151.0,1044,23.0
+2021-10-05,Pocahontas,West Virginia,54075.0,1043,17.0
+2021-10-06,Pocahontas,Iowa,19151.0,1068,23.0
+2021-10-06,Pocahontas,West Virginia,54075.0,1052,17.0
+2021-10-07,Pocahontas,Iowa,19151.0,1068,23.0
+2021-10-07,Pocahontas,West Virginia,54075.0,1056,17.0
+2021-10-08,Pocahontas,Iowa,19151.0,1068,23.0
+2021-10-08,Pocahontas,West Virginia,54075.0,1069,17.0
+2021-10-09,Pocahontas,Iowa,19151.0,1068,23.0
+2021-10-09,Pocahontas,West Virginia,54075.0,1072,17.0
+2021-10-10,Pocahontas,Iowa,19151.0,1068,23.0
+2021-10-10,Pocahontas,West Virginia,54075.0,1075,17.0
+2021-10-11,Pocahontas,Iowa,19151.0,1068,23.0
+2021-10-11,Pocahontas,West Virginia,54075.0,1079,17.0
+2021-10-12,Pocahontas,Iowa,19151.0,1068,23.0
+2021-10-12,Pocahontas,West Virginia,54075.0,1082,17.0
+2021-10-13,Pocahontas,Iowa,19151.0,1093,23.0
+2021-10-13,Pocahontas,West Virginia,54075.0,1091,17.0
+2021-10-14,Pocahontas,Iowa,19151.0,1093,23.0
+2021-10-14,Pocahontas,West Virginia,54075.0,1098,17.0
+2021-10-15,Pocahontas,Iowa,19151.0,1093,23.0
+2021-10-15,Pocahontas,West Virginia,54075.0,1102,18.0
+2021-10-16,Pocahontas,Iowa,19151.0,1093,23.0
+2021-10-16,Pocahontas,West Virginia,54075.0,1106,18.0
+2021-10-17,Pocahontas,Iowa,19151.0,1093,23.0
+2021-10-17,Pocahontas,West Virginia,54075.0,1108,18.0
+2021-10-18,Pocahontas,Iowa,19151.0,1093,23.0
+2021-10-18,Pocahontas,West Virginia,54075.0,1109,18.0
+2021-10-19,Pocahontas,Iowa,19151.0,1093,23.0
+2021-10-19,Pocahontas,West Virginia,54075.0,1122,18.0
+2021-10-20,Pocahontas,Iowa,19151.0,1114,23.0
+2021-10-20,Pocahontas,West Virginia,54075.0,1125,18.0
+2021-10-21,Pocahontas,Iowa,19151.0,1114,23.0
+2021-10-21,Pocahontas,West Virginia,54075.0,1133,18.0
+2021-10-22,Pocahontas,Iowa,19151.0,1114,23.0
+2021-10-22,Pocahontas,West Virginia,54075.0,1136,18.0
+2021-10-23,Pocahontas,Iowa,19151.0,1114,23.0
+2021-10-23,Pocahontas,West Virginia,54075.0,1134,18.0
+2021-10-24,Pocahontas,Iowa,19151.0,1114,23.0
+2021-10-24,Pocahontas,West Virginia,54075.0,1136,18.0
+2021-10-25,Pocahontas,Iowa,19151.0,1114,23.0
+2021-10-25,Pocahontas,West Virginia,54075.0,1140,18.0
+2021-10-26,Pocahontas,Iowa,19151.0,1114,23.0
+2021-10-26,Pocahontas,West Virginia,54075.0,1145,18.0
+2021-10-27,Pocahontas,Iowa,19151.0,1130,24.0
+2021-10-27,Pocahontas,West Virginia,54075.0,1150,18.0
+2021-10-28,Pocahontas,Iowa,19151.0,1130,24.0
+2021-10-28,Pocahontas,West Virginia,54075.0,1153,18.0
+2021-10-29,Pocahontas,Iowa,19151.0,1130,24.0
+2021-10-29,Pocahontas,West Virginia,54075.0,1157,18.0
+2021-10-30,Pocahontas,Iowa,19151.0,1130,24.0
+2021-10-30,Pocahontas,West Virginia,54075.0,1158,18.0
+2021-10-31,Pocahontas,Iowa,19151.0,1130,24.0
+2021-10-31,Pocahontas,West Virginia,54075.0,1160,18.0
+2021-11-01,Pocahontas,Iowa,19151.0,1130,24.0
+2021-11-01,Pocahontas,West Virginia,54075.0,1161,18.0
+2021-11-02,Pocahontas,Iowa,19151.0,1130,24.0
+2021-11-02,Pocahontas,West Virginia,54075.0,1167,18.0
+2021-11-03,Pocahontas,Iowa,19151.0,1144,24.0
+2021-11-03,Pocahontas,West Virginia,54075.0,1175,18.0
+2021-11-04,Pocahontas,Iowa,19151.0,1144,24.0
+2021-11-04,Pocahontas,West Virginia,54075.0,1173,18.0
+2021-11-05,Pocahontas,Iowa,19151.0,1144,24.0
+2021-11-05,Pocahontas,West Virginia,54075.0,1178,18.0
+2021-11-06,Pocahontas,Iowa,19151.0,1144,24.0
+2021-11-06,Pocahontas,West Virginia,54075.0,1183,18.0
+2021-11-07,Pocahontas,Iowa,19151.0,1144,24.0
+2021-11-07,Pocahontas,West Virginia,54075.0,1183,18.0
+2021-11-08,Pocahontas,Iowa,19151.0,1144,24.0
+2021-11-08,Pocahontas,West Virginia,54075.0,1184,18.0
+2021-11-09,Pocahontas,Iowa,19151.0,1144,24.0
+2021-11-09,Pocahontas,West Virginia,54075.0,1186,18.0
+2021-11-10,Pocahontas,Iowa,19151.0,1170,24.0
+2021-11-10,Pocahontas,West Virginia,54075.0,1188,18.0
+2021-11-11,Pocahontas,Iowa,19151.0,1170,24.0
+2021-11-11,Pocahontas,West Virginia,54075.0,1189,18.0
+2021-11-12,Pocahontas,Iowa,19151.0,1170,24.0
+2021-11-12,Pocahontas,West Virginia,54075.0,1190,18.0
+2021-11-13,Pocahontas,Iowa,19151.0,1170,24.0
+2021-11-13,Pocahontas,West Virginia,54075.0,1197,18.0
+2021-11-14,Pocahontas,Iowa,19151.0,1170,24.0
+2021-11-14,Pocahontas,West Virginia,54075.0,1199,18.0
+2021-11-15,Pocahontas,Iowa,19151.0,1170,24.0
+2021-11-15,Pocahontas,West Virginia,54075.0,1200,18.0
+2021-11-16,Pocahontas,Iowa,19151.0,1170,24.0
+2021-11-16,Pocahontas,West Virginia,54075.0,1209,18.0
+2021-11-17,Pocahontas,Iowa,19151.0,1186,24.0
+2021-11-17,Pocahontas,West Virginia,54075.0,1216,18.0
+2021-11-18,Pocahontas,Iowa,19151.0,1186,24.0
+2021-11-18,Pocahontas,West Virginia,54075.0,1222,18.0
+2021-11-19,Pocahontas,Iowa,19151.0,1186,24.0
+2021-11-19,Pocahontas,West Virginia,54075.0,1228,18.0
+2021-11-20,Pocahontas,Iowa,19151.0,1186,24.0
+2021-11-20,Pocahontas,West Virginia,54075.0,1231,18.0
+2021-11-21,Pocahontas,Iowa,19151.0,1186,24.0
+2021-11-21,Pocahontas,West Virginia,54075.0,1230,18.0
+2021-11-22,Pocahontas,Iowa,19151.0,1186,24.0
+2021-11-22,Pocahontas,West Virginia,54075.0,1230,18.0
+2021-11-23,Pocahontas,Iowa,19151.0,1186,24.0
+2021-11-23,Pocahontas,West Virginia,54075.0,1236,18.0
+2021-11-24,Pocahontas,Iowa,19151.0,1209,24.0
+2021-11-24,Pocahontas,West Virginia,54075.0,1238,19.0
+2021-11-25,Pocahontas,Iowa,19151.0,1209,24.0
+2021-11-25,Pocahontas,West Virginia,54075.0,1238,19.0
+2021-11-26,Pocahontas,Iowa,19151.0,1209,24.0
+2021-11-26,Pocahontas,West Virginia,54075.0,1238,19.0
+2021-11-27,Pocahontas,Iowa,19151.0,1209,24.0
+2021-11-27,Pocahontas,West Virginia,54075.0,1238,19.0
+2021-11-28,Pocahontas,Iowa,19151.0,1209,24.0
+2021-11-28,Pocahontas,West Virginia,54075.0,1238,19.0
+2021-11-29,Pocahontas,Iowa,19151.0,1209,24.0
+2021-11-29,Pocahontas,West Virginia,54075.0,1257,19.0
+2021-11-30,Pocahontas,Iowa,19151.0,1209,24.0
+2021-11-30,Pocahontas,West Virginia,54075.0,1262,21.0
+2021-12-01,Pocahontas,Iowa,19151.0,1224,25.0
+2021-12-01,Pocahontas,West Virginia,54075.0,1270,21.0
+2021-12-02,Pocahontas,Iowa,19151.0,1224,25.0
+2021-12-02,Pocahontas,West Virginia,54075.0,1274,21.0
+2021-12-03,Pocahontas,Iowa,19151.0,1224,25.0
+2021-12-03,Pocahontas,West Virginia,54075.0,1276,21.0
+2021-12-04,Pocahontas,Iowa,19151.0,1224,25.0
+2021-12-04,Pocahontas,West Virginia,54075.0,1279,21.0
+2021-12-05,Pocahontas,Iowa,19151.0,1224,25.0
+2021-12-05,Pocahontas,West Virginia,54075.0,1281,21.0
+2021-12-06,Pocahontas,Iowa,19151.0,1224,25.0
+2021-12-06,Pocahontas,West Virginia,54075.0,1282,21.0
+2021-12-07,Pocahontas,Iowa,19151.0,1224,25.0
+2021-12-07,Pocahontas,West Virginia,54075.0,1283,21.0
+2021-12-08,Pocahontas,Iowa,19151.0,1233,25.0
+2021-12-08,Pocahontas,West Virginia,54075.0,1284,21.0
+2021-12-09,Pocahontas,Iowa,19151.0,1233,25.0
+2021-12-09,Pocahontas,West Virginia,54075.0,1285,21.0
+2021-12-10,Pocahontas,Iowa,19151.0,1233,25.0
+2021-12-10,Pocahontas,West Virginia,54075.0,1288,21.0
+2021-12-11,Pocahontas,Iowa,19151.0,1233,25.0
+2021-12-11,Pocahontas,West Virginia,54075.0,1289,21.0
+2021-12-12,Pocahontas,Iowa,19151.0,1233,25.0
+2021-12-12,Pocahontas,West Virginia,54075.0,1291,21.0
+2021-12-13,Pocahontas,Iowa,19151.0,1233,25.0
+2021-12-13,Pocahontas,West Virginia,54075.0,1292,21.0
+2021-12-14,Pocahontas,Iowa,19151.0,1233,25.0
+2021-12-14,Pocahontas,West Virginia,54075.0,1299,21.0
+2021-12-15,Pocahontas,Iowa,19151.0,1260,25.0
+2021-12-15,Pocahontas,West Virginia,54075.0,1305,21.0
+2021-12-16,Pocahontas,Iowa,19151.0,1260,25.0
+2021-12-16,Pocahontas,West Virginia,54075.0,1308,21.0
+2021-12-17,Pocahontas,Iowa,19151.0,1260,25.0
+2021-12-17,Pocahontas,West Virginia,54075.0,1314,21.0
+2021-12-18,Pocahontas,Iowa,19151.0,1260,25.0
+2021-12-18,Pocahontas,West Virginia,54075.0,1319,21.0
+2021-12-19,Pocahontas,Iowa,19151.0,1260,25.0
+2021-12-19,Pocahontas,West Virginia,54075.0,1321,21.0
+2021-12-20,Pocahontas,Iowa,19151.0,1260,25.0
+2021-12-20,Pocahontas,West Virginia,54075.0,1321,21.0
+2021-12-21,Pocahontas,Iowa,19151.0,1260,25.0
+2021-12-21,Pocahontas,West Virginia,54075.0,1324,22.0
+2021-12-22,Pocahontas,Iowa,19151.0,1278,25.0
+2021-12-22,Pocahontas,West Virginia,54075.0,1325,22.0
+2021-12-23,Pocahontas,Iowa,19151.0,1278,25.0
+2021-12-23,Pocahontas,West Virginia,54075.0,1329,22.0
+2021-12-24,Pocahontas,Iowa,19151.0,1278,25.0
+2021-12-24,Pocahontas,West Virginia,54075.0,1329,22.0
+2021-12-25,Pocahontas,Iowa,19151.0,1278,25.0
+2021-12-25,Pocahontas,West Virginia,54075.0,1329,22.0
+2021-12-26,Pocahontas,Iowa,19151.0,1278,25.0
+2021-12-26,Pocahontas,West Virginia,54075.0,1329,22.0
+2021-12-27,Pocahontas,Iowa,19151.0,1278,25.0
+2021-12-27,Pocahontas,West Virginia,54075.0,1344,22.0
+2021-12-28,Pocahontas,Iowa,19151.0,1278,25.0
+2021-12-28,Pocahontas,West Virginia,54075.0,1347,22.0
+2021-12-29,Pocahontas,Iowa,19151.0,1294,25.0
+2021-12-29,Pocahontas,West Virginia,54075.0,1355,22.0
+2021-12-30,Pocahontas,Iowa,19151.0,1294,25.0
+2021-12-30,Pocahontas,West Virginia,54075.0,1364,22.0
+2021-12-31,Pocahontas,Iowa,19151.0,1294,25.0
+2021-12-31,Pocahontas,West Virginia,54075.0,1364,22.0
+2022-01-01,Pocahontas,Iowa,19151.0,1294,25.0
+2022-01-01,Pocahontas,West Virginia,54075.0,1364,22.0
+2022-01-02,Pocahontas,Iowa,19151.0,1294,25.0
+2022-01-02,Pocahontas,West Virginia,54075.0,1364,22.0
+2022-01-03,Pocahontas,Iowa,19151.0,1294,25.0
+2022-01-03,Pocahontas,West Virginia,54075.0,1397,22.0
+2022-01-04,Pocahontas,Iowa,19151.0,1294,25.0
+2022-01-04,Pocahontas,West Virginia,54075.0,1416,22.0
+2022-01-05,Pocahontas,Iowa,19151.0,1324,25.0
+2022-01-05,Pocahontas,West Virginia,54075.0,1423,23.0
+2022-01-06,Pocahontas,Iowa,19151.0,1324,25.0
+2022-01-06,Pocahontas,West Virginia,54075.0,1436,23.0
+2022-01-07,Pocahontas,Iowa,19151.0,1324,25.0
+2022-01-07,Pocahontas,West Virginia,54075.0,1448,23.0
+2022-01-08,Pocahontas,Iowa,19151.0,1324,25.0
+2022-01-08,Pocahontas,West Virginia,54075.0,1458,23.0
+2022-01-09,Pocahontas,Iowa,19151.0,1324,25.0
+2022-01-09,Pocahontas,West Virginia,54075.0,1460,23.0
+2022-01-10,Pocahontas,Iowa,19151.0,1324,25.0
+2022-01-10,Pocahontas,West Virginia,54075.0,1464,23.0
+2022-01-11,Pocahontas,Iowa,19151.0,1324,25.0
+2022-01-11,Pocahontas,West Virginia,54075.0,1477,23.0
+2022-01-12,Pocahontas,Iowa,19151.0,1380,25.0
+2022-01-12,Pocahontas,West Virginia,54075.0,1488,23.0
+2022-01-13,Pocahontas,Iowa,19151.0,1380,25.0
+2022-01-13,Pocahontas,West Virginia,54075.0,1509,23.0
+2022-01-14,Pocahontas,Iowa,19151.0,1380,25.0
+2022-01-14,Pocahontas,West Virginia,54075.0,1522,23.0
+2022-01-15,Pocahontas,Iowa,19151.0,1380,25.0
+2022-01-15,Pocahontas,West Virginia,54075.0,1533,23.0
+2022-01-16,Pocahontas,Iowa,19151.0,1380,25.0
+2022-01-16,Pocahontas,West Virginia,54075.0,1540,23.0
+2022-01-17,Pocahontas,Iowa,19151.0,1380,25.0
+2022-01-17,Pocahontas,West Virginia,54075.0,1546,24.0
+2022-01-18,Pocahontas,Iowa,19151.0,1380,25.0
+2022-01-18,Pocahontas,West Virginia,54075.0,1560,25.0
+2022-01-19,Pocahontas,Iowa,19151.0,1447,25.0
+2022-01-19,Pocahontas,West Virginia,54075.0,1577,25.0
+2022-01-20,Pocahontas,Iowa,19151.0,1447,25.0
+2022-01-20,Pocahontas,West Virginia,54075.0,1591,25.0
+2022-01-21,Pocahontas,Iowa,19151.0,1447,25.0
+2022-01-21,Pocahontas,West Virginia,54075.0,1604,25.0
+2022-01-22,Pocahontas,Iowa,19151.0,1447,25.0
+2022-01-22,Pocahontas,West Virginia,54075.0,1623,25.0
+2022-01-23,Pocahontas,Iowa,19151.0,1447,25.0
+2022-01-23,Pocahontas,West Virginia,54075.0,1634,25.0
+2022-01-24,Pocahontas,Iowa,19151.0,1447,25.0
+2022-01-24,Pocahontas,West Virginia,54075.0,1663,25.0
+2022-01-25,Pocahontas,Iowa,19151.0,1447,25.0
+2022-01-25,Pocahontas,West Virginia,54075.0,1675,25.0
+2022-01-26,Pocahontas,Iowa,19151.0,1503,25.0
+2022-01-26,Pocahontas,West Virginia,54075.0,1717,25.0
+2022-01-27,Pocahontas,Iowa,19151.0,1503,25.0
+2022-01-27,Pocahontas,West Virginia,54075.0,1740,25.0
+2022-01-28,Pocahontas,Iowa,19151.0,1503,25.0
+2022-01-28,Pocahontas,West Virginia,54075.0,1751,25.0
+2022-01-29,Pocahontas,Iowa,19151.0,1503,25.0
+2022-01-29,Pocahontas,West Virginia,54075.0,1766,25.0
+2022-01-30,Pocahontas,Iowa,19151.0,1503,25.0
+2022-01-30,Pocahontas,West Virginia,54075.0,1770,25.0
+2022-01-31,Pocahontas,Iowa,19151.0,1503,25.0
+2022-01-31,Pocahontas,West Virginia,54075.0,1776,25.0
+2022-02-01,Pocahontas,Iowa,19151.0,1503,25.0
+2022-02-01,Pocahontas,West Virginia,54075.0,1796,25.0
+2022-02-02,Pocahontas,Iowa,19151.0,1537,26.0
+2022-02-02,Pocahontas,West Virginia,54075.0,1810,25.0
+2022-02-03,Pocahontas,Iowa,19151.0,1537,26.0
+2022-02-03,Pocahontas,West Virginia,54075.0,1822,25.0
+2022-02-04,Pocahontas,Iowa,19151.0,1537,26.0
+2022-02-04,Pocahontas,West Virginia,54075.0,1830,25.0
+2022-02-05,Pocahontas,Iowa,19151.0,1537,26.0
+2022-02-05,Pocahontas,West Virginia,54075.0,1837,25.0
+2022-02-06,Pocahontas,Iowa,19151.0,1537,26.0
+2022-02-06,Pocahontas,West Virginia,54075.0,1842,25.0
+2022-02-07,Pocahontas,Iowa,19151.0,1537,26.0
+2022-02-07,Pocahontas,West Virginia,54075.0,1852,25.0
+2022-02-08,Pocahontas,Iowa,19151.0,1537,26.0
+2022-02-08,Pocahontas,West Virginia,54075.0,1864,25.0
+2022-02-09,Pocahontas,Iowa,19151.0,1558,27.0
+2022-02-09,Pocahontas,West Virginia,54075.0,1878,25.0
+2022-02-10,Pocahontas,Iowa,19151.0,1558,27.0
+2022-02-10,Pocahontas,West Virginia,54075.0,1890,25.0
+2022-02-11,Pocahontas,Iowa,19151.0,1558,27.0
+2022-02-11,Pocahontas,West Virginia,54075.0,1900,25.0
+2022-02-12,Pocahontas,Iowa,19151.0,1558,27.0
+2022-02-12,Pocahontas,West Virginia,54075.0,1909,25.0
+2022-02-13,Pocahontas,Iowa,19151.0,1558,27.0
+2022-02-13,Pocahontas,West Virginia,54075.0,1925,25.0
+2022-02-14,Pocahontas,Iowa,19151.0,1558,27.0
+2022-02-14,Pocahontas,West Virginia,54075.0,1933,25.0
+2022-02-15,Pocahontas,Iowa,19151.0,1558,27.0
+2022-02-15,Pocahontas,West Virginia,54075.0,1936,25.0
+2022-02-16,Pocahontas,Iowa,19151.0,1565,27.0
+2022-02-16,Pocahontas,West Virginia,54075.0,1940,25.0
+2022-02-17,Pocahontas,Iowa,19151.0,1565,27.0
+2022-02-17,Pocahontas,West Virginia,54075.0,1944,25.0
+2022-02-18,Pocahontas,Iowa,19151.0,1565,27.0
+2022-02-18,Pocahontas,West Virginia,54075.0,1951,25.0
+2022-02-19,Pocahontas,Iowa,19151.0,1565,27.0
+2022-02-19,Pocahontas,West Virginia,54075.0,1951,25.0
+2022-02-20,Pocahontas,Iowa,19151.0,1565,27.0
+2022-02-20,Pocahontas,West Virginia,54075.0,1951,25.0
+2022-02-21,Pocahontas,Iowa,19151.0,1565,27.0
+2022-02-21,Pocahontas,West Virginia,54075.0,1963,25.0
+2022-02-22,Pocahontas,Iowa,19151.0,1565,27.0
+2022-02-22,Pocahontas,West Virginia,54075.0,1964,26.0
+2022-02-23,Pocahontas,Iowa,19151.0,1571,27.0
+2022-02-23,Pocahontas,West Virginia,54075.0,1971,26.0
+2022-02-24,Pocahontas,Iowa,19151.0,1571,27.0
+2022-02-24,Pocahontas,West Virginia,54075.0,1975,27.0
+2022-02-25,Pocahontas,Iowa,19151.0,1571,27.0
+2022-02-25,Pocahontas,West Virginia,54075.0,1978,27.0
+2022-02-26,Pocahontas,Iowa,19151.0,1571,27.0
+2022-02-26,Pocahontas,West Virginia,54075.0,1978,27.0
+2022-02-27,Pocahontas,Iowa,19151.0,1571,27.0
+2022-02-27,Pocahontas,West Virginia,54075.0,1978,27.0
+2022-02-28,Pocahontas,Iowa,19151.0,1571,27.0
+2022-02-28,Pocahontas,West Virginia,54075.0,1979,27.0
+2022-03-01,Pocahontas,Iowa,19151.0,1571,27.0
+2022-03-01,Pocahontas,West Virginia,54075.0,1980,27.0
+2022-03-02,Pocahontas,Iowa,19151.0,1573,27.0
+2022-03-02,Pocahontas,West Virginia,54075.0,1980,27.0
+2022-03-03,Pocahontas,Iowa,19151.0,1573,27.0
+2022-03-03,Pocahontas,West Virginia,54075.0,1983,27.0
+2022-03-04,Pocahontas,Iowa,19151.0,1573,27.0
+2022-03-04,Pocahontas,West Virginia,54075.0,1991,27.0
+2022-03-05,Pocahontas,Iowa,19151.0,1573,27.0
+2022-03-05,Pocahontas,West Virginia,54075.0,1991,27.0
+2022-03-06,Pocahontas,Iowa,19151.0,1573,27.0
+2022-03-06,Pocahontas,West Virginia,54075.0,1991,27.0
+2022-03-07,Pocahontas,Iowa,19151.0,1573,27.0
+2022-03-07,Pocahontas,West Virginia,54075.0,1996,27.0
+2022-03-08,Pocahontas,Iowa,19151.0,1573,27.0
+2022-03-08,Pocahontas,West Virginia,54075.0,1998,27.0
+2022-03-09,Pocahontas,Iowa,19151.0,1575,27.0
+2022-03-09,Pocahontas,West Virginia,54075.0,1998,27.0
+2022-03-10,Pocahontas,Iowa,19151.0,1575,27.0
+2022-03-10,Pocahontas,West Virginia,54075.0,1999,27.0
+2022-03-11,Pocahontas,Iowa,19151.0,1575,27.0
+2022-03-11,Pocahontas,West Virginia,54075.0,2000,27.0
+2022-03-12,Pocahontas,Iowa,19151.0,1575,27.0
+2022-03-12,Pocahontas,West Virginia,54075.0,2000,27.0
+2022-03-13,Pocahontas,Iowa,19151.0,1575,27.0
+2022-03-13,Pocahontas,West Virginia,54075.0,2000,27.0
+2022-03-14,Pocahontas,Iowa,19151.0,1575,27.0
+2022-03-14,Pocahontas,West Virginia,54075.0,2002,27.0
+2022-03-15,Pocahontas,Iowa,19151.0,1575,27.0
+2022-03-15,Pocahontas,West Virginia,54075.0,2003,27.0
+2022-03-16,Pocahontas,Iowa,19151.0,1588,27.0
+2022-03-16,Pocahontas,West Virginia,54075.0,2003,27.0
+2022-03-17,Pocahontas,Iowa,19151.0,1588,27.0
+2022-03-17,Pocahontas,West Virginia,54075.0,2004,28.0
+2022-03-18,Pocahontas,Iowa,19151.0,1588,27.0
+2022-03-18,Pocahontas,West Virginia,54075.0,2004,28.0
+2022-03-19,Pocahontas,Iowa,19151.0,1588,27.0
+2022-03-19,Pocahontas,West Virginia,54075.0,2004,28.0
+2022-03-20,Pocahontas,Iowa,19151.0,1588,27.0
+2022-03-20,Pocahontas,West Virginia,54075.0,2004,28.0
+2022-03-21,Pocahontas,Iowa,19151.0,1588,27.0
+2022-03-21,Pocahontas,West Virginia,54075.0,2005,28.0
+2022-03-22,Pocahontas,Iowa,19151.0,1588,27.0
+2022-03-22,Pocahontas,West Virginia,54075.0,2005,28.0
+2022-03-23,Pocahontas,Iowa,19151.0,1590,27.0
+2022-03-23,Pocahontas,West Virginia,54075.0,2005,28.0
+2022-03-24,Pocahontas,Iowa,19151.0,1590,27.0
+2022-03-24,Pocahontas,West Virginia,54075.0,2006,28.0
+2022-03-25,Pocahontas,Iowa,19151.0,1590,27.0
+2022-03-25,Pocahontas,West Virginia,54075.0,2006,28.0
+2022-03-26,Pocahontas,Iowa,19151.0,1590,27.0
+2022-03-26,Pocahontas,West Virginia,54075.0,2006,28.0
+2022-03-27,Pocahontas,Iowa,19151.0,1590,27.0
+2022-03-27,Pocahontas,West Virginia,54075.0,2006,28.0
+2022-03-28,Pocahontas,Iowa,19151.0,1590,27.0
+2022-03-28,Pocahontas,West Virginia,54075.0,2007,28.0
+2022-03-29,Pocahontas,Iowa,19151.0,1590,27.0
+2022-03-29,Pocahontas,West Virginia,54075.0,2008,28.0
+2022-03-30,Pocahontas,Iowa,19151.0,1596,27.0
+2022-03-30,Pocahontas,West Virginia,54075.0,2008,28.0
+2022-03-31,Pocahontas,Iowa,19151.0,1596,27.0
+2022-03-31,Pocahontas,West Virginia,54075.0,2008,28.0
+2022-04-01,Pocahontas,Iowa,19151.0,1596,27.0
+2022-04-01,Pocahontas,West Virginia,54075.0,2009,28.0
+2022-04-02,Pocahontas,Iowa,19151.0,1596,27.0
+2022-04-02,Pocahontas,West Virginia,54075.0,2009,28.0
+2022-04-03,Pocahontas,Iowa,19151.0,1596,27.0
+2022-04-03,Pocahontas,West Virginia,54075.0,2009,28.0
+2022-04-04,Pocahontas,Iowa,19151.0,1596,27.0
+2022-04-04,Pocahontas,West Virginia,54075.0,2009,28.0
+2022-04-05,Pocahontas,Iowa,19151.0,1596,27.0
+2022-04-05,Pocahontas,West Virginia,54075.0,2009,28.0
+2022-04-06,Pocahontas,Iowa,19151.0,1598,27.0
+2022-04-06,Pocahontas,West Virginia,54075.0,2010,28.0
+2022-04-07,Pocahontas,Iowa,19151.0,1598,27.0
+2022-04-07,Pocahontas,West Virginia,54075.0,2010,28.0
+2022-04-08,Pocahontas,Iowa,19151.0,1598,27.0
+2022-04-08,Pocahontas,West Virginia,54075.0,2011,28.0
+2022-04-09,Pocahontas,Iowa,19151.0,1598,27.0
+2022-04-09,Pocahontas,West Virginia,54075.0,2011,28.0

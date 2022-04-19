@@ -1,1498 +1,1498 @@
-,date,county,state,fips,cases,deaths
-2173,2020-03-14,Brunswick,North Carolina,37019.0,1,0.0
-2585,2020-03-15,Brunswick,North Carolina,37019.0,1,0.0
-3046,2020-03-16,Brunswick,North Carolina,37019.0,1,0.0
-3565,2020-03-17,Brunswick,North Carolina,37019.0,1,0.0
-4168,2020-03-18,Brunswick,North Carolina,37019.0,1,0.0
-4899,2020-03-19,Brunswick,North Carolina,37019.0,2,0.0
-5750,2020-03-20,Brunswick,North Carolina,37019.0,4,0.0
-6745,2020-03-21,Brunswick,North Carolina,37019.0,4,0.0
-7841,2020-03-22,Brunswick,North Carolina,37019.0,5,0.0
-9042,2020-03-23,Brunswick,North Carolina,37019.0,5,0.0
-10350,2020-03-24,Brunswick,North Carolina,37019.0,8,0.0
-11787,2020-03-25,Brunswick,North Carolina,37019.0,10,0.0
-13391,2020-03-26,Brunswick,North Carolina,37019.0,11,0.0
-15125,2020-03-27,Brunswick,North Carolina,37019.0,11,0.0
-16956,2020-03-28,Brunswick,North Carolina,37019.0,12,0.0
-18883,2020-03-29,Brunswick,North Carolina,37019.0,12,0.0
-20923,2020-03-30,Brunswick,North Carolina,37019.0,13,0.0
-23048,2020-03-31,Brunswick,North Carolina,37019.0,14,0.0
-23668,2020-03-31,Brunswick,Virginia,51025.0,1,0.0
-25242,2020-04-01,Brunswick,North Carolina,37019.0,14,0.0
-25884,2020-04-01,Brunswick,Virginia,51025.0,1,0.0
-27503,2020-04-02,Brunswick,North Carolina,37019.0,19,0.0
-28173,2020-04-02,Brunswick,Virginia,51025.0,1,0.0
-29828,2020-04-03,Brunswick,North Carolina,37019.0,22,1.0
-30516,2020-04-03,Brunswick,Virginia,51025.0,1,0.0
-32215,2020-04-04,Brunswick,North Carolina,37019.0,23,1.0
-32914,2020-04-04,Brunswick,Virginia,51025.0,1,0.0
-34646,2020-04-05,Brunswick,North Carolina,37019.0,24,1.0
-35352,2020-04-05,Brunswick,Virginia,51025.0,1,0.0
-37115,2020-04-06,Brunswick,North Carolina,37019.0,26,1.0
-37834,2020-04-06,Brunswick,Virginia,51025.0,1,0.0
-39630,2020-04-07,Brunswick,North Carolina,37019.0,26,1.0
-40364,2020-04-07,Brunswick,Virginia,51025.0,1,0.0
-42187,2020-04-08,Brunswick,North Carolina,37019.0,26,1.0
-42933,2020-04-08,Brunswick,Virginia,51025.0,1,0.0
-44770,2020-04-09,Brunswick,North Carolina,37019.0,28,1.0
-45527,2020-04-09,Brunswick,Virginia,51025.0,1,0.0
-47383,2020-04-10,Brunswick,North Carolina,37019.0,30,2.0
-48151,2020-04-10,Brunswick,Virginia,51025.0,2,0.0
-50038,2020-04-11,Brunswick,North Carolina,37019.0,34,2.0
-50809,2020-04-11,Brunswick,Virginia,51025.0,3,0.0
-52711,2020-04-12,Brunswick,North Carolina,37019.0,33,2.0
-53484,2020-04-12,Brunswick,Virginia,51025.0,3,0.0
-55394,2020-04-13,Brunswick,North Carolina,37019.0,35,2.0
-56173,2020-04-13,Brunswick,Virginia,51025.0,3,0.0
-58094,2020-04-14,Brunswick,North Carolina,37019.0,35,2.0
-58879,2020-04-14,Brunswick,Virginia,51025.0,9,0.0
-60808,2020-04-15,Brunswick,North Carolina,37019.0,35,2.0
-61598,2020-04-15,Brunswick,Virginia,51025.0,9,0.0
-63534,2020-04-16,Brunswick,North Carolina,37019.0,36,2.0
-64330,2020-04-16,Brunswick,Virginia,51025.0,10,0.0
-66277,2020-04-17,Brunswick,North Carolina,37019.0,36,2.0
-67078,2020-04-17,Brunswick,Virginia,51025.0,10,0.0
-69034,2020-04-18,Brunswick,North Carolina,37019.0,36,2.0
-69840,2020-04-18,Brunswick,Virginia,51025.0,12,0.0
-71800,2020-04-19,Brunswick,North Carolina,37019.0,36,2.0
-72610,2020-04-19,Brunswick,Virginia,51025.0,12,0.0
-74575,2020-04-20,Brunswick,North Carolina,37019.0,36,2.0
-75386,2020-04-20,Brunswick,Virginia,51025.0,12,0.0
-77356,2020-04-21,Brunswick,North Carolina,37019.0,37,2.0
-78168,2020-04-21,Brunswick,Virginia,51025.0,12,0.0
-80145,2020-04-22,Brunswick,North Carolina,37019.0,38,2.0
-80960,2020-04-22,Brunswick,Virginia,51025.0,13,0.0
-82944,2020-04-23,Brunswick,North Carolina,37019.0,39,2.0
-83761,2020-04-23,Brunswick,Virginia,51025.0,13,0.0
-85748,2020-04-24,Brunswick,North Carolina,37019.0,39,3.0
-86568,2020-04-24,Brunswick,Virginia,51025.0,14,0.0
-88560,2020-04-25,Brunswick,North Carolina,37019.0,39,3.0
-89383,2020-04-25,Brunswick,Virginia,51025.0,14,0.0
-91375,2020-04-26,Brunswick,North Carolina,37019.0,39,3.0
-92200,2020-04-26,Brunswick,Virginia,51025.0,14,0.0
-94200,2020-04-27,Brunswick,North Carolina,37019.0,40,3.0
-95029,2020-04-27,Brunswick,Virginia,51025.0,14,0.0
-97036,2020-04-28,Brunswick,North Carolina,37019.0,43,3.0
-97871,2020-04-28,Brunswick,Virginia,51025.0,13,0.0
-99883,2020-04-29,Brunswick,North Carolina,37019.0,43,3.0
-100721,2020-04-29,Brunswick,Virginia,51025.0,14,0.0
-102736,2020-04-30,Brunswick,North Carolina,37019.0,43,3.0
-103576,2020-04-30,Brunswick,Virginia,51025.0,14,0.0
-105598,2020-05-01,Brunswick,North Carolina,37019.0,43,3.0
-106440,2020-05-01,Brunswick,Virginia,51025.0,14,0.0
-108465,2020-05-02,Brunswick,North Carolina,37019.0,44,3.0
-109309,2020-05-02,Brunswick,Virginia,51025.0,15,0.0
-111338,2020-05-03,Brunswick,North Carolina,37019.0,44,3.0
-112183,2020-05-03,Brunswick,Virginia,51025.0,15,0.0
-114219,2020-05-04,Brunswick,North Carolina,37019.0,46,3.0
-115066,2020-05-04,Brunswick,Virginia,51025.0,15,0.0
-117099,2020-05-05,Brunswick,North Carolina,37019.0,50,3.0
-118025,2020-05-05,Brunswick,Virginia,51025.0,15,0.0
-120060,2020-05-06,Brunswick,North Carolina,37019.0,49,3.0
-120989,2020-05-06,Brunswick,Virginia,51025.0,15,0.0
-123035,2020-05-07,Brunswick,North Carolina,37019.0,49,3.0
-123970,2020-05-07,Brunswick,Virginia,51025.0,16,0.0
-126018,2020-05-08,Brunswick,North Carolina,37019.0,49,3.0
-126955,2020-05-08,Brunswick,Virginia,51025.0,17,0.0
-129007,2020-05-09,Brunswick,North Carolina,37019.0,50,3.0
-129944,2020-05-09,Brunswick,Virginia,51025.0,17,0.0
-131996,2020-05-10,Brunswick,North Carolina,37019.0,50,4.0
-132934,2020-05-10,Brunswick,Virginia,51025.0,18,0.0
-134987,2020-05-11,Brunswick,North Carolina,37019.0,50,4.0
-135924,2020-05-11,Brunswick,Virginia,51025.0,19,0.0
-137977,2020-05-12,Brunswick,North Carolina,37019.0,50,4.0
-138915,2020-05-12,Brunswick,Virginia,51025.0,20,0.0
-140973,2020-05-13,Brunswick,North Carolina,37019.0,50,4.0
-141911,2020-05-13,Brunswick,Virginia,51025.0,20,0.0
-143968,2020-05-14,Brunswick,North Carolina,37019.0,51,4.0
-144908,2020-05-14,Brunswick,Virginia,51025.0,20,0.0
-146969,2020-05-15,Brunswick,North Carolina,37019.0,51,4.0
-147911,2020-05-15,Brunswick,Virginia,51025.0,20,1.0
-149976,2020-05-16,Brunswick,North Carolina,37019.0,55,4.0
-150920,2020-05-16,Brunswick,Virginia,51025.0,20,1.0
-152986,2020-05-17,Brunswick,North Carolina,37019.0,55,4.0
-153931,2020-05-17,Brunswick,Virginia,51025.0,20,1.0
-156003,2020-05-18,Brunswick,North Carolina,37019.0,57,4.0
-156948,2020-05-18,Brunswick,Virginia,51025.0,20,1.0
-159022,2020-05-19,Brunswick,North Carolina,37019.0,59,4.0
-159972,2020-05-19,Brunswick,Virginia,51025.0,21,1.0
-162049,2020-05-20,Brunswick,North Carolina,37019.0,74,4.0
-163000,2020-05-20,Brunswick,Virginia,51025.0,21,1.0
-165078,2020-05-21,Brunswick,North Carolina,37019.0,74,4.0
-166029,2020-05-21,Brunswick,Virginia,51025.0,21,1.0
-168113,2020-05-22,Brunswick,North Carolina,37019.0,74,4.0
-169065,2020-05-22,Brunswick,Virginia,51025.0,21,1.0
-171152,2020-05-23,Brunswick,North Carolina,37019.0,81,4.0
-172106,2020-05-23,Brunswick,Virginia,51025.0,21,1.0
-174194,2020-05-24,Brunswick,North Carolina,37019.0,81,4.0
-175149,2020-05-24,Brunswick,Virginia,51025.0,21,1.0
-177238,2020-05-25,Brunswick,North Carolina,37019.0,83,4.0
-178194,2020-05-25,Brunswick,Virginia,51025.0,21,1.0
-180281,2020-05-26,Brunswick,North Carolina,37019.0,88,4.0
-181238,2020-05-26,Brunswick,Virginia,51025.0,21,1.0
-183329,2020-05-27,Brunswick,North Carolina,37019.0,90,4.0
-184289,2020-05-27,Brunswick,Virginia,51025.0,21,1.0
-186386,2020-05-28,Brunswick,North Carolina,37019.0,90,4.0
-187346,2020-05-28,Brunswick,Virginia,51025.0,24,1.0
-189446,2020-05-29,Brunswick,North Carolina,37019.0,95,4.0
-190410,2020-05-29,Brunswick,Virginia,51025.0,25,1.0
-192510,2020-05-30,Brunswick,North Carolina,37019.0,103,4.0
-193476,2020-05-30,Brunswick,Virginia,51025.0,25,1.0
-195580,2020-05-31,Brunswick,North Carolina,37019.0,105,4.0
-196546,2020-05-31,Brunswick,Virginia,51025.0,25,1.0
-198653,2020-06-01,Brunswick,North Carolina,37019.0,107,4.0
-199619,2020-06-01,Brunswick,Virginia,51025.0,27,1.0
-201727,2020-06-02,Brunswick,North Carolina,37019.0,121,5.0
-202695,2020-06-02,Brunswick,Virginia,51025.0,28,1.0
-204804,2020-06-03,Brunswick,North Carolina,37019.0,121,5.0
-205774,2020-06-03,Brunswick,Virginia,51025.0,30,1.0
-207885,2020-06-04,Brunswick,North Carolina,37019.0,141,5.0
-208856,2020-06-04,Brunswick,Virginia,51025.0,31,1.0
-210967,2020-06-05,Brunswick,North Carolina,37019.0,144,5.0
-211941,2020-06-05,Brunswick,Virginia,51025.0,32,1.0
-214051,2020-06-06,Brunswick,North Carolina,37019.0,149,5.0
-215028,2020-06-06,Brunswick,Virginia,51025.0,32,1.0
-217141,2020-06-07,Brunswick,North Carolina,37019.0,155,5.0
-218118,2020-06-07,Brunswick,Virginia,51025.0,39,1.0
-220233,2020-06-08,Brunswick,North Carolina,37019.0,171,5.0
-221210,2020-06-08,Brunswick,Virginia,51025.0,41,1.0
-223327,2020-06-09,Brunswick,North Carolina,37019.0,178,5.0
-224306,2020-06-09,Brunswick,Virginia,51025.0,41,1.0
-226427,2020-06-10,Brunswick,North Carolina,37019.0,196,5.0
-227406,2020-06-10,Brunswick,Virginia,51025.0,43,1.0
-229531,2020-06-11,Brunswick,North Carolina,37019.0,203,5.0
-230510,2020-06-11,Brunswick,Virginia,51025.0,44,1.0
-232636,2020-06-12,Brunswick,North Carolina,37019.0,207,5.0
-233615,2020-06-12,Brunswick,Virginia,51025.0,44,1.0
-235741,2020-06-13,Brunswick,North Carolina,37019.0,221,5.0
-236722,2020-06-13,Brunswick,Virginia,51025.0,46,1.0
-238849,2020-06-14,Brunswick,North Carolina,37019.0,233,5.0
-239830,2020-06-14,Brunswick,Virginia,51025.0,46,1.0
-241958,2020-06-15,Brunswick,North Carolina,37019.0,243,5.0
-242941,2020-06-15,Brunswick,Virginia,51025.0,46,1.0
-245070,2020-06-16,Brunswick,North Carolina,37019.0,263,5.0
-246053,2020-06-16,Brunswick,Virginia,51025.0,54,1.0
-248183,2020-06-17,Brunswick,North Carolina,37019.0,273,5.0
-249165,2020-06-17,Brunswick,Virginia,51025.0,59,1.0
-251298,2020-06-18,Brunswick,North Carolina,37019.0,301,5.0
-252280,2020-06-18,Brunswick,Virginia,51025.0,72,1.0
-254413,2020-06-19,Brunswick,North Carolina,37019.0,316,5.0
-255399,2020-06-19,Brunswick,Virginia,51025.0,90,1.0
-257536,2020-06-20,Brunswick,North Carolina,37019.0,339,5.0
-258526,2020-06-20,Brunswick,Virginia,51025.0,90,1.0
-260663,2020-06-21,Brunswick,North Carolina,37019.0,353,5.0
-261653,2020-06-21,Brunswick,Virginia,51025.0,91,1.0
-263791,2020-06-22,Brunswick,North Carolina,37019.0,357,5.0
-264782,2020-06-22,Brunswick,Virginia,51025.0,92,1.0
-266919,2020-06-23,Brunswick,North Carolina,37019.0,380,5.0
-267911,2020-06-23,Brunswick,Virginia,51025.0,92,1.0
-270053,2020-06-24,Brunswick,North Carolina,37019.0,403,5.0
-271045,2020-06-24,Brunswick,Virginia,51025.0,93,1.0
-273192,2020-06-25,Brunswick,North Carolina,37019.0,419,5.0
-274185,2020-06-25,Brunswick,Virginia,51025.0,96,1.0
-276338,2020-06-26,Brunswick,North Carolina,37019.0,445,5.0
-277333,2020-06-26,Brunswick,Virginia,51025.0,96,1.0
-279486,2020-06-27,Brunswick,North Carolina,37019.0,466,6.0
-280481,2020-06-27,Brunswick,Virginia,51025.0,99,1.0
-282632,2020-06-28,Brunswick,North Carolina,37019.0,482,6.0
-283627,2020-06-28,Brunswick,Virginia,51025.0,102,1.0
-285777,2020-06-29,Brunswick,North Carolina,37019.0,499,7.0
-286773,2020-06-29,Brunswick,Virginia,51025.0,102,1.0
-288927,2020-06-30,Brunswick,North Carolina,37019.0,522,7.0
-289923,2020-06-30,Brunswick,Virginia,51025.0,103,1.0
-292079,2020-07-01,Brunswick,North Carolina,37019.0,546,8.0
-293076,2020-07-01,Brunswick,Virginia,51025.0,106,1.0
-295234,2020-07-02,Brunswick,North Carolina,37019.0,574,8.0
-296231,2020-07-02,Brunswick,Virginia,51025.0,107,1.0
-298394,2020-07-03,Brunswick,North Carolina,37019.0,603,8.0
-299393,2020-07-03,Brunswick,Virginia,51025.0,107,1.0
-301557,2020-07-04,Brunswick,North Carolina,37019.0,628,8.0
-302557,2020-07-04,Brunswick,Virginia,51025.0,109,1.0
-304720,2020-07-05,Brunswick,North Carolina,37019.0,667,8.0
-305721,2020-07-05,Brunswick,Virginia,51025.0,112,1.0
-307887,2020-07-06,Brunswick,North Carolina,37019.0,674,8.0
-308889,2020-07-06,Brunswick,Virginia,51025.0,113,1.0
-311055,2020-07-07,Brunswick,North Carolina,37019.0,698,9.0
-312058,2020-07-07,Brunswick,Virginia,51025.0,116,1.0
-314226,2020-07-08,Brunswick,North Carolina,37019.0,726,9.0
-315233,2020-07-08,Brunswick,Virginia,51025.0,117,1.0
-317400,2020-07-09,Brunswick,North Carolina,37019.0,753,9.0
-318406,2020-07-09,Brunswick,Virginia,51025.0,116,1.0
-320577,2020-07-10,Brunswick,North Carolina,37019.0,765,10.0
-321585,2020-07-10,Brunswick,Virginia,51025.0,123,1.0
-323757,2020-07-11,Brunswick,North Carolina,37019.0,774,10.0
-324766,2020-07-11,Brunswick,Virginia,51025.0,127,1.0
-326941,2020-07-12,Brunswick,North Carolina,37019.0,785,10.0
-327951,2020-07-12,Brunswick,Virginia,51025.0,130,1.0
-330128,2020-07-13,Brunswick,North Carolina,37019.0,805,10.0
-331137,2020-07-13,Brunswick,Virginia,51025.0,138,1.0
-333318,2020-07-14,Brunswick,North Carolina,37019.0,842,12.0
-334330,2020-07-14,Brunswick,Virginia,51025.0,143,1.0
-336512,2020-07-15,Brunswick,North Carolina,37019.0,879,12.0
-337525,2020-07-15,Brunswick,Virginia,51025.0,143,1.0
-339708,2020-07-16,Brunswick,North Carolina,37019.0,903,13.0
-340721,2020-07-16,Brunswick,Virginia,51025.0,143,1.0
-342906,2020-07-17,Brunswick,North Carolina,37019.0,916,13.0
-343920,2020-07-17,Brunswick,Virginia,51025.0,146,1.0
-346105,2020-07-18,Brunswick,North Carolina,37019.0,927,13.0
-347120,2020-07-18,Brunswick,Virginia,51025.0,150,1.0
-349306,2020-07-19,Brunswick,North Carolina,37019.0,943,13.0
-350321,2020-07-19,Brunswick,Virginia,51025.0,154,1.0
-352509,2020-07-20,Brunswick,North Carolina,37019.0,959,13.0
-353523,2020-07-20,Brunswick,Virginia,51025.0,157,1.0
-355712,2020-07-21,Brunswick,North Carolina,37019.0,1001,13.0
-356726,2020-07-21,Brunswick,Virginia,51025.0,161,1.0
-358916,2020-07-22,Brunswick,North Carolina,37019.0,1011,14.0
-359931,2020-07-22,Brunswick,Virginia,51025.0,162,1.0
-362122,2020-07-23,Brunswick,North Carolina,37019.0,1035,14.0
-363137,2020-07-23,Brunswick,Virginia,51025.0,163,1.0
-365328,2020-07-24,Brunswick,North Carolina,37019.0,1050,14.0
-366343,2020-07-24,Brunswick,Virginia,51025.0,170,1.0
-368537,2020-07-25,Brunswick,North Carolina,37019.0,1059,15.0
-369552,2020-07-25,Brunswick,Virginia,51025.0,172,1.0
-371749,2020-07-26,Brunswick,North Carolina,37019.0,1081,15.0
-372764,2020-07-26,Brunswick,Virginia,51025.0,174,1.0
-374961,2020-07-27,Brunswick,North Carolina,37019.0,1091,15.0
-375978,2020-07-27,Brunswick,Virginia,51025.0,179,1.0
-378177,2020-07-28,Brunswick,North Carolina,37019.0,1121,15.0
-379194,2020-07-28,Brunswick,Virginia,51025.0,184,1.0
-381394,2020-07-29,Brunswick,North Carolina,37019.0,1137,15.0
-382411,2020-07-29,Brunswick,Virginia,51025.0,188,1.0
-384612,2020-07-30,Brunswick,North Carolina,37019.0,1154,16.0
-385629,2020-07-30,Brunswick,Virginia,51025.0,197,1.0
-387829,2020-07-31,Brunswick,North Carolina,37019.0,1181,17.0
-388846,2020-07-31,Brunswick,Virginia,51025.0,197,1.0
-391046,2020-08-01,Brunswick,North Carolina,37019.0,1190,17.0
-392063,2020-08-01,Brunswick,Virginia,51025.0,204,1.0
-394262,2020-08-02,Brunswick,North Carolina,37019.0,1202,19.0
-395279,2020-08-02,Brunswick,Virginia,51025.0,205,1.0
-397479,2020-08-03,Brunswick,North Carolina,37019.0,1206,19.0
-398495,2020-08-03,Brunswick,Virginia,51025.0,212,1.0
-400694,2020-08-04,Brunswick,North Carolina,37019.0,1219,19.0
-401711,2020-08-04,Brunswick,Virginia,51025.0,212,2.0
-403912,2020-08-05,Brunswick,North Carolina,37019.0,1230,19.0
-404929,2020-08-05,Brunswick,Virginia,51025.0,215,2.0
-407131,2020-08-06,Brunswick,North Carolina,37019.0,1247,21.0
-408149,2020-08-06,Brunswick,Virginia,51025.0,216,2.0
-410351,2020-08-07,Brunswick,North Carolina,37019.0,1257,22.0
-411368,2020-08-07,Brunswick,Virginia,51025.0,226,2.0
-413571,2020-08-08,Brunswick,North Carolina,37019.0,1267,22.0
-414588,2020-08-08,Brunswick,Virginia,51025.0,227,2.0
-416792,2020-08-09,Brunswick,North Carolina,37019.0,1275,23.0
-417809,2020-08-09,Brunswick,Virginia,51025.0,228,2.0
-420012,2020-08-10,Brunswick,North Carolina,37019.0,1275,23.0
-421030,2020-08-10,Brunswick,Virginia,51025.0,230,2.0
-423235,2020-08-11,Brunswick,North Carolina,37019.0,1287,24.0
-424251,2020-08-11,Brunswick,Virginia,51025.0,237,2.0
-426458,2020-08-12,Brunswick,North Carolina,37019.0,1304,24.0
-427475,2020-08-12,Brunswick,Virginia,51025.0,239,2.0
-429683,2020-08-13,Brunswick,North Carolina,37019.0,1316,24.0
-430703,2020-08-13,Brunswick,Virginia,51025.0,240,2.0
-432909,2020-08-14,Brunswick,North Carolina,37019.0,1316,24.0
-433928,2020-08-14,Brunswick,Virginia,51025.0,247,2.0
-436135,2020-08-15,Brunswick,North Carolina,37019.0,1316,24.0
-437154,2020-08-15,Brunswick,Virginia,51025.0,247,2.0
-439360,2020-08-16,Brunswick,North Carolina,37019.0,1316,24.0
-440380,2020-08-16,Brunswick,Virginia,51025.0,247,2.0
-442587,2020-08-17,Brunswick,North Carolina,37019.0,1316,24.0
-443606,2020-08-17,Brunswick,Virginia,51025.0,248,2.0
-445813,2020-08-18,Brunswick,North Carolina,37019.0,1326,24.0
-446833,2020-08-18,Brunswick,Virginia,51025.0,250,2.0
-449041,2020-08-19,Brunswick,North Carolina,37019.0,1330,24.0
-450061,2020-08-19,Brunswick,Virginia,51025.0,254,2.0
-452269,2020-08-20,Brunswick,North Carolina,37019.0,1337,24.0
-453289,2020-08-20,Brunswick,Virginia,51025.0,259,2.0
-455497,2020-08-21,Brunswick,North Carolina,37019.0,1343,24.0
-456517,2020-08-21,Brunswick,Virginia,51025.0,261,2.0
-458725,2020-08-22,Brunswick,North Carolina,37019.0,1348,24.0
-459744,2020-08-22,Brunswick,Virginia,51025.0,263,2.0
-461953,2020-08-23,Brunswick,North Carolina,37019.0,1353,24.0
-462973,2020-08-23,Brunswick,Virginia,51025.0,264,2.0
-465182,2020-08-24,Brunswick,North Carolina,37019.0,1358,24.0
-466202,2020-08-24,Brunswick,Virginia,51025.0,269,2.0
-468410,2020-08-25,Brunswick,North Carolina,37019.0,1361,24.0
-469431,2020-08-25,Brunswick,Virginia,51025.0,273,2.0
-471642,2020-08-26,Brunswick,North Carolina,37019.0,1365,24.0
-472663,2020-08-26,Brunswick,Virginia,51025.0,273,2.0
-474876,2020-08-27,Brunswick,North Carolina,37019.0,1372,24.0
-475896,2020-08-27,Brunswick,Virginia,51025.0,279,2.0
-478109,2020-08-28,Brunswick,North Carolina,37019.0,1371,24.0
-479129,2020-08-28,Brunswick,Virginia,51025.0,281,2.0
-481342,2020-08-29,Brunswick,North Carolina,37019.0,1379,24.0
-482363,2020-08-29,Brunswick,Virginia,51025.0,283,2.0
-484577,2020-08-30,Brunswick,North Carolina,37019.0,1385,24.0
-485598,2020-08-30,Brunswick,Virginia,51025.0,285,2.0
-487810,2020-08-31,Brunswick,North Carolina,37019.0,1389,24.0
-488831,2020-08-31,Brunswick,Virginia,51025.0,293,2.0
-491043,2020-09-01,Brunswick,North Carolina,37019.0,1401,24.0
-492064,2020-09-01,Brunswick,Virginia,51025.0,295,2.0
-494277,2020-09-02,Brunswick,North Carolina,37019.0,1402,24.0
-495298,2020-09-02,Brunswick,Virginia,51025.0,301,2.0
-497510,2020-09-03,Brunswick,North Carolina,37019.0,1410,24.0
-498531,2020-09-03,Brunswick,Virginia,51025.0,302,2.0
-500744,2020-09-04,Brunswick,North Carolina,37019.0,1420,24.0
-501765,2020-09-04,Brunswick,Virginia,51025.0,306,2.0
-503978,2020-09-05,Brunswick,North Carolina,37019.0,1424,24.0
-504999,2020-09-05,Brunswick,Virginia,51025.0,308,2.0
-507210,2020-09-06,Brunswick,North Carolina,37019.0,1433,25.0
-508231,2020-09-06,Brunswick,Virginia,51025.0,310,2.0
-510443,2020-09-07,Brunswick,North Carolina,37019.0,1434,25.0
-511464,2020-09-07,Brunswick,Virginia,51025.0,310,2.0
-513676,2020-09-08,Brunswick,North Carolina,37019.0,1438,25.0
-514697,2020-09-08,Brunswick,Virginia,51025.0,317,2.0
-516911,2020-09-09,Brunswick,North Carolina,37019.0,1445,26.0
-517932,2020-09-09,Brunswick,Virginia,51025.0,318,2.0
-520147,2020-09-10,Brunswick,North Carolina,37019.0,1457,26.0
-521169,2020-09-10,Brunswick,Virginia,51025.0,320,2.0
-523383,2020-09-11,Brunswick,North Carolina,37019.0,1465,26.0
-524405,2020-09-11,Brunswick,Virginia,51025.0,326,2.0
-526619,2020-09-12,Brunswick,North Carolina,37019.0,1472,26.0
-527641,2020-09-12,Brunswick,Virginia,51025.0,327,2.0
-529856,2020-09-13,Brunswick,North Carolina,37019.0,1478,26.0
-530878,2020-09-13,Brunswick,Virginia,51025.0,331,2.0
-533091,2020-09-14,Brunswick,North Carolina,37019.0,1482,26.0
-534113,2020-09-14,Brunswick,Virginia,51025.0,332,2.0
-536327,2020-09-15,Brunswick,North Carolina,37019.0,1487,26.0
-537349,2020-09-15,Brunswick,Virginia,51025.0,333,3.0
-539564,2020-09-16,Brunswick,North Carolina,37019.0,1500,26.0
-540586,2020-09-16,Brunswick,Virginia,51025.0,336,3.0
-542800,2020-09-17,Brunswick,North Carolina,37019.0,1508,26.0
-543822,2020-09-17,Brunswick,Virginia,51025.0,340,3.0
-546037,2020-09-18,Brunswick,North Carolina,37019.0,1511,26.0
-547059,2020-09-18,Brunswick,Virginia,51025.0,341,4.0
-549276,2020-09-19,Brunswick,North Carolina,37019.0,1523,26.0
-550298,2020-09-19,Brunswick,Virginia,51025.0,344,4.0
-552515,2020-09-20,Brunswick,North Carolina,37019.0,1529,26.0
-553537,2020-09-20,Brunswick,Virginia,51025.0,346,4.0
-555752,2020-09-21,Brunswick,North Carolina,37019.0,1535,26.0
-556774,2020-09-21,Brunswick,Virginia,51025.0,346,4.0
-558989,2020-09-22,Brunswick,North Carolina,37019.0,1543,26.0
-560010,2020-09-22,Brunswick,Virginia,51025.0,346,4.0
-562226,2020-09-23,Brunswick,North Carolina,37019.0,1555,26.0
-563249,2020-09-23,Brunswick,Virginia,51025.0,347,4.0
-565467,2020-09-24,Brunswick,North Carolina,37019.0,1576,26.0
-566490,2020-09-24,Brunswick,Virginia,51025.0,349,5.0
-568708,2020-09-25,Brunswick,North Carolina,37019.0,1622,26.0
-569731,2020-09-25,Brunswick,Virginia,51025.0,351,5.0
-571950,2020-09-26,Brunswick,North Carolina,37019.0,1636,27.0
-572973,2020-09-26,Brunswick,Virginia,51025.0,355,5.0
-575194,2020-09-27,Brunswick,North Carolina,37019.0,1639,27.0
-576217,2020-09-27,Brunswick,Virginia,51025.0,358,5.0
-578435,2020-09-28,Brunswick,North Carolina,37019.0,1642,27.0
-579458,2020-09-28,Brunswick,Virginia,51025.0,358,5.0
-581675,2020-09-29,Brunswick,North Carolina,37019.0,1646,27.0
-582697,2020-09-29,Brunswick,Virginia,51025.0,361,5.0
-584916,2020-09-30,Brunswick,North Carolina,37019.0,1667,27.0
-585937,2020-09-30,Brunswick,Virginia,51025.0,361,5.0
-588156,2020-10-01,Brunswick,North Carolina,37019.0,1681,27.0
-589178,2020-10-01,Brunswick,Virginia,51025.0,363,5.0
-591397,2020-10-02,Brunswick,North Carolina,37019.0,1693,27.0
-592418,2020-10-02,Brunswick,Virginia,51025.0,366,5.0
-594638,2020-10-03,Brunswick,North Carolina,37019.0,1710,27.0
-595660,2020-10-03,Brunswick,Virginia,51025.0,367,5.0
-597881,2020-10-04,Brunswick,North Carolina,37019.0,1713,27.0
-598903,2020-10-04,Brunswick,Virginia,51025.0,369,5.0
-601124,2020-10-05,Brunswick,North Carolina,37019.0,1741,27.0
-602146,2020-10-05,Brunswick,Virginia,51025.0,369,5.0
-604366,2020-10-06,Brunswick,North Carolina,37019.0,1756,27.0
-605388,2020-10-06,Brunswick,Virginia,51025.0,374,5.0
-607609,2020-10-07,Brunswick,North Carolina,37019.0,1779,27.0
-608631,2020-10-07,Brunswick,Virginia,51025.0,374,5.0
-610851,2020-10-08,Brunswick,North Carolina,37019.0,1796,27.0
-611873,2020-10-08,Brunswick,Virginia,51025.0,384,5.0
-614092,2020-10-09,Brunswick,North Carolina,37019.0,1823,28.0
-615114,2020-10-09,Brunswick,Virginia,51025.0,387,5.0
-617334,2020-10-10,Brunswick,North Carolina,37019.0,1847,28.0
-618356,2020-10-10,Brunswick,Virginia,51025.0,391,5.0
-620576,2020-10-11,Brunswick,North Carolina,37019.0,1870,28.0
-621599,2020-10-11,Brunswick,Virginia,51025.0,392,5.0
-623819,2020-10-12,Brunswick,North Carolina,37019.0,1890,28.0
-624842,2020-10-12,Brunswick,Virginia,51025.0,394,5.0
-627061,2020-10-13,Brunswick,North Carolina,37019.0,1902,30.0
-628085,2020-10-13,Brunswick,Virginia,51025.0,397,5.0
-630305,2020-10-14,Brunswick,North Carolina,37019.0,1915,30.0
-631329,2020-10-14,Brunswick,Virginia,51025.0,398,5.0
-633550,2020-10-15,Brunswick,North Carolina,37019.0,1942,31.0
-634574,2020-10-15,Brunswick,Virginia,51025.0,402,5.0
-636796,2020-10-16,Brunswick,North Carolina,37019.0,1986,31.0
-637819,2020-10-16,Brunswick,Virginia,51025.0,402,5.0
-640042,2020-10-17,Brunswick,North Carolina,37019.0,2000,33.0
-641066,2020-10-17,Brunswick,Virginia,51025.0,404,5.0
-643290,2020-10-18,Brunswick,North Carolina,37019.0,2018,34.0
-644314,2020-10-18,Brunswick,Virginia,51025.0,408,5.0
-646536,2020-10-19,Brunswick,North Carolina,37019.0,2033,34.0
-647560,2020-10-19,Brunswick,Virginia,51025.0,410,5.0
-649780,2020-10-20,Brunswick,North Carolina,37019.0,2046,35.0
-650804,2020-10-20,Brunswick,Virginia,51025.0,412,5.0
-653025,2020-10-21,Brunswick,North Carolina,37019.0,2079,35.0
-654049,2020-10-21,Brunswick,Virginia,51025.0,414,5.0
-656270,2020-10-22,Brunswick,North Carolina,37019.0,2106,37.0
-657294,2020-10-22,Brunswick,Virginia,51025.0,416,5.0
-659514,2020-10-23,Brunswick,North Carolina,37019.0,2117,38.0
-660538,2020-10-23,Brunswick,Virginia,51025.0,419,5.0
-662758,2020-10-24,Brunswick,North Carolina,37019.0,2139,40.0
-663782,2020-10-24,Brunswick,Virginia,51025.0,420,5.0
-666003,2020-10-25,Brunswick,North Carolina,37019.0,2149,40.0
-667027,2020-10-25,Brunswick,Virginia,51025.0,421,5.0
-669247,2020-10-26,Brunswick,North Carolina,37019.0,2160,41.0
-670270,2020-10-26,Brunswick,Virginia,51025.0,421,5.0
-672489,2020-10-27,Brunswick,North Carolina,37019.0,2168,45.0
-673512,2020-10-27,Brunswick,Virginia,51025.0,421,5.0
-675732,2020-10-28,Brunswick,North Carolina,37019.0,2186,46.0
-676755,2020-10-28,Brunswick,Virginia,51025.0,420,5.0
-678975,2020-10-29,Brunswick,North Carolina,37019.0,2201,46.0
-679998,2020-10-29,Brunswick,Virginia,51025.0,421,5.0
-682218,2020-10-30,Brunswick,North Carolina,37019.0,2220,46.0
-683241,2020-10-30,Brunswick,Virginia,51025.0,424,5.0
-685461,2020-10-31,Brunswick,North Carolina,37019.0,2232,49.0
-686484,2020-10-31,Brunswick,Virginia,51025.0,424,5.0
-688706,2020-11-01,Brunswick,North Carolina,37019.0,2250,49.0
-689729,2020-11-01,Brunswick,Virginia,51025.0,424,5.0
-691950,2020-11-02,Brunswick,North Carolina,37019.0,2257,49.0
-692973,2020-11-02,Brunswick,Virginia,51025.0,427,5.0
-695192,2020-11-03,Brunswick,North Carolina,37019.0,2271,52.0
-696215,2020-11-03,Brunswick,Virginia,51025.0,427,5.0
-698435,2020-11-04,Brunswick,North Carolina,37019.0,2296,52.0
-699459,2020-11-04,Brunswick,Virginia,51025.0,432,5.0
-701679,2020-11-05,Brunswick,North Carolina,37019.0,2311,52.0
-702702,2020-11-05,Brunswick,Virginia,51025.0,434,5.0
-704922,2020-11-06,Brunswick,North Carolina,37019.0,2334,52.0
-705945,2020-11-06,Brunswick,Virginia,51025.0,434,5.0
-708165,2020-11-07,Brunswick,North Carolina,37019.0,2350,52.0
-709189,2020-11-07,Brunswick,Virginia,51025.0,435,5.0
-711409,2020-11-08,Brunswick,North Carolina,37019.0,2371,52.0
-712433,2020-11-08,Brunswick,Virginia,51025.0,435,6.0
-714653,2020-11-09,Brunswick,North Carolina,37019.0,2396,52.0
-715677,2020-11-09,Brunswick,Virginia,51025.0,440,6.0
-717896,2020-11-10,Brunswick,North Carolina,37019.0,2407,53.0
-718920,2020-11-10,Brunswick,Virginia,51025.0,441,6.0
-721139,2020-11-11,Brunswick,North Carolina,37019.0,2437,54.0
-722163,2020-11-11,Brunswick,Virginia,51025.0,442,6.0
-724382,2020-11-12,Brunswick,North Carolina,37019.0,2470,54.0
-725406,2020-11-12,Brunswick,Virginia,51025.0,443,6.0
-727626,2020-11-13,Brunswick,North Carolina,37019.0,2478,54.0
-728649,2020-11-13,Brunswick,Virginia,51025.0,446,6.0
-730870,2020-11-14,Brunswick,North Carolina,37019.0,2521,55.0
-731894,2020-11-14,Brunswick,Virginia,51025.0,447,6.0
-734116,2020-11-15,Brunswick,North Carolina,37019.0,2554,55.0
-735140,2020-11-15,Brunswick,Virginia,51025.0,447,6.0
-737360,2020-11-16,Brunswick,North Carolina,37019.0,2567,55.0
-738384,2020-11-16,Brunswick,Virginia,51025.0,448,6.0
-740605,2020-11-17,Brunswick,North Carolina,37019.0,2587,55.0
-741631,2020-11-17,Brunswick,Virginia,51025.0,449,6.0
-743852,2020-11-18,Brunswick,North Carolina,37019.0,2623,55.0
-744878,2020-11-18,Brunswick,Virginia,51025.0,452,6.0
-747098,2020-11-19,Brunswick,North Carolina,37019.0,2654,55.0
-748124,2020-11-19,Brunswick,Virginia,51025.0,453,6.0
-750344,2020-11-20,Brunswick,North Carolina,37019.0,2696,55.0
-751370,2020-11-20,Brunswick,Virginia,51025.0,454,6.0
-753590,2020-11-21,Brunswick,North Carolina,37019.0,2719,55.0
-754616,2020-11-21,Brunswick,Virginia,51025.0,454,6.0
-756837,2020-11-22,Brunswick,North Carolina,37019.0,2768,55.0
-757863,2020-11-22,Brunswick,Virginia,51025.0,454,6.0
-760083,2020-11-23,Brunswick,North Carolina,37019.0,2790,55.0
-761108,2020-11-23,Brunswick,Virginia,51025.0,458,6.0
-763328,2020-11-24,Brunswick,North Carolina,37019.0,2812,55.0
-764353,2020-11-24,Brunswick,Virginia,51025.0,458,6.0
-766573,2020-11-25,Brunswick,North Carolina,37019.0,2851,55.0
-767598,2020-11-25,Brunswick,Virginia,51025.0,460,6.0
-769819,2020-11-26,Brunswick,North Carolina,37019.0,2851,55.0
-770844,2020-11-26,Brunswick,Virginia,51025.0,460,6.0
-773064,2020-11-27,Brunswick,North Carolina,37019.0,2929,57.0
-774089,2020-11-27,Brunswick,Virginia,51025.0,460,7.0
-776309,2020-11-28,Brunswick,North Carolina,37019.0,2973,58.0
-777334,2020-11-28,Brunswick,Virginia,51025.0,468,7.0
-779554,2020-11-29,Brunswick,North Carolina,37019.0,2998,59.0
-780580,2020-11-29,Brunswick,Virginia,51025.0,468,7.0
-782800,2020-11-30,Brunswick,North Carolina,37019.0,3040,59.0
-783825,2020-11-30,Brunswick,Virginia,51025.0,471,7.0
-786044,2020-12-01,Brunswick,North Carolina,37019.0,3068,60.0
-787069,2020-12-01,Brunswick,Virginia,51025.0,474,7.0
-789289,2020-12-02,Brunswick,North Carolina,37019.0,3092,62.0
-790314,2020-12-02,Brunswick,Virginia,51025.0,474,7.0
-792534,2020-12-03,Brunswick,North Carolina,37019.0,3145,63.0
-793559,2020-12-03,Brunswick,Virginia,51025.0,482,7.0
-795779,2020-12-04,Brunswick,North Carolina,37019.0,3227,63.0
-796804,2020-12-04,Brunswick,Virginia,51025.0,486,7.0
-799024,2020-12-05,Brunswick,North Carolina,37019.0,3269,64.0
-800049,2020-12-05,Brunswick,Virginia,51025.0,489,8.0
-802269,2020-12-06,Brunswick,North Carolina,37019.0,3311,64.0
-803294,2020-12-06,Brunswick,Virginia,51025.0,502,8.0
-805514,2020-12-07,Brunswick,North Carolina,37019.0,3345,64.0
-806539,2020-12-07,Brunswick,Virginia,51025.0,505,8.0
-808759,2020-12-08,Brunswick,North Carolina,37019.0,3372,64.0
-809784,2020-12-08,Brunswick,Virginia,51025.0,509,8.0
-812004,2020-12-09,Brunswick,North Carolina,37019.0,3425,66.0
-813028,2020-12-09,Brunswick,Virginia,51025.0,512,8.0
-815249,2020-12-10,Brunswick,North Carolina,37019.0,3482,66.0
-816274,2020-12-10,Brunswick,Virginia,51025.0,516,8.0
-818495,2020-12-11,Brunswick,North Carolina,37019.0,3525,66.0
-819520,2020-12-11,Brunswick,Virginia,51025.0,518,8.0
-821741,2020-12-12,Brunswick,North Carolina,37019.0,3558,66.0
-822766,2020-12-12,Brunswick,Virginia,51025.0,522,8.0
-824988,2020-12-13,Brunswick,North Carolina,37019.0,3610,66.0
-826013,2020-12-13,Brunswick,Virginia,51025.0,522,8.0
-828234,2020-12-14,Brunswick,North Carolina,37019.0,3634,66.0
-829259,2020-12-14,Brunswick,Virginia,51025.0,521,8.0
-831481,2020-12-15,Brunswick,North Carolina,37019.0,3667,66.0
-832506,2020-12-15,Brunswick,Virginia,51025.0,529,8.0
-834727,2020-12-16,Brunswick,North Carolina,37019.0,3714,67.0
-835752,2020-12-16,Brunswick,Virginia,51025.0,533,8.0
-837973,2020-12-17,Brunswick,North Carolina,37019.0,3761,70.0
-838998,2020-12-17,Brunswick,Virginia,51025.0,538,8.0
-841218,2020-12-18,Brunswick,North Carolina,37019.0,3802,70.0
-842243,2020-12-18,Brunswick,Virginia,51025.0,542,8.0
-844464,2020-12-19,Brunswick,North Carolina,37019.0,3851,70.0
-845489,2020-12-19,Brunswick,Virginia,51025.0,545,8.0
-847709,2020-12-20,Brunswick,North Carolina,37019.0,3908,70.0
-848734,2020-12-20,Brunswick,Virginia,51025.0,553,8.0
-850954,2020-12-21,Brunswick,North Carolina,37019.0,3937,70.0
-851979,2020-12-21,Brunswick,Virginia,51025.0,555,8.0
-854199,2020-12-22,Brunswick,North Carolina,37019.0,3983,70.0
-855224,2020-12-22,Brunswick,Virginia,51025.0,561,8.0
-857444,2020-12-23,Brunswick,North Carolina,37019.0,4026,71.0
-858469,2020-12-23,Brunswick,Virginia,51025.0,572,7.0
-860689,2020-12-24,Brunswick,North Carolina,37019.0,4026,71.0
-861714,2020-12-24,Brunswick,Virginia,51025.0,583,7.0
-863934,2020-12-25,Brunswick,North Carolina,37019.0,4026,71.0
-864959,2020-12-25,Brunswick,Virginia,51025.0,585,7.0
-867179,2020-12-26,Brunswick,North Carolina,37019.0,4192,71.0
-868204,2020-12-26,Brunswick,Virginia,51025.0,589,7.0
-870424,2020-12-27,Brunswick,North Carolina,37019.0,4213,71.0
-871449,2020-12-27,Brunswick,Virginia,51025.0,592,7.0
-873669,2020-12-28,Brunswick,North Carolina,37019.0,4243,71.0
-874694,2020-12-28,Brunswick,Virginia,51025.0,599,7.0
-876914,2020-12-29,Brunswick,North Carolina,37019.0,4266,71.0
-877939,2020-12-29,Brunswick,Virginia,51025.0,610,7.0
-880159,2020-12-30,Brunswick,North Carolina,37019.0,4364,72.0
-881184,2020-12-30,Brunswick,Virginia,51025.0,630,7.0
-883404,2020-12-31,Brunswick,North Carolina,37019.0,4402,72.0
-884429,2020-12-31,Brunswick,Virginia,51025.0,641,7.0
-886649,2021-01-01,Brunswick,North Carolina,37019.0,4402,72.0
-887674,2021-01-01,Brunswick,Virginia,51025.0,650,7.0
-889896,2021-01-02,Brunswick,North Carolina,37019.0,4580,74.0
-890921,2021-01-02,Brunswick,Virginia,51025.0,653,7.0
-893142,2021-01-03,Brunswick,North Carolina,37019.0,4659,74.0
-894167,2021-01-03,Brunswick,Virginia,51025.0,654,7.0
-896388,2021-01-04,Brunswick,North Carolina,37019.0,4691,74.0
-897413,2021-01-04,Brunswick,Virginia,51025.0,659,7.0
-899633,2021-01-05,Brunswick,North Carolina,37019.0,4739,74.0
-900658,2021-01-05,Brunswick,Virginia,51025.0,676,7.0
-902878,2021-01-06,Brunswick,North Carolina,37019.0,4794,74.0
-903903,2021-01-06,Brunswick,Virginia,51025.0,690,7.0
-906124,2021-01-07,Brunswick,North Carolina,37019.0,4926,74.0
-907149,2021-01-07,Brunswick,Virginia,51025.0,721,7.0
-909369,2021-01-08,Brunswick,North Carolina,37019.0,5018,74.0
-910394,2021-01-08,Brunswick,Virginia,51025.0,728,7.0
-912614,2021-01-09,Brunswick,North Carolina,37019.0,5110,78.0
-913639,2021-01-09,Brunswick,Virginia,51025.0,776,7.0
-915859,2021-01-10,Brunswick,North Carolina,37019.0,5204,78.0
-916884,2021-01-10,Brunswick,Virginia,51025.0,775,7.0
-919104,2021-01-11,Brunswick,North Carolina,37019.0,5268,78.0
-920129,2021-01-11,Brunswick,Virginia,51025.0,821,7.0
-922349,2021-01-12,Brunswick,North Carolina,37019.0,5332,78.0
-923374,2021-01-12,Brunswick,Virginia,51025.0,834,7.0
-925595,2021-01-13,Brunswick,North Carolina,37019.0,5392,79.0
-926620,2021-01-13,Brunswick,Virginia,51025.0,841,7.0
-928840,2021-01-14,Brunswick,North Carolina,37019.0,5469,79.0
-929865,2021-01-14,Brunswick,Virginia,51025.0,850,7.0
-932085,2021-01-15,Brunswick,North Carolina,37019.0,5544,79.0
-933110,2021-01-15,Brunswick,Virginia,51025.0,855,7.0
-935330,2021-01-16,Brunswick,North Carolina,37019.0,5624,80.0
-936355,2021-01-16,Brunswick,Virginia,51025.0,879,7.0
-938575,2021-01-17,Brunswick,North Carolina,37019.0,5689,81.0
-939600,2021-01-17,Brunswick,Virginia,51025.0,916,7.0
-941820,2021-01-18,Brunswick,North Carolina,37019.0,5689,81.0
-942845,2021-01-18,Brunswick,Virginia,51025.0,928,7.0
-945066,2021-01-19,Brunswick,North Carolina,37019.0,5751,82.0
-946092,2021-01-19,Brunswick,Virginia,51025.0,936,7.0
-948313,2021-01-20,Brunswick,North Carolina,37019.0,5862,82.0
-949338,2021-01-20,Brunswick,Virginia,51025.0,943,8.0
-951558,2021-01-21,Brunswick,North Carolina,37019.0,5915,86.0
-952583,2021-01-21,Brunswick,Virginia,51025.0,997,8.0
-954803,2021-01-22,Brunswick,North Carolina,37019.0,5992,86.0
-955828,2021-01-22,Brunswick,Virginia,51025.0,1042,8.0
-958049,2021-01-23,Brunswick,North Carolina,37019.0,6076,86.0
-959074,2021-01-23,Brunswick,Virginia,51025.0,1046,8.0
-961294,2021-01-24,Brunswick,North Carolina,37019.0,6149,86.0
-962319,2021-01-24,Brunswick,Virginia,51025.0,1052,8.0
-964539,2021-01-25,Brunswick,North Carolina,37019.0,6202,86.0
-965564,2021-01-25,Brunswick,Virginia,51025.0,1058,8.0
-967783,2021-01-26,Brunswick,North Carolina,37019.0,6245,86.0
-968808,2021-01-26,Brunswick,Virginia,51025.0,1064,9.0
-971028,2021-01-27,Brunswick,North Carolina,37019.0,6295,93.0
-972053,2021-01-27,Brunswick,Virginia,51025.0,1081,9.0
-974273,2021-01-28,Brunswick,North Carolina,37019.0,6377,93.0
-975298,2021-01-28,Brunswick,Virginia,51025.0,1085,9.0
-977518,2021-01-29,Brunswick,North Carolina,37019.0,6434,94.0
-978543,2021-01-29,Brunswick,Virginia,51025.0,1078,9.0
-980764,2021-01-30,Brunswick,North Carolina,37019.0,6434,94.0
-981789,2021-01-30,Brunswick,Virginia,51025.0,1086,9.0
-984011,2021-01-31,Brunswick,North Carolina,37019.0,6571,102.0
-985036,2021-01-31,Brunswick,Virginia,51025.0,1089,9.0
-987258,2021-02-01,Brunswick,North Carolina,37019.0,6623,102.0
-988283,2021-02-01,Brunswick,Virginia,51025.0,1094,9.0
-990504,2021-02-02,Brunswick,North Carolina,37019.0,6669,102.0
-991529,2021-02-02,Brunswick,Virginia,51025.0,1095,9.0
-993750,2021-02-03,Brunswick,North Carolina,37019.0,6788,102.0
-994775,2021-02-03,Brunswick,Virginia,51025.0,1100,10.0
-996996,2021-02-04,Brunswick,North Carolina,37019.0,6862,103.0
-998021,2021-02-04,Brunswick,Virginia,51025.0,1107,10.0
-1000242,2021-02-05,Brunswick,North Carolina,37019.0,6912,105.0
-1001267,2021-02-05,Brunswick,Virginia,51025.0,1117,10.0
-1003488,2021-02-06,Brunswick,North Carolina,37019.0,6986,105.0
-1004513,2021-02-06,Brunswick,Virginia,51025.0,1127,10.0
-1006734,2021-02-07,Brunswick,North Carolina,37019.0,7047,107.0
-1007759,2021-02-07,Brunswick,Virginia,51025.0,1133,10.0
-1009980,2021-02-08,Brunswick,North Carolina,37019.0,7103,107.0
-1011005,2021-02-08,Brunswick,Virginia,51025.0,1134,10.0
-1013225,2021-02-09,Brunswick,North Carolina,37019.0,7148,108.0
-1014250,2021-02-09,Brunswick,Virginia,51025.0,1138,10.0
-1016470,2021-02-10,Brunswick,North Carolina,37019.0,7199,109.0
-1017495,2021-02-10,Brunswick,Virginia,51025.0,1144,10.0
-1019715,2021-02-11,Brunswick,North Carolina,37019.0,7264,111.0
-1020740,2021-02-11,Brunswick,Virginia,51025.0,1146,10.0
-1022960,2021-02-12,Brunswick,North Carolina,37019.0,7355,112.0
-1023985,2021-02-12,Brunswick,Virginia,51025.0,1149,10.0
-1026205,2021-02-13,Brunswick,North Carolina,37019.0,7419,117.0
-1027230,2021-02-13,Brunswick,Virginia,51025.0,1153,10.0
-1029452,2021-02-14,Brunswick,North Carolina,37019.0,7472,119.0
-1030477,2021-02-14,Brunswick,Virginia,51025.0,1157,10.0
-1032698,2021-02-15,Brunswick,North Carolina,37019.0,7510,121.0
-1033723,2021-02-15,Brunswick,Virginia,51025.0,1157,10.0
-1035943,2021-02-16,Brunswick,North Carolina,37019.0,7543,121.0
-1036968,2021-02-16,Brunswick,Virginia,51025.0,1157,10.0
-1039188,2021-02-17,Brunswick,North Carolina,37019.0,7593,121.0
-1040213,2021-02-17,Brunswick,Virginia,51025.0,1162,11.0
-1042433,2021-02-18,Brunswick,North Carolina,37019.0,7658,124.0
-1043458,2021-02-18,Brunswick,Virginia,51025.0,1166,11.0
-1045678,2021-02-19,Brunswick,North Carolina,37019.0,7723,125.0
-1046703,2021-02-19,Brunswick,Virginia,51025.0,1171,11.0
-1048925,2021-02-20,Brunswick,North Carolina,37019.0,7752,130.0
-1049950,2021-02-20,Brunswick,Virginia,51025.0,1174,11.0
-1052172,2021-02-21,Brunswick,North Carolina,37019.0,7784,131.0
-1053197,2021-02-21,Brunswick,Virginia,51025.0,1178,11.0
-1055418,2021-02-22,Brunswick,North Carolina,37019.0,7807,131.0
-1056443,2021-02-22,Brunswick,Virginia,51025.0,1181,12.0
-1058664,2021-02-23,Brunswick,North Carolina,37019.0,7825,132.0
-1059689,2021-02-23,Brunswick,Virginia,51025.0,1184,12.0
-1061910,2021-02-24,Brunswick,North Carolina,37019.0,7884,133.0
-1062934,2021-02-24,Brunswick,Virginia,51025.0,1187,12.0
-1065154,2021-02-25,Brunswick,North Carolina,37019.0,7916,133.0
-1066179,2021-02-25,Brunswick,Virginia,51025.0,1186,12.0
-1068399,2021-02-26,Brunswick,North Carolina,37019.0,7952,133.0
-1069424,2021-02-26,Brunswick,Virginia,51025.0,1189,14.0
-1071645,2021-02-27,Brunswick,North Carolina,37019.0,7971,133.0
-1072670,2021-02-27,Brunswick,Virginia,51025.0,1192,14.0
-1074891,2021-02-28,Brunswick,North Carolina,37019.0,7971,133.0
-1075916,2021-02-28,Brunswick,Virginia,51025.0,1195,16.0
-1078136,2021-03-01,Brunswick,North Carolina,37019.0,8007,134.0
-1079161,2021-03-01,Brunswick,Virginia,51025.0,1200,16.0
-1081382,2021-03-02,Brunswick,North Carolina,37019.0,8019,135.0
-1082407,2021-03-02,Brunswick,Virginia,51025.0,1204,16.0
-1084628,2021-03-03,Brunswick,North Carolina,37019.0,8040,136.0
-1085653,2021-03-03,Brunswick,Virginia,51025.0,1206,17.0
-1087873,2021-03-04,Brunswick,North Carolina,37019.0,8067,137.0
-1088898,2021-03-04,Brunswick,Virginia,51025.0,1210,17.0
-1091118,2021-03-05,Brunswick,North Carolina,37019.0,8084,137.0
-1092144,2021-03-05,Brunswick,Virginia,51025.0,1212,17.0
-1094364,2021-03-06,Brunswick,North Carolina,37019.0,8116,137.0
-1095390,2021-03-06,Brunswick,Virginia,51025.0,1213,17.0
-1097612,2021-03-07,Brunswick,North Carolina,37019.0,8116,137.0
-1098638,2021-03-07,Brunswick,Virginia,51025.0,1215,17.0
-1100858,2021-03-08,Brunswick,North Carolina,37019.0,8161,137.0
-1101884,2021-03-08,Brunswick,Virginia,51025.0,1218,19.0
-1104104,2021-03-09,Brunswick,North Carolina,37019.0,8176,137.0
-1105130,2021-03-09,Brunswick,Virginia,51025.0,1218,19.0
-1107350,2021-03-10,Brunswick,North Carolina,37019.0,8197,138.0
-1108376,2021-03-10,Brunswick,Virginia,51025.0,1219,20.0
-1110596,2021-03-11,Brunswick,North Carolina,37019.0,8218,138.0
-1111622,2021-03-11,Brunswick,Virginia,51025.0,1220,20.0
-1113842,2021-03-12,Brunswick,North Carolina,37019.0,8243,138.0
-1114868,2021-03-12,Brunswick,Virginia,51025.0,1222,20.0
-1117089,2021-03-13,Brunswick,North Carolina,37019.0,8251,138.0
-1118115,2021-03-13,Brunswick,Virginia,51025.0,1225,20.0
-1120336,2021-03-14,Brunswick,North Carolina,37019.0,8251,138.0
-1121362,2021-03-14,Brunswick,Virginia,51025.0,1230,20.0
-1123582,2021-03-15,Brunswick,North Carolina,37019.0,8296,138.0
-1124608,2021-03-15,Brunswick,Virginia,51025.0,1231,20.0
-1126828,2021-03-16,Brunswick,North Carolina,37019.0,8304,138.0
-1127854,2021-03-16,Brunswick,Virginia,51025.0,1234,20.0
-1130075,2021-03-17,Brunswick,North Carolina,37019.0,8322,141.0
-1131101,2021-03-17,Brunswick,Virginia,51025.0,1236,20.0
-1133323,2021-03-18,Brunswick,North Carolina,37019.0,8340,141.0
-1134349,2021-03-18,Brunswick,Virginia,51025.0,1237,20.0
-1136569,2021-03-19,Brunswick,North Carolina,37019.0,8369,141.0
-1137595,2021-03-19,Brunswick,Virginia,51025.0,1237,20.0
-1139815,2021-03-20,Brunswick,North Carolina,37019.0,8400,142.0
-1140841,2021-03-20,Brunswick,Virginia,51025.0,1237,20.0
-1143062,2021-03-21,Brunswick,North Carolina,37019.0,8400,142.0
-1144088,2021-03-21,Brunswick,Virginia,51025.0,1239,20.0
-1146309,2021-03-22,Brunswick,North Carolina,37019.0,8422,142.0
-1147335,2021-03-22,Brunswick,Virginia,51025.0,1239,20.0
-1149556,2021-03-23,Brunswick,North Carolina,37019.0,8426,142.0
-1150582,2021-03-23,Brunswick,Virginia,51025.0,1239,20.0
-1152803,2021-03-24,Brunswick,North Carolina,37019.0,8443,142.0
-1153829,2021-03-24,Brunswick,Virginia,51025.0,1241,20.0
-1156050,2021-03-25,Brunswick,North Carolina,37019.0,8473,142.0
-1157076,2021-03-25,Brunswick,Virginia,51025.0,1241,20.0
-1159297,2021-03-26,Brunswick,North Carolina,37019.0,8503,142.0
-1160324,2021-03-26,Brunswick,Virginia,51025.0,1246,20.0
-1162546,2021-03-27,Brunswick,North Carolina,37019.0,8503,142.0
-1163572,2021-03-27,Brunswick,Virginia,51025.0,1252,20.0
-1165794,2021-03-28,Brunswick,North Carolina,37019.0,8503,142.0
-1166820,2021-03-28,Brunswick,Virginia,51025.0,1252,20.0
-1169042,2021-03-29,Brunswick,North Carolina,37019.0,8547,142.0
-1170068,2021-03-29,Brunswick,Virginia,51025.0,1252,20.0
-1172289,2021-03-30,Brunswick,North Carolina,37019.0,8557,142.0
-1173315,2021-03-30,Brunswick,Virginia,51025.0,1255,20.0
-1175536,2021-03-31,Brunswick,North Carolina,37019.0,8567,143.0
-1176562,2021-03-31,Brunswick,Virginia,51025.0,1256,20.0
-1178783,2021-04-01,Brunswick,North Carolina,37019.0,8574,143.0
-1179809,2021-04-01,Brunswick,Virginia,51025.0,1259,20.0
-1182030,2021-04-02,Brunswick,North Carolina,37019.0,8574,143.0
-1183056,2021-04-02,Brunswick,Virginia,51025.0,1265,20.0
-1185277,2021-04-03,Brunswick,North Carolina,37019.0,8574,143.0
-1186303,2021-04-03,Brunswick,Virginia,51025.0,1267,20.0
-1188524,2021-04-04,Brunswick,North Carolina,37019.0,8574,143.0
-1189550,2021-04-04,Brunswick,Virginia,51025.0,1269,20.0
-1191773,2021-04-05,Brunswick,North Carolina,37019.0,8635,146.0
-1192800,2021-04-05,Brunswick,Virginia,51025.0,1269,20.0
-1195021,2021-04-06,Brunswick,North Carolina,37019.0,8640,147.0
-1196048,2021-04-06,Brunswick,Virginia,51025.0,1269,20.0
-1198270,2021-04-07,Brunswick,North Carolina,37019.0,8657,147.0
-1199297,2021-04-07,Brunswick,Virginia,51025.0,1269,20.0
-1201519,2021-04-08,Brunswick,North Carolina,37019.0,8679,147.0
-1202545,2021-04-08,Brunswick,Virginia,51025.0,1270,20.0
-1204767,2021-04-09,Brunswick,North Carolina,37019.0,8716,147.0
-1205793,2021-04-09,Brunswick,Virginia,51025.0,1271,20.0
-1208015,2021-04-10,Brunswick,North Carolina,37019.0,8716,147.0
-1209041,2021-04-10,Brunswick,Virginia,51025.0,1271,20.0
-1211264,2021-04-11,Brunswick,North Carolina,37019.0,8716,147.0
-1212290,2021-04-11,Brunswick,Virginia,51025.0,1271,20.0
-1214511,2021-04-12,Brunswick,North Carolina,37019.0,8758,147.0
-1215537,2021-04-12,Brunswick,Virginia,51025.0,1271,20.0
-1217759,2021-04-13,Brunswick,North Carolina,37019.0,8761,147.0
-1218785,2021-04-13,Brunswick,Virginia,51025.0,1276,20.0
-1221007,2021-04-14,Brunswick,North Carolina,37019.0,8778,147.0
-1222033,2021-04-14,Brunswick,Virginia,51025.0,1277,20.0
-1224254,2021-04-15,Brunswick,North Carolina,37019.0,8801,147.0
-1225280,2021-04-15,Brunswick,Virginia,51025.0,1276,20.0
-1227502,2021-04-16,Brunswick,North Carolina,37019.0,8819,147.0
-1228528,2021-04-16,Brunswick,Virginia,51025.0,1279,20.0
-1230750,2021-04-17,Brunswick,North Carolina,37019.0,8819,147.0
-1231776,2021-04-17,Brunswick,Virginia,51025.0,1282,20.0
-1233998,2021-04-18,Brunswick,North Carolina,37019.0,8819,147.0
-1235024,2021-04-18,Brunswick,Virginia,51025.0,1282,20.0
-1237245,2021-04-19,Brunswick,North Carolina,37019.0,8860,147.0
-1238271,2021-04-19,Brunswick,Virginia,51025.0,1283,20.0
-1240492,2021-04-20,Brunswick,North Carolina,37019.0,8865,148.0
-1241518,2021-04-20,Brunswick,Virginia,51025.0,1284,20.0
-1243739,2021-04-21,Brunswick,North Carolina,37019.0,8878,149.0
-1244765,2021-04-21,Brunswick,Virginia,51025.0,1287,21.0
-1246986,2021-04-22,Brunswick,North Carolina,37019.0,8889,149.0
-1248012,2021-04-22,Brunswick,Virginia,51025.0,1288,21.0
-1250233,2021-04-23,Brunswick,North Carolina,37019.0,8904,149.0
-1251259,2021-04-23,Brunswick,Virginia,51025.0,1289,21.0
-1253480,2021-04-24,Brunswick,North Carolina,37019.0,8904,149.0
-1254506,2021-04-24,Brunswick,Virginia,51025.0,1290,21.0
-1256727,2021-04-25,Brunswick,North Carolina,37019.0,8904,149.0
-1257753,2021-04-25,Brunswick,Virginia,51025.0,1290,21.0
-1259974,2021-04-26,Brunswick,North Carolina,37019.0,8957,150.0
-1261000,2021-04-26,Brunswick,Virginia,51025.0,1290,21.0
-1263221,2021-04-27,Brunswick,North Carolina,37019.0,8965,150.0
-1264247,2021-04-27,Brunswick,Virginia,51025.0,1293,21.0
-1266468,2021-04-28,Brunswick,North Carolina,37019.0,8983,152.0
-1267494,2021-04-28,Brunswick,Virginia,51025.0,1294,21.0
-1269715,2021-04-29,Brunswick,North Carolina,37019.0,8994,152.0
-1270741,2021-04-29,Brunswick,Virginia,51025.0,1294,21.0
-1272962,2021-04-30,Brunswick,North Carolina,37019.0,9012,152.0
-1273988,2021-04-30,Brunswick,Virginia,51025.0,1296,21.0
-1276209,2021-05-01,Brunswick,North Carolina,37019.0,9012,152.0
-1277235,2021-05-01,Brunswick,Virginia,51025.0,1296,21.0
-1279456,2021-05-02,Brunswick,North Carolina,37019.0,9012,152.0
-1280482,2021-05-02,Brunswick,Virginia,51025.0,1298,21.0
-1282703,2021-05-03,Brunswick,North Carolina,37019.0,9046,152.0
-1283729,2021-05-03,Brunswick,Virginia,51025.0,1301,21.0
-1285949,2021-05-04,Brunswick,North Carolina,37019.0,9054,152.0
-1286975,2021-05-04,Brunswick,Virginia,51025.0,1303,21.0
-1289195,2021-05-05,Brunswick,North Carolina,37019.0,9067,152.0
-1290221,2021-05-05,Brunswick,Virginia,51025.0,1308,21.0
-1292441,2021-05-06,Brunswick,North Carolina,37019.0,9079,152.0
-1293467,2021-05-06,Brunswick,Virginia,51025.0,1308,21.0
-1295687,2021-05-07,Brunswick,North Carolina,37019.0,9099,152.0
-1296713,2021-05-07,Brunswick,Virginia,51025.0,1309,22.0
-1298933,2021-05-08,Brunswick,North Carolina,37019.0,9099,152.0
-1299960,2021-05-08,Brunswick,Virginia,51025.0,1310,22.0
-1302181,2021-05-09,Brunswick,North Carolina,37019.0,9099,152.0
-1303207,2021-05-09,Brunswick,Virginia,51025.0,1311,22.0
-1305427,2021-05-10,Brunswick,North Carolina,37019.0,9122,152.0
-1306453,2021-05-10,Brunswick,Virginia,51025.0,1311,22.0
-1308673,2021-05-11,Brunswick,North Carolina,37019.0,9125,152.0
-1309699,2021-05-11,Brunswick,Virginia,51025.0,1312,22.0
-1311920,2021-05-12,Brunswick,North Carolina,37019.0,9136,152.0
-1312946,2021-05-12,Brunswick,Virginia,51025.0,1312,22.0
-1315166,2021-05-13,Brunswick,North Carolina,37019.0,9146,153.0
-1316192,2021-05-13,Brunswick,Virginia,51025.0,1312,22.0
-1318414,2021-05-14,Brunswick,North Carolina,37019.0,9160,153.0
-1319440,2021-05-14,Brunswick,Virginia,51025.0,1314,22.0
-1321660,2021-05-15,Brunswick,North Carolina,37019.0,9160,153.0
-1322686,2021-05-15,Brunswick,Virginia,51025.0,1317,22.0
-1324906,2021-05-16,Brunswick,North Carolina,37019.0,9160,153.0
-1325932,2021-05-16,Brunswick,Virginia,51025.0,1318,22.0
-1328152,2021-05-17,Brunswick,North Carolina,37019.0,9173,153.0
-1329178,2021-05-17,Brunswick,Virginia,51025.0,1318,22.0
-1331399,2021-05-18,Brunswick,North Carolina,37019.0,9176,153.0
-1332425,2021-05-18,Brunswick,Virginia,51025.0,1318,22.0
-1334646,2021-05-19,Brunswick,North Carolina,37019.0,9181,153.0
-1335672,2021-05-19,Brunswick,Virginia,51025.0,1319,22.0
-1337893,2021-05-20,Brunswick,North Carolina,37019.0,9191,153.0
-1338919,2021-05-20,Brunswick,Virginia,51025.0,1320,23.0
-1341141,2021-05-21,Brunswick,North Carolina,37019.0,9202,153.0
-1342167,2021-05-21,Brunswick,Virginia,51025.0,1322,23.0
-1344389,2021-05-22,Brunswick,North Carolina,37019.0,9202,153.0
-1345415,2021-05-22,Brunswick,Virginia,51025.0,1323,23.0
-1347637,2021-05-23,Brunswick,North Carolina,37019.0,9202,153.0
-1348663,2021-05-23,Brunswick,Virginia,51025.0,1324,23.0
-1350883,2021-05-24,Brunswick,North Carolina,37019.0,9227,153.0
-1351909,2021-05-24,Brunswick,Virginia,51025.0,1324,23.0
-1354129,2021-05-25,Brunswick,North Carolina,37019.0,9229,153.0
-1355155,2021-05-25,Brunswick,Virginia,51025.0,1325,23.0
-1357375,2021-05-26,Brunswick,North Carolina,37019.0,9236,153.0
-1358401,2021-05-26,Brunswick,Virginia,51025.0,1325,23.0
-1360621,2021-05-27,Brunswick,North Carolina,37019.0,9248,153.0
-1361647,2021-05-27,Brunswick,Virginia,51025.0,1326,23.0
-1363867,2021-05-28,Brunswick,North Carolina,37019.0,9250,153.0
-1364893,2021-05-28,Brunswick,Virginia,51025.0,1326,23.0
-1367113,2021-05-29,Brunswick,North Carolina,37019.0,9250,153.0
-1368139,2021-05-29,Brunswick,Virginia,51025.0,1326,23.0
-1370359,2021-05-30,Brunswick,North Carolina,37019.0,9250,153.0
-1371385,2021-05-30,Brunswick,Virginia,51025.0,1326,23.0
-1373604,2021-05-31,Brunswick,North Carolina,37019.0,9250,153.0
-1374630,2021-05-31,Brunswick,Virginia,51025.0,1327,23.0
-1376850,2021-06-01,Brunswick,North Carolina,37019.0,9261,153.0
-1377876,2021-06-01,Brunswick,Virginia,51025.0,1327,24.0
-1380095,2021-06-02,Brunswick,North Carolina,37019.0,9262,153.0
-1381121,2021-06-02,Brunswick,Virginia,51025.0,1327,24.0
-1383341,2021-06-03,Brunswick,North Carolina,37019.0,9268,153.0
-1384367,2021-06-03,Brunswick,Virginia,51025.0,1328,24.0
-1386586,2021-06-04,Brunswick,North Carolina,37019.0,9274,153.0
-1387612,2021-06-04,Brunswick,Virginia,51025.0,1328,24.0
-1389831,2021-06-05,Brunswick,North Carolina,37019.0,9274,153.0
-1390857,2021-06-05,Brunswick,Virginia,51025.0,1327,24.0
-1393076,2021-06-06,Brunswick,North Carolina,37019.0,9274,153.0
-1394102,2021-06-06,Brunswick,Virginia,51025.0,1327,24.0
-1396323,2021-06-07,Brunswick,North Carolina,37019.0,9285,154.0
-1397349,2021-06-07,Brunswick,Virginia,51025.0,1327,24.0
-1399568,2021-06-08,Brunswick,North Carolina,37019.0,9286,154.0
-1400594,2021-06-08,Brunswick,Virginia,51025.0,1328,24.0
-1402813,2021-06-09,Brunswick,North Carolina,37019.0,9291,154.0
-1403839,2021-06-09,Brunswick,Virginia,51025.0,1331,24.0
-1406059,2021-06-10,Brunswick,North Carolina,37019.0,9297,154.0
-1407085,2021-06-10,Brunswick,Virginia,51025.0,1335,24.0
-1409304,2021-06-11,Brunswick,North Carolina,37019.0,9301,154.0
-1410330,2021-06-11,Brunswick,Virginia,51025.0,1338,24.0
-1412549,2021-06-12,Brunswick,North Carolina,37019.0,9301,154.0
-1413575,2021-06-12,Brunswick,Virginia,51025.0,1337,24.0
-1415795,2021-06-13,Brunswick,North Carolina,37019.0,9301,154.0
-1416821,2021-06-13,Brunswick,Virginia,51025.0,1337,24.0
-1419040,2021-06-14,Brunswick,North Carolina,37019.0,9303,155.0
-1420066,2021-06-14,Brunswick,Virginia,51025.0,1337,24.0
-1422286,2021-06-15,Brunswick,North Carolina,37019.0,9302,155.0
-1423313,2021-06-15,Brunswick,Virginia,51025.0,1337,24.0
-1425533,2021-06-16,Brunswick,North Carolina,37019.0,9303,155.0
-1426559,2021-06-16,Brunswick,Virginia,51025.0,1337,24.0
-1428778,2021-06-17,Brunswick,North Carolina,37019.0,9308,155.0
-1429804,2021-06-17,Brunswick,Virginia,51025.0,1337,24.0
-1432024,2021-06-18,Brunswick,North Carolina,37019.0,9317,155.0
-1433050,2021-06-18,Brunswick,Virginia,51025.0,1337,24.0
-1435271,2021-06-19,Brunswick,North Carolina,37019.0,9317,155.0
-1436297,2021-06-19,Brunswick,Virginia,51025.0,1335,24.0
-1438518,2021-06-20,Brunswick,North Carolina,37019.0,9317,155.0
-1439544,2021-06-20,Brunswick,Virginia,51025.0,1335,24.0
-1441763,2021-06-21,Brunswick,North Carolina,37019.0,9325,155.0
-1442789,2021-06-21,Brunswick,Virginia,51025.0,1335,24.0
-1445008,2021-06-22,Brunswick,North Carolina,37019.0,9326,155.0
-1446034,2021-06-22,Brunswick,Virginia,51025.0,1335,24.0
-1448253,2021-06-23,Brunswick,North Carolina,37019.0,9326,155.0
-1449279,2021-06-23,Brunswick,Virginia,51025.0,1336,25.0
-1451499,2021-06-24,Brunswick,North Carolina,37019.0,9329,155.0
-1452525,2021-06-24,Brunswick,Virginia,51025.0,1336,25.0
-1454744,2021-06-25,Brunswick,North Carolina,37019.0,9332,155.0
-1455770,2021-06-25,Brunswick,Virginia,51025.0,1336,25.0
-1457989,2021-06-26,Brunswick,North Carolina,37019.0,9332,155.0
-1459015,2021-06-26,Brunswick,Virginia,51025.0,1336,25.0
-1461234,2021-06-27,Brunswick,North Carolina,37019.0,9332,155.0
-1462260,2021-06-27,Brunswick,Virginia,51025.0,1336,25.0
-1464479,2021-06-28,Brunswick,North Carolina,37019.0,9335,156.0
-1465505,2021-06-28,Brunswick,Virginia,51025.0,1336,25.0
-1467724,2021-06-29,Brunswick,North Carolina,37019.0,9336,156.0
-1468750,2021-06-29,Brunswick,Virginia,51025.0,1337,25.0
-1470969,2021-06-30,Brunswick,North Carolina,37019.0,9336,156.0
-1471995,2021-06-30,Brunswick,Virginia,51025.0,1338,25.0
-1474215,2021-07-01,Brunswick,North Carolina,37019.0,9337,156.0
-1475241,2021-07-01,Brunswick,Virginia,51025.0,1339,25.0
-1477461,2021-07-02,Brunswick,North Carolina,37019.0,9342,156.0
-1478487,2021-07-02,Brunswick,Virginia,51025.0,1339,25.0
-1480708,2021-07-03,Brunswick,North Carolina,37019.0,9342,156.0
-1481734,2021-07-03,Brunswick,Virginia,51025.0,1339,25.0
-1483954,2021-07-04,Brunswick,North Carolina,37019.0,9342,156.0
-1484980,2021-07-04,Brunswick,Virginia,51025.0,1339,25.0
-1487200,2021-07-05,Brunswick,North Carolina,37019.0,9342,156.0
-1488227,2021-07-05,Brunswick,Virginia,51025.0,1339,25.0
-1490447,2021-07-06,Brunswick,North Carolina,37019.0,9374,156.0
-1491474,2021-07-06,Brunswick,Virginia,51025.0,1339,25.0
-1493694,2021-07-07,Brunswick,North Carolina,37019.0,9382,156.0
-1494721,2021-07-07,Brunswick,Virginia,51025.0,1341,25.0
-1496941,2021-07-08,Brunswick,North Carolina,37019.0,9393,156.0
-1497968,2021-07-08,Brunswick,Virginia,51025.0,1341,25.0
-1500187,2021-07-09,Brunswick,North Carolina,37019.0,9402,156.0
-1501214,2021-07-09,Brunswick,Virginia,51025.0,1342,25.0
-1503433,2021-07-10,Brunswick,North Carolina,37019.0,9402,156.0
-1504460,2021-07-10,Brunswick,Virginia,51025.0,1342,25.0
-1506679,2021-07-11,Brunswick,North Carolina,37019.0,9402,156.0
-1507706,2021-07-11,Brunswick,Virginia,51025.0,1342,25.0
-1509926,2021-07-12,Brunswick,North Carolina,37019.0,9436,156.0
-1510953,2021-07-12,Brunswick,Virginia,51025.0,1342,25.0
-1513172,2021-07-13,Brunswick,North Carolina,37019.0,9448,156.0
-1514199,2021-07-13,Brunswick,Virginia,51025.0,1344,25.0
-1516419,2021-07-14,Brunswick,North Carolina,37019.0,9460,156.0
-1517446,2021-07-14,Brunswick,Virginia,51025.0,1345,25.0
-1519667,2021-07-15,Brunswick,North Carolina,37019.0,9469,156.0
-1520694,2021-07-15,Brunswick,Virginia,51025.0,1346,25.0
-1522915,2021-07-16,Brunswick,North Carolina,37019.0,9490,156.0
-1523942,2021-07-16,Brunswick,Virginia,51025.0,1346,25.0
-1526162,2021-07-17,Brunswick,North Carolina,37019.0,9490,156.0
-1527189,2021-07-17,Brunswick,Virginia,51025.0,1346,25.0
-1529409,2021-07-18,Brunswick,North Carolina,37019.0,9490,156.0
-1530436,2021-07-18,Brunswick,Virginia,51025.0,1346,25.0
-1532656,2021-07-19,Brunswick,North Carolina,37019.0,9523,156.0
-1533683,2021-07-19,Brunswick,Virginia,51025.0,1347,25.0
-1535904,2021-07-20,Brunswick,North Carolina,37019.0,9528,156.0
-1536931,2021-07-20,Brunswick,Virginia,51025.0,1349,25.0
-1539151,2021-07-21,Brunswick,North Carolina,37019.0,9539,156.0
-1540178,2021-07-21,Brunswick,Virginia,51025.0,1349,25.0
-1542399,2021-07-22,Brunswick,North Carolina,37019.0,9560,156.0
-1543426,2021-07-22,Brunswick,Virginia,51025.0,1349,25.0
-1545646,2021-07-23,Brunswick,North Carolina,37019.0,9588,156.0
-1546673,2021-07-23,Brunswick,Virginia,51025.0,1350,25.0
-1548893,2021-07-24,Brunswick,North Carolina,37019.0,9588,156.0
-1549920,2021-07-24,Brunswick,Virginia,51025.0,1350,25.0
-1552140,2021-07-25,Brunswick,North Carolina,37019.0,9588,156.0
-1553167,2021-07-25,Brunswick,Virginia,51025.0,1350,25.0
-1555387,2021-07-26,Brunswick,North Carolina,37019.0,9681,158.0
-1556414,2021-07-26,Brunswick,Virginia,51025.0,1350,25.0
-1558634,2021-07-27,Brunswick,North Carolina,37019.0,9701,158.0
-1559661,2021-07-27,Brunswick,Virginia,51025.0,1353,25.0
-1561882,2021-07-28,Brunswick,North Carolina,37019.0,9746,158.0
-1562909,2021-07-28,Brunswick,Virginia,51025.0,1353,25.0
-1565130,2021-07-29,Brunswick,North Carolina,37019.0,9803,158.0
-1566157,2021-07-29,Brunswick,Virginia,51025.0,1353,25.0
-1568378,2021-07-30,Brunswick,North Carolina,37019.0,9857,159.0
-1569405,2021-07-30,Brunswick,Virginia,51025.0,1356,25.0
-1571626,2021-07-31,Brunswick,North Carolina,37019.0,9857,159.0
-1572653,2021-07-31,Brunswick,Virginia,51025.0,1356,25.0
-1574874,2021-08-01,Brunswick,North Carolina,37019.0,9857,159.0
-1575901,2021-08-01,Brunswick,Virginia,51025.0,1356,25.0
-1578122,2021-08-02,Brunswick,North Carolina,37019.0,10019,161.0
-1579149,2021-08-02,Brunswick,Virginia,51025.0,1359,25.0
-1581371,2021-08-03,Brunswick,North Carolina,37019.0,10073,161.0
-1582399,2021-08-03,Brunswick,Virginia,51025.0,1364,25.0
-1584621,2021-08-04,Brunswick,North Carolina,37019.0,10139,162.0
-1585649,2021-08-04,Brunswick,Virginia,51025.0,1369,25.0
-1587871,2021-08-05,Brunswick,North Carolina,37019.0,10229,163.0
-1588898,2021-08-05,Brunswick,Virginia,51025.0,1370,25.0
-1591120,2021-08-06,Brunswick,North Carolina,37019.0,10314,163.0
-1592147,2021-08-06,Brunswick,Virginia,51025.0,1379,25.0
-1594369,2021-08-07,Brunswick,North Carolina,37019.0,10314,163.0
-1595396,2021-08-07,Brunswick,Virginia,51025.0,1379,25.0
-1597618,2021-08-08,Brunswick,North Carolina,37019.0,10314,163.0
-1598645,2021-08-08,Brunswick,Virginia,51025.0,1379,25.0
-1600866,2021-08-09,Brunswick,North Carolina,37019.0,10692,164.0
-1601893,2021-08-09,Brunswick,Virginia,51025.0,1384,25.0
-1604115,2021-08-10,Brunswick,North Carolina,37019.0,10754,164.0
-1605143,2021-08-10,Brunswick,Virginia,51025.0,1386,25.0
-1607364,2021-08-11,Brunswick,North Carolina,37019.0,10831,166.0
-1608392,2021-08-11,Brunswick,Virginia,51025.0,1390,25.0
-1610612,2021-08-12,Brunswick,North Carolina,37019.0,10954,167.0
-1611639,2021-08-12,Brunswick,Virginia,51025.0,1392,25.0
-1613861,2021-08-13,Brunswick,North Carolina,37019.0,11056,167.0
-1614888,2021-08-13,Brunswick,Virginia,51025.0,1394,25.0
-1617109,2021-08-14,Brunswick,North Carolina,37019.0,11056,167.0
-1618136,2021-08-14,Brunswick,Virginia,51025.0,1394,25.0
-1620357,2021-08-15,Brunswick,North Carolina,37019.0,11056,167.0
-1621384,2021-08-15,Brunswick,Virginia,51025.0,1394,25.0
-1623604,2021-08-16,Brunswick,North Carolina,37019.0,11336,169.0
-1624631,2021-08-16,Brunswick,Virginia,51025.0,1407,25.0
-1626851,2021-08-17,Brunswick,North Carolina,37019.0,11400,170.0
-1627878,2021-08-17,Brunswick,Virginia,51025.0,1416,25.0
-1630098,2021-08-18,Brunswick,North Carolina,37019.0,11498,171.0
-1631125,2021-08-18,Brunswick,Virginia,51025.0,1425,25.0
-1633345,2021-08-19,Brunswick,North Carolina,37019.0,11612,171.0
-1634373,2021-08-19,Brunswick,Virginia,51025.0,1430,25.0
-1636595,2021-08-20,Brunswick,North Carolina,37019.0,11730,172.0
-1637623,2021-08-20,Brunswick,Virginia,51025.0,1442,25.0
-1639845,2021-08-21,Brunswick,North Carolina,37019.0,11730,172.0
-1640873,2021-08-21,Brunswick,Virginia,51025.0,1442,25.0
-1643095,2021-08-22,Brunswick,North Carolina,37019.0,11730,172.0
-1644123,2021-08-22,Brunswick,Virginia,51025.0,1442,25.0
-1646344,2021-08-23,Brunswick,North Carolina,37019.0,12016,173.0
-1647372,2021-08-23,Brunswick,Virginia,51025.0,1454,26.0
-1649593,2021-08-24,Brunswick,North Carolina,37019.0,12097,173.0
-1650621,2021-08-24,Brunswick,Virginia,51025.0,1464,26.0
-1652841,2021-08-25,Brunswick,North Carolina,37019.0,12177,175.0
-1653867,2021-08-25,Brunswick,Virginia,51025.0,1471,27.0
-1656088,2021-08-26,Brunswick,North Carolina,37019.0,12328,176.0
-1657114,2021-08-26,Brunswick,Virginia,51025.0,1491,27.0
-1659337,2021-08-27,Brunswick,North Carolina,37019.0,12419,180.0
-1660363,2021-08-27,Brunswick,Virginia,51025.0,1496,27.0
-1662585,2021-08-28,Brunswick,North Carolina,37019.0,12419,180.0
-1663611,2021-08-28,Brunswick,Virginia,51025.0,1496,27.0
-1665833,2021-08-29,Brunswick,North Carolina,37019.0,12419,180.0
-1666859,2021-08-29,Brunswick,Virginia,51025.0,1496,27.0
-1669080,2021-08-30,Brunswick,North Carolina,37019.0,12710,180.0
-1670106,2021-08-30,Brunswick,Virginia,51025.0,1511,27.0
-1672328,2021-08-31,Brunswick,North Carolina,37019.0,12780,181.0
-1673354,2021-08-31,Brunswick,Virginia,51025.0,1520,27.0
-1675575,2021-09-01,Brunswick,North Carolina,37019.0,12883,183.0
-1676601,2021-09-01,Brunswick,Virginia,51025.0,1534,27.0
-1678823,2021-09-02,Brunswick,North Carolina,37019.0,13004,185.0
-1679849,2021-09-02,Brunswick,Virginia,51025.0,1550,27.0
-1682072,2021-09-03,Brunswick,North Carolina,37019.0,13130,186.0
-1683099,2021-09-03,Brunswick,Virginia,51025.0,1556,27.0
-1685323,2021-09-04,Brunswick,North Carolina,37019.0,13130,186.0
-1686350,2021-09-04,Brunswick,Virginia,51025.0,1556,27.0
-1688573,2021-09-05,Brunswick,North Carolina,37019.0,13130,186.0
-1689600,2021-09-05,Brunswick,Virginia,51025.0,1556,27.0
-1691823,2021-09-06,Brunswick,North Carolina,37019.0,13130,186.0
-1692849,2021-09-06,Brunswick,Virginia,51025.0,1569,27.0
-1695071,2021-09-07,Brunswick,North Carolina,37019.0,13460,186.0
-1696097,2021-09-07,Brunswick,Virginia,51025.0,1570,27.0
-1698319,2021-09-08,Brunswick,North Carolina,37019.0,13538,186.0
-1699345,2021-09-08,Brunswick,Virginia,51025.0,1577,28.0
-1701568,2021-09-09,Brunswick,North Carolina,37019.0,13608,187.0
-1702594,2021-09-09,Brunswick,Virginia,51025.0,1591,28.0
-1704818,2021-09-10,Brunswick,North Carolina,37019.0,13666,187.0
-1705844,2021-09-10,Brunswick,Virginia,51025.0,1593,28.0
-1708065,2021-09-11,Brunswick,North Carolina,37019.0,13666,187.0
-1709091,2021-09-11,Brunswick,Virginia,51025.0,1593,28.0
-1711312,2021-09-12,Brunswick,North Carolina,37019.0,13666,187.0
-1712338,2021-09-12,Brunswick,Virginia,51025.0,1593,28.0
-1714558,2021-09-13,Brunswick,North Carolina,37019.0,13950,187.0
-1715584,2021-09-13,Brunswick,Virginia,51025.0,1609,29.0
-1717806,2021-09-14,Brunswick,North Carolina,37019.0,14011,187.0
-1718832,2021-09-14,Brunswick,Virginia,51025.0,1614,29.0
-1721054,2021-09-15,Brunswick,North Carolina,37019.0,14156,189.0
-1722080,2021-09-15,Brunswick,Virginia,51025.0,1619,29.0
-1724303,2021-09-16,Brunswick,North Carolina,37019.0,14231,191.0
-1725329,2021-09-16,Brunswick,Virginia,51025.0,1627,29.0
-1727552,2021-09-17,Brunswick,North Carolina,37019.0,14373,192.0
-1728579,2021-09-17,Brunswick,Virginia,51025.0,1637,29.0
-1730802,2021-09-18,Brunswick,North Carolina,37019.0,14373,192.0
-1731829,2021-09-18,Brunswick,Virginia,51025.0,1637,29.0
-1734052,2021-09-19,Brunswick,North Carolina,37019.0,14373,192.0
-1735079,2021-09-19,Brunswick,Virginia,51025.0,1637,29.0
-1737302,2021-09-20,Brunswick,North Carolina,37019.0,14576,193.0
-1738328,2021-09-20,Brunswick,Virginia,51025.0,1653,29.0
-1740551,2021-09-21,Brunswick,North Carolina,37019.0,14652,196.0
-1741577,2021-09-21,Brunswick,Virginia,51025.0,1653,29.0
-1743800,2021-09-22,Brunswick,North Carolina,37019.0,14735,204.0
-1744826,2021-09-22,Brunswick,Virginia,51025.0,1658,29.0
-1747049,2021-09-23,Brunswick,North Carolina,37019.0,14849,207.0
-1748076,2021-09-23,Brunswick,Virginia,51025.0,1663,29.0
-1750299,2021-09-24,Brunswick,North Carolina,37019.0,14927,210.0
-1751325,2021-09-24,Brunswick,Virginia,51025.0,1671,29.0
-1753547,2021-09-25,Brunswick,North Carolina,37019.0,14927,210.0
-1754573,2021-09-25,Brunswick,Virginia,51025.0,1671,29.0
-1756795,2021-09-26,Brunswick,North Carolina,37019.0,14927,210.0
-1757821,2021-09-26,Brunswick,Virginia,51025.0,1671,29.0
-1760043,2021-09-27,Brunswick,North Carolina,37019.0,15108,211.0
-1761069,2021-09-27,Brunswick,Virginia,51025.0,1684,29.0
-1763292,2021-09-28,Brunswick,North Carolina,37019.0,15156,212.0
-1764318,2021-09-28,Brunswick,Virginia,51025.0,1690,29.0
-1766541,2021-09-29,Brunswick,North Carolina,37019.0,15246,214.0
-1767567,2021-09-29,Brunswick,Virginia,51025.0,1693,29.0
-1769790,2021-09-30,Brunswick,North Carolina,37019.0,15310,214.0
-1770816,2021-09-30,Brunswick,Virginia,51025.0,1697,30.0
-1773040,2021-10-01,Brunswick,North Carolina,37019.0,15348,216.0
-1774066,2021-10-01,Brunswick,Virginia,51025.0,1706,30.0
-1776290,2021-10-02,Brunswick,North Carolina,37019.0,15348,216.0
-1777316,2021-10-02,Brunswick,Virginia,51025.0,1706,30.0
-1779540,2021-10-03,Brunswick,North Carolina,37019.0,15348,216.0
-1780566,2021-10-03,Brunswick,Virginia,51025.0,1706,30.0
-1782789,2021-10-04,Brunswick,North Carolina,37019.0,15497,220.0
-1783815,2021-10-04,Brunswick,Virginia,51025.0,1719,30.0
-1786038,2021-10-05,Brunswick,North Carolina,37019.0,15532,223.0
-1787064,2021-10-05,Brunswick,Virginia,51025.0,1720,30.0
-1789286,2021-10-06,Brunswick,North Carolina,37019.0,15587,224.0
-1790312,2021-10-06,Brunswick,Virginia,51025.0,1732,31.0
-1792535,2021-10-07,Brunswick,North Carolina,37019.0,15651,224.0
-1793561,2021-10-07,Brunswick,Virginia,51025.0,1739,31.0
-1795784,2021-10-08,Brunswick,North Carolina,37019.0,15701,224.0
-1796810,2021-10-08,Brunswick,Virginia,51025.0,1741,32.0
-1799033,2021-10-09,Brunswick,North Carolina,37019.0,15701,224.0
-1800059,2021-10-09,Brunswick,Virginia,51025.0,1741,32.0
-1802282,2021-10-10,Brunswick,North Carolina,37019.0,15701,224.0
-1803308,2021-10-10,Brunswick,Virginia,51025.0,1741,32.0
-1805531,2021-10-11,Brunswick,North Carolina,37019.0,15802,227.0
-1806558,2021-10-11,Brunswick,Virginia,51025.0,1741,32.0
-1808782,2021-10-12,Brunswick,North Carolina,37019.0,15841,228.0
-1809808,2021-10-12,Brunswick,Virginia,51025.0,1753,31.0
-1812031,2021-10-13,Brunswick,North Carolina,37019.0,15873,228.0
-1813057,2021-10-13,Brunswick,Virginia,51025.0,1758,32.0
-1815279,2021-10-14,Brunswick,North Carolina,37019.0,15915,229.0
-1816305,2021-10-14,Brunswick,Virginia,51025.0,1760,32.0
-1818528,2021-10-15,Brunswick,North Carolina,37019.0,15967,230.0
-1819554,2021-10-15,Brunswick,Virginia,51025.0,1765,32.0
-1821777,2021-10-16,Brunswick,North Carolina,37019.0,15967,230.0
-1822803,2021-10-16,Brunswick,Virginia,51025.0,1765,32.0
-1825026,2021-10-17,Brunswick,North Carolina,37019.0,15967,230.0
-1826052,2021-10-17,Brunswick,Virginia,51025.0,1765,32.0
-1828275,2021-10-18,Brunswick,North Carolina,37019.0,16040,231.0
-1829301,2021-10-18,Brunswick,Virginia,51025.0,1774,32.0
-1831524,2021-10-19,Brunswick,North Carolina,37019.0,16055,232.0
-1832550,2021-10-19,Brunswick,Virginia,51025.0,1774,32.0
-1834773,2021-10-20,Brunswick,North Carolina,37019.0,16090,233.0
-1835799,2021-10-20,Brunswick,Virginia,51025.0,1781,32.0
-1838022,2021-10-21,Brunswick,North Carolina,37019.0,16115,233.0
-1839048,2021-10-21,Brunswick,Virginia,51025.0,1786,32.0
-1841271,2021-10-22,Brunswick,North Carolina,37019.0,16149,233.0
-1842297,2021-10-22,Brunswick,Virginia,51025.0,1788,32.0
-1844521,2021-10-23,Brunswick,North Carolina,37019.0,16149,233.0
-1845547,2021-10-23,Brunswick,Virginia,51025.0,1788,32.0
-1847771,2021-10-24,Brunswick,North Carolina,37019.0,16149,233.0
-1848797,2021-10-24,Brunswick,Virginia,51025.0,1788,32.0
-1851021,2021-10-25,Brunswick,North Carolina,37019.0,16204,234.0
-1852047,2021-10-25,Brunswick,Virginia,51025.0,1794,32.0
-1854270,2021-10-26,Brunswick,North Carolina,37019.0,16218,234.0
-1855296,2021-10-26,Brunswick,Virginia,51025.0,1799,32.0
-1857519,2021-10-27,Brunswick,North Carolina,37019.0,16239,236.0
-1858545,2021-10-27,Brunswick,Virginia,51025.0,1802,32.0
-1860768,2021-10-28,Brunswick,North Carolina,37019.0,16265,236.0
-1861794,2021-10-28,Brunswick,Virginia,51025.0,1803,32.0
-1864017,2021-10-29,Brunswick,North Carolina,37019.0,16298,238.0
-1865043,2021-10-29,Brunswick,Virginia,51025.0,1803,32.0
-1867266,2021-10-30,Brunswick,North Carolina,37019.0,16298,238.0
-1868292,2021-10-30,Brunswick,Virginia,51025.0,1803,32.0
-1870515,2021-10-31,Brunswick,North Carolina,37019.0,16298,238.0
-1871541,2021-10-31,Brunswick,Virginia,51025.0,1803,32.0
-1873764,2021-11-01,Brunswick,North Carolina,37019.0,16342,240.0
-1874790,2021-11-01,Brunswick,Virginia,51025.0,1812,32.0
-1877013,2021-11-02,Brunswick,North Carolina,37019.0,16358,240.0
-1878039,2021-11-02,Brunswick,Virginia,51025.0,1815,32.0
-1880262,2021-11-03,Brunswick,North Carolina,37019.0,16375,240.0
-1881288,2021-11-03,Brunswick,Virginia,51025.0,1816,32.0
-1883511,2021-11-04,Brunswick,North Carolina,37019.0,16397,240.0
-1884537,2021-11-04,Brunswick,Virginia,51025.0,1818,32.0
-1886760,2021-11-05,Brunswick,North Carolina,37019.0,16409,240.0
-1887787,2021-11-05,Brunswick,Virginia,51025.0,1820,32.0
-1890010,2021-11-06,Brunswick,North Carolina,37019.0,16409,240.0
-1891037,2021-11-06,Brunswick,Virginia,51025.0,1820,32.0
-1893260,2021-11-07,Brunswick,North Carolina,37019.0,16409,240.0
-1894287,2021-11-07,Brunswick,Virginia,51025.0,1820,32.0
-1896510,2021-11-08,Brunswick,North Carolina,37019.0,16443,241.0
-1897537,2021-11-08,Brunswick,Virginia,51025.0,1824,32.0
-1899760,2021-11-09,Brunswick,North Carolina,37019.0,16465,243.0
-1900787,2021-11-09,Brunswick,Virginia,51025.0,1825,33.0
-1903010,2021-11-10,Brunswick,North Carolina,37019.0,16491,243.0
-1904037,2021-11-10,Brunswick,Virginia,51025.0,1824,33.0
-1906259,2021-11-11,Brunswick,North Carolina,37019.0,16491,243.0
-1907286,2021-11-11,Brunswick,Virginia,51025.0,1830,33.0
-1909508,2021-11-12,Brunswick,North Carolina,37019.0,16529,243.0
-1910535,2021-11-12,Brunswick,Virginia,51025.0,1833,33.0
-1912758,2021-11-13,Brunswick,North Carolina,37019.0,16529,243.0
-1913785,2021-11-13,Brunswick,Virginia,51025.0,1833,33.0
-1916008,2021-11-14,Brunswick,North Carolina,37019.0,16529,243.0
-1917035,2021-11-14,Brunswick,Virginia,51025.0,1833,33.0
-1919258,2021-11-15,Brunswick,North Carolina,37019.0,16588,243.0
-1920285,2021-11-15,Brunswick,Virginia,51025.0,1836,33.0
-1922508,2021-11-16,Brunswick,North Carolina,37019.0,16609,243.0
-1923534,2021-11-16,Brunswick,Virginia,51025.0,1837,33.0
-1925757,2021-11-17,Brunswick,North Carolina,37019.0,16632,243.0
-1926784,2021-11-17,Brunswick,Virginia,51025.0,1839,33.0
-1929007,2021-11-18,Brunswick,North Carolina,37019.0,16643,243.0
-1930034,2021-11-18,Brunswick,Virginia,51025.0,1839,33.0
-1932258,2021-11-19,Brunswick,North Carolina,37019.0,16661,243.0
-1933286,2021-11-19,Brunswick,Virginia,51025.0,1840,33.0
-1935508,2021-11-20,Brunswick,North Carolina,37019.0,16661,243.0
-1936536,2021-11-20,Brunswick,Virginia,51025.0,1840,33.0
-1938758,2021-11-21,Brunswick,North Carolina,37019.0,16661,243.0
-1939786,2021-11-21,Brunswick,Virginia,51025.0,1840,33.0
-1942008,2021-11-22,Brunswick,North Carolina,37019.0,16724,244.0
-1943036,2021-11-22,Brunswick,Virginia,51025.0,1841,34.0
-1945259,2021-11-23,Brunswick,North Carolina,37019.0,16743,245.0
-1946287,2021-11-23,Brunswick,Virginia,51025.0,1844,34.0
-1948510,2021-11-24,Brunswick,North Carolina,37019.0,16771,245.0
-1949538,2021-11-24,Brunswick,Virginia,51025.0,1846,35.0
-1951761,2021-11-25,Brunswick,North Carolina,37019.0,16771,245.0
-1952789,2021-11-25,Brunswick,Virginia,51025.0,1848,35.0
-1955012,2021-11-26,Brunswick,North Carolina,37019.0,16771,245.0
-1956040,2021-11-26,Brunswick,Virginia,51025.0,1849,35.0
-1958263,2021-11-27,Brunswick,North Carolina,37019.0,16771,245.0
-1959291,2021-11-27,Brunswick,Virginia,51025.0,1849,35.0
-1961514,2021-11-28,Brunswick,North Carolina,37019.0,16771,245.0
-1962542,2021-11-28,Brunswick,Virginia,51025.0,1849,35.0
-1964766,2021-11-29,Brunswick,North Carolina,37019.0,16857,245.0
-1965794,2021-11-29,Brunswick,Virginia,51025.0,1850,35.0
-1968017,2021-11-30,Brunswick,North Carolina,37019.0,16884,245.0
-1969044,2021-11-30,Brunswick,Virginia,51025.0,1851,35.0
-1971267,2021-12-01,Brunswick,North Carolina,37019.0,16926,245.0
-1972294,2021-12-01,Brunswick,Virginia,51025.0,1853,35.0
-1974516,2021-12-02,Brunswick,North Carolina,37019.0,16971,246.0
-1975543,2021-12-02,Brunswick,Virginia,51025.0,1854,35.0
-1977766,2021-12-03,Brunswick,North Carolina,37019.0,17026,246.0
-1978793,2021-12-03,Brunswick,Virginia,51025.0,1857,35.0
-1981016,2021-12-04,Brunswick,North Carolina,37019.0,17026,246.0
-1982043,2021-12-04,Brunswick,Virginia,51025.0,1857,35.0
-1984266,2021-12-05,Brunswick,North Carolina,37019.0,17026,246.0
-1985293,2021-12-05,Brunswick,Virginia,51025.0,1857,35.0
-1987516,2021-12-06,Brunswick,North Carolina,37019.0,17153,246.0
-1988543,2021-12-06,Brunswick,Virginia,51025.0,1859,35.0
-1990767,2021-12-07,Brunswick,North Carolina,37019.0,17200,246.0
-1991794,2021-12-07,Brunswick,Virginia,51025.0,1861,35.0
-1994018,2021-12-08,Brunswick,North Carolina,37019.0,17232,246.0
-1995045,2021-12-08,Brunswick,Virginia,51025.0,1865,35.0
-1997269,2021-12-09,Brunswick,North Carolina,37019.0,17282,247.0
-1998296,2021-12-09,Brunswick,Virginia,51025.0,1868,35.0
-2000519,2021-12-10,Brunswick,North Carolina,37019.0,17349,247.0
-2001546,2021-12-10,Brunswick,Virginia,51025.0,1871,35.0
-2003770,2021-12-11,Brunswick,North Carolina,37019.0,17349,247.0
-2004797,2021-12-11,Brunswick,Virginia,51025.0,1871,35.0
-2007021,2021-12-12,Brunswick,North Carolina,37019.0,17349,247.0
-2008048,2021-12-12,Brunswick,Virginia,51025.0,1871,35.0
-2010272,2021-12-13,Brunswick,North Carolina,37019.0,17435,247.0
-2011299,2021-12-13,Brunswick,Virginia,51025.0,1874,35.0
-2013523,2021-12-14,Brunswick,North Carolina,37019.0,17468,249.0
-2014550,2021-12-14,Brunswick,Virginia,51025.0,1878,35.0
-2016773,2021-12-15,Brunswick,North Carolina,37019.0,17509,249.0
-2017800,2021-12-15,Brunswick,Virginia,51025.0,1880,35.0
-2020024,2021-12-16,Brunswick,North Carolina,37019.0,17571,250.0
-2021051,2021-12-16,Brunswick,Virginia,51025.0,1884,35.0
-2023275,2021-12-17,Brunswick,North Carolina,37019.0,17625,250.0
-2024302,2021-12-17,Brunswick,Virginia,51025.0,1884,35.0
-2026526,2021-12-18,Brunswick,North Carolina,37019.0,17625,250.0
-2027553,2021-12-18,Brunswick,Virginia,51025.0,1884,35.0
-2029777,2021-12-19,Brunswick,North Carolina,37019.0,17625,250.0
-2030804,2021-12-19,Brunswick,Virginia,51025.0,1884,35.0
-2033027,2021-12-20,Brunswick,North Carolina,37019.0,17778,251.0
-2034054,2021-12-20,Brunswick,Virginia,51025.0,1885,35.0
-2036277,2021-12-21,Brunswick,North Carolina,37019.0,17818,251.0
-2037304,2021-12-21,Brunswick,Virginia,51025.0,1886,35.0
-2039527,2021-12-22,Brunswick,North Carolina,37019.0,17869,252.0
-2040554,2021-12-22,Brunswick,Virginia,51025.0,1887,35.0
-2042776,2021-12-23,Brunswick,North Carolina,37019.0,17869,252.0
-2043803,2021-12-23,Brunswick,Virginia,51025.0,1891,35.0
-2046026,2021-12-24,Brunswick,North Carolina,37019.0,17869,252.0
-2047053,2021-12-24,Brunswick,Virginia,51025.0,1893,35.0
-2049276,2021-12-25,Brunswick,North Carolina,37019.0,17869,252.0
-2050303,2021-12-25,Brunswick,Virginia,51025.0,1893,35.0
-2052526,2021-12-26,Brunswick,North Carolina,37019.0,17869,252.0
-2053553,2021-12-26,Brunswick,Virginia,51025.0,1893,35.0
-2055776,2021-12-27,Brunswick,North Carolina,37019.0,17869,252.0
-2056802,2021-12-27,Brunswick,Virginia,51025.0,1901,35.0
-2059025,2021-12-28,Brunswick,North Carolina,37019.0,18127,252.0
-2060051,2021-12-28,Brunswick,Virginia,51025.0,1900,36.0
-2062274,2021-12-29,Brunswick,North Carolina,37019.0,18219,252.0
-2063301,2021-12-29,Brunswick,Virginia,51025.0,1906,36.0
-2065524,2021-12-30,Brunswick,North Carolina,37019.0,18381,253.0
-2066551,2021-12-30,Brunswick,Virginia,51025.0,1915,36.0
-2068775,2021-12-31,Brunswick,North Carolina,37019.0,18564,253.0
-2069802,2021-12-31,Brunswick,Virginia,51025.0,1930,36.0
-2072026,2022-01-01,Brunswick,North Carolina,37019.0,18564,253.0
-2073053,2022-01-01,Brunswick,Virginia,51025.0,1930,36.0
-2075277,2022-01-02,Brunswick,North Carolina,37019.0,18564,253.0
-2076304,2022-01-02,Brunswick,Virginia,51025.0,1930,36.0
-2078528,2022-01-03,Brunswick,North Carolina,37019.0,18963,253.0
-2079556,2022-01-03,Brunswick,Virginia,51025.0,1967,36.0
-2081780,2022-01-04,Brunswick,North Carolina,37019.0,19073,254.0
-2082808,2022-01-04,Brunswick,Virginia,51025.0,1986,36.0
-2085032,2022-01-05,Brunswick,North Carolina,37019.0,19233,255.0
-2086060,2022-01-05,Brunswick,Virginia,51025.0,1996,36.0
-2088284,2022-01-06,Brunswick,North Carolina,37019.0,19499,256.0
-2089311,2022-01-06,Brunswick,Virginia,51025.0,2005,36.0
-2091535,2022-01-07,Brunswick,North Carolina,37019.0,19730,257.0
-2092563,2022-01-07,Brunswick,Virginia,51025.0,2012,36.0
-2094787,2022-01-08,Brunswick,North Carolina,37019.0,19730,257.0
-2095815,2022-01-08,Brunswick,Virginia,51025.0,2012,36.0
-2098039,2022-01-09,Brunswick,North Carolina,37019.0,19730,257.0
-2099066,2022-01-09,Brunswick,Virginia,51025.0,2012,36.0
-2101290,2022-01-10,Brunswick,North Carolina,37019.0,20537,257.0
-2102317,2022-01-10,Brunswick,Virginia,51025.0,2128,36.0
-2104541,2022-01-11,Brunswick,North Carolina,37019.0,20716,257.0
-2105568,2022-01-11,Brunswick,Virginia,51025.0,2170,37.0
-2107792,2022-01-12,Brunswick,North Carolina,37019.0,20952,259.0
-2108819,2022-01-12,Brunswick,Virginia,51025.0,2193,37.0
-2111044,2022-01-13,Brunswick,North Carolina,37019.0,21353,259.0
-2112071,2022-01-13,Brunswick,Virginia,51025.0,2227,37.0
-2114296,2022-01-14,Brunswick,North Carolina,37019.0,21758,260.0
-2115323,2022-01-14,Brunswick,Virginia,51025.0,2254,37.0
-2117547,2022-01-15,Brunswick,North Carolina,37019.0,21758,260.0
-2118575,2022-01-15,Brunswick,Virginia,51025.0,2254,37.0
-2120799,2022-01-16,Brunswick,North Carolina,37019.0,21758,260.0
-2121827,2022-01-16,Brunswick,Virginia,51025.0,2254,37.0
-2124051,2022-01-17,Brunswick,North Carolina,37019.0,21758,260.0
-2125079,2022-01-17,Brunswick,Virginia,51025.0,2292,37.0
-2127303,2022-01-18,Brunswick,North Carolina,37019.0,23033,261.0
-2128332,2022-01-18,Brunswick,Virginia,51025.0,2295,37.0
-2130557,2022-01-19,Brunswick,North Carolina,37019.0,23275,261.0
-2131586,2022-01-19,Brunswick,Virginia,51025.0,2307,37.0
-2133809,2022-01-20,Brunswick,North Carolina,37019.0,23613,262.0
-2134838,2022-01-20,Brunswick,Virginia,51025.0,2328,37.0
-2137062,2022-01-21,Brunswick,North Carolina,37019.0,24073,263.0
-2138092,2022-01-21,Brunswick,Virginia,51025.0,2406,37.0
-2140318,2022-01-22,Brunswick,North Carolina,37019.0,24073,263.0
-2141348,2022-01-22,Brunswick,Virginia,51025.0,2406,37.0
-2143573,2022-01-23,Brunswick,North Carolina,37019.0,24073,263.0
-2144603,2022-01-23,Brunswick,Virginia,51025.0,2406,37.0
-2146827,2022-01-24,Brunswick,North Carolina,37019.0,25176,265.0
-2147856,2022-01-24,Brunswick,Virginia,51025.0,2453,37.0
-2150079,2022-01-25,Brunswick,North Carolina,37019.0,25271,267.0
-2151108,2022-01-25,Brunswick,Virginia,51025.0,2483,37.0
-2153331,2022-01-26,Brunswick,North Carolina,37019.0,25501,267.0
-2154361,2022-01-26,Brunswick,Virginia,51025.0,2552,37.0
-2156584,2022-01-27,Brunswick,North Carolina,37019.0,25837,267.0
-2157614,2022-01-27,Brunswick,Virginia,51025.0,2621,37.0
-2159839,2022-01-28,Brunswick,North Carolina,37019.0,26127,269.0
-2160870,2022-01-28,Brunswick,Virginia,51025.0,2672,37.0
-2163094,2022-01-29,Brunswick,North Carolina,37019.0,26127,269.0
-2164125,2022-01-29,Brunswick,Virginia,51025.0,2672,37.0
-2166349,2022-01-30,Brunswick,North Carolina,37019.0,26127,269.0
-2167380,2022-01-30,Brunswick,Virginia,51025.0,2672,37.0
-2169604,2022-01-31,Brunswick,North Carolina,37019.0,26714,270.0
-2170633,2022-01-31,Brunswick,Virginia,51025.0,2709,37.0
-2172857,2022-02-01,Brunswick,North Carolina,37019.0,26827,271.0
-2173885,2022-02-01,Brunswick,Virginia,51025.0,2741,37.0
-2176110,2022-02-02,Brunswick,North Carolina,37019.0,27004,275.0
-2177138,2022-02-02,Brunswick,Virginia,51025.0,2763,37.0
-2179361,2022-02-03,Brunswick,North Carolina,37019.0,27221,277.0
-2180389,2022-02-03,Brunswick,Virginia,51025.0,2775,37.0
-2182613,2022-02-04,Brunswick,North Carolina,37019.0,27362,277.0
-2183641,2022-02-04,Brunswick,Virginia,51025.0,2823,37.0
-2185865,2022-02-05,Brunswick,North Carolina,37019.0,27362,277.0
-2186894,2022-02-05,Brunswick,Virginia,51025.0,2823,37.0
-2189118,2022-02-06,Brunswick,North Carolina,37019.0,27362,277.0
-2190147,2022-02-06,Brunswick,Virginia,51025.0,2823,37.0
-2192372,2022-02-07,Brunswick,North Carolina,37019.0,27616,279.0
-2193400,2022-02-07,Brunswick,Virginia,51025.0,2922,37.0
-2195626,2022-02-08,Brunswick,North Carolina,37019.0,27692,285.0
-2196655,2022-02-08,Brunswick,Virginia,51025.0,2935,38.0
-2198880,2022-02-09,Brunswick,North Carolina,37019.0,27843,287.0
-2199909,2022-02-09,Brunswick,Virginia,51025.0,2941,38.0
-2202134,2022-02-10,Brunswick,North Carolina,37019.0,27963,288.0
-2203163,2022-02-10,Brunswick,Virginia,51025.0,2962,38.0
-2205387,2022-02-11,Brunswick,North Carolina,37019.0,28063,288.0
-2206416,2022-02-11,Brunswick,Virginia,51025.0,2967,38.0
-2208640,2022-02-12,Brunswick,North Carolina,37019.0,28063,288.0
-2209669,2022-02-12,Brunswick,Virginia,51025.0,2967,38.0
-2211893,2022-02-13,Brunswick,North Carolina,37019.0,28063,288.0
-2212922,2022-02-13,Brunswick,Virginia,51025.0,2967,38.0
-2215144,2022-02-14,Brunswick,North Carolina,37019.0,28243,289.0
-2216173,2022-02-14,Brunswick,Virginia,51025.0,2984,38.0
-2218395,2022-02-15,Brunswick,North Carolina,37019.0,28275,289.0
-2219423,2022-02-15,Brunswick,Virginia,51025.0,2989,38.0
-2221646,2022-02-16,Brunswick,North Carolina,37019.0,28334,292.0
-2222674,2022-02-16,Brunswick,Virginia,51025.0,2992,38.0
-2224897,2022-02-17,Brunswick,North Carolina,37019.0,28374,292.0
-2225925,2022-02-17,Brunswick,Virginia,51025.0,2996,38.0
-2228148,2022-02-18,Brunswick,North Carolina,37019.0,28423,292.0
-2229176,2022-02-18,Brunswick,Virginia,51025.0,3005,38.0
-2231399,2022-02-19,Brunswick,North Carolina,37019.0,28423,292.0
-2232427,2022-02-19,Brunswick,Virginia,51025.0,3005,38.0
-2234650,2022-02-20,Brunswick,North Carolina,37019.0,28423,292.0
-2235678,2022-02-20,Brunswick,Virginia,51025.0,3005,38.0
-2237901,2022-02-21,Brunswick,North Carolina,37019.0,28538,294.0
-2238929,2022-02-21,Brunswick,Virginia,51025.0,3012,39.0
-2241152,2022-02-22,Brunswick,North Carolina,37019.0,28595,297.0
-2242180,2022-02-22,Brunswick,Virginia,51025.0,3013,39.0
-2244403,2022-02-23,Brunswick,North Carolina,37019.0,28645,297.0
-2245431,2022-02-23,Brunswick,Virginia,51025.0,3014,39.0
-2247654,2022-02-24,Brunswick,North Carolina,37019.0,28694,298.0
-2248682,2022-02-24,Brunswick,Virginia,51025.0,3018,39.0
-2250905,2022-02-25,Brunswick,North Carolina,37019.0,29167,299.0
-2251933,2022-02-25,Brunswick,Virginia,51025.0,3023,40.0
-2254156,2022-02-26,Brunswick,North Carolina,37019.0,29167,299.0
-2255184,2022-02-26,Brunswick,Virginia,51025.0,3023,40.0
-2257407,2022-02-27,Brunswick,North Carolina,37019.0,29167,299.0
-2258435,2022-02-27,Brunswick,Virginia,51025.0,3023,40.0
-2260658,2022-02-28,Brunswick,North Carolina,37019.0,29259,300.0
-2261686,2022-02-28,Brunswick,Virginia,51025.0,3028,42.0
-2263909,2022-03-01,Brunswick,North Carolina,37019.0,29285,302.0
-2264936,2022-03-01,Brunswick,Virginia,51025.0,3029,42.0
-2267161,2022-03-02,Brunswick,North Carolina,37019.0,29317,302.0
-2268189,2022-03-02,Brunswick,Virginia,51025.0,3033,42.0
-2270413,2022-03-03,Brunswick,North Carolina,37019.0,29349,303.0
-2271441,2022-03-03,Brunswick,Virginia,51025.0,3035,42.0
-2273666,2022-03-04,Brunswick,North Carolina,37019.0,29389,304.0
-2274694,2022-03-04,Brunswick,Virginia,51025.0,3039,42.0
-2276919,2022-03-05,Brunswick,North Carolina,37019.0,29389,304.0
-2277947,2022-03-05,Brunswick,Virginia,51025.0,3039,42.0
-2280172,2022-03-06,Brunswick,North Carolina,37019.0,29389,304.0
-2281200,2022-03-06,Brunswick,Virginia,51025.0,3039,42.0
-2283424,2022-03-07,Brunswick,North Carolina,37019.0,29454,305.0
-2284452,2022-03-07,Brunswick,Virginia,51025.0,3044,44.0
-2286676,2022-03-08,Brunswick,North Carolina,37019.0,29472,305.0
-2287704,2022-03-08,Brunswick,Virginia,51025.0,3054,44.0
-2289928,2022-03-09,Brunswick,North Carolina,37019.0,29487,305.0
-2290956,2022-03-09,Brunswick,Virginia,51025.0,3058,45.0
-2293180,2022-03-10,Brunswick,North Carolina,37019.0,29514,306.0
-2294208,2022-03-10,Brunswick,Virginia,51025.0,3133,45.0
-2296432,2022-03-11,Brunswick,North Carolina,37019.0,29531,306.0
-2297460,2022-03-11,Brunswick,Virginia,51025.0,3178,45.0
-2299684,2022-03-12,Brunswick,North Carolina,37019.0,29531,306.0
-2300712,2022-03-12,Brunswick,Virginia,51025.0,3178,45.0
-2302936,2022-03-13,Brunswick,North Carolina,37019.0,29531,306.0
-2303964,2022-03-13,Brunswick,Virginia,51025.0,3178,45.0
-2306187,2022-03-14,Brunswick,North Carolina,37019.0,29543,307.0
-2307215,2022-03-14,Brunswick,Virginia,51025.0,3178,45.0
-2309440,2022-03-15,Brunswick,North Carolina,37019.0,29553,307.0
-2310468,2022-03-15,Brunswick,Virginia,51025.0,3179,45.0
-2312693,2022-03-16,Brunswick,North Carolina,37019.0,29603,308.0
-2313721,2022-03-16,Brunswick,Virginia,51025.0,3180,45.0
-2315946,2022-03-17,Brunswick,North Carolina,37019.0,29619,308.0
-2316974,2022-03-17,Brunswick,Virginia,51025.0,3182,45.0
-2319200,2022-03-18,Brunswick,North Carolina,37019.0,29637,308.0
-2320228,2022-03-18,Brunswick,Virginia,51025.0,3179,45.0
-2322454,2022-03-19,Brunswick,North Carolina,37019.0,29637,308.0
-2323482,2022-03-19,Brunswick,Virginia,51025.0,3179,45.0
-2325707,2022-03-20,Brunswick,North Carolina,37019.0,29637,308.0
-2326735,2022-03-20,Brunswick,Virginia,51025.0,3179,45.0
-2328959,2022-03-21,Brunswick,North Carolina,37019.0,29667,309.0
-2329987,2022-03-21,Brunswick,Virginia,51025.0,3179,45.0
-2332212,2022-03-22,Brunswick,North Carolina,37019.0,29670,309.0
-2333240,2022-03-22,Brunswick,Virginia,51025.0,3179,45.0
-2335466,2022-03-23,Brunswick,North Carolina,37019.0,29695,310.0
-2336494,2022-03-23,Brunswick,Virginia,51025.0,3182,45.0
-2338720,2022-03-24,Brunswick,North Carolina,37019.0,29699,310.0
-2339748,2022-03-24,Brunswick,Virginia,51025.0,3185,45.0
-2341973,2022-03-25,Brunswick,North Carolina,37019.0,29709,310.0
-2343001,2022-03-25,Brunswick,Virginia,51025.0,3189,45.0
-2345226,2022-03-26,Brunswick,North Carolina,37019.0,29709,310.0
-2346254,2022-03-26,Brunswick,Virginia,51025.0,3189,45.0
-2348479,2022-03-27,Brunswick,North Carolina,37019.0,29709,310.0
-2349507,2022-03-27,Brunswick,Virginia,51025.0,3189,45.0
-2351731,2022-03-28,Brunswick,North Carolina,37019.0,29722,309.0
-2352759,2022-03-28,Brunswick,Virginia,51025.0,3191,45.0
-2354984,2022-03-29,Brunswick,North Carolina,37019.0,29728,309.0
-2356012,2022-03-29,Brunswick,Virginia,51025.0,3193,45.0
-2358238,2022-03-30,Brunswick,North Carolina,37019.0,29737,309.0
-2359266,2022-03-30,Brunswick,Virginia,51025.0,3195,45.0
-2361492,2022-03-31,Brunswick,North Carolina,37019.0,29752,309.0
-2362520,2022-03-31,Brunswick,Virginia,51025.0,3195,45.0
-2364746,2022-04-01,Brunswick,North Carolina,37019.0,29766,309.0
-2365773,2022-04-01,Brunswick,Virginia,51025.0,3202,46.0
-2367999,2022-04-02,Brunswick,North Carolina,37019.0,29766,309.0
-2369026,2022-04-02,Brunswick,Virginia,51025.0,3202,46.0
-2371252,2022-04-03,Brunswick,North Carolina,37019.0,29766,309.0
-2372279,2022-04-03,Brunswick,Virginia,51025.0,3202,46.0
-2374504,2022-04-04,Brunswick,North Carolina,37019.0,29792,309.0
-2375531,2022-04-04,Brunswick,Virginia,51025.0,3205,46.0
-2377757,2022-04-05,Brunswick,North Carolina,37019.0,29799,309.0
-2378785,2022-04-05,Brunswick,Virginia,51025.0,3206,47.0
-2381012,2022-04-06,Brunswick,North Carolina,37019.0,29809,309.0
-2382040,2022-04-06,Brunswick,Virginia,51025.0,3208,47.0
-2384267,2022-04-07,Brunswick,North Carolina,37019.0,29809,309.0
-2385295,2022-04-07,Brunswick,Virginia,51025.0,3208,47.0
-2387521,2022-04-08,Brunswick,North Carolina,37019.0,29809,309.0
-2388550,2022-04-08,Brunswick,Virginia,51025.0,3213,47.0
-2390777,2022-04-09,Brunswick,North Carolina,37019.0,29809,309.0
-2391806,2022-04-09,Brunswick,Virginia,51025.0,3213,47.0
+date,county,state,fips,cases,deaths
+2020-03-14,Brunswick,North Carolina,37019.0,1,0.0
+2020-03-15,Brunswick,North Carolina,37019.0,1,0.0
+2020-03-16,Brunswick,North Carolina,37019.0,1,0.0
+2020-03-17,Brunswick,North Carolina,37019.0,1,0.0
+2020-03-18,Brunswick,North Carolina,37019.0,1,0.0
+2020-03-19,Brunswick,North Carolina,37019.0,2,0.0
+2020-03-20,Brunswick,North Carolina,37019.0,4,0.0
+2020-03-21,Brunswick,North Carolina,37019.0,4,0.0
+2020-03-22,Brunswick,North Carolina,37019.0,5,0.0
+2020-03-23,Brunswick,North Carolina,37019.0,5,0.0
+2020-03-24,Brunswick,North Carolina,37019.0,8,0.0
+2020-03-25,Brunswick,North Carolina,37019.0,10,0.0
+2020-03-26,Brunswick,North Carolina,37019.0,11,0.0
+2020-03-27,Brunswick,North Carolina,37019.0,11,0.0
+2020-03-28,Brunswick,North Carolina,37019.0,12,0.0
+2020-03-29,Brunswick,North Carolina,37019.0,12,0.0
+2020-03-30,Brunswick,North Carolina,37019.0,13,0.0
+2020-03-31,Brunswick,North Carolina,37019.0,14,0.0
+2020-03-31,Brunswick,Virginia,51025.0,1,0.0
+2020-04-01,Brunswick,North Carolina,37019.0,14,0.0
+2020-04-01,Brunswick,Virginia,51025.0,1,0.0
+2020-04-02,Brunswick,North Carolina,37019.0,19,0.0
+2020-04-02,Brunswick,Virginia,51025.0,1,0.0
+2020-04-03,Brunswick,North Carolina,37019.0,22,1.0
+2020-04-03,Brunswick,Virginia,51025.0,1,0.0
+2020-04-04,Brunswick,North Carolina,37019.0,23,1.0
+2020-04-04,Brunswick,Virginia,51025.0,1,0.0
+2020-04-05,Brunswick,North Carolina,37019.0,24,1.0
+2020-04-05,Brunswick,Virginia,51025.0,1,0.0
+2020-04-06,Brunswick,North Carolina,37019.0,26,1.0
+2020-04-06,Brunswick,Virginia,51025.0,1,0.0
+2020-04-07,Brunswick,North Carolina,37019.0,26,1.0
+2020-04-07,Brunswick,Virginia,51025.0,1,0.0
+2020-04-08,Brunswick,North Carolina,37019.0,26,1.0
+2020-04-08,Brunswick,Virginia,51025.0,1,0.0
+2020-04-09,Brunswick,North Carolina,37019.0,28,1.0
+2020-04-09,Brunswick,Virginia,51025.0,1,0.0
+2020-04-10,Brunswick,North Carolina,37019.0,30,2.0
+2020-04-10,Brunswick,Virginia,51025.0,2,0.0
+2020-04-11,Brunswick,North Carolina,37019.0,34,2.0
+2020-04-11,Brunswick,Virginia,51025.0,3,0.0
+2020-04-12,Brunswick,North Carolina,37019.0,33,2.0
+2020-04-12,Brunswick,Virginia,51025.0,3,0.0
+2020-04-13,Brunswick,North Carolina,37019.0,35,2.0
+2020-04-13,Brunswick,Virginia,51025.0,3,0.0
+2020-04-14,Brunswick,North Carolina,37019.0,35,2.0
+2020-04-14,Brunswick,Virginia,51025.0,9,0.0
+2020-04-15,Brunswick,North Carolina,37019.0,35,2.0
+2020-04-15,Brunswick,Virginia,51025.0,9,0.0
+2020-04-16,Brunswick,North Carolina,37019.0,36,2.0
+2020-04-16,Brunswick,Virginia,51025.0,10,0.0
+2020-04-17,Brunswick,North Carolina,37019.0,36,2.0
+2020-04-17,Brunswick,Virginia,51025.0,10,0.0
+2020-04-18,Brunswick,North Carolina,37019.0,36,2.0
+2020-04-18,Brunswick,Virginia,51025.0,12,0.0
+2020-04-19,Brunswick,North Carolina,37019.0,36,2.0
+2020-04-19,Brunswick,Virginia,51025.0,12,0.0
+2020-04-20,Brunswick,North Carolina,37019.0,36,2.0
+2020-04-20,Brunswick,Virginia,51025.0,12,0.0
+2020-04-21,Brunswick,North Carolina,37019.0,37,2.0
+2020-04-21,Brunswick,Virginia,51025.0,12,0.0
+2020-04-22,Brunswick,North Carolina,37019.0,38,2.0
+2020-04-22,Brunswick,Virginia,51025.0,13,0.0
+2020-04-23,Brunswick,North Carolina,37019.0,39,2.0
+2020-04-23,Brunswick,Virginia,51025.0,13,0.0
+2020-04-24,Brunswick,North Carolina,37019.0,39,3.0
+2020-04-24,Brunswick,Virginia,51025.0,14,0.0
+2020-04-25,Brunswick,North Carolina,37019.0,39,3.0
+2020-04-25,Brunswick,Virginia,51025.0,14,0.0
+2020-04-26,Brunswick,North Carolina,37019.0,39,3.0
+2020-04-26,Brunswick,Virginia,51025.0,14,0.0
+2020-04-27,Brunswick,North Carolina,37019.0,40,3.0
+2020-04-27,Brunswick,Virginia,51025.0,14,0.0
+2020-04-28,Brunswick,North Carolina,37019.0,43,3.0
+2020-04-28,Brunswick,Virginia,51025.0,13,0.0
+2020-04-29,Brunswick,North Carolina,37019.0,43,3.0
+2020-04-29,Brunswick,Virginia,51025.0,14,0.0
+2020-04-30,Brunswick,North Carolina,37019.0,43,3.0
+2020-04-30,Brunswick,Virginia,51025.0,14,0.0
+2020-05-01,Brunswick,North Carolina,37019.0,43,3.0
+2020-05-01,Brunswick,Virginia,51025.0,14,0.0
+2020-05-02,Brunswick,North Carolina,37019.0,44,3.0
+2020-05-02,Brunswick,Virginia,51025.0,15,0.0
+2020-05-03,Brunswick,North Carolina,37019.0,44,3.0
+2020-05-03,Brunswick,Virginia,51025.0,15,0.0
+2020-05-04,Brunswick,North Carolina,37019.0,46,3.0
+2020-05-04,Brunswick,Virginia,51025.0,15,0.0
+2020-05-05,Brunswick,North Carolina,37019.0,50,3.0
+2020-05-05,Brunswick,Virginia,51025.0,15,0.0
+2020-05-06,Brunswick,North Carolina,37019.0,49,3.0
+2020-05-06,Brunswick,Virginia,51025.0,15,0.0
+2020-05-07,Brunswick,North Carolina,37019.0,49,3.0
+2020-05-07,Brunswick,Virginia,51025.0,16,0.0
+2020-05-08,Brunswick,North Carolina,37019.0,49,3.0
+2020-05-08,Brunswick,Virginia,51025.0,17,0.0
+2020-05-09,Brunswick,North Carolina,37019.0,50,3.0
+2020-05-09,Brunswick,Virginia,51025.0,17,0.0
+2020-05-10,Brunswick,North Carolina,37019.0,50,4.0
+2020-05-10,Brunswick,Virginia,51025.0,18,0.0
+2020-05-11,Brunswick,North Carolina,37019.0,50,4.0
+2020-05-11,Brunswick,Virginia,51025.0,19,0.0
+2020-05-12,Brunswick,North Carolina,37019.0,50,4.0
+2020-05-12,Brunswick,Virginia,51025.0,20,0.0
+2020-05-13,Brunswick,North Carolina,37019.0,50,4.0
+2020-05-13,Brunswick,Virginia,51025.0,20,0.0
+2020-05-14,Brunswick,North Carolina,37019.0,51,4.0
+2020-05-14,Brunswick,Virginia,51025.0,20,0.0
+2020-05-15,Brunswick,North Carolina,37019.0,51,4.0
+2020-05-15,Brunswick,Virginia,51025.0,20,1.0
+2020-05-16,Brunswick,North Carolina,37019.0,55,4.0
+2020-05-16,Brunswick,Virginia,51025.0,20,1.0
+2020-05-17,Brunswick,North Carolina,37019.0,55,4.0
+2020-05-17,Brunswick,Virginia,51025.0,20,1.0
+2020-05-18,Brunswick,North Carolina,37019.0,57,4.0
+2020-05-18,Brunswick,Virginia,51025.0,20,1.0
+2020-05-19,Brunswick,North Carolina,37019.0,59,4.0
+2020-05-19,Brunswick,Virginia,51025.0,21,1.0
+2020-05-20,Brunswick,North Carolina,37019.0,74,4.0
+2020-05-20,Brunswick,Virginia,51025.0,21,1.0
+2020-05-21,Brunswick,North Carolina,37019.0,74,4.0
+2020-05-21,Brunswick,Virginia,51025.0,21,1.0
+2020-05-22,Brunswick,North Carolina,37019.0,74,4.0
+2020-05-22,Brunswick,Virginia,51025.0,21,1.0
+2020-05-23,Brunswick,North Carolina,37019.0,81,4.0
+2020-05-23,Brunswick,Virginia,51025.0,21,1.0
+2020-05-24,Brunswick,North Carolina,37019.0,81,4.0
+2020-05-24,Brunswick,Virginia,51025.0,21,1.0
+2020-05-25,Brunswick,North Carolina,37019.0,83,4.0
+2020-05-25,Brunswick,Virginia,51025.0,21,1.0
+2020-05-26,Brunswick,North Carolina,37019.0,88,4.0
+2020-05-26,Brunswick,Virginia,51025.0,21,1.0
+2020-05-27,Brunswick,North Carolina,37019.0,90,4.0
+2020-05-27,Brunswick,Virginia,51025.0,21,1.0
+2020-05-28,Brunswick,North Carolina,37019.0,90,4.0
+2020-05-28,Brunswick,Virginia,51025.0,24,1.0
+2020-05-29,Brunswick,North Carolina,37019.0,95,4.0
+2020-05-29,Brunswick,Virginia,51025.0,25,1.0
+2020-05-30,Brunswick,North Carolina,37019.0,103,4.0
+2020-05-30,Brunswick,Virginia,51025.0,25,1.0
+2020-05-31,Brunswick,North Carolina,37019.0,105,4.0
+2020-05-31,Brunswick,Virginia,51025.0,25,1.0
+2020-06-01,Brunswick,North Carolina,37019.0,107,4.0
+2020-06-01,Brunswick,Virginia,51025.0,27,1.0
+2020-06-02,Brunswick,North Carolina,37019.0,121,5.0
+2020-06-02,Brunswick,Virginia,51025.0,28,1.0
+2020-06-03,Brunswick,North Carolina,37019.0,121,5.0
+2020-06-03,Brunswick,Virginia,51025.0,30,1.0
+2020-06-04,Brunswick,North Carolina,37019.0,141,5.0
+2020-06-04,Brunswick,Virginia,51025.0,31,1.0
+2020-06-05,Brunswick,North Carolina,37019.0,144,5.0
+2020-06-05,Brunswick,Virginia,51025.0,32,1.0
+2020-06-06,Brunswick,North Carolina,37019.0,149,5.0
+2020-06-06,Brunswick,Virginia,51025.0,32,1.0
+2020-06-07,Brunswick,North Carolina,37019.0,155,5.0
+2020-06-07,Brunswick,Virginia,51025.0,39,1.0
+2020-06-08,Brunswick,North Carolina,37019.0,171,5.0
+2020-06-08,Brunswick,Virginia,51025.0,41,1.0
+2020-06-09,Brunswick,North Carolina,37019.0,178,5.0
+2020-06-09,Brunswick,Virginia,51025.0,41,1.0
+2020-06-10,Brunswick,North Carolina,37019.0,196,5.0
+2020-06-10,Brunswick,Virginia,51025.0,43,1.0
+2020-06-11,Brunswick,North Carolina,37019.0,203,5.0
+2020-06-11,Brunswick,Virginia,51025.0,44,1.0
+2020-06-12,Brunswick,North Carolina,37019.0,207,5.0
+2020-06-12,Brunswick,Virginia,51025.0,44,1.0
+2020-06-13,Brunswick,North Carolina,37019.0,221,5.0
+2020-06-13,Brunswick,Virginia,51025.0,46,1.0
+2020-06-14,Brunswick,North Carolina,37019.0,233,5.0
+2020-06-14,Brunswick,Virginia,51025.0,46,1.0
+2020-06-15,Brunswick,North Carolina,37019.0,243,5.0
+2020-06-15,Brunswick,Virginia,51025.0,46,1.0
+2020-06-16,Brunswick,North Carolina,37019.0,263,5.0
+2020-06-16,Brunswick,Virginia,51025.0,54,1.0
+2020-06-17,Brunswick,North Carolina,37019.0,273,5.0
+2020-06-17,Brunswick,Virginia,51025.0,59,1.0
+2020-06-18,Brunswick,North Carolina,37019.0,301,5.0
+2020-06-18,Brunswick,Virginia,51025.0,72,1.0
+2020-06-19,Brunswick,North Carolina,37019.0,316,5.0
+2020-06-19,Brunswick,Virginia,51025.0,90,1.0
+2020-06-20,Brunswick,North Carolina,37019.0,339,5.0
+2020-06-20,Brunswick,Virginia,51025.0,90,1.0
+2020-06-21,Brunswick,North Carolina,37019.0,353,5.0
+2020-06-21,Brunswick,Virginia,51025.0,91,1.0
+2020-06-22,Brunswick,North Carolina,37019.0,357,5.0
+2020-06-22,Brunswick,Virginia,51025.0,92,1.0
+2020-06-23,Brunswick,North Carolina,37019.0,380,5.0
+2020-06-23,Brunswick,Virginia,51025.0,92,1.0
+2020-06-24,Brunswick,North Carolina,37019.0,403,5.0
+2020-06-24,Brunswick,Virginia,51025.0,93,1.0
+2020-06-25,Brunswick,North Carolina,37019.0,419,5.0
+2020-06-25,Brunswick,Virginia,51025.0,96,1.0
+2020-06-26,Brunswick,North Carolina,37019.0,445,5.0
+2020-06-26,Brunswick,Virginia,51025.0,96,1.0
+2020-06-27,Brunswick,North Carolina,37019.0,466,6.0
+2020-06-27,Brunswick,Virginia,51025.0,99,1.0
+2020-06-28,Brunswick,North Carolina,37019.0,482,6.0
+2020-06-28,Brunswick,Virginia,51025.0,102,1.0
+2020-06-29,Brunswick,North Carolina,37019.0,499,7.0
+2020-06-29,Brunswick,Virginia,51025.0,102,1.0
+2020-06-30,Brunswick,North Carolina,37019.0,522,7.0
+2020-06-30,Brunswick,Virginia,51025.0,103,1.0
+2020-07-01,Brunswick,North Carolina,37019.0,546,8.0
+2020-07-01,Brunswick,Virginia,51025.0,106,1.0
+2020-07-02,Brunswick,North Carolina,37019.0,574,8.0
+2020-07-02,Brunswick,Virginia,51025.0,107,1.0
+2020-07-03,Brunswick,North Carolina,37019.0,603,8.0
+2020-07-03,Brunswick,Virginia,51025.0,107,1.0
+2020-07-04,Brunswick,North Carolina,37019.0,628,8.0
+2020-07-04,Brunswick,Virginia,51025.0,109,1.0
+2020-07-05,Brunswick,North Carolina,37019.0,667,8.0
+2020-07-05,Brunswick,Virginia,51025.0,112,1.0
+2020-07-06,Brunswick,North Carolina,37019.0,674,8.0
+2020-07-06,Brunswick,Virginia,51025.0,113,1.0
+2020-07-07,Brunswick,North Carolina,37019.0,698,9.0
+2020-07-07,Brunswick,Virginia,51025.0,116,1.0
+2020-07-08,Brunswick,North Carolina,37019.0,726,9.0
+2020-07-08,Brunswick,Virginia,51025.0,117,1.0
+2020-07-09,Brunswick,North Carolina,37019.0,753,9.0
+2020-07-09,Brunswick,Virginia,51025.0,116,1.0
+2020-07-10,Brunswick,North Carolina,37019.0,765,10.0
+2020-07-10,Brunswick,Virginia,51025.0,123,1.0
+2020-07-11,Brunswick,North Carolina,37019.0,774,10.0
+2020-07-11,Brunswick,Virginia,51025.0,127,1.0
+2020-07-12,Brunswick,North Carolina,37019.0,785,10.0
+2020-07-12,Brunswick,Virginia,51025.0,130,1.0
+2020-07-13,Brunswick,North Carolina,37019.0,805,10.0
+2020-07-13,Brunswick,Virginia,51025.0,138,1.0
+2020-07-14,Brunswick,North Carolina,37019.0,842,12.0
+2020-07-14,Brunswick,Virginia,51025.0,143,1.0
+2020-07-15,Brunswick,North Carolina,37019.0,879,12.0
+2020-07-15,Brunswick,Virginia,51025.0,143,1.0
+2020-07-16,Brunswick,North Carolina,37019.0,903,13.0
+2020-07-16,Brunswick,Virginia,51025.0,143,1.0
+2020-07-17,Brunswick,North Carolina,37019.0,916,13.0
+2020-07-17,Brunswick,Virginia,51025.0,146,1.0
+2020-07-18,Brunswick,North Carolina,37019.0,927,13.0
+2020-07-18,Brunswick,Virginia,51025.0,150,1.0
+2020-07-19,Brunswick,North Carolina,37019.0,943,13.0
+2020-07-19,Brunswick,Virginia,51025.0,154,1.0
+2020-07-20,Brunswick,North Carolina,37019.0,959,13.0
+2020-07-20,Brunswick,Virginia,51025.0,157,1.0
+2020-07-21,Brunswick,North Carolina,37019.0,1001,13.0
+2020-07-21,Brunswick,Virginia,51025.0,161,1.0
+2020-07-22,Brunswick,North Carolina,37019.0,1011,14.0
+2020-07-22,Brunswick,Virginia,51025.0,162,1.0
+2020-07-23,Brunswick,North Carolina,37019.0,1035,14.0
+2020-07-23,Brunswick,Virginia,51025.0,163,1.0
+2020-07-24,Brunswick,North Carolina,37019.0,1050,14.0
+2020-07-24,Brunswick,Virginia,51025.0,170,1.0
+2020-07-25,Brunswick,North Carolina,37019.0,1059,15.0
+2020-07-25,Brunswick,Virginia,51025.0,172,1.0
+2020-07-26,Brunswick,North Carolina,37019.0,1081,15.0
+2020-07-26,Brunswick,Virginia,51025.0,174,1.0
+2020-07-27,Brunswick,North Carolina,37019.0,1091,15.0
+2020-07-27,Brunswick,Virginia,51025.0,179,1.0
+2020-07-28,Brunswick,North Carolina,37019.0,1121,15.0
+2020-07-28,Brunswick,Virginia,51025.0,184,1.0
+2020-07-29,Brunswick,North Carolina,37019.0,1137,15.0
+2020-07-29,Brunswick,Virginia,51025.0,188,1.0
+2020-07-30,Brunswick,North Carolina,37019.0,1154,16.0
+2020-07-30,Brunswick,Virginia,51025.0,197,1.0
+2020-07-31,Brunswick,North Carolina,37019.0,1181,17.0
+2020-07-31,Brunswick,Virginia,51025.0,197,1.0
+2020-08-01,Brunswick,North Carolina,37019.0,1190,17.0
+2020-08-01,Brunswick,Virginia,51025.0,204,1.0
+2020-08-02,Brunswick,North Carolina,37019.0,1202,19.0
+2020-08-02,Brunswick,Virginia,51025.0,205,1.0
+2020-08-03,Brunswick,North Carolina,37019.0,1206,19.0
+2020-08-03,Brunswick,Virginia,51025.0,212,1.0
+2020-08-04,Brunswick,North Carolina,37019.0,1219,19.0
+2020-08-04,Brunswick,Virginia,51025.0,212,2.0
+2020-08-05,Brunswick,North Carolina,37019.0,1230,19.0
+2020-08-05,Brunswick,Virginia,51025.0,215,2.0
+2020-08-06,Brunswick,North Carolina,37019.0,1247,21.0
+2020-08-06,Brunswick,Virginia,51025.0,216,2.0
+2020-08-07,Brunswick,North Carolina,37019.0,1257,22.0
+2020-08-07,Brunswick,Virginia,51025.0,226,2.0
+2020-08-08,Brunswick,North Carolina,37019.0,1267,22.0
+2020-08-08,Brunswick,Virginia,51025.0,227,2.0
+2020-08-09,Brunswick,North Carolina,37019.0,1275,23.0
+2020-08-09,Brunswick,Virginia,51025.0,228,2.0
+2020-08-10,Brunswick,North Carolina,37019.0,1275,23.0
+2020-08-10,Brunswick,Virginia,51025.0,230,2.0
+2020-08-11,Brunswick,North Carolina,37019.0,1287,24.0
+2020-08-11,Brunswick,Virginia,51025.0,237,2.0
+2020-08-12,Brunswick,North Carolina,37019.0,1304,24.0
+2020-08-12,Brunswick,Virginia,51025.0,239,2.0
+2020-08-13,Brunswick,North Carolina,37019.0,1316,24.0
+2020-08-13,Brunswick,Virginia,51025.0,240,2.0
+2020-08-14,Brunswick,North Carolina,37019.0,1316,24.0
+2020-08-14,Brunswick,Virginia,51025.0,247,2.0
+2020-08-15,Brunswick,North Carolina,37019.0,1316,24.0
+2020-08-15,Brunswick,Virginia,51025.0,247,2.0
+2020-08-16,Brunswick,North Carolina,37019.0,1316,24.0
+2020-08-16,Brunswick,Virginia,51025.0,247,2.0
+2020-08-17,Brunswick,North Carolina,37019.0,1316,24.0
+2020-08-17,Brunswick,Virginia,51025.0,248,2.0
+2020-08-18,Brunswick,North Carolina,37019.0,1326,24.0
+2020-08-18,Brunswick,Virginia,51025.0,250,2.0
+2020-08-19,Brunswick,North Carolina,37019.0,1330,24.0
+2020-08-19,Brunswick,Virginia,51025.0,254,2.0
+2020-08-20,Brunswick,North Carolina,37019.0,1337,24.0
+2020-08-20,Brunswick,Virginia,51025.0,259,2.0
+2020-08-21,Brunswick,North Carolina,37019.0,1343,24.0
+2020-08-21,Brunswick,Virginia,51025.0,261,2.0
+2020-08-22,Brunswick,North Carolina,37019.0,1348,24.0
+2020-08-22,Brunswick,Virginia,51025.0,263,2.0
+2020-08-23,Brunswick,North Carolina,37019.0,1353,24.0
+2020-08-23,Brunswick,Virginia,51025.0,264,2.0
+2020-08-24,Brunswick,North Carolina,37019.0,1358,24.0
+2020-08-24,Brunswick,Virginia,51025.0,269,2.0
+2020-08-25,Brunswick,North Carolina,37019.0,1361,24.0
+2020-08-25,Brunswick,Virginia,51025.0,273,2.0
+2020-08-26,Brunswick,North Carolina,37019.0,1365,24.0
+2020-08-26,Brunswick,Virginia,51025.0,273,2.0
+2020-08-27,Brunswick,North Carolina,37019.0,1372,24.0
+2020-08-27,Brunswick,Virginia,51025.0,279,2.0
+2020-08-28,Brunswick,North Carolina,37019.0,1371,24.0
+2020-08-28,Brunswick,Virginia,51025.0,281,2.0
+2020-08-29,Brunswick,North Carolina,37019.0,1379,24.0
+2020-08-29,Brunswick,Virginia,51025.0,283,2.0
+2020-08-30,Brunswick,North Carolina,37019.0,1385,24.0
+2020-08-30,Brunswick,Virginia,51025.0,285,2.0
+2020-08-31,Brunswick,North Carolina,37019.0,1389,24.0
+2020-08-31,Brunswick,Virginia,51025.0,293,2.0
+2020-09-01,Brunswick,North Carolina,37019.0,1401,24.0
+2020-09-01,Brunswick,Virginia,51025.0,295,2.0
+2020-09-02,Brunswick,North Carolina,37019.0,1402,24.0
+2020-09-02,Brunswick,Virginia,51025.0,301,2.0
+2020-09-03,Brunswick,North Carolina,37019.0,1410,24.0
+2020-09-03,Brunswick,Virginia,51025.0,302,2.0
+2020-09-04,Brunswick,North Carolina,37019.0,1420,24.0
+2020-09-04,Brunswick,Virginia,51025.0,306,2.0
+2020-09-05,Brunswick,North Carolina,37019.0,1424,24.0
+2020-09-05,Brunswick,Virginia,51025.0,308,2.0
+2020-09-06,Brunswick,North Carolina,37019.0,1433,25.0
+2020-09-06,Brunswick,Virginia,51025.0,310,2.0
+2020-09-07,Brunswick,North Carolina,37019.0,1434,25.0
+2020-09-07,Brunswick,Virginia,51025.0,310,2.0
+2020-09-08,Brunswick,North Carolina,37019.0,1438,25.0
+2020-09-08,Brunswick,Virginia,51025.0,317,2.0
+2020-09-09,Brunswick,North Carolina,37019.0,1445,26.0
+2020-09-09,Brunswick,Virginia,51025.0,318,2.0
+2020-09-10,Brunswick,North Carolina,37019.0,1457,26.0
+2020-09-10,Brunswick,Virginia,51025.0,320,2.0
+2020-09-11,Brunswick,North Carolina,37019.0,1465,26.0
+2020-09-11,Brunswick,Virginia,51025.0,326,2.0
+2020-09-12,Brunswick,North Carolina,37019.0,1472,26.0
+2020-09-12,Brunswick,Virginia,51025.0,327,2.0
+2020-09-13,Brunswick,North Carolina,37019.0,1478,26.0
+2020-09-13,Brunswick,Virginia,51025.0,331,2.0
+2020-09-14,Brunswick,North Carolina,37019.0,1482,26.0
+2020-09-14,Brunswick,Virginia,51025.0,332,2.0
+2020-09-15,Brunswick,North Carolina,37019.0,1487,26.0
+2020-09-15,Brunswick,Virginia,51025.0,333,3.0
+2020-09-16,Brunswick,North Carolina,37019.0,1500,26.0
+2020-09-16,Brunswick,Virginia,51025.0,336,3.0
+2020-09-17,Brunswick,North Carolina,37019.0,1508,26.0
+2020-09-17,Brunswick,Virginia,51025.0,340,3.0
+2020-09-18,Brunswick,North Carolina,37019.0,1511,26.0
+2020-09-18,Brunswick,Virginia,51025.0,341,4.0
+2020-09-19,Brunswick,North Carolina,37019.0,1523,26.0
+2020-09-19,Brunswick,Virginia,51025.0,344,4.0
+2020-09-20,Brunswick,North Carolina,37019.0,1529,26.0
+2020-09-20,Brunswick,Virginia,51025.0,346,4.0
+2020-09-21,Brunswick,North Carolina,37019.0,1535,26.0
+2020-09-21,Brunswick,Virginia,51025.0,346,4.0
+2020-09-22,Brunswick,North Carolina,37019.0,1543,26.0
+2020-09-22,Brunswick,Virginia,51025.0,346,4.0
+2020-09-23,Brunswick,North Carolina,37019.0,1555,26.0
+2020-09-23,Brunswick,Virginia,51025.0,347,4.0
+2020-09-24,Brunswick,North Carolina,37019.0,1576,26.0
+2020-09-24,Brunswick,Virginia,51025.0,349,5.0
+2020-09-25,Brunswick,North Carolina,37019.0,1622,26.0
+2020-09-25,Brunswick,Virginia,51025.0,351,5.0
+2020-09-26,Brunswick,North Carolina,37019.0,1636,27.0
+2020-09-26,Brunswick,Virginia,51025.0,355,5.0
+2020-09-27,Brunswick,North Carolina,37019.0,1639,27.0
+2020-09-27,Brunswick,Virginia,51025.0,358,5.0
+2020-09-28,Brunswick,North Carolina,37019.0,1642,27.0
+2020-09-28,Brunswick,Virginia,51025.0,358,5.0
+2020-09-29,Brunswick,North Carolina,37019.0,1646,27.0
+2020-09-29,Brunswick,Virginia,51025.0,361,5.0
+2020-09-30,Brunswick,North Carolina,37019.0,1667,27.0
+2020-09-30,Brunswick,Virginia,51025.0,361,5.0
+2020-10-01,Brunswick,North Carolina,37019.0,1681,27.0
+2020-10-01,Brunswick,Virginia,51025.0,363,5.0
+2020-10-02,Brunswick,North Carolina,37019.0,1693,27.0
+2020-10-02,Brunswick,Virginia,51025.0,366,5.0
+2020-10-03,Brunswick,North Carolina,37019.0,1710,27.0
+2020-10-03,Brunswick,Virginia,51025.0,367,5.0
+2020-10-04,Brunswick,North Carolina,37019.0,1713,27.0
+2020-10-04,Brunswick,Virginia,51025.0,369,5.0
+2020-10-05,Brunswick,North Carolina,37019.0,1741,27.0
+2020-10-05,Brunswick,Virginia,51025.0,369,5.0
+2020-10-06,Brunswick,North Carolina,37019.0,1756,27.0
+2020-10-06,Brunswick,Virginia,51025.0,374,5.0
+2020-10-07,Brunswick,North Carolina,37019.0,1779,27.0
+2020-10-07,Brunswick,Virginia,51025.0,374,5.0
+2020-10-08,Brunswick,North Carolina,37019.0,1796,27.0
+2020-10-08,Brunswick,Virginia,51025.0,384,5.0
+2020-10-09,Brunswick,North Carolina,37019.0,1823,28.0
+2020-10-09,Brunswick,Virginia,51025.0,387,5.0
+2020-10-10,Brunswick,North Carolina,37019.0,1847,28.0
+2020-10-10,Brunswick,Virginia,51025.0,391,5.0
+2020-10-11,Brunswick,North Carolina,37019.0,1870,28.0
+2020-10-11,Brunswick,Virginia,51025.0,392,5.0
+2020-10-12,Brunswick,North Carolina,37019.0,1890,28.0
+2020-10-12,Brunswick,Virginia,51025.0,394,5.0
+2020-10-13,Brunswick,North Carolina,37019.0,1902,30.0
+2020-10-13,Brunswick,Virginia,51025.0,397,5.0
+2020-10-14,Brunswick,North Carolina,37019.0,1915,30.0
+2020-10-14,Brunswick,Virginia,51025.0,398,5.0
+2020-10-15,Brunswick,North Carolina,37019.0,1942,31.0
+2020-10-15,Brunswick,Virginia,51025.0,402,5.0
+2020-10-16,Brunswick,North Carolina,37019.0,1986,31.0
+2020-10-16,Brunswick,Virginia,51025.0,402,5.0
+2020-10-17,Brunswick,North Carolina,37019.0,2000,33.0
+2020-10-17,Brunswick,Virginia,51025.0,404,5.0
+2020-10-18,Brunswick,North Carolina,37019.0,2018,34.0
+2020-10-18,Brunswick,Virginia,51025.0,408,5.0
+2020-10-19,Brunswick,North Carolina,37019.0,2033,34.0
+2020-10-19,Brunswick,Virginia,51025.0,410,5.0
+2020-10-20,Brunswick,North Carolina,37019.0,2046,35.0
+2020-10-20,Brunswick,Virginia,51025.0,412,5.0
+2020-10-21,Brunswick,North Carolina,37019.0,2079,35.0
+2020-10-21,Brunswick,Virginia,51025.0,414,5.0
+2020-10-22,Brunswick,North Carolina,37019.0,2106,37.0
+2020-10-22,Brunswick,Virginia,51025.0,416,5.0
+2020-10-23,Brunswick,North Carolina,37019.0,2117,38.0
+2020-10-23,Brunswick,Virginia,51025.0,419,5.0
+2020-10-24,Brunswick,North Carolina,37019.0,2139,40.0
+2020-10-24,Brunswick,Virginia,51025.0,420,5.0
+2020-10-25,Brunswick,North Carolina,37019.0,2149,40.0
+2020-10-25,Brunswick,Virginia,51025.0,421,5.0
+2020-10-26,Brunswick,North Carolina,37019.0,2160,41.0
+2020-10-26,Brunswick,Virginia,51025.0,421,5.0
+2020-10-27,Brunswick,North Carolina,37019.0,2168,45.0
+2020-10-27,Brunswick,Virginia,51025.0,421,5.0
+2020-10-28,Brunswick,North Carolina,37019.0,2186,46.0
+2020-10-28,Brunswick,Virginia,51025.0,420,5.0
+2020-10-29,Brunswick,North Carolina,37019.0,2201,46.0
+2020-10-29,Brunswick,Virginia,51025.0,421,5.0
+2020-10-30,Brunswick,North Carolina,37019.0,2220,46.0
+2020-10-30,Brunswick,Virginia,51025.0,424,5.0
+2020-10-31,Brunswick,North Carolina,37019.0,2232,49.0
+2020-10-31,Brunswick,Virginia,51025.0,424,5.0
+2020-11-01,Brunswick,North Carolina,37019.0,2250,49.0
+2020-11-01,Brunswick,Virginia,51025.0,424,5.0
+2020-11-02,Brunswick,North Carolina,37019.0,2257,49.0
+2020-11-02,Brunswick,Virginia,51025.0,427,5.0
+2020-11-03,Brunswick,North Carolina,37019.0,2271,52.0
+2020-11-03,Brunswick,Virginia,51025.0,427,5.0
+2020-11-04,Brunswick,North Carolina,37019.0,2296,52.0
+2020-11-04,Brunswick,Virginia,51025.0,432,5.0
+2020-11-05,Brunswick,North Carolina,37019.0,2311,52.0
+2020-11-05,Brunswick,Virginia,51025.0,434,5.0
+2020-11-06,Brunswick,North Carolina,37019.0,2334,52.0
+2020-11-06,Brunswick,Virginia,51025.0,434,5.0
+2020-11-07,Brunswick,North Carolina,37019.0,2350,52.0
+2020-11-07,Brunswick,Virginia,51025.0,435,5.0
+2020-11-08,Brunswick,North Carolina,37019.0,2371,52.0
+2020-11-08,Brunswick,Virginia,51025.0,435,6.0
+2020-11-09,Brunswick,North Carolina,37019.0,2396,52.0
+2020-11-09,Brunswick,Virginia,51025.0,440,6.0
+2020-11-10,Brunswick,North Carolina,37019.0,2407,53.0
+2020-11-10,Brunswick,Virginia,51025.0,441,6.0
+2020-11-11,Brunswick,North Carolina,37019.0,2437,54.0
+2020-11-11,Brunswick,Virginia,51025.0,442,6.0
+2020-11-12,Brunswick,North Carolina,37019.0,2470,54.0
+2020-11-12,Brunswick,Virginia,51025.0,443,6.0
+2020-11-13,Brunswick,North Carolina,37019.0,2478,54.0
+2020-11-13,Brunswick,Virginia,51025.0,446,6.0
+2020-11-14,Brunswick,North Carolina,37019.0,2521,55.0
+2020-11-14,Brunswick,Virginia,51025.0,447,6.0
+2020-11-15,Brunswick,North Carolina,37019.0,2554,55.0
+2020-11-15,Brunswick,Virginia,51025.0,447,6.0
+2020-11-16,Brunswick,North Carolina,37019.0,2567,55.0
+2020-11-16,Brunswick,Virginia,51025.0,448,6.0
+2020-11-17,Brunswick,North Carolina,37019.0,2587,55.0
+2020-11-17,Brunswick,Virginia,51025.0,449,6.0
+2020-11-18,Brunswick,North Carolina,37019.0,2623,55.0
+2020-11-18,Brunswick,Virginia,51025.0,452,6.0
+2020-11-19,Brunswick,North Carolina,37019.0,2654,55.0
+2020-11-19,Brunswick,Virginia,51025.0,453,6.0
+2020-11-20,Brunswick,North Carolina,37019.0,2696,55.0
+2020-11-20,Brunswick,Virginia,51025.0,454,6.0
+2020-11-21,Brunswick,North Carolina,37019.0,2719,55.0
+2020-11-21,Brunswick,Virginia,51025.0,454,6.0
+2020-11-22,Brunswick,North Carolina,37019.0,2768,55.0
+2020-11-22,Brunswick,Virginia,51025.0,454,6.0
+2020-11-23,Brunswick,North Carolina,37019.0,2790,55.0
+2020-11-23,Brunswick,Virginia,51025.0,458,6.0
+2020-11-24,Brunswick,North Carolina,37019.0,2812,55.0
+2020-11-24,Brunswick,Virginia,51025.0,458,6.0
+2020-11-25,Brunswick,North Carolina,37019.0,2851,55.0
+2020-11-25,Brunswick,Virginia,51025.0,460,6.0
+2020-11-26,Brunswick,North Carolina,37019.0,2851,55.0
+2020-11-26,Brunswick,Virginia,51025.0,460,6.0
+2020-11-27,Brunswick,North Carolina,37019.0,2929,57.0
+2020-11-27,Brunswick,Virginia,51025.0,460,7.0
+2020-11-28,Brunswick,North Carolina,37019.0,2973,58.0
+2020-11-28,Brunswick,Virginia,51025.0,468,7.0
+2020-11-29,Brunswick,North Carolina,37019.0,2998,59.0
+2020-11-29,Brunswick,Virginia,51025.0,468,7.0
+2020-11-30,Brunswick,North Carolina,37019.0,3040,59.0
+2020-11-30,Brunswick,Virginia,51025.0,471,7.0
+2020-12-01,Brunswick,North Carolina,37019.0,3068,60.0
+2020-12-01,Brunswick,Virginia,51025.0,474,7.0
+2020-12-02,Brunswick,North Carolina,37019.0,3092,62.0
+2020-12-02,Brunswick,Virginia,51025.0,474,7.0
+2020-12-03,Brunswick,North Carolina,37019.0,3145,63.0
+2020-12-03,Brunswick,Virginia,51025.0,482,7.0
+2020-12-04,Brunswick,North Carolina,37019.0,3227,63.0
+2020-12-04,Brunswick,Virginia,51025.0,486,7.0
+2020-12-05,Brunswick,North Carolina,37019.0,3269,64.0
+2020-12-05,Brunswick,Virginia,51025.0,489,8.0
+2020-12-06,Brunswick,North Carolina,37019.0,3311,64.0
+2020-12-06,Brunswick,Virginia,51025.0,502,8.0
+2020-12-07,Brunswick,North Carolina,37019.0,3345,64.0
+2020-12-07,Brunswick,Virginia,51025.0,505,8.0
+2020-12-08,Brunswick,North Carolina,37019.0,3372,64.0
+2020-12-08,Brunswick,Virginia,51025.0,509,8.0
+2020-12-09,Brunswick,North Carolina,37019.0,3425,66.0
+2020-12-09,Brunswick,Virginia,51025.0,512,8.0
+2020-12-10,Brunswick,North Carolina,37019.0,3482,66.0
+2020-12-10,Brunswick,Virginia,51025.0,516,8.0
+2020-12-11,Brunswick,North Carolina,37019.0,3525,66.0
+2020-12-11,Brunswick,Virginia,51025.0,518,8.0
+2020-12-12,Brunswick,North Carolina,37019.0,3558,66.0
+2020-12-12,Brunswick,Virginia,51025.0,522,8.0
+2020-12-13,Brunswick,North Carolina,37019.0,3610,66.0
+2020-12-13,Brunswick,Virginia,51025.0,522,8.0
+2020-12-14,Brunswick,North Carolina,37019.0,3634,66.0
+2020-12-14,Brunswick,Virginia,51025.0,521,8.0
+2020-12-15,Brunswick,North Carolina,37019.0,3667,66.0
+2020-12-15,Brunswick,Virginia,51025.0,529,8.0
+2020-12-16,Brunswick,North Carolina,37019.0,3714,67.0
+2020-12-16,Brunswick,Virginia,51025.0,533,8.0
+2020-12-17,Brunswick,North Carolina,37019.0,3761,70.0
+2020-12-17,Brunswick,Virginia,51025.0,538,8.0
+2020-12-18,Brunswick,North Carolina,37019.0,3802,70.0
+2020-12-18,Brunswick,Virginia,51025.0,542,8.0
+2020-12-19,Brunswick,North Carolina,37019.0,3851,70.0
+2020-12-19,Brunswick,Virginia,51025.0,545,8.0
+2020-12-20,Brunswick,North Carolina,37019.0,3908,70.0
+2020-12-20,Brunswick,Virginia,51025.0,553,8.0
+2020-12-21,Brunswick,North Carolina,37019.0,3937,70.0
+2020-12-21,Brunswick,Virginia,51025.0,555,8.0
+2020-12-22,Brunswick,North Carolina,37019.0,3983,70.0
+2020-12-22,Brunswick,Virginia,51025.0,561,8.0
+2020-12-23,Brunswick,North Carolina,37019.0,4026,71.0
+2020-12-23,Brunswick,Virginia,51025.0,572,7.0
+2020-12-24,Brunswick,North Carolina,37019.0,4026,71.0
+2020-12-24,Brunswick,Virginia,51025.0,583,7.0
+2020-12-25,Brunswick,North Carolina,37019.0,4026,71.0
+2020-12-25,Brunswick,Virginia,51025.0,585,7.0
+2020-12-26,Brunswick,North Carolina,37019.0,4192,71.0
+2020-12-26,Brunswick,Virginia,51025.0,589,7.0
+2020-12-27,Brunswick,North Carolina,37019.0,4213,71.0
+2020-12-27,Brunswick,Virginia,51025.0,592,7.0
+2020-12-28,Brunswick,North Carolina,37019.0,4243,71.0
+2020-12-28,Brunswick,Virginia,51025.0,599,7.0
+2020-12-29,Brunswick,North Carolina,37019.0,4266,71.0
+2020-12-29,Brunswick,Virginia,51025.0,610,7.0
+2020-12-30,Brunswick,North Carolina,37019.0,4364,72.0
+2020-12-30,Brunswick,Virginia,51025.0,630,7.0
+2020-12-31,Brunswick,North Carolina,37019.0,4402,72.0
+2020-12-31,Brunswick,Virginia,51025.0,641,7.0
+2021-01-01,Brunswick,North Carolina,37019.0,4402,72.0
+2021-01-01,Brunswick,Virginia,51025.0,650,7.0
+2021-01-02,Brunswick,North Carolina,37019.0,4580,74.0
+2021-01-02,Brunswick,Virginia,51025.0,653,7.0
+2021-01-03,Brunswick,North Carolina,37019.0,4659,74.0
+2021-01-03,Brunswick,Virginia,51025.0,654,7.0
+2021-01-04,Brunswick,North Carolina,37019.0,4691,74.0
+2021-01-04,Brunswick,Virginia,51025.0,659,7.0
+2021-01-05,Brunswick,North Carolina,37019.0,4739,74.0
+2021-01-05,Brunswick,Virginia,51025.0,676,7.0
+2021-01-06,Brunswick,North Carolina,37019.0,4794,74.0
+2021-01-06,Brunswick,Virginia,51025.0,690,7.0
+2021-01-07,Brunswick,North Carolina,37019.0,4926,74.0
+2021-01-07,Brunswick,Virginia,51025.0,721,7.0
+2021-01-08,Brunswick,North Carolina,37019.0,5018,74.0
+2021-01-08,Brunswick,Virginia,51025.0,728,7.0
+2021-01-09,Brunswick,North Carolina,37019.0,5110,78.0
+2021-01-09,Brunswick,Virginia,51025.0,776,7.0
+2021-01-10,Brunswick,North Carolina,37019.0,5204,78.0
+2021-01-10,Brunswick,Virginia,51025.0,775,7.0
+2021-01-11,Brunswick,North Carolina,37019.0,5268,78.0
+2021-01-11,Brunswick,Virginia,51025.0,821,7.0
+2021-01-12,Brunswick,North Carolina,37019.0,5332,78.0
+2021-01-12,Brunswick,Virginia,51025.0,834,7.0
+2021-01-13,Brunswick,North Carolina,37019.0,5392,79.0
+2021-01-13,Brunswick,Virginia,51025.0,841,7.0
+2021-01-14,Brunswick,North Carolina,37019.0,5469,79.0
+2021-01-14,Brunswick,Virginia,51025.0,850,7.0
+2021-01-15,Brunswick,North Carolina,37019.0,5544,79.0
+2021-01-15,Brunswick,Virginia,51025.0,855,7.0
+2021-01-16,Brunswick,North Carolina,37019.0,5624,80.0
+2021-01-16,Brunswick,Virginia,51025.0,879,7.0
+2021-01-17,Brunswick,North Carolina,37019.0,5689,81.0
+2021-01-17,Brunswick,Virginia,51025.0,916,7.0
+2021-01-18,Brunswick,North Carolina,37019.0,5689,81.0
+2021-01-18,Brunswick,Virginia,51025.0,928,7.0
+2021-01-19,Brunswick,North Carolina,37019.0,5751,82.0
+2021-01-19,Brunswick,Virginia,51025.0,936,7.0
+2021-01-20,Brunswick,North Carolina,37019.0,5862,82.0
+2021-01-20,Brunswick,Virginia,51025.0,943,8.0
+2021-01-21,Brunswick,North Carolina,37019.0,5915,86.0
+2021-01-21,Brunswick,Virginia,51025.0,997,8.0
+2021-01-22,Brunswick,North Carolina,37019.0,5992,86.0
+2021-01-22,Brunswick,Virginia,51025.0,1042,8.0
+2021-01-23,Brunswick,North Carolina,37019.0,6076,86.0
+2021-01-23,Brunswick,Virginia,51025.0,1046,8.0
+2021-01-24,Brunswick,North Carolina,37019.0,6149,86.0
+2021-01-24,Brunswick,Virginia,51025.0,1052,8.0
+2021-01-25,Brunswick,North Carolina,37019.0,6202,86.0
+2021-01-25,Brunswick,Virginia,51025.0,1058,8.0
+2021-01-26,Brunswick,North Carolina,37019.0,6245,86.0
+2021-01-26,Brunswick,Virginia,51025.0,1064,9.0
+2021-01-27,Brunswick,North Carolina,37019.0,6295,93.0
+2021-01-27,Brunswick,Virginia,51025.0,1081,9.0
+2021-01-28,Brunswick,North Carolina,37019.0,6377,93.0
+2021-01-28,Brunswick,Virginia,51025.0,1085,9.0
+2021-01-29,Brunswick,North Carolina,37019.0,6434,94.0
+2021-01-29,Brunswick,Virginia,51025.0,1078,9.0
+2021-01-30,Brunswick,North Carolina,37019.0,6434,94.0
+2021-01-30,Brunswick,Virginia,51025.0,1086,9.0
+2021-01-31,Brunswick,North Carolina,37019.0,6571,102.0
+2021-01-31,Brunswick,Virginia,51025.0,1089,9.0
+2021-02-01,Brunswick,North Carolina,37019.0,6623,102.0
+2021-02-01,Brunswick,Virginia,51025.0,1094,9.0
+2021-02-02,Brunswick,North Carolina,37019.0,6669,102.0
+2021-02-02,Brunswick,Virginia,51025.0,1095,9.0
+2021-02-03,Brunswick,North Carolina,37019.0,6788,102.0
+2021-02-03,Brunswick,Virginia,51025.0,1100,10.0
+2021-02-04,Brunswick,North Carolina,37019.0,6862,103.0
+2021-02-04,Brunswick,Virginia,51025.0,1107,10.0
+2021-02-05,Brunswick,North Carolina,37019.0,6912,105.0
+2021-02-05,Brunswick,Virginia,51025.0,1117,10.0
+2021-02-06,Brunswick,North Carolina,37019.0,6986,105.0
+2021-02-06,Brunswick,Virginia,51025.0,1127,10.0
+2021-02-07,Brunswick,North Carolina,37019.0,7047,107.0
+2021-02-07,Brunswick,Virginia,51025.0,1133,10.0
+2021-02-08,Brunswick,North Carolina,37019.0,7103,107.0
+2021-02-08,Brunswick,Virginia,51025.0,1134,10.0
+2021-02-09,Brunswick,North Carolina,37019.0,7148,108.0
+2021-02-09,Brunswick,Virginia,51025.0,1138,10.0
+2021-02-10,Brunswick,North Carolina,37019.0,7199,109.0
+2021-02-10,Brunswick,Virginia,51025.0,1144,10.0
+2021-02-11,Brunswick,North Carolina,37019.0,7264,111.0
+2021-02-11,Brunswick,Virginia,51025.0,1146,10.0
+2021-02-12,Brunswick,North Carolina,37019.0,7355,112.0
+2021-02-12,Brunswick,Virginia,51025.0,1149,10.0
+2021-02-13,Brunswick,North Carolina,37019.0,7419,117.0
+2021-02-13,Brunswick,Virginia,51025.0,1153,10.0
+2021-02-14,Brunswick,North Carolina,37019.0,7472,119.0
+2021-02-14,Brunswick,Virginia,51025.0,1157,10.0
+2021-02-15,Brunswick,North Carolina,37019.0,7510,121.0
+2021-02-15,Brunswick,Virginia,51025.0,1157,10.0
+2021-02-16,Brunswick,North Carolina,37019.0,7543,121.0
+2021-02-16,Brunswick,Virginia,51025.0,1157,10.0
+2021-02-17,Brunswick,North Carolina,37019.0,7593,121.0
+2021-02-17,Brunswick,Virginia,51025.0,1162,11.0
+2021-02-18,Brunswick,North Carolina,37019.0,7658,124.0
+2021-02-18,Brunswick,Virginia,51025.0,1166,11.0
+2021-02-19,Brunswick,North Carolina,37019.0,7723,125.0
+2021-02-19,Brunswick,Virginia,51025.0,1171,11.0
+2021-02-20,Brunswick,North Carolina,37019.0,7752,130.0
+2021-02-20,Brunswick,Virginia,51025.0,1174,11.0
+2021-02-21,Brunswick,North Carolina,37019.0,7784,131.0
+2021-02-21,Brunswick,Virginia,51025.0,1178,11.0
+2021-02-22,Brunswick,North Carolina,37019.0,7807,131.0
+2021-02-22,Brunswick,Virginia,51025.0,1181,12.0
+2021-02-23,Brunswick,North Carolina,37019.0,7825,132.0
+2021-02-23,Brunswick,Virginia,51025.0,1184,12.0
+2021-02-24,Brunswick,North Carolina,37019.0,7884,133.0
+2021-02-24,Brunswick,Virginia,51025.0,1187,12.0
+2021-02-25,Brunswick,North Carolina,37019.0,7916,133.0
+2021-02-25,Brunswick,Virginia,51025.0,1186,12.0
+2021-02-26,Brunswick,North Carolina,37019.0,7952,133.0
+2021-02-26,Brunswick,Virginia,51025.0,1189,14.0
+2021-02-27,Brunswick,North Carolina,37019.0,7971,133.0
+2021-02-27,Brunswick,Virginia,51025.0,1192,14.0
+2021-02-28,Brunswick,North Carolina,37019.0,7971,133.0
+2021-02-28,Brunswick,Virginia,51025.0,1195,16.0
+2021-03-01,Brunswick,North Carolina,37019.0,8007,134.0
+2021-03-01,Brunswick,Virginia,51025.0,1200,16.0
+2021-03-02,Brunswick,North Carolina,37019.0,8019,135.0
+2021-03-02,Brunswick,Virginia,51025.0,1204,16.0
+2021-03-03,Brunswick,North Carolina,37019.0,8040,136.0
+2021-03-03,Brunswick,Virginia,51025.0,1206,17.0
+2021-03-04,Brunswick,North Carolina,37019.0,8067,137.0
+2021-03-04,Brunswick,Virginia,51025.0,1210,17.0
+2021-03-05,Brunswick,North Carolina,37019.0,8084,137.0
+2021-03-05,Brunswick,Virginia,51025.0,1212,17.0
+2021-03-06,Brunswick,North Carolina,37019.0,8116,137.0
+2021-03-06,Brunswick,Virginia,51025.0,1213,17.0
+2021-03-07,Brunswick,North Carolina,37019.0,8116,137.0
+2021-03-07,Brunswick,Virginia,51025.0,1215,17.0
+2021-03-08,Brunswick,North Carolina,37019.0,8161,137.0
+2021-03-08,Brunswick,Virginia,51025.0,1218,19.0
+2021-03-09,Brunswick,North Carolina,37019.0,8176,137.0
+2021-03-09,Brunswick,Virginia,51025.0,1218,19.0
+2021-03-10,Brunswick,North Carolina,37019.0,8197,138.0
+2021-03-10,Brunswick,Virginia,51025.0,1219,20.0
+2021-03-11,Brunswick,North Carolina,37019.0,8218,138.0
+2021-03-11,Brunswick,Virginia,51025.0,1220,20.0
+2021-03-12,Brunswick,North Carolina,37019.0,8243,138.0
+2021-03-12,Brunswick,Virginia,51025.0,1222,20.0
+2021-03-13,Brunswick,North Carolina,37019.0,8251,138.0
+2021-03-13,Brunswick,Virginia,51025.0,1225,20.0
+2021-03-14,Brunswick,North Carolina,37019.0,8251,138.0
+2021-03-14,Brunswick,Virginia,51025.0,1230,20.0
+2021-03-15,Brunswick,North Carolina,37019.0,8296,138.0
+2021-03-15,Brunswick,Virginia,51025.0,1231,20.0
+2021-03-16,Brunswick,North Carolina,37019.0,8304,138.0
+2021-03-16,Brunswick,Virginia,51025.0,1234,20.0
+2021-03-17,Brunswick,North Carolina,37019.0,8322,141.0
+2021-03-17,Brunswick,Virginia,51025.0,1236,20.0
+2021-03-18,Brunswick,North Carolina,37019.0,8340,141.0
+2021-03-18,Brunswick,Virginia,51025.0,1237,20.0
+2021-03-19,Brunswick,North Carolina,37019.0,8369,141.0
+2021-03-19,Brunswick,Virginia,51025.0,1237,20.0
+2021-03-20,Brunswick,North Carolina,37019.0,8400,142.0
+2021-03-20,Brunswick,Virginia,51025.0,1237,20.0
+2021-03-21,Brunswick,North Carolina,37019.0,8400,142.0
+2021-03-21,Brunswick,Virginia,51025.0,1239,20.0
+2021-03-22,Brunswick,North Carolina,37019.0,8422,142.0
+2021-03-22,Brunswick,Virginia,51025.0,1239,20.0
+2021-03-23,Brunswick,North Carolina,37019.0,8426,142.0
+2021-03-23,Brunswick,Virginia,51025.0,1239,20.0
+2021-03-24,Brunswick,North Carolina,37019.0,8443,142.0
+2021-03-24,Brunswick,Virginia,51025.0,1241,20.0
+2021-03-25,Brunswick,North Carolina,37019.0,8473,142.0
+2021-03-25,Brunswick,Virginia,51025.0,1241,20.0
+2021-03-26,Brunswick,North Carolina,37019.0,8503,142.0
+2021-03-26,Brunswick,Virginia,51025.0,1246,20.0
+2021-03-27,Brunswick,North Carolina,37019.0,8503,142.0
+2021-03-27,Brunswick,Virginia,51025.0,1252,20.0
+2021-03-28,Brunswick,North Carolina,37019.0,8503,142.0
+2021-03-28,Brunswick,Virginia,51025.0,1252,20.0
+2021-03-29,Brunswick,North Carolina,37019.0,8547,142.0
+2021-03-29,Brunswick,Virginia,51025.0,1252,20.0
+2021-03-30,Brunswick,North Carolina,37019.0,8557,142.0
+2021-03-30,Brunswick,Virginia,51025.0,1255,20.0
+2021-03-31,Brunswick,North Carolina,37019.0,8567,143.0
+2021-03-31,Brunswick,Virginia,51025.0,1256,20.0
+2021-04-01,Brunswick,North Carolina,37019.0,8574,143.0
+2021-04-01,Brunswick,Virginia,51025.0,1259,20.0
+2021-04-02,Brunswick,North Carolina,37019.0,8574,143.0
+2021-04-02,Brunswick,Virginia,51025.0,1265,20.0
+2021-04-03,Brunswick,North Carolina,37019.0,8574,143.0
+2021-04-03,Brunswick,Virginia,51025.0,1267,20.0
+2021-04-04,Brunswick,North Carolina,37019.0,8574,143.0
+2021-04-04,Brunswick,Virginia,51025.0,1269,20.0
+2021-04-05,Brunswick,North Carolina,37019.0,8635,146.0
+2021-04-05,Brunswick,Virginia,51025.0,1269,20.0
+2021-04-06,Brunswick,North Carolina,37019.0,8640,147.0
+2021-04-06,Brunswick,Virginia,51025.0,1269,20.0
+2021-04-07,Brunswick,North Carolina,37019.0,8657,147.0
+2021-04-07,Brunswick,Virginia,51025.0,1269,20.0
+2021-04-08,Brunswick,North Carolina,37019.0,8679,147.0
+2021-04-08,Brunswick,Virginia,51025.0,1270,20.0
+2021-04-09,Brunswick,North Carolina,37019.0,8716,147.0
+2021-04-09,Brunswick,Virginia,51025.0,1271,20.0
+2021-04-10,Brunswick,North Carolina,37019.0,8716,147.0
+2021-04-10,Brunswick,Virginia,51025.0,1271,20.0
+2021-04-11,Brunswick,North Carolina,37019.0,8716,147.0
+2021-04-11,Brunswick,Virginia,51025.0,1271,20.0
+2021-04-12,Brunswick,North Carolina,37019.0,8758,147.0
+2021-04-12,Brunswick,Virginia,51025.0,1271,20.0
+2021-04-13,Brunswick,North Carolina,37019.0,8761,147.0
+2021-04-13,Brunswick,Virginia,51025.0,1276,20.0
+2021-04-14,Brunswick,North Carolina,37019.0,8778,147.0
+2021-04-14,Brunswick,Virginia,51025.0,1277,20.0
+2021-04-15,Brunswick,North Carolina,37019.0,8801,147.0
+2021-04-15,Brunswick,Virginia,51025.0,1276,20.0
+2021-04-16,Brunswick,North Carolina,37019.0,8819,147.0
+2021-04-16,Brunswick,Virginia,51025.0,1279,20.0
+2021-04-17,Brunswick,North Carolina,37019.0,8819,147.0
+2021-04-17,Brunswick,Virginia,51025.0,1282,20.0
+2021-04-18,Brunswick,North Carolina,37019.0,8819,147.0
+2021-04-18,Brunswick,Virginia,51025.0,1282,20.0
+2021-04-19,Brunswick,North Carolina,37019.0,8860,147.0
+2021-04-19,Brunswick,Virginia,51025.0,1283,20.0
+2021-04-20,Brunswick,North Carolina,37019.0,8865,148.0
+2021-04-20,Brunswick,Virginia,51025.0,1284,20.0
+2021-04-21,Brunswick,North Carolina,37019.0,8878,149.0
+2021-04-21,Brunswick,Virginia,51025.0,1287,21.0
+2021-04-22,Brunswick,North Carolina,37019.0,8889,149.0
+2021-04-22,Brunswick,Virginia,51025.0,1288,21.0
+2021-04-23,Brunswick,North Carolina,37019.0,8904,149.0
+2021-04-23,Brunswick,Virginia,51025.0,1289,21.0
+2021-04-24,Brunswick,North Carolina,37019.0,8904,149.0
+2021-04-24,Brunswick,Virginia,51025.0,1290,21.0
+2021-04-25,Brunswick,North Carolina,37019.0,8904,149.0
+2021-04-25,Brunswick,Virginia,51025.0,1290,21.0
+2021-04-26,Brunswick,North Carolina,37019.0,8957,150.0
+2021-04-26,Brunswick,Virginia,51025.0,1290,21.0
+2021-04-27,Brunswick,North Carolina,37019.0,8965,150.0
+2021-04-27,Brunswick,Virginia,51025.0,1293,21.0
+2021-04-28,Brunswick,North Carolina,37019.0,8983,152.0
+2021-04-28,Brunswick,Virginia,51025.0,1294,21.0
+2021-04-29,Brunswick,North Carolina,37019.0,8994,152.0
+2021-04-29,Brunswick,Virginia,51025.0,1294,21.0
+2021-04-30,Brunswick,North Carolina,37019.0,9012,152.0
+2021-04-30,Brunswick,Virginia,51025.0,1296,21.0
+2021-05-01,Brunswick,North Carolina,37019.0,9012,152.0
+2021-05-01,Brunswick,Virginia,51025.0,1296,21.0
+2021-05-02,Brunswick,North Carolina,37019.0,9012,152.0
+2021-05-02,Brunswick,Virginia,51025.0,1298,21.0
+2021-05-03,Brunswick,North Carolina,37019.0,9046,152.0
+2021-05-03,Brunswick,Virginia,51025.0,1301,21.0
+2021-05-04,Brunswick,North Carolina,37019.0,9054,152.0
+2021-05-04,Brunswick,Virginia,51025.0,1303,21.0
+2021-05-05,Brunswick,North Carolina,37019.0,9067,152.0
+2021-05-05,Brunswick,Virginia,51025.0,1308,21.0
+2021-05-06,Brunswick,North Carolina,37019.0,9079,152.0
+2021-05-06,Brunswick,Virginia,51025.0,1308,21.0
+2021-05-07,Brunswick,North Carolina,37019.0,9099,152.0
+2021-05-07,Brunswick,Virginia,51025.0,1309,22.0
+2021-05-08,Brunswick,North Carolina,37019.0,9099,152.0
+2021-05-08,Brunswick,Virginia,51025.0,1310,22.0
+2021-05-09,Brunswick,North Carolina,37019.0,9099,152.0
+2021-05-09,Brunswick,Virginia,51025.0,1311,22.0
+2021-05-10,Brunswick,North Carolina,37019.0,9122,152.0
+2021-05-10,Brunswick,Virginia,51025.0,1311,22.0
+2021-05-11,Brunswick,North Carolina,37019.0,9125,152.0
+2021-05-11,Brunswick,Virginia,51025.0,1312,22.0
+2021-05-12,Brunswick,North Carolina,37019.0,9136,152.0
+2021-05-12,Brunswick,Virginia,51025.0,1312,22.0
+2021-05-13,Brunswick,North Carolina,37019.0,9146,153.0
+2021-05-13,Brunswick,Virginia,51025.0,1312,22.0
+2021-05-14,Brunswick,North Carolina,37019.0,9160,153.0
+2021-05-14,Brunswick,Virginia,51025.0,1314,22.0
+2021-05-15,Brunswick,North Carolina,37019.0,9160,153.0
+2021-05-15,Brunswick,Virginia,51025.0,1317,22.0
+2021-05-16,Brunswick,North Carolina,37019.0,9160,153.0
+2021-05-16,Brunswick,Virginia,51025.0,1318,22.0
+2021-05-17,Brunswick,North Carolina,37019.0,9173,153.0
+2021-05-17,Brunswick,Virginia,51025.0,1318,22.0
+2021-05-18,Brunswick,North Carolina,37019.0,9176,153.0
+2021-05-18,Brunswick,Virginia,51025.0,1318,22.0
+2021-05-19,Brunswick,North Carolina,37019.0,9181,153.0
+2021-05-19,Brunswick,Virginia,51025.0,1319,22.0
+2021-05-20,Brunswick,North Carolina,37019.0,9191,153.0
+2021-05-20,Brunswick,Virginia,51025.0,1320,23.0
+2021-05-21,Brunswick,North Carolina,37019.0,9202,153.0
+2021-05-21,Brunswick,Virginia,51025.0,1322,23.0
+2021-05-22,Brunswick,North Carolina,37019.0,9202,153.0
+2021-05-22,Brunswick,Virginia,51025.0,1323,23.0
+2021-05-23,Brunswick,North Carolina,37019.0,9202,153.0
+2021-05-23,Brunswick,Virginia,51025.0,1324,23.0
+2021-05-24,Brunswick,North Carolina,37019.0,9227,153.0
+2021-05-24,Brunswick,Virginia,51025.0,1324,23.0
+2021-05-25,Brunswick,North Carolina,37019.0,9229,153.0
+2021-05-25,Brunswick,Virginia,51025.0,1325,23.0
+2021-05-26,Brunswick,North Carolina,37019.0,9236,153.0
+2021-05-26,Brunswick,Virginia,51025.0,1325,23.0
+2021-05-27,Brunswick,North Carolina,37019.0,9248,153.0
+2021-05-27,Brunswick,Virginia,51025.0,1326,23.0
+2021-05-28,Brunswick,North Carolina,37019.0,9250,153.0
+2021-05-28,Brunswick,Virginia,51025.0,1326,23.0
+2021-05-29,Brunswick,North Carolina,37019.0,9250,153.0
+2021-05-29,Brunswick,Virginia,51025.0,1326,23.0
+2021-05-30,Brunswick,North Carolina,37019.0,9250,153.0
+2021-05-30,Brunswick,Virginia,51025.0,1326,23.0
+2021-05-31,Brunswick,North Carolina,37019.0,9250,153.0
+2021-05-31,Brunswick,Virginia,51025.0,1327,23.0
+2021-06-01,Brunswick,North Carolina,37019.0,9261,153.0
+2021-06-01,Brunswick,Virginia,51025.0,1327,24.0
+2021-06-02,Brunswick,North Carolina,37019.0,9262,153.0
+2021-06-02,Brunswick,Virginia,51025.0,1327,24.0
+2021-06-03,Brunswick,North Carolina,37019.0,9268,153.0
+2021-06-03,Brunswick,Virginia,51025.0,1328,24.0
+2021-06-04,Brunswick,North Carolina,37019.0,9274,153.0
+2021-06-04,Brunswick,Virginia,51025.0,1328,24.0
+2021-06-05,Brunswick,North Carolina,37019.0,9274,153.0
+2021-06-05,Brunswick,Virginia,51025.0,1327,24.0
+2021-06-06,Brunswick,North Carolina,37019.0,9274,153.0
+2021-06-06,Brunswick,Virginia,51025.0,1327,24.0
+2021-06-07,Brunswick,North Carolina,37019.0,9285,154.0
+2021-06-07,Brunswick,Virginia,51025.0,1327,24.0
+2021-06-08,Brunswick,North Carolina,37019.0,9286,154.0
+2021-06-08,Brunswick,Virginia,51025.0,1328,24.0
+2021-06-09,Brunswick,North Carolina,37019.0,9291,154.0
+2021-06-09,Brunswick,Virginia,51025.0,1331,24.0
+2021-06-10,Brunswick,North Carolina,37019.0,9297,154.0
+2021-06-10,Brunswick,Virginia,51025.0,1335,24.0
+2021-06-11,Brunswick,North Carolina,37019.0,9301,154.0
+2021-06-11,Brunswick,Virginia,51025.0,1338,24.0
+2021-06-12,Brunswick,North Carolina,37019.0,9301,154.0
+2021-06-12,Brunswick,Virginia,51025.0,1337,24.0
+2021-06-13,Brunswick,North Carolina,37019.0,9301,154.0
+2021-06-13,Brunswick,Virginia,51025.0,1337,24.0
+2021-06-14,Brunswick,North Carolina,37019.0,9303,155.0
+2021-06-14,Brunswick,Virginia,51025.0,1337,24.0
+2021-06-15,Brunswick,North Carolina,37019.0,9302,155.0
+2021-06-15,Brunswick,Virginia,51025.0,1337,24.0
+2021-06-16,Brunswick,North Carolina,37019.0,9303,155.0
+2021-06-16,Brunswick,Virginia,51025.0,1337,24.0
+2021-06-17,Brunswick,North Carolina,37019.0,9308,155.0
+2021-06-17,Brunswick,Virginia,51025.0,1337,24.0
+2021-06-18,Brunswick,North Carolina,37019.0,9317,155.0
+2021-06-18,Brunswick,Virginia,51025.0,1337,24.0
+2021-06-19,Brunswick,North Carolina,37019.0,9317,155.0
+2021-06-19,Brunswick,Virginia,51025.0,1335,24.0
+2021-06-20,Brunswick,North Carolina,37019.0,9317,155.0
+2021-06-20,Brunswick,Virginia,51025.0,1335,24.0
+2021-06-21,Brunswick,North Carolina,37019.0,9325,155.0
+2021-06-21,Brunswick,Virginia,51025.0,1335,24.0
+2021-06-22,Brunswick,North Carolina,37019.0,9326,155.0
+2021-06-22,Brunswick,Virginia,51025.0,1335,24.0
+2021-06-23,Brunswick,North Carolina,37019.0,9326,155.0
+2021-06-23,Brunswick,Virginia,51025.0,1336,25.0
+2021-06-24,Brunswick,North Carolina,37019.0,9329,155.0
+2021-06-24,Brunswick,Virginia,51025.0,1336,25.0
+2021-06-25,Brunswick,North Carolina,37019.0,9332,155.0
+2021-06-25,Brunswick,Virginia,51025.0,1336,25.0
+2021-06-26,Brunswick,North Carolina,37019.0,9332,155.0
+2021-06-26,Brunswick,Virginia,51025.0,1336,25.0
+2021-06-27,Brunswick,North Carolina,37019.0,9332,155.0
+2021-06-27,Brunswick,Virginia,51025.0,1336,25.0
+2021-06-28,Brunswick,North Carolina,37019.0,9335,156.0
+2021-06-28,Brunswick,Virginia,51025.0,1336,25.0
+2021-06-29,Brunswick,North Carolina,37019.0,9336,156.0
+2021-06-29,Brunswick,Virginia,51025.0,1337,25.0
+2021-06-30,Brunswick,North Carolina,37019.0,9336,156.0
+2021-06-30,Brunswick,Virginia,51025.0,1338,25.0
+2021-07-01,Brunswick,North Carolina,37019.0,9337,156.0
+2021-07-01,Brunswick,Virginia,51025.0,1339,25.0
+2021-07-02,Brunswick,North Carolina,37019.0,9342,156.0
+2021-07-02,Brunswick,Virginia,51025.0,1339,25.0
+2021-07-03,Brunswick,North Carolina,37019.0,9342,156.0
+2021-07-03,Brunswick,Virginia,51025.0,1339,25.0
+2021-07-04,Brunswick,North Carolina,37019.0,9342,156.0
+2021-07-04,Brunswick,Virginia,51025.0,1339,25.0
+2021-07-05,Brunswick,North Carolina,37019.0,9342,156.0
+2021-07-05,Brunswick,Virginia,51025.0,1339,25.0
+2021-07-06,Brunswick,North Carolina,37019.0,9374,156.0
+2021-07-06,Brunswick,Virginia,51025.0,1339,25.0
+2021-07-07,Brunswick,North Carolina,37019.0,9382,156.0
+2021-07-07,Brunswick,Virginia,51025.0,1341,25.0
+2021-07-08,Brunswick,North Carolina,37019.0,9393,156.0
+2021-07-08,Brunswick,Virginia,51025.0,1341,25.0
+2021-07-09,Brunswick,North Carolina,37019.0,9402,156.0
+2021-07-09,Brunswick,Virginia,51025.0,1342,25.0
+2021-07-10,Brunswick,North Carolina,37019.0,9402,156.0
+2021-07-10,Brunswick,Virginia,51025.0,1342,25.0
+2021-07-11,Brunswick,North Carolina,37019.0,9402,156.0
+2021-07-11,Brunswick,Virginia,51025.0,1342,25.0
+2021-07-12,Brunswick,North Carolina,37019.0,9436,156.0
+2021-07-12,Brunswick,Virginia,51025.0,1342,25.0
+2021-07-13,Brunswick,North Carolina,37019.0,9448,156.0
+2021-07-13,Brunswick,Virginia,51025.0,1344,25.0
+2021-07-14,Brunswick,North Carolina,37019.0,9460,156.0
+2021-07-14,Brunswick,Virginia,51025.0,1345,25.0
+2021-07-15,Brunswick,North Carolina,37019.0,9469,156.0
+2021-07-15,Brunswick,Virginia,51025.0,1346,25.0
+2021-07-16,Brunswick,North Carolina,37019.0,9490,156.0
+2021-07-16,Brunswick,Virginia,51025.0,1346,25.0
+2021-07-17,Brunswick,North Carolina,37019.0,9490,156.0
+2021-07-17,Brunswick,Virginia,51025.0,1346,25.0
+2021-07-18,Brunswick,North Carolina,37019.0,9490,156.0
+2021-07-18,Brunswick,Virginia,51025.0,1346,25.0
+2021-07-19,Brunswick,North Carolina,37019.0,9523,156.0
+2021-07-19,Brunswick,Virginia,51025.0,1347,25.0
+2021-07-20,Brunswick,North Carolina,37019.0,9528,156.0
+2021-07-20,Brunswick,Virginia,51025.0,1349,25.0
+2021-07-21,Brunswick,North Carolina,37019.0,9539,156.0
+2021-07-21,Brunswick,Virginia,51025.0,1349,25.0
+2021-07-22,Brunswick,North Carolina,37019.0,9560,156.0
+2021-07-22,Brunswick,Virginia,51025.0,1349,25.0
+2021-07-23,Brunswick,North Carolina,37019.0,9588,156.0
+2021-07-23,Brunswick,Virginia,51025.0,1350,25.0
+2021-07-24,Brunswick,North Carolina,37019.0,9588,156.0
+2021-07-24,Brunswick,Virginia,51025.0,1350,25.0
+2021-07-25,Brunswick,North Carolina,37019.0,9588,156.0
+2021-07-25,Brunswick,Virginia,51025.0,1350,25.0
+2021-07-26,Brunswick,North Carolina,37019.0,9681,158.0
+2021-07-26,Brunswick,Virginia,51025.0,1350,25.0
+2021-07-27,Brunswick,North Carolina,37019.0,9701,158.0
+2021-07-27,Brunswick,Virginia,51025.0,1353,25.0
+2021-07-28,Brunswick,North Carolina,37019.0,9746,158.0
+2021-07-28,Brunswick,Virginia,51025.0,1353,25.0
+2021-07-29,Brunswick,North Carolina,37019.0,9803,158.0
+2021-07-29,Brunswick,Virginia,51025.0,1353,25.0
+2021-07-30,Brunswick,North Carolina,37019.0,9857,159.0
+2021-07-30,Brunswick,Virginia,51025.0,1356,25.0
+2021-07-31,Brunswick,North Carolina,37019.0,9857,159.0
+2021-07-31,Brunswick,Virginia,51025.0,1356,25.0
+2021-08-01,Brunswick,North Carolina,37019.0,9857,159.0
+2021-08-01,Brunswick,Virginia,51025.0,1356,25.0
+2021-08-02,Brunswick,North Carolina,37019.0,10019,161.0
+2021-08-02,Brunswick,Virginia,51025.0,1359,25.0
+2021-08-03,Brunswick,North Carolina,37019.0,10073,161.0
+2021-08-03,Brunswick,Virginia,51025.0,1364,25.0
+2021-08-04,Brunswick,North Carolina,37019.0,10139,162.0
+2021-08-04,Brunswick,Virginia,51025.0,1369,25.0
+2021-08-05,Brunswick,North Carolina,37019.0,10229,163.0
+2021-08-05,Brunswick,Virginia,51025.0,1370,25.0
+2021-08-06,Brunswick,North Carolina,37019.0,10314,163.0
+2021-08-06,Brunswick,Virginia,51025.0,1379,25.0
+2021-08-07,Brunswick,North Carolina,37019.0,10314,163.0
+2021-08-07,Brunswick,Virginia,51025.0,1379,25.0
+2021-08-08,Brunswick,North Carolina,37019.0,10314,163.0
+2021-08-08,Brunswick,Virginia,51025.0,1379,25.0
+2021-08-09,Brunswick,North Carolina,37019.0,10692,164.0
+2021-08-09,Brunswick,Virginia,51025.0,1384,25.0
+2021-08-10,Brunswick,North Carolina,37019.0,10754,164.0
+2021-08-10,Brunswick,Virginia,51025.0,1386,25.0
+2021-08-11,Brunswick,North Carolina,37019.0,10831,166.0
+2021-08-11,Brunswick,Virginia,51025.0,1390,25.0
+2021-08-12,Brunswick,North Carolina,37019.0,10954,167.0
+2021-08-12,Brunswick,Virginia,51025.0,1392,25.0
+2021-08-13,Brunswick,North Carolina,37019.0,11056,167.0
+2021-08-13,Brunswick,Virginia,51025.0,1394,25.0
+2021-08-14,Brunswick,North Carolina,37019.0,11056,167.0
+2021-08-14,Brunswick,Virginia,51025.0,1394,25.0
+2021-08-15,Brunswick,North Carolina,37019.0,11056,167.0
+2021-08-15,Brunswick,Virginia,51025.0,1394,25.0
+2021-08-16,Brunswick,North Carolina,37019.0,11336,169.0
+2021-08-16,Brunswick,Virginia,51025.0,1407,25.0
+2021-08-17,Brunswick,North Carolina,37019.0,11400,170.0
+2021-08-17,Brunswick,Virginia,51025.0,1416,25.0
+2021-08-18,Brunswick,North Carolina,37019.0,11498,171.0
+2021-08-18,Brunswick,Virginia,51025.0,1425,25.0
+2021-08-19,Brunswick,North Carolina,37019.0,11612,171.0
+2021-08-19,Brunswick,Virginia,51025.0,1430,25.0
+2021-08-20,Brunswick,North Carolina,37019.0,11730,172.0
+2021-08-20,Brunswick,Virginia,51025.0,1442,25.0
+2021-08-21,Brunswick,North Carolina,37019.0,11730,172.0
+2021-08-21,Brunswick,Virginia,51025.0,1442,25.0
+2021-08-22,Brunswick,North Carolina,37019.0,11730,172.0
+2021-08-22,Brunswick,Virginia,51025.0,1442,25.0
+2021-08-23,Brunswick,North Carolina,37019.0,12016,173.0
+2021-08-23,Brunswick,Virginia,51025.0,1454,26.0
+2021-08-24,Brunswick,North Carolina,37019.0,12097,173.0
+2021-08-24,Brunswick,Virginia,51025.0,1464,26.0
+2021-08-25,Brunswick,North Carolina,37019.0,12177,175.0
+2021-08-25,Brunswick,Virginia,51025.0,1471,27.0
+2021-08-26,Brunswick,North Carolina,37019.0,12328,176.0
+2021-08-26,Brunswick,Virginia,51025.0,1491,27.0
+2021-08-27,Brunswick,North Carolina,37019.0,12419,180.0
+2021-08-27,Brunswick,Virginia,51025.0,1496,27.0
+2021-08-28,Brunswick,North Carolina,37019.0,12419,180.0
+2021-08-28,Brunswick,Virginia,51025.0,1496,27.0
+2021-08-29,Brunswick,North Carolina,37019.0,12419,180.0
+2021-08-29,Brunswick,Virginia,51025.0,1496,27.0
+2021-08-30,Brunswick,North Carolina,37019.0,12710,180.0
+2021-08-30,Brunswick,Virginia,51025.0,1511,27.0
+2021-08-31,Brunswick,North Carolina,37019.0,12780,181.0
+2021-08-31,Brunswick,Virginia,51025.0,1520,27.0
+2021-09-01,Brunswick,North Carolina,37019.0,12883,183.0
+2021-09-01,Brunswick,Virginia,51025.0,1534,27.0
+2021-09-02,Brunswick,North Carolina,37019.0,13004,185.0
+2021-09-02,Brunswick,Virginia,51025.0,1550,27.0
+2021-09-03,Brunswick,North Carolina,37019.0,13130,186.0
+2021-09-03,Brunswick,Virginia,51025.0,1556,27.0
+2021-09-04,Brunswick,North Carolina,37019.0,13130,186.0
+2021-09-04,Brunswick,Virginia,51025.0,1556,27.0
+2021-09-05,Brunswick,North Carolina,37019.0,13130,186.0
+2021-09-05,Brunswick,Virginia,51025.0,1556,27.0
+2021-09-06,Brunswick,North Carolina,37019.0,13130,186.0
+2021-09-06,Brunswick,Virginia,51025.0,1569,27.0
+2021-09-07,Brunswick,North Carolina,37019.0,13460,186.0
+2021-09-07,Brunswick,Virginia,51025.0,1570,27.0
+2021-09-08,Brunswick,North Carolina,37019.0,13538,186.0
+2021-09-08,Brunswick,Virginia,51025.0,1577,28.0
+2021-09-09,Brunswick,North Carolina,37019.0,13608,187.0
+2021-09-09,Brunswick,Virginia,51025.0,1591,28.0
+2021-09-10,Brunswick,North Carolina,37019.0,13666,187.0
+2021-09-10,Brunswick,Virginia,51025.0,1593,28.0
+2021-09-11,Brunswick,North Carolina,37019.0,13666,187.0
+2021-09-11,Brunswick,Virginia,51025.0,1593,28.0
+2021-09-12,Brunswick,North Carolina,37019.0,13666,187.0
+2021-09-12,Brunswick,Virginia,51025.0,1593,28.0
+2021-09-13,Brunswick,North Carolina,37019.0,13950,187.0
+2021-09-13,Brunswick,Virginia,51025.0,1609,29.0
+2021-09-14,Brunswick,North Carolina,37019.0,14011,187.0
+2021-09-14,Brunswick,Virginia,51025.0,1614,29.0
+2021-09-15,Brunswick,North Carolina,37019.0,14156,189.0
+2021-09-15,Brunswick,Virginia,51025.0,1619,29.0
+2021-09-16,Brunswick,North Carolina,37019.0,14231,191.0
+2021-09-16,Brunswick,Virginia,51025.0,1627,29.0
+2021-09-17,Brunswick,North Carolina,37019.0,14373,192.0
+2021-09-17,Brunswick,Virginia,51025.0,1637,29.0
+2021-09-18,Brunswick,North Carolina,37019.0,14373,192.0
+2021-09-18,Brunswick,Virginia,51025.0,1637,29.0
+2021-09-19,Brunswick,North Carolina,37019.0,14373,192.0
+2021-09-19,Brunswick,Virginia,51025.0,1637,29.0
+2021-09-20,Brunswick,North Carolina,37019.0,14576,193.0
+2021-09-20,Brunswick,Virginia,51025.0,1653,29.0
+2021-09-21,Brunswick,North Carolina,37019.0,14652,196.0
+2021-09-21,Brunswick,Virginia,51025.0,1653,29.0
+2021-09-22,Brunswick,North Carolina,37019.0,14735,204.0
+2021-09-22,Brunswick,Virginia,51025.0,1658,29.0
+2021-09-23,Brunswick,North Carolina,37019.0,14849,207.0
+2021-09-23,Brunswick,Virginia,51025.0,1663,29.0
+2021-09-24,Brunswick,North Carolina,37019.0,14927,210.0
+2021-09-24,Brunswick,Virginia,51025.0,1671,29.0
+2021-09-25,Brunswick,North Carolina,37019.0,14927,210.0
+2021-09-25,Brunswick,Virginia,51025.0,1671,29.0
+2021-09-26,Brunswick,North Carolina,37019.0,14927,210.0
+2021-09-26,Brunswick,Virginia,51025.0,1671,29.0
+2021-09-27,Brunswick,North Carolina,37019.0,15108,211.0
+2021-09-27,Brunswick,Virginia,51025.0,1684,29.0
+2021-09-28,Brunswick,North Carolina,37019.0,15156,212.0
+2021-09-28,Brunswick,Virginia,51025.0,1690,29.0
+2021-09-29,Brunswick,North Carolina,37019.0,15246,214.0
+2021-09-29,Brunswick,Virginia,51025.0,1693,29.0
+2021-09-30,Brunswick,North Carolina,37019.0,15310,214.0
+2021-09-30,Brunswick,Virginia,51025.0,1697,30.0
+2021-10-01,Brunswick,North Carolina,37019.0,15348,216.0
+2021-10-01,Brunswick,Virginia,51025.0,1706,30.0
+2021-10-02,Brunswick,North Carolina,37019.0,15348,216.0
+2021-10-02,Brunswick,Virginia,51025.0,1706,30.0
+2021-10-03,Brunswick,North Carolina,37019.0,15348,216.0
+2021-10-03,Brunswick,Virginia,51025.0,1706,30.0
+2021-10-04,Brunswick,North Carolina,37019.0,15497,220.0
+2021-10-04,Brunswick,Virginia,51025.0,1719,30.0
+2021-10-05,Brunswick,North Carolina,37019.0,15532,223.0
+2021-10-05,Brunswick,Virginia,51025.0,1720,30.0
+2021-10-06,Brunswick,North Carolina,37019.0,15587,224.0
+2021-10-06,Brunswick,Virginia,51025.0,1732,31.0
+2021-10-07,Brunswick,North Carolina,37019.0,15651,224.0
+2021-10-07,Brunswick,Virginia,51025.0,1739,31.0
+2021-10-08,Brunswick,North Carolina,37019.0,15701,224.0
+2021-10-08,Brunswick,Virginia,51025.0,1741,32.0
+2021-10-09,Brunswick,North Carolina,37019.0,15701,224.0
+2021-10-09,Brunswick,Virginia,51025.0,1741,32.0
+2021-10-10,Brunswick,North Carolina,37019.0,15701,224.0
+2021-10-10,Brunswick,Virginia,51025.0,1741,32.0
+2021-10-11,Brunswick,North Carolina,37019.0,15802,227.0
+2021-10-11,Brunswick,Virginia,51025.0,1741,32.0
+2021-10-12,Brunswick,North Carolina,37019.0,15841,228.0
+2021-10-12,Brunswick,Virginia,51025.0,1753,31.0
+2021-10-13,Brunswick,North Carolina,37019.0,15873,228.0
+2021-10-13,Brunswick,Virginia,51025.0,1758,32.0
+2021-10-14,Brunswick,North Carolina,37019.0,15915,229.0
+2021-10-14,Brunswick,Virginia,51025.0,1760,32.0
+2021-10-15,Brunswick,North Carolina,37019.0,15967,230.0
+2021-10-15,Brunswick,Virginia,51025.0,1765,32.0
+2021-10-16,Brunswick,North Carolina,37019.0,15967,230.0
+2021-10-16,Brunswick,Virginia,51025.0,1765,32.0
+2021-10-17,Brunswick,North Carolina,37019.0,15967,230.0
+2021-10-17,Brunswick,Virginia,51025.0,1765,32.0
+2021-10-18,Brunswick,North Carolina,37019.0,16040,231.0
+2021-10-18,Brunswick,Virginia,51025.0,1774,32.0
+2021-10-19,Brunswick,North Carolina,37019.0,16055,232.0
+2021-10-19,Brunswick,Virginia,51025.0,1774,32.0
+2021-10-20,Brunswick,North Carolina,37019.0,16090,233.0
+2021-10-20,Brunswick,Virginia,51025.0,1781,32.0
+2021-10-21,Brunswick,North Carolina,37019.0,16115,233.0
+2021-10-21,Brunswick,Virginia,51025.0,1786,32.0
+2021-10-22,Brunswick,North Carolina,37019.0,16149,233.0
+2021-10-22,Brunswick,Virginia,51025.0,1788,32.0
+2021-10-23,Brunswick,North Carolina,37019.0,16149,233.0
+2021-10-23,Brunswick,Virginia,51025.0,1788,32.0
+2021-10-24,Brunswick,North Carolina,37019.0,16149,233.0
+2021-10-24,Brunswick,Virginia,51025.0,1788,32.0
+2021-10-25,Brunswick,North Carolina,37019.0,16204,234.0
+2021-10-25,Brunswick,Virginia,51025.0,1794,32.0
+2021-10-26,Brunswick,North Carolina,37019.0,16218,234.0
+2021-10-26,Brunswick,Virginia,51025.0,1799,32.0
+2021-10-27,Brunswick,North Carolina,37019.0,16239,236.0
+2021-10-27,Brunswick,Virginia,51025.0,1802,32.0
+2021-10-28,Brunswick,North Carolina,37019.0,16265,236.0
+2021-10-28,Brunswick,Virginia,51025.0,1803,32.0
+2021-10-29,Brunswick,North Carolina,37019.0,16298,238.0
+2021-10-29,Brunswick,Virginia,51025.0,1803,32.0
+2021-10-30,Brunswick,North Carolina,37019.0,16298,238.0
+2021-10-30,Brunswick,Virginia,51025.0,1803,32.0
+2021-10-31,Brunswick,North Carolina,37019.0,16298,238.0
+2021-10-31,Brunswick,Virginia,51025.0,1803,32.0
+2021-11-01,Brunswick,North Carolina,37019.0,16342,240.0
+2021-11-01,Brunswick,Virginia,51025.0,1812,32.0
+2021-11-02,Brunswick,North Carolina,37019.0,16358,240.0
+2021-11-02,Brunswick,Virginia,51025.0,1815,32.0
+2021-11-03,Brunswick,North Carolina,37019.0,16375,240.0
+2021-11-03,Brunswick,Virginia,51025.0,1816,32.0
+2021-11-04,Brunswick,North Carolina,37019.0,16397,240.0
+2021-11-04,Brunswick,Virginia,51025.0,1818,32.0
+2021-11-05,Brunswick,North Carolina,37019.0,16409,240.0
+2021-11-05,Brunswick,Virginia,51025.0,1820,32.0
+2021-11-06,Brunswick,North Carolina,37019.0,16409,240.0
+2021-11-06,Brunswick,Virginia,51025.0,1820,32.0
+2021-11-07,Brunswick,North Carolina,37019.0,16409,240.0
+2021-11-07,Brunswick,Virginia,51025.0,1820,32.0
+2021-11-08,Brunswick,North Carolina,37019.0,16443,241.0
+2021-11-08,Brunswick,Virginia,51025.0,1824,32.0
+2021-11-09,Brunswick,North Carolina,37019.0,16465,243.0
+2021-11-09,Brunswick,Virginia,51025.0,1825,33.0
+2021-11-10,Brunswick,North Carolina,37019.0,16491,243.0
+2021-11-10,Brunswick,Virginia,51025.0,1824,33.0
+2021-11-11,Brunswick,North Carolina,37019.0,16491,243.0
+2021-11-11,Brunswick,Virginia,51025.0,1830,33.0
+2021-11-12,Brunswick,North Carolina,37019.0,16529,243.0
+2021-11-12,Brunswick,Virginia,51025.0,1833,33.0
+2021-11-13,Brunswick,North Carolina,37019.0,16529,243.0
+2021-11-13,Brunswick,Virginia,51025.0,1833,33.0
+2021-11-14,Brunswick,North Carolina,37019.0,16529,243.0
+2021-11-14,Brunswick,Virginia,51025.0,1833,33.0
+2021-11-15,Brunswick,North Carolina,37019.0,16588,243.0
+2021-11-15,Brunswick,Virginia,51025.0,1836,33.0
+2021-11-16,Brunswick,North Carolina,37019.0,16609,243.0
+2021-11-16,Brunswick,Virginia,51025.0,1837,33.0
+2021-11-17,Brunswick,North Carolina,37019.0,16632,243.0
+2021-11-17,Brunswick,Virginia,51025.0,1839,33.0
+2021-11-18,Brunswick,North Carolina,37019.0,16643,243.0
+2021-11-18,Brunswick,Virginia,51025.0,1839,33.0
+2021-11-19,Brunswick,North Carolina,37019.0,16661,243.0
+2021-11-19,Brunswick,Virginia,51025.0,1840,33.0
+2021-11-20,Brunswick,North Carolina,37019.0,16661,243.0
+2021-11-20,Brunswick,Virginia,51025.0,1840,33.0
+2021-11-21,Brunswick,North Carolina,37019.0,16661,243.0
+2021-11-21,Brunswick,Virginia,51025.0,1840,33.0
+2021-11-22,Brunswick,North Carolina,37019.0,16724,244.0
+2021-11-22,Brunswick,Virginia,51025.0,1841,34.0
+2021-11-23,Brunswick,North Carolina,37019.0,16743,245.0
+2021-11-23,Brunswick,Virginia,51025.0,1844,34.0
+2021-11-24,Brunswick,North Carolina,37019.0,16771,245.0
+2021-11-24,Brunswick,Virginia,51025.0,1846,35.0
+2021-11-25,Brunswick,North Carolina,37019.0,16771,245.0
+2021-11-25,Brunswick,Virginia,51025.0,1848,35.0
+2021-11-26,Brunswick,North Carolina,37019.0,16771,245.0
+2021-11-26,Brunswick,Virginia,51025.0,1849,35.0
+2021-11-27,Brunswick,North Carolina,37019.0,16771,245.0
+2021-11-27,Brunswick,Virginia,51025.0,1849,35.0
+2021-11-28,Brunswick,North Carolina,37019.0,16771,245.0
+2021-11-28,Brunswick,Virginia,51025.0,1849,35.0
+2021-11-29,Brunswick,North Carolina,37019.0,16857,245.0
+2021-11-29,Brunswick,Virginia,51025.0,1850,35.0
+2021-11-30,Brunswick,North Carolina,37019.0,16884,245.0
+2021-11-30,Brunswick,Virginia,51025.0,1851,35.0
+2021-12-01,Brunswick,North Carolina,37019.0,16926,245.0
+2021-12-01,Brunswick,Virginia,51025.0,1853,35.0
+2021-12-02,Brunswick,North Carolina,37019.0,16971,246.0
+2021-12-02,Brunswick,Virginia,51025.0,1854,35.0
+2021-12-03,Brunswick,North Carolina,37019.0,17026,246.0
+2021-12-03,Brunswick,Virginia,51025.0,1857,35.0
+2021-12-04,Brunswick,North Carolina,37019.0,17026,246.0
+2021-12-04,Brunswick,Virginia,51025.0,1857,35.0
+2021-12-05,Brunswick,North Carolina,37019.0,17026,246.0
+2021-12-05,Brunswick,Virginia,51025.0,1857,35.0
+2021-12-06,Brunswick,North Carolina,37019.0,17153,246.0
+2021-12-06,Brunswick,Virginia,51025.0,1859,35.0
+2021-12-07,Brunswick,North Carolina,37019.0,17200,246.0
+2021-12-07,Brunswick,Virginia,51025.0,1861,35.0
+2021-12-08,Brunswick,North Carolina,37019.0,17232,246.0
+2021-12-08,Brunswick,Virginia,51025.0,1865,35.0
+2021-12-09,Brunswick,North Carolina,37019.0,17282,247.0
+2021-12-09,Brunswick,Virginia,51025.0,1868,35.0
+2021-12-10,Brunswick,North Carolina,37019.0,17349,247.0
+2021-12-10,Brunswick,Virginia,51025.0,1871,35.0
+2021-12-11,Brunswick,North Carolina,37019.0,17349,247.0
+2021-12-11,Brunswick,Virginia,51025.0,1871,35.0
+2021-12-12,Brunswick,North Carolina,37019.0,17349,247.0
+2021-12-12,Brunswick,Virginia,51025.0,1871,35.0
+2021-12-13,Brunswick,North Carolina,37019.0,17435,247.0
+2021-12-13,Brunswick,Virginia,51025.0,1874,35.0
+2021-12-14,Brunswick,North Carolina,37019.0,17468,249.0
+2021-12-14,Brunswick,Virginia,51025.0,1878,35.0
+2021-12-15,Brunswick,North Carolina,37019.0,17509,249.0
+2021-12-15,Brunswick,Virginia,51025.0,1880,35.0
+2021-12-16,Brunswick,North Carolina,37019.0,17571,250.0
+2021-12-16,Brunswick,Virginia,51025.0,1884,35.0
+2021-12-17,Brunswick,North Carolina,37019.0,17625,250.0
+2021-12-17,Brunswick,Virginia,51025.0,1884,35.0
+2021-12-18,Brunswick,North Carolina,37019.0,17625,250.0
+2021-12-18,Brunswick,Virginia,51025.0,1884,35.0
+2021-12-19,Brunswick,North Carolina,37019.0,17625,250.0
+2021-12-19,Brunswick,Virginia,51025.0,1884,35.0
+2021-12-20,Brunswick,North Carolina,37019.0,17778,251.0
+2021-12-20,Brunswick,Virginia,51025.0,1885,35.0
+2021-12-21,Brunswick,North Carolina,37019.0,17818,251.0
+2021-12-21,Brunswick,Virginia,51025.0,1886,35.0
+2021-12-22,Brunswick,North Carolina,37019.0,17869,252.0
+2021-12-22,Brunswick,Virginia,51025.0,1887,35.0
+2021-12-23,Brunswick,North Carolina,37019.0,17869,252.0
+2021-12-23,Brunswick,Virginia,51025.0,1891,35.0
+2021-12-24,Brunswick,North Carolina,37019.0,17869,252.0
+2021-12-24,Brunswick,Virginia,51025.0,1893,35.0
+2021-12-25,Brunswick,North Carolina,37019.0,17869,252.0
+2021-12-25,Brunswick,Virginia,51025.0,1893,35.0
+2021-12-26,Brunswick,North Carolina,37019.0,17869,252.0
+2021-12-26,Brunswick,Virginia,51025.0,1893,35.0
+2021-12-27,Brunswick,North Carolina,37019.0,17869,252.0
+2021-12-27,Brunswick,Virginia,51025.0,1901,35.0
+2021-12-28,Brunswick,North Carolina,37019.0,18127,252.0
+2021-12-28,Brunswick,Virginia,51025.0,1900,36.0
+2021-12-29,Brunswick,North Carolina,37019.0,18219,252.0
+2021-12-29,Brunswick,Virginia,51025.0,1906,36.0
+2021-12-30,Brunswick,North Carolina,37019.0,18381,253.0
+2021-12-30,Brunswick,Virginia,51025.0,1915,36.0
+2021-12-31,Brunswick,North Carolina,37019.0,18564,253.0
+2021-12-31,Brunswick,Virginia,51025.0,1930,36.0
+2022-01-01,Brunswick,North Carolina,37019.0,18564,253.0
+2022-01-01,Brunswick,Virginia,51025.0,1930,36.0
+2022-01-02,Brunswick,North Carolina,37019.0,18564,253.0
+2022-01-02,Brunswick,Virginia,51025.0,1930,36.0
+2022-01-03,Brunswick,North Carolina,37019.0,18963,253.0
+2022-01-03,Brunswick,Virginia,51025.0,1967,36.0
+2022-01-04,Brunswick,North Carolina,37019.0,19073,254.0
+2022-01-04,Brunswick,Virginia,51025.0,1986,36.0
+2022-01-05,Brunswick,North Carolina,37019.0,19233,255.0
+2022-01-05,Brunswick,Virginia,51025.0,1996,36.0
+2022-01-06,Brunswick,North Carolina,37019.0,19499,256.0
+2022-01-06,Brunswick,Virginia,51025.0,2005,36.0
+2022-01-07,Brunswick,North Carolina,37019.0,19730,257.0
+2022-01-07,Brunswick,Virginia,51025.0,2012,36.0
+2022-01-08,Brunswick,North Carolina,37019.0,19730,257.0
+2022-01-08,Brunswick,Virginia,51025.0,2012,36.0
+2022-01-09,Brunswick,North Carolina,37019.0,19730,257.0
+2022-01-09,Brunswick,Virginia,51025.0,2012,36.0
+2022-01-10,Brunswick,North Carolina,37019.0,20537,257.0
+2022-01-10,Brunswick,Virginia,51025.0,2128,36.0
+2022-01-11,Brunswick,North Carolina,37019.0,20716,257.0
+2022-01-11,Brunswick,Virginia,51025.0,2170,37.0
+2022-01-12,Brunswick,North Carolina,37019.0,20952,259.0
+2022-01-12,Brunswick,Virginia,51025.0,2193,37.0
+2022-01-13,Brunswick,North Carolina,37019.0,21353,259.0
+2022-01-13,Brunswick,Virginia,51025.0,2227,37.0
+2022-01-14,Brunswick,North Carolina,37019.0,21758,260.0
+2022-01-14,Brunswick,Virginia,51025.0,2254,37.0
+2022-01-15,Brunswick,North Carolina,37019.0,21758,260.0
+2022-01-15,Brunswick,Virginia,51025.0,2254,37.0
+2022-01-16,Brunswick,North Carolina,37019.0,21758,260.0
+2022-01-16,Brunswick,Virginia,51025.0,2254,37.0
+2022-01-17,Brunswick,North Carolina,37019.0,21758,260.0
+2022-01-17,Brunswick,Virginia,51025.0,2292,37.0
+2022-01-18,Brunswick,North Carolina,37019.0,23033,261.0
+2022-01-18,Brunswick,Virginia,51025.0,2295,37.0
+2022-01-19,Brunswick,North Carolina,37019.0,23275,261.0
+2022-01-19,Brunswick,Virginia,51025.0,2307,37.0
+2022-01-20,Brunswick,North Carolina,37019.0,23613,262.0
+2022-01-20,Brunswick,Virginia,51025.0,2328,37.0
+2022-01-21,Brunswick,North Carolina,37019.0,24073,263.0
+2022-01-21,Brunswick,Virginia,51025.0,2406,37.0
+2022-01-22,Brunswick,North Carolina,37019.0,24073,263.0
+2022-01-22,Brunswick,Virginia,51025.0,2406,37.0
+2022-01-23,Brunswick,North Carolina,37019.0,24073,263.0
+2022-01-23,Brunswick,Virginia,51025.0,2406,37.0
+2022-01-24,Brunswick,North Carolina,37019.0,25176,265.0
+2022-01-24,Brunswick,Virginia,51025.0,2453,37.0
+2022-01-25,Brunswick,North Carolina,37019.0,25271,267.0
+2022-01-25,Brunswick,Virginia,51025.0,2483,37.0
+2022-01-26,Brunswick,North Carolina,37019.0,25501,267.0
+2022-01-26,Brunswick,Virginia,51025.0,2552,37.0
+2022-01-27,Brunswick,North Carolina,37019.0,25837,267.0
+2022-01-27,Brunswick,Virginia,51025.0,2621,37.0
+2022-01-28,Brunswick,North Carolina,37019.0,26127,269.0
+2022-01-28,Brunswick,Virginia,51025.0,2672,37.0
+2022-01-29,Brunswick,North Carolina,37019.0,26127,269.0
+2022-01-29,Brunswick,Virginia,51025.0,2672,37.0
+2022-01-30,Brunswick,North Carolina,37019.0,26127,269.0
+2022-01-30,Brunswick,Virginia,51025.0,2672,37.0
+2022-01-31,Brunswick,North Carolina,37019.0,26714,270.0
+2022-01-31,Brunswick,Virginia,51025.0,2709,37.0
+2022-02-01,Brunswick,North Carolina,37019.0,26827,271.0
+2022-02-01,Brunswick,Virginia,51025.0,2741,37.0
+2022-02-02,Brunswick,North Carolina,37019.0,27004,275.0
+2022-02-02,Brunswick,Virginia,51025.0,2763,37.0
+2022-02-03,Brunswick,North Carolina,37019.0,27221,277.0
+2022-02-03,Brunswick,Virginia,51025.0,2775,37.0
+2022-02-04,Brunswick,North Carolina,37019.0,27362,277.0
+2022-02-04,Brunswick,Virginia,51025.0,2823,37.0
+2022-02-05,Brunswick,North Carolina,37019.0,27362,277.0
+2022-02-05,Brunswick,Virginia,51025.0,2823,37.0
+2022-02-06,Brunswick,North Carolina,37019.0,27362,277.0
+2022-02-06,Brunswick,Virginia,51025.0,2823,37.0
+2022-02-07,Brunswick,North Carolina,37019.0,27616,279.0
+2022-02-07,Brunswick,Virginia,51025.0,2922,37.0
+2022-02-08,Brunswick,North Carolina,37019.0,27692,285.0
+2022-02-08,Brunswick,Virginia,51025.0,2935,38.0
+2022-02-09,Brunswick,North Carolina,37019.0,27843,287.0
+2022-02-09,Brunswick,Virginia,51025.0,2941,38.0
+2022-02-10,Brunswick,North Carolina,37019.0,27963,288.0
+2022-02-10,Brunswick,Virginia,51025.0,2962,38.0
+2022-02-11,Brunswick,North Carolina,37019.0,28063,288.0
+2022-02-11,Brunswick,Virginia,51025.0,2967,38.0
+2022-02-12,Brunswick,North Carolina,37019.0,28063,288.0
+2022-02-12,Brunswick,Virginia,51025.0,2967,38.0
+2022-02-13,Brunswick,North Carolina,37019.0,28063,288.0
+2022-02-13,Brunswick,Virginia,51025.0,2967,38.0
+2022-02-14,Brunswick,North Carolina,37019.0,28243,289.0
+2022-02-14,Brunswick,Virginia,51025.0,2984,38.0
+2022-02-15,Brunswick,North Carolina,37019.0,28275,289.0
+2022-02-15,Brunswick,Virginia,51025.0,2989,38.0
+2022-02-16,Brunswick,North Carolina,37019.0,28334,292.0
+2022-02-16,Brunswick,Virginia,51025.0,2992,38.0
+2022-02-17,Brunswick,North Carolina,37019.0,28374,292.0
+2022-02-17,Brunswick,Virginia,51025.0,2996,38.0
+2022-02-18,Brunswick,North Carolina,37019.0,28423,292.0
+2022-02-18,Brunswick,Virginia,51025.0,3005,38.0
+2022-02-19,Brunswick,North Carolina,37019.0,28423,292.0
+2022-02-19,Brunswick,Virginia,51025.0,3005,38.0
+2022-02-20,Brunswick,North Carolina,37019.0,28423,292.0
+2022-02-20,Brunswick,Virginia,51025.0,3005,38.0
+2022-02-21,Brunswick,North Carolina,37019.0,28538,294.0
+2022-02-21,Brunswick,Virginia,51025.0,3012,39.0
+2022-02-22,Brunswick,North Carolina,37019.0,28595,297.0
+2022-02-22,Brunswick,Virginia,51025.0,3013,39.0
+2022-02-23,Brunswick,North Carolina,37019.0,28645,297.0
+2022-02-23,Brunswick,Virginia,51025.0,3014,39.0
+2022-02-24,Brunswick,North Carolina,37019.0,28694,298.0
+2022-02-24,Brunswick,Virginia,51025.0,3018,39.0
+2022-02-25,Brunswick,North Carolina,37019.0,29167,299.0
+2022-02-25,Brunswick,Virginia,51025.0,3023,40.0
+2022-02-26,Brunswick,North Carolina,37019.0,29167,299.0
+2022-02-26,Brunswick,Virginia,51025.0,3023,40.0
+2022-02-27,Brunswick,North Carolina,37019.0,29167,299.0
+2022-02-27,Brunswick,Virginia,51025.0,3023,40.0
+2022-02-28,Brunswick,North Carolina,37019.0,29259,300.0
+2022-02-28,Brunswick,Virginia,51025.0,3028,42.0
+2022-03-01,Brunswick,North Carolina,37019.0,29285,302.0
+2022-03-01,Brunswick,Virginia,51025.0,3029,42.0
+2022-03-02,Brunswick,North Carolina,37019.0,29317,302.0
+2022-03-02,Brunswick,Virginia,51025.0,3033,42.0
+2022-03-03,Brunswick,North Carolina,37019.0,29349,303.0
+2022-03-03,Brunswick,Virginia,51025.0,3035,42.0
+2022-03-04,Brunswick,North Carolina,37019.0,29389,304.0
+2022-03-04,Brunswick,Virginia,51025.0,3039,42.0
+2022-03-05,Brunswick,North Carolina,37019.0,29389,304.0
+2022-03-05,Brunswick,Virginia,51025.0,3039,42.0
+2022-03-06,Brunswick,North Carolina,37019.0,29389,304.0
+2022-03-06,Brunswick,Virginia,51025.0,3039,42.0
+2022-03-07,Brunswick,North Carolina,37019.0,29454,305.0
+2022-03-07,Brunswick,Virginia,51025.0,3044,44.0
+2022-03-08,Brunswick,North Carolina,37019.0,29472,305.0
+2022-03-08,Brunswick,Virginia,51025.0,3054,44.0
+2022-03-09,Brunswick,North Carolina,37019.0,29487,305.0
+2022-03-09,Brunswick,Virginia,51025.0,3058,45.0
+2022-03-10,Brunswick,North Carolina,37019.0,29514,306.0
+2022-03-10,Brunswick,Virginia,51025.0,3133,45.0
+2022-03-11,Brunswick,North Carolina,37019.0,29531,306.0
+2022-03-11,Brunswick,Virginia,51025.0,3178,45.0
+2022-03-12,Brunswick,North Carolina,37019.0,29531,306.0
+2022-03-12,Brunswick,Virginia,51025.0,3178,45.0
+2022-03-13,Brunswick,North Carolina,37019.0,29531,306.0
+2022-03-13,Brunswick,Virginia,51025.0,3178,45.0
+2022-03-14,Brunswick,North Carolina,37019.0,29543,307.0
+2022-03-14,Brunswick,Virginia,51025.0,3178,45.0
+2022-03-15,Brunswick,North Carolina,37019.0,29553,307.0
+2022-03-15,Brunswick,Virginia,51025.0,3179,45.0
+2022-03-16,Brunswick,North Carolina,37019.0,29603,308.0
+2022-03-16,Brunswick,Virginia,51025.0,3180,45.0
+2022-03-17,Brunswick,North Carolina,37019.0,29619,308.0
+2022-03-17,Brunswick,Virginia,51025.0,3182,45.0
+2022-03-18,Brunswick,North Carolina,37019.0,29637,308.0
+2022-03-18,Brunswick,Virginia,51025.0,3179,45.0
+2022-03-19,Brunswick,North Carolina,37019.0,29637,308.0
+2022-03-19,Brunswick,Virginia,51025.0,3179,45.0
+2022-03-20,Brunswick,North Carolina,37019.0,29637,308.0
+2022-03-20,Brunswick,Virginia,51025.0,3179,45.0
+2022-03-21,Brunswick,North Carolina,37019.0,29667,309.0
+2022-03-21,Brunswick,Virginia,51025.0,3179,45.0
+2022-03-22,Brunswick,North Carolina,37019.0,29670,309.0
+2022-03-22,Brunswick,Virginia,51025.0,3179,45.0
+2022-03-23,Brunswick,North Carolina,37019.0,29695,310.0
+2022-03-23,Brunswick,Virginia,51025.0,3182,45.0
+2022-03-24,Brunswick,North Carolina,37019.0,29699,310.0
+2022-03-24,Brunswick,Virginia,51025.0,3185,45.0
+2022-03-25,Brunswick,North Carolina,37019.0,29709,310.0
+2022-03-25,Brunswick,Virginia,51025.0,3189,45.0
+2022-03-26,Brunswick,North Carolina,37019.0,29709,310.0
+2022-03-26,Brunswick,Virginia,51025.0,3189,45.0
+2022-03-27,Brunswick,North Carolina,37019.0,29709,310.0
+2022-03-27,Brunswick,Virginia,51025.0,3189,45.0
+2022-03-28,Brunswick,North Carolina,37019.0,29722,309.0
+2022-03-28,Brunswick,Virginia,51025.0,3191,45.0
+2022-03-29,Brunswick,North Carolina,37019.0,29728,309.0
+2022-03-29,Brunswick,Virginia,51025.0,3193,45.0
+2022-03-30,Brunswick,North Carolina,37019.0,29737,309.0
+2022-03-30,Brunswick,Virginia,51025.0,3195,45.0
+2022-03-31,Brunswick,North Carolina,37019.0,29752,309.0
+2022-03-31,Brunswick,Virginia,51025.0,3195,45.0
+2022-04-01,Brunswick,North Carolina,37019.0,29766,309.0
+2022-04-01,Brunswick,Virginia,51025.0,3202,46.0
+2022-04-02,Brunswick,North Carolina,37019.0,29766,309.0
+2022-04-02,Brunswick,Virginia,51025.0,3202,46.0
+2022-04-03,Brunswick,North Carolina,37019.0,29766,309.0
+2022-04-03,Brunswick,Virginia,51025.0,3202,46.0
+2022-04-04,Brunswick,North Carolina,37019.0,29792,309.0
+2022-04-04,Brunswick,Virginia,51025.0,3205,46.0
+2022-04-05,Brunswick,North Carolina,37019.0,29799,309.0
+2022-04-05,Brunswick,Virginia,51025.0,3206,47.0
+2022-04-06,Brunswick,North Carolina,37019.0,29809,309.0
+2022-04-06,Brunswick,Virginia,51025.0,3208,47.0
+2022-04-07,Brunswick,North Carolina,37019.0,29809,309.0
+2022-04-07,Brunswick,Virginia,51025.0,3208,47.0
+2022-04-08,Brunswick,North Carolina,37019.0,29809,309.0
+2022-04-08,Brunswick,Virginia,51025.0,3213,47.0
+2022-04-09,Brunswick,North Carolina,37019.0,29809,309.0
+2022-04-09,Brunswick,Virginia,51025.0,3213,47.0

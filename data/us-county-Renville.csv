@@ -1,1467 +1,1467 @@
-,date,county,state,fips,cases,deaths
-2117,2020-03-14,Renville,Minnesota,27129.0,1,0.0
-2521,2020-03-15,Renville,Minnesota,27129.0,1,0.0
-2973,2020-03-16,Renville,Minnesota,27129.0,1,0.0
-3478,2020-03-17,Renville,Minnesota,27129.0,1,0.0
-4061,2020-03-18,Renville,Minnesota,27129.0,1,0.0
-4772,2020-03-19,Renville,Minnesota,27129.0,1,0.0
-5594,2020-03-20,Renville,Minnesota,27129.0,1,0.0
-6564,2020-03-21,Renville,Minnesota,27129.0,1,0.0
-7646,2020-03-22,Renville,Minnesota,27129.0,1,0.0
-8825,2020-03-23,Renville,Minnesota,27129.0,1,0.0
-10120,2020-03-24,Renville,Minnesota,27129.0,1,0.0
-11538,2020-03-25,Renville,Minnesota,27129.0,1,0.0
-13127,2020-03-26,Renville,Minnesota,27129.0,1,0.0
-14843,2020-03-27,Renville,Minnesota,27129.0,1,0.0
-16665,2020-03-28,Renville,Minnesota,27129.0,1,0.0
-18585,2020-03-29,Renville,Minnesota,27129.0,1,0.0
-20607,2020-03-30,Renville,Minnesota,27129.0,1,0.0
-22722,2020-03-31,Renville,Minnesota,27129.0,1,0.0
-24904,2020-04-01,Renville,Minnesota,27129.0,1,0.0
-27158,2020-04-02,Renville,Minnesota,27129.0,2,0.0
-29477,2020-04-03,Renville,Minnesota,27129.0,2,0.0
-31857,2020-04-04,Renville,Minnesota,27129.0,2,0.0
-34284,2020-04-05,Renville,Minnesota,27129.0,2,0.0
-36746,2020-04-06,Renville,Minnesota,27129.0,2,0.0
-39255,2020-04-07,Renville,Minnesota,27129.0,2,0.0
-41809,2020-04-08,Renville,Minnesota,27129.0,2,0.0
-44385,2020-04-09,Renville,Minnesota,27129.0,2,0.0
-46995,2020-04-10,Renville,Minnesota,27129.0,2,0.0
-49640,2020-04-11,Renville,Minnesota,27129.0,3,0.0
-52311,2020-04-12,Renville,Minnesota,27129.0,3,0.0
-54993,2020-04-13,Renville,Minnesota,27129.0,3,0.0
-57691,2020-04-14,Renville,Minnesota,27129.0,3,0.0
-60402,2020-04-15,Renville,Minnesota,27129.0,3,0.0
-63125,2020-04-16,Renville,Minnesota,27129.0,3,0.0
-65864,2020-04-17,Renville,Minnesota,27129.0,3,0.0
-68616,2020-04-18,Renville,Minnesota,27129.0,3,0.0
-71382,2020-04-19,Renville,Minnesota,27129.0,3,0.0
-74155,2020-04-20,Renville,Minnesota,27129.0,3,0.0
-76936,2020-04-21,Renville,Minnesota,27129.0,3,0.0
-79721,2020-04-22,Renville,Minnesota,27129.0,3,0.0
-82517,2020-04-23,Renville,Minnesota,27129.0,3,0.0
-85321,2020-04-24,Renville,Minnesota,27129.0,3,0.0
-88131,2020-04-25,Renville,Minnesota,27129.0,3,0.0
-90947,2020-04-26,Renville,Minnesota,27129.0,3,0.0
-93768,2020-04-27,Renville,Minnesota,27129.0,3,0.0
-96603,2020-04-28,Renville,Minnesota,27129.0,3,0.0
-99449,2020-04-29,Renville,Minnesota,27129.0,4,0.0
-102301,2020-04-30,Renville,Minnesota,27129.0,4,0.0
-105162,2020-05-01,Renville,Minnesota,27129.0,4,0.0
-105712,2020-05-01,Renville,North Dakota,38075.0,1,0.0
-108027,2020-05-02,Renville,Minnesota,27129.0,5,0.0
-108579,2020-05-02,Renville,North Dakota,38075.0,1,0.0
-110898,2020-05-03,Renville,Minnesota,27129.0,5,0.0
-111453,2020-05-03,Renville,North Dakota,38075.0,1,0.0
-113777,2020-05-04,Renville,Minnesota,27129.0,5,0.0
-114334,2020-05-04,Renville,North Dakota,38075.0,1,0.0
-116659,2020-05-05,Renville,Minnesota,27129.0,5,0.0
-117215,2020-05-05,Renville,North Dakota,38075.0,1,0.0
-119619,2020-05-06,Renville,Minnesota,27129.0,6,0.0
-120176,2020-05-06,Renville,North Dakota,38075.0,1,0.0
-122593,2020-05-07,Renville,Minnesota,27129.0,6,0.0
-123152,2020-05-07,Renville,North Dakota,38075.0,1,0.0
-125575,2020-05-08,Renville,Minnesota,27129.0,6,0.0
-126135,2020-05-08,Renville,North Dakota,38075.0,1,0.0
-128562,2020-05-09,Renville,Minnesota,27129.0,6,0.0
-129124,2020-05-09,Renville,North Dakota,38075.0,1,0.0
-131552,2020-05-10,Renville,Minnesota,27129.0,6,0.0
-132113,2020-05-10,Renville,North Dakota,38075.0,1,0.0
-134543,2020-05-11,Renville,Minnesota,27129.0,6,0.0
-135104,2020-05-11,Renville,North Dakota,38075.0,1,0.0
-137533,2020-05-12,Renville,Minnesota,27129.0,6,0.0
-138094,2020-05-12,Renville,North Dakota,38075.0,1,0.0
-140527,2020-05-13,Renville,Minnesota,27129.0,6,0.0
-141090,2020-05-13,Renville,North Dakota,38075.0,1,0.0
-143522,2020-05-14,Renville,Minnesota,27129.0,5,0.0
-144085,2020-05-14,Renville,North Dakota,38075.0,1,0.0
-146522,2020-05-15,Renville,Minnesota,27129.0,5,0.0
-147086,2020-05-15,Renville,North Dakota,38075.0,1,0.0
-149527,2020-05-16,Renville,Minnesota,27129.0,5,0.0
-150093,2020-05-16,Renville,North Dakota,38075.0,1,0.0
-152538,2020-05-17,Renville,Minnesota,27129.0,5,0.0
-153103,2020-05-17,Renville,North Dakota,38075.0,1,0.0
-155552,2020-05-18,Renville,Minnesota,27129.0,5,0.0
-156120,2020-05-18,Renville,North Dakota,38075.0,1,0.0
-158570,2020-05-19,Renville,Minnesota,27129.0,5,0.0
-159140,2020-05-19,Renville,North Dakota,38075.0,1,0.0
-161596,2020-05-20,Renville,Minnesota,27129.0,5,0.0
-162167,2020-05-20,Renville,North Dakota,38075.0,1,0.0
-164625,2020-05-21,Renville,Minnesota,27129.0,5,0.0
-165196,2020-05-21,Renville,North Dakota,38075.0,1,0.0
-167661,2020-05-22,Renville,Minnesota,27129.0,5,0.0
-168232,2020-05-22,Renville,North Dakota,38075.0,1,0.0
-170699,2020-05-23,Renville,Minnesota,27129.0,5,0.0
-171271,2020-05-23,Renville,North Dakota,38075.0,1,0.0
-173741,2020-05-24,Renville,Minnesota,27129.0,5,0.0
-174313,2020-05-24,Renville,North Dakota,38075.0,1,0.0
-176784,2020-05-25,Renville,Minnesota,27129.0,5,0.0
-177357,2020-05-25,Renville,North Dakota,38075.0,1,0.0
-179828,2020-05-26,Renville,Minnesota,27129.0,5,0.0
-180400,2020-05-26,Renville,North Dakota,38075.0,1,0.0
-182874,2020-05-27,Renville,Minnesota,27129.0,5,0.0
-183448,2020-05-27,Renville,North Dakota,38075.0,1,0.0
-185929,2020-05-28,Renville,Minnesota,27129.0,5,0.0
-186505,2020-05-28,Renville,North Dakota,38075.0,1,0.0
-188987,2020-05-29,Renville,Minnesota,27129.0,5,0.0
-189565,2020-05-29,Renville,North Dakota,38075.0,1,0.0
-192051,2020-05-30,Renville,Minnesota,27129.0,5,0.0
-192629,2020-05-30,Renville,North Dakota,38075.0,3,0.0
-195119,2020-05-31,Renville,Minnesota,27129.0,5,0.0
-195699,2020-05-31,Renville,North Dakota,38075.0,3,0.0
-198190,2020-06-01,Renville,Minnesota,27129.0,5,0.0
-198772,2020-06-01,Renville,North Dakota,38075.0,3,0.0
-201263,2020-06-02,Renville,Minnesota,27129.0,5,0.0
-201847,2020-06-02,Renville,North Dakota,38075.0,3,0.0
-204340,2020-06-03,Renville,Minnesota,27129.0,5,0.0
-204924,2020-06-03,Renville,North Dakota,38075.0,3,0.0
-207421,2020-06-04,Renville,Minnesota,27129.0,7,0.0
-208005,2020-06-04,Renville,North Dakota,38075.0,3,0.0
-210502,2020-06-05,Renville,Minnesota,27129.0,7,0.0
-211087,2020-06-05,Renville,North Dakota,38075.0,3,0.0
-213586,2020-06-06,Renville,Minnesota,27129.0,7,0.0
-214172,2020-06-06,Renville,North Dakota,38075.0,3,0.0
-216674,2020-06-07,Renville,Minnesota,27129.0,8,0.0
-217262,2020-06-07,Renville,North Dakota,38075.0,3,0.0
-219766,2020-06-08,Renville,Minnesota,27129.0,8,0.0
-220354,2020-06-08,Renville,North Dakota,38075.0,3,0.0
-222861,2020-06-09,Renville,Minnesota,27129.0,8,0.0
-223449,2020-06-09,Renville,North Dakota,38075.0,3,0.0
-225959,2020-06-10,Renville,Minnesota,27129.0,8,0.0
-226549,2020-06-10,Renville,North Dakota,38075.0,3,0.0
-229061,2020-06-11,Renville,Minnesota,27129.0,8,0.0
-229653,2020-06-11,Renville,North Dakota,38075.0,3,0.0
-232165,2020-06-12,Renville,Minnesota,27129.0,9,0.0
-232758,2020-06-12,Renville,North Dakota,38075.0,3,0.0
-235271,2020-06-13,Renville,Minnesota,27129.0,11,0.0
-235863,2020-06-13,Renville,North Dakota,38075.0,3,0.0
-238378,2020-06-14,Renville,Minnesota,27129.0,12,0.0
-238971,2020-06-14,Renville,North Dakota,38075.0,3,0.0
-241487,2020-06-15,Renville,Minnesota,27129.0,12,0.0
-242080,2020-06-15,Renville,North Dakota,38075.0,3,0.0
-244598,2020-06-16,Renville,Minnesota,27129.0,12,0.0
-245192,2020-06-16,Renville,North Dakota,38075.0,3,0.0
-247711,2020-06-17,Renville,Minnesota,27129.0,12,0.0
-248305,2020-06-17,Renville,North Dakota,38075.0,3,0.0
-250823,2020-06-18,Renville,Minnesota,27129.0,12,0.0
-251420,2020-06-18,Renville,North Dakota,38075.0,3,0.0
-253938,2020-06-19,Renville,Minnesota,27129.0,12,0.0
-254535,2020-06-19,Renville,North Dakota,38075.0,3,0.0
-257058,2020-06-20,Renville,Minnesota,27129.0,12,1.0
-257660,2020-06-20,Renville,North Dakota,38075.0,3,0.0
-260184,2020-06-21,Renville,Minnesota,27129.0,12,1.0
-260787,2020-06-21,Renville,North Dakota,38075.0,3,0.0
-263313,2020-06-22,Renville,Minnesota,27129.0,16,1.0
-263915,2020-06-22,Renville,North Dakota,38075.0,3,0.0
-266439,2020-06-23,Renville,Minnesota,27129.0,18,1.0
-267043,2020-06-23,Renville,North Dakota,38075.0,4,0.0
-269572,2020-06-24,Renville,Minnesota,27129.0,18,1.0
-270177,2020-06-24,Renville,North Dakota,38075.0,4,0.0
-272709,2020-06-25,Renville,Minnesota,27129.0,19,1.0
-273316,2020-06-25,Renville,North Dakota,38075.0,4,0.0
-275852,2020-06-26,Renville,Minnesota,27129.0,19,1.0
-276463,2020-06-26,Renville,North Dakota,38075.0,5,0.0
-279000,2020-06-27,Renville,Minnesota,27129.0,19,1.0
-279611,2020-06-27,Renville,North Dakota,38075.0,5,0.0
-282148,2020-06-28,Renville,Minnesota,27129.0,24,1.0
-282757,2020-06-28,Renville,North Dakota,38075.0,5,0.0
-285293,2020-06-29,Renville,Minnesota,27129.0,24,2.0
-285902,2020-06-29,Renville,North Dakota,38075.0,5,0.0
-288443,2020-06-30,Renville,Minnesota,27129.0,24,2.0
-289052,2020-06-30,Renville,North Dakota,38075.0,5,0.0
-291594,2020-07-01,Renville,Minnesota,27129.0,28,2.0
-292204,2020-07-01,Renville,North Dakota,38075.0,5,0.0
-294748,2020-07-02,Renville,Minnesota,27129.0,28,2.0
-295359,2020-07-02,Renville,North Dakota,38075.0,5,0.0
-297906,2020-07-03,Renville,Minnesota,27129.0,32,2.0
-298519,2020-07-03,Renville,North Dakota,38075.0,5,0.0
-301069,2020-07-04,Renville,Minnesota,27129.0,32,2.0
-301682,2020-07-04,Renville,North Dakota,38075.0,5,0.0
-304233,2020-07-05,Renville,Minnesota,27129.0,35,2.0
-304845,2020-07-05,Renville,North Dakota,38075.0,5,0.0
-307400,2020-07-06,Renville,Minnesota,27129.0,35,2.0
-308012,2020-07-06,Renville,North Dakota,38075.0,5,0.0
-310568,2020-07-07,Renville,Minnesota,27129.0,36,2.0
-311180,2020-07-07,Renville,North Dakota,38075.0,5,0.0
-313738,2020-07-08,Renville,Minnesota,27129.0,36,2.0
-314352,2020-07-08,Renville,North Dakota,38075.0,5,0.0
-316912,2020-07-09,Renville,Minnesota,27129.0,37,2.0
-317525,2020-07-09,Renville,North Dakota,38075.0,5,0.0
-320087,2020-07-10,Renville,Minnesota,27129.0,37,2.0
-320702,2020-07-10,Renville,North Dakota,38075.0,5,0.0
-323266,2020-07-11,Renville,Minnesota,27129.0,37,2.0
-323882,2020-07-11,Renville,North Dakota,38075.0,5,0.0
-326449,2020-07-12,Renville,Minnesota,27129.0,37,2.0
-327067,2020-07-12,Renville,North Dakota,38075.0,7,0.0
-329635,2020-07-13,Renville,Minnesota,27129.0,37,3.0
-330254,2020-07-13,Renville,North Dakota,38075.0,7,0.0
-332822,2020-07-14,Renville,Minnesota,27129.0,37,3.0
-333445,2020-07-14,Renville,North Dakota,38075.0,7,0.0
-336015,2020-07-15,Renville,Minnesota,27129.0,37,3.0
-336639,2020-07-15,Renville,North Dakota,38075.0,7,0.0
-339211,2020-07-16,Renville,Minnesota,27129.0,37,3.0
-339835,2020-07-16,Renville,North Dakota,38075.0,7,0.0
-342407,2020-07-17,Renville,Minnesota,27129.0,42,3.0
-343033,2020-07-17,Renville,North Dakota,38075.0,7,0.0
-345607,2020-07-18,Renville,Minnesota,27129.0,44,4.0
-346232,2020-07-18,Renville,North Dakota,38075.0,8,0.0
-348808,2020-07-19,Renville,Minnesota,27129.0,44,4.0
-349433,2020-07-19,Renville,North Dakota,38075.0,8,0.0
-352008,2020-07-20,Renville,Minnesota,27129.0,44,4.0
-352636,2020-07-20,Renville,North Dakota,38075.0,8,0.0
-355210,2020-07-21,Renville,Minnesota,27129.0,44,4.0
-355839,2020-07-21,Renville,North Dakota,38075.0,8,0.0
-358413,2020-07-22,Renville,Minnesota,27129.0,44,4.0
-359043,2020-07-22,Renville,North Dakota,38075.0,8,0.0
-361618,2020-07-23,Renville,Minnesota,27129.0,44,4.0
-362249,2020-07-23,Renville,North Dakota,38075.0,8,0.0
-364825,2020-07-24,Renville,Minnesota,27129.0,45,4.0
-365455,2020-07-24,Renville,North Dakota,38075.0,9,0.0
-368033,2020-07-25,Renville,Minnesota,27129.0,46,4.0
-368664,2020-07-25,Renville,North Dakota,38075.0,9,0.0
-371243,2020-07-26,Renville,Minnesota,27129.0,53,4.0
-371876,2020-07-26,Renville,North Dakota,38075.0,9,0.0
-374455,2020-07-27,Renville,Minnesota,27129.0,53,4.0
-375088,2020-07-27,Renville,North Dakota,38075.0,9,0.0
-377670,2020-07-28,Renville,Minnesota,27129.0,53,4.0
-378305,2020-07-28,Renville,North Dakota,38075.0,9,0.0
-380887,2020-07-29,Renville,Minnesota,27129.0,53,4.0
-381522,2020-07-29,Renville,North Dakota,38075.0,9,0.0
-384104,2020-07-30,Renville,Minnesota,27129.0,54,5.0
-384740,2020-07-30,Renville,North Dakota,38075.0,9,0.0
-387322,2020-07-31,Renville,Minnesota,27129.0,56,5.0
-387957,2020-07-31,Renville,North Dakota,38075.0,9,0.0
-390539,2020-08-01,Renville,Minnesota,27129.0,57,5.0
-391174,2020-08-01,Renville,North Dakota,38075.0,9,0.0
-393756,2020-08-02,Renville,Minnesota,27129.0,58,5.0
-394390,2020-08-02,Renville,North Dakota,38075.0,9,0.0
-396972,2020-08-03,Renville,Minnesota,27129.0,59,5.0
-397607,2020-08-03,Renville,North Dakota,38075.0,9,0.0
-400186,2020-08-04,Renville,Minnesota,27129.0,60,5.0
-400822,2020-08-04,Renville,North Dakota,38075.0,9,0.0
-403403,2020-08-05,Renville,Minnesota,27129.0,60,5.0
-404040,2020-08-05,Renville,North Dakota,38075.0,8,0.0
-406621,2020-08-06,Renville,Minnesota,27129.0,62,5.0
-407259,2020-08-06,Renville,North Dakota,38075.0,8,0.0
-409841,2020-08-07,Renville,Minnesota,27129.0,62,5.0
-410479,2020-08-07,Renville,North Dakota,38075.0,9,0.0
-413061,2020-08-08,Renville,Minnesota,27129.0,63,5.0
-413699,2020-08-08,Renville,North Dakota,38075.0,9,0.0
-416281,2020-08-09,Renville,Minnesota,27129.0,64,5.0
-416920,2020-08-09,Renville,North Dakota,38075.0,9,0.0
-419502,2020-08-10,Renville,Minnesota,27129.0,65,5.0
-420140,2020-08-10,Renville,North Dakota,38075.0,9,0.0
-422724,2020-08-11,Renville,Minnesota,27129.0,66,5.0
-423363,2020-08-11,Renville,North Dakota,38075.0,9,0.0
-425946,2020-08-12,Renville,Minnesota,27129.0,67,5.0
-426586,2020-08-12,Renville,North Dakota,38075.0,9,0.0
-429170,2020-08-13,Renville,Minnesota,27129.0,67,5.0
-429811,2020-08-13,Renville,North Dakota,38075.0,9,0.0
-432397,2020-08-14,Renville,Minnesota,27129.0,67,5.0
-433037,2020-08-14,Renville,North Dakota,38075.0,10,0.0
-435623,2020-08-15,Renville,Minnesota,27129.0,68,5.0
-436263,2020-08-15,Renville,North Dakota,38075.0,10,0.0
-438848,2020-08-16,Renville,Minnesota,27129.0,69,5.0
-439488,2020-08-16,Renville,North Dakota,38075.0,10,0.0
-442075,2020-08-17,Renville,Minnesota,27129.0,69,5.0
-442715,2020-08-17,Renville,North Dakota,38075.0,10,0.0
-445301,2020-08-18,Renville,Minnesota,27129.0,69,5.0
-445941,2020-08-18,Renville,North Dakota,38075.0,10,0.0
-448527,2020-08-19,Renville,Minnesota,27129.0,69,5.0
-449169,2020-08-19,Renville,North Dakota,38075.0,10,0.0
-451755,2020-08-20,Renville,Minnesota,27129.0,69,5.0
-452397,2020-08-20,Renville,North Dakota,38075.0,10,0.0
-454983,2020-08-21,Renville,Minnesota,27129.0,70,5.0
-455625,2020-08-21,Renville,North Dakota,38075.0,10,0.0
-458211,2020-08-22,Renville,Minnesota,27129.0,71,5.0
-458853,2020-08-22,Renville,North Dakota,38075.0,10,0.0
-461438,2020-08-23,Renville,Minnesota,27129.0,72,6.0
-462081,2020-08-23,Renville,North Dakota,38075.0,10,0.0
-464669,2020-08-24,Renville,Minnesota,27129.0,72,6.0
-465310,2020-08-24,Renville,North Dakota,38075.0,10,0.0
-467898,2020-08-25,Renville,Minnesota,27129.0,72,6.0
-468538,2020-08-25,Renville,North Dakota,38075.0,10,0.0
-471128,2020-08-26,Renville,Minnesota,27129.0,72,6.0
-471770,2020-08-26,Renville,North Dakota,38075.0,11,0.0
-474360,2020-08-27,Renville,Minnesota,27129.0,77,6.0
-475004,2020-08-27,Renville,North Dakota,38075.0,11,0.0
-477593,2020-08-28,Renville,Minnesota,27129.0,78,6.0
-478237,2020-08-28,Renville,North Dakota,38075.0,11,0.0
-480825,2020-08-29,Renville,Minnesota,27129.0,81,6.0
-481470,2020-08-29,Renville,North Dakota,38075.0,11,0.0
-484060,2020-08-30,Renville,Minnesota,27129.0,84,6.0
-484705,2020-08-30,Renville,North Dakota,38075.0,11,0.0
-487294,2020-08-31,Renville,Minnesota,27129.0,84,6.0
-487938,2020-08-31,Renville,North Dakota,38075.0,11,0.0
-490527,2020-09-01,Renville,Minnesota,27129.0,84,6.0
-491171,2020-09-01,Renville,North Dakota,38075.0,11,0.0
-493761,2020-09-02,Renville,Minnesota,27129.0,84,6.0
-494405,2020-09-02,Renville,North Dakota,38075.0,11,0.0
-496994,2020-09-03,Renville,Minnesota,27129.0,87,6.0
-497638,2020-09-03,Renville,North Dakota,38075.0,11,0.0
-500228,2020-09-04,Renville,Minnesota,27129.0,91,6.0
-500872,2020-09-04,Renville,North Dakota,38075.0,11,0.0
-503462,2020-09-05,Renville,Minnesota,27129.0,94,6.0
-504106,2020-09-05,Renville,North Dakota,38075.0,11,0.0
-506695,2020-09-06,Renville,Minnesota,27129.0,98,6.0
-507338,2020-09-06,Renville,North Dakota,38075.0,11,0.0
-509928,2020-09-07,Renville,Minnesota,27129.0,98,6.0
-510571,2020-09-07,Renville,North Dakota,38075.0,11,0.0
-513160,2020-09-08,Renville,Minnesota,27129.0,99,6.0
-513804,2020-09-08,Renville,North Dakota,38075.0,11,0.0
-516394,2020-09-09,Renville,Minnesota,27129.0,99,6.0
-517039,2020-09-09,Renville,North Dakota,38075.0,12,0.0
-519629,2020-09-10,Renville,Minnesota,27129.0,99,6.0
-520275,2020-09-10,Renville,North Dakota,38075.0,14,0.0
-522866,2020-09-11,Renville,Minnesota,27129.0,103,6.0
-523511,2020-09-11,Renville,North Dakota,38075.0,15,0.0
-526102,2020-09-12,Renville,Minnesota,27129.0,106,6.0
-526747,2020-09-12,Renville,North Dakota,38075.0,16,0.0
-529338,2020-09-13,Renville,Minnesota,27129.0,107,6.0
-529984,2020-09-13,Renville,North Dakota,38075.0,19,0.0
-532574,2020-09-14,Renville,Minnesota,27129.0,107,6.0
-533219,2020-09-14,Renville,North Dakota,38075.0,19,0.0
-535809,2020-09-15,Renville,Minnesota,27129.0,107,6.0
-536455,2020-09-15,Renville,North Dakota,38075.0,21,0.0
-539046,2020-09-16,Renville,Minnesota,27129.0,109,6.0
-539692,2020-09-16,Renville,North Dakota,38075.0,23,0.0
-542282,2020-09-17,Renville,Minnesota,27129.0,117,6.0
-542928,2020-09-17,Renville,North Dakota,38075.0,27,0.0
-545519,2020-09-18,Renville,Minnesota,27129.0,120,6.0
-546165,2020-09-18,Renville,North Dakota,38075.0,32,0.0
-548757,2020-09-19,Renville,Minnesota,27129.0,125,6.0
-549404,2020-09-19,Renville,North Dakota,38075.0,34,0.0
-551996,2020-09-20,Renville,Minnesota,27129.0,128,6.0
-552643,2020-09-20,Renville,North Dakota,38075.0,39,0.0
-555234,2020-09-21,Renville,Minnesota,27129.0,136,7.0
-555880,2020-09-21,Renville,North Dakota,38075.0,39,0.0
-558471,2020-09-22,Renville,Minnesota,27129.0,136,7.0
-559117,2020-09-22,Renville,North Dakota,38075.0,38,0.0
-561708,2020-09-23,Renville,Minnesota,27129.0,136,7.0
-562354,2020-09-23,Renville,North Dakota,38075.0,46,0.0
-564948,2020-09-24,Renville,Minnesota,27129.0,142,7.0
-565595,2020-09-24,Renville,North Dakota,38075.0,51,0.0
-568188,2020-09-25,Renville,Minnesota,27129.0,147,8.0
-568836,2020-09-25,Renville,North Dakota,38075.0,57,0.0
-571430,2020-09-26,Renville,Minnesota,27129.0,151,8.0
-572078,2020-09-26,Renville,North Dakota,38075.0,60,1.0
-574673,2020-09-27,Renville,Minnesota,27129.0,156,8.0
-575322,2020-09-27,Renville,North Dakota,38075.0,66,1.0
-577914,2020-09-28,Renville,Minnesota,27129.0,157,8.0
-578563,2020-09-28,Renville,North Dakota,38075.0,67,1.0
-581155,2020-09-29,Renville,Minnesota,27129.0,161,8.0
-581803,2020-09-29,Renville,North Dakota,38075.0,68,1.0
-584396,2020-09-30,Renville,Minnesota,27129.0,163,8.0
-585044,2020-09-30,Renville,North Dakota,38075.0,69,1.0
-587636,2020-10-01,Renville,Minnesota,27129.0,167,8.0
-588284,2020-10-01,Renville,North Dakota,38075.0,70,1.0
-590877,2020-10-02,Renville,Minnesota,27129.0,170,8.0
-591525,2020-10-02,Renville,North Dakota,38075.0,72,1.0
-594118,2020-10-03,Renville,Minnesota,27129.0,170,8.0
-594766,2020-10-03,Renville,North Dakota,38075.0,72,1.0
-597359,2020-10-04,Renville,Minnesota,27129.0,175,8.0
-598009,2020-10-04,Renville,North Dakota,38075.0,72,1.0
-600602,2020-10-05,Renville,Minnesota,27129.0,176,8.0
-601252,2020-10-05,Renville,North Dakota,38075.0,74,1.0
-603844,2020-10-06,Renville,Minnesota,27129.0,176,8.0
-604494,2020-10-06,Renville,North Dakota,38075.0,76,1.0
-607087,2020-10-07,Renville,Minnesota,27129.0,184,9.0
-607737,2020-10-07,Renville,North Dakota,38075.0,79,1.0
-610329,2020-10-08,Renville,Minnesota,27129.0,191,9.0
-610979,2020-10-08,Renville,North Dakota,38075.0,85,1.0
-613571,2020-10-09,Renville,Minnesota,27129.0,195,9.0
-614220,2020-10-09,Renville,North Dakota,38075.0,89,2.0
-616812,2020-10-10,Renville,Minnesota,27129.0,203,9.0
-617462,2020-10-10,Renville,North Dakota,38075.0,89,2.0
-620054,2020-10-11,Renville,Minnesota,27129.0,206,10.0
-620704,2020-10-11,Renville,North Dakota,38075.0,91,2.0
-623297,2020-10-12,Renville,Minnesota,27129.0,208,10.0
-623947,2020-10-12,Renville,North Dakota,38075.0,95,2.0
-626539,2020-10-13,Renville,Minnesota,27129.0,210,10.0
-627189,2020-10-13,Renville,North Dakota,38075.0,93,2.0
-629783,2020-10-14,Renville,Minnesota,27129.0,215,10.0
-630433,2020-10-14,Renville,North Dakota,38075.0,93,2.0
-633028,2020-10-15,Renville,Minnesota,27129.0,216,10.0
-633678,2020-10-15,Renville,North Dakota,38075.0,94,2.0
-636274,2020-10-16,Renville,Minnesota,27129.0,216,11.0
-636924,2020-10-16,Renville,North Dakota,38075.0,94,2.0
-639520,2020-10-17,Renville,Minnesota,27129.0,224,11.0
-640170,2020-10-17,Renville,North Dakota,38075.0,95,2.0
-642767,2020-10-18,Renville,Minnesota,27129.0,225,11.0
-643418,2020-10-18,Renville,North Dakota,38075.0,95,2.0
-646014,2020-10-19,Renville,Minnesota,27129.0,229,11.0
-646664,2020-10-19,Renville,North Dakota,38075.0,96,2.0
-649258,2020-10-20,Renville,Minnesota,27129.0,230,11.0
-649908,2020-10-20,Renville,North Dakota,38075.0,97,2.0
-652503,2020-10-21,Renville,Minnesota,27129.0,233,11.0
-653153,2020-10-21,Renville,North Dakota,38075.0,98,2.0
-655748,2020-10-22,Renville,Minnesota,27129.0,237,11.0
-656398,2020-10-22,Renville,North Dakota,38075.0,100,2.0
-658993,2020-10-23,Renville,Minnesota,27129.0,243,11.0
-659642,2020-10-23,Renville,North Dakota,38075.0,100,2.0
-662237,2020-10-24,Renville,Minnesota,27129.0,250,11.0
-662886,2020-10-24,Renville,North Dakota,38075.0,101,2.0
-665482,2020-10-25,Renville,Minnesota,27129.0,252,11.0
-666131,2020-10-25,Renville,North Dakota,38075.0,102,2.0
-668726,2020-10-26,Renville,Minnesota,27129.0,256,11.0
-669375,2020-10-26,Renville,North Dakota,38075.0,104,2.0
-671968,2020-10-27,Renville,Minnesota,27129.0,258,12.0
-672617,2020-10-27,Renville,North Dakota,38075.0,108,2.0
-675211,2020-10-28,Renville,Minnesota,27129.0,263,13.0
-675860,2020-10-28,Renville,North Dakota,38075.0,108,2.0
-678453,2020-10-29,Renville,Minnesota,27129.0,272,13.0
-679103,2020-10-29,Renville,North Dakota,38075.0,112,2.0
-681697,2020-10-30,Renville,Minnesota,27129.0,286,13.0
-682346,2020-10-30,Renville,North Dakota,38075.0,116,2.0
-684940,2020-10-31,Renville,Minnesota,27129.0,300,13.0
-685589,2020-10-31,Renville,North Dakota,38075.0,117,2.0
-688184,2020-11-01,Renville,Minnesota,27129.0,304,13.0
-688834,2020-11-01,Renville,North Dakota,38075.0,119,2.0
-691429,2020-11-02,Renville,Minnesota,27129.0,310,13.0
-692078,2020-11-02,Renville,North Dakota,38075.0,122,2.0
-694671,2020-11-03,Renville,Minnesota,27129.0,319,13.0
-695320,2020-11-03,Renville,North Dakota,38075.0,122,2.0
-697914,2020-11-04,Renville,Minnesota,27129.0,323,13.0
-698563,2020-11-04,Renville,North Dakota,38075.0,123,2.0
-701158,2020-11-05,Renville,Minnesota,27129.0,328,13.0
-701807,2020-11-05,Renville,North Dakota,38075.0,123,2.0
-704400,2020-11-06,Renville,Minnesota,27129.0,346,13.0
-705050,2020-11-06,Renville,North Dakota,38075.0,130,2.0
-707643,2020-11-07,Renville,Minnesota,27129.0,363,14.0
-708293,2020-11-07,Renville,North Dakota,38075.0,137,2.0
-710887,2020-11-08,Renville,Minnesota,27129.0,374,14.0
-711537,2020-11-08,Renville,North Dakota,38075.0,141,2.0
-714131,2020-11-09,Renville,Minnesota,27129.0,383,14.0
-714781,2020-11-09,Renville,North Dakota,38075.0,142,2.0
-717375,2020-11-10,Renville,Minnesota,27129.0,392,14.0
-718024,2020-11-10,Renville,North Dakota,38075.0,143,2.0
-720618,2020-11-11,Renville,Minnesota,27129.0,403,14.0
-721267,2020-11-11,Renville,North Dakota,38075.0,144,2.0
-723861,2020-11-12,Renville,Minnesota,27129.0,433,14.0
-724510,2020-11-12,Renville,North Dakota,38075.0,148,2.0
-727104,2020-11-13,Renville,Minnesota,27129.0,447,14.0
-727754,2020-11-13,Renville,North Dakota,38075.0,151,2.0
-730347,2020-11-14,Renville,Minnesota,27129.0,490,14.0
-730998,2020-11-14,Renville,North Dakota,38075.0,157,2.0
-733592,2020-11-15,Renville,Minnesota,27129.0,501,14.0
-734244,2020-11-15,Renville,North Dakota,38075.0,163,2.0
-736838,2020-11-16,Renville,Minnesota,27129.0,515,14.0
-737488,2020-11-16,Renville,North Dakota,38075.0,165,2.0
-740082,2020-11-17,Renville,Minnesota,27129.0,531,15.0
-740733,2020-11-17,Renville,North Dakota,38075.0,168,2.0
-743329,2020-11-18,Renville,Minnesota,27129.0,552,16.0
-743980,2020-11-18,Renville,North Dakota,38075.0,168,2.0
-746576,2020-11-19,Renville,Minnesota,27129.0,580,17.0
-747226,2020-11-19,Renville,North Dakota,38075.0,170,2.0
-749822,2020-11-20,Renville,Minnesota,27129.0,620,17.0
-750472,2020-11-20,Renville,North Dakota,38075.0,185,2.0
-753068,2020-11-21,Renville,Minnesota,27129.0,652,18.0
-753718,2020-11-21,Renville,North Dakota,38075.0,188,2.0
-756314,2020-11-22,Renville,Minnesota,27129.0,688,18.0
-756965,2020-11-22,Renville,North Dakota,38075.0,204,2.0
-759561,2020-11-23,Renville,Minnesota,27129.0,708,18.0
-760211,2020-11-23,Renville,North Dakota,38075.0,210,2.0
-762806,2020-11-24,Renville,Minnesota,27129.0,731,18.0
-763456,2020-11-24,Renville,North Dakota,38075.0,211,2.0
-766051,2020-11-25,Renville,Minnesota,27129.0,751,19.0
-766701,2020-11-25,Renville,North Dakota,38075.0,212,2.0
-769297,2020-11-26,Renville,Minnesota,27129.0,751,19.0
-769947,2020-11-26,Renville,North Dakota,38075.0,227,2.0
-772542,2020-11-27,Renville,Minnesota,27129.0,773,22.0
-773192,2020-11-27,Renville,North Dakota,38075.0,229,2.0
-775787,2020-11-28,Renville,Minnesota,27129.0,831,24.0
-776437,2020-11-28,Renville,North Dakota,38075.0,237,2.0
-779032,2020-11-29,Renville,Minnesota,27129.0,865,27.0
-779682,2020-11-29,Renville,North Dakota,38075.0,247,2.0
-782278,2020-11-30,Renville,Minnesota,27129.0,895,29.0
-782928,2020-11-30,Renville,North Dakota,38075.0,250,2.0
-785522,2020-12-01,Renville,Minnesota,27129.0,913,29.0
-786172,2020-12-01,Renville,North Dakota,38075.0,254,5.0
-788767,2020-12-02,Renville,Minnesota,27129.0,927,29.0
-789417,2020-12-02,Renville,North Dakota,38075.0,257,5.0
-792012,2020-12-03,Renville,Minnesota,27129.0,955,30.0
-792662,2020-12-03,Renville,North Dakota,38075.0,260,5.0
-795257,2020-12-04,Renville,Minnesota,27129.0,986,30.0
-795907,2020-12-04,Renville,North Dakota,38075.0,260,8.0
-798502,2020-12-05,Renville,Minnesota,27129.0,1033,31.0
-799152,2020-12-05,Renville,North Dakota,38075.0,261,8.0
-801747,2020-12-06,Renville,Minnesota,27129.0,1071,32.0
-802397,2020-12-06,Renville,North Dakota,38075.0,261,8.0
-804992,2020-12-07,Renville,Minnesota,27129.0,1092,32.0
-805642,2020-12-07,Renville,North Dakota,38075.0,261,8.0
-808237,2020-12-08,Renville,Minnesota,27129.0,1106,32.0
-808887,2020-12-08,Renville,North Dakota,38075.0,261,8.0
-811482,2020-12-09,Renville,Minnesota,27129.0,1120,32.0
-812132,2020-12-09,Renville,North Dakota,38075.0,265,9.0
-814727,2020-12-10,Renville,Minnesota,27129.0,1137,32.0
-815377,2020-12-10,Renville,North Dakota,38075.0,265,10.0
-817973,2020-12-11,Renville,Minnesota,27129.0,1148,32.0
-818623,2020-12-11,Renville,North Dakota,38075.0,265,10.0
-821219,2020-12-12,Renville,Minnesota,27129.0,1169,33.0
-821869,2020-12-12,Renville,North Dakota,38075.0,265,11.0
-824465,2020-12-13,Renville,Minnesota,27129.0,1180,34.0
-825116,2020-12-13,Renville,North Dakota,38075.0,267,11.0
-827712,2020-12-14,Renville,Minnesota,27129.0,1184,34.0
-828362,2020-12-14,Renville,North Dakota,38075.0,268,11.0
-830958,2020-12-15,Renville,Minnesota,27129.0,1191,34.0
-831609,2020-12-15,Renville,North Dakota,38075.0,268,12.0
-834205,2020-12-16,Renville,Minnesota,27129.0,1199,34.0
-834855,2020-12-16,Renville,North Dakota,38075.0,269,12.0
-837451,2020-12-17,Renville,Minnesota,27129.0,1210,35.0
-838101,2020-12-17,Renville,North Dakota,38075.0,269,12.0
-840696,2020-12-18,Renville,Minnesota,27129.0,1215,35.0
-841346,2020-12-18,Renville,North Dakota,38075.0,271,12.0
-843941,2020-12-19,Renville,Minnesota,27129.0,1225,35.0
-844592,2020-12-19,Renville,North Dakota,38075.0,272,12.0
-847187,2020-12-20,Renville,Minnesota,27129.0,1234,37.0
-847837,2020-12-20,Renville,North Dakota,38075.0,272,12.0
-850432,2020-12-21,Renville,Minnesota,27129.0,1242,37.0
-851082,2020-12-21,Renville,North Dakota,38075.0,272,12.0
-853677,2020-12-22,Renville,Minnesota,27129.0,1245,37.0
-854327,2020-12-22,Renville,North Dakota,38075.0,272,12.0
-856922,2020-12-23,Renville,Minnesota,27129.0,1256,37.0
-857572,2020-12-23,Renville,North Dakota,38075.0,272,12.0
-860167,2020-12-24,Renville,Minnesota,27129.0,1265,38.0
-860817,2020-12-24,Renville,North Dakota,38075.0,272,12.0
-863412,2020-12-25,Renville,Minnesota,27129.0,1265,38.0
-864062,2020-12-25,Renville,North Dakota,38075.0,272,12.0
-866657,2020-12-26,Renville,Minnesota,27129.0,1273,38.0
-867307,2020-12-26,Renville,North Dakota,38075.0,272,12.0
-869902,2020-12-27,Renville,Minnesota,27129.0,1281,38.0
-870552,2020-12-27,Renville,North Dakota,38075.0,272,12.0
-873147,2020-12-28,Renville,Minnesota,27129.0,1283,38.0
-873797,2020-12-28,Renville,North Dakota,38075.0,272,12.0
-876392,2020-12-29,Renville,Minnesota,27129.0,1286,38.0
-877042,2020-12-29,Renville,North Dakota,38075.0,275,12.0
-879637,2020-12-30,Renville,Minnesota,27129.0,1291,38.0
-880287,2020-12-30,Renville,North Dakota,38075.0,276,12.0
-882882,2020-12-31,Renville,Minnesota,27129.0,1291,39.0
-883532,2020-12-31,Renville,North Dakota,38075.0,276,12.0
-886127,2021-01-01,Renville,Minnesota,27129.0,1291,39.0
-886777,2021-01-01,Renville,North Dakota,38075.0,279,12.0
-889373,2021-01-02,Renville,Minnesota,27129.0,1301,39.0
-890024,2021-01-02,Renville,North Dakota,38075.0,279,12.0
-892619,2021-01-03,Renville,Minnesota,27129.0,1308,39.0
-893270,2021-01-03,Renville,North Dakota,38075.0,279,12.0
-895866,2021-01-04,Renville,Minnesota,27129.0,1315,39.0
-896516,2021-01-04,Renville,North Dakota,38075.0,279,12.0
-899111,2021-01-05,Renville,Minnesota,27129.0,1324,39.0
-899761,2021-01-05,Renville,North Dakota,38075.0,280,12.0
-902356,2021-01-06,Renville,Minnesota,27129.0,1328,39.0
-903006,2021-01-06,Renville,North Dakota,38075.0,280,12.0
-905601,2021-01-07,Renville,Minnesota,27129.0,1340,39.0
-906252,2021-01-07,Renville,North Dakota,38075.0,281,12.0
-908847,2021-01-08,Renville,Minnesota,27129.0,1345,39.0
-909497,2021-01-08,Renville,North Dakota,38075.0,281,12.0
-912092,2021-01-09,Renville,Minnesota,27129.0,1347,39.0
-912742,2021-01-09,Renville,North Dakota,38075.0,282,12.0
-915337,2021-01-10,Renville,Minnesota,27129.0,1350,39.0
-915987,2021-01-10,Renville,North Dakota,38075.0,282,12.0
-918582,2021-01-11,Renville,Minnesota,27129.0,1351,39.0
-919232,2021-01-11,Renville,North Dakota,38075.0,282,12.0
-921827,2021-01-12,Renville,Minnesota,27129.0,1354,39.0
-922477,2021-01-12,Renville,North Dakota,38075.0,282,12.0
-925072,2021-01-13,Renville,Minnesota,27129.0,1356,39.0
-925723,2021-01-13,Renville,North Dakota,38075.0,281,12.0
-928318,2021-01-14,Renville,Minnesota,27129.0,1361,39.0
-928968,2021-01-14,Renville,North Dakota,38075.0,281,12.0
-931563,2021-01-15,Renville,Minnesota,27129.0,1363,39.0
-932213,2021-01-15,Renville,North Dakota,38075.0,283,12.0
-934808,2021-01-16,Renville,Minnesota,27129.0,1365,39.0
-935458,2021-01-16,Renville,North Dakota,38075.0,283,13.0
-938053,2021-01-17,Renville,Minnesota,27129.0,1371,39.0
-938703,2021-01-17,Renville,North Dakota,38075.0,283,13.0
-941298,2021-01-18,Renville,Minnesota,27129.0,1372,39.0
-941948,2021-01-18,Renville,North Dakota,38075.0,284,13.0
-944543,2021-01-19,Renville,Minnesota,27129.0,1375,39.0
-945195,2021-01-19,Renville,North Dakota,38075.0,285,13.0
-947790,2021-01-20,Renville,Minnesota,27129.0,1375,40.0
-948441,2021-01-20,Renville,North Dakota,38075.0,286,13.0
-951036,2021-01-21,Renville,Minnesota,27129.0,1378,40.0
-951686,2021-01-21,Renville,North Dakota,38075.0,286,13.0
-954281,2021-01-22,Renville,Minnesota,27129.0,1379,40.0
-954931,2021-01-22,Renville,North Dakota,38075.0,289,13.0
-957526,2021-01-23,Renville,Minnesota,27129.0,1380,40.0
-958177,2021-01-23,Renville,North Dakota,38075.0,291,13.0
-960772,2021-01-24,Renville,Minnesota,27129.0,1384,40.0
-961422,2021-01-24,Renville,North Dakota,38075.0,294,13.0
-964017,2021-01-25,Renville,Minnesota,27129.0,1385,40.0
-964667,2021-01-25,Renville,North Dakota,38075.0,294,13.0
-967261,2021-01-26,Renville,Minnesota,27129.0,1387,40.0
-967911,2021-01-26,Renville,North Dakota,38075.0,295,13.0
-970506,2021-01-27,Renville,Minnesota,27129.0,1392,40.0
-971156,2021-01-27,Renville,North Dakota,38075.0,295,13.0
-973751,2021-01-28,Renville,Minnesota,27129.0,1394,40.0
-974401,2021-01-28,Renville,North Dakota,38075.0,297,13.0
-976996,2021-01-29,Renville,Minnesota,27129.0,1399,40.0
-977646,2021-01-29,Renville,North Dakota,38075.0,299,13.0
-980242,2021-01-30,Renville,Minnesota,27129.0,1400,40.0
-980892,2021-01-30,Renville,North Dakota,38075.0,299,13.0
-983488,2021-01-31,Renville,Minnesota,27129.0,1403,40.0
-984139,2021-01-31,Renville,North Dakota,38075.0,299,13.0
-986735,2021-02-01,Renville,Minnesota,27129.0,1403,40.0
-987386,2021-02-01,Renville,North Dakota,38075.0,299,13.0
-989982,2021-02-02,Renville,Minnesota,27129.0,1405,40.0
-990632,2021-02-02,Renville,North Dakota,38075.0,299,13.0
-993228,2021-02-03,Renville,Minnesota,27129.0,1409,40.0
-993878,2021-02-03,Renville,North Dakota,38075.0,299,13.0
-996474,2021-02-04,Renville,Minnesota,27129.0,1411,40.0
-997124,2021-02-04,Renville,North Dakota,38075.0,298,13.0
-999720,2021-02-05,Renville,Minnesota,27129.0,1414,40.0
-1000370,2021-02-05,Renville,North Dakota,38075.0,298,13.0
-1002965,2021-02-06,Renville,Minnesota,27129.0,1419,40.0
-1003616,2021-02-06,Renville,North Dakota,38075.0,298,13.0
-1006211,2021-02-07,Renville,Minnesota,27129.0,1420,40.0
-1006862,2021-02-07,Renville,North Dakota,38075.0,298,13.0
-1009458,2021-02-08,Renville,Minnesota,27129.0,1424,40.0
-1010108,2021-02-08,Renville,North Dakota,38075.0,298,13.0
-1012703,2021-02-09,Renville,Minnesota,27129.0,1426,40.0
-1013353,2021-02-09,Renville,North Dakota,38075.0,298,13.0
-1015948,2021-02-10,Renville,Minnesota,27129.0,1428,40.0
-1016598,2021-02-10,Renville,North Dakota,38075.0,298,13.0
-1019193,2021-02-11,Renville,Minnesota,27129.0,1430,40.0
-1019843,2021-02-11,Renville,North Dakota,38075.0,299,13.0
-1022438,2021-02-12,Renville,Minnesota,27129.0,1444,40.0
-1023088,2021-02-12,Renville,North Dakota,38075.0,300,13.0
-1025683,2021-02-13,Renville,Minnesota,27129.0,1445,40.0
-1026333,2021-02-13,Renville,North Dakota,38075.0,302,13.0
-1028929,2021-02-14,Renville,Minnesota,27129.0,1448,40.0
-1029580,2021-02-14,Renville,North Dakota,38075.0,302,13.0
-1032176,2021-02-15,Renville,Minnesota,27129.0,1452,40.0
-1032826,2021-02-15,Renville,North Dakota,38075.0,302,13.0
-1035421,2021-02-16,Renville,Minnesota,27129.0,1452,40.0
-1036071,2021-02-16,Renville,North Dakota,38075.0,302,13.0
-1038666,2021-02-17,Renville,Minnesota,27129.0,1452,40.0
-1039316,2021-02-17,Renville,North Dakota,38075.0,302,13.0
-1041911,2021-02-18,Renville,Minnesota,27129.0,1456,40.0
-1042561,2021-02-18,Renville,North Dakota,38075.0,303,13.0
-1045156,2021-02-19,Renville,Minnesota,27129.0,1459,40.0
-1045806,2021-02-19,Renville,North Dakota,38075.0,303,13.0
-1048402,2021-02-20,Renville,Minnesota,27129.0,1467,40.0
-1049053,2021-02-20,Renville,North Dakota,38075.0,303,13.0
-1051649,2021-02-21,Renville,Minnesota,27129.0,1467,40.0
-1052300,2021-02-21,Renville,North Dakota,38075.0,304,13.0
-1054896,2021-02-22,Renville,Minnesota,27129.0,1467,40.0
-1055546,2021-02-22,Renville,North Dakota,38075.0,304,13.0
-1058142,2021-02-23,Renville,Minnesota,27129.0,1468,40.0
-1058792,2021-02-23,Renville,North Dakota,38075.0,305,13.0
-1061388,2021-02-24,Renville,Minnesota,27129.0,1473,40.0
-1062038,2021-02-24,Renville,North Dakota,38075.0,305,13.0
-1064632,2021-02-25,Renville,Minnesota,27129.0,1480,40.0
-1065282,2021-02-25,Renville,North Dakota,38075.0,305,13.0
-1067877,2021-02-26,Renville,Minnesota,27129.0,1487,40.0
-1068527,2021-02-26,Renville,North Dakota,38075.0,305,13.0
-1071122,2021-02-27,Renville,Minnesota,27129.0,1490,40.0
-1071773,2021-02-27,Renville,North Dakota,38075.0,305,13.0
-1074368,2021-02-28,Renville,Minnesota,27129.0,1493,40.0
-1075019,2021-02-28,Renville,North Dakota,38075.0,305,13.0
-1077614,2021-03-01,Renville,Minnesota,27129.0,1495,40.0
-1078264,2021-03-01,Renville,North Dakota,38075.0,305,13.0
-1080860,2021-03-02,Renville,Minnesota,27129.0,1496,40.0
-1081510,2021-03-02,Renville,North Dakota,38075.0,305,13.0
-1084106,2021-03-03,Renville,Minnesota,27129.0,1503,40.0
-1084756,2021-03-03,Renville,North Dakota,38075.0,305,13.0
-1087351,2021-03-04,Renville,Minnesota,27129.0,1512,40.0
-1088001,2021-03-04,Renville,North Dakota,38075.0,305,13.0
-1090596,2021-03-05,Renville,Minnesota,27129.0,1516,40.0
-1091246,2021-03-05,Renville,North Dakota,38075.0,305,13.0
-1093842,2021-03-06,Renville,Minnesota,27129.0,1526,40.0
-1094492,2021-03-06,Renville,North Dakota,38075.0,305,13.0
-1097089,2021-03-07,Renville,Minnesota,27129.0,1529,40.0
-1097740,2021-03-07,Renville,North Dakota,38075.0,305,13.0
-1100336,2021-03-08,Renville,Minnesota,27129.0,1531,40.0
-1100986,2021-03-08,Renville,North Dakota,38075.0,305,13.0
-1103582,2021-03-09,Renville,Minnesota,27129.0,1533,41.0
-1104232,2021-03-09,Renville,North Dakota,38075.0,305,13.0
-1106828,2021-03-10,Renville,Minnesota,27129.0,1534,41.0
-1107478,2021-03-10,Renville,North Dakota,38075.0,306,13.0
-1110074,2021-03-11,Renville,Minnesota,27129.0,1537,41.0
-1110724,2021-03-11,Renville,North Dakota,38075.0,306,13.0
-1113320,2021-03-12,Renville,Minnesota,27129.0,1542,41.0
-1113970,2021-03-12,Renville,North Dakota,38075.0,306,13.0
-1116566,2021-03-13,Renville,Minnesota,27129.0,1545,41.0
-1117217,2021-03-13,Renville,North Dakota,38075.0,306,13.0
-1119813,2021-03-14,Renville,Minnesota,27129.0,1547,41.0
-1120464,2021-03-14,Renville,North Dakota,38075.0,306,13.0
-1123060,2021-03-15,Renville,Minnesota,27129.0,1548,41.0
-1123710,2021-03-15,Renville,North Dakota,38075.0,306,13.0
-1126306,2021-03-16,Renville,Minnesota,27129.0,1549,41.0
-1126956,2021-03-16,Renville,North Dakota,38075.0,308,13.0
-1129553,2021-03-17,Renville,Minnesota,27129.0,1553,41.0
-1130203,2021-03-17,Renville,North Dakota,38075.0,308,13.0
-1132801,2021-03-18,Renville,Minnesota,27129.0,1561,41.0
-1133451,2021-03-18,Renville,North Dakota,38075.0,308,13.0
-1136047,2021-03-19,Renville,Minnesota,27129.0,1569,41.0
-1136697,2021-03-19,Renville,North Dakota,38075.0,309,13.0
-1139293,2021-03-20,Renville,Minnesota,27129.0,1574,41.0
-1139943,2021-03-20,Renville,North Dakota,38075.0,309,13.0
-1142540,2021-03-21,Renville,Minnesota,27129.0,1579,43.0
-1143190,2021-03-21,Renville,North Dakota,38075.0,309,13.0
-1145787,2021-03-22,Renville,Minnesota,27129.0,1580,43.0
-1146437,2021-03-22,Renville,North Dakota,38075.0,310,13.0
-1149034,2021-03-23,Renville,Minnesota,27129.0,1581,43.0
-1149684,2021-03-23,Renville,North Dakota,38075.0,311,13.0
-1152281,2021-03-24,Renville,Minnesota,27129.0,1582,43.0
-1152931,2021-03-24,Renville,North Dakota,38075.0,311,13.0
-1155528,2021-03-25,Renville,Minnesota,27129.0,1590,43.0
-1156178,2021-03-25,Renville,North Dakota,38075.0,311,13.0
-1158775,2021-03-26,Renville,Minnesota,27129.0,1597,43.0
-1159425,2021-03-26,Renville,North Dakota,38075.0,311,13.0
-1162023,2021-03-27,Renville,Minnesota,27129.0,1603,43.0
-1162674,2021-03-27,Renville,North Dakota,38075.0,313,13.0
-1165271,2021-03-28,Renville,Minnesota,27129.0,1608,43.0
-1165922,2021-03-28,Renville,North Dakota,38075.0,313,13.0
-1168519,2021-03-29,Renville,Minnesota,27129.0,1612,43.0
-1169170,2021-03-29,Renville,North Dakota,38075.0,313,13.0
-1171767,2021-03-30,Renville,Minnesota,27129.0,1613,43.0
-1172417,2021-03-30,Renville,North Dakota,38075.0,313,13.0
-1175014,2021-03-31,Renville,Minnesota,27129.0,1615,43.0
-1175664,2021-03-31,Renville,North Dakota,38075.0,313,13.0
-1178261,2021-04-01,Renville,Minnesota,27129.0,1625,43.0
-1178911,2021-04-01,Renville,North Dakota,38075.0,314,13.0
-1181508,2021-04-02,Renville,Minnesota,27129.0,1627,43.0
-1182158,2021-04-02,Renville,North Dakota,38075.0,314,13.0
-1184754,2021-04-03,Renville,Minnesota,27129.0,1627,43.0
-1185405,2021-04-03,Renville,North Dakota,38075.0,316,13.0
-1188001,2021-04-04,Renville,Minnesota,27129.0,1627,43.0
-1188652,2021-04-04,Renville,North Dakota,38075.0,316,13.0
-1191249,2021-04-05,Renville,Minnesota,27129.0,1629,43.0
-1191901,2021-04-05,Renville,North Dakota,38075.0,317,13.0
-1194498,2021-04-06,Renville,Minnesota,27129.0,1635,43.0
-1195149,2021-04-06,Renville,North Dakota,38075.0,316,13.0
-1197747,2021-04-07,Renville,Minnesota,27129.0,1642,43.0
-1198398,2021-04-07,Renville,North Dakota,38075.0,316,13.0
-1200996,2021-04-08,Renville,Minnesota,27129.0,1651,43.0
-1201647,2021-04-08,Renville,North Dakota,38075.0,316,13.0
-1204244,2021-04-09,Renville,Minnesota,27129.0,1667,43.0
-1204895,2021-04-09,Renville,North Dakota,38075.0,316,14.0
-1207492,2021-04-10,Renville,Minnesota,27129.0,1674,43.0
-1208143,2021-04-10,Renville,North Dakota,38075.0,316,14.0
-1210741,2021-04-11,Renville,Minnesota,27129.0,1680,43.0
-1211392,2021-04-11,Renville,North Dakota,38075.0,317,14.0
-1213989,2021-04-12,Renville,Minnesota,27129.0,1685,43.0
-1214639,2021-04-12,Renville,North Dakota,38075.0,317,14.0
-1217236,2021-04-13,Renville,Minnesota,27129.0,1689,43.0
-1217887,2021-04-13,Renville,North Dakota,38075.0,317,14.0
-1220484,2021-04-14,Renville,Minnesota,27129.0,1691,43.0
-1221135,2021-04-14,Renville,North Dakota,38075.0,317,14.0
-1223731,2021-04-15,Renville,Minnesota,27129.0,1697,43.0
-1224382,2021-04-15,Renville,North Dakota,38075.0,317,14.0
-1226979,2021-04-16,Renville,Minnesota,27129.0,1712,43.0
-1227630,2021-04-16,Renville,North Dakota,38075.0,317,14.0
-1230227,2021-04-17,Renville,Minnesota,27129.0,1720,43.0
-1230878,2021-04-17,Renville,North Dakota,38075.0,318,14.0
-1233475,2021-04-18,Renville,Minnesota,27129.0,1725,43.0
-1234126,2021-04-18,Renville,North Dakota,38075.0,318,14.0
-1236722,2021-04-19,Renville,Minnesota,27129.0,1725,43.0
-1237373,2021-04-19,Renville,North Dakota,38075.0,318,14.0
-1239969,2021-04-20,Renville,Minnesota,27129.0,1728,43.0
-1240620,2021-04-20,Renville,North Dakota,38075.0,318,14.0
-1243216,2021-04-21,Renville,Minnesota,27129.0,1729,43.0
-1243867,2021-04-21,Renville,North Dakota,38075.0,318,14.0
-1246463,2021-04-22,Renville,Minnesota,27129.0,1732,43.0
-1247114,2021-04-22,Renville,North Dakota,38075.0,318,14.0
-1249710,2021-04-23,Renville,Minnesota,27129.0,1736,43.0
-1250361,2021-04-23,Renville,North Dakota,38075.0,319,14.0
-1252957,2021-04-24,Renville,Minnesota,27129.0,1739,43.0
-1253608,2021-04-24,Renville,North Dakota,38075.0,319,14.0
-1256204,2021-04-25,Renville,Minnesota,27129.0,1747,43.0
-1256855,2021-04-25,Renville,North Dakota,38075.0,319,14.0
-1259451,2021-04-26,Renville,Minnesota,27129.0,1747,43.0
-1260102,2021-04-26,Renville,North Dakota,38075.0,319,14.0
-1262698,2021-04-27,Renville,Minnesota,27129.0,1749,43.0
-1263349,2021-04-27,Renville,North Dakota,38075.0,319,14.0
-1265945,2021-04-28,Renville,Minnesota,27129.0,1752,43.0
-1266596,2021-04-28,Renville,North Dakota,38075.0,320,14.0
-1269192,2021-04-29,Renville,Minnesota,27129.0,1759,43.0
-1269843,2021-04-29,Renville,North Dakota,38075.0,320,14.0
-1272439,2021-04-30,Renville,Minnesota,27129.0,1765,43.0
-1273090,2021-04-30,Renville,North Dakota,38075.0,320,14.0
-1275686,2021-05-01,Renville,Minnesota,27129.0,1769,43.0
-1276337,2021-05-01,Renville,North Dakota,38075.0,320,14.0
-1278933,2021-05-02,Renville,Minnesota,27129.0,1770,43.0
-1279584,2021-05-02,Renville,North Dakota,38075.0,320,14.0
-1282180,2021-05-03,Renville,Minnesota,27129.0,1775,43.0
-1282831,2021-05-03,Renville,North Dakota,38075.0,320,14.0
-1285426,2021-05-04,Renville,Minnesota,27129.0,1775,43.0
-1286077,2021-05-04,Renville,North Dakota,38075.0,320,14.0
-1288672,2021-05-05,Renville,Minnesota,27129.0,1780,43.0
-1289323,2021-05-05,Renville,North Dakota,38075.0,320,14.0
-1291918,2021-05-06,Renville,Minnesota,27129.0,1782,43.0
-1292569,2021-05-06,Renville,North Dakota,38075.0,320,14.0
-1295164,2021-05-07,Renville,Minnesota,27129.0,1784,43.0
-1295815,2021-05-07,Renville,North Dakota,38075.0,320,14.0
-1298410,2021-05-08,Renville,Minnesota,27129.0,1786,43.0
-1299061,2021-05-08,Renville,North Dakota,38075.0,320,14.0
-1301658,2021-05-09,Renville,Minnesota,27129.0,1786,43.0
-1302309,2021-05-09,Renville,North Dakota,38075.0,320,14.0
-1304904,2021-05-10,Renville,Minnesota,27129.0,1789,43.0
-1305555,2021-05-10,Renville,North Dakota,38075.0,320,14.0
-1308150,2021-05-11,Renville,Minnesota,27129.0,1789,43.0
-1308801,2021-05-11,Renville,North Dakota,38075.0,320,14.0
-1311397,2021-05-12,Renville,Minnesota,27129.0,1791,43.0
-1312048,2021-05-12,Renville,North Dakota,38075.0,320,14.0
-1314643,2021-05-13,Renville,Minnesota,27129.0,1797,43.0
-1315294,2021-05-13,Renville,North Dakota,38075.0,320,14.0
-1317891,2021-05-14,Renville,Minnesota,27129.0,1802,43.0
-1318542,2021-05-14,Renville,North Dakota,38075.0,320,14.0
-1321137,2021-05-15,Renville,Minnesota,27129.0,1803,43.0
-1321788,2021-05-15,Renville,North Dakota,38075.0,320,14.0
-1324383,2021-05-16,Renville,Minnesota,27129.0,1805,43.0
-1325034,2021-05-16,Renville,North Dakota,38075.0,320,14.0
-1327629,2021-05-17,Renville,Minnesota,27129.0,1806,43.0
-1328280,2021-05-17,Renville,North Dakota,38075.0,320,14.0
-1330876,2021-05-18,Renville,Minnesota,27129.0,1805,43.0
-1331527,2021-05-18,Renville,North Dakota,38075.0,320,14.0
-1334123,2021-05-19,Renville,Minnesota,27129.0,1805,43.0
-1334774,2021-05-19,Renville,North Dakota,38075.0,320,14.0
-1337370,2021-05-20,Renville,Minnesota,27129.0,1809,44.0
-1338021,2021-05-20,Renville,North Dakota,38075.0,321,14.0
-1340617,2021-05-21,Renville,Minnesota,27129.0,1811,44.0
-1341269,2021-05-21,Renville,North Dakota,38075.0,321,14.0
-1343866,2021-05-22,Renville,Minnesota,27129.0,1813,45.0
-1344517,2021-05-22,Renville,North Dakota,38075.0,321,14.0
-1347114,2021-05-23,Renville,Minnesota,27129.0,1814,45.0
-1347765,2021-05-23,Renville,North Dakota,38075.0,321,14.0
-1350360,2021-05-24,Renville,Minnesota,27129.0,1814,45.0
-1351011,2021-05-24,Renville,North Dakota,38075.0,321,14.0
-1353606,2021-05-25,Renville,Minnesota,27129.0,1814,45.0
-1354257,2021-05-25,Renville,North Dakota,38075.0,321,14.0
-1356852,2021-05-26,Renville,Minnesota,27129.0,1815,45.0
-1357503,2021-05-26,Renville,North Dakota,38075.0,321,14.0
-1360098,2021-05-27,Renville,Minnesota,27129.0,1816,45.0
-1360749,2021-05-27,Renville,North Dakota,38075.0,321,14.0
-1363345,2021-05-28,Renville,Minnesota,27129.0,1817,45.0
-1363995,2021-05-28,Renville,North Dakota,38075.0,321,14.0
-1366591,2021-05-29,Renville,Minnesota,27129.0,1819,45.0
-1367241,2021-05-29,Renville,North Dakota,38075.0,321,14.0
-1369837,2021-05-30,Renville,Minnesota,27129.0,1819,45.0
-1370487,2021-05-30,Renville,North Dakota,38075.0,321,14.0
-1373082,2021-05-31,Renville,Minnesota,27129.0,1819,45.0
-1373732,2021-05-31,Renville,North Dakota,38075.0,321,14.0
-1376328,2021-06-01,Renville,Minnesota,27129.0,1819,45.0
-1376978,2021-06-01,Renville,North Dakota,38075.0,321,14.0
-1379573,2021-06-02,Renville,Minnesota,27129.0,1819,45.0
-1380223,2021-06-02,Renville,North Dakota,38075.0,321,14.0
-1382819,2021-06-03,Renville,Minnesota,27129.0,1819,45.0
-1383469,2021-06-03,Renville,North Dakota,38075.0,321,14.0
-1386064,2021-06-04,Renville,Minnesota,27129.0,1820,45.0
-1386714,2021-06-04,Renville,North Dakota,38075.0,321,14.0
-1389309,2021-06-05,Renville,Minnesota,27129.0,1821,46.0
-1389959,2021-06-05,Renville,North Dakota,38075.0,321,14.0
-1392554,2021-06-06,Renville,Minnesota,27129.0,1822,46.0
-1393204,2021-06-06,Renville,North Dakota,38075.0,322,14.0
-1395800,2021-06-07,Renville,Minnesota,27129.0,1823,46.0
-1396451,2021-06-07,Renville,North Dakota,38075.0,322,14.0
-1399046,2021-06-08,Renville,Minnesota,27129.0,1823,46.0
-1399696,2021-06-08,Renville,North Dakota,38075.0,322,14.0
-1402291,2021-06-09,Renville,Minnesota,27129.0,1823,46.0
-1402941,2021-06-09,Renville,North Dakota,38075.0,322,14.0
-1405537,2021-06-10,Renville,Minnesota,27129.0,1823,46.0
-1406187,2021-06-10,Renville,North Dakota,38075.0,322,14.0
-1408782,2021-06-11,Renville,Minnesota,27129.0,1823,46.0
-1409432,2021-06-11,Renville,North Dakota,38075.0,322,14.0
-1412027,2021-06-12,Renville,Minnesota,27129.0,1824,46.0
-1412677,2021-06-12,Renville,North Dakota,38075.0,322,14.0
-1415273,2021-06-13,Renville,Minnesota,27129.0,1823,46.0
-1415923,2021-06-13,Renville,North Dakota,38075.0,322,14.0
-1418518,2021-06-14,Renville,Minnesota,27129.0,1824,46.0
-1419168,2021-06-14,Renville,North Dakota,38075.0,322,14.0
-1421763,2021-06-15,Renville,Minnesota,27129.0,1824,46.0
-1422414,2021-06-15,Renville,North Dakota,38075.0,322,14.0
-1425011,2021-06-16,Renville,Minnesota,27129.0,1824,46.0
-1425661,2021-06-16,Renville,North Dakota,38075.0,322,14.0
-1428256,2021-06-17,Renville,Minnesota,27129.0,1824,46.0
-1428906,2021-06-17,Renville,North Dakota,38075.0,322,14.0
-1431501,2021-06-18,Renville,Minnesota,27129.0,1824,46.0
-1432152,2021-06-18,Renville,North Dakota,38075.0,322,14.0
-1434748,2021-06-19,Renville,Minnesota,27129.0,1824,46.0
-1435399,2021-06-19,Renville,North Dakota,38075.0,322,14.0
-1437995,2021-06-20,Renville,Minnesota,27129.0,1824,46.0
-1438646,2021-06-20,Renville,North Dakota,38075.0,322,14.0
-1441241,2021-06-21,Renville,Minnesota,27129.0,1828,46.0
-1441891,2021-06-21,Renville,North Dakota,38075.0,322,14.0
-1444486,2021-06-22,Renville,Minnesota,27129.0,1828,46.0
-1445136,2021-06-22,Renville,North Dakota,38075.0,322,14.0
-1447731,2021-06-23,Renville,Minnesota,27129.0,1828,46.0
-1448381,2021-06-23,Renville,North Dakota,38075.0,322,14.0
-1450977,2021-06-24,Renville,Minnesota,27129.0,1829,46.0
-1451627,2021-06-24,Renville,North Dakota,38075.0,322,14.0
-1454222,2021-06-25,Renville,Minnesota,27129.0,1829,46.0
-1454872,2021-06-25,Renville,North Dakota,38075.0,322,14.0
-1457467,2021-06-26,Renville,Minnesota,27129.0,1830,46.0
-1458117,2021-06-26,Renville,North Dakota,38075.0,322,14.0
-1460712,2021-06-27,Renville,Minnesota,27129.0,1830,46.0
-1461362,2021-06-27,Renville,North Dakota,38075.0,322,14.0
-1463957,2021-06-28,Renville,Minnesota,27129.0,1830,46.0
-1464607,2021-06-28,Renville,North Dakota,38075.0,322,14.0
-1467202,2021-06-29,Renville,Minnesota,27129.0,1830,46.0
-1467852,2021-06-29,Renville,North Dakota,38075.0,322,14.0
-1470447,2021-06-30,Renville,Minnesota,27129.0,1829,46.0
-1471097,2021-06-30,Renville,North Dakota,38075.0,322,14.0
-1473693,2021-07-01,Renville,Minnesota,27129.0,1828,46.0
-1474343,2021-07-01,Renville,North Dakota,38075.0,322,14.0
-1476939,2021-07-02,Renville,Minnesota,27129.0,1827,46.0
-1477589,2021-07-02,Renville,North Dakota,38075.0,322,14.0
-1480186,2021-07-03,Renville,Minnesota,27129.0,1827,46.0
-1480836,2021-07-03,Renville,North Dakota,38075.0,322,14.0
-1483432,2021-07-04,Renville,Minnesota,27129.0,1827,46.0
-1484082,2021-07-04,Renville,North Dakota,38075.0,322,14.0
-1486678,2021-07-05,Renville,Minnesota,27129.0,1827,46.0
-1487328,2021-07-05,Renville,North Dakota,38075.0,322,14.0
-1489925,2021-07-06,Renville,Minnesota,27129.0,1827,46.0
-1490575,2021-07-06,Renville,North Dakota,38075.0,322,14.0
-1493172,2021-07-07,Renville,Minnesota,27129.0,1827,46.0
-1493822,2021-07-07,Renville,North Dakota,38075.0,323,14.0
-1496419,2021-07-08,Renville,Minnesota,27129.0,1827,46.0
-1497069,2021-07-08,Renville,North Dakota,38075.0,323,14.0
-1499665,2021-07-09,Renville,Minnesota,27129.0,1827,46.0
-1500315,2021-07-09,Renville,North Dakota,38075.0,323,14.0
-1502911,2021-07-10,Renville,Minnesota,27129.0,1827,46.0
-1503561,2021-07-10,Renville,North Dakota,38075.0,323,14.0
-1506157,2021-07-11,Renville,Minnesota,27129.0,1827,46.0
-1506807,2021-07-11,Renville,North Dakota,38075.0,323,14.0
-1509403,2021-07-12,Renville,Minnesota,27129.0,1827,46.0
-1510054,2021-07-12,Renville,North Dakota,38075.0,323,14.0
-1512650,2021-07-13,Renville,Minnesota,27129.0,1828,46.0
-1513300,2021-07-13,Renville,North Dakota,38075.0,323,14.0
-1515896,2021-07-14,Renville,Minnesota,27129.0,1827,46.0
-1516547,2021-07-14,Renville,North Dakota,38075.0,323,14.0
-1519143,2021-07-15,Renville,Minnesota,27129.0,1827,46.0
-1519795,2021-07-15,Renville,North Dakota,38075.0,323,14.0
-1522392,2021-07-16,Renville,Minnesota,27129.0,1827,46.0
-1523043,2021-07-16,Renville,North Dakota,38075.0,323,14.0
-1525639,2021-07-17,Renville,Minnesota,27129.0,1827,46.0
-1526290,2021-07-17,Renville,North Dakota,38075.0,323,14.0
-1528886,2021-07-18,Renville,Minnesota,27129.0,1827,46.0
-1529537,2021-07-18,Renville,North Dakota,38075.0,323,14.0
-1532133,2021-07-19,Renville,Minnesota,27129.0,1827,46.0
-1532784,2021-07-19,Renville,North Dakota,38075.0,323,14.0
-1535381,2021-07-20,Renville,Minnesota,27129.0,1829,46.0
-1536032,2021-07-20,Renville,North Dakota,38075.0,323,14.0
-1538628,2021-07-21,Renville,Minnesota,27129.0,1829,46.0
-1539279,2021-07-21,Renville,North Dakota,38075.0,323,14.0
-1541875,2021-07-22,Renville,Minnesota,27129.0,1830,46.0
-1542527,2021-07-22,Renville,North Dakota,38075.0,323,14.0
-1545123,2021-07-23,Renville,Minnesota,27129.0,1831,46.0
-1545774,2021-07-23,Renville,North Dakota,38075.0,323,14.0
-1548370,2021-07-24,Renville,Minnesota,27129.0,1831,46.0
-1549021,2021-07-24,Renville,North Dakota,38075.0,323,14.0
-1551617,2021-07-25,Renville,Minnesota,27129.0,1831,46.0
-1552268,2021-07-25,Renville,North Dakota,38075.0,323,14.0
-1554864,2021-07-26,Renville,Minnesota,27129.0,1834,46.0
-1555515,2021-07-26,Renville,North Dakota,38075.0,323,14.0
-1558111,2021-07-27,Renville,Minnesota,27129.0,1839,46.0
-1558762,2021-07-27,Renville,North Dakota,38075.0,324,14.0
-1561359,2021-07-28,Renville,Minnesota,27129.0,1840,46.0
-1562010,2021-07-28,Renville,North Dakota,38075.0,325,14.0
-1564607,2021-07-29,Renville,Minnesota,27129.0,1842,46.0
-1565258,2021-07-29,Renville,North Dakota,38075.0,325,14.0
-1567855,2021-07-30,Renville,Minnesota,27129.0,1842,46.0
-1568506,2021-07-30,Renville,North Dakota,38075.0,325,14.0
-1571103,2021-07-31,Renville,Minnesota,27129.0,1842,46.0
-1571754,2021-07-31,Renville,North Dakota,38075.0,325,14.0
-1574351,2021-08-01,Renville,Minnesota,27129.0,1842,46.0
-1575002,2021-08-01,Renville,North Dakota,38075.0,325,14.0
-1577599,2021-08-02,Renville,Minnesota,27129.0,1844,46.0
-1578250,2021-08-02,Renville,North Dakota,38075.0,325,14.0
-1580848,2021-08-03,Renville,Minnesota,27129.0,1847,46.0
-1581499,2021-08-03,Renville,North Dakota,38075.0,325,14.0
-1584097,2021-08-04,Renville,Minnesota,27129.0,1847,46.0
-1584749,2021-08-04,Renville,North Dakota,38075.0,325,14.0
-1587348,2021-08-05,Renville,Minnesota,27129.0,1849,46.0
-1587999,2021-08-05,Renville,North Dakota,38075.0,325,14.0
-1590597,2021-08-06,Renville,Minnesota,27129.0,1851,46.0
-1591248,2021-08-06,Renville,North Dakota,38075.0,325,14.0
-1593846,2021-08-07,Renville,Minnesota,27129.0,1851,46.0
-1594497,2021-08-07,Renville,North Dakota,38075.0,325,14.0
-1597095,2021-08-08,Renville,Minnesota,27129.0,1851,46.0
-1597746,2021-08-08,Renville,North Dakota,38075.0,325,14.0
-1600343,2021-08-09,Renville,Minnesota,27129.0,1851,46.0
-1600994,2021-08-09,Renville,North Dakota,38075.0,325,14.0
-1603592,2021-08-10,Renville,Minnesota,27129.0,1859,46.0
-1604243,2021-08-10,Renville,North Dakota,38075.0,325,14.0
-1606841,2021-08-11,Renville,Minnesota,27129.0,1863,46.0
-1607492,2021-08-11,Renville,North Dakota,38075.0,325,14.0
-1610089,2021-08-12,Renville,Minnesota,27129.0,1865,46.0
-1610740,2021-08-12,Renville,North Dakota,38075.0,327,14.0
-1613338,2021-08-13,Renville,Minnesota,27129.0,1867,46.0
-1613989,2021-08-13,Renville,North Dakota,38075.0,327,14.0
-1616586,2021-08-14,Renville,Minnesota,27129.0,1867,46.0
-1617237,2021-08-14,Renville,North Dakota,38075.0,328,14.0
-1619834,2021-08-15,Renville,Minnesota,27129.0,1867,46.0
-1620485,2021-08-15,Renville,North Dakota,38075.0,329,14.0
-1623081,2021-08-16,Renville,Minnesota,27129.0,1871,46.0
-1623732,2021-08-16,Renville,North Dakota,38075.0,329,14.0
-1626328,2021-08-17,Renville,Minnesota,27129.0,1874,46.0
-1626979,2021-08-17,Renville,North Dakota,38075.0,329,14.0
-1629575,2021-08-18,Renville,Minnesota,27129.0,1877,46.0
-1630226,2021-08-18,Renville,North Dakota,38075.0,332,14.0
-1632822,2021-08-19,Renville,Minnesota,27129.0,1881,46.0
-1633473,2021-08-19,Renville,North Dakota,38075.0,336,14.0
-1636072,2021-08-20,Renville,Minnesota,27129.0,1883,46.0
-1636723,2021-08-20,Renville,North Dakota,38075.0,335,14.0
-1639322,2021-08-21,Renville,Minnesota,27129.0,1883,46.0
-1639973,2021-08-21,Renville,North Dakota,38075.0,335,14.0
-1642572,2021-08-22,Renville,Minnesota,27129.0,1883,46.0
-1643223,2021-08-22,Renville,North Dakota,38075.0,335,14.0
-1645821,2021-08-23,Renville,Minnesota,27129.0,1886,46.0
-1646472,2021-08-23,Renville,North Dakota,38075.0,335,14.0
-1649070,2021-08-24,Renville,Minnesota,27129.0,1889,46.0
-1649721,2021-08-24,Renville,North Dakota,38075.0,335,14.0
-1652318,2021-08-25,Renville,Minnesota,27129.0,1893,46.0
-1652969,2021-08-25,Renville,North Dakota,38075.0,335,14.0
-1655565,2021-08-26,Renville,Minnesota,27129.0,1897,46.0
-1656216,2021-08-26,Renville,North Dakota,38075.0,335,14.0
-1658814,2021-08-27,Renville,Minnesota,27129.0,1900,46.0
-1659465,2021-08-27,Renville,North Dakota,38075.0,337,14.0
-1662062,2021-08-28,Renville,Minnesota,27129.0,1900,46.0
-1662713,2021-08-28,Renville,North Dakota,38075.0,339,14.0
-1665310,2021-08-29,Renville,Minnesota,27129.0,1900,46.0
-1665961,2021-08-29,Renville,North Dakota,38075.0,340,14.0
-1668557,2021-08-30,Renville,Minnesota,27129.0,1906,46.0
-1669208,2021-08-30,Renville,North Dakota,38075.0,341,14.0
-1671804,2021-08-31,Renville,Minnesota,27129.0,1920,46.0
-1672456,2021-08-31,Renville,North Dakota,38075.0,341,14.0
-1675052,2021-09-01,Renville,Minnesota,27129.0,1923,46.0
-1675703,2021-09-01,Renville,North Dakota,38075.0,341,14.0
-1678300,2021-09-02,Renville,Minnesota,27129.0,1925,46.0
-1678951,2021-09-02,Renville,North Dakota,38075.0,342,14.0
-1681548,2021-09-03,Renville,Minnesota,27129.0,1931,46.0
-1682200,2021-09-03,Renville,North Dakota,38075.0,344,14.0
-1684799,2021-09-04,Renville,Minnesota,27129.0,1931,46.0
-1685451,2021-09-04,Renville,North Dakota,38075.0,345,14.0
-1688049,2021-09-05,Renville,Minnesota,27129.0,1931,46.0
-1688701,2021-09-05,Renville,North Dakota,38075.0,346,14.0
-1691299,2021-09-06,Renville,Minnesota,27129.0,1931,46.0
-1691951,2021-09-06,Renville,North Dakota,38075.0,346,14.0
-1694548,2021-09-07,Renville,Minnesota,27129.0,1936,46.0
-1695199,2021-09-07,Renville,North Dakota,38075.0,346,14.0
-1697796,2021-09-08,Renville,Minnesota,27129.0,1957,46.0
-1698447,2021-09-08,Renville,North Dakota,38075.0,346,14.0
-1701045,2021-09-09,Renville,Minnesota,27129.0,1959,46.0
-1701696,2021-09-09,Renville,North Dakota,38075.0,347,14.0
-1704295,2021-09-10,Renville,Minnesota,27129.0,1959,46.0
-1704946,2021-09-10,Renville,North Dakota,38075.0,349,14.0
-1707542,2021-09-11,Renville,Minnesota,27129.0,1959,46.0
-1708193,2021-09-11,Renville,North Dakota,38075.0,350,14.0
-1710789,2021-09-12,Renville,Minnesota,27129.0,1959,46.0
-1711440,2021-09-12,Renville,North Dakota,38075.0,350,14.0
-1714035,2021-09-13,Renville,Minnesota,27129.0,1964,47.0
-1714686,2021-09-13,Renville,North Dakota,38075.0,350,14.0
-1717283,2021-09-14,Renville,Minnesota,27129.0,1978,47.0
-1717934,2021-09-14,Renville,North Dakota,38075.0,350,14.0
-1720531,2021-09-15,Renville,Minnesota,27129.0,1982,47.0
-1721182,2021-09-15,Renville,North Dakota,38075.0,350,14.0
-1723780,2021-09-16,Renville,Minnesota,27129.0,1987,47.0
-1724431,2021-09-16,Renville,North Dakota,38075.0,350,14.0
-1727029,2021-09-17,Renville,Minnesota,27129.0,1995,48.0
-1727680,2021-09-17,Renville,North Dakota,38075.0,351,14.0
-1730279,2021-09-18,Renville,Minnesota,27129.0,1995,48.0
-1730930,2021-09-18,Renville,North Dakota,38075.0,352,14.0
-1733529,2021-09-19,Renville,Minnesota,27129.0,1995,48.0
-1734180,2021-09-19,Renville,North Dakota,38075.0,352,14.0
-1736779,2021-09-20,Renville,Minnesota,27129.0,2002,48.0
-1737430,2021-09-20,Renville,North Dakota,38075.0,352,14.0
-1740028,2021-09-21,Renville,Minnesota,27129.0,2024,48.0
-1740679,2021-09-21,Renville,North Dakota,38075.0,353,14.0
-1743277,2021-09-22,Renville,Minnesota,27129.0,2025,48.0
-1743928,2021-09-22,Renville,North Dakota,38075.0,353,14.0
-1746526,2021-09-23,Renville,Minnesota,27129.0,2031,48.0
-1747177,2021-09-23,Renville,North Dakota,38075.0,353,14.0
-1749776,2021-09-24,Renville,Minnesota,27129.0,2042,48.0
-1750427,2021-09-24,Renville,North Dakota,38075.0,354,14.0
-1753024,2021-09-25,Renville,Minnesota,27129.0,2042,48.0
-1753675,2021-09-25,Renville,North Dakota,38075.0,354,14.0
-1756272,2021-09-26,Renville,Minnesota,27129.0,2042,48.0
-1756923,2021-09-26,Renville,North Dakota,38075.0,354,14.0
-1759520,2021-09-27,Renville,Minnesota,27129.0,2054,48.0
-1760171,2021-09-27,Renville,North Dakota,38075.0,354,14.0
-1762769,2021-09-28,Renville,Minnesota,27129.0,2083,48.0
-1763420,2021-09-28,Renville,North Dakota,38075.0,354,14.0
-1766018,2021-09-29,Renville,Minnesota,27129.0,2089,48.0
-1766669,2021-09-29,Renville,North Dakota,38075.0,355,14.0
-1769267,2021-09-30,Renville,Minnesota,27129.0,2096,48.0
-1769918,2021-09-30,Renville,North Dakota,38075.0,354,14.0
-1772516,2021-10-01,Renville,Minnesota,27129.0,2110,48.0
-1773168,2021-10-01,Renville,North Dakota,38075.0,355,14.0
-1775766,2021-10-02,Renville,Minnesota,27129.0,2110,48.0
-1776418,2021-10-02,Renville,North Dakota,38075.0,355,14.0
-1779016,2021-10-03,Renville,Minnesota,27129.0,2110,48.0
-1779668,2021-10-03,Renville,North Dakota,38075.0,355,14.0
-1782266,2021-10-04,Renville,Minnesota,27129.0,2119,48.0
-1782917,2021-10-04,Renville,North Dakota,38075.0,355,14.0
-1785515,2021-10-05,Renville,Minnesota,27129.0,2148,48.0
-1786166,2021-10-05,Renville,North Dakota,38075.0,355,14.0
-1788763,2021-10-06,Renville,Minnesota,27129.0,2160,48.0
-1789414,2021-10-06,Renville,North Dakota,38075.0,356,14.0
-1792012,2021-10-07,Renville,Minnesota,27129.0,2169,48.0
-1792663,2021-10-07,Renville,North Dakota,38075.0,356,14.0
-1795261,2021-10-08,Renville,Minnesota,27129.0,2182,48.0
-1795912,2021-10-08,Renville,North Dakota,38075.0,356,14.0
-1798510,2021-10-09,Renville,Minnesota,27129.0,2182,48.0
-1799161,2021-10-09,Renville,North Dakota,38075.0,357,14.0
-1801759,2021-10-10,Renville,Minnesota,27129.0,2182,48.0
-1802410,2021-10-10,Renville,North Dakota,38075.0,357,14.0
-1805008,2021-10-11,Renville,Minnesota,27129.0,2191,49.0
-1805659,2021-10-11,Renville,North Dakota,38075.0,357,14.0
-1808259,2021-10-12,Renville,Minnesota,27129.0,2217,49.0
-1808910,2021-10-12,Renville,North Dakota,38075.0,358,14.0
-1811508,2021-10-13,Renville,Minnesota,27129.0,2218,49.0
-1812159,2021-10-13,Renville,North Dakota,38075.0,362,14.0
-1814756,2021-10-14,Renville,Minnesota,27129.0,2228,49.0
-1815407,2021-10-14,Renville,North Dakota,38075.0,362,14.0
-1818005,2021-10-15,Renville,Minnesota,27129.0,2242,49.0
-1818656,2021-10-15,Renville,North Dakota,38075.0,364,14.0
-1821254,2021-10-16,Renville,Minnesota,27129.0,2242,49.0
-1821905,2021-10-16,Renville,North Dakota,38075.0,367,14.0
-1824503,2021-10-17,Renville,Minnesota,27129.0,2242,49.0
-1825154,2021-10-17,Renville,North Dakota,38075.0,368,14.0
-1827752,2021-10-18,Renville,Minnesota,27129.0,2251,49.0
-1828403,2021-10-18,Renville,North Dakota,38075.0,373,14.0
-1831001,2021-10-19,Renville,Minnesota,27129.0,2264,49.0
-1831652,2021-10-19,Renville,North Dakota,38075.0,373,14.0
-1834250,2021-10-20,Renville,Minnesota,27129.0,2266,49.0
-1834901,2021-10-20,Renville,North Dakota,38075.0,376,14.0
-1837499,2021-10-21,Renville,Minnesota,27129.0,2273,49.0
-1838150,2021-10-21,Renville,North Dakota,38075.0,377,14.0
-1840748,2021-10-22,Renville,Minnesota,27129.0,2285,49.0
-1841399,2021-10-22,Renville,North Dakota,38075.0,378,14.0
-1843998,2021-10-23,Renville,Minnesota,27129.0,2285,49.0
-1844649,2021-10-23,Renville,North Dakota,38075.0,379,14.0
-1847248,2021-10-24,Renville,Minnesota,27129.0,2285,49.0
-1847899,2021-10-24,Renville,North Dakota,38075.0,380,14.0
-1850498,2021-10-25,Renville,Minnesota,27129.0,2288,49.0
-1851149,2021-10-25,Renville,North Dakota,38075.0,381,14.0
-1853747,2021-10-26,Renville,Minnesota,27129.0,2314,49.0
-1854398,2021-10-26,Renville,North Dakota,38075.0,383,14.0
-1856996,2021-10-27,Renville,Minnesota,27129.0,2323,50.0
-1857647,2021-10-27,Renville,North Dakota,38075.0,386,14.0
-1860245,2021-10-28,Renville,Minnesota,27129.0,2338,50.0
-1860896,2021-10-28,Renville,North Dakota,38075.0,387,14.0
-1863494,2021-10-29,Renville,Minnesota,27129.0,2361,51.0
-1864145,2021-10-29,Renville,North Dakota,38075.0,391,14.0
-1866743,2021-10-30,Renville,Minnesota,27129.0,2361,51.0
-1867394,2021-10-30,Renville,North Dakota,38075.0,392,14.0
-1869992,2021-10-31,Renville,Minnesota,27129.0,2361,51.0
-1870643,2021-10-31,Renville,North Dakota,38075.0,394,14.0
-1873241,2021-11-01,Renville,Minnesota,27129.0,2406,51.0
-1873892,2021-11-01,Renville,North Dakota,38075.0,396,14.0
-1876490,2021-11-02,Renville,Minnesota,27129.0,2440,51.0
-1877141,2021-11-02,Renville,North Dakota,38075.0,397,14.0
-1879739,2021-11-03,Renville,Minnesota,27129.0,2446,51.0
-1880390,2021-11-03,Renville,North Dakota,38075.0,403,14.0
-1882988,2021-11-04,Renville,Minnesota,27129.0,2454,51.0
-1883639,2021-11-04,Renville,North Dakota,38075.0,405,14.0
-1886237,2021-11-05,Renville,Minnesota,27129.0,2470,51.0
-1886888,2021-11-05,Renville,North Dakota,38075.0,405,14.0
-1889487,2021-11-06,Renville,Minnesota,27129.0,2470,51.0
-1890138,2021-11-06,Renville,North Dakota,38075.0,406,14.0
-1892737,2021-11-07,Renville,Minnesota,27129.0,2470,51.0
-1893388,2021-11-07,Renville,North Dakota,38075.0,408,14.0
-1895987,2021-11-08,Renville,Minnesota,27129.0,2479,51.0
-1896638,2021-11-08,Renville,North Dakota,38075.0,410,14.0
-1899237,2021-11-09,Renville,Minnesota,27129.0,2493,51.0
-1899888,2021-11-09,Renville,North Dakota,38075.0,413,14.0
-1902487,2021-11-10,Renville,Minnesota,27129.0,2514,51.0
-1903138,2021-11-10,Renville,North Dakota,38075.0,416,14.0
-1905736,2021-11-11,Renville,Minnesota,27129.0,2521,51.0
-1906387,2021-11-11,Renville,North Dakota,38075.0,416,14.0
-1908985,2021-11-12,Renville,Minnesota,27129.0,2525,51.0
-1909636,2021-11-12,Renville,North Dakota,38075.0,418,14.0
-1912235,2021-11-13,Renville,Minnesota,27129.0,2525,51.0
-1912886,2021-11-13,Renville,North Dakota,38075.0,419,14.0
-1915485,2021-11-14,Renville,Minnesota,27129.0,2525,51.0
-1916136,2021-11-14,Renville,North Dakota,38075.0,420,14.0
-1918735,2021-11-15,Renville,Minnesota,27129.0,2538,51.0
-1919386,2021-11-15,Renville,North Dakota,38075.0,420,14.0
-1921985,2021-11-16,Renville,Minnesota,27129.0,2567,51.0
-1922636,2021-11-16,Renville,North Dakota,38075.0,420,14.0
-1925234,2021-11-17,Renville,Minnesota,27129.0,2576,51.0
-1925885,2021-11-17,Renville,North Dakota,38075.0,422,14.0
-1928484,2021-11-18,Renville,Minnesota,27129.0,2584,51.0
-1929135,2021-11-18,Renville,North Dakota,38075.0,423,14.0
-1931735,2021-11-19,Renville,Minnesota,27129.0,2595,51.0
-1932386,2021-11-19,Renville,North Dakota,38075.0,423,14.0
-1934985,2021-11-20,Renville,Minnesota,27129.0,2595,51.0
-1935636,2021-11-20,Renville,North Dakota,38075.0,430,14.0
-1938235,2021-11-21,Renville,Minnesota,27129.0,2595,51.0
-1938886,2021-11-21,Renville,North Dakota,38075.0,431,14.0
-1941485,2021-11-22,Renville,Minnesota,27129.0,2598,51.0
-1942136,2021-11-22,Renville,North Dakota,38075.0,433,14.0
-1944736,2021-11-23,Renville,Minnesota,27129.0,2628,51.0
-1945387,2021-11-23,Renville,North Dakota,38075.0,433,14.0
-1947987,2021-11-24,Renville,Minnesota,27129.0,2631,51.0
-1948638,2021-11-24,Renville,North Dakota,38075.0,435,14.0
-1951238,2021-11-25,Renville,Minnesota,27129.0,2631,51.0
-1951889,2021-11-25,Renville,North Dakota,38075.0,439,14.0
-1954489,2021-11-26,Renville,Minnesota,27129.0,2641,51.0
-1955140,2021-11-26,Renville,North Dakota,38075.0,439,14.0
-1957740,2021-11-27,Renville,Minnesota,27129.0,2641,51.0
-1958391,2021-11-27,Renville,North Dakota,38075.0,440,14.0
-1960991,2021-11-28,Renville,Minnesota,27129.0,2641,51.0
-1961642,2021-11-28,Renville,North Dakota,38075.0,440,14.0
-1964242,2021-11-29,Renville,Minnesota,27129.0,2655,51.0
-1964894,2021-11-29,Renville,North Dakota,38075.0,440,14.0
-1967494,2021-11-30,Renville,Minnesota,27129.0,2680,51.0
-1968145,2021-11-30,Renville,North Dakota,38075.0,440,14.0
-1970744,2021-12-01,Renville,Minnesota,27129.0,2684,51.0
-1971395,2021-12-01,Renville,North Dakota,38075.0,440,14.0
-1973993,2021-12-02,Renville,Minnesota,27129.0,2698,51.0
-1974644,2021-12-02,Renville,North Dakota,38075.0,439,14.0
-1977243,2021-12-03,Renville,Minnesota,27129.0,2716,51.0
-1977894,2021-12-03,Renville,North Dakota,38075.0,439,14.0
-1980493,2021-12-04,Renville,Minnesota,27129.0,2716,51.0
-1981144,2021-12-04,Renville,North Dakota,38075.0,441,14.0
-1983743,2021-12-05,Renville,Minnesota,27129.0,2716,51.0
-1984394,2021-12-05,Renville,North Dakota,38075.0,441,14.0
-1986993,2021-12-06,Renville,Minnesota,27129.0,2725,51.0
-1987644,2021-12-06,Renville,North Dakota,38075.0,441,14.0
-1990243,2021-12-07,Renville,Minnesota,27129.0,2743,51.0
-1990895,2021-12-07,Renville,North Dakota,38075.0,441,14.0
-1993494,2021-12-08,Renville,Minnesota,27129.0,2746,51.0
-1994146,2021-12-08,Renville,North Dakota,38075.0,441,14.0
-1996745,2021-12-09,Renville,Minnesota,27129.0,2756,51.0
-1997397,2021-12-09,Renville,North Dakota,38075.0,442,14.0
-1999996,2021-12-10,Renville,Minnesota,27129.0,2764,51.0
-2000647,2021-12-10,Renville,North Dakota,38075.0,444,14.0
-2003246,2021-12-11,Renville,Minnesota,27129.0,2764,51.0
-2003898,2021-12-11,Renville,North Dakota,38075.0,445,14.0
-2006497,2021-12-12,Renville,Minnesota,27129.0,2764,51.0
-2007149,2021-12-12,Renville,North Dakota,38075.0,445,14.0
-2009748,2021-12-13,Renville,Minnesota,27129.0,2778,51.0
-2010400,2021-12-13,Renville,North Dakota,38075.0,445,14.0
-2012999,2021-12-14,Renville,Minnesota,27129.0,2791,51.0
-2013651,2021-12-14,Renville,North Dakota,38075.0,445,14.0
-2016250,2021-12-15,Renville,Minnesota,27129.0,2792,51.0
-2016901,2021-12-15,Renville,North Dakota,38075.0,445,14.0
-2019500,2021-12-16,Renville,Minnesota,27129.0,2799,51.0
-2020152,2021-12-16,Renville,North Dakota,38075.0,445,15.0
-2022751,2021-12-17,Renville,Minnesota,27129.0,2805,51.0
-2023403,2021-12-17,Renville,North Dakota,38075.0,446,15.0
-2026002,2021-12-18,Renville,Minnesota,27129.0,2805,51.0
-2026654,2021-12-18,Renville,North Dakota,38075.0,446,15.0
-2029253,2021-12-19,Renville,Minnesota,27129.0,2805,51.0
-2029905,2021-12-19,Renville,North Dakota,38075.0,448,15.0
-2032504,2021-12-20,Renville,Minnesota,27129.0,2812,51.0
-2033155,2021-12-20,Renville,North Dakota,38075.0,448,15.0
-2035754,2021-12-21,Renville,Minnesota,27129.0,2834,52.0
-2036405,2021-12-21,Renville,North Dakota,38075.0,448,15.0
-2039004,2021-12-22,Renville,Minnesota,27129.0,2835,52.0
-2039655,2021-12-22,Renville,North Dakota,38075.0,449,15.0
-2042253,2021-12-23,Renville,Minnesota,27129.0,2842,52.0
-2042904,2021-12-23,Renville,North Dakota,38075.0,450,15.0
-2045503,2021-12-24,Renville,Minnesota,27129.0,2842,52.0
-2046154,2021-12-24,Renville,North Dakota,38075.0,450,15.0
-2048753,2021-12-25,Renville,Minnesota,27129.0,2842,52.0
-2049404,2021-12-25,Renville,North Dakota,38075.0,450,15.0
-2052003,2021-12-26,Renville,Minnesota,27129.0,2842,52.0
-2052654,2021-12-26,Renville,North Dakota,38075.0,451,15.0
-2055253,2021-12-27,Renville,Minnesota,27129.0,2848,52.0
-2055904,2021-12-27,Renville,North Dakota,38075.0,451,15.0
-2058502,2021-12-28,Renville,Minnesota,27129.0,2865,52.0
-2059153,2021-12-28,Renville,North Dakota,38075.0,451,15.0
-2061751,2021-12-29,Renville,Minnesota,27129.0,2869,52.0
-2062402,2021-12-29,Renville,North Dakota,38075.0,453,15.0
-2065001,2021-12-30,Renville,Minnesota,27129.0,2877,52.0
-2065652,2021-12-30,Renville,North Dakota,38075.0,454,15.0
-2068252,2021-12-31,Renville,Minnesota,27129.0,2877,52.0
-2068903,2021-12-31,Renville,North Dakota,38075.0,454,15.0
-2071503,2022-01-01,Renville,Minnesota,27129.0,2877,52.0
-2072154,2022-01-01,Renville,North Dakota,38075.0,454,15.0
-2074754,2022-01-02,Renville,Minnesota,27129.0,2877,52.0
-2075405,2022-01-02,Renville,North Dakota,38075.0,454,15.0
-2078005,2022-01-03,Renville,Minnesota,27129.0,2879,52.0
-2078656,2022-01-03,Renville,North Dakota,38075.0,454,15.0
-2081257,2022-01-04,Renville,Minnesota,27129.0,2887,52.0
-2081908,2022-01-04,Renville,North Dakota,38075.0,454,15.0
-2084509,2022-01-05,Renville,Minnesota,27129.0,2890,52.0
-2085160,2022-01-05,Renville,North Dakota,38075.0,456,15.0
-2087761,2022-01-06,Renville,Minnesota,27129.0,2905,52.0
-2088412,2022-01-06,Renville,North Dakota,38075.0,458,15.0
-2091012,2022-01-07,Renville,Minnesota,27129.0,2928,52.0
-2091663,2022-01-07,Renville,North Dakota,38075.0,465,15.0
-2094264,2022-01-08,Renville,Minnesota,27129.0,2928,52.0
-2094915,2022-01-08,Renville,North Dakota,38075.0,465,15.0
-2097516,2022-01-09,Renville,Minnesota,27129.0,2928,52.0
-2098167,2022-01-09,Renville,North Dakota,38075.0,469,15.0
-2100767,2022-01-10,Renville,Minnesota,27129.0,2941,52.0
-2101418,2022-01-10,Renville,North Dakota,38075.0,468,15.0
-2104018,2022-01-11,Renville,Minnesota,27129.0,2981,52.0
-2104669,2022-01-11,Renville,North Dakota,38075.0,469,15.0
-2107269,2022-01-12,Renville,Minnesota,27129.0,2984,52.0
-2107920,2022-01-12,Renville,North Dakota,38075.0,473,15.0
-2110520,2022-01-13,Renville,Minnesota,27129.0,3000,52.0
-2111172,2022-01-13,Renville,North Dakota,38075.0,477,15.0
-2113772,2022-01-14,Renville,Minnesota,27129.0,3014,52.0
-2114424,2022-01-14,Renville,North Dakota,38075.0,482,15.0
-2117023,2022-01-15,Renville,Minnesota,27129.0,3014,52.0
-2117675,2022-01-15,Renville,North Dakota,38075.0,485,15.0
-2120275,2022-01-16,Renville,Minnesota,27129.0,3014,52.0
-2120927,2022-01-16,Renville,North Dakota,38075.0,488,15.0
-2123527,2022-01-17,Renville,Minnesota,27129.0,3014,52.0
-2124179,2022-01-17,Renville,North Dakota,38075.0,489,15.0
-2126779,2022-01-18,Renville,Minnesota,27129.0,3028,52.0
-2127431,2022-01-18,Renville,North Dakota,38075.0,491,15.0
-2130033,2022-01-19,Renville,Minnesota,27129.0,3080,52.0
-2130685,2022-01-19,Renville,North Dakota,38075.0,493,15.0
-2133286,2022-01-20,Renville,Minnesota,27129.0,3092,52.0
-2133937,2022-01-20,Renville,North Dakota,38075.0,497,15.0
-2136538,2022-01-21,Renville,Minnesota,27129.0,3108,52.0
-2137190,2022-01-21,Renville,North Dakota,38075.0,502,15.0
-2139794,2022-01-22,Renville,Minnesota,27129.0,3108,52.0
-2140446,2022-01-22,Renville,North Dakota,38075.0,507,15.0
-2143049,2022-01-23,Renville,Minnesota,27129.0,3108,52.0
-2143701,2022-01-23,Renville,North Dakota,38075.0,508,15.0
-2146304,2022-01-24,Renville,Minnesota,27129.0,3133,52.0
-2146955,2022-01-24,Renville,North Dakota,38075.0,508,15.0
-2149556,2022-01-25,Renville,Minnesota,27129.0,3175,52.0
-2150207,2022-01-25,Renville,North Dakota,38075.0,510,15.0
-2152808,2022-01-26,Renville,Minnesota,27129.0,3202,53.0
-2153459,2022-01-26,Renville,North Dakota,38075.0,511,15.0
-2156061,2022-01-27,Renville,Minnesota,27129.0,3260,53.0
-2156712,2022-01-27,Renville,North Dakota,38075.0,513,15.0
-2159315,2022-01-28,Renville,Minnesota,27129.0,3274,53.0
-2159967,2022-01-28,Renville,North Dakota,38075.0,515,15.0
-2162570,2022-01-29,Renville,Minnesota,27129.0,3274,53.0
-2163222,2022-01-29,Renville,North Dakota,38075.0,516,15.0
-2165825,2022-01-30,Renville,Minnesota,27129.0,3274,53.0
-2166477,2022-01-30,Renville,North Dakota,38075.0,519,15.0
-2169080,2022-01-31,Renville,Minnesota,27129.0,3321,53.0
-2169732,2022-01-31,Renville,North Dakota,38075.0,520,15.0
-2172333,2022-02-01,Renville,Minnesota,27129.0,3366,53.0
-2172985,2022-02-01,Renville,North Dakota,38075.0,522,15.0
-2175586,2022-02-02,Renville,Minnesota,27129.0,3391,53.0
-2176238,2022-02-02,Renville,North Dakota,38075.0,525,15.0
-2178838,2022-02-03,Renville,Minnesota,27129.0,3403,53.0
-2179489,2022-02-03,Renville,North Dakota,38075.0,533,15.0
-2182090,2022-02-04,Renville,Minnesota,27129.0,3421,54.0
-2182741,2022-02-04,Renville,North Dakota,38075.0,539,15.0
-2185342,2022-02-05,Renville,Minnesota,27129.0,3421,54.0
-2185993,2022-02-05,Renville,North Dakota,38075.0,538,15.0
-2188595,2022-02-06,Renville,Minnesota,27129.0,3421,54.0
-2189246,2022-02-06,Renville,North Dakota,38075.0,538,15.0
-2191848,2022-02-07,Renville,Minnesota,27129.0,3438,54.0
-2192500,2022-02-07,Renville,North Dakota,38075.0,540,15.0
-2195102,2022-02-08,Renville,Minnesota,27129.0,3461,54.0
-2195754,2022-02-08,Renville,North Dakota,38075.0,540,15.0
-2198356,2022-02-09,Renville,Minnesota,27129.0,3480,54.0
-2199008,2022-02-09,Renville,North Dakota,38075.0,541,15.0
-2201610,2022-02-10,Renville,Minnesota,27129.0,3480,54.0
-2202262,2022-02-10,Renville,North Dakota,38075.0,542,15.0
-2204863,2022-02-11,Renville,Minnesota,27129.0,3488,54.0
-2205515,2022-02-11,Renville,North Dakota,38075.0,544,15.0
-2208116,2022-02-12,Renville,Minnesota,27129.0,3488,54.0
-2208768,2022-02-12,Renville,North Dakota,38075.0,544,15.0
-2211369,2022-02-13,Renville,Minnesota,27129.0,3488,54.0
-2212021,2022-02-13,Renville,North Dakota,38075.0,544,15.0
-2214621,2022-02-14,Renville,Minnesota,27129.0,3511,54.0
-2215272,2022-02-14,Renville,North Dakota,38075.0,544,15.0
-2217872,2022-02-15,Renville,Minnesota,27129.0,3533,54.0
-2218523,2022-02-15,Renville,North Dakota,38075.0,545,15.0
-2221123,2022-02-16,Renville,Minnesota,27129.0,3538,54.0
-2221774,2022-02-16,Renville,North Dakota,38075.0,544,15.0
-2224374,2022-02-17,Renville,Minnesota,27129.0,3546,54.0
-2225025,2022-02-17,Renville,North Dakota,38075.0,545,15.0
-2227625,2022-02-18,Renville,Minnesota,27129.0,3574,55.0
-2228276,2022-02-18,Renville,North Dakota,38075.0,545,15.0
-2230876,2022-02-19,Renville,Minnesota,27129.0,3574,55.0
-2231527,2022-02-19,Renville,North Dakota,38075.0,546,15.0
-2234127,2022-02-20,Renville,Minnesota,27129.0,3574,55.0
-2234778,2022-02-20,Renville,North Dakota,38075.0,546,15.0
-2237378,2022-02-21,Renville,Minnesota,27129.0,3574,55.0
-2238029,2022-02-21,Renville,North Dakota,38075.0,546,15.0
-2240629,2022-02-22,Renville,Minnesota,27129.0,3570,55.0
-2241280,2022-02-22,Renville,North Dakota,38075.0,546,15.0
-2243880,2022-02-23,Renville,Minnesota,27129.0,3593,55.0
-2244531,2022-02-23,Renville,North Dakota,38075.0,546,15.0
-2247131,2022-02-24,Renville,Minnesota,27129.0,3598,55.0
-2247782,2022-02-24,Renville,North Dakota,38075.0,546,15.0
-2250382,2022-02-25,Renville,Minnesota,27129.0,3603,55.0
-2251033,2022-02-25,Renville,North Dakota,38075.0,546,15.0
-2253633,2022-02-26,Renville,Minnesota,27129.0,3603,55.0
-2254284,2022-02-26,Renville,North Dakota,38075.0,546,15.0
-2256884,2022-02-27,Renville,Minnesota,27129.0,3603,55.0
-2257535,2022-02-27,Renville,North Dakota,38075.0,546,15.0
-2260135,2022-02-28,Renville,Minnesota,27129.0,3606,56.0
-2260786,2022-02-28,Renville,North Dakota,38075.0,546,15.0
-2263386,2022-03-01,Renville,Minnesota,27129.0,3616,56.0
-2264037,2022-03-01,Renville,North Dakota,38075.0,546,15.0
-2266637,2022-03-02,Renville,Minnesota,27129.0,3626,56.0
-2267289,2022-03-02,Renville,North Dakota,38075.0,546,15.0
-2269890,2022-03-03,Renville,Minnesota,27129.0,3630,56.0
-2270541,2022-03-03,Renville,North Dakota,38075.0,546,15.0
-2273142,2022-03-04,Renville,Minnesota,27129.0,3631,56.0
-2273794,2022-03-04,Renville,North Dakota,38075.0,546,15.0
-2276395,2022-03-05,Renville,Minnesota,27129.0,3631,56.0
-2277047,2022-03-05,Renville,North Dakota,38075.0,547,15.0
-2279648,2022-03-06,Renville,Minnesota,27129.0,3631,56.0
-2280300,2022-03-06,Renville,North Dakota,38075.0,547,15.0
-2282901,2022-03-07,Renville,Minnesota,27129.0,3633,56.0
-2283552,2022-03-07,Renville,North Dakota,38075.0,547,15.0
-2286153,2022-03-08,Renville,Minnesota,27129.0,3639,56.0
-2286804,2022-03-08,Renville,North Dakota,38075.0,548,15.0
-2289404,2022-03-09,Renville,Minnesota,27129.0,3640,56.0
-2290056,2022-03-09,Renville,North Dakota,38075.0,548,15.0
-2292656,2022-03-10,Renville,Minnesota,27129.0,3641,56.0
-2293308,2022-03-10,Renville,North Dakota,38075.0,548,15.0
-2295908,2022-03-11,Renville,Minnesota,27129.0,3713,56.0
-2296560,2022-03-11,Renville,North Dakota,38075.0,548,15.0
-2299160,2022-03-12,Renville,Minnesota,27129.0,3713,56.0
-2299812,2022-03-12,Renville,North Dakota,38075.0,548,15.0
-2302412,2022-03-13,Renville,Minnesota,27129.0,3713,56.0
-2303064,2022-03-13,Renville,North Dakota,38075.0,549,15.0
-2305664,2022-03-14,Renville,Minnesota,27129.0,3713,56.0
-2306315,2022-03-14,Renville,North Dakota,38075.0,549,15.0
-2308915,2022-03-15,Renville,Minnesota,27129.0,3718,56.0
-2309568,2022-03-15,Renville,North Dakota,38075.0,549,15.0
-2312168,2022-03-16,Renville,Minnesota,27129.0,3721,56.0
-2312821,2022-03-16,Renville,North Dakota,38075.0,549,15.0
-2315421,2022-03-17,Renville,Minnesota,27129.0,3722,56.0
-2316074,2022-03-17,Renville,North Dakota,38075.0,549,15.0
-2318674,2022-03-18,Renville,Minnesota,27129.0,3722,56.0
-2319328,2022-03-18,Renville,North Dakota,38075.0,548,15.0
-2321928,2022-03-19,Renville,Minnesota,27129.0,3722,56.0
-2322582,2022-03-19,Renville,North Dakota,38075.0,548,15.0
-2325182,2022-03-20,Renville,Minnesota,27129.0,3722,56.0
-2325835,2022-03-20,Renville,North Dakota,38075.0,548,15.0
-2328435,2022-03-21,Renville,Minnesota,27129.0,3723,56.0
-2329087,2022-03-21,Renville,North Dakota,38075.0,548,15.0
-2331687,2022-03-22,Renville,Minnesota,27129.0,3726,56.0
-2332340,2022-03-22,Renville,North Dakota,38075.0,548,15.0
-2334941,2022-03-23,Renville,Minnesota,27129.0,3726,56.0
-2335594,2022-03-23,Renville,North Dakota,38075.0,548,15.0
-2338195,2022-03-24,Renville,Minnesota,27129.0,3727,56.0
-2338848,2022-03-24,Renville,North Dakota,38075.0,548,15.0
-2341448,2022-03-25,Renville,Minnesota,27129.0,3727,56.0
-2342101,2022-03-25,Renville,North Dakota,38075.0,548,15.0
-2344701,2022-03-26,Renville,Minnesota,27129.0,3727,56.0
-2345354,2022-03-26,Renville,North Dakota,38075.0,548,15.0
-2347954,2022-03-27,Renville,Minnesota,27129.0,3727,56.0
-2348607,2022-03-27,Renville,North Dakota,38075.0,548,15.0
-2351207,2022-03-28,Renville,Minnesota,27129.0,3727,56.0
-2351859,2022-03-28,Renville,North Dakota,38075.0,548,15.0
-2354459,2022-03-29,Renville,Minnesota,27129.0,3728,56.0
-2355112,2022-03-29,Renville,North Dakota,38075.0,548,15.0
-2357712,2022-03-30,Renville,Minnesota,27129.0,3728,56.0
-2358366,2022-03-30,Renville,North Dakota,38075.0,548,15.0
-2360966,2022-03-31,Renville,Minnesota,27129.0,3728,56.0
-2361620,2022-03-31,Renville,North Dakota,38075.0,548,15.0
-2364220,2022-04-01,Renville,Minnesota,27129.0,3728,56.0
-2364874,2022-04-01,Renville,North Dakota,38075.0,549,15.0
-2367473,2022-04-02,Renville,Minnesota,27129.0,3728,56.0
-2368127,2022-04-02,Renville,North Dakota,38075.0,549,15.0
-2370726,2022-04-03,Renville,Minnesota,27129.0,3728,56.0
-2371380,2022-04-03,Renville,North Dakota,38075.0,549,15.0
-2373979,2022-04-04,Renville,Minnesota,27129.0,3730,56.0
-2374632,2022-04-04,Renville,North Dakota,38075.0,549,15.0
-2377231,2022-04-05,Renville,Minnesota,27129.0,3731,56.0
-2377885,2022-04-05,Renville,North Dakota,38075.0,549,15.0
-2380486,2022-04-06,Renville,Minnesota,27129.0,3731,56.0
-2381140,2022-04-06,Renville,North Dakota,38075.0,549,15.0
-2383741,2022-04-07,Renville,Minnesota,27129.0,3731,56.0
-2384395,2022-04-07,Renville,North Dakota,38075.0,549,15.0
-2386995,2022-04-08,Renville,Minnesota,27129.0,3732,56.0
-2387649,2022-04-08,Renville,North Dakota,38075.0,549,15.0
-2390251,2022-04-09,Renville,Minnesota,27129.0,3732,56.0
-2390905,2022-04-09,Renville,North Dakota,38075.0,549,15.0
+date,county,state,fips,cases,deaths
+2020-03-14,Renville,Minnesota,27129.0,1,0.0
+2020-03-15,Renville,Minnesota,27129.0,1,0.0
+2020-03-16,Renville,Minnesota,27129.0,1,0.0
+2020-03-17,Renville,Minnesota,27129.0,1,0.0
+2020-03-18,Renville,Minnesota,27129.0,1,0.0
+2020-03-19,Renville,Minnesota,27129.0,1,0.0
+2020-03-20,Renville,Minnesota,27129.0,1,0.0
+2020-03-21,Renville,Minnesota,27129.0,1,0.0
+2020-03-22,Renville,Minnesota,27129.0,1,0.0
+2020-03-23,Renville,Minnesota,27129.0,1,0.0
+2020-03-24,Renville,Minnesota,27129.0,1,0.0
+2020-03-25,Renville,Minnesota,27129.0,1,0.0
+2020-03-26,Renville,Minnesota,27129.0,1,0.0
+2020-03-27,Renville,Minnesota,27129.0,1,0.0
+2020-03-28,Renville,Minnesota,27129.0,1,0.0
+2020-03-29,Renville,Minnesota,27129.0,1,0.0
+2020-03-30,Renville,Minnesota,27129.0,1,0.0
+2020-03-31,Renville,Minnesota,27129.0,1,0.0
+2020-04-01,Renville,Minnesota,27129.0,1,0.0
+2020-04-02,Renville,Minnesota,27129.0,2,0.0
+2020-04-03,Renville,Minnesota,27129.0,2,0.0
+2020-04-04,Renville,Minnesota,27129.0,2,0.0
+2020-04-05,Renville,Minnesota,27129.0,2,0.0
+2020-04-06,Renville,Minnesota,27129.0,2,0.0
+2020-04-07,Renville,Minnesota,27129.0,2,0.0
+2020-04-08,Renville,Minnesota,27129.0,2,0.0
+2020-04-09,Renville,Minnesota,27129.0,2,0.0
+2020-04-10,Renville,Minnesota,27129.0,2,0.0
+2020-04-11,Renville,Minnesota,27129.0,3,0.0
+2020-04-12,Renville,Minnesota,27129.0,3,0.0
+2020-04-13,Renville,Minnesota,27129.0,3,0.0
+2020-04-14,Renville,Minnesota,27129.0,3,0.0
+2020-04-15,Renville,Minnesota,27129.0,3,0.0
+2020-04-16,Renville,Minnesota,27129.0,3,0.0
+2020-04-17,Renville,Minnesota,27129.0,3,0.0
+2020-04-18,Renville,Minnesota,27129.0,3,0.0
+2020-04-19,Renville,Minnesota,27129.0,3,0.0
+2020-04-20,Renville,Minnesota,27129.0,3,0.0
+2020-04-21,Renville,Minnesota,27129.0,3,0.0
+2020-04-22,Renville,Minnesota,27129.0,3,0.0
+2020-04-23,Renville,Minnesota,27129.0,3,0.0
+2020-04-24,Renville,Minnesota,27129.0,3,0.0
+2020-04-25,Renville,Minnesota,27129.0,3,0.0
+2020-04-26,Renville,Minnesota,27129.0,3,0.0
+2020-04-27,Renville,Minnesota,27129.0,3,0.0
+2020-04-28,Renville,Minnesota,27129.0,3,0.0
+2020-04-29,Renville,Minnesota,27129.0,4,0.0
+2020-04-30,Renville,Minnesota,27129.0,4,0.0
+2020-05-01,Renville,Minnesota,27129.0,4,0.0
+2020-05-01,Renville,North Dakota,38075.0,1,0.0
+2020-05-02,Renville,Minnesota,27129.0,5,0.0
+2020-05-02,Renville,North Dakota,38075.0,1,0.0
+2020-05-03,Renville,Minnesota,27129.0,5,0.0
+2020-05-03,Renville,North Dakota,38075.0,1,0.0
+2020-05-04,Renville,Minnesota,27129.0,5,0.0
+2020-05-04,Renville,North Dakota,38075.0,1,0.0
+2020-05-05,Renville,Minnesota,27129.0,5,0.0
+2020-05-05,Renville,North Dakota,38075.0,1,0.0
+2020-05-06,Renville,Minnesota,27129.0,6,0.0
+2020-05-06,Renville,North Dakota,38075.0,1,0.0
+2020-05-07,Renville,Minnesota,27129.0,6,0.0
+2020-05-07,Renville,North Dakota,38075.0,1,0.0
+2020-05-08,Renville,Minnesota,27129.0,6,0.0
+2020-05-08,Renville,North Dakota,38075.0,1,0.0
+2020-05-09,Renville,Minnesota,27129.0,6,0.0
+2020-05-09,Renville,North Dakota,38075.0,1,0.0
+2020-05-10,Renville,Minnesota,27129.0,6,0.0
+2020-05-10,Renville,North Dakota,38075.0,1,0.0
+2020-05-11,Renville,Minnesota,27129.0,6,0.0
+2020-05-11,Renville,North Dakota,38075.0,1,0.0
+2020-05-12,Renville,Minnesota,27129.0,6,0.0
+2020-05-12,Renville,North Dakota,38075.0,1,0.0
+2020-05-13,Renville,Minnesota,27129.0,6,0.0
+2020-05-13,Renville,North Dakota,38075.0,1,0.0
+2020-05-14,Renville,Minnesota,27129.0,5,0.0
+2020-05-14,Renville,North Dakota,38075.0,1,0.0
+2020-05-15,Renville,Minnesota,27129.0,5,0.0
+2020-05-15,Renville,North Dakota,38075.0,1,0.0
+2020-05-16,Renville,Minnesota,27129.0,5,0.0
+2020-05-16,Renville,North Dakota,38075.0,1,0.0
+2020-05-17,Renville,Minnesota,27129.0,5,0.0
+2020-05-17,Renville,North Dakota,38075.0,1,0.0
+2020-05-18,Renville,Minnesota,27129.0,5,0.0
+2020-05-18,Renville,North Dakota,38075.0,1,0.0
+2020-05-19,Renville,Minnesota,27129.0,5,0.0
+2020-05-19,Renville,North Dakota,38075.0,1,0.0
+2020-05-20,Renville,Minnesota,27129.0,5,0.0
+2020-05-20,Renville,North Dakota,38075.0,1,0.0
+2020-05-21,Renville,Minnesota,27129.0,5,0.0
+2020-05-21,Renville,North Dakota,38075.0,1,0.0
+2020-05-22,Renville,Minnesota,27129.0,5,0.0
+2020-05-22,Renville,North Dakota,38075.0,1,0.0
+2020-05-23,Renville,Minnesota,27129.0,5,0.0
+2020-05-23,Renville,North Dakota,38075.0,1,0.0
+2020-05-24,Renville,Minnesota,27129.0,5,0.0
+2020-05-24,Renville,North Dakota,38075.0,1,0.0
+2020-05-25,Renville,Minnesota,27129.0,5,0.0
+2020-05-25,Renville,North Dakota,38075.0,1,0.0
+2020-05-26,Renville,Minnesota,27129.0,5,0.0
+2020-05-26,Renville,North Dakota,38075.0,1,0.0
+2020-05-27,Renville,Minnesota,27129.0,5,0.0
+2020-05-27,Renville,North Dakota,38075.0,1,0.0
+2020-05-28,Renville,Minnesota,27129.0,5,0.0
+2020-05-28,Renville,North Dakota,38075.0,1,0.0
+2020-05-29,Renville,Minnesota,27129.0,5,0.0
+2020-05-29,Renville,North Dakota,38075.0,1,0.0
+2020-05-30,Renville,Minnesota,27129.0,5,0.0
+2020-05-30,Renville,North Dakota,38075.0,3,0.0
+2020-05-31,Renville,Minnesota,27129.0,5,0.0
+2020-05-31,Renville,North Dakota,38075.0,3,0.0
+2020-06-01,Renville,Minnesota,27129.0,5,0.0
+2020-06-01,Renville,North Dakota,38075.0,3,0.0
+2020-06-02,Renville,Minnesota,27129.0,5,0.0
+2020-06-02,Renville,North Dakota,38075.0,3,0.0
+2020-06-03,Renville,Minnesota,27129.0,5,0.0
+2020-06-03,Renville,North Dakota,38075.0,3,0.0
+2020-06-04,Renville,Minnesota,27129.0,7,0.0
+2020-06-04,Renville,North Dakota,38075.0,3,0.0
+2020-06-05,Renville,Minnesota,27129.0,7,0.0
+2020-06-05,Renville,North Dakota,38075.0,3,0.0
+2020-06-06,Renville,Minnesota,27129.0,7,0.0
+2020-06-06,Renville,North Dakota,38075.0,3,0.0
+2020-06-07,Renville,Minnesota,27129.0,8,0.0
+2020-06-07,Renville,North Dakota,38075.0,3,0.0
+2020-06-08,Renville,Minnesota,27129.0,8,0.0
+2020-06-08,Renville,North Dakota,38075.0,3,0.0
+2020-06-09,Renville,Minnesota,27129.0,8,0.0
+2020-06-09,Renville,North Dakota,38075.0,3,0.0
+2020-06-10,Renville,Minnesota,27129.0,8,0.0
+2020-06-10,Renville,North Dakota,38075.0,3,0.0
+2020-06-11,Renville,Minnesota,27129.0,8,0.0
+2020-06-11,Renville,North Dakota,38075.0,3,0.0
+2020-06-12,Renville,Minnesota,27129.0,9,0.0
+2020-06-12,Renville,North Dakota,38075.0,3,0.0
+2020-06-13,Renville,Minnesota,27129.0,11,0.0
+2020-06-13,Renville,North Dakota,38075.0,3,0.0
+2020-06-14,Renville,Minnesota,27129.0,12,0.0
+2020-06-14,Renville,North Dakota,38075.0,3,0.0
+2020-06-15,Renville,Minnesota,27129.0,12,0.0
+2020-06-15,Renville,North Dakota,38075.0,3,0.0
+2020-06-16,Renville,Minnesota,27129.0,12,0.0
+2020-06-16,Renville,North Dakota,38075.0,3,0.0
+2020-06-17,Renville,Minnesota,27129.0,12,0.0
+2020-06-17,Renville,North Dakota,38075.0,3,0.0
+2020-06-18,Renville,Minnesota,27129.0,12,0.0
+2020-06-18,Renville,North Dakota,38075.0,3,0.0
+2020-06-19,Renville,Minnesota,27129.0,12,0.0
+2020-06-19,Renville,North Dakota,38075.0,3,0.0
+2020-06-20,Renville,Minnesota,27129.0,12,1.0
+2020-06-20,Renville,North Dakota,38075.0,3,0.0
+2020-06-21,Renville,Minnesota,27129.0,12,1.0
+2020-06-21,Renville,North Dakota,38075.0,3,0.0
+2020-06-22,Renville,Minnesota,27129.0,16,1.0
+2020-06-22,Renville,North Dakota,38075.0,3,0.0
+2020-06-23,Renville,Minnesota,27129.0,18,1.0
+2020-06-23,Renville,North Dakota,38075.0,4,0.0
+2020-06-24,Renville,Minnesota,27129.0,18,1.0
+2020-06-24,Renville,North Dakota,38075.0,4,0.0
+2020-06-25,Renville,Minnesota,27129.0,19,1.0
+2020-06-25,Renville,North Dakota,38075.0,4,0.0
+2020-06-26,Renville,Minnesota,27129.0,19,1.0
+2020-06-26,Renville,North Dakota,38075.0,5,0.0
+2020-06-27,Renville,Minnesota,27129.0,19,1.0
+2020-06-27,Renville,North Dakota,38075.0,5,0.0
+2020-06-28,Renville,Minnesota,27129.0,24,1.0
+2020-06-28,Renville,North Dakota,38075.0,5,0.0
+2020-06-29,Renville,Minnesota,27129.0,24,2.0
+2020-06-29,Renville,North Dakota,38075.0,5,0.0
+2020-06-30,Renville,Minnesota,27129.0,24,2.0
+2020-06-30,Renville,North Dakota,38075.0,5,0.0
+2020-07-01,Renville,Minnesota,27129.0,28,2.0
+2020-07-01,Renville,North Dakota,38075.0,5,0.0
+2020-07-02,Renville,Minnesota,27129.0,28,2.0
+2020-07-02,Renville,North Dakota,38075.0,5,0.0
+2020-07-03,Renville,Minnesota,27129.0,32,2.0
+2020-07-03,Renville,North Dakota,38075.0,5,0.0
+2020-07-04,Renville,Minnesota,27129.0,32,2.0
+2020-07-04,Renville,North Dakota,38075.0,5,0.0
+2020-07-05,Renville,Minnesota,27129.0,35,2.0
+2020-07-05,Renville,North Dakota,38075.0,5,0.0
+2020-07-06,Renville,Minnesota,27129.0,35,2.0
+2020-07-06,Renville,North Dakota,38075.0,5,0.0
+2020-07-07,Renville,Minnesota,27129.0,36,2.0
+2020-07-07,Renville,North Dakota,38075.0,5,0.0
+2020-07-08,Renville,Minnesota,27129.0,36,2.0
+2020-07-08,Renville,North Dakota,38075.0,5,0.0
+2020-07-09,Renville,Minnesota,27129.0,37,2.0
+2020-07-09,Renville,North Dakota,38075.0,5,0.0
+2020-07-10,Renville,Minnesota,27129.0,37,2.0
+2020-07-10,Renville,North Dakota,38075.0,5,0.0
+2020-07-11,Renville,Minnesota,27129.0,37,2.0
+2020-07-11,Renville,North Dakota,38075.0,5,0.0
+2020-07-12,Renville,Minnesota,27129.0,37,2.0
+2020-07-12,Renville,North Dakota,38075.0,7,0.0
+2020-07-13,Renville,Minnesota,27129.0,37,3.0
+2020-07-13,Renville,North Dakota,38075.0,7,0.0
+2020-07-14,Renville,Minnesota,27129.0,37,3.0
+2020-07-14,Renville,North Dakota,38075.0,7,0.0
+2020-07-15,Renville,Minnesota,27129.0,37,3.0
+2020-07-15,Renville,North Dakota,38075.0,7,0.0
+2020-07-16,Renville,Minnesota,27129.0,37,3.0
+2020-07-16,Renville,North Dakota,38075.0,7,0.0
+2020-07-17,Renville,Minnesota,27129.0,42,3.0
+2020-07-17,Renville,North Dakota,38075.0,7,0.0
+2020-07-18,Renville,Minnesota,27129.0,44,4.0
+2020-07-18,Renville,North Dakota,38075.0,8,0.0
+2020-07-19,Renville,Minnesota,27129.0,44,4.0
+2020-07-19,Renville,North Dakota,38075.0,8,0.0
+2020-07-20,Renville,Minnesota,27129.0,44,4.0
+2020-07-20,Renville,North Dakota,38075.0,8,0.0
+2020-07-21,Renville,Minnesota,27129.0,44,4.0
+2020-07-21,Renville,North Dakota,38075.0,8,0.0
+2020-07-22,Renville,Minnesota,27129.0,44,4.0
+2020-07-22,Renville,North Dakota,38075.0,8,0.0
+2020-07-23,Renville,Minnesota,27129.0,44,4.0
+2020-07-23,Renville,North Dakota,38075.0,8,0.0
+2020-07-24,Renville,Minnesota,27129.0,45,4.0
+2020-07-24,Renville,North Dakota,38075.0,9,0.0
+2020-07-25,Renville,Minnesota,27129.0,46,4.0
+2020-07-25,Renville,North Dakota,38075.0,9,0.0
+2020-07-26,Renville,Minnesota,27129.0,53,4.0
+2020-07-26,Renville,North Dakota,38075.0,9,0.0
+2020-07-27,Renville,Minnesota,27129.0,53,4.0
+2020-07-27,Renville,North Dakota,38075.0,9,0.0
+2020-07-28,Renville,Minnesota,27129.0,53,4.0
+2020-07-28,Renville,North Dakota,38075.0,9,0.0
+2020-07-29,Renville,Minnesota,27129.0,53,4.0
+2020-07-29,Renville,North Dakota,38075.0,9,0.0
+2020-07-30,Renville,Minnesota,27129.0,54,5.0
+2020-07-30,Renville,North Dakota,38075.0,9,0.0
+2020-07-31,Renville,Minnesota,27129.0,56,5.0
+2020-07-31,Renville,North Dakota,38075.0,9,0.0
+2020-08-01,Renville,Minnesota,27129.0,57,5.0
+2020-08-01,Renville,North Dakota,38075.0,9,0.0
+2020-08-02,Renville,Minnesota,27129.0,58,5.0
+2020-08-02,Renville,North Dakota,38075.0,9,0.0
+2020-08-03,Renville,Minnesota,27129.0,59,5.0
+2020-08-03,Renville,North Dakota,38075.0,9,0.0
+2020-08-04,Renville,Minnesota,27129.0,60,5.0
+2020-08-04,Renville,North Dakota,38075.0,9,0.0
+2020-08-05,Renville,Minnesota,27129.0,60,5.0
+2020-08-05,Renville,North Dakota,38075.0,8,0.0
+2020-08-06,Renville,Minnesota,27129.0,62,5.0
+2020-08-06,Renville,North Dakota,38075.0,8,0.0
+2020-08-07,Renville,Minnesota,27129.0,62,5.0
+2020-08-07,Renville,North Dakota,38075.0,9,0.0
+2020-08-08,Renville,Minnesota,27129.0,63,5.0
+2020-08-08,Renville,North Dakota,38075.0,9,0.0
+2020-08-09,Renville,Minnesota,27129.0,64,5.0
+2020-08-09,Renville,North Dakota,38075.0,9,0.0
+2020-08-10,Renville,Minnesota,27129.0,65,5.0
+2020-08-10,Renville,North Dakota,38075.0,9,0.0
+2020-08-11,Renville,Minnesota,27129.0,66,5.0
+2020-08-11,Renville,North Dakota,38075.0,9,0.0
+2020-08-12,Renville,Minnesota,27129.0,67,5.0
+2020-08-12,Renville,North Dakota,38075.0,9,0.0
+2020-08-13,Renville,Minnesota,27129.0,67,5.0
+2020-08-13,Renville,North Dakota,38075.0,9,0.0
+2020-08-14,Renville,Minnesota,27129.0,67,5.0
+2020-08-14,Renville,North Dakota,38075.0,10,0.0
+2020-08-15,Renville,Minnesota,27129.0,68,5.0
+2020-08-15,Renville,North Dakota,38075.0,10,0.0
+2020-08-16,Renville,Minnesota,27129.0,69,5.0
+2020-08-16,Renville,North Dakota,38075.0,10,0.0
+2020-08-17,Renville,Minnesota,27129.0,69,5.0
+2020-08-17,Renville,North Dakota,38075.0,10,0.0
+2020-08-18,Renville,Minnesota,27129.0,69,5.0
+2020-08-18,Renville,North Dakota,38075.0,10,0.0
+2020-08-19,Renville,Minnesota,27129.0,69,5.0
+2020-08-19,Renville,North Dakota,38075.0,10,0.0
+2020-08-20,Renville,Minnesota,27129.0,69,5.0
+2020-08-20,Renville,North Dakota,38075.0,10,0.0
+2020-08-21,Renville,Minnesota,27129.0,70,5.0
+2020-08-21,Renville,North Dakota,38075.0,10,0.0
+2020-08-22,Renville,Minnesota,27129.0,71,5.0
+2020-08-22,Renville,North Dakota,38075.0,10,0.0
+2020-08-23,Renville,Minnesota,27129.0,72,6.0
+2020-08-23,Renville,North Dakota,38075.0,10,0.0
+2020-08-24,Renville,Minnesota,27129.0,72,6.0
+2020-08-24,Renville,North Dakota,38075.0,10,0.0
+2020-08-25,Renville,Minnesota,27129.0,72,6.0
+2020-08-25,Renville,North Dakota,38075.0,10,0.0
+2020-08-26,Renville,Minnesota,27129.0,72,6.0
+2020-08-26,Renville,North Dakota,38075.0,11,0.0
+2020-08-27,Renville,Minnesota,27129.0,77,6.0
+2020-08-27,Renville,North Dakota,38075.0,11,0.0
+2020-08-28,Renville,Minnesota,27129.0,78,6.0
+2020-08-28,Renville,North Dakota,38075.0,11,0.0
+2020-08-29,Renville,Minnesota,27129.0,81,6.0
+2020-08-29,Renville,North Dakota,38075.0,11,0.0
+2020-08-30,Renville,Minnesota,27129.0,84,6.0
+2020-08-30,Renville,North Dakota,38075.0,11,0.0
+2020-08-31,Renville,Minnesota,27129.0,84,6.0
+2020-08-31,Renville,North Dakota,38075.0,11,0.0
+2020-09-01,Renville,Minnesota,27129.0,84,6.0
+2020-09-01,Renville,North Dakota,38075.0,11,0.0
+2020-09-02,Renville,Minnesota,27129.0,84,6.0
+2020-09-02,Renville,North Dakota,38075.0,11,0.0
+2020-09-03,Renville,Minnesota,27129.0,87,6.0
+2020-09-03,Renville,North Dakota,38075.0,11,0.0
+2020-09-04,Renville,Minnesota,27129.0,91,6.0
+2020-09-04,Renville,North Dakota,38075.0,11,0.0
+2020-09-05,Renville,Minnesota,27129.0,94,6.0
+2020-09-05,Renville,North Dakota,38075.0,11,0.0
+2020-09-06,Renville,Minnesota,27129.0,98,6.0
+2020-09-06,Renville,North Dakota,38075.0,11,0.0
+2020-09-07,Renville,Minnesota,27129.0,98,6.0
+2020-09-07,Renville,North Dakota,38075.0,11,0.0
+2020-09-08,Renville,Minnesota,27129.0,99,6.0
+2020-09-08,Renville,North Dakota,38075.0,11,0.0
+2020-09-09,Renville,Minnesota,27129.0,99,6.0
+2020-09-09,Renville,North Dakota,38075.0,12,0.0
+2020-09-10,Renville,Minnesota,27129.0,99,6.0
+2020-09-10,Renville,North Dakota,38075.0,14,0.0
+2020-09-11,Renville,Minnesota,27129.0,103,6.0
+2020-09-11,Renville,North Dakota,38075.0,15,0.0
+2020-09-12,Renville,Minnesota,27129.0,106,6.0
+2020-09-12,Renville,North Dakota,38075.0,16,0.0
+2020-09-13,Renville,Minnesota,27129.0,107,6.0
+2020-09-13,Renville,North Dakota,38075.0,19,0.0
+2020-09-14,Renville,Minnesota,27129.0,107,6.0
+2020-09-14,Renville,North Dakota,38075.0,19,0.0
+2020-09-15,Renville,Minnesota,27129.0,107,6.0
+2020-09-15,Renville,North Dakota,38075.0,21,0.0
+2020-09-16,Renville,Minnesota,27129.0,109,6.0
+2020-09-16,Renville,North Dakota,38075.0,23,0.0
+2020-09-17,Renville,Minnesota,27129.0,117,6.0
+2020-09-17,Renville,North Dakota,38075.0,27,0.0
+2020-09-18,Renville,Minnesota,27129.0,120,6.0
+2020-09-18,Renville,North Dakota,38075.0,32,0.0
+2020-09-19,Renville,Minnesota,27129.0,125,6.0
+2020-09-19,Renville,North Dakota,38075.0,34,0.0
+2020-09-20,Renville,Minnesota,27129.0,128,6.0
+2020-09-20,Renville,North Dakota,38075.0,39,0.0
+2020-09-21,Renville,Minnesota,27129.0,136,7.0
+2020-09-21,Renville,North Dakota,38075.0,39,0.0
+2020-09-22,Renville,Minnesota,27129.0,136,7.0
+2020-09-22,Renville,North Dakota,38075.0,38,0.0
+2020-09-23,Renville,Minnesota,27129.0,136,7.0
+2020-09-23,Renville,North Dakota,38075.0,46,0.0
+2020-09-24,Renville,Minnesota,27129.0,142,7.0
+2020-09-24,Renville,North Dakota,38075.0,51,0.0
+2020-09-25,Renville,Minnesota,27129.0,147,8.0
+2020-09-25,Renville,North Dakota,38075.0,57,0.0
+2020-09-26,Renville,Minnesota,27129.0,151,8.0
+2020-09-26,Renville,North Dakota,38075.0,60,1.0
+2020-09-27,Renville,Minnesota,27129.0,156,8.0
+2020-09-27,Renville,North Dakota,38075.0,66,1.0
+2020-09-28,Renville,Minnesota,27129.0,157,8.0
+2020-09-28,Renville,North Dakota,38075.0,67,1.0
+2020-09-29,Renville,Minnesota,27129.0,161,8.0
+2020-09-29,Renville,North Dakota,38075.0,68,1.0
+2020-09-30,Renville,Minnesota,27129.0,163,8.0
+2020-09-30,Renville,North Dakota,38075.0,69,1.0
+2020-10-01,Renville,Minnesota,27129.0,167,8.0
+2020-10-01,Renville,North Dakota,38075.0,70,1.0
+2020-10-02,Renville,Minnesota,27129.0,170,8.0
+2020-10-02,Renville,North Dakota,38075.0,72,1.0
+2020-10-03,Renville,Minnesota,27129.0,170,8.0
+2020-10-03,Renville,North Dakota,38075.0,72,1.0
+2020-10-04,Renville,Minnesota,27129.0,175,8.0
+2020-10-04,Renville,North Dakota,38075.0,72,1.0
+2020-10-05,Renville,Minnesota,27129.0,176,8.0
+2020-10-05,Renville,North Dakota,38075.0,74,1.0
+2020-10-06,Renville,Minnesota,27129.0,176,8.0
+2020-10-06,Renville,North Dakota,38075.0,76,1.0
+2020-10-07,Renville,Minnesota,27129.0,184,9.0
+2020-10-07,Renville,North Dakota,38075.0,79,1.0
+2020-10-08,Renville,Minnesota,27129.0,191,9.0
+2020-10-08,Renville,North Dakota,38075.0,85,1.0
+2020-10-09,Renville,Minnesota,27129.0,195,9.0
+2020-10-09,Renville,North Dakota,38075.0,89,2.0
+2020-10-10,Renville,Minnesota,27129.0,203,9.0
+2020-10-10,Renville,North Dakota,38075.0,89,2.0
+2020-10-11,Renville,Minnesota,27129.0,206,10.0
+2020-10-11,Renville,North Dakota,38075.0,91,2.0
+2020-10-12,Renville,Minnesota,27129.0,208,10.0
+2020-10-12,Renville,North Dakota,38075.0,95,2.0
+2020-10-13,Renville,Minnesota,27129.0,210,10.0
+2020-10-13,Renville,North Dakota,38075.0,93,2.0
+2020-10-14,Renville,Minnesota,27129.0,215,10.0
+2020-10-14,Renville,North Dakota,38075.0,93,2.0
+2020-10-15,Renville,Minnesota,27129.0,216,10.0
+2020-10-15,Renville,North Dakota,38075.0,94,2.0
+2020-10-16,Renville,Minnesota,27129.0,216,11.0
+2020-10-16,Renville,North Dakota,38075.0,94,2.0
+2020-10-17,Renville,Minnesota,27129.0,224,11.0
+2020-10-17,Renville,North Dakota,38075.0,95,2.0
+2020-10-18,Renville,Minnesota,27129.0,225,11.0
+2020-10-18,Renville,North Dakota,38075.0,95,2.0
+2020-10-19,Renville,Minnesota,27129.0,229,11.0
+2020-10-19,Renville,North Dakota,38075.0,96,2.0
+2020-10-20,Renville,Minnesota,27129.0,230,11.0
+2020-10-20,Renville,North Dakota,38075.0,97,2.0
+2020-10-21,Renville,Minnesota,27129.0,233,11.0
+2020-10-21,Renville,North Dakota,38075.0,98,2.0
+2020-10-22,Renville,Minnesota,27129.0,237,11.0
+2020-10-22,Renville,North Dakota,38075.0,100,2.0
+2020-10-23,Renville,Minnesota,27129.0,243,11.0
+2020-10-23,Renville,North Dakota,38075.0,100,2.0
+2020-10-24,Renville,Minnesota,27129.0,250,11.0
+2020-10-24,Renville,North Dakota,38075.0,101,2.0
+2020-10-25,Renville,Minnesota,27129.0,252,11.0
+2020-10-25,Renville,North Dakota,38075.0,102,2.0
+2020-10-26,Renville,Minnesota,27129.0,256,11.0
+2020-10-26,Renville,North Dakota,38075.0,104,2.0
+2020-10-27,Renville,Minnesota,27129.0,258,12.0
+2020-10-27,Renville,North Dakota,38075.0,108,2.0
+2020-10-28,Renville,Minnesota,27129.0,263,13.0
+2020-10-28,Renville,North Dakota,38075.0,108,2.0
+2020-10-29,Renville,Minnesota,27129.0,272,13.0
+2020-10-29,Renville,North Dakota,38075.0,112,2.0
+2020-10-30,Renville,Minnesota,27129.0,286,13.0
+2020-10-30,Renville,North Dakota,38075.0,116,2.0
+2020-10-31,Renville,Minnesota,27129.0,300,13.0
+2020-10-31,Renville,North Dakota,38075.0,117,2.0
+2020-11-01,Renville,Minnesota,27129.0,304,13.0
+2020-11-01,Renville,North Dakota,38075.0,119,2.0
+2020-11-02,Renville,Minnesota,27129.0,310,13.0
+2020-11-02,Renville,North Dakota,38075.0,122,2.0
+2020-11-03,Renville,Minnesota,27129.0,319,13.0
+2020-11-03,Renville,North Dakota,38075.0,122,2.0
+2020-11-04,Renville,Minnesota,27129.0,323,13.0
+2020-11-04,Renville,North Dakota,38075.0,123,2.0
+2020-11-05,Renville,Minnesota,27129.0,328,13.0
+2020-11-05,Renville,North Dakota,38075.0,123,2.0
+2020-11-06,Renville,Minnesota,27129.0,346,13.0
+2020-11-06,Renville,North Dakota,38075.0,130,2.0
+2020-11-07,Renville,Minnesota,27129.0,363,14.0
+2020-11-07,Renville,North Dakota,38075.0,137,2.0
+2020-11-08,Renville,Minnesota,27129.0,374,14.0
+2020-11-08,Renville,North Dakota,38075.0,141,2.0
+2020-11-09,Renville,Minnesota,27129.0,383,14.0
+2020-11-09,Renville,North Dakota,38075.0,142,2.0
+2020-11-10,Renville,Minnesota,27129.0,392,14.0
+2020-11-10,Renville,North Dakota,38075.0,143,2.0
+2020-11-11,Renville,Minnesota,27129.0,403,14.0
+2020-11-11,Renville,North Dakota,38075.0,144,2.0
+2020-11-12,Renville,Minnesota,27129.0,433,14.0
+2020-11-12,Renville,North Dakota,38075.0,148,2.0
+2020-11-13,Renville,Minnesota,27129.0,447,14.0
+2020-11-13,Renville,North Dakota,38075.0,151,2.0
+2020-11-14,Renville,Minnesota,27129.0,490,14.0
+2020-11-14,Renville,North Dakota,38075.0,157,2.0
+2020-11-15,Renville,Minnesota,27129.0,501,14.0
+2020-11-15,Renville,North Dakota,38075.0,163,2.0
+2020-11-16,Renville,Minnesota,27129.0,515,14.0
+2020-11-16,Renville,North Dakota,38075.0,165,2.0
+2020-11-17,Renville,Minnesota,27129.0,531,15.0
+2020-11-17,Renville,North Dakota,38075.0,168,2.0
+2020-11-18,Renville,Minnesota,27129.0,552,16.0
+2020-11-18,Renville,North Dakota,38075.0,168,2.0
+2020-11-19,Renville,Minnesota,27129.0,580,17.0
+2020-11-19,Renville,North Dakota,38075.0,170,2.0
+2020-11-20,Renville,Minnesota,27129.0,620,17.0
+2020-11-20,Renville,North Dakota,38075.0,185,2.0
+2020-11-21,Renville,Minnesota,27129.0,652,18.0
+2020-11-21,Renville,North Dakota,38075.0,188,2.0
+2020-11-22,Renville,Minnesota,27129.0,688,18.0
+2020-11-22,Renville,North Dakota,38075.0,204,2.0
+2020-11-23,Renville,Minnesota,27129.0,708,18.0
+2020-11-23,Renville,North Dakota,38075.0,210,2.0
+2020-11-24,Renville,Minnesota,27129.0,731,18.0
+2020-11-24,Renville,North Dakota,38075.0,211,2.0
+2020-11-25,Renville,Minnesota,27129.0,751,19.0
+2020-11-25,Renville,North Dakota,38075.0,212,2.0
+2020-11-26,Renville,Minnesota,27129.0,751,19.0
+2020-11-26,Renville,North Dakota,38075.0,227,2.0
+2020-11-27,Renville,Minnesota,27129.0,773,22.0
+2020-11-27,Renville,North Dakota,38075.0,229,2.0
+2020-11-28,Renville,Minnesota,27129.0,831,24.0
+2020-11-28,Renville,North Dakota,38075.0,237,2.0
+2020-11-29,Renville,Minnesota,27129.0,865,27.0
+2020-11-29,Renville,North Dakota,38075.0,247,2.0
+2020-11-30,Renville,Minnesota,27129.0,895,29.0
+2020-11-30,Renville,North Dakota,38075.0,250,2.0
+2020-12-01,Renville,Minnesota,27129.0,913,29.0
+2020-12-01,Renville,North Dakota,38075.0,254,5.0
+2020-12-02,Renville,Minnesota,27129.0,927,29.0
+2020-12-02,Renville,North Dakota,38075.0,257,5.0
+2020-12-03,Renville,Minnesota,27129.0,955,30.0
+2020-12-03,Renville,North Dakota,38075.0,260,5.0
+2020-12-04,Renville,Minnesota,27129.0,986,30.0
+2020-12-04,Renville,North Dakota,38075.0,260,8.0
+2020-12-05,Renville,Minnesota,27129.0,1033,31.0
+2020-12-05,Renville,North Dakota,38075.0,261,8.0
+2020-12-06,Renville,Minnesota,27129.0,1071,32.0
+2020-12-06,Renville,North Dakota,38075.0,261,8.0
+2020-12-07,Renville,Minnesota,27129.0,1092,32.0
+2020-12-07,Renville,North Dakota,38075.0,261,8.0
+2020-12-08,Renville,Minnesota,27129.0,1106,32.0
+2020-12-08,Renville,North Dakota,38075.0,261,8.0
+2020-12-09,Renville,Minnesota,27129.0,1120,32.0
+2020-12-09,Renville,North Dakota,38075.0,265,9.0
+2020-12-10,Renville,Minnesota,27129.0,1137,32.0
+2020-12-10,Renville,North Dakota,38075.0,265,10.0
+2020-12-11,Renville,Minnesota,27129.0,1148,32.0
+2020-12-11,Renville,North Dakota,38075.0,265,10.0
+2020-12-12,Renville,Minnesota,27129.0,1169,33.0
+2020-12-12,Renville,North Dakota,38075.0,265,11.0
+2020-12-13,Renville,Minnesota,27129.0,1180,34.0
+2020-12-13,Renville,North Dakota,38075.0,267,11.0
+2020-12-14,Renville,Minnesota,27129.0,1184,34.0
+2020-12-14,Renville,North Dakota,38075.0,268,11.0
+2020-12-15,Renville,Minnesota,27129.0,1191,34.0
+2020-12-15,Renville,North Dakota,38075.0,268,12.0
+2020-12-16,Renville,Minnesota,27129.0,1199,34.0
+2020-12-16,Renville,North Dakota,38075.0,269,12.0
+2020-12-17,Renville,Minnesota,27129.0,1210,35.0
+2020-12-17,Renville,North Dakota,38075.0,269,12.0
+2020-12-18,Renville,Minnesota,27129.0,1215,35.0
+2020-12-18,Renville,North Dakota,38075.0,271,12.0
+2020-12-19,Renville,Minnesota,27129.0,1225,35.0
+2020-12-19,Renville,North Dakota,38075.0,272,12.0
+2020-12-20,Renville,Minnesota,27129.0,1234,37.0
+2020-12-20,Renville,North Dakota,38075.0,272,12.0
+2020-12-21,Renville,Minnesota,27129.0,1242,37.0
+2020-12-21,Renville,North Dakota,38075.0,272,12.0
+2020-12-22,Renville,Minnesota,27129.0,1245,37.0
+2020-12-22,Renville,North Dakota,38075.0,272,12.0
+2020-12-23,Renville,Minnesota,27129.0,1256,37.0
+2020-12-23,Renville,North Dakota,38075.0,272,12.0
+2020-12-24,Renville,Minnesota,27129.0,1265,38.0
+2020-12-24,Renville,North Dakota,38075.0,272,12.0
+2020-12-25,Renville,Minnesota,27129.0,1265,38.0
+2020-12-25,Renville,North Dakota,38075.0,272,12.0
+2020-12-26,Renville,Minnesota,27129.0,1273,38.0
+2020-12-26,Renville,North Dakota,38075.0,272,12.0
+2020-12-27,Renville,Minnesota,27129.0,1281,38.0
+2020-12-27,Renville,North Dakota,38075.0,272,12.0
+2020-12-28,Renville,Minnesota,27129.0,1283,38.0
+2020-12-28,Renville,North Dakota,38075.0,272,12.0
+2020-12-29,Renville,Minnesota,27129.0,1286,38.0
+2020-12-29,Renville,North Dakota,38075.0,275,12.0
+2020-12-30,Renville,Minnesota,27129.0,1291,38.0
+2020-12-30,Renville,North Dakota,38075.0,276,12.0
+2020-12-31,Renville,Minnesota,27129.0,1291,39.0
+2020-12-31,Renville,North Dakota,38075.0,276,12.0
+2021-01-01,Renville,Minnesota,27129.0,1291,39.0
+2021-01-01,Renville,North Dakota,38075.0,279,12.0
+2021-01-02,Renville,Minnesota,27129.0,1301,39.0
+2021-01-02,Renville,North Dakota,38075.0,279,12.0
+2021-01-03,Renville,Minnesota,27129.0,1308,39.0
+2021-01-03,Renville,North Dakota,38075.0,279,12.0
+2021-01-04,Renville,Minnesota,27129.0,1315,39.0
+2021-01-04,Renville,North Dakota,38075.0,279,12.0
+2021-01-05,Renville,Minnesota,27129.0,1324,39.0
+2021-01-05,Renville,North Dakota,38075.0,280,12.0
+2021-01-06,Renville,Minnesota,27129.0,1328,39.0
+2021-01-06,Renville,North Dakota,38075.0,280,12.0
+2021-01-07,Renville,Minnesota,27129.0,1340,39.0
+2021-01-07,Renville,North Dakota,38075.0,281,12.0
+2021-01-08,Renville,Minnesota,27129.0,1345,39.0
+2021-01-08,Renville,North Dakota,38075.0,281,12.0
+2021-01-09,Renville,Minnesota,27129.0,1347,39.0
+2021-01-09,Renville,North Dakota,38075.0,282,12.0
+2021-01-10,Renville,Minnesota,27129.0,1350,39.0
+2021-01-10,Renville,North Dakota,38075.0,282,12.0
+2021-01-11,Renville,Minnesota,27129.0,1351,39.0
+2021-01-11,Renville,North Dakota,38075.0,282,12.0
+2021-01-12,Renville,Minnesota,27129.0,1354,39.0
+2021-01-12,Renville,North Dakota,38075.0,282,12.0
+2021-01-13,Renville,Minnesota,27129.0,1356,39.0
+2021-01-13,Renville,North Dakota,38075.0,281,12.0
+2021-01-14,Renville,Minnesota,27129.0,1361,39.0
+2021-01-14,Renville,North Dakota,38075.0,281,12.0
+2021-01-15,Renville,Minnesota,27129.0,1363,39.0
+2021-01-15,Renville,North Dakota,38075.0,283,12.0
+2021-01-16,Renville,Minnesota,27129.0,1365,39.0
+2021-01-16,Renville,North Dakota,38075.0,283,13.0
+2021-01-17,Renville,Minnesota,27129.0,1371,39.0
+2021-01-17,Renville,North Dakota,38075.0,283,13.0
+2021-01-18,Renville,Minnesota,27129.0,1372,39.0
+2021-01-18,Renville,North Dakota,38075.0,284,13.0
+2021-01-19,Renville,Minnesota,27129.0,1375,39.0
+2021-01-19,Renville,North Dakota,38075.0,285,13.0
+2021-01-20,Renville,Minnesota,27129.0,1375,40.0
+2021-01-20,Renville,North Dakota,38075.0,286,13.0
+2021-01-21,Renville,Minnesota,27129.0,1378,40.0
+2021-01-21,Renville,North Dakota,38075.0,286,13.0
+2021-01-22,Renville,Minnesota,27129.0,1379,40.0
+2021-01-22,Renville,North Dakota,38075.0,289,13.0
+2021-01-23,Renville,Minnesota,27129.0,1380,40.0
+2021-01-23,Renville,North Dakota,38075.0,291,13.0
+2021-01-24,Renville,Minnesota,27129.0,1384,40.0
+2021-01-24,Renville,North Dakota,38075.0,294,13.0
+2021-01-25,Renville,Minnesota,27129.0,1385,40.0
+2021-01-25,Renville,North Dakota,38075.0,294,13.0
+2021-01-26,Renville,Minnesota,27129.0,1387,40.0
+2021-01-26,Renville,North Dakota,38075.0,295,13.0
+2021-01-27,Renville,Minnesota,27129.0,1392,40.0
+2021-01-27,Renville,North Dakota,38075.0,295,13.0
+2021-01-28,Renville,Minnesota,27129.0,1394,40.0
+2021-01-28,Renville,North Dakota,38075.0,297,13.0
+2021-01-29,Renville,Minnesota,27129.0,1399,40.0
+2021-01-29,Renville,North Dakota,38075.0,299,13.0
+2021-01-30,Renville,Minnesota,27129.0,1400,40.0
+2021-01-30,Renville,North Dakota,38075.0,299,13.0
+2021-01-31,Renville,Minnesota,27129.0,1403,40.0
+2021-01-31,Renville,North Dakota,38075.0,299,13.0
+2021-02-01,Renville,Minnesota,27129.0,1403,40.0
+2021-02-01,Renville,North Dakota,38075.0,299,13.0
+2021-02-02,Renville,Minnesota,27129.0,1405,40.0
+2021-02-02,Renville,North Dakota,38075.0,299,13.0
+2021-02-03,Renville,Minnesota,27129.0,1409,40.0
+2021-02-03,Renville,North Dakota,38075.0,299,13.0
+2021-02-04,Renville,Minnesota,27129.0,1411,40.0
+2021-02-04,Renville,North Dakota,38075.0,298,13.0
+2021-02-05,Renville,Minnesota,27129.0,1414,40.0
+2021-02-05,Renville,North Dakota,38075.0,298,13.0
+2021-02-06,Renville,Minnesota,27129.0,1419,40.0
+2021-02-06,Renville,North Dakota,38075.0,298,13.0
+2021-02-07,Renville,Minnesota,27129.0,1420,40.0
+2021-02-07,Renville,North Dakota,38075.0,298,13.0
+2021-02-08,Renville,Minnesota,27129.0,1424,40.0
+2021-02-08,Renville,North Dakota,38075.0,298,13.0
+2021-02-09,Renville,Minnesota,27129.0,1426,40.0
+2021-02-09,Renville,North Dakota,38075.0,298,13.0
+2021-02-10,Renville,Minnesota,27129.0,1428,40.0
+2021-02-10,Renville,North Dakota,38075.0,298,13.0
+2021-02-11,Renville,Minnesota,27129.0,1430,40.0
+2021-02-11,Renville,North Dakota,38075.0,299,13.0
+2021-02-12,Renville,Minnesota,27129.0,1444,40.0
+2021-02-12,Renville,North Dakota,38075.0,300,13.0
+2021-02-13,Renville,Minnesota,27129.0,1445,40.0
+2021-02-13,Renville,North Dakota,38075.0,302,13.0
+2021-02-14,Renville,Minnesota,27129.0,1448,40.0
+2021-02-14,Renville,North Dakota,38075.0,302,13.0
+2021-02-15,Renville,Minnesota,27129.0,1452,40.0
+2021-02-15,Renville,North Dakota,38075.0,302,13.0
+2021-02-16,Renville,Minnesota,27129.0,1452,40.0
+2021-02-16,Renville,North Dakota,38075.0,302,13.0
+2021-02-17,Renville,Minnesota,27129.0,1452,40.0
+2021-02-17,Renville,North Dakota,38075.0,302,13.0
+2021-02-18,Renville,Minnesota,27129.0,1456,40.0
+2021-02-18,Renville,North Dakota,38075.0,303,13.0
+2021-02-19,Renville,Minnesota,27129.0,1459,40.0
+2021-02-19,Renville,North Dakota,38075.0,303,13.0
+2021-02-20,Renville,Minnesota,27129.0,1467,40.0
+2021-02-20,Renville,North Dakota,38075.0,303,13.0
+2021-02-21,Renville,Minnesota,27129.0,1467,40.0
+2021-02-21,Renville,North Dakota,38075.0,304,13.0
+2021-02-22,Renville,Minnesota,27129.0,1467,40.0
+2021-02-22,Renville,North Dakota,38075.0,304,13.0
+2021-02-23,Renville,Minnesota,27129.0,1468,40.0
+2021-02-23,Renville,North Dakota,38075.0,305,13.0
+2021-02-24,Renville,Minnesota,27129.0,1473,40.0
+2021-02-24,Renville,North Dakota,38075.0,305,13.0
+2021-02-25,Renville,Minnesota,27129.0,1480,40.0
+2021-02-25,Renville,North Dakota,38075.0,305,13.0
+2021-02-26,Renville,Minnesota,27129.0,1487,40.0
+2021-02-26,Renville,North Dakota,38075.0,305,13.0
+2021-02-27,Renville,Minnesota,27129.0,1490,40.0
+2021-02-27,Renville,North Dakota,38075.0,305,13.0
+2021-02-28,Renville,Minnesota,27129.0,1493,40.0
+2021-02-28,Renville,North Dakota,38075.0,305,13.0
+2021-03-01,Renville,Minnesota,27129.0,1495,40.0
+2021-03-01,Renville,North Dakota,38075.0,305,13.0
+2021-03-02,Renville,Minnesota,27129.0,1496,40.0
+2021-03-02,Renville,North Dakota,38075.0,305,13.0
+2021-03-03,Renville,Minnesota,27129.0,1503,40.0
+2021-03-03,Renville,North Dakota,38075.0,305,13.0
+2021-03-04,Renville,Minnesota,27129.0,1512,40.0
+2021-03-04,Renville,North Dakota,38075.0,305,13.0
+2021-03-05,Renville,Minnesota,27129.0,1516,40.0
+2021-03-05,Renville,North Dakota,38075.0,305,13.0
+2021-03-06,Renville,Minnesota,27129.0,1526,40.0
+2021-03-06,Renville,North Dakota,38075.0,305,13.0
+2021-03-07,Renville,Minnesota,27129.0,1529,40.0
+2021-03-07,Renville,North Dakota,38075.0,305,13.0
+2021-03-08,Renville,Minnesota,27129.0,1531,40.0
+2021-03-08,Renville,North Dakota,38075.0,305,13.0
+2021-03-09,Renville,Minnesota,27129.0,1533,41.0
+2021-03-09,Renville,North Dakota,38075.0,305,13.0
+2021-03-10,Renville,Minnesota,27129.0,1534,41.0
+2021-03-10,Renville,North Dakota,38075.0,306,13.0
+2021-03-11,Renville,Minnesota,27129.0,1537,41.0
+2021-03-11,Renville,North Dakota,38075.0,306,13.0
+2021-03-12,Renville,Minnesota,27129.0,1542,41.0
+2021-03-12,Renville,North Dakota,38075.0,306,13.0
+2021-03-13,Renville,Minnesota,27129.0,1545,41.0
+2021-03-13,Renville,North Dakota,38075.0,306,13.0
+2021-03-14,Renville,Minnesota,27129.0,1547,41.0
+2021-03-14,Renville,North Dakota,38075.0,306,13.0
+2021-03-15,Renville,Minnesota,27129.0,1548,41.0
+2021-03-15,Renville,North Dakota,38075.0,306,13.0
+2021-03-16,Renville,Minnesota,27129.0,1549,41.0
+2021-03-16,Renville,North Dakota,38075.0,308,13.0
+2021-03-17,Renville,Minnesota,27129.0,1553,41.0
+2021-03-17,Renville,North Dakota,38075.0,308,13.0
+2021-03-18,Renville,Minnesota,27129.0,1561,41.0
+2021-03-18,Renville,North Dakota,38075.0,308,13.0
+2021-03-19,Renville,Minnesota,27129.0,1569,41.0
+2021-03-19,Renville,North Dakota,38075.0,309,13.0
+2021-03-20,Renville,Minnesota,27129.0,1574,41.0
+2021-03-20,Renville,North Dakota,38075.0,309,13.0
+2021-03-21,Renville,Minnesota,27129.0,1579,43.0
+2021-03-21,Renville,North Dakota,38075.0,309,13.0
+2021-03-22,Renville,Minnesota,27129.0,1580,43.0
+2021-03-22,Renville,North Dakota,38075.0,310,13.0
+2021-03-23,Renville,Minnesota,27129.0,1581,43.0
+2021-03-23,Renville,North Dakota,38075.0,311,13.0
+2021-03-24,Renville,Minnesota,27129.0,1582,43.0
+2021-03-24,Renville,North Dakota,38075.0,311,13.0
+2021-03-25,Renville,Minnesota,27129.0,1590,43.0
+2021-03-25,Renville,North Dakota,38075.0,311,13.0
+2021-03-26,Renville,Minnesota,27129.0,1597,43.0
+2021-03-26,Renville,North Dakota,38075.0,311,13.0
+2021-03-27,Renville,Minnesota,27129.0,1603,43.0
+2021-03-27,Renville,North Dakota,38075.0,313,13.0
+2021-03-28,Renville,Minnesota,27129.0,1608,43.0
+2021-03-28,Renville,North Dakota,38075.0,313,13.0
+2021-03-29,Renville,Minnesota,27129.0,1612,43.0
+2021-03-29,Renville,North Dakota,38075.0,313,13.0
+2021-03-30,Renville,Minnesota,27129.0,1613,43.0
+2021-03-30,Renville,North Dakota,38075.0,313,13.0
+2021-03-31,Renville,Minnesota,27129.0,1615,43.0
+2021-03-31,Renville,North Dakota,38075.0,313,13.0
+2021-04-01,Renville,Minnesota,27129.0,1625,43.0
+2021-04-01,Renville,North Dakota,38075.0,314,13.0
+2021-04-02,Renville,Minnesota,27129.0,1627,43.0
+2021-04-02,Renville,North Dakota,38075.0,314,13.0
+2021-04-03,Renville,Minnesota,27129.0,1627,43.0
+2021-04-03,Renville,North Dakota,38075.0,316,13.0
+2021-04-04,Renville,Minnesota,27129.0,1627,43.0
+2021-04-04,Renville,North Dakota,38075.0,316,13.0
+2021-04-05,Renville,Minnesota,27129.0,1629,43.0
+2021-04-05,Renville,North Dakota,38075.0,317,13.0
+2021-04-06,Renville,Minnesota,27129.0,1635,43.0
+2021-04-06,Renville,North Dakota,38075.0,316,13.0
+2021-04-07,Renville,Minnesota,27129.0,1642,43.0
+2021-04-07,Renville,North Dakota,38075.0,316,13.0
+2021-04-08,Renville,Minnesota,27129.0,1651,43.0
+2021-04-08,Renville,North Dakota,38075.0,316,13.0
+2021-04-09,Renville,Minnesota,27129.0,1667,43.0
+2021-04-09,Renville,North Dakota,38075.0,316,14.0
+2021-04-10,Renville,Minnesota,27129.0,1674,43.0
+2021-04-10,Renville,North Dakota,38075.0,316,14.0
+2021-04-11,Renville,Minnesota,27129.0,1680,43.0
+2021-04-11,Renville,North Dakota,38075.0,317,14.0
+2021-04-12,Renville,Minnesota,27129.0,1685,43.0
+2021-04-12,Renville,North Dakota,38075.0,317,14.0
+2021-04-13,Renville,Minnesota,27129.0,1689,43.0
+2021-04-13,Renville,North Dakota,38075.0,317,14.0
+2021-04-14,Renville,Minnesota,27129.0,1691,43.0
+2021-04-14,Renville,North Dakota,38075.0,317,14.0
+2021-04-15,Renville,Minnesota,27129.0,1697,43.0
+2021-04-15,Renville,North Dakota,38075.0,317,14.0
+2021-04-16,Renville,Minnesota,27129.0,1712,43.0
+2021-04-16,Renville,North Dakota,38075.0,317,14.0
+2021-04-17,Renville,Minnesota,27129.0,1720,43.0
+2021-04-17,Renville,North Dakota,38075.0,318,14.0
+2021-04-18,Renville,Minnesota,27129.0,1725,43.0
+2021-04-18,Renville,North Dakota,38075.0,318,14.0
+2021-04-19,Renville,Minnesota,27129.0,1725,43.0
+2021-04-19,Renville,North Dakota,38075.0,318,14.0
+2021-04-20,Renville,Minnesota,27129.0,1728,43.0
+2021-04-20,Renville,North Dakota,38075.0,318,14.0
+2021-04-21,Renville,Minnesota,27129.0,1729,43.0
+2021-04-21,Renville,North Dakota,38075.0,318,14.0
+2021-04-22,Renville,Minnesota,27129.0,1732,43.0
+2021-04-22,Renville,North Dakota,38075.0,318,14.0
+2021-04-23,Renville,Minnesota,27129.0,1736,43.0
+2021-04-23,Renville,North Dakota,38075.0,319,14.0
+2021-04-24,Renville,Minnesota,27129.0,1739,43.0
+2021-04-24,Renville,North Dakota,38075.0,319,14.0
+2021-04-25,Renville,Minnesota,27129.0,1747,43.0
+2021-04-25,Renville,North Dakota,38075.0,319,14.0
+2021-04-26,Renville,Minnesota,27129.0,1747,43.0
+2021-04-26,Renville,North Dakota,38075.0,319,14.0
+2021-04-27,Renville,Minnesota,27129.0,1749,43.0
+2021-04-27,Renville,North Dakota,38075.0,319,14.0
+2021-04-28,Renville,Minnesota,27129.0,1752,43.0
+2021-04-28,Renville,North Dakota,38075.0,320,14.0
+2021-04-29,Renville,Minnesota,27129.0,1759,43.0
+2021-04-29,Renville,North Dakota,38075.0,320,14.0
+2021-04-30,Renville,Minnesota,27129.0,1765,43.0
+2021-04-30,Renville,North Dakota,38075.0,320,14.0
+2021-05-01,Renville,Minnesota,27129.0,1769,43.0
+2021-05-01,Renville,North Dakota,38075.0,320,14.0
+2021-05-02,Renville,Minnesota,27129.0,1770,43.0
+2021-05-02,Renville,North Dakota,38075.0,320,14.0
+2021-05-03,Renville,Minnesota,27129.0,1775,43.0
+2021-05-03,Renville,North Dakota,38075.0,320,14.0
+2021-05-04,Renville,Minnesota,27129.0,1775,43.0
+2021-05-04,Renville,North Dakota,38075.0,320,14.0
+2021-05-05,Renville,Minnesota,27129.0,1780,43.0
+2021-05-05,Renville,North Dakota,38075.0,320,14.0
+2021-05-06,Renville,Minnesota,27129.0,1782,43.0
+2021-05-06,Renville,North Dakota,38075.0,320,14.0
+2021-05-07,Renville,Minnesota,27129.0,1784,43.0
+2021-05-07,Renville,North Dakota,38075.0,320,14.0
+2021-05-08,Renville,Minnesota,27129.0,1786,43.0
+2021-05-08,Renville,North Dakota,38075.0,320,14.0
+2021-05-09,Renville,Minnesota,27129.0,1786,43.0
+2021-05-09,Renville,North Dakota,38075.0,320,14.0
+2021-05-10,Renville,Minnesota,27129.0,1789,43.0
+2021-05-10,Renville,North Dakota,38075.0,320,14.0
+2021-05-11,Renville,Minnesota,27129.0,1789,43.0
+2021-05-11,Renville,North Dakota,38075.0,320,14.0
+2021-05-12,Renville,Minnesota,27129.0,1791,43.0
+2021-05-12,Renville,North Dakota,38075.0,320,14.0
+2021-05-13,Renville,Minnesota,27129.0,1797,43.0
+2021-05-13,Renville,North Dakota,38075.0,320,14.0
+2021-05-14,Renville,Minnesota,27129.0,1802,43.0
+2021-05-14,Renville,North Dakota,38075.0,320,14.0
+2021-05-15,Renville,Minnesota,27129.0,1803,43.0
+2021-05-15,Renville,North Dakota,38075.0,320,14.0
+2021-05-16,Renville,Minnesota,27129.0,1805,43.0
+2021-05-16,Renville,North Dakota,38075.0,320,14.0
+2021-05-17,Renville,Minnesota,27129.0,1806,43.0
+2021-05-17,Renville,North Dakota,38075.0,320,14.0
+2021-05-18,Renville,Minnesota,27129.0,1805,43.0
+2021-05-18,Renville,North Dakota,38075.0,320,14.0
+2021-05-19,Renville,Minnesota,27129.0,1805,43.0
+2021-05-19,Renville,North Dakota,38075.0,320,14.0
+2021-05-20,Renville,Minnesota,27129.0,1809,44.0
+2021-05-20,Renville,North Dakota,38075.0,321,14.0
+2021-05-21,Renville,Minnesota,27129.0,1811,44.0
+2021-05-21,Renville,North Dakota,38075.0,321,14.0
+2021-05-22,Renville,Minnesota,27129.0,1813,45.0
+2021-05-22,Renville,North Dakota,38075.0,321,14.0
+2021-05-23,Renville,Minnesota,27129.0,1814,45.0
+2021-05-23,Renville,North Dakota,38075.0,321,14.0
+2021-05-24,Renville,Minnesota,27129.0,1814,45.0
+2021-05-24,Renville,North Dakota,38075.0,321,14.0
+2021-05-25,Renville,Minnesota,27129.0,1814,45.0
+2021-05-25,Renville,North Dakota,38075.0,321,14.0
+2021-05-26,Renville,Minnesota,27129.0,1815,45.0
+2021-05-26,Renville,North Dakota,38075.0,321,14.0
+2021-05-27,Renville,Minnesota,27129.0,1816,45.0
+2021-05-27,Renville,North Dakota,38075.0,321,14.0
+2021-05-28,Renville,Minnesota,27129.0,1817,45.0
+2021-05-28,Renville,North Dakota,38075.0,321,14.0
+2021-05-29,Renville,Minnesota,27129.0,1819,45.0
+2021-05-29,Renville,North Dakota,38075.0,321,14.0
+2021-05-30,Renville,Minnesota,27129.0,1819,45.0
+2021-05-30,Renville,North Dakota,38075.0,321,14.0
+2021-05-31,Renville,Minnesota,27129.0,1819,45.0
+2021-05-31,Renville,North Dakota,38075.0,321,14.0
+2021-06-01,Renville,Minnesota,27129.0,1819,45.0
+2021-06-01,Renville,North Dakota,38075.0,321,14.0
+2021-06-02,Renville,Minnesota,27129.0,1819,45.0
+2021-06-02,Renville,North Dakota,38075.0,321,14.0
+2021-06-03,Renville,Minnesota,27129.0,1819,45.0
+2021-06-03,Renville,North Dakota,38075.0,321,14.0
+2021-06-04,Renville,Minnesota,27129.0,1820,45.0
+2021-06-04,Renville,North Dakota,38075.0,321,14.0
+2021-06-05,Renville,Minnesota,27129.0,1821,46.0
+2021-06-05,Renville,North Dakota,38075.0,321,14.0
+2021-06-06,Renville,Minnesota,27129.0,1822,46.0
+2021-06-06,Renville,North Dakota,38075.0,322,14.0
+2021-06-07,Renville,Minnesota,27129.0,1823,46.0
+2021-06-07,Renville,North Dakota,38075.0,322,14.0
+2021-06-08,Renville,Minnesota,27129.0,1823,46.0
+2021-06-08,Renville,North Dakota,38075.0,322,14.0
+2021-06-09,Renville,Minnesota,27129.0,1823,46.0
+2021-06-09,Renville,North Dakota,38075.0,322,14.0
+2021-06-10,Renville,Minnesota,27129.0,1823,46.0
+2021-06-10,Renville,North Dakota,38075.0,322,14.0
+2021-06-11,Renville,Minnesota,27129.0,1823,46.0
+2021-06-11,Renville,North Dakota,38075.0,322,14.0
+2021-06-12,Renville,Minnesota,27129.0,1824,46.0
+2021-06-12,Renville,North Dakota,38075.0,322,14.0
+2021-06-13,Renville,Minnesota,27129.0,1823,46.0
+2021-06-13,Renville,North Dakota,38075.0,322,14.0
+2021-06-14,Renville,Minnesota,27129.0,1824,46.0
+2021-06-14,Renville,North Dakota,38075.0,322,14.0
+2021-06-15,Renville,Minnesota,27129.0,1824,46.0
+2021-06-15,Renville,North Dakota,38075.0,322,14.0
+2021-06-16,Renville,Minnesota,27129.0,1824,46.0
+2021-06-16,Renville,North Dakota,38075.0,322,14.0
+2021-06-17,Renville,Minnesota,27129.0,1824,46.0
+2021-06-17,Renville,North Dakota,38075.0,322,14.0
+2021-06-18,Renville,Minnesota,27129.0,1824,46.0
+2021-06-18,Renville,North Dakota,38075.0,322,14.0
+2021-06-19,Renville,Minnesota,27129.0,1824,46.0
+2021-06-19,Renville,North Dakota,38075.0,322,14.0
+2021-06-20,Renville,Minnesota,27129.0,1824,46.0
+2021-06-20,Renville,North Dakota,38075.0,322,14.0
+2021-06-21,Renville,Minnesota,27129.0,1828,46.0
+2021-06-21,Renville,North Dakota,38075.0,322,14.0
+2021-06-22,Renville,Minnesota,27129.0,1828,46.0
+2021-06-22,Renville,North Dakota,38075.0,322,14.0
+2021-06-23,Renville,Minnesota,27129.0,1828,46.0
+2021-06-23,Renville,North Dakota,38075.0,322,14.0
+2021-06-24,Renville,Minnesota,27129.0,1829,46.0
+2021-06-24,Renville,North Dakota,38075.0,322,14.0
+2021-06-25,Renville,Minnesota,27129.0,1829,46.0
+2021-06-25,Renville,North Dakota,38075.0,322,14.0
+2021-06-26,Renville,Minnesota,27129.0,1830,46.0
+2021-06-26,Renville,North Dakota,38075.0,322,14.0
+2021-06-27,Renville,Minnesota,27129.0,1830,46.0
+2021-06-27,Renville,North Dakota,38075.0,322,14.0
+2021-06-28,Renville,Minnesota,27129.0,1830,46.0
+2021-06-28,Renville,North Dakota,38075.0,322,14.0
+2021-06-29,Renville,Minnesota,27129.0,1830,46.0
+2021-06-29,Renville,North Dakota,38075.0,322,14.0
+2021-06-30,Renville,Minnesota,27129.0,1829,46.0
+2021-06-30,Renville,North Dakota,38075.0,322,14.0
+2021-07-01,Renville,Minnesota,27129.0,1828,46.0
+2021-07-01,Renville,North Dakota,38075.0,322,14.0
+2021-07-02,Renville,Minnesota,27129.0,1827,46.0
+2021-07-02,Renville,North Dakota,38075.0,322,14.0
+2021-07-03,Renville,Minnesota,27129.0,1827,46.0
+2021-07-03,Renville,North Dakota,38075.0,322,14.0
+2021-07-04,Renville,Minnesota,27129.0,1827,46.0
+2021-07-04,Renville,North Dakota,38075.0,322,14.0
+2021-07-05,Renville,Minnesota,27129.0,1827,46.0
+2021-07-05,Renville,North Dakota,38075.0,322,14.0
+2021-07-06,Renville,Minnesota,27129.0,1827,46.0
+2021-07-06,Renville,North Dakota,38075.0,322,14.0
+2021-07-07,Renville,Minnesota,27129.0,1827,46.0
+2021-07-07,Renville,North Dakota,38075.0,323,14.0
+2021-07-08,Renville,Minnesota,27129.0,1827,46.0
+2021-07-08,Renville,North Dakota,38075.0,323,14.0
+2021-07-09,Renville,Minnesota,27129.0,1827,46.0
+2021-07-09,Renville,North Dakota,38075.0,323,14.0
+2021-07-10,Renville,Minnesota,27129.0,1827,46.0
+2021-07-10,Renville,North Dakota,38075.0,323,14.0
+2021-07-11,Renville,Minnesota,27129.0,1827,46.0
+2021-07-11,Renville,North Dakota,38075.0,323,14.0
+2021-07-12,Renville,Minnesota,27129.0,1827,46.0
+2021-07-12,Renville,North Dakota,38075.0,323,14.0
+2021-07-13,Renville,Minnesota,27129.0,1828,46.0
+2021-07-13,Renville,North Dakota,38075.0,323,14.0
+2021-07-14,Renville,Minnesota,27129.0,1827,46.0
+2021-07-14,Renville,North Dakota,38075.0,323,14.0
+2021-07-15,Renville,Minnesota,27129.0,1827,46.0
+2021-07-15,Renville,North Dakota,38075.0,323,14.0
+2021-07-16,Renville,Minnesota,27129.0,1827,46.0
+2021-07-16,Renville,North Dakota,38075.0,323,14.0
+2021-07-17,Renville,Minnesota,27129.0,1827,46.0
+2021-07-17,Renville,North Dakota,38075.0,323,14.0
+2021-07-18,Renville,Minnesota,27129.0,1827,46.0
+2021-07-18,Renville,North Dakota,38075.0,323,14.0
+2021-07-19,Renville,Minnesota,27129.0,1827,46.0
+2021-07-19,Renville,North Dakota,38075.0,323,14.0
+2021-07-20,Renville,Minnesota,27129.0,1829,46.0
+2021-07-20,Renville,North Dakota,38075.0,323,14.0
+2021-07-21,Renville,Minnesota,27129.0,1829,46.0
+2021-07-21,Renville,North Dakota,38075.0,323,14.0
+2021-07-22,Renville,Minnesota,27129.0,1830,46.0
+2021-07-22,Renville,North Dakota,38075.0,323,14.0
+2021-07-23,Renville,Minnesota,27129.0,1831,46.0
+2021-07-23,Renville,North Dakota,38075.0,323,14.0
+2021-07-24,Renville,Minnesota,27129.0,1831,46.0
+2021-07-24,Renville,North Dakota,38075.0,323,14.0
+2021-07-25,Renville,Minnesota,27129.0,1831,46.0
+2021-07-25,Renville,North Dakota,38075.0,323,14.0
+2021-07-26,Renville,Minnesota,27129.0,1834,46.0
+2021-07-26,Renville,North Dakota,38075.0,323,14.0
+2021-07-27,Renville,Minnesota,27129.0,1839,46.0
+2021-07-27,Renville,North Dakota,38075.0,324,14.0
+2021-07-28,Renville,Minnesota,27129.0,1840,46.0
+2021-07-28,Renville,North Dakota,38075.0,325,14.0
+2021-07-29,Renville,Minnesota,27129.0,1842,46.0
+2021-07-29,Renville,North Dakota,38075.0,325,14.0
+2021-07-30,Renville,Minnesota,27129.0,1842,46.0
+2021-07-30,Renville,North Dakota,38075.0,325,14.0
+2021-07-31,Renville,Minnesota,27129.0,1842,46.0
+2021-07-31,Renville,North Dakota,38075.0,325,14.0
+2021-08-01,Renville,Minnesota,27129.0,1842,46.0
+2021-08-01,Renville,North Dakota,38075.0,325,14.0
+2021-08-02,Renville,Minnesota,27129.0,1844,46.0
+2021-08-02,Renville,North Dakota,38075.0,325,14.0
+2021-08-03,Renville,Minnesota,27129.0,1847,46.0
+2021-08-03,Renville,North Dakota,38075.0,325,14.0
+2021-08-04,Renville,Minnesota,27129.0,1847,46.0
+2021-08-04,Renville,North Dakota,38075.0,325,14.0
+2021-08-05,Renville,Minnesota,27129.0,1849,46.0
+2021-08-05,Renville,North Dakota,38075.0,325,14.0
+2021-08-06,Renville,Minnesota,27129.0,1851,46.0
+2021-08-06,Renville,North Dakota,38075.0,325,14.0
+2021-08-07,Renville,Minnesota,27129.0,1851,46.0
+2021-08-07,Renville,North Dakota,38075.0,325,14.0
+2021-08-08,Renville,Minnesota,27129.0,1851,46.0
+2021-08-08,Renville,North Dakota,38075.0,325,14.0
+2021-08-09,Renville,Minnesota,27129.0,1851,46.0
+2021-08-09,Renville,North Dakota,38075.0,325,14.0
+2021-08-10,Renville,Minnesota,27129.0,1859,46.0
+2021-08-10,Renville,North Dakota,38075.0,325,14.0
+2021-08-11,Renville,Minnesota,27129.0,1863,46.0
+2021-08-11,Renville,North Dakota,38075.0,325,14.0
+2021-08-12,Renville,Minnesota,27129.0,1865,46.0
+2021-08-12,Renville,North Dakota,38075.0,327,14.0
+2021-08-13,Renville,Minnesota,27129.0,1867,46.0
+2021-08-13,Renville,North Dakota,38075.0,327,14.0
+2021-08-14,Renville,Minnesota,27129.0,1867,46.0
+2021-08-14,Renville,North Dakota,38075.0,328,14.0
+2021-08-15,Renville,Minnesota,27129.0,1867,46.0
+2021-08-15,Renville,North Dakota,38075.0,329,14.0
+2021-08-16,Renville,Minnesota,27129.0,1871,46.0
+2021-08-16,Renville,North Dakota,38075.0,329,14.0
+2021-08-17,Renville,Minnesota,27129.0,1874,46.0
+2021-08-17,Renville,North Dakota,38075.0,329,14.0
+2021-08-18,Renville,Minnesota,27129.0,1877,46.0
+2021-08-18,Renville,North Dakota,38075.0,332,14.0
+2021-08-19,Renville,Minnesota,27129.0,1881,46.0
+2021-08-19,Renville,North Dakota,38075.0,336,14.0
+2021-08-20,Renville,Minnesota,27129.0,1883,46.0
+2021-08-20,Renville,North Dakota,38075.0,335,14.0
+2021-08-21,Renville,Minnesota,27129.0,1883,46.0
+2021-08-21,Renville,North Dakota,38075.0,335,14.0
+2021-08-22,Renville,Minnesota,27129.0,1883,46.0
+2021-08-22,Renville,North Dakota,38075.0,335,14.0
+2021-08-23,Renville,Minnesota,27129.0,1886,46.0
+2021-08-23,Renville,North Dakota,38075.0,335,14.0
+2021-08-24,Renville,Minnesota,27129.0,1889,46.0
+2021-08-24,Renville,North Dakota,38075.0,335,14.0
+2021-08-25,Renville,Minnesota,27129.0,1893,46.0
+2021-08-25,Renville,North Dakota,38075.0,335,14.0
+2021-08-26,Renville,Minnesota,27129.0,1897,46.0
+2021-08-26,Renville,North Dakota,38075.0,335,14.0
+2021-08-27,Renville,Minnesota,27129.0,1900,46.0
+2021-08-27,Renville,North Dakota,38075.0,337,14.0
+2021-08-28,Renville,Minnesota,27129.0,1900,46.0
+2021-08-28,Renville,North Dakota,38075.0,339,14.0
+2021-08-29,Renville,Minnesota,27129.0,1900,46.0
+2021-08-29,Renville,North Dakota,38075.0,340,14.0
+2021-08-30,Renville,Minnesota,27129.0,1906,46.0
+2021-08-30,Renville,North Dakota,38075.0,341,14.0
+2021-08-31,Renville,Minnesota,27129.0,1920,46.0
+2021-08-31,Renville,North Dakota,38075.0,341,14.0
+2021-09-01,Renville,Minnesota,27129.0,1923,46.0
+2021-09-01,Renville,North Dakota,38075.0,341,14.0
+2021-09-02,Renville,Minnesota,27129.0,1925,46.0
+2021-09-02,Renville,North Dakota,38075.0,342,14.0
+2021-09-03,Renville,Minnesota,27129.0,1931,46.0
+2021-09-03,Renville,North Dakota,38075.0,344,14.0
+2021-09-04,Renville,Minnesota,27129.0,1931,46.0
+2021-09-04,Renville,North Dakota,38075.0,345,14.0
+2021-09-05,Renville,Minnesota,27129.0,1931,46.0
+2021-09-05,Renville,North Dakota,38075.0,346,14.0
+2021-09-06,Renville,Minnesota,27129.0,1931,46.0
+2021-09-06,Renville,North Dakota,38075.0,346,14.0
+2021-09-07,Renville,Minnesota,27129.0,1936,46.0
+2021-09-07,Renville,North Dakota,38075.0,346,14.0
+2021-09-08,Renville,Minnesota,27129.0,1957,46.0
+2021-09-08,Renville,North Dakota,38075.0,346,14.0
+2021-09-09,Renville,Minnesota,27129.0,1959,46.0
+2021-09-09,Renville,North Dakota,38075.0,347,14.0
+2021-09-10,Renville,Minnesota,27129.0,1959,46.0
+2021-09-10,Renville,North Dakota,38075.0,349,14.0
+2021-09-11,Renville,Minnesota,27129.0,1959,46.0
+2021-09-11,Renville,North Dakota,38075.0,350,14.0
+2021-09-12,Renville,Minnesota,27129.0,1959,46.0
+2021-09-12,Renville,North Dakota,38075.0,350,14.0
+2021-09-13,Renville,Minnesota,27129.0,1964,47.0
+2021-09-13,Renville,North Dakota,38075.0,350,14.0
+2021-09-14,Renville,Minnesota,27129.0,1978,47.0
+2021-09-14,Renville,North Dakota,38075.0,350,14.0
+2021-09-15,Renville,Minnesota,27129.0,1982,47.0
+2021-09-15,Renville,North Dakota,38075.0,350,14.0
+2021-09-16,Renville,Minnesota,27129.0,1987,47.0
+2021-09-16,Renville,North Dakota,38075.0,350,14.0
+2021-09-17,Renville,Minnesota,27129.0,1995,48.0
+2021-09-17,Renville,North Dakota,38075.0,351,14.0
+2021-09-18,Renville,Minnesota,27129.0,1995,48.0
+2021-09-18,Renville,North Dakota,38075.0,352,14.0
+2021-09-19,Renville,Minnesota,27129.0,1995,48.0
+2021-09-19,Renville,North Dakota,38075.0,352,14.0
+2021-09-20,Renville,Minnesota,27129.0,2002,48.0
+2021-09-20,Renville,North Dakota,38075.0,352,14.0
+2021-09-21,Renville,Minnesota,27129.0,2024,48.0
+2021-09-21,Renville,North Dakota,38075.0,353,14.0
+2021-09-22,Renville,Minnesota,27129.0,2025,48.0
+2021-09-22,Renville,North Dakota,38075.0,353,14.0
+2021-09-23,Renville,Minnesota,27129.0,2031,48.0
+2021-09-23,Renville,North Dakota,38075.0,353,14.0
+2021-09-24,Renville,Minnesota,27129.0,2042,48.0
+2021-09-24,Renville,North Dakota,38075.0,354,14.0
+2021-09-25,Renville,Minnesota,27129.0,2042,48.0
+2021-09-25,Renville,North Dakota,38075.0,354,14.0
+2021-09-26,Renville,Minnesota,27129.0,2042,48.0
+2021-09-26,Renville,North Dakota,38075.0,354,14.0
+2021-09-27,Renville,Minnesota,27129.0,2054,48.0
+2021-09-27,Renville,North Dakota,38075.0,354,14.0
+2021-09-28,Renville,Minnesota,27129.0,2083,48.0
+2021-09-28,Renville,North Dakota,38075.0,354,14.0
+2021-09-29,Renville,Minnesota,27129.0,2089,48.0
+2021-09-29,Renville,North Dakota,38075.0,355,14.0
+2021-09-30,Renville,Minnesota,27129.0,2096,48.0
+2021-09-30,Renville,North Dakota,38075.0,354,14.0
+2021-10-01,Renville,Minnesota,27129.0,2110,48.0
+2021-10-01,Renville,North Dakota,38075.0,355,14.0
+2021-10-02,Renville,Minnesota,27129.0,2110,48.0
+2021-10-02,Renville,North Dakota,38075.0,355,14.0
+2021-10-03,Renville,Minnesota,27129.0,2110,48.0
+2021-10-03,Renville,North Dakota,38075.0,355,14.0
+2021-10-04,Renville,Minnesota,27129.0,2119,48.0
+2021-10-04,Renville,North Dakota,38075.0,355,14.0
+2021-10-05,Renville,Minnesota,27129.0,2148,48.0
+2021-10-05,Renville,North Dakota,38075.0,355,14.0
+2021-10-06,Renville,Minnesota,27129.0,2160,48.0
+2021-10-06,Renville,North Dakota,38075.0,356,14.0
+2021-10-07,Renville,Minnesota,27129.0,2169,48.0
+2021-10-07,Renville,North Dakota,38075.0,356,14.0
+2021-10-08,Renville,Minnesota,27129.0,2182,48.0
+2021-10-08,Renville,North Dakota,38075.0,356,14.0
+2021-10-09,Renville,Minnesota,27129.0,2182,48.0
+2021-10-09,Renville,North Dakota,38075.0,357,14.0
+2021-10-10,Renville,Minnesota,27129.0,2182,48.0
+2021-10-10,Renville,North Dakota,38075.0,357,14.0
+2021-10-11,Renville,Minnesota,27129.0,2191,49.0
+2021-10-11,Renville,North Dakota,38075.0,357,14.0
+2021-10-12,Renville,Minnesota,27129.0,2217,49.0
+2021-10-12,Renville,North Dakota,38075.0,358,14.0
+2021-10-13,Renville,Minnesota,27129.0,2218,49.0
+2021-10-13,Renville,North Dakota,38075.0,362,14.0
+2021-10-14,Renville,Minnesota,27129.0,2228,49.0
+2021-10-14,Renville,North Dakota,38075.0,362,14.0
+2021-10-15,Renville,Minnesota,27129.0,2242,49.0
+2021-10-15,Renville,North Dakota,38075.0,364,14.0
+2021-10-16,Renville,Minnesota,27129.0,2242,49.0
+2021-10-16,Renville,North Dakota,38075.0,367,14.0
+2021-10-17,Renville,Minnesota,27129.0,2242,49.0
+2021-10-17,Renville,North Dakota,38075.0,368,14.0
+2021-10-18,Renville,Minnesota,27129.0,2251,49.0
+2021-10-18,Renville,North Dakota,38075.0,373,14.0
+2021-10-19,Renville,Minnesota,27129.0,2264,49.0
+2021-10-19,Renville,North Dakota,38075.0,373,14.0
+2021-10-20,Renville,Minnesota,27129.0,2266,49.0
+2021-10-20,Renville,North Dakota,38075.0,376,14.0
+2021-10-21,Renville,Minnesota,27129.0,2273,49.0
+2021-10-21,Renville,North Dakota,38075.0,377,14.0
+2021-10-22,Renville,Minnesota,27129.0,2285,49.0
+2021-10-22,Renville,North Dakota,38075.0,378,14.0
+2021-10-23,Renville,Minnesota,27129.0,2285,49.0
+2021-10-23,Renville,North Dakota,38075.0,379,14.0
+2021-10-24,Renville,Minnesota,27129.0,2285,49.0
+2021-10-24,Renville,North Dakota,38075.0,380,14.0
+2021-10-25,Renville,Minnesota,27129.0,2288,49.0
+2021-10-25,Renville,North Dakota,38075.0,381,14.0
+2021-10-26,Renville,Minnesota,27129.0,2314,49.0
+2021-10-26,Renville,North Dakota,38075.0,383,14.0
+2021-10-27,Renville,Minnesota,27129.0,2323,50.0
+2021-10-27,Renville,North Dakota,38075.0,386,14.0
+2021-10-28,Renville,Minnesota,27129.0,2338,50.0
+2021-10-28,Renville,North Dakota,38075.0,387,14.0
+2021-10-29,Renville,Minnesota,27129.0,2361,51.0
+2021-10-29,Renville,North Dakota,38075.0,391,14.0
+2021-10-30,Renville,Minnesota,27129.0,2361,51.0
+2021-10-30,Renville,North Dakota,38075.0,392,14.0
+2021-10-31,Renville,Minnesota,27129.0,2361,51.0
+2021-10-31,Renville,North Dakota,38075.0,394,14.0
+2021-11-01,Renville,Minnesota,27129.0,2406,51.0
+2021-11-01,Renville,North Dakota,38075.0,396,14.0
+2021-11-02,Renville,Minnesota,27129.0,2440,51.0
+2021-11-02,Renville,North Dakota,38075.0,397,14.0
+2021-11-03,Renville,Minnesota,27129.0,2446,51.0
+2021-11-03,Renville,North Dakota,38075.0,403,14.0
+2021-11-04,Renville,Minnesota,27129.0,2454,51.0
+2021-11-04,Renville,North Dakota,38075.0,405,14.0
+2021-11-05,Renville,Minnesota,27129.0,2470,51.0
+2021-11-05,Renville,North Dakota,38075.0,405,14.0
+2021-11-06,Renville,Minnesota,27129.0,2470,51.0
+2021-11-06,Renville,North Dakota,38075.0,406,14.0
+2021-11-07,Renville,Minnesota,27129.0,2470,51.0
+2021-11-07,Renville,North Dakota,38075.0,408,14.0
+2021-11-08,Renville,Minnesota,27129.0,2479,51.0
+2021-11-08,Renville,North Dakota,38075.0,410,14.0
+2021-11-09,Renville,Minnesota,27129.0,2493,51.0
+2021-11-09,Renville,North Dakota,38075.0,413,14.0
+2021-11-10,Renville,Minnesota,27129.0,2514,51.0
+2021-11-10,Renville,North Dakota,38075.0,416,14.0
+2021-11-11,Renville,Minnesota,27129.0,2521,51.0
+2021-11-11,Renville,North Dakota,38075.0,416,14.0
+2021-11-12,Renville,Minnesota,27129.0,2525,51.0
+2021-11-12,Renville,North Dakota,38075.0,418,14.0
+2021-11-13,Renville,Minnesota,27129.0,2525,51.0
+2021-11-13,Renville,North Dakota,38075.0,419,14.0
+2021-11-14,Renville,Minnesota,27129.0,2525,51.0
+2021-11-14,Renville,North Dakota,38075.0,420,14.0
+2021-11-15,Renville,Minnesota,27129.0,2538,51.0
+2021-11-15,Renville,North Dakota,38075.0,420,14.0
+2021-11-16,Renville,Minnesota,27129.0,2567,51.0
+2021-11-16,Renville,North Dakota,38075.0,420,14.0
+2021-11-17,Renville,Minnesota,27129.0,2576,51.0
+2021-11-17,Renville,North Dakota,38075.0,422,14.0
+2021-11-18,Renville,Minnesota,27129.0,2584,51.0
+2021-11-18,Renville,North Dakota,38075.0,423,14.0
+2021-11-19,Renville,Minnesota,27129.0,2595,51.0
+2021-11-19,Renville,North Dakota,38075.0,423,14.0
+2021-11-20,Renville,Minnesota,27129.0,2595,51.0
+2021-11-20,Renville,North Dakota,38075.0,430,14.0
+2021-11-21,Renville,Minnesota,27129.0,2595,51.0
+2021-11-21,Renville,North Dakota,38075.0,431,14.0
+2021-11-22,Renville,Minnesota,27129.0,2598,51.0
+2021-11-22,Renville,North Dakota,38075.0,433,14.0
+2021-11-23,Renville,Minnesota,27129.0,2628,51.0
+2021-11-23,Renville,North Dakota,38075.0,433,14.0
+2021-11-24,Renville,Minnesota,27129.0,2631,51.0
+2021-11-24,Renville,North Dakota,38075.0,435,14.0
+2021-11-25,Renville,Minnesota,27129.0,2631,51.0
+2021-11-25,Renville,North Dakota,38075.0,439,14.0
+2021-11-26,Renville,Minnesota,27129.0,2641,51.0
+2021-11-26,Renville,North Dakota,38075.0,439,14.0
+2021-11-27,Renville,Minnesota,27129.0,2641,51.0
+2021-11-27,Renville,North Dakota,38075.0,440,14.0
+2021-11-28,Renville,Minnesota,27129.0,2641,51.0
+2021-11-28,Renville,North Dakota,38075.0,440,14.0
+2021-11-29,Renville,Minnesota,27129.0,2655,51.0
+2021-11-29,Renville,North Dakota,38075.0,440,14.0
+2021-11-30,Renville,Minnesota,27129.0,2680,51.0
+2021-11-30,Renville,North Dakota,38075.0,440,14.0
+2021-12-01,Renville,Minnesota,27129.0,2684,51.0
+2021-12-01,Renville,North Dakota,38075.0,440,14.0
+2021-12-02,Renville,Minnesota,27129.0,2698,51.0
+2021-12-02,Renville,North Dakota,38075.0,439,14.0
+2021-12-03,Renville,Minnesota,27129.0,2716,51.0
+2021-12-03,Renville,North Dakota,38075.0,439,14.0
+2021-12-04,Renville,Minnesota,27129.0,2716,51.0
+2021-12-04,Renville,North Dakota,38075.0,441,14.0
+2021-12-05,Renville,Minnesota,27129.0,2716,51.0
+2021-12-05,Renville,North Dakota,38075.0,441,14.0
+2021-12-06,Renville,Minnesota,27129.0,2725,51.0
+2021-12-06,Renville,North Dakota,38075.0,441,14.0
+2021-12-07,Renville,Minnesota,27129.0,2743,51.0
+2021-12-07,Renville,North Dakota,38075.0,441,14.0
+2021-12-08,Renville,Minnesota,27129.0,2746,51.0
+2021-12-08,Renville,North Dakota,38075.0,441,14.0
+2021-12-09,Renville,Minnesota,27129.0,2756,51.0
+2021-12-09,Renville,North Dakota,38075.0,442,14.0
+2021-12-10,Renville,Minnesota,27129.0,2764,51.0
+2021-12-10,Renville,North Dakota,38075.0,444,14.0
+2021-12-11,Renville,Minnesota,27129.0,2764,51.0
+2021-12-11,Renville,North Dakota,38075.0,445,14.0
+2021-12-12,Renville,Minnesota,27129.0,2764,51.0
+2021-12-12,Renville,North Dakota,38075.0,445,14.0
+2021-12-13,Renville,Minnesota,27129.0,2778,51.0
+2021-12-13,Renville,North Dakota,38075.0,445,14.0
+2021-12-14,Renville,Minnesota,27129.0,2791,51.0
+2021-12-14,Renville,North Dakota,38075.0,445,14.0
+2021-12-15,Renville,Minnesota,27129.0,2792,51.0
+2021-12-15,Renville,North Dakota,38075.0,445,14.0
+2021-12-16,Renville,Minnesota,27129.0,2799,51.0
+2021-12-16,Renville,North Dakota,38075.0,445,15.0
+2021-12-17,Renville,Minnesota,27129.0,2805,51.0
+2021-12-17,Renville,North Dakota,38075.0,446,15.0
+2021-12-18,Renville,Minnesota,27129.0,2805,51.0
+2021-12-18,Renville,North Dakota,38075.0,446,15.0
+2021-12-19,Renville,Minnesota,27129.0,2805,51.0
+2021-12-19,Renville,North Dakota,38075.0,448,15.0
+2021-12-20,Renville,Minnesota,27129.0,2812,51.0
+2021-12-20,Renville,North Dakota,38075.0,448,15.0
+2021-12-21,Renville,Minnesota,27129.0,2834,52.0
+2021-12-21,Renville,North Dakota,38075.0,448,15.0
+2021-12-22,Renville,Minnesota,27129.0,2835,52.0
+2021-12-22,Renville,North Dakota,38075.0,449,15.0
+2021-12-23,Renville,Minnesota,27129.0,2842,52.0
+2021-12-23,Renville,North Dakota,38075.0,450,15.0
+2021-12-24,Renville,Minnesota,27129.0,2842,52.0
+2021-12-24,Renville,North Dakota,38075.0,450,15.0
+2021-12-25,Renville,Minnesota,27129.0,2842,52.0
+2021-12-25,Renville,North Dakota,38075.0,450,15.0
+2021-12-26,Renville,Minnesota,27129.0,2842,52.0
+2021-12-26,Renville,North Dakota,38075.0,451,15.0
+2021-12-27,Renville,Minnesota,27129.0,2848,52.0
+2021-12-27,Renville,North Dakota,38075.0,451,15.0
+2021-12-28,Renville,Minnesota,27129.0,2865,52.0
+2021-12-28,Renville,North Dakota,38075.0,451,15.0
+2021-12-29,Renville,Minnesota,27129.0,2869,52.0
+2021-12-29,Renville,North Dakota,38075.0,453,15.0
+2021-12-30,Renville,Minnesota,27129.0,2877,52.0
+2021-12-30,Renville,North Dakota,38075.0,454,15.0
+2021-12-31,Renville,Minnesota,27129.0,2877,52.0
+2021-12-31,Renville,North Dakota,38075.0,454,15.0
+2022-01-01,Renville,Minnesota,27129.0,2877,52.0
+2022-01-01,Renville,North Dakota,38075.0,454,15.0
+2022-01-02,Renville,Minnesota,27129.0,2877,52.0
+2022-01-02,Renville,North Dakota,38075.0,454,15.0
+2022-01-03,Renville,Minnesota,27129.0,2879,52.0
+2022-01-03,Renville,North Dakota,38075.0,454,15.0
+2022-01-04,Renville,Minnesota,27129.0,2887,52.0
+2022-01-04,Renville,North Dakota,38075.0,454,15.0
+2022-01-05,Renville,Minnesota,27129.0,2890,52.0
+2022-01-05,Renville,North Dakota,38075.0,456,15.0
+2022-01-06,Renville,Minnesota,27129.0,2905,52.0
+2022-01-06,Renville,North Dakota,38075.0,458,15.0
+2022-01-07,Renville,Minnesota,27129.0,2928,52.0
+2022-01-07,Renville,North Dakota,38075.0,465,15.0
+2022-01-08,Renville,Minnesota,27129.0,2928,52.0
+2022-01-08,Renville,North Dakota,38075.0,465,15.0
+2022-01-09,Renville,Minnesota,27129.0,2928,52.0
+2022-01-09,Renville,North Dakota,38075.0,469,15.0
+2022-01-10,Renville,Minnesota,27129.0,2941,52.0
+2022-01-10,Renville,North Dakota,38075.0,468,15.0
+2022-01-11,Renville,Minnesota,27129.0,2981,52.0
+2022-01-11,Renville,North Dakota,38075.0,469,15.0
+2022-01-12,Renville,Minnesota,27129.0,2984,52.0
+2022-01-12,Renville,North Dakota,38075.0,473,15.0
+2022-01-13,Renville,Minnesota,27129.0,3000,52.0
+2022-01-13,Renville,North Dakota,38075.0,477,15.0
+2022-01-14,Renville,Minnesota,27129.0,3014,52.0
+2022-01-14,Renville,North Dakota,38075.0,482,15.0
+2022-01-15,Renville,Minnesota,27129.0,3014,52.0
+2022-01-15,Renville,North Dakota,38075.0,485,15.0
+2022-01-16,Renville,Minnesota,27129.0,3014,52.0
+2022-01-16,Renville,North Dakota,38075.0,488,15.0
+2022-01-17,Renville,Minnesota,27129.0,3014,52.0
+2022-01-17,Renville,North Dakota,38075.0,489,15.0
+2022-01-18,Renville,Minnesota,27129.0,3028,52.0
+2022-01-18,Renville,North Dakota,38075.0,491,15.0
+2022-01-19,Renville,Minnesota,27129.0,3080,52.0
+2022-01-19,Renville,North Dakota,38075.0,493,15.0
+2022-01-20,Renville,Minnesota,27129.0,3092,52.0
+2022-01-20,Renville,North Dakota,38075.0,497,15.0
+2022-01-21,Renville,Minnesota,27129.0,3108,52.0
+2022-01-21,Renville,North Dakota,38075.0,502,15.0
+2022-01-22,Renville,Minnesota,27129.0,3108,52.0
+2022-01-22,Renville,North Dakota,38075.0,507,15.0
+2022-01-23,Renville,Minnesota,27129.0,3108,52.0
+2022-01-23,Renville,North Dakota,38075.0,508,15.0
+2022-01-24,Renville,Minnesota,27129.0,3133,52.0
+2022-01-24,Renville,North Dakota,38075.0,508,15.0
+2022-01-25,Renville,Minnesota,27129.0,3175,52.0
+2022-01-25,Renville,North Dakota,38075.0,510,15.0
+2022-01-26,Renville,Minnesota,27129.0,3202,53.0
+2022-01-26,Renville,North Dakota,38075.0,511,15.0
+2022-01-27,Renville,Minnesota,27129.0,3260,53.0
+2022-01-27,Renville,North Dakota,38075.0,513,15.0
+2022-01-28,Renville,Minnesota,27129.0,3274,53.0
+2022-01-28,Renville,North Dakota,38075.0,515,15.0
+2022-01-29,Renville,Minnesota,27129.0,3274,53.0
+2022-01-29,Renville,North Dakota,38075.0,516,15.0
+2022-01-30,Renville,Minnesota,27129.0,3274,53.0
+2022-01-30,Renville,North Dakota,38075.0,519,15.0
+2022-01-31,Renville,Minnesota,27129.0,3321,53.0
+2022-01-31,Renville,North Dakota,38075.0,520,15.0
+2022-02-01,Renville,Minnesota,27129.0,3366,53.0
+2022-02-01,Renville,North Dakota,38075.0,522,15.0
+2022-02-02,Renville,Minnesota,27129.0,3391,53.0
+2022-02-02,Renville,North Dakota,38075.0,525,15.0
+2022-02-03,Renville,Minnesota,27129.0,3403,53.0
+2022-02-03,Renville,North Dakota,38075.0,533,15.0
+2022-02-04,Renville,Minnesota,27129.0,3421,54.0
+2022-02-04,Renville,North Dakota,38075.0,539,15.0
+2022-02-05,Renville,Minnesota,27129.0,3421,54.0
+2022-02-05,Renville,North Dakota,38075.0,538,15.0
+2022-02-06,Renville,Minnesota,27129.0,3421,54.0
+2022-02-06,Renville,North Dakota,38075.0,538,15.0
+2022-02-07,Renville,Minnesota,27129.0,3438,54.0
+2022-02-07,Renville,North Dakota,38075.0,540,15.0
+2022-02-08,Renville,Minnesota,27129.0,3461,54.0
+2022-02-08,Renville,North Dakota,38075.0,540,15.0
+2022-02-09,Renville,Minnesota,27129.0,3480,54.0
+2022-02-09,Renville,North Dakota,38075.0,541,15.0
+2022-02-10,Renville,Minnesota,27129.0,3480,54.0
+2022-02-10,Renville,North Dakota,38075.0,542,15.0
+2022-02-11,Renville,Minnesota,27129.0,3488,54.0
+2022-02-11,Renville,North Dakota,38075.0,544,15.0
+2022-02-12,Renville,Minnesota,27129.0,3488,54.0
+2022-02-12,Renville,North Dakota,38075.0,544,15.0
+2022-02-13,Renville,Minnesota,27129.0,3488,54.0
+2022-02-13,Renville,North Dakota,38075.0,544,15.0
+2022-02-14,Renville,Minnesota,27129.0,3511,54.0
+2022-02-14,Renville,North Dakota,38075.0,544,15.0
+2022-02-15,Renville,Minnesota,27129.0,3533,54.0
+2022-02-15,Renville,North Dakota,38075.0,545,15.0
+2022-02-16,Renville,Minnesota,27129.0,3538,54.0
+2022-02-16,Renville,North Dakota,38075.0,544,15.0
+2022-02-17,Renville,Minnesota,27129.0,3546,54.0
+2022-02-17,Renville,North Dakota,38075.0,545,15.0
+2022-02-18,Renville,Minnesota,27129.0,3574,55.0
+2022-02-18,Renville,North Dakota,38075.0,545,15.0
+2022-02-19,Renville,Minnesota,27129.0,3574,55.0
+2022-02-19,Renville,North Dakota,38075.0,546,15.0
+2022-02-20,Renville,Minnesota,27129.0,3574,55.0
+2022-02-20,Renville,North Dakota,38075.0,546,15.0
+2022-02-21,Renville,Minnesota,27129.0,3574,55.0
+2022-02-21,Renville,North Dakota,38075.0,546,15.0
+2022-02-22,Renville,Minnesota,27129.0,3570,55.0
+2022-02-22,Renville,North Dakota,38075.0,546,15.0
+2022-02-23,Renville,Minnesota,27129.0,3593,55.0
+2022-02-23,Renville,North Dakota,38075.0,546,15.0
+2022-02-24,Renville,Minnesota,27129.0,3598,55.0
+2022-02-24,Renville,North Dakota,38075.0,546,15.0
+2022-02-25,Renville,Minnesota,27129.0,3603,55.0
+2022-02-25,Renville,North Dakota,38075.0,546,15.0
+2022-02-26,Renville,Minnesota,27129.0,3603,55.0
+2022-02-26,Renville,North Dakota,38075.0,546,15.0
+2022-02-27,Renville,Minnesota,27129.0,3603,55.0
+2022-02-27,Renville,North Dakota,38075.0,546,15.0
+2022-02-28,Renville,Minnesota,27129.0,3606,56.0
+2022-02-28,Renville,North Dakota,38075.0,546,15.0
+2022-03-01,Renville,Minnesota,27129.0,3616,56.0
+2022-03-01,Renville,North Dakota,38075.0,546,15.0
+2022-03-02,Renville,Minnesota,27129.0,3626,56.0
+2022-03-02,Renville,North Dakota,38075.0,546,15.0
+2022-03-03,Renville,Minnesota,27129.0,3630,56.0
+2022-03-03,Renville,North Dakota,38075.0,546,15.0
+2022-03-04,Renville,Minnesota,27129.0,3631,56.0
+2022-03-04,Renville,North Dakota,38075.0,546,15.0
+2022-03-05,Renville,Minnesota,27129.0,3631,56.0
+2022-03-05,Renville,North Dakota,38075.0,547,15.0
+2022-03-06,Renville,Minnesota,27129.0,3631,56.0
+2022-03-06,Renville,North Dakota,38075.0,547,15.0
+2022-03-07,Renville,Minnesota,27129.0,3633,56.0
+2022-03-07,Renville,North Dakota,38075.0,547,15.0
+2022-03-08,Renville,Minnesota,27129.0,3639,56.0
+2022-03-08,Renville,North Dakota,38075.0,548,15.0
+2022-03-09,Renville,Minnesota,27129.0,3640,56.0
+2022-03-09,Renville,North Dakota,38075.0,548,15.0
+2022-03-10,Renville,Minnesota,27129.0,3641,56.0
+2022-03-10,Renville,North Dakota,38075.0,548,15.0
+2022-03-11,Renville,Minnesota,27129.0,3713,56.0
+2022-03-11,Renville,North Dakota,38075.0,548,15.0
+2022-03-12,Renville,Minnesota,27129.0,3713,56.0
+2022-03-12,Renville,North Dakota,38075.0,548,15.0
+2022-03-13,Renville,Minnesota,27129.0,3713,56.0
+2022-03-13,Renville,North Dakota,38075.0,549,15.0
+2022-03-14,Renville,Minnesota,27129.0,3713,56.0
+2022-03-14,Renville,North Dakota,38075.0,549,15.0
+2022-03-15,Renville,Minnesota,27129.0,3718,56.0
+2022-03-15,Renville,North Dakota,38075.0,549,15.0
+2022-03-16,Renville,Minnesota,27129.0,3721,56.0
+2022-03-16,Renville,North Dakota,38075.0,549,15.0
+2022-03-17,Renville,Minnesota,27129.0,3722,56.0
+2022-03-17,Renville,North Dakota,38075.0,549,15.0
+2022-03-18,Renville,Minnesota,27129.0,3722,56.0
+2022-03-18,Renville,North Dakota,38075.0,548,15.0
+2022-03-19,Renville,Minnesota,27129.0,3722,56.0
+2022-03-19,Renville,North Dakota,38075.0,548,15.0
+2022-03-20,Renville,Minnesota,27129.0,3722,56.0
+2022-03-20,Renville,North Dakota,38075.0,548,15.0
+2022-03-21,Renville,Minnesota,27129.0,3723,56.0
+2022-03-21,Renville,North Dakota,38075.0,548,15.0
+2022-03-22,Renville,Minnesota,27129.0,3726,56.0
+2022-03-22,Renville,North Dakota,38075.0,548,15.0
+2022-03-23,Renville,Minnesota,27129.0,3726,56.0
+2022-03-23,Renville,North Dakota,38075.0,548,15.0
+2022-03-24,Renville,Minnesota,27129.0,3727,56.0
+2022-03-24,Renville,North Dakota,38075.0,548,15.0
+2022-03-25,Renville,Minnesota,27129.0,3727,56.0
+2022-03-25,Renville,North Dakota,38075.0,548,15.0
+2022-03-26,Renville,Minnesota,27129.0,3727,56.0
+2022-03-26,Renville,North Dakota,38075.0,548,15.0
+2022-03-27,Renville,Minnesota,27129.0,3727,56.0
+2022-03-27,Renville,North Dakota,38075.0,548,15.0
+2022-03-28,Renville,Minnesota,27129.0,3727,56.0
+2022-03-28,Renville,North Dakota,38075.0,548,15.0
+2022-03-29,Renville,Minnesota,27129.0,3728,56.0
+2022-03-29,Renville,North Dakota,38075.0,548,15.0
+2022-03-30,Renville,Minnesota,27129.0,3728,56.0
+2022-03-30,Renville,North Dakota,38075.0,548,15.0
+2022-03-31,Renville,Minnesota,27129.0,3728,56.0
+2022-03-31,Renville,North Dakota,38075.0,548,15.0
+2022-04-01,Renville,Minnesota,27129.0,3728,56.0
+2022-04-01,Renville,North Dakota,38075.0,549,15.0
+2022-04-02,Renville,Minnesota,27129.0,3728,56.0
+2022-04-02,Renville,North Dakota,38075.0,549,15.0
+2022-04-03,Renville,Minnesota,27129.0,3728,56.0
+2022-04-03,Renville,North Dakota,38075.0,549,15.0
+2022-04-04,Renville,Minnesota,27129.0,3730,56.0
+2022-04-04,Renville,North Dakota,38075.0,549,15.0
+2022-04-05,Renville,Minnesota,27129.0,3731,56.0
+2022-04-05,Renville,North Dakota,38075.0,549,15.0
+2022-04-06,Renville,Minnesota,27129.0,3731,56.0
+2022-04-06,Renville,North Dakota,38075.0,549,15.0
+2022-04-07,Renville,Minnesota,27129.0,3731,56.0
+2022-04-07,Renville,North Dakota,38075.0,549,15.0
+2022-04-08,Renville,Minnesota,27129.0,3732,56.0
+2022-04-08,Renville,North Dakota,38075.0,549,15.0
+2022-04-09,Renville,Minnesota,27129.0,3732,56.0
+2022-04-09,Renville,North Dakota,38075.0,549,15.0

@@ -1,1477 +1,1477 @@
-,date,county,state,fips,cases,deaths
-26918,2020-04-02,Pendleton,Kentucky,21191.0,1,0.0
-28315,2020-04-02,Pendleton,West Virginia,54071.0,1,0.0
-29234,2020-04-03,Pendleton,Kentucky,21191.0,1,0.0
-30669,2020-04-03,Pendleton,West Virginia,54071.0,1,0.0
-31611,2020-04-04,Pendleton,Kentucky,21191.0,1,0.0
-33070,2020-04-04,Pendleton,West Virginia,54071.0,1,0.0
-34035,2020-04-05,Pendleton,Kentucky,21191.0,2,0.0
-35508,2020-04-05,Pendleton,West Virginia,54071.0,1,0.0
-36493,2020-04-06,Pendleton,Kentucky,21191.0,2,0.0
-37993,2020-04-06,Pendleton,West Virginia,54071.0,1,0.0
-39000,2020-04-07,Pendleton,Kentucky,21191.0,2,0.0
-40532,2020-04-07,Pendleton,West Virginia,54071.0,1,0.0
-41550,2020-04-08,Pendleton,Kentucky,21191.0,3,0.0
-43104,2020-04-08,Pendleton,West Virginia,54071.0,1,0.0
-44126,2020-04-09,Pendleton,Kentucky,21191.0,3,0.0
-45700,2020-04-09,Pendleton,West Virginia,54071.0,1,0.0
-46734,2020-04-10,Pendleton,Kentucky,21191.0,3,0.0
-48328,2020-04-10,Pendleton,West Virginia,54071.0,1,0.0
-49374,2020-04-11,Pendleton,Kentucky,21191.0,3,0.0
-50987,2020-04-11,Pendleton,West Virginia,54071.0,1,0.0
-52042,2020-04-12,Pendleton,Kentucky,21191.0,3,0.0
-53664,2020-04-12,Pendleton,West Virginia,54071.0,1,0.0
-54723,2020-04-13,Pendleton,Kentucky,21191.0,3,0.0
-56354,2020-04-13,Pendleton,West Virginia,54071.0,1,0.0
-57421,2020-04-14,Pendleton,Kentucky,21191.0,3,0.0
-59061,2020-04-14,Pendleton,West Virginia,54071.0,1,0.0
-60130,2020-04-15,Pendleton,Kentucky,21191.0,3,0.0
-61780,2020-04-15,Pendleton,West Virginia,54071.0,1,0.0
-62850,2020-04-16,Pendleton,Kentucky,21191.0,5,0.0
-64513,2020-04-16,Pendleton,West Virginia,54071.0,1,0.0
-65589,2020-04-17,Pendleton,Kentucky,21191.0,5,0.0
-67261,2020-04-17,Pendleton,West Virginia,54071.0,2,0.0
-68338,2020-04-18,Pendleton,Kentucky,21191.0,5,0.0
-70023,2020-04-18,Pendleton,West Virginia,54071.0,2,0.0
-71101,2020-04-19,Pendleton,Kentucky,21191.0,5,0.0
-72792,2020-04-19,Pendleton,West Virginia,54071.0,2,0.0
-73873,2020-04-20,Pendleton,Kentucky,21191.0,5,0.0
-75568,2020-04-20,Pendleton,West Virginia,54071.0,2,0.0
-76654,2020-04-21,Pendleton,Kentucky,21191.0,5,0.0
-78351,2020-04-21,Pendleton,West Virginia,54071.0,1,0.0
-79439,2020-04-22,Pendleton,Kentucky,21191.0,5,0.0
-81144,2020-04-22,Pendleton,West Virginia,54071.0,1,0.0
-82236,2020-04-23,Pendleton,Kentucky,21191.0,5,0.0
-83945,2020-04-23,Pendleton,West Virginia,54071.0,3,0.0
-85039,2020-04-24,Pendleton,Kentucky,21191.0,5,0.0
-86752,2020-04-24,Pendleton,West Virginia,54071.0,3,0.0
-87848,2020-04-25,Pendleton,Kentucky,21191.0,5,0.0
-89568,2020-04-25,Pendleton,West Virginia,54071.0,3,0.0
-90664,2020-04-26,Pendleton,Kentucky,21191.0,5,0.0
-92386,2020-04-26,Pendleton,West Virginia,54071.0,3,0.0
-93485,2020-04-27,Pendleton,Kentucky,21191.0,6,0.0
-95215,2020-04-27,Pendleton,West Virginia,54071.0,3,0.0
-96320,2020-04-28,Pendleton,Kentucky,21191.0,6,0.0
-98060,2020-04-28,Pendleton,West Virginia,54071.0,3,0.0
-99166,2020-04-29,Pendleton,Kentucky,21191.0,6,0.0
-100910,2020-04-29,Pendleton,West Virginia,54071.0,3,0.0
-102018,2020-04-30,Pendleton,Kentucky,21191.0,6,0.0
-103765,2020-04-30,Pendleton,West Virginia,54071.0,3,0.0
-104879,2020-05-01,Pendleton,Kentucky,21191.0,6,0.0
-106629,2020-05-01,Pendleton,West Virginia,54071.0,3,0.0
-107744,2020-05-02,Pendleton,Kentucky,21191.0,6,0.0
-109498,2020-05-02,Pendleton,West Virginia,54071.0,3,0.0
-110615,2020-05-03,Pendleton,Kentucky,21191.0,6,0.0
-112372,2020-05-03,Pendleton,West Virginia,54071.0,3,0.0
-113492,2020-05-04,Pendleton,Kentucky,21191.0,6,0.0
-115255,2020-05-04,Pendleton,West Virginia,54071.0,3,0.0
-116374,2020-05-05,Pendleton,Kentucky,21191.0,6,0.0
-118214,2020-05-05,Pendleton,West Virginia,54071.0,5,0.0
-119335,2020-05-06,Pendleton,Kentucky,21191.0,6,0.0
-121179,2020-05-06,Pendleton,West Virginia,54071.0,5,0.0
-122306,2020-05-07,Pendleton,Kentucky,21191.0,6,0.0
-124159,2020-05-07,Pendleton,West Virginia,54071.0,5,0.0
-125288,2020-05-08,Pendleton,Kentucky,21191.0,5,0.0
-127144,2020-05-08,Pendleton,West Virginia,54071.0,5,0.0
-128276,2020-05-09,Pendleton,Kentucky,21191.0,5,0.0
-130134,2020-05-09,Pendleton,West Virginia,54071.0,5,0.0
-131266,2020-05-10,Pendleton,Kentucky,21191.0,5,0.0
-133124,2020-05-10,Pendleton,West Virginia,54071.0,5,0.0
-134257,2020-05-11,Pendleton,Kentucky,21191.0,6,0.0
-136114,2020-05-11,Pendleton,West Virginia,54071.0,5,0.0
-137247,2020-05-12,Pendleton,Kentucky,21191.0,6,0.0
-139105,2020-05-12,Pendleton,West Virginia,54071.0,5,0.0
-140240,2020-05-13,Pendleton,Kentucky,21191.0,6,0.0
-142101,2020-05-13,Pendleton,West Virginia,54071.0,5,0.0
-143236,2020-05-14,Pendleton,Kentucky,21191.0,6,0.0
-145098,2020-05-14,Pendleton,West Virginia,54071.0,5,0.0
-146236,2020-05-15,Pendleton,Kentucky,21191.0,6,0.0
-148101,2020-05-15,Pendleton,West Virginia,54071.0,5,0.0
-149241,2020-05-16,Pendleton,Kentucky,21191.0,6,0.0
-151110,2020-05-16,Pendleton,West Virginia,54071.0,5,0.0
-152252,2020-05-17,Pendleton,Kentucky,21191.0,6,0.0
-154121,2020-05-17,Pendleton,West Virginia,54071.0,5,0.0
-155266,2020-05-18,Pendleton,Kentucky,21191.0,6,0.0
-157138,2020-05-18,Pendleton,West Virginia,54071.0,5,0.0
-158283,2020-05-19,Pendleton,Kentucky,21191.0,6,0.0
-160162,2020-05-19,Pendleton,West Virginia,54071.0,5,0.0
-161309,2020-05-20,Pendleton,Kentucky,21191.0,6,0.0
-163190,2020-05-20,Pendleton,West Virginia,54071.0,5,0.0
-164338,2020-05-21,Pendleton,Kentucky,21191.0,7,0.0
-166219,2020-05-21,Pendleton,West Virginia,54071.0,5,0.0
-167374,2020-05-22,Pendleton,Kentucky,21191.0,7,0.0
-169255,2020-05-22,Pendleton,West Virginia,54071.0,7,0.0
-170412,2020-05-23,Pendleton,Kentucky,21191.0,7,0.0
-172296,2020-05-23,Pendleton,West Virginia,54071.0,9,0.0
-173453,2020-05-24,Pendleton,Kentucky,21191.0,7,0.0
-175339,2020-05-24,Pendleton,West Virginia,54071.0,9,0.0
-176497,2020-05-25,Pendleton,Kentucky,21191.0,7,0.0
-178384,2020-05-25,Pendleton,West Virginia,54071.0,9,0.0
-179541,2020-05-26,Pendleton,Kentucky,21191.0,7,0.0
-181428,2020-05-26,Pendleton,West Virginia,54071.0,9,0.0
-182586,2020-05-27,Pendleton,Kentucky,21191.0,8,0.0
-184479,2020-05-27,Pendleton,West Virginia,54071.0,10,0.0
-185641,2020-05-28,Pendleton,Kentucky,21191.0,8,0.0
-187536,2020-05-28,Pendleton,West Virginia,54071.0,11,0.0
-188699,2020-05-29,Pendleton,Kentucky,21191.0,8,0.0
-190600,2020-05-29,Pendleton,West Virginia,54071.0,12,0.0
-191763,2020-05-30,Pendleton,Kentucky,21191.0,9,0.0
-193666,2020-05-30,Pendleton,West Virginia,54071.0,12,0.0
-194831,2020-05-31,Pendleton,Kentucky,21191.0,9,0.0
-196736,2020-05-31,Pendleton,West Virginia,54071.0,12,0.0
-197902,2020-06-01,Pendleton,Kentucky,21191.0,10,0.0
-199809,2020-06-01,Pendleton,West Virginia,54071.0,13,0.0
-200974,2020-06-02,Pendleton,Kentucky,21191.0,11,0.0
-202885,2020-06-02,Pendleton,West Virginia,54071.0,13,0.0
-204051,2020-06-03,Pendleton,Kentucky,21191.0,11,0.0
-205964,2020-06-03,Pendleton,West Virginia,54071.0,13,0.0
-207132,2020-06-04,Pendleton,Kentucky,21191.0,11,0.0
-209046,2020-06-04,Pendleton,West Virginia,54071.0,13,0.0
-210213,2020-06-05,Pendleton,Kentucky,21191.0,14,0.0
-212131,2020-06-05,Pendleton,West Virginia,54071.0,13,1.0
-213298,2020-06-06,Pendleton,Kentucky,21191.0,14,0.0
-215218,2020-06-06,Pendleton,West Virginia,54071.0,13,1.0
-216385,2020-06-07,Pendleton,Kentucky,21191.0,14,0.0
-218308,2020-06-07,Pendleton,West Virginia,54071.0,13,1.0
-219477,2020-06-08,Pendleton,Kentucky,21191.0,14,0.0
-221400,2020-06-08,Pendleton,West Virginia,54071.0,13,1.0
-222572,2020-06-09,Pendleton,Kentucky,21191.0,14,0.0
-224496,2020-06-09,Pendleton,West Virginia,54071.0,13,1.0
-225668,2020-06-10,Pendleton,Kentucky,21191.0,14,0.0
-227596,2020-06-10,Pendleton,West Virginia,54071.0,13,1.0
-228770,2020-06-11,Pendleton,Kentucky,21191.0,14,0.0
-230700,2020-06-11,Pendleton,West Virginia,54071.0,13,1.0
-231874,2020-06-12,Pendleton,Kentucky,21191.0,14,0.0
-233805,2020-06-12,Pendleton,West Virginia,54071.0,13,1.0
-234979,2020-06-13,Pendleton,Kentucky,21191.0,14,0.0
-236912,2020-06-13,Pendleton,West Virginia,54071.0,13,1.0
-238086,2020-06-14,Pendleton,Kentucky,21191.0,14,0.0
-240020,2020-06-14,Pendleton,West Virginia,54071.0,13,1.0
-241195,2020-06-15,Pendleton,Kentucky,21191.0,14,0.0
-243131,2020-06-15,Pendleton,West Virginia,54071.0,13,1.0
-244306,2020-06-16,Pendleton,Kentucky,21191.0,14,0.0
-246244,2020-06-16,Pendleton,West Virginia,54071.0,13,1.0
-247419,2020-06-17,Pendleton,Kentucky,21191.0,14,0.0
-249356,2020-06-17,Pendleton,West Virginia,54071.0,13,1.0
-250531,2020-06-18,Pendleton,Kentucky,21191.0,14,0.0
-252471,2020-06-18,Pendleton,West Virginia,54071.0,13,1.0
-253646,2020-06-19,Pendleton,Kentucky,21191.0,14,0.0
-255590,2020-06-19,Pendleton,West Virginia,54071.0,13,1.0
-256766,2020-06-20,Pendleton,Kentucky,21191.0,14,0.0
-258717,2020-06-20,Pendleton,West Virginia,54071.0,13,1.0
-259892,2020-06-21,Pendleton,Kentucky,21191.0,14,0.0
-261844,2020-06-21,Pendleton,West Virginia,54071.0,13,1.0
-263021,2020-06-22,Pendleton,Kentucky,21191.0,14,0.0
-264973,2020-06-22,Pendleton,West Virginia,54071.0,13,1.0
-266148,2020-06-23,Pendleton,Kentucky,21191.0,15,0.0
-268102,2020-06-23,Pendleton,West Virginia,54071.0,13,1.0
-269281,2020-06-24,Pendleton,Kentucky,21191.0,15,0.0
-271236,2020-06-24,Pendleton,West Virginia,54071.0,13,1.0
-272417,2020-06-25,Pendleton,Kentucky,21191.0,15,0.0
-274376,2020-06-25,Pendleton,West Virginia,54071.0,13,1.0
-275560,2020-06-26,Pendleton,Kentucky,21191.0,15,0.0
-277524,2020-06-26,Pendleton,West Virginia,54071.0,13,1.0
-278708,2020-06-27,Pendleton,Kentucky,21191.0,15,0.0
-280672,2020-06-27,Pendleton,West Virginia,54071.0,13,1.0
-281856,2020-06-28,Pendleton,Kentucky,21191.0,16,0.0
-283818,2020-06-28,Pendleton,West Virginia,54071.0,13,1.0
-285002,2020-06-29,Pendleton,Kentucky,21191.0,16,0.0
-286964,2020-06-29,Pendleton,West Virginia,54071.0,13,1.0
-288151,2020-06-30,Pendleton,Kentucky,21191.0,17,0.0
-290114,2020-06-30,Pendleton,West Virginia,54071.0,13,1.0
-291301,2020-07-01,Pendleton,Kentucky,21191.0,17,0.0
-293267,2020-07-01,Pendleton,West Virginia,54071.0,13,1.0
-294455,2020-07-02,Pendleton,Kentucky,21191.0,17,0.0
-296422,2020-07-02,Pendleton,West Virginia,54071.0,13,1.0
-297613,2020-07-03,Pendleton,Kentucky,21191.0,19,0.0
-299584,2020-07-03,Pendleton,West Virginia,54071.0,13,1.0
-300775,2020-07-04,Pendleton,Kentucky,21191.0,19,0.0
-302748,2020-07-04,Pendleton,West Virginia,54071.0,13,1.0
-303939,2020-07-05,Pendleton,Kentucky,21191.0,19,0.0
-305912,2020-07-05,Pendleton,West Virginia,54071.0,14,1.0
-307106,2020-07-06,Pendleton,Kentucky,21191.0,20,0.0
-309080,2020-07-06,Pendleton,West Virginia,54071.0,14,1.0
-310274,2020-07-07,Pendleton,Kentucky,21191.0,21,0.0
-312249,2020-07-07,Pendleton,West Virginia,54071.0,14,1.0
-313444,2020-07-08,Pendleton,Kentucky,21191.0,21,0.0
-315424,2020-07-08,Pendleton,West Virginia,54071.0,14,1.0
-316618,2020-07-09,Pendleton,Kentucky,21191.0,21,0.0
-318597,2020-07-09,Pendleton,West Virginia,54071.0,14,1.0
-319793,2020-07-10,Pendleton,Kentucky,21191.0,22,0.0
-321776,2020-07-10,Pendleton,West Virginia,54071.0,16,1.0
-322972,2020-07-11,Pendleton,Kentucky,21191.0,22,0.0
-324957,2020-07-11,Pendleton,West Virginia,54071.0,16,1.0
-326155,2020-07-12,Pendleton,Kentucky,21191.0,22,0.0
-328143,2020-07-12,Pendleton,West Virginia,54071.0,16,1.0
-329341,2020-07-13,Pendleton,Kentucky,21191.0,22,0.0
-331329,2020-07-13,Pendleton,West Virginia,54071.0,16,1.0
-332528,2020-07-14,Pendleton,Kentucky,21191.0,23,0.0
-334522,2020-07-14,Pendleton,West Virginia,54071.0,17,1.0
-335721,2020-07-15,Pendleton,Kentucky,21191.0,23,0.0
-337717,2020-07-15,Pendleton,West Virginia,54071.0,18,1.0
-338917,2020-07-16,Pendleton,Kentucky,21191.0,24,0.0
-340913,2020-07-16,Pendleton,West Virginia,54071.0,18,1.0
-342113,2020-07-17,Pendleton,Kentucky,21191.0,25,0.0
-344112,2020-07-17,Pendleton,West Virginia,54071.0,19,1.0
-345313,2020-07-18,Pendleton,Kentucky,21191.0,26,0.0
-347312,2020-07-18,Pendleton,West Virginia,54071.0,20,1.0
-348514,2020-07-19,Pendleton,Kentucky,21191.0,28,0.0
-350513,2020-07-19,Pendleton,West Virginia,54071.0,20,1.0
-351714,2020-07-20,Pendleton,Kentucky,21191.0,28,0.0
-353715,2020-07-20,Pendleton,West Virginia,54071.0,20,1.0
-354916,2020-07-21,Pendleton,Kentucky,21191.0,28,0.0
-356918,2020-07-21,Pendleton,West Virginia,54071.0,20,1.0
-358119,2020-07-22,Pendleton,Kentucky,21191.0,28,0.0
-360123,2020-07-22,Pendleton,West Virginia,54071.0,25,1.0
-361324,2020-07-23,Pendleton,Kentucky,21191.0,28,0.0
-363329,2020-07-23,Pendleton,West Virginia,54071.0,26,1.0
-364531,2020-07-24,Pendleton,Kentucky,21191.0,29,0.0
-366536,2020-07-24,Pendleton,West Virginia,54071.0,28,1.0
-367738,2020-07-25,Pendleton,Kentucky,21191.0,30,0.0
-369746,2020-07-25,Pendleton,West Virginia,54071.0,28,1.0
-370948,2020-07-26,Pendleton,Kentucky,21191.0,32,0.0
-372958,2020-07-26,Pendleton,West Virginia,54071.0,28,1.0
-374160,2020-07-27,Pendleton,Kentucky,21191.0,32,0.0
-376172,2020-07-27,Pendleton,West Virginia,54071.0,28,1.0
-377375,2020-07-28,Pendleton,Kentucky,21191.0,32,0.0
-379388,2020-07-28,Pendleton,West Virginia,54071.0,31,1.0
-380592,2020-07-29,Pendleton,Kentucky,21191.0,32,0.0
-382605,2020-07-29,Pendleton,West Virginia,54071.0,36,1.0
-383809,2020-07-30,Pendleton,Kentucky,21191.0,33,0.0
-385823,2020-07-30,Pendleton,West Virginia,54071.0,37,1.0
-387027,2020-07-31,Pendleton,Kentucky,21191.0,34,0.0
-389040,2020-07-31,Pendleton,West Virginia,54071.0,37,1.0
-390244,2020-08-01,Pendleton,Kentucky,21191.0,36,0.0
-392257,2020-08-01,Pendleton,West Virginia,54071.0,37,1.0
-393461,2020-08-02,Pendleton,Kentucky,21191.0,36,0.0
-395473,2020-08-02,Pendleton,West Virginia,54071.0,37,1.0
-396677,2020-08-03,Pendleton,Kentucky,21191.0,36,0.0
-398689,2020-08-03,Pendleton,West Virginia,54071.0,38,1.0
-399892,2020-08-04,Pendleton,Kentucky,21191.0,36,0.0
-401905,2020-08-04,Pendleton,West Virginia,54071.0,41,1.0
-403109,2020-08-05,Pendleton,Kentucky,21191.0,41,0.0
-405123,2020-08-05,Pendleton,West Virginia,54071.0,42,1.0
-406327,2020-08-06,Pendleton,Kentucky,21191.0,43,0.0
-408343,2020-08-06,Pendleton,West Virginia,54071.0,58,1.0
-409547,2020-08-07,Pendleton,Kentucky,21191.0,45,0.0
-411562,2020-08-07,Pendleton,West Virginia,54071.0,40,1.0
-412767,2020-08-08,Pendleton,Kentucky,21191.0,45,0.0
-414782,2020-08-08,Pendleton,West Virginia,54071.0,39,1.0
-415987,2020-08-09,Pendleton,Kentucky,21191.0,44,0.0
-418003,2020-08-09,Pendleton,West Virginia,54071.0,40,1.0
-419208,2020-08-10,Pendleton,Kentucky,21191.0,44,0.0
-421224,2020-08-10,Pendleton,West Virginia,54071.0,41,1.0
-422430,2020-08-11,Pendleton,Kentucky,21191.0,46,0.0
-424445,2020-08-11,Pendleton,West Virginia,54071.0,42,1.0
-425651,2020-08-12,Pendleton,Kentucky,21191.0,47,0.0
-427669,2020-08-12,Pendleton,West Virginia,54071.0,42,1.0
-428875,2020-08-13,Pendleton,Kentucky,21191.0,48,0.0
-430897,2020-08-13,Pendleton,West Virginia,54071.0,42,1.0
-432103,2020-08-14,Pendleton,Kentucky,21191.0,50,0.0
-434122,2020-08-14,Pendleton,West Virginia,54071.0,42,1.0
-435328,2020-08-15,Pendleton,Kentucky,21191.0,51,0.0
-437348,2020-08-15,Pendleton,West Virginia,54071.0,42,1.0
-438553,2020-08-16,Pendleton,Kentucky,21191.0,51,0.0
-440574,2020-08-16,Pendleton,West Virginia,54071.0,43,1.0
-441780,2020-08-17,Pendleton,Kentucky,21191.0,51,0.0
-443800,2020-08-17,Pendleton,West Virginia,54071.0,43,1.0
-445006,2020-08-18,Pendleton,Kentucky,21191.0,52,0.0
-447027,2020-08-18,Pendleton,West Virginia,54071.0,43,1.0
-448233,2020-08-19,Pendleton,Kentucky,21191.0,52,0.0
-450255,2020-08-19,Pendleton,West Virginia,54071.0,47,1.0
-451461,2020-08-20,Pendleton,Kentucky,21191.0,56,0.0
-453483,2020-08-20,Pendleton,West Virginia,54071.0,47,1.0
-454689,2020-08-21,Pendleton,Kentucky,21191.0,55,0.0
-456711,2020-08-21,Pendleton,West Virginia,54071.0,47,1.0
-457917,2020-08-22,Pendleton,Kentucky,21191.0,58,0.0
-459938,2020-08-22,Pendleton,West Virginia,54071.0,48,1.0
-461144,2020-08-23,Pendleton,Kentucky,21191.0,58,0.0
-463167,2020-08-23,Pendleton,West Virginia,54071.0,48,1.0
-464375,2020-08-24,Pendleton,Kentucky,21191.0,59,0.0
-466396,2020-08-24,Pendleton,West Virginia,54071.0,48,1.0
-467604,2020-08-25,Pendleton,Kentucky,21191.0,62,0.0
-469625,2020-08-25,Pendleton,West Virginia,54071.0,48,1.0
-470833,2020-08-26,Pendleton,Kentucky,21191.0,62,0.0
-472857,2020-08-26,Pendleton,West Virginia,54071.0,44,1.0
-474065,2020-08-27,Pendleton,Kentucky,21191.0,64,0.0
-476090,2020-08-27,Pendleton,West Virginia,54071.0,44,1.0
-477298,2020-08-28,Pendleton,Kentucky,21191.0,63,0.0
-479323,2020-08-28,Pendleton,West Virginia,54071.0,44,1.0
-480531,2020-08-29,Pendleton,Kentucky,21191.0,63,0.0
-482557,2020-08-29,Pendleton,West Virginia,54071.0,44,1.0
-483765,2020-08-30,Pendleton,Kentucky,21191.0,63,0.0
-485792,2020-08-30,Pendleton,West Virginia,54071.0,44,1.0
-487000,2020-08-31,Pendleton,Kentucky,21191.0,63,0.0
-489025,2020-08-31,Pendleton,West Virginia,54071.0,44,1.0
-490233,2020-09-01,Pendleton,Kentucky,21191.0,64,0.0
-492258,2020-09-01,Pendleton,West Virginia,54071.0,45,1.0
-493467,2020-09-02,Pendleton,Kentucky,21191.0,65,0.0
-495492,2020-09-02,Pendleton,West Virginia,54071.0,45,1.0
-496700,2020-09-03,Pendleton,Kentucky,21191.0,66,0.0
-498725,2020-09-03,Pendleton,West Virginia,54071.0,45,1.0
-499934,2020-09-04,Pendleton,Kentucky,21191.0,65,0.0
-501959,2020-09-04,Pendleton,West Virginia,54071.0,45,1.0
-503167,2020-09-05,Pendleton,Kentucky,21191.0,69,0.0
-505193,2020-09-05,Pendleton,West Virginia,54071.0,45,1.0
-506401,2020-09-06,Pendleton,Kentucky,21191.0,69,0.0
-508425,2020-09-06,Pendleton,West Virginia,54071.0,45,1.0
-509634,2020-09-07,Pendleton,Kentucky,21191.0,69,0.0
-511658,2020-09-07,Pendleton,West Virginia,54071.0,45,1.0
-512866,2020-09-08,Pendleton,Kentucky,21191.0,69,0.0
-514891,2020-09-08,Pendleton,West Virginia,54071.0,45,1.0
-516099,2020-09-09,Pendleton,Kentucky,21191.0,74,0.0
-518126,2020-09-09,Pendleton,West Virginia,54071.0,45,1.0
-519334,2020-09-10,Pendleton,Kentucky,21191.0,74,0.0
-521363,2020-09-10,Pendleton,West Virginia,54071.0,46,1.0
-522571,2020-09-11,Pendleton,Kentucky,21191.0,76,0.0
-524599,2020-09-11,Pendleton,West Virginia,54071.0,45,1.0
-525807,2020-09-12,Pendleton,Kentucky,21191.0,78,0.0
-527835,2020-09-12,Pendleton,West Virginia,54071.0,46,1.0
-529043,2020-09-13,Pendleton,Kentucky,21191.0,83,0.0
-531072,2020-09-13,Pendleton,West Virginia,54071.0,46,1.0
-532280,2020-09-14,Pendleton,Kentucky,21191.0,88,0.0
-534307,2020-09-14,Pendleton,West Virginia,54071.0,46,1.0
-535515,2020-09-15,Pendleton,Kentucky,21191.0,88,0.0
-537543,2020-09-15,Pendleton,West Virginia,54071.0,47,1.0
-538752,2020-09-16,Pendleton,Kentucky,21191.0,88,0.0
-540780,2020-09-16,Pendleton,West Virginia,54071.0,48,1.0
-541988,2020-09-17,Pendleton,Kentucky,21191.0,88,0.0
-544016,2020-09-17,Pendleton,West Virginia,54071.0,51,1.0
-545224,2020-09-18,Pendleton,Kentucky,21191.0,89,0.0
-547253,2020-09-18,Pendleton,West Virginia,54071.0,51,1.0
-548462,2020-09-19,Pendleton,Kentucky,21191.0,92,0.0
-550492,2020-09-19,Pendleton,West Virginia,54071.0,52,1.0
-551701,2020-09-20,Pendleton,Kentucky,21191.0,92,0.0
-553731,2020-09-20,Pendleton,West Virginia,54071.0,52,1.0
-554940,2020-09-21,Pendleton,Kentucky,21191.0,92,0.0
-556968,2020-09-21,Pendleton,West Virginia,54071.0,52,1.0
-558177,2020-09-22,Pendleton,Kentucky,21191.0,92,0.0
-560204,2020-09-22,Pendleton,West Virginia,54071.0,52,1.0
-561413,2020-09-23,Pendleton,Kentucky,21191.0,92,0.0
-563443,2020-09-23,Pendleton,West Virginia,54071.0,52,1.0
-564653,2020-09-24,Pendleton,Kentucky,21191.0,95,0.0
-566684,2020-09-24,Pendleton,West Virginia,54071.0,52,1.0
-567893,2020-09-25,Pendleton,Kentucky,21191.0,99,0.0
-569925,2020-09-25,Pendleton,West Virginia,54071.0,52,1.0
-571135,2020-09-26,Pendleton,Kentucky,21191.0,101,0.0
-573167,2020-09-26,Pendleton,West Virginia,54071.0,53,1.0
-574378,2020-09-27,Pendleton,Kentucky,21191.0,102,0.0
-576411,2020-09-27,Pendleton,West Virginia,54071.0,53,1.0
-577620,2020-09-28,Pendleton,Kentucky,21191.0,102,0.0
-579652,2020-09-28,Pendleton,West Virginia,54071.0,53,1.0
-580861,2020-09-29,Pendleton,Kentucky,21191.0,102,0.0
-582891,2020-09-29,Pendleton,West Virginia,54071.0,53,1.0
-584101,2020-09-30,Pendleton,Kentucky,21191.0,102,0.0
-586131,2020-09-30,Pendleton,West Virginia,54071.0,53,1.0
-587341,2020-10-01,Pendleton,Kentucky,21191.0,102,0.0
-589372,2020-10-01,Pendleton,West Virginia,54071.0,53,1.0
-590582,2020-10-02,Pendleton,Kentucky,21191.0,103,0.0
-592612,2020-10-02,Pendleton,West Virginia,54071.0,53,1.0
-593823,2020-10-03,Pendleton,Kentucky,21191.0,100,0.0
-595854,2020-10-03,Pendleton,West Virginia,54071.0,53,1.0
-597065,2020-10-04,Pendleton,Kentucky,21191.0,100,0.0
-599097,2020-10-04,Pendleton,West Virginia,54071.0,53,1.0
-600307,2020-10-05,Pendleton,Kentucky,21191.0,100,0.0
-602340,2020-10-05,Pendleton,West Virginia,54071.0,53,1.0
-603550,2020-10-06,Pendleton,Kentucky,21191.0,102,0.0
-605582,2020-10-06,Pendleton,West Virginia,54071.0,53,1.0
-606792,2020-10-07,Pendleton,Kentucky,21191.0,103,0.0
-608825,2020-10-07,Pendleton,West Virginia,54071.0,54,1.0
-610034,2020-10-08,Pendleton,Kentucky,21191.0,103,0.0
-612067,2020-10-08,Pendleton,West Virginia,54071.0,54,1.0
-613276,2020-10-09,Pendleton,Kentucky,21191.0,103,0.0
-615308,2020-10-09,Pendleton,West Virginia,54071.0,55,1.0
-616517,2020-10-10,Pendleton,Kentucky,21191.0,104,0.0
-618550,2020-10-10,Pendleton,West Virginia,54071.0,56,1.0
-619759,2020-10-11,Pendleton,Kentucky,21191.0,104,0.0
-621793,2020-10-11,Pendleton,West Virginia,54071.0,57,1.0
-623003,2020-10-12,Pendleton,Kentucky,21191.0,106,0.0
-625036,2020-10-12,Pendleton,West Virginia,54071.0,57,1.0
-626245,2020-10-13,Pendleton,Kentucky,21191.0,106,0.0
-628279,2020-10-13,Pendleton,West Virginia,54071.0,59,1.0
-629489,2020-10-14,Pendleton,Kentucky,21191.0,108,0.0
-631523,2020-10-14,Pendleton,West Virginia,54071.0,62,1.0
-632733,2020-10-15,Pendleton,Kentucky,21191.0,109,0.0
-634768,2020-10-15,Pendleton,West Virginia,54071.0,63,1.0
-635979,2020-10-16,Pendleton,Kentucky,21191.0,109,0.0
-638013,2020-10-16,Pendleton,West Virginia,54071.0,65,1.0
-639225,2020-10-17,Pendleton,Kentucky,21191.0,109,0.0
-641260,2020-10-17,Pendleton,West Virginia,54071.0,65,1.0
-642472,2020-10-18,Pendleton,Kentucky,21191.0,109,0.0
-644508,2020-10-18,Pendleton,West Virginia,54071.0,68,1.0
-645719,2020-10-19,Pendleton,Kentucky,21191.0,110,0.0
-647754,2020-10-19,Pendleton,West Virginia,54071.0,70,1.0
-648963,2020-10-20,Pendleton,Kentucky,21191.0,111,0.0
-650998,2020-10-20,Pendleton,West Virginia,54071.0,72,1.0
-652208,2020-10-21,Pendleton,Kentucky,21191.0,112,0.0
-654243,2020-10-21,Pendleton,West Virginia,54071.0,73,1.0
-655453,2020-10-22,Pendleton,Kentucky,21191.0,113,0.0
-657488,2020-10-22,Pendleton,West Virginia,54071.0,73,1.0
-658698,2020-10-23,Pendleton,Kentucky,21191.0,113,0.0
-660732,2020-10-23,Pendleton,West Virginia,54071.0,75,1.0
-661942,2020-10-24,Pendleton,Kentucky,21191.0,121,0.0
-663976,2020-10-24,Pendleton,West Virginia,54071.0,74,1.0
-665187,2020-10-25,Pendleton,Kentucky,21191.0,123,0.0
-667221,2020-10-25,Pendleton,West Virginia,54071.0,74,1.0
-668431,2020-10-26,Pendleton,Kentucky,21191.0,123,0.0
-670464,2020-10-26,Pendleton,West Virginia,54071.0,74,1.0
-671673,2020-10-27,Pendleton,Kentucky,21191.0,126,0.0
-673706,2020-10-27,Pendleton,West Virginia,54071.0,74,1.0
-674916,2020-10-28,Pendleton,Kentucky,21191.0,131,0.0
-676949,2020-10-28,Pendleton,West Virginia,54071.0,76,1.0
-678158,2020-10-29,Pendleton,Kentucky,21191.0,132,0.0
-680192,2020-10-29,Pendleton,West Virginia,54071.0,77,1.0
-681402,2020-10-30,Pendleton,Kentucky,21191.0,133,0.0
-683435,2020-10-30,Pendleton,West Virginia,54071.0,77,1.0
-684645,2020-10-31,Pendleton,Kentucky,21191.0,140,0.0
-686678,2020-10-31,Pendleton,West Virginia,54071.0,77,1.0
-687889,2020-11-01,Pendleton,Kentucky,21191.0,142,0.0
-689923,2020-11-01,Pendleton,West Virginia,54071.0,79,1.0
-691134,2020-11-02,Pendleton,Kentucky,21191.0,141,0.0
-693167,2020-11-02,Pendleton,West Virginia,54071.0,79,1.0
-694376,2020-11-03,Pendleton,Kentucky,21191.0,145,0.0
-696409,2020-11-03,Pendleton,West Virginia,54071.0,79,1.0
-697619,2020-11-04,Pendleton,Kentucky,21191.0,147,0.0
-699653,2020-11-04,Pendleton,West Virginia,54071.0,79,1.0
-700863,2020-11-05,Pendleton,Kentucky,21191.0,150,0.0
-702896,2020-11-05,Pendleton,West Virginia,54071.0,79,1.0
-704105,2020-11-06,Pendleton,Kentucky,21191.0,154,0.0
-706139,2020-11-06,Pendleton,West Virginia,54071.0,79,1.0
-707348,2020-11-07,Pendleton,Kentucky,21191.0,164,0.0
-709383,2020-11-07,Pendleton,West Virginia,54071.0,79,1.0
-710592,2020-11-08,Pendleton,Kentucky,21191.0,171,0.0
-712627,2020-11-08,Pendleton,West Virginia,54071.0,80,1.0
-713836,2020-11-09,Pendleton,Kentucky,21191.0,173,1.0
-715871,2020-11-09,Pendleton,West Virginia,54071.0,80,1.0
-717080,2020-11-10,Pendleton,Kentucky,21191.0,177,1.0
-719114,2020-11-10,Pendleton,West Virginia,54071.0,80,1.0
-720323,2020-11-11,Pendleton,Kentucky,21191.0,187,1.0
-722357,2020-11-11,Pendleton,West Virginia,54071.0,80,1.0
-723566,2020-11-12,Pendleton,Kentucky,21191.0,196,1.0
-725600,2020-11-12,Pendleton,West Virginia,54071.0,80,1.0
-726809,2020-11-13,Pendleton,Kentucky,21191.0,215,1.0
-728843,2020-11-13,Pendleton,West Virginia,54071.0,80,1.0
-730052,2020-11-14,Pendleton,Kentucky,21191.0,217,1.0
-732088,2020-11-14,Pendleton,West Virginia,54071.0,83,1.0
-733297,2020-11-15,Pendleton,Kentucky,21191.0,220,1.0
-735334,2020-11-15,Pendleton,West Virginia,54071.0,84,1.0
-736543,2020-11-16,Pendleton,Kentucky,21191.0,224,1.0
-738578,2020-11-16,Pendleton,West Virginia,54071.0,86,1.0
-739787,2020-11-17,Pendleton,Kentucky,21191.0,235,1.0
-741825,2020-11-17,Pendleton,West Virginia,54071.0,86,1.0
-743034,2020-11-18,Pendleton,Kentucky,21191.0,249,1.0
-745072,2020-11-18,Pendleton,West Virginia,54071.0,88,1.0
-746281,2020-11-19,Pendleton,Kentucky,21191.0,261,1.0
-748318,2020-11-19,Pendleton,West Virginia,54071.0,88,1.0
-749527,2020-11-20,Pendleton,Kentucky,21191.0,273,1.0
-751564,2020-11-20,Pendleton,West Virginia,54071.0,90,1.0
-752773,2020-11-21,Pendleton,Kentucky,21191.0,297,1.0
-754810,2020-11-21,Pendleton,West Virginia,54071.0,93,1.0
-756019,2020-11-22,Pendleton,Kentucky,21191.0,301,1.0
-758057,2020-11-22,Pendleton,West Virginia,54071.0,96,1.0
-759266,2020-11-23,Pendleton,Kentucky,21191.0,310,1.0
-761302,2020-11-23,Pendleton,West Virginia,54071.0,97,1.0
-762511,2020-11-24,Pendleton,Kentucky,21191.0,328,1.0
-764547,2020-11-24,Pendleton,West Virginia,54071.0,100,1.0
-765756,2020-11-25,Pendleton,Kentucky,21191.0,346,1.0
-767792,2020-11-25,Pendleton,West Virginia,54071.0,101,1.0
-769002,2020-11-26,Pendleton,Kentucky,21191.0,346,1.0
-771038,2020-11-26,Pendleton,West Virginia,54071.0,102,1.0
-772247,2020-11-27,Pendleton,Kentucky,21191.0,359,1.0
-774283,2020-11-27,Pendleton,West Virginia,54071.0,103,1.0
-775492,2020-11-28,Pendleton,Kentucky,21191.0,363,1.0
-777528,2020-11-28,Pendleton,West Virginia,54071.0,103,1.0
-778737,2020-11-29,Pendleton,Kentucky,21191.0,372,1.0
-780774,2020-11-29,Pendleton,West Virginia,54071.0,104,1.0
-781983,2020-11-30,Pendleton,Kentucky,21191.0,377,1.0
-784019,2020-11-30,Pendleton,West Virginia,54071.0,105,1.0
-785228,2020-12-01,Pendleton,Kentucky,21191.0,391,1.0
-787263,2020-12-01,Pendleton,West Virginia,54071.0,109,1.0
-788472,2020-12-02,Pendleton,Kentucky,21191.0,405,1.0
-790508,2020-12-02,Pendleton,West Virginia,54071.0,111,1.0
-791717,2020-12-03,Pendleton,Kentucky,21191.0,412,1.0
-793753,2020-12-03,Pendleton,West Virginia,54071.0,115,1.0
-794962,2020-12-04,Pendleton,Kentucky,21191.0,429,1.0
-796998,2020-12-04,Pendleton,West Virginia,54071.0,121,1.0
-798207,2020-12-05,Pendleton,Kentucky,21191.0,448,1.0
-800243,2020-12-05,Pendleton,West Virginia,54071.0,125,1.0
-801452,2020-12-06,Pendleton,Kentucky,21191.0,457,1.0
-803488,2020-12-06,Pendleton,West Virginia,54071.0,130,1.0
-804697,2020-12-07,Pendleton,Kentucky,21191.0,460,1.0
-806733,2020-12-07,Pendleton,West Virginia,54071.0,137,1.0
-807942,2020-12-08,Pendleton,Kentucky,21191.0,469,1.0
-809978,2020-12-08,Pendleton,West Virginia,54071.0,139,1.0
-811187,2020-12-09,Pendleton,Kentucky,21191.0,477,1.0
-813222,2020-12-09,Pendleton,West Virginia,54071.0,147,1.0
-814432,2020-12-10,Pendleton,Kentucky,21191.0,498,1.0
-816468,2020-12-10,Pendleton,West Virginia,54071.0,153,1.0
-817678,2020-12-11,Pendleton,Kentucky,21191.0,506,1.0
-819714,2020-12-11,Pendleton,West Virginia,54071.0,161,1.0
-820924,2020-12-12,Pendleton,Kentucky,21191.0,508,1.0
-822960,2020-12-12,Pendleton,West Virginia,54071.0,165,1.0
-824170,2020-12-13,Pendleton,Kentucky,21191.0,510,1.0
-826207,2020-12-13,Pendleton,West Virginia,54071.0,173,1.0
-827417,2020-12-14,Pendleton,Kentucky,21191.0,513,1.0
-829453,2020-12-14,Pendleton,West Virginia,54071.0,182,1.0
-830663,2020-12-15,Pendleton,Kentucky,21191.0,525,1.0
-832700,2020-12-15,Pendleton,West Virginia,54071.0,188,1.0
-833910,2020-12-16,Pendleton,Kentucky,21191.0,531,1.0
-835946,2020-12-16,Pendleton,West Virginia,54071.0,193,1.0
-837156,2020-12-17,Pendleton,Kentucky,21191.0,543,1.0
-839191,2020-12-17,Pendleton,West Virginia,54071.0,202,1.0
-840401,2020-12-18,Pendleton,Kentucky,21191.0,553,1.0
-842436,2020-12-18,Pendleton,West Virginia,54071.0,209,1.0
-843646,2020-12-19,Pendleton,Kentucky,21191.0,563,1.0
-845682,2020-12-19,Pendleton,West Virginia,54071.0,214,1.0
-846892,2020-12-20,Pendleton,Kentucky,21191.0,564,1.0
-848927,2020-12-20,Pendleton,West Virginia,54071.0,221,1.0
-850137,2020-12-21,Pendleton,Kentucky,21191.0,569,1.0
-852172,2020-12-21,Pendleton,West Virginia,54071.0,225,1.0
-853382,2020-12-22,Pendleton,Kentucky,21191.0,575,1.0
-855417,2020-12-22,Pendleton,West Virginia,54071.0,235,1.0
-856627,2020-12-23,Pendleton,Kentucky,21191.0,580,1.0
-858662,2020-12-23,Pendleton,West Virginia,54071.0,241,1.0
-859872,2020-12-24,Pendleton,Kentucky,21191.0,580,1.0
-861907,2020-12-24,Pendleton,West Virginia,54071.0,253,1.0
-863117,2020-12-25,Pendleton,Kentucky,21191.0,580,1.0
-865152,2020-12-25,Pendleton,West Virginia,54071.0,262,1.0
-866362,2020-12-26,Pendleton,Kentucky,21191.0,585,1.0
-868397,2020-12-26,Pendleton,West Virginia,54071.0,268,1.0
-869607,2020-12-27,Pendleton,Kentucky,21191.0,585,1.0
-871642,2020-12-27,Pendleton,West Virginia,54071.0,274,1.0
-872852,2020-12-28,Pendleton,Kentucky,21191.0,593,1.0
-874887,2020-12-28,Pendleton,West Virginia,54071.0,276,1.0
-876097,2020-12-29,Pendleton,Kentucky,21191.0,604,1.0
-878132,2020-12-29,Pendleton,West Virginia,54071.0,283,2.0
-879342,2020-12-30,Pendleton,Kentucky,21191.0,612,1.0
-881377,2020-12-30,Pendleton,West Virginia,54071.0,284,2.0
-882587,2020-12-31,Pendleton,Kentucky,21191.0,612,1.0
-884622,2020-12-31,Pendleton,West Virginia,54071.0,293,2.0
-885832,2021-01-01,Pendleton,Kentucky,21191.0,612,1.0
-887867,2021-01-01,Pendleton,West Virginia,54071.0,313,2.0
-889078,2021-01-02,Pendleton,Kentucky,21191.0,615,1.0
-891114,2021-01-02,Pendleton,West Virginia,54071.0,318,2.0
-892324,2021-01-03,Pendleton,Kentucky,21191.0,619,1.0
-894360,2021-01-03,Pendleton,West Virginia,54071.0,328,2.0
-895571,2021-01-04,Pendleton,Kentucky,21191.0,623,1.0
-897606,2021-01-04,Pendleton,West Virginia,54071.0,331,2.0
-898816,2021-01-05,Pendleton,Kentucky,21191.0,628,1.0
-900851,2021-01-05,Pendleton,West Virginia,54071.0,344,2.0
-902061,2021-01-06,Pendleton,Kentucky,21191.0,642,1.0
-904096,2021-01-06,Pendleton,West Virginia,54071.0,351,2.0
-905306,2021-01-07,Pendleton,Kentucky,21191.0,651,1.0
-907342,2021-01-07,Pendleton,West Virginia,54071.0,365,2.0
-908552,2021-01-08,Pendleton,Kentucky,21191.0,662,1.0
-910587,2021-01-08,Pendleton,West Virginia,54071.0,384,2.0
-911797,2021-01-09,Pendleton,Kentucky,21191.0,672,1.0
-913832,2021-01-09,Pendleton,West Virginia,54071.0,388,2.0
-915042,2021-01-10,Pendleton,Kentucky,21191.0,674,1.0
-917077,2021-01-10,Pendleton,West Virginia,54071.0,392,2.0
-918287,2021-01-11,Pendleton,Kentucky,21191.0,675,1.0
-920322,2021-01-11,Pendleton,West Virginia,54071.0,405,2.0
-921532,2021-01-12,Pendleton,Kentucky,21191.0,695,1.0
-923567,2021-01-12,Pendleton,West Virginia,54071.0,410,2.0
-924777,2021-01-13,Pendleton,Kentucky,21191.0,705,1.0
-926813,2021-01-13,Pendleton,West Virginia,54071.0,413,3.0
-928023,2021-01-14,Pendleton,Kentucky,21191.0,717,1.0
-930058,2021-01-14,Pendleton,West Virginia,54071.0,418,3.0
-931268,2021-01-15,Pendleton,Kentucky,21191.0,730,1.0
-933303,2021-01-15,Pendleton,West Virginia,54071.0,430,3.0
-934513,2021-01-16,Pendleton,Kentucky,21191.0,738,1.0
-936548,2021-01-16,Pendleton,West Virginia,54071.0,450,3.0
-937758,2021-01-17,Pendleton,Kentucky,21191.0,743,1.0
-939793,2021-01-17,Pendleton,West Virginia,54071.0,459,3.0
-941003,2021-01-18,Pendleton,Kentucky,21191.0,753,1.0
-943038,2021-01-18,Pendleton,West Virginia,54071.0,460,3.0
-944248,2021-01-19,Pendleton,Kentucky,21191.0,752,1.0
-946285,2021-01-19,Pendleton,West Virginia,54071.0,481,3.0
-947495,2021-01-20,Pendleton,Kentucky,21191.0,765,1.0
-949531,2021-01-20,Pendleton,West Virginia,54071.0,492,3.0
-950741,2021-01-21,Pendleton,Kentucky,21191.0,772,1.0
-952776,2021-01-21,Pendleton,West Virginia,54071.0,505,3.0
-953986,2021-01-22,Pendleton,Kentucky,21191.0,782,1.0
-956021,2021-01-22,Pendleton,West Virginia,54071.0,512,4.0
-957231,2021-01-23,Pendleton,Kentucky,21191.0,798,1.0
-959267,2021-01-23,Pendleton,West Virginia,54071.0,518,4.0
-960477,2021-01-24,Pendleton,Kentucky,21191.0,799,1.0
-962512,2021-01-24,Pendleton,West Virginia,54071.0,523,4.0
-963722,2021-01-25,Pendleton,Kentucky,21191.0,801,1.0
-965757,2021-01-25,Pendleton,West Virginia,54071.0,528,4.0
-966967,2021-01-26,Pendleton,Kentucky,21191.0,809,1.0
-969001,2021-01-26,Pendleton,West Virginia,54071.0,533,4.0
-970211,2021-01-27,Pendleton,Kentucky,21191.0,818,1.0
-972246,2021-01-27,Pendleton,West Virginia,54071.0,536,4.0
-973456,2021-01-28,Pendleton,Kentucky,21191.0,825,1.0
-975491,2021-01-28,Pendleton,West Virginia,54071.0,545,4.0
-976701,2021-01-29,Pendleton,Kentucky,21191.0,817,1.0
-978736,2021-01-29,Pendleton,West Virginia,54071.0,557,4.0
-979947,2021-01-30,Pendleton,Kentucky,21191.0,823,1.0
-981982,2021-01-30,Pendleton,West Virginia,54071.0,566,4.0
-983193,2021-01-31,Pendleton,Kentucky,21191.0,826,1.0
-985229,2021-01-31,Pendleton,West Virginia,54071.0,567,4.0
-986440,2021-02-01,Pendleton,Kentucky,21191.0,830,1.0
-988476,2021-02-01,Pendleton,West Virginia,54071.0,575,4.0
-989687,2021-02-02,Pendleton,Kentucky,21191.0,848,1.0
-991722,2021-02-02,Pendleton,West Virginia,54071.0,583,4.0
-992933,2021-02-03,Pendleton,Kentucky,21191.0,854,1.0
-994968,2021-02-03,Pendleton,West Virginia,54071.0,587,4.0
-996179,2021-02-04,Pendleton,Kentucky,21191.0,855,1.0
-998214,2021-02-04,Pendleton,West Virginia,54071.0,591,4.0
-999425,2021-02-05,Pendleton,Kentucky,21191.0,864,1.0
-1001460,2021-02-05,Pendleton,West Virginia,54071.0,595,4.0
-1002671,2021-02-06,Pendleton,Kentucky,21191.0,866,1.0
-1004706,2021-02-06,Pendleton,West Virginia,54071.0,598,4.0
-1005917,2021-02-07,Pendleton,Kentucky,21191.0,869,1.0
-1007952,2021-02-07,Pendleton,West Virginia,54071.0,598,4.0
-1009163,2021-02-08,Pendleton,Kentucky,21191.0,871,1.0
-1011198,2021-02-08,Pendleton,West Virginia,54071.0,601,4.0
-1012409,2021-02-09,Pendleton,Kentucky,21191.0,882,1.0
-1014443,2021-02-09,Pendleton,West Virginia,54071.0,602,5.0
-1015654,2021-02-10,Pendleton,Kentucky,21191.0,887,1.0
-1017688,2021-02-10,Pendleton,West Virginia,54071.0,602,5.0
-1018899,2021-02-11,Pendleton,Kentucky,21191.0,889,1.0
-1020933,2021-02-11,Pendleton,West Virginia,54071.0,604,5.0
-1022144,2021-02-12,Pendleton,Kentucky,21191.0,895,1.0
-1024178,2021-02-12,Pendleton,West Virginia,54071.0,607,5.0
-1025389,2021-02-13,Pendleton,Kentucky,21191.0,899,1.0
-1027423,2021-02-13,Pendleton,West Virginia,54071.0,607,5.0
-1028634,2021-02-14,Pendleton,Kentucky,21191.0,899,1.0
-1030670,2021-02-14,Pendleton,West Virginia,54071.0,609,5.0
-1031881,2021-02-15,Pendleton,Kentucky,21191.0,899,1.0
-1033916,2021-02-15,Pendleton,West Virginia,54071.0,610,5.0
-1035127,2021-02-16,Pendleton,Kentucky,21191.0,903,1.0
-1037161,2021-02-16,Pendleton,West Virginia,54071.0,613,5.0
-1038372,2021-02-17,Pendleton,Kentucky,21191.0,904,1.0
-1040406,2021-02-17,Pendleton,West Virginia,54071.0,613,5.0
-1041617,2021-02-18,Pendleton,Kentucky,21191.0,906,1.0
-1043651,2021-02-18,Pendleton,West Virginia,54071.0,615,5.0
-1044862,2021-02-19,Pendleton,Kentucky,21191.0,910,1.0
-1046896,2021-02-19,Pendleton,West Virginia,54071.0,617,5.0
-1048107,2021-02-20,Pendleton,Kentucky,21191.0,912,1.0
-1050143,2021-02-20,Pendleton,West Virginia,54071.0,617,5.0
-1051354,2021-02-21,Pendleton,Kentucky,21191.0,914,1.0
-1053390,2021-02-21,Pendleton,West Virginia,54071.0,617,5.0
-1054601,2021-02-22,Pendleton,Kentucky,21191.0,914,1.0
-1056636,2021-02-22,Pendleton,West Virginia,54071.0,617,5.0
-1057847,2021-02-23,Pendleton,Kentucky,21191.0,915,1.0
-1059882,2021-02-23,Pendleton,West Virginia,54071.0,617,5.0
-1061093,2021-02-24,Pendleton,Kentucky,21191.0,921,1.0
-1063127,2021-02-24,Pendleton,West Virginia,54071.0,618,5.0
-1064338,2021-02-25,Pendleton,Kentucky,21191.0,921,1.0
-1066372,2021-02-25,Pendleton,West Virginia,54071.0,618,5.0
-1067583,2021-02-26,Pendleton,Kentucky,21191.0,924,1.0
-1069617,2021-02-26,Pendleton,West Virginia,54071.0,619,5.0
-1070828,2021-02-27,Pendleton,Kentucky,21191.0,931,1.0
-1072863,2021-02-27,Pendleton,West Virginia,54071.0,619,5.0
-1074074,2021-02-28,Pendleton,Kentucky,21191.0,932,1.0
-1076109,2021-02-28,Pendleton,West Virginia,54071.0,619,5.0
-1077320,2021-03-01,Pendleton,Kentucky,21191.0,935,1.0
-1079354,2021-03-01,Pendleton,West Virginia,54071.0,619,5.0
-1080565,2021-03-02,Pendleton,Kentucky,21191.0,942,1.0
-1082600,2021-03-02,Pendleton,West Virginia,54071.0,621,5.0
-1083811,2021-03-03,Pendleton,Kentucky,21191.0,946,1.0
-1085846,2021-03-03,Pendleton,West Virginia,54071.0,621,5.0
-1087057,2021-03-04,Pendleton,Kentucky,21191.0,948,1.0
-1089091,2021-03-04,Pendleton,West Virginia,54071.0,622,5.0
-1090302,2021-03-05,Pendleton,Kentucky,21191.0,953,1.0
-1092337,2021-03-05,Pendleton,West Virginia,54071.0,622,5.0
-1093548,2021-03-06,Pendleton,Kentucky,21191.0,954,1.0
-1095583,2021-03-06,Pendleton,West Virginia,54071.0,622,5.0
-1096794,2021-03-07,Pendleton,Kentucky,21191.0,955,1.0
-1098831,2021-03-07,Pendleton,West Virginia,54071.0,620,5.0
-1100042,2021-03-08,Pendleton,Kentucky,21191.0,955,1.0
-1102077,2021-03-08,Pendleton,West Virginia,54071.0,620,5.0
-1103288,2021-03-09,Pendleton,Kentucky,21191.0,957,1.0
-1105323,2021-03-09,Pendleton,West Virginia,54071.0,621,5.0
-1106534,2021-03-10,Pendleton,Kentucky,21191.0,961,1.0
-1108569,2021-03-10,Pendleton,West Virginia,54071.0,622,5.0
-1109780,2021-03-11,Pendleton,Kentucky,21191.0,968,1.0
-1111815,2021-03-11,Pendleton,West Virginia,54071.0,622,5.0
-1113026,2021-03-12,Pendleton,Kentucky,21191.0,969,1.0
-1115061,2021-03-12,Pendleton,West Virginia,54071.0,623,7.0
-1116272,2021-03-13,Pendleton,Kentucky,21191.0,974,1.0
-1118308,2021-03-13,Pendleton,West Virginia,54071.0,623,7.0
-1119519,2021-03-14,Pendleton,Kentucky,21191.0,974,1.0
-1121555,2021-03-14,Pendleton,West Virginia,54071.0,624,7.0
-1122766,2021-03-15,Pendleton,Kentucky,21191.0,976,1.0
-1124801,2021-03-15,Pendleton,West Virginia,54071.0,624,7.0
-1126012,2021-03-16,Pendleton,Kentucky,21191.0,975,1.0
-1128047,2021-03-16,Pendleton,West Virginia,54071.0,625,7.0
-1129258,2021-03-17,Pendleton,Kentucky,21191.0,975,1.0
-1131294,2021-03-17,Pendleton,West Virginia,54071.0,628,7.0
-1132506,2021-03-18,Pendleton,Kentucky,21191.0,976,2.0
-1134542,2021-03-18,Pendleton,West Virginia,54071.0,630,7.0
-1135753,2021-03-19,Pendleton,Kentucky,21191.0,979,2.0
-1137788,2021-03-19,Pendleton,West Virginia,54071.0,631,7.0
-1138999,2021-03-20,Pendleton,Kentucky,21191.0,983,2.0
-1141034,2021-03-20,Pendleton,West Virginia,54071.0,634,7.0
-1142245,2021-03-21,Pendleton,Kentucky,21191.0,983,2.0
-1144281,2021-03-21,Pendleton,West Virginia,54071.0,635,7.0
-1145492,2021-03-22,Pendleton,Kentucky,21191.0,984,3.0
-1147528,2021-03-22,Pendleton,West Virginia,54071.0,635,7.0
-1148739,2021-03-23,Pendleton,Kentucky,21191.0,988,3.0
-1150775,2021-03-23,Pendleton,West Virginia,54071.0,641,7.0
-1151986,2021-03-24,Pendleton,Kentucky,21191.0,987,3.0
-1154022,2021-03-24,Pendleton,West Virginia,54071.0,643,7.0
-1155233,2021-03-25,Pendleton,Kentucky,21191.0,986,3.0
-1157269,2021-03-25,Pendleton,West Virginia,54071.0,647,7.0
-1158480,2021-03-26,Pendleton,Kentucky,21191.0,989,3.0
-1160517,2021-03-26,Pendleton,West Virginia,54071.0,651,7.0
-1161728,2021-03-27,Pendleton,Kentucky,21191.0,985,3.0
-1163765,2021-03-27,Pendleton,West Virginia,54071.0,652,7.0
-1164976,2021-03-28,Pendleton,Kentucky,21191.0,985,3.0
-1167013,2021-03-28,Pendleton,West Virginia,54071.0,659,7.0
-1168224,2021-03-29,Pendleton,Kentucky,21191.0,985,3.0
-1170261,2021-03-29,Pendleton,West Virginia,54071.0,661,7.0
-1171472,2021-03-30,Pendleton,Kentucky,21191.0,984,3.0
-1173508,2021-03-30,Pendleton,West Virginia,54071.0,666,7.0
-1174719,2021-03-31,Pendleton,Kentucky,21191.0,985,3.0
-1176755,2021-03-31,Pendleton,West Virginia,54071.0,666,7.0
-1177966,2021-04-01,Pendleton,Kentucky,21191.0,985,3.0
-1180002,2021-04-01,Pendleton,West Virginia,54071.0,668,7.0
-1181213,2021-04-02,Pendleton,Kentucky,21191.0,986,3.0
-1183249,2021-04-02,Pendleton,West Virginia,54071.0,668,7.0
-1184460,2021-04-03,Pendleton,Kentucky,21191.0,988,3.0
-1186496,2021-04-03,Pendleton,West Virginia,54071.0,671,7.0
-1187707,2021-04-04,Pendleton,Kentucky,21191.0,988,3.0
-1189743,2021-04-04,Pendleton,West Virginia,54071.0,670,7.0
-1190954,2021-04-05,Pendleton,Kentucky,21191.0,987,3.0
-1192993,2021-04-05,Pendleton,West Virginia,54071.0,671,7.0
-1194204,2021-04-06,Pendleton,Kentucky,21191.0,986,3.0
-1196241,2021-04-06,Pendleton,West Virginia,54071.0,670,7.0
-1197452,2021-04-07,Pendleton,Kentucky,21191.0,986,3.0
-1199490,2021-04-07,Pendleton,West Virginia,54071.0,670,7.0
-1200701,2021-04-08,Pendleton,Kentucky,21191.0,991,3.0
-1202738,2021-04-08,Pendleton,West Virginia,54071.0,670,8.0
-1203949,2021-04-09,Pendleton,Kentucky,21191.0,991,3.0
-1205986,2021-04-09,Pendleton,West Virginia,54071.0,674,8.0
-1207197,2021-04-10,Pendleton,Kentucky,21191.0,993,3.0
-1209234,2021-04-10,Pendleton,West Virginia,54071.0,675,8.0
-1210446,2021-04-11,Pendleton,Kentucky,21191.0,994,3.0
-1212483,2021-04-11,Pendleton,West Virginia,54071.0,676,8.0
-1213694,2021-04-12,Pendleton,Kentucky,21191.0,994,3.0
-1215730,2021-04-12,Pendleton,West Virginia,54071.0,676,8.0
-1216941,2021-04-13,Pendleton,Kentucky,21191.0,996,3.0
-1218978,2021-04-13,Pendleton,West Virginia,54071.0,677,8.0
-1220189,2021-04-14,Pendleton,Kentucky,21191.0,999,3.0
-1222226,2021-04-14,Pendleton,West Virginia,54071.0,677,8.0
-1223437,2021-04-15,Pendleton,Kentucky,21191.0,999,3.0
-1225473,2021-04-15,Pendleton,West Virginia,54071.0,678,9.0
-1226684,2021-04-16,Pendleton,Kentucky,21191.0,1001,3.0
-1228721,2021-04-16,Pendleton,West Virginia,54071.0,680,9.0
-1229932,2021-04-17,Pendleton,Kentucky,21191.0,1001,3.0
-1231969,2021-04-17,Pendleton,West Virginia,54071.0,686,9.0
-1233180,2021-04-18,Pendleton,Kentucky,21191.0,1003,3.0
-1235217,2021-04-18,Pendleton,West Virginia,54071.0,686,9.0
-1236427,2021-04-19,Pendleton,Kentucky,21191.0,1003,4.0
-1238464,2021-04-19,Pendleton,West Virginia,54071.0,686,9.0
-1239674,2021-04-20,Pendleton,Kentucky,21191.0,1003,4.0
-1241711,2021-04-20,Pendleton,West Virginia,54071.0,690,9.0
-1242921,2021-04-21,Pendleton,Kentucky,21191.0,1005,4.0
-1244958,2021-04-21,Pendleton,West Virginia,54071.0,692,9.0
-1246168,2021-04-22,Pendleton,Kentucky,21191.0,1007,4.0
-1248205,2021-04-22,Pendleton,West Virginia,54071.0,693,9.0
-1249415,2021-04-23,Pendleton,Kentucky,21191.0,1008,4.0
-1251452,2021-04-23,Pendleton,West Virginia,54071.0,693,9.0
-1252662,2021-04-24,Pendleton,Kentucky,21191.0,1011,4.0
-1254699,2021-04-24,Pendleton,West Virginia,54071.0,694,9.0
-1255909,2021-04-25,Pendleton,Kentucky,21191.0,1012,4.0
-1257946,2021-04-25,Pendleton,West Virginia,54071.0,695,9.0
-1259156,2021-04-26,Pendleton,Kentucky,21191.0,1012,4.0
-1261193,2021-04-26,Pendleton,West Virginia,54071.0,695,9.0
-1262403,2021-04-27,Pendleton,Kentucky,21191.0,1017,4.0
-1264440,2021-04-27,Pendleton,West Virginia,54071.0,695,9.0
-1265650,2021-04-28,Pendleton,Kentucky,21191.0,1018,4.0
-1267687,2021-04-28,Pendleton,West Virginia,54071.0,696,9.0
-1268897,2021-04-29,Pendleton,Kentucky,21191.0,1021,4.0
-1270934,2021-04-29,Pendleton,West Virginia,54071.0,697,9.0
-1272144,2021-04-30,Pendleton,Kentucky,21191.0,1021,4.0
-1274181,2021-04-30,Pendleton,West Virginia,54071.0,697,9.0
-1275391,2021-05-01,Pendleton,Kentucky,21191.0,1022,4.0
-1277428,2021-05-01,Pendleton,West Virginia,54071.0,697,9.0
-1278638,2021-05-02,Pendleton,Kentucky,21191.0,1022,4.0
-1280675,2021-05-02,Pendleton,West Virginia,54071.0,698,9.0
-1281885,2021-05-03,Pendleton,Kentucky,21191.0,1022,4.0
-1283922,2021-05-03,Pendleton,West Virginia,54071.0,698,9.0
-1285132,2021-05-04,Pendleton,Kentucky,21191.0,1026,4.0
-1287168,2021-05-04,Pendleton,West Virginia,54071.0,699,9.0
-1288378,2021-05-05,Pendleton,Kentucky,21191.0,1026,4.0
-1290414,2021-05-05,Pendleton,West Virginia,54071.0,699,9.0
-1291624,2021-05-06,Pendleton,Kentucky,21191.0,1026,4.0
-1293660,2021-05-06,Pendleton,West Virginia,54071.0,700,9.0
-1294870,2021-05-07,Pendleton,Kentucky,21191.0,1027,4.0
-1296906,2021-05-07,Pendleton,West Virginia,54071.0,700,9.0
-1298116,2021-05-08,Pendleton,Kentucky,21191.0,1026,4.0
-1300153,2021-05-08,Pendleton,West Virginia,54071.0,700,9.0
-1301363,2021-05-09,Pendleton,Kentucky,21191.0,1026,4.0
-1303400,2021-05-09,Pendleton,West Virginia,54071.0,701,9.0
-1304610,2021-05-10,Pendleton,Kentucky,21191.0,1026,5.0
-1306646,2021-05-10,Pendleton,West Virginia,54071.0,702,9.0
-1307856,2021-05-11,Pendleton,Kentucky,21191.0,1026,5.0
-1309892,2021-05-11,Pendleton,West Virginia,54071.0,702,9.0
-1311102,2021-05-12,Pendleton,Kentucky,21191.0,1026,5.0
-1313139,2021-05-12,Pendleton,West Virginia,54071.0,702,10.0
-1314349,2021-05-13,Pendleton,Kentucky,21191.0,1026,5.0
-1316385,2021-05-13,Pendleton,West Virginia,54071.0,703,10.0
-1317596,2021-05-14,Pendleton,Kentucky,21191.0,1029,5.0
-1319633,2021-05-14,Pendleton,West Virginia,54071.0,703,10.0
-1320843,2021-05-15,Pendleton,Kentucky,21191.0,1030,5.0
-1322879,2021-05-15,Pendleton,West Virginia,54071.0,703,10.0
-1324089,2021-05-16,Pendleton,Kentucky,21191.0,1031,5.0
-1326125,2021-05-16,Pendleton,West Virginia,54071.0,703,10.0
-1327335,2021-05-17,Pendleton,Kentucky,21191.0,1031,5.0
-1329371,2021-05-17,Pendleton,West Virginia,54071.0,704,10.0
-1330582,2021-05-18,Pendleton,Kentucky,21191.0,1032,5.0
-1332618,2021-05-18,Pendleton,West Virginia,54071.0,704,10.0
-1333829,2021-05-19,Pendleton,Kentucky,21191.0,1033,5.0
-1335865,2021-05-19,Pendleton,West Virginia,54071.0,704,11.0
-1337076,2021-05-20,Pendleton,Kentucky,21191.0,1033,5.0
-1339112,2021-05-20,Pendleton,West Virginia,54071.0,704,11.0
-1340323,2021-05-21,Pendleton,Kentucky,21191.0,1037,5.0
-1342360,2021-05-21,Pendleton,West Virginia,54071.0,704,11.0
-1343571,2021-05-22,Pendleton,Kentucky,21191.0,1037,5.0
-1345608,2021-05-22,Pendleton,West Virginia,54071.0,704,11.0
-1346819,2021-05-23,Pendleton,Kentucky,21191.0,1037,5.0
-1348856,2021-05-23,Pendleton,West Virginia,54071.0,704,11.0
-1350066,2021-05-24,Pendleton,Kentucky,21191.0,1037,5.0
-1352102,2021-05-24,Pendleton,West Virginia,54071.0,704,11.0
-1353312,2021-05-25,Pendleton,Kentucky,21191.0,1037,5.0
-1355348,2021-05-25,Pendleton,West Virginia,54071.0,705,11.0
-1356558,2021-05-26,Pendleton,Kentucky,21191.0,1037,5.0
-1358594,2021-05-26,Pendleton,West Virginia,54071.0,706,11.0
-1359804,2021-05-27,Pendleton,Kentucky,21191.0,1037,5.0
-1361840,2021-05-27,Pendleton,West Virginia,54071.0,707,11.0
-1363051,2021-05-28,Pendleton,Kentucky,21191.0,1037,5.0
-1365086,2021-05-28,Pendleton,West Virginia,54071.0,709,11.0
-1366297,2021-05-29,Pendleton,Kentucky,21191.0,1037,5.0
-1368332,2021-05-29,Pendleton,West Virginia,54071.0,709,11.0
-1369543,2021-05-30,Pendleton,Kentucky,21191.0,1037,5.0
-1371578,2021-05-30,Pendleton,West Virginia,54071.0,709,11.0
-1372788,2021-05-31,Pendleton,Kentucky,21191.0,1037,5.0
-1374823,2021-05-31,Pendleton,West Virginia,54071.0,709,11.0
-1376033,2021-06-01,Pendleton,Kentucky,21191.0,1037,5.0
-1378069,2021-06-01,Pendleton,West Virginia,54071.0,712,11.0
-1379279,2021-06-02,Pendleton,Kentucky,21191.0,1038,5.0
-1381314,2021-06-02,Pendleton,West Virginia,54071.0,713,11.0
-1382524,2021-06-03,Pendleton,Kentucky,21191.0,1038,5.0
-1384560,2021-06-03,Pendleton,West Virginia,54071.0,719,11.0
-1385770,2021-06-04,Pendleton,Kentucky,21191.0,1038,5.0
-1387805,2021-06-04,Pendleton,West Virginia,54071.0,721,11.0
-1389015,2021-06-05,Pendleton,Kentucky,21191.0,1038,5.0
-1391050,2021-06-05,Pendleton,West Virginia,54071.0,721,11.0
-1392260,2021-06-06,Pendleton,Kentucky,21191.0,1038,5.0
-1394295,2021-06-06,Pendleton,West Virginia,54071.0,721,11.0
-1395505,2021-06-07,Pendleton,Kentucky,21191.0,1038,5.0
-1397542,2021-06-07,Pendleton,West Virginia,54071.0,722,11.0
-1398752,2021-06-08,Pendleton,Kentucky,21191.0,1038,4.0
-1400787,2021-06-08,Pendleton,West Virginia,54071.0,722,11.0
-1401997,2021-06-09,Pendleton,Kentucky,21191.0,1038,4.0
-1404032,2021-06-09,Pendleton,West Virginia,54071.0,723,11.0
-1405242,2021-06-10,Pendleton,Kentucky,21191.0,1039,4.0
-1407278,2021-06-10,Pendleton,West Virginia,54071.0,723,11.0
-1408488,2021-06-11,Pendleton,Kentucky,21191.0,1039,4.0
-1410523,2021-06-11,Pendleton,West Virginia,54071.0,723,11.0
-1411733,2021-06-12,Pendleton,Kentucky,21191.0,1040,4.0
-1413768,2021-06-12,Pendleton,West Virginia,54071.0,723,11.0
-1414978,2021-06-13,Pendleton,Kentucky,21191.0,1040,4.0
-1417014,2021-06-13,Pendleton,West Virginia,54071.0,723,11.0
-1418224,2021-06-14,Pendleton,Kentucky,21191.0,1040,4.0
-1420259,2021-06-14,Pendleton,West Virginia,54071.0,723,11.0
-1421469,2021-06-15,Pendleton,Kentucky,21191.0,1042,4.0
-1423506,2021-06-15,Pendleton,West Virginia,54071.0,724,11.0
-1424717,2021-06-16,Pendleton,Kentucky,21191.0,1042,4.0
-1426752,2021-06-16,Pendleton,West Virginia,54071.0,724,11.0
-1427962,2021-06-17,Pendleton,Kentucky,21191.0,1043,4.0
-1429997,2021-06-17,Pendleton,West Virginia,54071.0,724,11.0
-1431207,2021-06-18,Pendleton,Kentucky,21191.0,1043,4.0
-1433243,2021-06-18,Pendleton,West Virginia,54071.0,724,11.0
-1434453,2021-06-19,Pendleton,Kentucky,21191.0,1043,4.0
-1436490,2021-06-19,Pendleton,West Virginia,54071.0,724,11.0
-1437700,2021-06-20,Pendleton,Kentucky,21191.0,1043,4.0
-1439737,2021-06-20,Pendleton,West Virginia,54071.0,724,11.0
-1440947,2021-06-21,Pendleton,Kentucky,21191.0,1043,4.0
-1442982,2021-06-21,Pendleton,West Virginia,54071.0,724,11.0
-1444192,2021-06-22,Pendleton,Kentucky,21191.0,1044,4.0
-1446227,2021-06-22,Pendleton,West Virginia,54071.0,724,11.0
-1447437,2021-06-23,Pendleton,Kentucky,21191.0,1044,4.0
-1449472,2021-06-23,Pendleton,West Virginia,54071.0,724,11.0
-1450682,2021-06-24,Pendleton,Kentucky,21191.0,1044,4.0
-1452718,2021-06-24,Pendleton,West Virginia,54071.0,724,11.0
-1453928,2021-06-25,Pendleton,Kentucky,21191.0,1045,4.0
-1455963,2021-06-25,Pendleton,West Virginia,54071.0,724,11.0
-1457173,2021-06-26,Pendleton,Kentucky,21191.0,1045,4.0
-1459208,2021-06-26,Pendleton,West Virginia,54071.0,724,11.0
-1460418,2021-06-27,Pendleton,Kentucky,21191.0,1045,4.0
-1462453,2021-06-27,Pendleton,West Virginia,54071.0,724,11.0
-1463663,2021-06-28,Pendleton,Kentucky,21191.0,1046,4.0
-1465698,2021-06-28,Pendleton,West Virginia,54071.0,725,11.0
-1466908,2021-06-29,Pendleton,Kentucky,21191.0,1046,4.0
-1468943,2021-06-29,Pendleton,West Virginia,54071.0,725,11.0
-1470153,2021-06-30,Pendleton,Kentucky,21191.0,1046,4.0
-1472188,2021-06-30,Pendleton,West Virginia,54071.0,725,11.0
-1473399,2021-07-01,Pendleton,Kentucky,21191.0,1047,4.0
-1475434,2021-07-01,Pendleton,West Virginia,54071.0,725,11.0
-1476645,2021-07-02,Pendleton,Kentucky,21191.0,1048,4.0
-1478680,2021-07-02,Pendleton,West Virginia,54071.0,725,11.0
-1479891,2021-07-03,Pendleton,Kentucky,21191.0,1048,4.0
-1481927,2021-07-03,Pendleton,West Virginia,54071.0,725,11.0
-1483138,2021-07-04,Pendleton,Kentucky,21191.0,1048,4.0
-1485173,2021-07-04,Pendleton,West Virginia,54071.0,725,11.0
-1486384,2021-07-05,Pendleton,Kentucky,21191.0,1048,4.0
-1488420,2021-07-05,Pendleton,West Virginia,54071.0,725,11.0
-1489631,2021-07-06,Pendleton,Kentucky,21191.0,1048,4.0
-1491667,2021-07-06,Pendleton,West Virginia,54071.0,725,11.0
-1492878,2021-07-07,Pendleton,Kentucky,21191.0,1048,4.0
-1494914,2021-07-07,Pendleton,West Virginia,54071.0,725,11.0
-1496124,2021-07-08,Pendleton,Kentucky,21191.0,1048,4.0
-1498161,2021-07-08,Pendleton,West Virginia,54071.0,726,11.0
-1499371,2021-07-09,Pendleton,Kentucky,21191.0,1048,4.0
-1501407,2021-07-09,Pendleton,West Virginia,54071.0,726,11.0
-1502617,2021-07-10,Pendleton,Kentucky,21191.0,1048,4.0
-1504653,2021-07-10,Pendleton,West Virginia,54071.0,726,11.0
-1505863,2021-07-11,Pendleton,Kentucky,21191.0,1048,4.0
-1507899,2021-07-11,Pendleton,West Virginia,54071.0,726,11.0
-1509109,2021-07-12,Pendleton,Kentucky,21191.0,1048,4.0
-1511146,2021-07-12,Pendleton,West Virginia,54071.0,726,11.0
-1512356,2021-07-13,Pendleton,Kentucky,21191.0,1049,4.0
-1514392,2021-07-13,Pendleton,West Virginia,54071.0,726,11.0
-1515602,2021-07-14,Pendleton,Kentucky,21191.0,1054,4.0
-1517639,2021-07-14,Pendleton,West Virginia,54071.0,726,11.0
-1518849,2021-07-15,Pendleton,Kentucky,21191.0,1055,4.0
-1520887,2021-07-15,Pendleton,West Virginia,54071.0,726,11.0
-1522097,2021-07-16,Pendleton,Kentucky,21191.0,1057,4.0
-1524135,2021-07-16,Pendleton,West Virginia,54071.0,726,11.0
-1525345,2021-07-17,Pendleton,Kentucky,21191.0,1057,4.0
-1527382,2021-07-17,Pendleton,West Virginia,54071.0,726,11.0
-1528592,2021-07-18,Pendleton,Kentucky,21191.0,1057,4.0
-1530629,2021-07-18,Pendleton,West Virginia,54071.0,726,11.0
-1531839,2021-07-19,Pendleton,Kentucky,21191.0,1058,4.0
-1533876,2021-07-19,Pendleton,West Virginia,54071.0,726,11.0
-1535086,2021-07-20,Pendleton,Kentucky,21191.0,1064,4.0
-1537124,2021-07-20,Pendleton,West Virginia,54071.0,726,11.0
-1538334,2021-07-21,Pendleton,Kentucky,21191.0,1068,4.0
-1540371,2021-07-21,Pendleton,West Virginia,54071.0,726,11.0
-1541581,2021-07-22,Pendleton,Kentucky,21191.0,1069,4.0
-1543619,2021-07-22,Pendleton,West Virginia,54071.0,726,11.0
-1544829,2021-07-23,Pendleton,Kentucky,21191.0,1070,4.0
-1546866,2021-07-23,Pendleton,West Virginia,54071.0,726,11.0
-1548076,2021-07-24,Pendleton,Kentucky,21191.0,1070,4.0
-1550113,2021-07-24,Pendleton,West Virginia,54071.0,726,11.0
-1551323,2021-07-25,Pendleton,Kentucky,21191.0,1070,4.0
-1553360,2021-07-25,Pendleton,West Virginia,54071.0,726,11.0
-1554570,2021-07-26,Pendleton,Kentucky,21191.0,1072,4.0
-1556607,2021-07-26,Pendleton,West Virginia,54071.0,726,11.0
-1557817,2021-07-27,Pendleton,Kentucky,21191.0,1078,4.0
-1559854,2021-07-27,Pendleton,West Virginia,54071.0,726,11.0
-1561064,2021-07-28,Pendleton,Kentucky,21191.0,1079,4.0
-1563102,2021-07-28,Pendleton,West Virginia,54071.0,726,11.0
-1564312,2021-07-29,Pendleton,Kentucky,21191.0,1087,4.0
-1566350,2021-07-29,Pendleton,West Virginia,54071.0,726,11.0
-1567560,2021-07-30,Pendleton,Kentucky,21191.0,1091,4.0
-1569598,2021-07-30,Pendleton,West Virginia,54071.0,726,11.0
-1570808,2021-07-31,Pendleton,Kentucky,21191.0,1091,4.0
-1572846,2021-07-31,Pendleton,West Virginia,54071.0,726,11.0
-1574056,2021-08-01,Pendleton,Kentucky,21191.0,1091,4.0
-1576094,2021-08-01,Pendleton,West Virginia,54071.0,726,11.0
-1577304,2021-08-02,Pendleton,Kentucky,21191.0,1101,4.0
-1579342,2021-08-02,Pendleton,West Virginia,54071.0,726,11.0
-1580553,2021-08-03,Pendleton,Kentucky,21191.0,1114,4.0
-1582592,2021-08-03,Pendleton,West Virginia,54071.0,726,11.0
-1583803,2021-08-04,Pendleton,Kentucky,21191.0,1120,4.0
-1585842,2021-08-04,Pendleton,West Virginia,54071.0,727,11.0
-1587053,2021-08-05,Pendleton,Kentucky,21191.0,1130,4.0
-1589091,2021-08-05,Pendleton,West Virginia,54071.0,727,11.0
-1590302,2021-08-06,Pendleton,Kentucky,21191.0,1134,4.0
-1592340,2021-08-06,Pendleton,West Virginia,54071.0,727,11.0
-1593551,2021-08-07,Pendleton,Kentucky,21191.0,1134,4.0
-1595589,2021-08-07,Pendleton,West Virginia,54071.0,727,11.0
-1596800,2021-08-08,Pendleton,Kentucky,21191.0,1134,4.0
-1598838,2021-08-08,Pendleton,West Virginia,54071.0,727,11.0
-1600048,2021-08-09,Pendleton,Kentucky,21191.0,1148,4.0
-1602086,2021-08-09,Pendleton,West Virginia,54071.0,725,11.0
-1603297,2021-08-10,Pendleton,Kentucky,21191.0,1149,4.0
-1605336,2021-08-10,Pendleton,West Virginia,54071.0,726,11.0
-1606546,2021-08-11,Pendleton,Kentucky,21191.0,1155,4.0
-1608585,2021-08-11,Pendleton,West Virginia,54071.0,728,11.0
-1609795,2021-08-12,Pendleton,Kentucky,21191.0,1164,4.0
-1611832,2021-08-12,Pendleton,West Virginia,54071.0,728,11.0
-1613043,2021-08-13,Pendleton,Kentucky,21191.0,1168,4.0
-1615081,2021-08-13,Pendleton,West Virginia,54071.0,729,11.0
-1616292,2021-08-14,Pendleton,Kentucky,21191.0,1168,4.0
-1618329,2021-08-14,Pendleton,West Virginia,54071.0,729,11.0
-1619540,2021-08-15,Pendleton,Kentucky,21191.0,1168,4.0
-1621577,2021-08-15,Pendleton,West Virginia,54071.0,729,11.0
-1622787,2021-08-16,Pendleton,Kentucky,21191.0,1218,5.0
-1624824,2021-08-16,Pendleton,West Virginia,54071.0,729,11.0
-1626034,2021-08-17,Pendleton,Kentucky,21191.0,1236,5.0
-1628071,2021-08-17,Pendleton,West Virginia,54071.0,737,11.0
-1629281,2021-08-18,Pendleton,Kentucky,21191.0,1249,5.0
-1631318,2021-08-18,Pendleton,West Virginia,54071.0,736,11.0
-1632528,2021-08-19,Pendleton,Kentucky,21191.0,1268,5.0
-1634566,2021-08-19,Pendleton,West Virginia,54071.0,741,11.0
-1635778,2021-08-20,Pendleton,Kentucky,21191.0,1276,5.0
-1637816,2021-08-20,Pendleton,West Virginia,54071.0,749,11.0
-1639028,2021-08-21,Pendleton,Kentucky,21191.0,1276,5.0
-1641066,2021-08-21,Pendleton,West Virginia,54071.0,749,11.0
-1642278,2021-08-22,Pendleton,Kentucky,21191.0,1276,5.0
-1644316,2021-08-22,Pendleton,West Virginia,54071.0,749,11.0
-1645527,2021-08-23,Pendleton,Kentucky,21191.0,1301,5.0
-1647565,2021-08-23,Pendleton,West Virginia,54071.0,760,11.0
-1648775,2021-08-24,Pendleton,Kentucky,21191.0,1314,5.0
-1650814,2021-08-24,Pendleton,West Virginia,54071.0,769,11.0
-1652024,2021-08-25,Pendleton,Kentucky,21191.0,1334,5.0
-1654060,2021-08-25,Pendleton,West Virginia,54071.0,773,11.0
-1655271,2021-08-26,Pendleton,Kentucky,21191.0,1356,5.0
-1657308,2021-08-26,Pendleton,West Virginia,54071.0,785,11.0
-1658519,2021-08-27,Pendleton,Kentucky,21191.0,1369,5.0
-1660556,2021-08-27,Pendleton,West Virginia,54071.0,790,11.0
-1661767,2021-08-28,Pendleton,Kentucky,21191.0,1369,5.0
-1663804,2021-08-28,Pendleton,West Virginia,54071.0,790,11.0
-1665015,2021-08-29,Pendleton,Kentucky,21191.0,1369,5.0
-1667052,2021-08-29,Pendleton,West Virginia,54071.0,811,11.0
-1668262,2021-08-30,Pendleton,Kentucky,21191.0,1388,5.0
-1670299,2021-08-30,Pendleton,West Virginia,54071.0,817,11.0
-1671509,2021-08-31,Pendleton,Kentucky,21191.0,1395,5.0
-1673547,2021-08-31,Pendleton,West Virginia,54071.0,820,11.0
-1674758,2021-09-01,Pendleton,Kentucky,21191.0,1407,5.0
-1676794,2021-09-01,Pendleton,West Virginia,54071.0,828,11.0
-1678005,2021-09-02,Pendleton,Kentucky,21191.0,1428,5.0
-1680042,2021-09-02,Pendleton,West Virginia,54071.0,850,11.0
-1681253,2021-09-03,Pendleton,Kentucky,21191.0,1440,5.0
-1683292,2021-09-03,Pendleton,West Virginia,54071.0,868,11.0
-1684504,2021-09-04,Pendleton,Kentucky,21191.0,1440,5.0
-1686543,2021-09-04,Pendleton,West Virginia,54071.0,873,11.0
-1687754,2021-09-05,Pendleton,Kentucky,21191.0,1440,5.0
-1689793,2021-09-05,Pendleton,West Virginia,54071.0,880,11.0
-1691004,2021-09-06,Pendleton,Kentucky,21191.0,1440,5.0
-1693042,2021-09-06,Pendleton,West Virginia,54071.0,888,12.0
-1694253,2021-09-07,Pendleton,Kentucky,21191.0,1476,5.0
-1696290,2021-09-07,Pendleton,West Virginia,54071.0,890,12.0
-1697501,2021-09-08,Pendleton,Kentucky,21191.0,1493,7.0
-1699538,2021-09-08,Pendleton,West Virginia,54071.0,895,12.0
-1700750,2021-09-09,Pendleton,Kentucky,21191.0,1508,7.0
-1702787,2021-09-09,Pendleton,West Virginia,54071.0,908,12.0
-1704000,2021-09-10,Pendleton,Kentucky,21191.0,1522,8.0
-1706037,2021-09-10,Pendleton,West Virginia,54071.0,913,12.0
-1707248,2021-09-11,Pendleton,Kentucky,21191.0,1522,8.0
-1709284,2021-09-11,Pendleton,West Virginia,54071.0,923,12.0
-1710495,2021-09-12,Pendleton,Kentucky,21191.0,1522,8.0
-1712531,2021-09-12,Pendleton,West Virginia,54071.0,939,12.0
-1713742,2021-09-13,Pendleton,Kentucky,21191.0,1545,9.0
-1715777,2021-09-13,Pendleton,West Virginia,54071.0,946,12.0
-1716988,2021-09-14,Pendleton,Kentucky,21191.0,1566,11.0
-1719025,2021-09-14,Pendleton,West Virginia,54071.0,952,12.0
-1720236,2021-09-15,Pendleton,Kentucky,21191.0,1591,11.0
-1722273,2021-09-15,Pendleton,West Virginia,54071.0,959,12.0
-1723485,2021-09-16,Pendleton,Kentucky,21191.0,1604,11.0
-1725522,2021-09-16,Pendleton,West Virginia,54071.0,966,12.0
-1726734,2021-09-17,Pendleton,Kentucky,21191.0,1630,12.0
-1728772,2021-09-17,Pendleton,West Virginia,54071.0,972,12.0
-1729984,2021-09-18,Pendleton,Kentucky,21191.0,1630,12.0
-1732022,2021-09-18,Pendleton,West Virginia,54071.0,982,12.0
-1733234,2021-09-19,Pendleton,Kentucky,21191.0,1630,12.0
-1735272,2021-09-19,Pendleton,West Virginia,54071.0,989,12.0
-1736484,2021-09-20,Pendleton,Kentucky,21191.0,1644,12.0
-1738521,2021-09-20,Pendleton,West Virginia,54071.0,994,12.0
-1739733,2021-09-21,Pendleton,Kentucky,21191.0,1659,12.0
-1741770,2021-09-21,Pendleton,West Virginia,54071.0,1001,12.0
-1742982,2021-09-22,Pendleton,Kentucky,21191.0,1682,12.0
-1745019,2021-09-22,Pendleton,West Virginia,54071.0,1006,12.0
-1746231,2021-09-23,Pendleton,Kentucky,21191.0,1696,12.0
-1748269,2021-09-23,Pendleton,West Virginia,54071.0,1010,12.0
-1749481,2021-09-24,Pendleton,Kentucky,21191.0,1713,12.0
-1751518,2021-09-24,Pendleton,West Virginia,54071.0,1015,12.0
-1752730,2021-09-25,Pendleton,Kentucky,21191.0,1713,12.0
-1754766,2021-09-25,Pendleton,West Virginia,54071.0,1026,12.0
-1755978,2021-09-26,Pendleton,Kentucky,21191.0,1713,12.0
-1758014,2021-09-26,Pendleton,West Virginia,54071.0,1027,12.0
-1759226,2021-09-27,Pendleton,Kentucky,21191.0,1743,13.0
-1761262,2021-09-27,Pendleton,West Virginia,54071.0,1029,12.0
-1762474,2021-09-28,Pendleton,Kentucky,21191.0,1762,13.0
-1764511,2021-09-28,Pendleton,West Virginia,54071.0,1033,12.0
-1765723,2021-09-29,Pendleton,Kentucky,21191.0,1780,13.0
-1767760,2021-09-29,Pendleton,West Virginia,54071.0,1034,12.0
-1768972,2021-09-30,Pendleton,Kentucky,21191.0,1791,13.0
-1771009,2021-09-30,Pendleton,West Virginia,54071.0,1042,12.0
-1772221,2021-10-01,Pendleton,Kentucky,21191.0,1817,13.0
-1774259,2021-10-01,Pendleton,West Virginia,54071.0,1044,12.0
-1775471,2021-10-02,Pendleton,Kentucky,21191.0,1817,13.0
-1777509,2021-10-02,Pendleton,West Virginia,54071.0,1047,12.0
-1778721,2021-10-03,Pendleton,Kentucky,21191.0,1817,13.0
-1780759,2021-10-03,Pendleton,West Virginia,54071.0,1051,12.0
-1781971,2021-10-04,Pendleton,Kentucky,21191.0,1845,14.0
-1784008,2021-10-04,Pendleton,West Virginia,54071.0,1051,12.0
-1785220,2021-10-05,Pendleton,Kentucky,21191.0,1857,14.0
-1787257,2021-10-05,Pendleton,West Virginia,54071.0,1051,12.0
-1788469,2021-10-06,Pendleton,Kentucky,21191.0,1884,14.0
-1790505,2021-10-06,Pendleton,West Virginia,54071.0,1054,12.0
-1791718,2021-10-07,Pendleton,Kentucky,21191.0,1906,14.0
-1793754,2021-10-07,Pendleton,West Virginia,54071.0,1057,12.0
-1794966,2021-10-08,Pendleton,Kentucky,21191.0,1923,14.0
-1797003,2021-10-08,Pendleton,West Virginia,54071.0,1058,12.0
-1798215,2021-10-09,Pendleton,Kentucky,21191.0,1923,14.0
-1800252,2021-10-09,Pendleton,West Virginia,54071.0,1062,12.0
-1801464,2021-10-10,Pendleton,Kentucky,21191.0,1923,14.0
-1803501,2021-10-10,Pendleton,West Virginia,54071.0,1065,12.0
-1804713,2021-10-11,Pendleton,Kentucky,21191.0,1941,14.0
-1806752,2021-10-11,Pendleton,West Virginia,54071.0,1065,12.0
-1807964,2021-10-12,Pendleton,Kentucky,21191.0,1958,14.0
-1810001,2021-10-12,Pendleton,West Virginia,54071.0,1067,12.0
-1811213,2021-10-13,Pendleton,Kentucky,21191.0,1973,14.0
-1813250,2021-10-13,Pendleton,West Virginia,54071.0,1073,12.0
-1814462,2021-10-14,Pendleton,Kentucky,21191.0,1980,14.0
-1816498,2021-10-14,Pendleton,West Virginia,54071.0,1077,14.0
-1817710,2021-10-15,Pendleton,Kentucky,21191.0,1991,16.0
-1819747,2021-10-15,Pendleton,West Virginia,54071.0,1079,14.0
-1820959,2021-10-16,Pendleton,Kentucky,21191.0,1991,16.0
-1822996,2021-10-16,Pendleton,West Virginia,54071.0,1080,14.0
-1824208,2021-10-17,Pendleton,Kentucky,21191.0,1991,16.0
-1826245,2021-10-17,Pendleton,West Virginia,54071.0,1079,14.0
-1827457,2021-10-18,Pendleton,Kentucky,21191.0,2005,17.0
-1829494,2021-10-18,Pendleton,West Virginia,54071.0,1079,14.0
-1830706,2021-10-19,Pendleton,Kentucky,21191.0,2010,17.0
-1832743,2021-10-19,Pendleton,West Virginia,54071.0,1083,14.0
-1833955,2021-10-20,Pendleton,Kentucky,21191.0,2012,17.0
-1835992,2021-10-20,Pendleton,West Virginia,54071.0,1084,14.0
-1837204,2021-10-21,Pendleton,Kentucky,21191.0,2015,17.0
-1839241,2021-10-21,Pendleton,West Virginia,54071.0,1085,14.0
-1840453,2021-10-22,Pendleton,Kentucky,21191.0,2018,17.0
-1842490,2021-10-22,Pendleton,West Virginia,54071.0,1087,14.0
-1843703,2021-10-23,Pendleton,Kentucky,21191.0,2018,17.0
-1845740,2021-10-23,Pendleton,West Virginia,54071.0,1088,14.0
-1846953,2021-10-24,Pendleton,Kentucky,21191.0,2018,17.0
-1848990,2021-10-24,Pendleton,West Virginia,54071.0,1088,14.0
-1850203,2021-10-25,Pendleton,Kentucky,21191.0,2024,18.0
-1852240,2021-10-25,Pendleton,West Virginia,54071.0,1093,14.0
-1853452,2021-10-26,Pendleton,Kentucky,21191.0,2027,18.0
-1855489,2021-10-26,Pendleton,West Virginia,54071.0,1096,14.0
-1856701,2021-10-27,Pendleton,Kentucky,21191.0,2033,18.0
-1858738,2021-10-27,Pendleton,West Virginia,54071.0,1096,14.0
-1859950,2021-10-28,Pendleton,Kentucky,21191.0,2035,19.0
-1861987,2021-10-28,Pendleton,West Virginia,54071.0,1100,15.0
-1863199,2021-10-29,Pendleton,Kentucky,21191.0,2042,19.0
-1865236,2021-10-29,Pendleton,West Virginia,54071.0,1104,15.0
-1866448,2021-10-30,Pendleton,Kentucky,21191.0,2042,19.0
-1868485,2021-10-30,Pendleton,West Virginia,54071.0,1106,15.0
-1869697,2021-10-31,Pendleton,Kentucky,21191.0,2042,19.0
-1871734,2021-10-31,Pendleton,West Virginia,54071.0,1107,15.0
-1872946,2021-11-01,Pendleton,Kentucky,21191.0,2047,19.0
-1874983,2021-11-01,Pendleton,West Virginia,54071.0,1111,15.0
-1876195,2021-11-02,Pendleton,Kentucky,21191.0,2050,19.0
-1878232,2021-11-02,Pendleton,West Virginia,54071.0,1112,15.0
-1879444,2021-11-03,Pendleton,Kentucky,21191.0,2056,19.0
-1881481,2021-11-03,Pendleton,West Virginia,54071.0,1114,15.0
-1882693,2021-11-04,Pendleton,Kentucky,21191.0,2057,19.0
-1884730,2021-11-04,Pendleton,West Virginia,54071.0,1116,15.0
-1885942,2021-11-05,Pendleton,Kentucky,21191.0,2060,20.0
-1887980,2021-11-05,Pendleton,West Virginia,54071.0,1114,15.0
-1889192,2021-11-06,Pendleton,Kentucky,21191.0,2060,20.0
-1891230,2021-11-06,Pendleton,West Virginia,54071.0,1118,15.0
-1892442,2021-11-07,Pendleton,Kentucky,21191.0,2060,20.0
-1894480,2021-11-07,Pendleton,West Virginia,54071.0,1121,15.0
-1895692,2021-11-08,Pendleton,Kentucky,21191.0,2068,20.0
-1897730,2021-11-08,Pendleton,West Virginia,54071.0,1120,15.0
-1898942,2021-11-09,Pendleton,Kentucky,21191.0,2072,20.0
-1900980,2021-11-09,Pendleton,West Virginia,54071.0,1120,15.0
-1902192,2021-11-10,Pendleton,Kentucky,21191.0,2077,20.0
-1904230,2021-11-10,Pendleton,West Virginia,54071.0,1124,15.0
-1905442,2021-11-11,Pendleton,Kentucky,21191.0,2077,20.0
-1907479,2021-11-11,Pendleton,West Virginia,54071.0,1126,15.0
-1908691,2021-11-12,Pendleton,Kentucky,21191.0,2092,20.0
-1910728,2021-11-12,Pendleton,West Virginia,54071.0,1129,15.0
-1911940,2021-11-13,Pendleton,Kentucky,21191.0,2092,20.0
-1913978,2021-11-13,Pendleton,West Virginia,54071.0,1136,15.0
-1915190,2021-11-14,Pendleton,Kentucky,21191.0,2092,20.0
-1917228,2021-11-14,Pendleton,West Virginia,54071.0,1141,15.0
-1918440,2021-11-15,Pendleton,Kentucky,21191.0,2099,21.0
-1920478,2021-11-15,Pendleton,West Virginia,54071.0,1143,15.0
-1921690,2021-11-16,Pendleton,Kentucky,21191.0,2105,21.0
-1923727,2021-11-16,Pendleton,West Virginia,54071.0,1151,15.0
-1924939,2021-11-17,Pendleton,Kentucky,21191.0,2108,21.0
-1926977,2021-11-17,Pendleton,West Virginia,54071.0,1157,15.0
-1928189,2021-11-18,Pendleton,Kentucky,21191.0,2115,21.0
-1930227,2021-11-18,Pendleton,West Virginia,54071.0,1171,15.0
-1931440,2021-11-19,Pendleton,Kentucky,21191.0,2115,24.0
-1933479,2021-11-19,Pendleton,West Virginia,54071.0,1181,15.0
-1934691,2021-11-20,Pendleton,Kentucky,21191.0,2115,24.0
-1936729,2021-11-20,Pendleton,West Virginia,54071.0,1191,15.0
-1937941,2021-11-21,Pendleton,Kentucky,21191.0,2115,24.0
-1939979,2021-11-21,Pendleton,West Virginia,54071.0,1201,15.0
-1941191,2021-11-22,Pendleton,Kentucky,21191.0,2121,25.0
-1943229,2021-11-22,Pendleton,West Virginia,54071.0,1203,15.0
-1944441,2021-11-23,Pendleton,Kentucky,21191.0,2127,25.0
-1946480,2021-11-23,Pendleton,West Virginia,54071.0,1206,15.0
-1947692,2021-11-24,Pendleton,Kentucky,21191.0,2135,25.0
-1949731,2021-11-24,Pendleton,West Virginia,54071.0,1208,15.0
-1950943,2021-11-25,Pendleton,Kentucky,21191.0,2135,25.0
-1952982,2021-11-25,Pendleton,West Virginia,54071.0,1208,15.0
-1954194,2021-11-26,Pendleton,Kentucky,21191.0,2135,25.0
-1956233,2021-11-26,Pendleton,West Virginia,54071.0,1208,15.0
-1957445,2021-11-27,Pendleton,Kentucky,21191.0,2135,25.0
-1959484,2021-11-27,Pendleton,West Virginia,54071.0,1208,15.0
-1960696,2021-11-28,Pendleton,Kentucky,21191.0,2135,25.0
-1962735,2021-11-28,Pendleton,West Virginia,54071.0,1208,15.0
-1963947,2021-11-29,Pendleton,Kentucky,21191.0,2158,25.0
-1965987,2021-11-29,Pendleton,West Virginia,54071.0,1221,15.0
-1967199,2021-11-30,Pendleton,Kentucky,21191.0,2170,25.0
-1969237,2021-11-30,Pendleton,West Virginia,54071.0,1231,15.0
-1970449,2021-12-01,Pendleton,Kentucky,21191.0,2178,25.0
-1972487,2021-12-01,Pendleton,West Virginia,54071.0,1237,15.0
-1973699,2021-12-02,Pendleton,Kentucky,21191.0,2188,25.0
-1975736,2021-12-02,Pendleton,West Virginia,54071.0,1243,15.0
-1976948,2021-12-03,Pendleton,Kentucky,21191.0,2195,25.0
-1978986,2021-12-03,Pendleton,West Virginia,54071.0,1247,16.0
-1980198,2021-12-04,Pendleton,Kentucky,21191.0,2195,25.0
-1982236,2021-12-04,Pendleton,West Virginia,54071.0,1257,16.0
-1983448,2021-12-05,Pendleton,Kentucky,21191.0,2195,25.0
-1985486,2021-12-05,Pendleton,West Virginia,54071.0,1258,16.0
-1986698,2021-12-06,Pendleton,Kentucky,21191.0,2206,26.0
-1988736,2021-12-06,Pendleton,West Virginia,54071.0,1261,16.0
-1989948,2021-12-07,Pendleton,Kentucky,21191.0,2207,26.0
-1991987,2021-12-07,Pendleton,West Virginia,54071.0,1263,16.0
-1993199,2021-12-08,Pendleton,Kentucky,21191.0,2217,26.0
-1995238,2021-12-08,Pendleton,West Virginia,54071.0,1268,16.0
-1996450,2021-12-09,Pendleton,Kentucky,21191.0,2225,26.0
-1998489,2021-12-09,Pendleton,West Virginia,54071.0,1273,16.0
-1999701,2021-12-10,Pendleton,Kentucky,21191.0,2229,26.0
-2001739,2021-12-10,Pendleton,West Virginia,54071.0,1277,16.0
-2002951,2021-12-11,Pendleton,Kentucky,21191.0,2229,26.0
-2004990,2021-12-11,Pendleton,West Virginia,54071.0,1281,16.0
-2006202,2021-12-12,Pendleton,Kentucky,21191.0,2229,26.0
-2008241,2021-12-12,Pendleton,West Virginia,54071.0,1285,16.0
-2009453,2021-12-13,Pendleton,Kentucky,21191.0,2243,26.0
-2011492,2021-12-13,Pendleton,West Virginia,54071.0,1284,16.0
-2012704,2021-12-14,Pendleton,Kentucky,21191.0,2250,26.0
-2014743,2021-12-14,Pendleton,West Virginia,54071.0,1284,16.0
-2015955,2021-12-15,Pendleton,Kentucky,21191.0,2257,26.0
-2017993,2021-12-15,Pendleton,West Virginia,54071.0,1286,16.0
-2019205,2021-12-16,Pendleton,Kentucky,21191.0,2266,27.0
-2021244,2021-12-16,Pendleton,West Virginia,54071.0,1288,16.0
-2022456,2021-12-17,Pendleton,Kentucky,21191.0,2280,28.0
-2024495,2021-12-17,Pendleton,West Virginia,54071.0,1291,16.0
-2025707,2021-12-18,Pendleton,Kentucky,21191.0,2280,28.0
-2027746,2021-12-18,Pendleton,West Virginia,54071.0,1297,16.0
-2028958,2021-12-19,Pendleton,Kentucky,21191.0,2280,28.0
-2030997,2021-12-19,Pendleton,West Virginia,54071.0,1298,16.0
-2032209,2021-12-20,Pendleton,Kentucky,21191.0,2294,29.0
-2034247,2021-12-20,Pendleton,West Virginia,54071.0,1299,16.0
-2035459,2021-12-21,Pendleton,Kentucky,21191.0,2309,29.0
-2037497,2021-12-21,Pendleton,West Virginia,54071.0,1301,16.0
-2038709,2021-12-22,Pendleton,Kentucky,21191.0,2324,29.0
-2040747,2021-12-22,Pendleton,West Virginia,54071.0,1303,16.0
-2041959,2021-12-23,Pendleton,Kentucky,21191.0,2324,29.0
-2043996,2021-12-23,Pendleton,West Virginia,54071.0,1304,16.0
-2045208,2021-12-24,Pendleton,Kentucky,21191.0,2324,29.0
-2047246,2021-12-24,Pendleton,West Virginia,54071.0,1304,16.0
-2048458,2021-12-25,Pendleton,Kentucky,21191.0,2324,29.0
-2050496,2021-12-25,Pendleton,West Virginia,54071.0,1304,16.0
-2051708,2021-12-26,Pendleton,Kentucky,21191.0,2324,29.0
-2053746,2021-12-26,Pendleton,West Virginia,54071.0,1304,16.0
-2054958,2021-12-27,Pendleton,Kentucky,21191.0,2350,29.0
-2056995,2021-12-27,Pendleton,West Virginia,54071.0,1310,16.0
-2058207,2021-12-28,Pendleton,Kentucky,21191.0,2367,29.0
-2060244,2021-12-28,Pendleton,West Virginia,54071.0,1311,16.0
-2061456,2021-12-29,Pendleton,Kentucky,21191.0,2382,29.0
-2063494,2021-12-29,Pendleton,West Virginia,54071.0,1319,16.0
-2064706,2021-12-30,Pendleton,Kentucky,21191.0,2382,29.0
-2066744,2021-12-30,Pendleton,West Virginia,54071.0,1321,16.0
-2067957,2021-12-31,Pendleton,Kentucky,21191.0,2382,29.0
-2069995,2021-12-31,Pendleton,West Virginia,54071.0,1321,16.0
-2071208,2022-01-01,Pendleton,Kentucky,21191.0,2382,29.0
-2073246,2022-01-01,Pendleton,West Virginia,54071.0,1321,16.0
-2074459,2022-01-02,Pendleton,Kentucky,21191.0,2382,29.0
-2076497,2022-01-02,Pendleton,West Virginia,54071.0,1321,16.0
-2077710,2022-01-03,Pendleton,Kentucky,21191.0,2430,29.0
-2079749,2022-01-03,Pendleton,West Virginia,54071.0,1352,16.0
-2080962,2022-01-04,Pendleton,Kentucky,21191.0,2450,29.0
-2083001,2022-01-04,Pendleton,West Virginia,54071.0,1360,16.0
-2084214,2022-01-05,Pendleton,Kentucky,21191.0,2488,29.0
-2086253,2022-01-05,Pendleton,West Virginia,54071.0,1365,16.0
-2087466,2022-01-06,Pendleton,Kentucky,21191.0,2514,30.0
-2089504,2022-01-06,Pendleton,West Virginia,54071.0,1377,16.0
-2090717,2022-01-07,Pendleton,Kentucky,21191.0,2534,31.0
-2092756,2022-01-07,Pendleton,West Virginia,54071.0,1393,16.0
-2093969,2022-01-08,Pendleton,Kentucky,21191.0,2534,31.0
-2096008,2022-01-08,Pendleton,West Virginia,54071.0,1402,16.0
-2097221,2022-01-09,Pendleton,Kentucky,21191.0,2534,31.0
-2099259,2022-01-09,Pendleton,West Virginia,54071.0,1416,16.0
-2100472,2022-01-10,Pendleton,Kentucky,21191.0,2591,31.0
-2102510,2022-01-10,Pendleton,West Virginia,54071.0,1419,16.0
-2103723,2022-01-11,Pendleton,Kentucky,21191.0,2628,31.0
-2105761,2022-01-11,Pendleton,West Virginia,54071.0,1434,16.0
-2106974,2022-01-12,Pendleton,Kentucky,21191.0,2671,31.0
-2109012,2022-01-12,Pendleton,West Virginia,54071.0,1451,16.0
-2110225,2022-01-13,Pendleton,Kentucky,21191.0,2715,31.0
-2112264,2022-01-13,Pendleton,West Virginia,54071.0,1466,16.0
-2113477,2022-01-14,Pendleton,Kentucky,21191.0,2754,31.0
-2115516,2022-01-14,Pendleton,West Virginia,54071.0,1494,16.0
-2116728,2022-01-15,Pendleton,Kentucky,21191.0,2754,31.0
-2118768,2022-01-15,Pendleton,West Virginia,54071.0,1516,16.0
-2119980,2022-01-16,Pendleton,Kentucky,21191.0,2754,31.0
-2122020,2022-01-16,Pendleton,West Virginia,54071.0,1527,16.0
-2123232,2022-01-17,Pendleton,Kentucky,21191.0,2754,31.0
-2125272,2022-01-17,Pendleton,West Virginia,54071.0,1543,16.0
-2126484,2022-01-18,Pendleton,Kentucky,21191.0,2854,31.0
-2128525,2022-01-18,Pendleton,West Virginia,54071.0,1547,16.0
-2129738,2022-01-19,Pendleton,Kentucky,21191.0,2892,31.0
-2131779,2022-01-19,Pendleton,West Virginia,54071.0,1559,16.0
-2132991,2022-01-20,Pendleton,Kentucky,21191.0,2937,31.0
-2135031,2022-01-20,Pendleton,West Virginia,54071.0,1584,16.0
-2136243,2022-01-21,Pendleton,Kentucky,21191.0,2964,31.0
-2138286,2022-01-21,Pendleton,West Virginia,54071.0,1606,16.0
-2139499,2022-01-22,Pendleton,Kentucky,21191.0,2964,31.0
-2141542,2022-01-22,Pendleton,West Virginia,54071.0,1636,16.0
-2142754,2022-01-23,Pendleton,Kentucky,21191.0,2964,31.0
-2144797,2022-01-23,Pendleton,West Virginia,54071.0,1662,16.0
-2146009,2022-01-24,Pendleton,Kentucky,21191.0,3034,32.0
-2148049,2022-01-24,Pendleton,West Virginia,54071.0,1672,16.0
-2149261,2022-01-25,Pendleton,Kentucky,21191.0,3063,32.0
-2151301,2022-01-25,Pendleton,West Virginia,54071.0,1682,16.0
-2152513,2022-01-26,Pendleton,Kentucky,21191.0,3105,32.0
-2154554,2022-01-26,Pendleton,West Virginia,54071.0,1695,16.0
-2155766,2022-01-27,Pendleton,Kentucky,21191.0,3139,33.0
-2157807,2022-01-27,Pendleton,West Virginia,54071.0,1717,16.0
-2159020,2022-01-28,Pendleton,Kentucky,21191.0,3186,33.0
-2161063,2022-01-28,Pendleton,West Virginia,54071.0,1733,16.0
-2162275,2022-01-29,Pendleton,Kentucky,21191.0,3186,33.0
-2164318,2022-01-29,Pendleton,West Virginia,54071.0,1749,16.0
-2165530,2022-01-30,Pendleton,Kentucky,21191.0,3186,33.0
-2167573,2022-01-30,Pendleton,West Virginia,54071.0,1760,16.0
-2168785,2022-01-31,Pendleton,Kentucky,21191.0,3233,33.0
-2170826,2022-01-31,Pendleton,West Virginia,54071.0,1772,16.0
-2172038,2022-02-01,Pendleton,Kentucky,21191.0,3254,33.0
-2174078,2022-02-01,Pendleton,West Virginia,54071.0,1783,16.0
-2175291,2022-02-02,Pendleton,Kentucky,21191.0,3275,33.0
-2177331,2022-02-02,Pendleton,West Virginia,54071.0,1793,16.0
-2178544,2022-02-03,Pendleton,Kentucky,21191.0,3289,33.0
-2180582,2022-02-03,Pendleton,West Virginia,54071.0,1812,16.0
-2181795,2022-02-04,Pendleton,Kentucky,21191.0,3295,33.0
-2183834,2022-02-04,Pendleton,West Virginia,54071.0,1828,16.0
-2185047,2022-02-05,Pendleton,Kentucky,21191.0,3295,33.0
-2187087,2022-02-05,Pendleton,West Virginia,54071.0,1835,16.0
-2188300,2022-02-06,Pendleton,Kentucky,21191.0,3295,33.0
-2190340,2022-02-06,Pendleton,West Virginia,54071.0,1836,16.0
-2191553,2022-02-07,Pendleton,Kentucky,21191.0,3304,33.0
-2193593,2022-02-07,Pendleton,West Virginia,54071.0,1840,16.0
-2194807,2022-02-08,Pendleton,Kentucky,21191.0,3311,33.0
-2196848,2022-02-08,Pendleton,West Virginia,54071.0,1844,16.0
-2198061,2022-02-09,Pendleton,Kentucky,21191.0,3328,33.0
-2200102,2022-02-09,Pendleton,West Virginia,54071.0,1849,16.0
-2201315,2022-02-10,Pendleton,Kentucky,21191.0,3336,33.0
-2203356,2022-02-10,Pendleton,West Virginia,54071.0,1861,16.0
-2204568,2022-02-11,Pendleton,Kentucky,21191.0,3340,33.0
-2206609,2022-02-11,Pendleton,West Virginia,54071.0,1867,16.0
-2207821,2022-02-12,Pendleton,Kentucky,21191.0,3340,33.0
-2209862,2022-02-12,Pendleton,West Virginia,54071.0,1867,16.0
-2211074,2022-02-13,Pendleton,Kentucky,21191.0,3340,33.0
-2213115,2022-02-13,Pendleton,West Virginia,54071.0,1870,16.0
-2214326,2022-02-14,Pendleton,Kentucky,21191.0,3362,33.0
-2216366,2022-02-14,Pendleton,West Virginia,54071.0,1873,16.0
-2217577,2022-02-15,Pendleton,Kentucky,21191.0,3367,33.0
-2219616,2022-02-15,Pendleton,West Virginia,54071.0,1877,16.0
-2220828,2022-02-16,Pendleton,Kentucky,21191.0,3372,33.0
-2222867,2022-02-16,Pendleton,West Virginia,54071.0,1877,16.0
-2224079,2022-02-17,Pendleton,Kentucky,21191.0,3374,33.0
-2226118,2022-02-17,Pendleton,West Virginia,54071.0,1888,16.0
-2227330,2022-02-18,Pendleton,Kentucky,21191.0,3376,33.0
-2229369,2022-02-18,Pendleton,West Virginia,54071.0,1891,16.0
-2230581,2022-02-19,Pendleton,Kentucky,21191.0,3376,33.0
-2232620,2022-02-19,Pendleton,West Virginia,54071.0,1891,16.0
-2233832,2022-02-20,Pendleton,Kentucky,21191.0,3376,33.0
-2235871,2022-02-20,Pendleton,West Virginia,54071.0,1891,16.0
-2237083,2022-02-21,Pendleton,Kentucky,21191.0,3388,33.0
-2239122,2022-02-21,Pendleton,West Virginia,54071.0,1911,16.0
-2240334,2022-02-22,Pendleton,Kentucky,21191.0,3394,33.0
-2242373,2022-02-22,Pendleton,West Virginia,54071.0,1913,16.0
-2243585,2022-02-23,Pendleton,Kentucky,21191.0,3397,33.0
-2245624,2022-02-23,Pendleton,West Virginia,54071.0,1910,16.0
-2246836,2022-02-24,Pendleton,Kentucky,21191.0,3397,33.0
-2248875,2022-02-24,Pendleton,West Virginia,54071.0,1911,16.0
-2250087,2022-02-25,Pendleton,Kentucky,21191.0,3406,33.0
-2252126,2022-02-25,Pendleton,West Virginia,54071.0,1914,16.0
-2253338,2022-02-26,Pendleton,Kentucky,21191.0,3406,33.0
-2255377,2022-02-26,Pendleton,West Virginia,54071.0,1914,16.0
-2256589,2022-02-27,Pendleton,Kentucky,21191.0,3406,33.0
-2258628,2022-02-27,Pendleton,West Virginia,54071.0,1914,16.0
-2259840,2022-02-28,Pendleton,Kentucky,21191.0,3408,34.0
-2261879,2022-02-28,Pendleton,West Virginia,54071.0,1915,16.0
-2263091,2022-03-01,Pendleton,Kentucky,21191.0,3409,34.0
-2265129,2022-03-01,Pendleton,West Virginia,54071.0,1918,16.0
-2266342,2022-03-02,Pendleton,Kentucky,21191.0,3410,34.0
-2268382,2022-03-02,Pendleton,West Virginia,54071.0,1919,17.0
-2269595,2022-03-03,Pendleton,Kentucky,21191.0,3412,34.0
-2271634,2022-03-03,Pendleton,West Virginia,54071.0,1918,17.0
-2272847,2022-03-04,Pendleton,Kentucky,21191.0,3415,34.0
-2274887,2022-03-04,Pendleton,West Virginia,54071.0,1920,17.0
-2276100,2022-03-05,Pendleton,Kentucky,21191.0,3415,34.0
-2278140,2022-03-05,Pendleton,West Virginia,54071.0,1920,17.0
-2279353,2022-03-06,Pendleton,Kentucky,21191.0,3415,34.0
-2281393,2022-03-06,Pendleton,West Virginia,54071.0,1920,17.0
-2282606,2022-03-07,Pendleton,Kentucky,21191.0,3416,34.0
-2284645,2022-03-07,Pendleton,West Virginia,54071.0,1924,17.0
-2285858,2022-03-08,Pendleton,Kentucky,21191.0,3416,34.0
-2287897,2022-03-08,Pendleton,West Virginia,54071.0,1924,17.0
-2289109,2022-03-09,Pendleton,Kentucky,21191.0,3416,34.0
-2291149,2022-03-09,Pendleton,West Virginia,54071.0,1925,17.0
-2292361,2022-03-10,Pendleton,Kentucky,21191.0,3416,34.0
-2294401,2022-03-10,Pendleton,West Virginia,54071.0,1927,17.0
-2295613,2022-03-11,Pendleton,Kentucky,21191.0,3416,34.0
-2297653,2022-03-11,Pendleton,West Virginia,54071.0,1927,17.0
-2298865,2022-03-12,Pendleton,Kentucky,21191.0,3416,34.0
-2300905,2022-03-12,Pendleton,West Virginia,54071.0,1927,17.0
-2302117,2022-03-13,Pendleton,Kentucky,21191.0,3416,34.0
-2304157,2022-03-13,Pendleton,West Virginia,54071.0,1927,17.0
-2305369,2022-03-14,Pendleton,Kentucky,21191.0,3429,37.0
-2307408,2022-03-14,Pendleton,West Virginia,54071.0,1927,17.0
-2308620,2022-03-15,Pendleton,Kentucky,21191.0,3429,37.0
-2310661,2022-03-15,Pendleton,West Virginia,54071.0,1927,17.0
-2311873,2022-03-16,Pendleton,Kentucky,21191.0,3429,37.0
-2313914,2022-03-16,Pendleton,West Virginia,54071.0,1928,17.0
-2315126,2022-03-17,Pendleton,Kentucky,21191.0,3429,37.0
-2317167,2022-03-17,Pendleton,West Virginia,54071.0,1929,17.0
-2318379,2022-03-18,Pendleton,Kentucky,21191.0,3429,37.0
-2320421,2022-03-18,Pendleton,West Virginia,54071.0,1932,17.0
-2321633,2022-03-19,Pendleton,Kentucky,21191.0,3429,37.0
-2323675,2022-03-19,Pendleton,West Virginia,54071.0,1932,17.0
-2324887,2022-03-20,Pendleton,Kentucky,21191.0,3429,37.0
-2326928,2022-03-20,Pendleton,West Virginia,54071.0,1932,17.0
-2328140,2022-03-21,Pendleton,Kentucky,21191.0,3435,37.0
-2330180,2022-03-21,Pendleton,West Virginia,54071.0,1933,17.0
-2331392,2022-03-22,Pendleton,Kentucky,21191.0,3435,37.0
-2333434,2022-03-22,Pendleton,West Virginia,54071.0,1933,17.0
-2334646,2022-03-23,Pendleton,Kentucky,21191.0,3435,37.0
-2336688,2022-03-23,Pendleton,West Virginia,54071.0,1935,17.0
-2337900,2022-03-24,Pendleton,Kentucky,21191.0,3435,37.0
-2339941,2022-03-24,Pendleton,West Virginia,54071.0,1936,17.0
-2341153,2022-03-25,Pendleton,Kentucky,21191.0,3435,37.0
-2343194,2022-03-25,Pendleton,West Virginia,54071.0,1938,17.0
-2344406,2022-03-26,Pendleton,Kentucky,21191.0,3435,37.0
-2346447,2022-03-26,Pendleton,West Virginia,54071.0,1938,17.0
-2347659,2022-03-27,Pendleton,Kentucky,21191.0,3435,37.0
-2349700,2022-03-27,Pendleton,West Virginia,54071.0,1938,17.0
-2350912,2022-03-28,Pendleton,Kentucky,21191.0,3471,37.0
-2352952,2022-03-28,Pendleton,West Virginia,54071.0,1941,17.0
-2354164,2022-03-29,Pendleton,Kentucky,21191.0,3471,37.0
-2356205,2022-03-29,Pendleton,West Virginia,54071.0,1942,17.0
-2357417,2022-03-30,Pendleton,Kentucky,21191.0,3471,37.0
-2359459,2022-03-30,Pendleton,West Virginia,54071.0,1943,18.0
-2360671,2022-03-31,Pendleton,Kentucky,21191.0,3471,37.0
-2362713,2022-03-31,Pendleton,West Virginia,54071.0,1943,18.0
-2363925,2022-04-01,Pendleton,Kentucky,21191.0,3471,37.0
-2365966,2022-04-01,Pendleton,West Virginia,54071.0,1943,18.0
-2367178,2022-04-02,Pendleton,Kentucky,21191.0,3471,37.0
-2369219,2022-04-02,Pendleton,West Virginia,54071.0,1943,18.0
-2370431,2022-04-03,Pendleton,Kentucky,21191.0,3471,37.0
-2372472,2022-04-03,Pendleton,West Virginia,54071.0,1943,18.0
-2373684,2022-04-04,Pendleton,Kentucky,21191.0,3475,38.0
-2375724,2022-04-04,Pendleton,West Virginia,54071.0,1945,18.0
-2376936,2022-04-05,Pendleton,Kentucky,21191.0,3475,38.0
-2378978,2022-04-05,Pendleton,West Virginia,54071.0,1947,18.0
-2380191,2022-04-06,Pendleton,Kentucky,21191.0,3475,38.0
-2382233,2022-04-06,Pendleton,West Virginia,54071.0,1948,21.0
-2383446,2022-04-07,Pendleton,Kentucky,21191.0,3475,38.0
-2385488,2022-04-07,Pendleton,West Virginia,54071.0,1948,21.0
-2386700,2022-04-08,Pendleton,Kentucky,21191.0,3475,38.0
-2388743,2022-04-08,Pendleton,West Virginia,54071.0,1953,21.0
-2389956,2022-04-09,Pendleton,Kentucky,21191.0,3475,38.0
-2391999,2022-04-09,Pendleton,West Virginia,54071.0,1953,21.0
+date,county,state,fips,cases,deaths
+2020-04-02,Pendleton,Kentucky,21191.0,1,0.0
+2020-04-02,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-03,Pendleton,Kentucky,21191.0,1,0.0
+2020-04-03,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-04,Pendleton,Kentucky,21191.0,1,0.0
+2020-04-04,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-05,Pendleton,Kentucky,21191.0,2,0.0
+2020-04-05,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-06,Pendleton,Kentucky,21191.0,2,0.0
+2020-04-06,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-07,Pendleton,Kentucky,21191.0,2,0.0
+2020-04-07,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-08,Pendleton,Kentucky,21191.0,3,0.0
+2020-04-08,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-09,Pendleton,Kentucky,21191.0,3,0.0
+2020-04-09,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-10,Pendleton,Kentucky,21191.0,3,0.0
+2020-04-10,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-11,Pendleton,Kentucky,21191.0,3,0.0
+2020-04-11,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-12,Pendleton,Kentucky,21191.0,3,0.0
+2020-04-12,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-13,Pendleton,Kentucky,21191.0,3,0.0
+2020-04-13,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-14,Pendleton,Kentucky,21191.0,3,0.0
+2020-04-14,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-15,Pendleton,Kentucky,21191.0,3,0.0
+2020-04-15,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-16,Pendleton,Kentucky,21191.0,5,0.0
+2020-04-16,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-17,Pendleton,Kentucky,21191.0,5,0.0
+2020-04-17,Pendleton,West Virginia,54071.0,2,0.0
+2020-04-18,Pendleton,Kentucky,21191.0,5,0.0
+2020-04-18,Pendleton,West Virginia,54071.0,2,0.0
+2020-04-19,Pendleton,Kentucky,21191.0,5,0.0
+2020-04-19,Pendleton,West Virginia,54071.0,2,0.0
+2020-04-20,Pendleton,Kentucky,21191.0,5,0.0
+2020-04-20,Pendleton,West Virginia,54071.0,2,0.0
+2020-04-21,Pendleton,Kentucky,21191.0,5,0.0
+2020-04-21,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-22,Pendleton,Kentucky,21191.0,5,0.0
+2020-04-22,Pendleton,West Virginia,54071.0,1,0.0
+2020-04-23,Pendleton,Kentucky,21191.0,5,0.0
+2020-04-23,Pendleton,West Virginia,54071.0,3,0.0
+2020-04-24,Pendleton,Kentucky,21191.0,5,0.0
+2020-04-24,Pendleton,West Virginia,54071.0,3,0.0
+2020-04-25,Pendleton,Kentucky,21191.0,5,0.0
+2020-04-25,Pendleton,West Virginia,54071.0,3,0.0
+2020-04-26,Pendleton,Kentucky,21191.0,5,0.0
+2020-04-26,Pendleton,West Virginia,54071.0,3,0.0
+2020-04-27,Pendleton,Kentucky,21191.0,6,0.0
+2020-04-27,Pendleton,West Virginia,54071.0,3,0.0
+2020-04-28,Pendleton,Kentucky,21191.0,6,0.0
+2020-04-28,Pendleton,West Virginia,54071.0,3,0.0
+2020-04-29,Pendleton,Kentucky,21191.0,6,0.0
+2020-04-29,Pendleton,West Virginia,54071.0,3,0.0
+2020-04-30,Pendleton,Kentucky,21191.0,6,0.0
+2020-04-30,Pendleton,West Virginia,54071.0,3,0.0
+2020-05-01,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-01,Pendleton,West Virginia,54071.0,3,0.0
+2020-05-02,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-02,Pendleton,West Virginia,54071.0,3,0.0
+2020-05-03,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-03,Pendleton,West Virginia,54071.0,3,0.0
+2020-05-04,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-04,Pendleton,West Virginia,54071.0,3,0.0
+2020-05-05,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-05,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-06,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-06,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-07,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-07,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-08,Pendleton,Kentucky,21191.0,5,0.0
+2020-05-08,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-09,Pendleton,Kentucky,21191.0,5,0.0
+2020-05-09,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-10,Pendleton,Kentucky,21191.0,5,0.0
+2020-05-10,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-11,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-11,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-12,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-12,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-13,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-13,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-14,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-14,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-15,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-15,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-16,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-16,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-17,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-17,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-18,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-18,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-19,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-19,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-20,Pendleton,Kentucky,21191.0,6,0.0
+2020-05-20,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-21,Pendleton,Kentucky,21191.0,7,0.0
+2020-05-21,Pendleton,West Virginia,54071.0,5,0.0
+2020-05-22,Pendleton,Kentucky,21191.0,7,0.0
+2020-05-22,Pendleton,West Virginia,54071.0,7,0.0
+2020-05-23,Pendleton,Kentucky,21191.0,7,0.0
+2020-05-23,Pendleton,West Virginia,54071.0,9,0.0
+2020-05-24,Pendleton,Kentucky,21191.0,7,0.0
+2020-05-24,Pendleton,West Virginia,54071.0,9,0.0
+2020-05-25,Pendleton,Kentucky,21191.0,7,0.0
+2020-05-25,Pendleton,West Virginia,54071.0,9,0.0
+2020-05-26,Pendleton,Kentucky,21191.0,7,0.0
+2020-05-26,Pendleton,West Virginia,54071.0,9,0.0
+2020-05-27,Pendleton,Kentucky,21191.0,8,0.0
+2020-05-27,Pendleton,West Virginia,54071.0,10,0.0
+2020-05-28,Pendleton,Kentucky,21191.0,8,0.0
+2020-05-28,Pendleton,West Virginia,54071.0,11,0.0
+2020-05-29,Pendleton,Kentucky,21191.0,8,0.0
+2020-05-29,Pendleton,West Virginia,54071.0,12,0.0
+2020-05-30,Pendleton,Kentucky,21191.0,9,0.0
+2020-05-30,Pendleton,West Virginia,54071.0,12,0.0
+2020-05-31,Pendleton,Kentucky,21191.0,9,0.0
+2020-05-31,Pendleton,West Virginia,54071.0,12,0.0
+2020-06-01,Pendleton,Kentucky,21191.0,10,0.0
+2020-06-01,Pendleton,West Virginia,54071.0,13,0.0
+2020-06-02,Pendleton,Kentucky,21191.0,11,0.0
+2020-06-02,Pendleton,West Virginia,54071.0,13,0.0
+2020-06-03,Pendleton,Kentucky,21191.0,11,0.0
+2020-06-03,Pendleton,West Virginia,54071.0,13,0.0
+2020-06-04,Pendleton,Kentucky,21191.0,11,0.0
+2020-06-04,Pendleton,West Virginia,54071.0,13,0.0
+2020-06-05,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-05,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-06,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-06,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-07,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-07,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-08,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-08,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-09,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-09,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-10,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-10,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-11,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-11,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-12,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-12,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-13,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-13,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-14,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-14,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-15,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-15,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-16,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-16,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-17,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-17,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-18,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-18,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-19,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-19,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-20,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-20,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-21,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-21,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-22,Pendleton,Kentucky,21191.0,14,0.0
+2020-06-22,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-23,Pendleton,Kentucky,21191.0,15,0.0
+2020-06-23,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-24,Pendleton,Kentucky,21191.0,15,0.0
+2020-06-24,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-25,Pendleton,Kentucky,21191.0,15,0.0
+2020-06-25,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-26,Pendleton,Kentucky,21191.0,15,0.0
+2020-06-26,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-27,Pendleton,Kentucky,21191.0,15,0.0
+2020-06-27,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-28,Pendleton,Kentucky,21191.0,16,0.0
+2020-06-28,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-29,Pendleton,Kentucky,21191.0,16,0.0
+2020-06-29,Pendleton,West Virginia,54071.0,13,1.0
+2020-06-30,Pendleton,Kentucky,21191.0,17,0.0
+2020-06-30,Pendleton,West Virginia,54071.0,13,1.0
+2020-07-01,Pendleton,Kentucky,21191.0,17,0.0
+2020-07-01,Pendleton,West Virginia,54071.0,13,1.0
+2020-07-02,Pendleton,Kentucky,21191.0,17,0.0
+2020-07-02,Pendleton,West Virginia,54071.0,13,1.0
+2020-07-03,Pendleton,Kentucky,21191.0,19,0.0
+2020-07-03,Pendleton,West Virginia,54071.0,13,1.0
+2020-07-04,Pendleton,Kentucky,21191.0,19,0.0
+2020-07-04,Pendleton,West Virginia,54071.0,13,1.0
+2020-07-05,Pendleton,Kentucky,21191.0,19,0.0
+2020-07-05,Pendleton,West Virginia,54071.0,14,1.0
+2020-07-06,Pendleton,Kentucky,21191.0,20,0.0
+2020-07-06,Pendleton,West Virginia,54071.0,14,1.0
+2020-07-07,Pendleton,Kentucky,21191.0,21,0.0
+2020-07-07,Pendleton,West Virginia,54071.0,14,1.0
+2020-07-08,Pendleton,Kentucky,21191.0,21,0.0
+2020-07-08,Pendleton,West Virginia,54071.0,14,1.0
+2020-07-09,Pendleton,Kentucky,21191.0,21,0.0
+2020-07-09,Pendleton,West Virginia,54071.0,14,1.0
+2020-07-10,Pendleton,Kentucky,21191.0,22,0.0
+2020-07-10,Pendleton,West Virginia,54071.0,16,1.0
+2020-07-11,Pendleton,Kentucky,21191.0,22,0.0
+2020-07-11,Pendleton,West Virginia,54071.0,16,1.0
+2020-07-12,Pendleton,Kentucky,21191.0,22,0.0
+2020-07-12,Pendleton,West Virginia,54071.0,16,1.0
+2020-07-13,Pendleton,Kentucky,21191.0,22,0.0
+2020-07-13,Pendleton,West Virginia,54071.0,16,1.0
+2020-07-14,Pendleton,Kentucky,21191.0,23,0.0
+2020-07-14,Pendleton,West Virginia,54071.0,17,1.0
+2020-07-15,Pendleton,Kentucky,21191.0,23,0.0
+2020-07-15,Pendleton,West Virginia,54071.0,18,1.0
+2020-07-16,Pendleton,Kentucky,21191.0,24,0.0
+2020-07-16,Pendleton,West Virginia,54071.0,18,1.0
+2020-07-17,Pendleton,Kentucky,21191.0,25,0.0
+2020-07-17,Pendleton,West Virginia,54071.0,19,1.0
+2020-07-18,Pendleton,Kentucky,21191.0,26,0.0
+2020-07-18,Pendleton,West Virginia,54071.0,20,1.0
+2020-07-19,Pendleton,Kentucky,21191.0,28,0.0
+2020-07-19,Pendleton,West Virginia,54071.0,20,1.0
+2020-07-20,Pendleton,Kentucky,21191.0,28,0.0
+2020-07-20,Pendleton,West Virginia,54071.0,20,1.0
+2020-07-21,Pendleton,Kentucky,21191.0,28,0.0
+2020-07-21,Pendleton,West Virginia,54071.0,20,1.0
+2020-07-22,Pendleton,Kentucky,21191.0,28,0.0
+2020-07-22,Pendleton,West Virginia,54071.0,25,1.0
+2020-07-23,Pendleton,Kentucky,21191.0,28,0.0
+2020-07-23,Pendleton,West Virginia,54071.0,26,1.0
+2020-07-24,Pendleton,Kentucky,21191.0,29,0.0
+2020-07-24,Pendleton,West Virginia,54071.0,28,1.0
+2020-07-25,Pendleton,Kentucky,21191.0,30,0.0
+2020-07-25,Pendleton,West Virginia,54071.0,28,1.0
+2020-07-26,Pendleton,Kentucky,21191.0,32,0.0
+2020-07-26,Pendleton,West Virginia,54071.0,28,1.0
+2020-07-27,Pendleton,Kentucky,21191.0,32,0.0
+2020-07-27,Pendleton,West Virginia,54071.0,28,1.0
+2020-07-28,Pendleton,Kentucky,21191.0,32,0.0
+2020-07-28,Pendleton,West Virginia,54071.0,31,1.0
+2020-07-29,Pendleton,Kentucky,21191.0,32,0.0
+2020-07-29,Pendleton,West Virginia,54071.0,36,1.0
+2020-07-30,Pendleton,Kentucky,21191.0,33,0.0
+2020-07-30,Pendleton,West Virginia,54071.0,37,1.0
+2020-07-31,Pendleton,Kentucky,21191.0,34,0.0
+2020-07-31,Pendleton,West Virginia,54071.0,37,1.0
+2020-08-01,Pendleton,Kentucky,21191.0,36,0.0
+2020-08-01,Pendleton,West Virginia,54071.0,37,1.0
+2020-08-02,Pendleton,Kentucky,21191.0,36,0.0
+2020-08-02,Pendleton,West Virginia,54071.0,37,1.0
+2020-08-03,Pendleton,Kentucky,21191.0,36,0.0
+2020-08-03,Pendleton,West Virginia,54071.0,38,1.0
+2020-08-04,Pendleton,Kentucky,21191.0,36,0.0
+2020-08-04,Pendleton,West Virginia,54071.0,41,1.0
+2020-08-05,Pendleton,Kentucky,21191.0,41,0.0
+2020-08-05,Pendleton,West Virginia,54071.0,42,1.0
+2020-08-06,Pendleton,Kentucky,21191.0,43,0.0
+2020-08-06,Pendleton,West Virginia,54071.0,58,1.0
+2020-08-07,Pendleton,Kentucky,21191.0,45,0.0
+2020-08-07,Pendleton,West Virginia,54071.0,40,1.0
+2020-08-08,Pendleton,Kentucky,21191.0,45,0.0
+2020-08-08,Pendleton,West Virginia,54071.0,39,1.0
+2020-08-09,Pendleton,Kentucky,21191.0,44,0.0
+2020-08-09,Pendleton,West Virginia,54071.0,40,1.0
+2020-08-10,Pendleton,Kentucky,21191.0,44,0.0
+2020-08-10,Pendleton,West Virginia,54071.0,41,1.0
+2020-08-11,Pendleton,Kentucky,21191.0,46,0.0
+2020-08-11,Pendleton,West Virginia,54071.0,42,1.0
+2020-08-12,Pendleton,Kentucky,21191.0,47,0.0
+2020-08-12,Pendleton,West Virginia,54071.0,42,1.0
+2020-08-13,Pendleton,Kentucky,21191.0,48,0.0
+2020-08-13,Pendleton,West Virginia,54071.0,42,1.0
+2020-08-14,Pendleton,Kentucky,21191.0,50,0.0
+2020-08-14,Pendleton,West Virginia,54071.0,42,1.0
+2020-08-15,Pendleton,Kentucky,21191.0,51,0.0
+2020-08-15,Pendleton,West Virginia,54071.0,42,1.0
+2020-08-16,Pendleton,Kentucky,21191.0,51,0.0
+2020-08-16,Pendleton,West Virginia,54071.0,43,1.0
+2020-08-17,Pendleton,Kentucky,21191.0,51,0.0
+2020-08-17,Pendleton,West Virginia,54071.0,43,1.0
+2020-08-18,Pendleton,Kentucky,21191.0,52,0.0
+2020-08-18,Pendleton,West Virginia,54071.0,43,1.0
+2020-08-19,Pendleton,Kentucky,21191.0,52,0.0
+2020-08-19,Pendleton,West Virginia,54071.0,47,1.0
+2020-08-20,Pendleton,Kentucky,21191.0,56,0.0
+2020-08-20,Pendleton,West Virginia,54071.0,47,1.0
+2020-08-21,Pendleton,Kentucky,21191.0,55,0.0
+2020-08-21,Pendleton,West Virginia,54071.0,47,1.0
+2020-08-22,Pendleton,Kentucky,21191.0,58,0.0
+2020-08-22,Pendleton,West Virginia,54071.0,48,1.0
+2020-08-23,Pendleton,Kentucky,21191.0,58,0.0
+2020-08-23,Pendleton,West Virginia,54071.0,48,1.0
+2020-08-24,Pendleton,Kentucky,21191.0,59,0.0
+2020-08-24,Pendleton,West Virginia,54071.0,48,1.0
+2020-08-25,Pendleton,Kentucky,21191.0,62,0.0
+2020-08-25,Pendleton,West Virginia,54071.0,48,1.0
+2020-08-26,Pendleton,Kentucky,21191.0,62,0.0
+2020-08-26,Pendleton,West Virginia,54071.0,44,1.0
+2020-08-27,Pendleton,Kentucky,21191.0,64,0.0
+2020-08-27,Pendleton,West Virginia,54071.0,44,1.0
+2020-08-28,Pendleton,Kentucky,21191.0,63,0.0
+2020-08-28,Pendleton,West Virginia,54071.0,44,1.0
+2020-08-29,Pendleton,Kentucky,21191.0,63,0.0
+2020-08-29,Pendleton,West Virginia,54071.0,44,1.0
+2020-08-30,Pendleton,Kentucky,21191.0,63,0.0
+2020-08-30,Pendleton,West Virginia,54071.0,44,1.0
+2020-08-31,Pendleton,Kentucky,21191.0,63,0.0
+2020-08-31,Pendleton,West Virginia,54071.0,44,1.0
+2020-09-01,Pendleton,Kentucky,21191.0,64,0.0
+2020-09-01,Pendleton,West Virginia,54071.0,45,1.0
+2020-09-02,Pendleton,Kentucky,21191.0,65,0.0
+2020-09-02,Pendleton,West Virginia,54071.0,45,1.0
+2020-09-03,Pendleton,Kentucky,21191.0,66,0.0
+2020-09-03,Pendleton,West Virginia,54071.0,45,1.0
+2020-09-04,Pendleton,Kentucky,21191.0,65,0.0
+2020-09-04,Pendleton,West Virginia,54071.0,45,1.0
+2020-09-05,Pendleton,Kentucky,21191.0,69,0.0
+2020-09-05,Pendleton,West Virginia,54071.0,45,1.0
+2020-09-06,Pendleton,Kentucky,21191.0,69,0.0
+2020-09-06,Pendleton,West Virginia,54071.0,45,1.0
+2020-09-07,Pendleton,Kentucky,21191.0,69,0.0
+2020-09-07,Pendleton,West Virginia,54071.0,45,1.0
+2020-09-08,Pendleton,Kentucky,21191.0,69,0.0
+2020-09-08,Pendleton,West Virginia,54071.0,45,1.0
+2020-09-09,Pendleton,Kentucky,21191.0,74,0.0
+2020-09-09,Pendleton,West Virginia,54071.0,45,1.0
+2020-09-10,Pendleton,Kentucky,21191.0,74,0.0
+2020-09-10,Pendleton,West Virginia,54071.0,46,1.0
+2020-09-11,Pendleton,Kentucky,21191.0,76,0.0
+2020-09-11,Pendleton,West Virginia,54071.0,45,1.0
+2020-09-12,Pendleton,Kentucky,21191.0,78,0.0
+2020-09-12,Pendleton,West Virginia,54071.0,46,1.0
+2020-09-13,Pendleton,Kentucky,21191.0,83,0.0
+2020-09-13,Pendleton,West Virginia,54071.0,46,1.0
+2020-09-14,Pendleton,Kentucky,21191.0,88,0.0
+2020-09-14,Pendleton,West Virginia,54071.0,46,1.0
+2020-09-15,Pendleton,Kentucky,21191.0,88,0.0
+2020-09-15,Pendleton,West Virginia,54071.0,47,1.0
+2020-09-16,Pendleton,Kentucky,21191.0,88,0.0
+2020-09-16,Pendleton,West Virginia,54071.0,48,1.0
+2020-09-17,Pendleton,Kentucky,21191.0,88,0.0
+2020-09-17,Pendleton,West Virginia,54071.0,51,1.0
+2020-09-18,Pendleton,Kentucky,21191.0,89,0.0
+2020-09-18,Pendleton,West Virginia,54071.0,51,1.0
+2020-09-19,Pendleton,Kentucky,21191.0,92,0.0
+2020-09-19,Pendleton,West Virginia,54071.0,52,1.0
+2020-09-20,Pendleton,Kentucky,21191.0,92,0.0
+2020-09-20,Pendleton,West Virginia,54071.0,52,1.0
+2020-09-21,Pendleton,Kentucky,21191.0,92,0.0
+2020-09-21,Pendleton,West Virginia,54071.0,52,1.0
+2020-09-22,Pendleton,Kentucky,21191.0,92,0.0
+2020-09-22,Pendleton,West Virginia,54071.0,52,1.0
+2020-09-23,Pendleton,Kentucky,21191.0,92,0.0
+2020-09-23,Pendleton,West Virginia,54071.0,52,1.0
+2020-09-24,Pendleton,Kentucky,21191.0,95,0.0
+2020-09-24,Pendleton,West Virginia,54071.0,52,1.0
+2020-09-25,Pendleton,Kentucky,21191.0,99,0.0
+2020-09-25,Pendleton,West Virginia,54071.0,52,1.0
+2020-09-26,Pendleton,Kentucky,21191.0,101,0.0
+2020-09-26,Pendleton,West Virginia,54071.0,53,1.0
+2020-09-27,Pendleton,Kentucky,21191.0,102,0.0
+2020-09-27,Pendleton,West Virginia,54071.0,53,1.0
+2020-09-28,Pendleton,Kentucky,21191.0,102,0.0
+2020-09-28,Pendleton,West Virginia,54071.0,53,1.0
+2020-09-29,Pendleton,Kentucky,21191.0,102,0.0
+2020-09-29,Pendleton,West Virginia,54071.0,53,1.0
+2020-09-30,Pendleton,Kentucky,21191.0,102,0.0
+2020-09-30,Pendleton,West Virginia,54071.0,53,1.0
+2020-10-01,Pendleton,Kentucky,21191.0,102,0.0
+2020-10-01,Pendleton,West Virginia,54071.0,53,1.0
+2020-10-02,Pendleton,Kentucky,21191.0,103,0.0
+2020-10-02,Pendleton,West Virginia,54071.0,53,1.0
+2020-10-03,Pendleton,Kentucky,21191.0,100,0.0
+2020-10-03,Pendleton,West Virginia,54071.0,53,1.0
+2020-10-04,Pendleton,Kentucky,21191.0,100,0.0
+2020-10-04,Pendleton,West Virginia,54071.0,53,1.0
+2020-10-05,Pendleton,Kentucky,21191.0,100,0.0
+2020-10-05,Pendleton,West Virginia,54071.0,53,1.0
+2020-10-06,Pendleton,Kentucky,21191.0,102,0.0
+2020-10-06,Pendleton,West Virginia,54071.0,53,1.0
+2020-10-07,Pendleton,Kentucky,21191.0,103,0.0
+2020-10-07,Pendleton,West Virginia,54071.0,54,1.0
+2020-10-08,Pendleton,Kentucky,21191.0,103,0.0
+2020-10-08,Pendleton,West Virginia,54071.0,54,1.0
+2020-10-09,Pendleton,Kentucky,21191.0,103,0.0
+2020-10-09,Pendleton,West Virginia,54071.0,55,1.0
+2020-10-10,Pendleton,Kentucky,21191.0,104,0.0
+2020-10-10,Pendleton,West Virginia,54071.0,56,1.0
+2020-10-11,Pendleton,Kentucky,21191.0,104,0.0
+2020-10-11,Pendleton,West Virginia,54071.0,57,1.0
+2020-10-12,Pendleton,Kentucky,21191.0,106,0.0
+2020-10-12,Pendleton,West Virginia,54071.0,57,1.0
+2020-10-13,Pendleton,Kentucky,21191.0,106,0.0
+2020-10-13,Pendleton,West Virginia,54071.0,59,1.0
+2020-10-14,Pendleton,Kentucky,21191.0,108,0.0
+2020-10-14,Pendleton,West Virginia,54071.0,62,1.0
+2020-10-15,Pendleton,Kentucky,21191.0,109,0.0
+2020-10-15,Pendleton,West Virginia,54071.0,63,1.0
+2020-10-16,Pendleton,Kentucky,21191.0,109,0.0
+2020-10-16,Pendleton,West Virginia,54071.0,65,1.0
+2020-10-17,Pendleton,Kentucky,21191.0,109,0.0
+2020-10-17,Pendleton,West Virginia,54071.0,65,1.0
+2020-10-18,Pendleton,Kentucky,21191.0,109,0.0
+2020-10-18,Pendleton,West Virginia,54071.0,68,1.0
+2020-10-19,Pendleton,Kentucky,21191.0,110,0.0
+2020-10-19,Pendleton,West Virginia,54071.0,70,1.0
+2020-10-20,Pendleton,Kentucky,21191.0,111,0.0
+2020-10-20,Pendleton,West Virginia,54071.0,72,1.0
+2020-10-21,Pendleton,Kentucky,21191.0,112,0.0
+2020-10-21,Pendleton,West Virginia,54071.0,73,1.0
+2020-10-22,Pendleton,Kentucky,21191.0,113,0.0
+2020-10-22,Pendleton,West Virginia,54071.0,73,1.0
+2020-10-23,Pendleton,Kentucky,21191.0,113,0.0
+2020-10-23,Pendleton,West Virginia,54071.0,75,1.0
+2020-10-24,Pendleton,Kentucky,21191.0,121,0.0
+2020-10-24,Pendleton,West Virginia,54071.0,74,1.0
+2020-10-25,Pendleton,Kentucky,21191.0,123,0.0
+2020-10-25,Pendleton,West Virginia,54071.0,74,1.0
+2020-10-26,Pendleton,Kentucky,21191.0,123,0.0
+2020-10-26,Pendleton,West Virginia,54071.0,74,1.0
+2020-10-27,Pendleton,Kentucky,21191.0,126,0.0
+2020-10-27,Pendleton,West Virginia,54071.0,74,1.0
+2020-10-28,Pendleton,Kentucky,21191.0,131,0.0
+2020-10-28,Pendleton,West Virginia,54071.0,76,1.0
+2020-10-29,Pendleton,Kentucky,21191.0,132,0.0
+2020-10-29,Pendleton,West Virginia,54071.0,77,1.0
+2020-10-30,Pendleton,Kentucky,21191.0,133,0.0
+2020-10-30,Pendleton,West Virginia,54071.0,77,1.0
+2020-10-31,Pendleton,Kentucky,21191.0,140,0.0
+2020-10-31,Pendleton,West Virginia,54071.0,77,1.0
+2020-11-01,Pendleton,Kentucky,21191.0,142,0.0
+2020-11-01,Pendleton,West Virginia,54071.0,79,1.0
+2020-11-02,Pendleton,Kentucky,21191.0,141,0.0
+2020-11-02,Pendleton,West Virginia,54071.0,79,1.0
+2020-11-03,Pendleton,Kentucky,21191.0,145,0.0
+2020-11-03,Pendleton,West Virginia,54071.0,79,1.0
+2020-11-04,Pendleton,Kentucky,21191.0,147,0.0
+2020-11-04,Pendleton,West Virginia,54071.0,79,1.0
+2020-11-05,Pendleton,Kentucky,21191.0,150,0.0
+2020-11-05,Pendleton,West Virginia,54071.0,79,1.0
+2020-11-06,Pendleton,Kentucky,21191.0,154,0.0
+2020-11-06,Pendleton,West Virginia,54071.0,79,1.0
+2020-11-07,Pendleton,Kentucky,21191.0,164,0.0
+2020-11-07,Pendleton,West Virginia,54071.0,79,1.0
+2020-11-08,Pendleton,Kentucky,21191.0,171,0.0
+2020-11-08,Pendleton,West Virginia,54071.0,80,1.0
+2020-11-09,Pendleton,Kentucky,21191.0,173,1.0
+2020-11-09,Pendleton,West Virginia,54071.0,80,1.0
+2020-11-10,Pendleton,Kentucky,21191.0,177,1.0
+2020-11-10,Pendleton,West Virginia,54071.0,80,1.0
+2020-11-11,Pendleton,Kentucky,21191.0,187,1.0
+2020-11-11,Pendleton,West Virginia,54071.0,80,1.0
+2020-11-12,Pendleton,Kentucky,21191.0,196,1.0
+2020-11-12,Pendleton,West Virginia,54071.0,80,1.0
+2020-11-13,Pendleton,Kentucky,21191.0,215,1.0
+2020-11-13,Pendleton,West Virginia,54071.0,80,1.0
+2020-11-14,Pendleton,Kentucky,21191.0,217,1.0
+2020-11-14,Pendleton,West Virginia,54071.0,83,1.0
+2020-11-15,Pendleton,Kentucky,21191.0,220,1.0
+2020-11-15,Pendleton,West Virginia,54071.0,84,1.0
+2020-11-16,Pendleton,Kentucky,21191.0,224,1.0
+2020-11-16,Pendleton,West Virginia,54071.0,86,1.0
+2020-11-17,Pendleton,Kentucky,21191.0,235,1.0
+2020-11-17,Pendleton,West Virginia,54071.0,86,1.0
+2020-11-18,Pendleton,Kentucky,21191.0,249,1.0
+2020-11-18,Pendleton,West Virginia,54071.0,88,1.0
+2020-11-19,Pendleton,Kentucky,21191.0,261,1.0
+2020-11-19,Pendleton,West Virginia,54071.0,88,1.0
+2020-11-20,Pendleton,Kentucky,21191.0,273,1.0
+2020-11-20,Pendleton,West Virginia,54071.0,90,1.0
+2020-11-21,Pendleton,Kentucky,21191.0,297,1.0
+2020-11-21,Pendleton,West Virginia,54071.0,93,1.0
+2020-11-22,Pendleton,Kentucky,21191.0,301,1.0
+2020-11-22,Pendleton,West Virginia,54071.0,96,1.0
+2020-11-23,Pendleton,Kentucky,21191.0,310,1.0
+2020-11-23,Pendleton,West Virginia,54071.0,97,1.0
+2020-11-24,Pendleton,Kentucky,21191.0,328,1.0
+2020-11-24,Pendleton,West Virginia,54071.0,100,1.0
+2020-11-25,Pendleton,Kentucky,21191.0,346,1.0
+2020-11-25,Pendleton,West Virginia,54071.0,101,1.0
+2020-11-26,Pendleton,Kentucky,21191.0,346,1.0
+2020-11-26,Pendleton,West Virginia,54071.0,102,1.0
+2020-11-27,Pendleton,Kentucky,21191.0,359,1.0
+2020-11-27,Pendleton,West Virginia,54071.0,103,1.0
+2020-11-28,Pendleton,Kentucky,21191.0,363,1.0
+2020-11-28,Pendleton,West Virginia,54071.0,103,1.0
+2020-11-29,Pendleton,Kentucky,21191.0,372,1.0
+2020-11-29,Pendleton,West Virginia,54071.0,104,1.0
+2020-11-30,Pendleton,Kentucky,21191.0,377,1.0
+2020-11-30,Pendleton,West Virginia,54071.0,105,1.0
+2020-12-01,Pendleton,Kentucky,21191.0,391,1.0
+2020-12-01,Pendleton,West Virginia,54071.0,109,1.0
+2020-12-02,Pendleton,Kentucky,21191.0,405,1.0
+2020-12-02,Pendleton,West Virginia,54071.0,111,1.0
+2020-12-03,Pendleton,Kentucky,21191.0,412,1.0
+2020-12-03,Pendleton,West Virginia,54071.0,115,1.0
+2020-12-04,Pendleton,Kentucky,21191.0,429,1.0
+2020-12-04,Pendleton,West Virginia,54071.0,121,1.0
+2020-12-05,Pendleton,Kentucky,21191.0,448,1.0
+2020-12-05,Pendleton,West Virginia,54071.0,125,1.0
+2020-12-06,Pendleton,Kentucky,21191.0,457,1.0
+2020-12-06,Pendleton,West Virginia,54071.0,130,1.0
+2020-12-07,Pendleton,Kentucky,21191.0,460,1.0
+2020-12-07,Pendleton,West Virginia,54071.0,137,1.0
+2020-12-08,Pendleton,Kentucky,21191.0,469,1.0
+2020-12-08,Pendleton,West Virginia,54071.0,139,1.0
+2020-12-09,Pendleton,Kentucky,21191.0,477,1.0
+2020-12-09,Pendleton,West Virginia,54071.0,147,1.0
+2020-12-10,Pendleton,Kentucky,21191.0,498,1.0
+2020-12-10,Pendleton,West Virginia,54071.0,153,1.0
+2020-12-11,Pendleton,Kentucky,21191.0,506,1.0
+2020-12-11,Pendleton,West Virginia,54071.0,161,1.0
+2020-12-12,Pendleton,Kentucky,21191.0,508,1.0
+2020-12-12,Pendleton,West Virginia,54071.0,165,1.0
+2020-12-13,Pendleton,Kentucky,21191.0,510,1.0
+2020-12-13,Pendleton,West Virginia,54071.0,173,1.0
+2020-12-14,Pendleton,Kentucky,21191.0,513,1.0
+2020-12-14,Pendleton,West Virginia,54071.0,182,1.0
+2020-12-15,Pendleton,Kentucky,21191.0,525,1.0
+2020-12-15,Pendleton,West Virginia,54071.0,188,1.0
+2020-12-16,Pendleton,Kentucky,21191.0,531,1.0
+2020-12-16,Pendleton,West Virginia,54071.0,193,1.0
+2020-12-17,Pendleton,Kentucky,21191.0,543,1.0
+2020-12-17,Pendleton,West Virginia,54071.0,202,1.0
+2020-12-18,Pendleton,Kentucky,21191.0,553,1.0
+2020-12-18,Pendleton,West Virginia,54071.0,209,1.0
+2020-12-19,Pendleton,Kentucky,21191.0,563,1.0
+2020-12-19,Pendleton,West Virginia,54071.0,214,1.0
+2020-12-20,Pendleton,Kentucky,21191.0,564,1.0
+2020-12-20,Pendleton,West Virginia,54071.0,221,1.0
+2020-12-21,Pendleton,Kentucky,21191.0,569,1.0
+2020-12-21,Pendleton,West Virginia,54071.0,225,1.0
+2020-12-22,Pendleton,Kentucky,21191.0,575,1.0
+2020-12-22,Pendleton,West Virginia,54071.0,235,1.0
+2020-12-23,Pendleton,Kentucky,21191.0,580,1.0
+2020-12-23,Pendleton,West Virginia,54071.0,241,1.0
+2020-12-24,Pendleton,Kentucky,21191.0,580,1.0
+2020-12-24,Pendleton,West Virginia,54071.0,253,1.0
+2020-12-25,Pendleton,Kentucky,21191.0,580,1.0
+2020-12-25,Pendleton,West Virginia,54071.0,262,1.0
+2020-12-26,Pendleton,Kentucky,21191.0,585,1.0
+2020-12-26,Pendleton,West Virginia,54071.0,268,1.0
+2020-12-27,Pendleton,Kentucky,21191.0,585,1.0
+2020-12-27,Pendleton,West Virginia,54071.0,274,1.0
+2020-12-28,Pendleton,Kentucky,21191.0,593,1.0
+2020-12-28,Pendleton,West Virginia,54071.0,276,1.0
+2020-12-29,Pendleton,Kentucky,21191.0,604,1.0
+2020-12-29,Pendleton,West Virginia,54071.0,283,2.0
+2020-12-30,Pendleton,Kentucky,21191.0,612,1.0
+2020-12-30,Pendleton,West Virginia,54071.0,284,2.0
+2020-12-31,Pendleton,Kentucky,21191.0,612,1.0
+2020-12-31,Pendleton,West Virginia,54071.0,293,2.0
+2021-01-01,Pendleton,Kentucky,21191.0,612,1.0
+2021-01-01,Pendleton,West Virginia,54071.0,313,2.0
+2021-01-02,Pendleton,Kentucky,21191.0,615,1.0
+2021-01-02,Pendleton,West Virginia,54071.0,318,2.0
+2021-01-03,Pendleton,Kentucky,21191.0,619,1.0
+2021-01-03,Pendleton,West Virginia,54071.0,328,2.0
+2021-01-04,Pendleton,Kentucky,21191.0,623,1.0
+2021-01-04,Pendleton,West Virginia,54071.0,331,2.0
+2021-01-05,Pendleton,Kentucky,21191.0,628,1.0
+2021-01-05,Pendleton,West Virginia,54071.0,344,2.0
+2021-01-06,Pendleton,Kentucky,21191.0,642,1.0
+2021-01-06,Pendleton,West Virginia,54071.0,351,2.0
+2021-01-07,Pendleton,Kentucky,21191.0,651,1.0
+2021-01-07,Pendleton,West Virginia,54071.0,365,2.0
+2021-01-08,Pendleton,Kentucky,21191.0,662,1.0
+2021-01-08,Pendleton,West Virginia,54071.0,384,2.0
+2021-01-09,Pendleton,Kentucky,21191.0,672,1.0
+2021-01-09,Pendleton,West Virginia,54071.0,388,2.0
+2021-01-10,Pendleton,Kentucky,21191.0,674,1.0
+2021-01-10,Pendleton,West Virginia,54071.0,392,2.0
+2021-01-11,Pendleton,Kentucky,21191.0,675,1.0
+2021-01-11,Pendleton,West Virginia,54071.0,405,2.0
+2021-01-12,Pendleton,Kentucky,21191.0,695,1.0
+2021-01-12,Pendleton,West Virginia,54071.0,410,2.0
+2021-01-13,Pendleton,Kentucky,21191.0,705,1.0
+2021-01-13,Pendleton,West Virginia,54071.0,413,3.0
+2021-01-14,Pendleton,Kentucky,21191.0,717,1.0
+2021-01-14,Pendleton,West Virginia,54071.0,418,3.0
+2021-01-15,Pendleton,Kentucky,21191.0,730,1.0
+2021-01-15,Pendleton,West Virginia,54071.0,430,3.0
+2021-01-16,Pendleton,Kentucky,21191.0,738,1.0
+2021-01-16,Pendleton,West Virginia,54071.0,450,3.0
+2021-01-17,Pendleton,Kentucky,21191.0,743,1.0
+2021-01-17,Pendleton,West Virginia,54071.0,459,3.0
+2021-01-18,Pendleton,Kentucky,21191.0,753,1.0
+2021-01-18,Pendleton,West Virginia,54071.0,460,3.0
+2021-01-19,Pendleton,Kentucky,21191.0,752,1.0
+2021-01-19,Pendleton,West Virginia,54071.0,481,3.0
+2021-01-20,Pendleton,Kentucky,21191.0,765,1.0
+2021-01-20,Pendleton,West Virginia,54071.0,492,3.0
+2021-01-21,Pendleton,Kentucky,21191.0,772,1.0
+2021-01-21,Pendleton,West Virginia,54071.0,505,3.0
+2021-01-22,Pendleton,Kentucky,21191.0,782,1.0
+2021-01-22,Pendleton,West Virginia,54071.0,512,4.0
+2021-01-23,Pendleton,Kentucky,21191.0,798,1.0
+2021-01-23,Pendleton,West Virginia,54071.0,518,4.0
+2021-01-24,Pendleton,Kentucky,21191.0,799,1.0
+2021-01-24,Pendleton,West Virginia,54071.0,523,4.0
+2021-01-25,Pendleton,Kentucky,21191.0,801,1.0
+2021-01-25,Pendleton,West Virginia,54071.0,528,4.0
+2021-01-26,Pendleton,Kentucky,21191.0,809,1.0
+2021-01-26,Pendleton,West Virginia,54071.0,533,4.0
+2021-01-27,Pendleton,Kentucky,21191.0,818,1.0
+2021-01-27,Pendleton,West Virginia,54071.0,536,4.0
+2021-01-28,Pendleton,Kentucky,21191.0,825,1.0
+2021-01-28,Pendleton,West Virginia,54071.0,545,4.0
+2021-01-29,Pendleton,Kentucky,21191.0,817,1.0
+2021-01-29,Pendleton,West Virginia,54071.0,557,4.0
+2021-01-30,Pendleton,Kentucky,21191.0,823,1.0
+2021-01-30,Pendleton,West Virginia,54071.0,566,4.0
+2021-01-31,Pendleton,Kentucky,21191.0,826,1.0
+2021-01-31,Pendleton,West Virginia,54071.0,567,4.0
+2021-02-01,Pendleton,Kentucky,21191.0,830,1.0
+2021-02-01,Pendleton,West Virginia,54071.0,575,4.0
+2021-02-02,Pendleton,Kentucky,21191.0,848,1.0
+2021-02-02,Pendleton,West Virginia,54071.0,583,4.0
+2021-02-03,Pendleton,Kentucky,21191.0,854,1.0
+2021-02-03,Pendleton,West Virginia,54071.0,587,4.0
+2021-02-04,Pendleton,Kentucky,21191.0,855,1.0
+2021-02-04,Pendleton,West Virginia,54071.0,591,4.0
+2021-02-05,Pendleton,Kentucky,21191.0,864,1.0
+2021-02-05,Pendleton,West Virginia,54071.0,595,4.0
+2021-02-06,Pendleton,Kentucky,21191.0,866,1.0
+2021-02-06,Pendleton,West Virginia,54071.0,598,4.0
+2021-02-07,Pendleton,Kentucky,21191.0,869,1.0
+2021-02-07,Pendleton,West Virginia,54071.0,598,4.0
+2021-02-08,Pendleton,Kentucky,21191.0,871,1.0
+2021-02-08,Pendleton,West Virginia,54071.0,601,4.0
+2021-02-09,Pendleton,Kentucky,21191.0,882,1.0
+2021-02-09,Pendleton,West Virginia,54071.0,602,5.0
+2021-02-10,Pendleton,Kentucky,21191.0,887,1.0
+2021-02-10,Pendleton,West Virginia,54071.0,602,5.0
+2021-02-11,Pendleton,Kentucky,21191.0,889,1.0
+2021-02-11,Pendleton,West Virginia,54071.0,604,5.0
+2021-02-12,Pendleton,Kentucky,21191.0,895,1.0
+2021-02-12,Pendleton,West Virginia,54071.0,607,5.0
+2021-02-13,Pendleton,Kentucky,21191.0,899,1.0
+2021-02-13,Pendleton,West Virginia,54071.0,607,5.0
+2021-02-14,Pendleton,Kentucky,21191.0,899,1.0
+2021-02-14,Pendleton,West Virginia,54071.0,609,5.0
+2021-02-15,Pendleton,Kentucky,21191.0,899,1.0
+2021-02-15,Pendleton,West Virginia,54071.0,610,5.0
+2021-02-16,Pendleton,Kentucky,21191.0,903,1.0
+2021-02-16,Pendleton,West Virginia,54071.0,613,5.0
+2021-02-17,Pendleton,Kentucky,21191.0,904,1.0
+2021-02-17,Pendleton,West Virginia,54071.0,613,5.0
+2021-02-18,Pendleton,Kentucky,21191.0,906,1.0
+2021-02-18,Pendleton,West Virginia,54071.0,615,5.0
+2021-02-19,Pendleton,Kentucky,21191.0,910,1.0
+2021-02-19,Pendleton,West Virginia,54071.0,617,5.0
+2021-02-20,Pendleton,Kentucky,21191.0,912,1.0
+2021-02-20,Pendleton,West Virginia,54071.0,617,5.0
+2021-02-21,Pendleton,Kentucky,21191.0,914,1.0
+2021-02-21,Pendleton,West Virginia,54071.0,617,5.0
+2021-02-22,Pendleton,Kentucky,21191.0,914,1.0
+2021-02-22,Pendleton,West Virginia,54071.0,617,5.0
+2021-02-23,Pendleton,Kentucky,21191.0,915,1.0
+2021-02-23,Pendleton,West Virginia,54071.0,617,5.0
+2021-02-24,Pendleton,Kentucky,21191.0,921,1.0
+2021-02-24,Pendleton,West Virginia,54071.0,618,5.0
+2021-02-25,Pendleton,Kentucky,21191.0,921,1.0
+2021-02-25,Pendleton,West Virginia,54071.0,618,5.0
+2021-02-26,Pendleton,Kentucky,21191.0,924,1.0
+2021-02-26,Pendleton,West Virginia,54071.0,619,5.0
+2021-02-27,Pendleton,Kentucky,21191.0,931,1.0
+2021-02-27,Pendleton,West Virginia,54071.0,619,5.0
+2021-02-28,Pendleton,Kentucky,21191.0,932,1.0
+2021-02-28,Pendleton,West Virginia,54071.0,619,5.0
+2021-03-01,Pendleton,Kentucky,21191.0,935,1.0
+2021-03-01,Pendleton,West Virginia,54071.0,619,5.0
+2021-03-02,Pendleton,Kentucky,21191.0,942,1.0
+2021-03-02,Pendleton,West Virginia,54071.0,621,5.0
+2021-03-03,Pendleton,Kentucky,21191.0,946,1.0
+2021-03-03,Pendleton,West Virginia,54071.0,621,5.0
+2021-03-04,Pendleton,Kentucky,21191.0,948,1.0
+2021-03-04,Pendleton,West Virginia,54071.0,622,5.0
+2021-03-05,Pendleton,Kentucky,21191.0,953,1.0
+2021-03-05,Pendleton,West Virginia,54071.0,622,5.0
+2021-03-06,Pendleton,Kentucky,21191.0,954,1.0
+2021-03-06,Pendleton,West Virginia,54071.0,622,5.0
+2021-03-07,Pendleton,Kentucky,21191.0,955,1.0
+2021-03-07,Pendleton,West Virginia,54071.0,620,5.0
+2021-03-08,Pendleton,Kentucky,21191.0,955,1.0
+2021-03-08,Pendleton,West Virginia,54071.0,620,5.0
+2021-03-09,Pendleton,Kentucky,21191.0,957,1.0
+2021-03-09,Pendleton,West Virginia,54071.0,621,5.0
+2021-03-10,Pendleton,Kentucky,21191.0,961,1.0
+2021-03-10,Pendleton,West Virginia,54071.0,622,5.0
+2021-03-11,Pendleton,Kentucky,21191.0,968,1.0
+2021-03-11,Pendleton,West Virginia,54071.0,622,5.0
+2021-03-12,Pendleton,Kentucky,21191.0,969,1.0
+2021-03-12,Pendleton,West Virginia,54071.0,623,7.0
+2021-03-13,Pendleton,Kentucky,21191.0,974,1.0
+2021-03-13,Pendleton,West Virginia,54071.0,623,7.0
+2021-03-14,Pendleton,Kentucky,21191.0,974,1.0
+2021-03-14,Pendleton,West Virginia,54071.0,624,7.0
+2021-03-15,Pendleton,Kentucky,21191.0,976,1.0
+2021-03-15,Pendleton,West Virginia,54071.0,624,7.0
+2021-03-16,Pendleton,Kentucky,21191.0,975,1.0
+2021-03-16,Pendleton,West Virginia,54071.0,625,7.0
+2021-03-17,Pendleton,Kentucky,21191.0,975,1.0
+2021-03-17,Pendleton,West Virginia,54071.0,628,7.0
+2021-03-18,Pendleton,Kentucky,21191.0,976,2.0
+2021-03-18,Pendleton,West Virginia,54071.0,630,7.0
+2021-03-19,Pendleton,Kentucky,21191.0,979,2.0
+2021-03-19,Pendleton,West Virginia,54071.0,631,7.0
+2021-03-20,Pendleton,Kentucky,21191.0,983,2.0
+2021-03-20,Pendleton,West Virginia,54071.0,634,7.0
+2021-03-21,Pendleton,Kentucky,21191.0,983,2.0
+2021-03-21,Pendleton,West Virginia,54071.0,635,7.0
+2021-03-22,Pendleton,Kentucky,21191.0,984,3.0
+2021-03-22,Pendleton,West Virginia,54071.0,635,7.0
+2021-03-23,Pendleton,Kentucky,21191.0,988,3.0
+2021-03-23,Pendleton,West Virginia,54071.0,641,7.0
+2021-03-24,Pendleton,Kentucky,21191.0,987,3.0
+2021-03-24,Pendleton,West Virginia,54071.0,643,7.0
+2021-03-25,Pendleton,Kentucky,21191.0,986,3.0
+2021-03-25,Pendleton,West Virginia,54071.0,647,7.0
+2021-03-26,Pendleton,Kentucky,21191.0,989,3.0
+2021-03-26,Pendleton,West Virginia,54071.0,651,7.0
+2021-03-27,Pendleton,Kentucky,21191.0,985,3.0
+2021-03-27,Pendleton,West Virginia,54071.0,652,7.0
+2021-03-28,Pendleton,Kentucky,21191.0,985,3.0
+2021-03-28,Pendleton,West Virginia,54071.0,659,7.0
+2021-03-29,Pendleton,Kentucky,21191.0,985,3.0
+2021-03-29,Pendleton,West Virginia,54071.0,661,7.0
+2021-03-30,Pendleton,Kentucky,21191.0,984,3.0
+2021-03-30,Pendleton,West Virginia,54071.0,666,7.0
+2021-03-31,Pendleton,Kentucky,21191.0,985,3.0
+2021-03-31,Pendleton,West Virginia,54071.0,666,7.0
+2021-04-01,Pendleton,Kentucky,21191.0,985,3.0
+2021-04-01,Pendleton,West Virginia,54071.0,668,7.0
+2021-04-02,Pendleton,Kentucky,21191.0,986,3.0
+2021-04-02,Pendleton,West Virginia,54071.0,668,7.0
+2021-04-03,Pendleton,Kentucky,21191.0,988,3.0
+2021-04-03,Pendleton,West Virginia,54071.0,671,7.0
+2021-04-04,Pendleton,Kentucky,21191.0,988,3.0
+2021-04-04,Pendleton,West Virginia,54071.0,670,7.0
+2021-04-05,Pendleton,Kentucky,21191.0,987,3.0
+2021-04-05,Pendleton,West Virginia,54071.0,671,7.0
+2021-04-06,Pendleton,Kentucky,21191.0,986,3.0
+2021-04-06,Pendleton,West Virginia,54071.0,670,7.0
+2021-04-07,Pendleton,Kentucky,21191.0,986,3.0
+2021-04-07,Pendleton,West Virginia,54071.0,670,7.0
+2021-04-08,Pendleton,Kentucky,21191.0,991,3.0
+2021-04-08,Pendleton,West Virginia,54071.0,670,8.0
+2021-04-09,Pendleton,Kentucky,21191.0,991,3.0
+2021-04-09,Pendleton,West Virginia,54071.0,674,8.0
+2021-04-10,Pendleton,Kentucky,21191.0,993,3.0
+2021-04-10,Pendleton,West Virginia,54071.0,675,8.0
+2021-04-11,Pendleton,Kentucky,21191.0,994,3.0
+2021-04-11,Pendleton,West Virginia,54071.0,676,8.0
+2021-04-12,Pendleton,Kentucky,21191.0,994,3.0
+2021-04-12,Pendleton,West Virginia,54071.0,676,8.0
+2021-04-13,Pendleton,Kentucky,21191.0,996,3.0
+2021-04-13,Pendleton,West Virginia,54071.0,677,8.0
+2021-04-14,Pendleton,Kentucky,21191.0,999,3.0
+2021-04-14,Pendleton,West Virginia,54071.0,677,8.0
+2021-04-15,Pendleton,Kentucky,21191.0,999,3.0
+2021-04-15,Pendleton,West Virginia,54071.0,678,9.0
+2021-04-16,Pendleton,Kentucky,21191.0,1001,3.0
+2021-04-16,Pendleton,West Virginia,54071.0,680,9.0
+2021-04-17,Pendleton,Kentucky,21191.0,1001,3.0
+2021-04-17,Pendleton,West Virginia,54071.0,686,9.0
+2021-04-18,Pendleton,Kentucky,21191.0,1003,3.0
+2021-04-18,Pendleton,West Virginia,54071.0,686,9.0
+2021-04-19,Pendleton,Kentucky,21191.0,1003,4.0
+2021-04-19,Pendleton,West Virginia,54071.0,686,9.0
+2021-04-20,Pendleton,Kentucky,21191.0,1003,4.0
+2021-04-20,Pendleton,West Virginia,54071.0,690,9.0
+2021-04-21,Pendleton,Kentucky,21191.0,1005,4.0
+2021-04-21,Pendleton,West Virginia,54071.0,692,9.0
+2021-04-22,Pendleton,Kentucky,21191.0,1007,4.0
+2021-04-22,Pendleton,West Virginia,54071.0,693,9.0
+2021-04-23,Pendleton,Kentucky,21191.0,1008,4.0
+2021-04-23,Pendleton,West Virginia,54071.0,693,9.0
+2021-04-24,Pendleton,Kentucky,21191.0,1011,4.0
+2021-04-24,Pendleton,West Virginia,54071.0,694,9.0
+2021-04-25,Pendleton,Kentucky,21191.0,1012,4.0
+2021-04-25,Pendleton,West Virginia,54071.0,695,9.0
+2021-04-26,Pendleton,Kentucky,21191.0,1012,4.0
+2021-04-26,Pendleton,West Virginia,54071.0,695,9.0
+2021-04-27,Pendleton,Kentucky,21191.0,1017,4.0
+2021-04-27,Pendleton,West Virginia,54071.0,695,9.0
+2021-04-28,Pendleton,Kentucky,21191.0,1018,4.0
+2021-04-28,Pendleton,West Virginia,54071.0,696,9.0
+2021-04-29,Pendleton,Kentucky,21191.0,1021,4.0
+2021-04-29,Pendleton,West Virginia,54071.0,697,9.0
+2021-04-30,Pendleton,Kentucky,21191.0,1021,4.0
+2021-04-30,Pendleton,West Virginia,54071.0,697,9.0
+2021-05-01,Pendleton,Kentucky,21191.0,1022,4.0
+2021-05-01,Pendleton,West Virginia,54071.0,697,9.0
+2021-05-02,Pendleton,Kentucky,21191.0,1022,4.0
+2021-05-02,Pendleton,West Virginia,54071.0,698,9.0
+2021-05-03,Pendleton,Kentucky,21191.0,1022,4.0
+2021-05-03,Pendleton,West Virginia,54071.0,698,9.0
+2021-05-04,Pendleton,Kentucky,21191.0,1026,4.0
+2021-05-04,Pendleton,West Virginia,54071.0,699,9.0
+2021-05-05,Pendleton,Kentucky,21191.0,1026,4.0
+2021-05-05,Pendleton,West Virginia,54071.0,699,9.0
+2021-05-06,Pendleton,Kentucky,21191.0,1026,4.0
+2021-05-06,Pendleton,West Virginia,54071.0,700,9.0
+2021-05-07,Pendleton,Kentucky,21191.0,1027,4.0
+2021-05-07,Pendleton,West Virginia,54071.0,700,9.0
+2021-05-08,Pendleton,Kentucky,21191.0,1026,4.0
+2021-05-08,Pendleton,West Virginia,54071.0,700,9.0
+2021-05-09,Pendleton,Kentucky,21191.0,1026,4.0
+2021-05-09,Pendleton,West Virginia,54071.0,701,9.0
+2021-05-10,Pendleton,Kentucky,21191.0,1026,5.0
+2021-05-10,Pendleton,West Virginia,54071.0,702,9.0
+2021-05-11,Pendleton,Kentucky,21191.0,1026,5.0
+2021-05-11,Pendleton,West Virginia,54071.0,702,9.0
+2021-05-12,Pendleton,Kentucky,21191.0,1026,5.0
+2021-05-12,Pendleton,West Virginia,54071.0,702,10.0
+2021-05-13,Pendleton,Kentucky,21191.0,1026,5.0
+2021-05-13,Pendleton,West Virginia,54071.0,703,10.0
+2021-05-14,Pendleton,Kentucky,21191.0,1029,5.0
+2021-05-14,Pendleton,West Virginia,54071.0,703,10.0
+2021-05-15,Pendleton,Kentucky,21191.0,1030,5.0
+2021-05-15,Pendleton,West Virginia,54071.0,703,10.0
+2021-05-16,Pendleton,Kentucky,21191.0,1031,5.0
+2021-05-16,Pendleton,West Virginia,54071.0,703,10.0
+2021-05-17,Pendleton,Kentucky,21191.0,1031,5.0
+2021-05-17,Pendleton,West Virginia,54071.0,704,10.0
+2021-05-18,Pendleton,Kentucky,21191.0,1032,5.0
+2021-05-18,Pendleton,West Virginia,54071.0,704,10.0
+2021-05-19,Pendleton,Kentucky,21191.0,1033,5.0
+2021-05-19,Pendleton,West Virginia,54071.0,704,11.0
+2021-05-20,Pendleton,Kentucky,21191.0,1033,5.0
+2021-05-20,Pendleton,West Virginia,54071.0,704,11.0
+2021-05-21,Pendleton,Kentucky,21191.0,1037,5.0
+2021-05-21,Pendleton,West Virginia,54071.0,704,11.0
+2021-05-22,Pendleton,Kentucky,21191.0,1037,5.0
+2021-05-22,Pendleton,West Virginia,54071.0,704,11.0
+2021-05-23,Pendleton,Kentucky,21191.0,1037,5.0
+2021-05-23,Pendleton,West Virginia,54071.0,704,11.0
+2021-05-24,Pendleton,Kentucky,21191.0,1037,5.0
+2021-05-24,Pendleton,West Virginia,54071.0,704,11.0
+2021-05-25,Pendleton,Kentucky,21191.0,1037,5.0
+2021-05-25,Pendleton,West Virginia,54071.0,705,11.0
+2021-05-26,Pendleton,Kentucky,21191.0,1037,5.0
+2021-05-26,Pendleton,West Virginia,54071.0,706,11.0
+2021-05-27,Pendleton,Kentucky,21191.0,1037,5.0
+2021-05-27,Pendleton,West Virginia,54071.0,707,11.0
+2021-05-28,Pendleton,Kentucky,21191.0,1037,5.0
+2021-05-28,Pendleton,West Virginia,54071.0,709,11.0
+2021-05-29,Pendleton,Kentucky,21191.0,1037,5.0
+2021-05-29,Pendleton,West Virginia,54071.0,709,11.0
+2021-05-30,Pendleton,Kentucky,21191.0,1037,5.0
+2021-05-30,Pendleton,West Virginia,54071.0,709,11.0
+2021-05-31,Pendleton,Kentucky,21191.0,1037,5.0
+2021-05-31,Pendleton,West Virginia,54071.0,709,11.0
+2021-06-01,Pendleton,Kentucky,21191.0,1037,5.0
+2021-06-01,Pendleton,West Virginia,54071.0,712,11.0
+2021-06-02,Pendleton,Kentucky,21191.0,1038,5.0
+2021-06-02,Pendleton,West Virginia,54071.0,713,11.0
+2021-06-03,Pendleton,Kentucky,21191.0,1038,5.0
+2021-06-03,Pendleton,West Virginia,54071.0,719,11.0
+2021-06-04,Pendleton,Kentucky,21191.0,1038,5.0
+2021-06-04,Pendleton,West Virginia,54071.0,721,11.0
+2021-06-05,Pendleton,Kentucky,21191.0,1038,5.0
+2021-06-05,Pendleton,West Virginia,54071.0,721,11.0
+2021-06-06,Pendleton,Kentucky,21191.0,1038,5.0
+2021-06-06,Pendleton,West Virginia,54071.0,721,11.0
+2021-06-07,Pendleton,Kentucky,21191.0,1038,5.0
+2021-06-07,Pendleton,West Virginia,54071.0,722,11.0
+2021-06-08,Pendleton,Kentucky,21191.0,1038,4.0
+2021-06-08,Pendleton,West Virginia,54071.0,722,11.0
+2021-06-09,Pendleton,Kentucky,21191.0,1038,4.0
+2021-06-09,Pendleton,West Virginia,54071.0,723,11.0
+2021-06-10,Pendleton,Kentucky,21191.0,1039,4.0
+2021-06-10,Pendleton,West Virginia,54071.0,723,11.0
+2021-06-11,Pendleton,Kentucky,21191.0,1039,4.0
+2021-06-11,Pendleton,West Virginia,54071.0,723,11.0
+2021-06-12,Pendleton,Kentucky,21191.0,1040,4.0
+2021-06-12,Pendleton,West Virginia,54071.0,723,11.0
+2021-06-13,Pendleton,Kentucky,21191.0,1040,4.0
+2021-06-13,Pendleton,West Virginia,54071.0,723,11.0
+2021-06-14,Pendleton,Kentucky,21191.0,1040,4.0
+2021-06-14,Pendleton,West Virginia,54071.0,723,11.0
+2021-06-15,Pendleton,Kentucky,21191.0,1042,4.0
+2021-06-15,Pendleton,West Virginia,54071.0,724,11.0
+2021-06-16,Pendleton,Kentucky,21191.0,1042,4.0
+2021-06-16,Pendleton,West Virginia,54071.0,724,11.0
+2021-06-17,Pendleton,Kentucky,21191.0,1043,4.0
+2021-06-17,Pendleton,West Virginia,54071.0,724,11.0
+2021-06-18,Pendleton,Kentucky,21191.0,1043,4.0
+2021-06-18,Pendleton,West Virginia,54071.0,724,11.0
+2021-06-19,Pendleton,Kentucky,21191.0,1043,4.0
+2021-06-19,Pendleton,West Virginia,54071.0,724,11.0
+2021-06-20,Pendleton,Kentucky,21191.0,1043,4.0
+2021-06-20,Pendleton,West Virginia,54071.0,724,11.0
+2021-06-21,Pendleton,Kentucky,21191.0,1043,4.0
+2021-06-21,Pendleton,West Virginia,54071.0,724,11.0
+2021-06-22,Pendleton,Kentucky,21191.0,1044,4.0
+2021-06-22,Pendleton,West Virginia,54071.0,724,11.0
+2021-06-23,Pendleton,Kentucky,21191.0,1044,4.0
+2021-06-23,Pendleton,West Virginia,54071.0,724,11.0
+2021-06-24,Pendleton,Kentucky,21191.0,1044,4.0
+2021-06-24,Pendleton,West Virginia,54071.0,724,11.0
+2021-06-25,Pendleton,Kentucky,21191.0,1045,4.0
+2021-06-25,Pendleton,West Virginia,54071.0,724,11.0
+2021-06-26,Pendleton,Kentucky,21191.0,1045,4.0
+2021-06-26,Pendleton,West Virginia,54071.0,724,11.0
+2021-06-27,Pendleton,Kentucky,21191.0,1045,4.0
+2021-06-27,Pendleton,West Virginia,54071.0,724,11.0
+2021-06-28,Pendleton,Kentucky,21191.0,1046,4.0
+2021-06-28,Pendleton,West Virginia,54071.0,725,11.0
+2021-06-29,Pendleton,Kentucky,21191.0,1046,4.0
+2021-06-29,Pendleton,West Virginia,54071.0,725,11.0
+2021-06-30,Pendleton,Kentucky,21191.0,1046,4.0
+2021-06-30,Pendleton,West Virginia,54071.0,725,11.0
+2021-07-01,Pendleton,Kentucky,21191.0,1047,4.0
+2021-07-01,Pendleton,West Virginia,54071.0,725,11.0
+2021-07-02,Pendleton,Kentucky,21191.0,1048,4.0
+2021-07-02,Pendleton,West Virginia,54071.0,725,11.0
+2021-07-03,Pendleton,Kentucky,21191.0,1048,4.0
+2021-07-03,Pendleton,West Virginia,54071.0,725,11.0
+2021-07-04,Pendleton,Kentucky,21191.0,1048,4.0
+2021-07-04,Pendleton,West Virginia,54071.0,725,11.0
+2021-07-05,Pendleton,Kentucky,21191.0,1048,4.0
+2021-07-05,Pendleton,West Virginia,54071.0,725,11.0
+2021-07-06,Pendleton,Kentucky,21191.0,1048,4.0
+2021-07-06,Pendleton,West Virginia,54071.0,725,11.0
+2021-07-07,Pendleton,Kentucky,21191.0,1048,4.0
+2021-07-07,Pendleton,West Virginia,54071.0,725,11.0
+2021-07-08,Pendleton,Kentucky,21191.0,1048,4.0
+2021-07-08,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-09,Pendleton,Kentucky,21191.0,1048,4.0
+2021-07-09,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-10,Pendleton,Kentucky,21191.0,1048,4.0
+2021-07-10,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-11,Pendleton,Kentucky,21191.0,1048,4.0
+2021-07-11,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-12,Pendleton,Kentucky,21191.0,1048,4.0
+2021-07-12,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-13,Pendleton,Kentucky,21191.0,1049,4.0
+2021-07-13,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-14,Pendleton,Kentucky,21191.0,1054,4.0
+2021-07-14,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-15,Pendleton,Kentucky,21191.0,1055,4.0
+2021-07-15,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-16,Pendleton,Kentucky,21191.0,1057,4.0
+2021-07-16,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-17,Pendleton,Kentucky,21191.0,1057,4.0
+2021-07-17,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-18,Pendleton,Kentucky,21191.0,1057,4.0
+2021-07-18,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-19,Pendleton,Kentucky,21191.0,1058,4.0
+2021-07-19,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-20,Pendleton,Kentucky,21191.0,1064,4.0
+2021-07-20,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-21,Pendleton,Kentucky,21191.0,1068,4.0
+2021-07-21,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-22,Pendleton,Kentucky,21191.0,1069,4.0
+2021-07-22,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-23,Pendleton,Kentucky,21191.0,1070,4.0
+2021-07-23,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-24,Pendleton,Kentucky,21191.0,1070,4.0
+2021-07-24,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-25,Pendleton,Kentucky,21191.0,1070,4.0
+2021-07-25,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-26,Pendleton,Kentucky,21191.0,1072,4.0
+2021-07-26,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-27,Pendleton,Kentucky,21191.0,1078,4.0
+2021-07-27,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-28,Pendleton,Kentucky,21191.0,1079,4.0
+2021-07-28,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-29,Pendleton,Kentucky,21191.0,1087,4.0
+2021-07-29,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-30,Pendleton,Kentucky,21191.0,1091,4.0
+2021-07-30,Pendleton,West Virginia,54071.0,726,11.0
+2021-07-31,Pendleton,Kentucky,21191.0,1091,4.0
+2021-07-31,Pendleton,West Virginia,54071.0,726,11.0
+2021-08-01,Pendleton,Kentucky,21191.0,1091,4.0
+2021-08-01,Pendleton,West Virginia,54071.0,726,11.0
+2021-08-02,Pendleton,Kentucky,21191.0,1101,4.0
+2021-08-02,Pendleton,West Virginia,54071.0,726,11.0
+2021-08-03,Pendleton,Kentucky,21191.0,1114,4.0
+2021-08-03,Pendleton,West Virginia,54071.0,726,11.0
+2021-08-04,Pendleton,Kentucky,21191.0,1120,4.0
+2021-08-04,Pendleton,West Virginia,54071.0,727,11.0
+2021-08-05,Pendleton,Kentucky,21191.0,1130,4.0
+2021-08-05,Pendleton,West Virginia,54071.0,727,11.0
+2021-08-06,Pendleton,Kentucky,21191.0,1134,4.0
+2021-08-06,Pendleton,West Virginia,54071.0,727,11.0
+2021-08-07,Pendleton,Kentucky,21191.0,1134,4.0
+2021-08-07,Pendleton,West Virginia,54071.0,727,11.0
+2021-08-08,Pendleton,Kentucky,21191.0,1134,4.0
+2021-08-08,Pendleton,West Virginia,54071.0,727,11.0
+2021-08-09,Pendleton,Kentucky,21191.0,1148,4.0
+2021-08-09,Pendleton,West Virginia,54071.0,725,11.0
+2021-08-10,Pendleton,Kentucky,21191.0,1149,4.0
+2021-08-10,Pendleton,West Virginia,54071.0,726,11.0
+2021-08-11,Pendleton,Kentucky,21191.0,1155,4.0
+2021-08-11,Pendleton,West Virginia,54071.0,728,11.0
+2021-08-12,Pendleton,Kentucky,21191.0,1164,4.0
+2021-08-12,Pendleton,West Virginia,54071.0,728,11.0
+2021-08-13,Pendleton,Kentucky,21191.0,1168,4.0
+2021-08-13,Pendleton,West Virginia,54071.0,729,11.0
+2021-08-14,Pendleton,Kentucky,21191.0,1168,4.0
+2021-08-14,Pendleton,West Virginia,54071.0,729,11.0
+2021-08-15,Pendleton,Kentucky,21191.0,1168,4.0
+2021-08-15,Pendleton,West Virginia,54071.0,729,11.0
+2021-08-16,Pendleton,Kentucky,21191.0,1218,5.0
+2021-08-16,Pendleton,West Virginia,54071.0,729,11.0
+2021-08-17,Pendleton,Kentucky,21191.0,1236,5.0
+2021-08-17,Pendleton,West Virginia,54071.0,737,11.0
+2021-08-18,Pendleton,Kentucky,21191.0,1249,5.0
+2021-08-18,Pendleton,West Virginia,54071.0,736,11.0
+2021-08-19,Pendleton,Kentucky,21191.0,1268,5.0
+2021-08-19,Pendleton,West Virginia,54071.0,741,11.0
+2021-08-20,Pendleton,Kentucky,21191.0,1276,5.0
+2021-08-20,Pendleton,West Virginia,54071.0,749,11.0
+2021-08-21,Pendleton,Kentucky,21191.0,1276,5.0
+2021-08-21,Pendleton,West Virginia,54071.0,749,11.0
+2021-08-22,Pendleton,Kentucky,21191.0,1276,5.0
+2021-08-22,Pendleton,West Virginia,54071.0,749,11.0
+2021-08-23,Pendleton,Kentucky,21191.0,1301,5.0
+2021-08-23,Pendleton,West Virginia,54071.0,760,11.0
+2021-08-24,Pendleton,Kentucky,21191.0,1314,5.0
+2021-08-24,Pendleton,West Virginia,54071.0,769,11.0
+2021-08-25,Pendleton,Kentucky,21191.0,1334,5.0
+2021-08-25,Pendleton,West Virginia,54071.0,773,11.0
+2021-08-26,Pendleton,Kentucky,21191.0,1356,5.0
+2021-08-26,Pendleton,West Virginia,54071.0,785,11.0
+2021-08-27,Pendleton,Kentucky,21191.0,1369,5.0
+2021-08-27,Pendleton,West Virginia,54071.0,790,11.0
+2021-08-28,Pendleton,Kentucky,21191.0,1369,5.0
+2021-08-28,Pendleton,West Virginia,54071.0,790,11.0
+2021-08-29,Pendleton,Kentucky,21191.0,1369,5.0
+2021-08-29,Pendleton,West Virginia,54071.0,811,11.0
+2021-08-30,Pendleton,Kentucky,21191.0,1388,5.0
+2021-08-30,Pendleton,West Virginia,54071.0,817,11.0
+2021-08-31,Pendleton,Kentucky,21191.0,1395,5.0
+2021-08-31,Pendleton,West Virginia,54071.0,820,11.0
+2021-09-01,Pendleton,Kentucky,21191.0,1407,5.0
+2021-09-01,Pendleton,West Virginia,54071.0,828,11.0
+2021-09-02,Pendleton,Kentucky,21191.0,1428,5.0
+2021-09-02,Pendleton,West Virginia,54071.0,850,11.0
+2021-09-03,Pendleton,Kentucky,21191.0,1440,5.0
+2021-09-03,Pendleton,West Virginia,54071.0,868,11.0
+2021-09-04,Pendleton,Kentucky,21191.0,1440,5.0
+2021-09-04,Pendleton,West Virginia,54071.0,873,11.0
+2021-09-05,Pendleton,Kentucky,21191.0,1440,5.0
+2021-09-05,Pendleton,West Virginia,54071.0,880,11.0
+2021-09-06,Pendleton,Kentucky,21191.0,1440,5.0
+2021-09-06,Pendleton,West Virginia,54071.0,888,12.0
+2021-09-07,Pendleton,Kentucky,21191.0,1476,5.0
+2021-09-07,Pendleton,West Virginia,54071.0,890,12.0
+2021-09-08,Pendleton,Kentucky,21191.0,1493,7.0
+2021-09-08,Pendleton,West Virginia,54071.0,895,12.0
+2021-09-09,Pendleton,Kentucky,21191.0,1508,7.0
+2021-09-09,Pendleton,West Virginia,54071.0,908,12.0
+2021-09-10,Pendleton,Kentucky,21191.0,1522,8.0
+2021-09-10,Pendleton,West Virginia,54071.0,913,12.0
+2021-09-11,Pendleton,Kentucky,21191.0,1522,8.0
+2021-09-11,Pendleton,West Virginia,54071.0,923,12.0
+2021-09-12,Pendleton,Kentucky,21191.0,1522,8.0
+2021-09-12,Pendleton,West Virginia,54071.0,939,12.0
+2021-09-13,Pendleton,Kentucky,21191.0,1545,9.0
+2021-09-13,Pendleton,West Virginia,54071.0,946,12.0
+2021-09-14,Pendleton,Kentucky,21191.0,1566,11.0
+2021-09-14,Pendleton,West Virginia,54071.0,952,12.0
+2021-09-15,Pendleton,Kentucky,21191.0,1591,11.0
+2021-09-15,Pendleton,West Virginia,54071.0,959,12.0
+2021-09-16,Pendleton,Kentucky,21191.0,1604,11.0
+2021-09-16,Pendleton,West Virginia,54071.0,966,12.0
+2021-09-17,Pendleton,Kentucky,21191.0,1630,12.0
+2021-09-17,Pendleton,West Virginia,54071.0,972,12.0
+2021-09-18,Pendleton,Kentucky,21191.0,1630,12.0
+2021-09-18,Pendleton,West Virginia,54071.0,982,12.0
+2021-09-19,Pendleton,Kentucky,21191.0,1630,12.0
+2021-09-19,Pendleton,West Virginia,54071.0,989,12.0
+2021-09-20,Pendleton,Kentucky,21191.0,1644,12.0
+2021-09-20,Pendleton,West Virginia,54071.0,994,12.0
+2021-09-21,Pendleton,Kentucky,21191.0,1659,12.0
+2021-09-21,Pendleton,West Virginia,54071.0,1001,12.0
+2021-09-22,Pendleton,Kentucky,21191.0,1682,12.0
+2021-09-22,Pendleton,West Virginia,54071.0,1006,12.0
+2021-09-23,Pendleton,Kentucky,21191.0,1696,12.0
+2021-09-23,Pendleton,West Virginia,54071.0,1010,12.0
+2021-09-24,Pendleton,Kentucky,21191.0,1713,12.0
+2021-09-24,Pendleton,West Virginia,54071.0,1015,12.0
+2021-09-25,Pendleton,Kentucky,21191.0,1713,12.0
+2021-09-25,Pendleton,West Virginia,54071.0,1026,12.0
+2021-09-26,Pendleton,Kentucky,21191.0,1713,12.0
+2021-09-26,Pendleton,West Virginia,54071.0,1027,12.0
+2021-09-27,Pendleton,Kentucky,21191.0,1743,13.0
+2021-09-27,Pendleton,West Virginia,54071.0,1029,12.0
+2021-09-28,Pendleton,Kentucky,21191.0,1762,13.0
+2021-09-28,Pendleton,West Virginia,54071.0,1033,12.0
+2021-09-29,Pendleton,Kentucky,21191.0,1780,13.0
+2021-09-29,Pendleton,West Virginia,54071.0,1034,12.0
+2021-09-30,Pendleton,Kentucky,21191.0,1791,13.0
+2021-09-30,Pendleton,West Virginia,54071.0,1042,12.0
+2021-10-01,Pendleton,Kentucky,21191.0,1817,13.0
+2021-10-01,Pendleton,West Virginia,54071.0,1044,12.0
+2021-10-02,Pendleton,Kentucky,21191.0,1817,13.0
+2021-10-02,Pendleton,West Virginia,54071.0,1047,12.0
+2021-10-03,Pendleton,Kentucky,21191.0,1817,13.0
+2021-10-03,Pendleton,West Virginia,54071.0,1051,12.0
+2021-10-04,Pendleton,Kentucky,21191.0,1845,14.0
+2021-10-04,Pendleton,West Virginia,54071.0,1051,12.0
+2021-10-05,Pendleton,Kentucky,21191.0,1857,14.0
+2021-10-05,Pendleton,West Virginia,54071.0,1051,12.0
+2021-10-06,Pendleton,Kentucky,21191.0,1884,14.0
+2021-10-06,Pendleton,West Virginia,54071.0,1054,12.0
+2021-10-07,Pendleton,Kentucky,21191.0,1906,14.0
+2021-10-07,Pendleton,West Virginia,54071.0,1057,12.0
+2021-10-08,Pendleton,Kentucky,21191.0,1923,14.0
+2021-10-08,Pendleton,West Virginia,54071.0,1058,12.0
+2021-10-09,Pendleton,Kentucky,21191.0,1923,14.0
+2021-10-09,Pendleton,West Virginia,54071.0,1062,12.0
+2021-10-10,Pendleton,Kentucky,21191.0,1923,14.0
+2021-10-10,Pendleton,West Virginia,54071.0,1065,12.0
+2021-10-11,Pendleton,Kentucky,21191.0,1941,14.0
+2021-10-11,Pendleton,West Virginia,54071.0,1065,12.0
+2021-10-12,Pendleton,Kentucky,21191.0,1958,14.0
+2021-10-12,Pendleton,West Virginia,54071.0,1067,12.0
+2021-10-13,Pendleton,Kentucky,21191.0,1973,14.0
+2021-10-13,Pendleton,West Virginia,54071.0,1073,12.0
+2021-10-14,Pendleton,Kentucky,21191.0,1980,14.0
+2021-10-14,Pendleton,West Virginia,54071.0,1077,14.0
+2021-10-15,Pendleton,Kentucky,21191.0,1991,16.0
+2021-10-15,Pendleton,West Virginia,54071.0,1079,14.0
+2021-10-16,Pendleton,Kentucky,21191.0,1991,16.0
+2021-10-16,Pendleton,West Virginia,54071.0,1080,14.0
+2021-10-17,Pendleton,Kentucky,21191.0,1991,16.0
+2021-10-17,Pendleton,West Virginia,54071.0,1079,14.0
+2021-10-18,Pendleton,Kentucky,21191.0,2005,17.0
+2021-10-18,Pendleton,West Virginia,54071.0,1079,14.0
+2021-10-19,Pendleton,Kentucky,21191.0,2010,17.0
+2021-10-19,Pendleton,West Virginia,54071.0,1083,14.0
+2021-10-20,Pendleton,Kentucky,21191.0,2012,17.0
+2021-10-20,Pendleton,West Virginia,54071.0,1084,14.0
+2021-10-21,Pendleton,Kentucky,21191.0,2015,17.0
+2021-10-21,Pendleton,West Virginia,54071.0,1085,14.0
+2021-10-22,Pendleton,Kentucky,21191.0,2018,17.0
+2021-10-22,Pendleton,West Virginia,54071.0,1087,14.0
+2021-10-23,Pendleton,Kentucky,21191.0,2018,17.0
+2021-10-23,Pendleton,West Virginia,54071.0,1088,14.0
+2021-10-24,Pendleton,Kentucky,21191.0,2018,17.0
+2021-10-24,Pendleton,West Virginia,54071.0,1088,14.0
+2021-10-25,Pendleton,Kentucky,21191.0,2024,18.0
+2021-10-25,Pendleton,West Virginia,54071.0,1093,14.0
+2021-10-26,Pendleton,Kentucky,21191.0,2027,18.0
+2021-10-26,Pendleton,West Virginia,54071.0,1096,14.0
+2021-10-27,Pendleton,Kentucky,21191.0,2033,18.0
+2021-10-27,Pendleton,West Virginia,54071.0,1096,14.0
+2021-10-28,Pendleton,Kentucky,21191.0,2035,19.0
+2021-10-28,Pendleton,West Virginia,54071.0,1100,15.0
+2021-10-29,Pendleton,Kentucky,21191.0,2042,19.0
+2021-10-29,Pendleton,West Virginia,54071.0,1104,15.0
+2021-10-30,Pendleton,Kentucky,21191.0,2042,19.0
+2021-10-30,Pendleton,West Virginia,54071.0,1106,15.0
+2021-10-31,Pendleton,Kentucky,21191.0,2042,19.0
+2021-10-31,Pendleton,West Virginia,54071.0,1107,15.0
+2021-11-01,Pendleton,Kentucky,21191.0,2047,19.0
+2021-11-01,Pendleton,West Virginia,54071.0,1111,15.0
+2021-11-02,Pendleton,Kentucky,21191.0,2050,19.0
+2021-11-02,Pendleton,West Virginia,54071.0,1112,15.0
+2021-11-03,Pendleton,Kentucky,21191.0,2056,19.0
+2021-11-03,Pendleton,West Virginia,54071.0,1114,15.0
+2021-11-04,Pendleton,Kentucky,21191.0,2057,19.0
+2021-11-04,Pendleton,West Virginia,54071.0,1116,15.0
+2021-11-05,Pendleton,Kentucky,21191.0,2060,20.0
+2021-11-05,Pendleton,West Virginia,54071.0,1114,15.0
+2021-11-06,Pendleton,Kentucky,21191.0,2060,20.0
+2021-11-06,Pendleton,West Virginia,54071.0,1118,15.0
+2021-11-07,Pendleton,Kentucky,21191.0,2060,20.0
+2021-11-07,Pendleton,West Virginia,54071.0,1121,15.0
+2021-11-08,Pendleton,Kentucky,21191.0,2068,20.0
+2021-11-08,Pendleton,West Virginia,54071.0,1120,15.0
+2021-11-09,Pendleton,Kentucky,21191.0,2072,20.0
+2021-11-09,Pendleton,West Virginia,54071.0,1120,15.0
+2021-11-10,Pendleton,Kentucky,21191.0,2077,20.0
+2021-11-10,Pendleton,West Virginia,54071.0,1124,15.0
+2021-11-11,Pendleton,Kentucky,21191.0,2077,20.0
+2021-11-11,Pendleton,West Virginia,54071.0,1126,15.0
+2021-11-12,Pendleton,Kentucky,21191.0,2092,20.0
+2021-11-12,Pendleton,West Virginia,54071.0,1129,15.0
+2021-11-13,Pendleton,Kentucky,21191.0,2092,20.0
+2021-11-13,Pendleton,West Virginia,54071.0,1136,15.0
+2021-11-14,Pendleton,Kentucky,21191.0,2092,20.0
+2021-11-14,Pendleton,West Virginia,54071.0,1141,15.0
+2021-11-15,Pendleton,Kentucky,21191.0,2099,21.0
+2021-11-15,Pendleton,West Virginia,54071.0,1143,15.0
+2021-11-16,Pendleton,Kentucky,21191.0,2105,21.0
+2021-11-16,Pendleton,West Virginia,54071.0,1151,15.0
+2021-11-17,Pendleton,Kentucky,21191.0,2108,21.0
+2021-11-17,Pendleton,West Virginia,54071.0,1157,15.0
+2021-11-18,Pendleton,Kentucky,21191.0,2115,21.0
+2021-11-18,Pendleton,West Virginia,54071.0,1171,15.0
+2021-11-19,Pendleton,Kentucky,21191.0,2115,24.0
+2021-11-19,Pendleton,West Virginia,54071.0,1181,15.0
+2021-11-20,Pendleton,Kentucky,21191.0,2115,24.0
+2021-11-20,Pendleton,West Virginia,54071.0,1191,15.0
+2021-11-21,Pendleton,Kentucky,21191.0,2115,24.0
+2021-11-21,Pendleton,West Virginia,54071.0,1201,15.0
+2021-11-22,Pendleton,Kentucky,21191.0,2121,25.0
+2021-11-22,Pendleton,West Virginia,54071.0,1203,15.0
+2021-11-23,Pendleton,Kentucky,21191.0,2127,25.0
+2021-11-23,Pendleton,West Virginia,54071.0,1206,15.0
+2021-11-24,Pendleton,Kentucky,21191.0,2135,25.0
+2021-11-24,Pendleton,West Virginia,54071.0,1208,15.0
+2021-11-25,Pendleton,Kentucky,21191.0,2135,25.0
+2021-11-25,Pendleton,West Virginia,54071.0,1208,15.0
+2021-11-26,Pendleton,Kentucky,21191.0,2135,25.0
+2021-11-26,Pendleton,West Virginia,54071.0,1208,15.0
+2021-11-27,Pendleton,Kentucky,21191.0,2135,25.0
+2021-11-27,Pendleton,West Virginia,54071.0,1208,15.0
+2021-11-28,Pendleton,Kentucky,21191.0,2135,25.0
+2021-11-28,Pendleton,West Virginia,54071.0,1208,15.0
+2021-11-29,Pendleton,Kentucky,21191.0,2158,25.0
+2021-11-29,Pendleton,West Virginia,54071.0,1221,15.0
+2021-11-30,Pendleton,Kentucky,21191.0,2170,25.0
+2021-11-30,Pendleton,West Virginia,54071.0,1231,15.0
+2021-12-01,Pendleton,Kentucky,21191.0,2178,25.0
+2021-12-01,Pendleton,West Virginia,54071.0,1237,15.0
+2021-12-02,Pendleton,Kentucky,21191.0,2188,25.0
+2021-12-02,Pendleton,West Virginia,54071.0,1243,15.0
+2021-12-03,Pendleton,Kentucky,21191.0,2195,25.0
+2021-12-03,Pendleton,West Virginia,54071.0,1247,16.0
+2021-12-04,Pendleton,Kentucky,21191.0,2195,25.0
+2021-12-04,Pendleton,West Virginia,54071.0,1257,16.0
+2021-12-05,Pendleton,Kentucky,21191.0,2195,25.0
+2021-12-05,Pendleton,West Virginia,54071.0,1258,16.0
+2021-12-06,Pendleton,Kentucky,21191.0,2206,26.0
+2021-12-06,Pendleton,West Virginia,54071.0,1261,16.0
+2021-12-07,Pendleton,Kentucky,21191.0,2207,26.0
+2021-12-07,Pendleton,West Virginia,54071.0,1263,16.0
+2021-12-08,Pendleton,Kentucky,21191.0,2217,26.0
+2021-12-08,Pendleton,West Virginia,54071.0,1268,16.0
+2021-12-09,Pendleton,Kentucky,21191.0,2225,26.0
+2021-12-09,Pendleton,West Virginia,54071.0,1273,16.0
+2021-12-10,Pendleton,Kentucky,21191.0,2229,26.0
+2021-12-10,Pendleton,West Virginia,54071.0,1277,16.0
+2021-12-11,Pendleton,Kentucky,21191.0,2229,26.0
+2021-12-11,Pendleton,West Virginia,54071.0,1281,16.0
+2021-12-12,Pendleton,Kentucky,21191.0,2229,26.0
+2021-12-12,Pendleton,West Virginia,54071.0,1285,16.0
+2021-12-13,Pendleton,Kentucky,21191.0,2243,26.0
+2021-12-13,Pendleton,West Virginia,54071.0,1284,16.0
+2021-12-14,Pendleton,Kentucky,21191.0,2250,26.0
+2021-12-14,Pendleton,West Virginia,54071.0,1284,16.0
+2021-12-15,Pendleton,Kentucky,21191.0,2257,26.0
+2021-12-15,Pendleton,West Virginia,54071.0,1286,16.0
+2021-12-16,Pendleton,Kentucky,21191.0,2266,27.0
+2021-12-16,Pendleton,West Virginia,54071.0,1288,16.0
+2021-12-17,Pendleton,Kentucky,21191.0,2280,28.0
+2021-12-17,Pendleton,West Virginia,54071.0,1291,16.0
+2021-12-18,Pendleton,Kentucky,21191.0,2280,28.0
+2021-12-18,Pendleton,West Virginia,54071.0,1297,16.0
+2021-12-19,Pendleton,Kentucky,21191.0,2280,28.0
+2021-12-19,Pendleton,West Virginia,54071.0,1298,16.0
+2021-12-20,Pendleton,Kentucky,21191.0,2294,29.0
+2021-12-20,Pendleton,West Virginia,54071.0,1299,16.0
+2021-12-21,Pendleton,Kentucky,21191.0,2309,29.0
+2021-12-21,Pendleton,West Virginia,54071.0,1301,16.0
+2021-12-22,Pendleton,Kentucky,21191.0,2324,29.0
+2021-12-22,Pendleton,West Virginia,54071.0,1303,16.0
+2021-12-23,Pendleton,Kentucky,21191.0,2324,29.0
+2021-12-23,Pendleton,West Virginia,54071.0,1304,16.0
+2021-12-24,Pendleton,Kentucky,21191.0,2324,29.0
+2021-12-24,Pendleton,West Virginia,54071.0,1304,16.0
+2021-12-25,Pendleton,Kentucky,21191.0,2324,29.0
+2021-12-25,Pendleton,West Virginia,54071.0,1304,16.0
+2021-12-26,Pendleton,Kentucky,21191.0,2324,29.0
+2021-12-26,Pendleton,West Virginia,54071.0,1304,16.0
+2021-12-27,Pendleton,Kentucky,21191.0,2350,29.0
+2021-12-27,Pendleton,West Virginia,54071.0,1310,16.0
+2021-12-28,Pendleton,Kentucky,21191.0,2367,29.0
+2021-12-28,Pendleton,West Virginia,54071.0,1311,16.0
+2021-12-29,Pendleton,Kentucky,21191.0,2382,29.0
+2021-12-29,Pendleton,West Virginia,54071.0,1319,16.0
+2021-12-30,Pendleton,Kentucky,21191.0,2382,29.0
+2021-12-30,Pendleton,West Virginia,54071.0,1321,16.0
+2021-12-31,Pendleton,Kentucky,21191.0,2382,29.0
+2021-12-31,Pendleton,West Virginia,54071.0,1321,16.0
+2022-01-01,Pendleton,Kentucky,21191.0,2382,29.0
+2022-01-01,Pendleton,West Virginia,54071.0,1321,16.0
+2022-01-02,Pendleton,Kentucky,21191.0,2382,29.0
+2022-01-02,Pendleton,West Virginia,54071.0,1321,16.0
+2022-01-03,Pendleton,Kentucky,21191.0,2430,29.0
+2022-01-03,Pendleton,West Virginia,54071.0,1352,16.0
+2022-01-04,Pendleton,Kentucky,21191.0,2450,29.0
+2022-01-04,Pendleton,West Virginia,54071.0,1360,16.0
+2022-01-05,Pendleton,Kentucky,21191.0,2488,29.0
+2022-01-05,Pendleton,West Virginia,54071.0,1365,16.0
+2022-01-06,Pendleton,Kentucky,21191.0,2514,30.0
+2022-01-06,Pendleton,West Virginia,54071.0,1377,16.0
+2022-01-07,Pendleton,Kentucky,21191.0,2534,31.0
+2022-01-07,Pendleton,West Virginia,54071.0,1393,16.0
+2022-01-08,Pendleton,Kentucky,21191.0,2534,31.0
+2022-01-08,Pendleton,West Virginia,54071.0,1402,16.0
+2022-01-09,Pendleton,Kentucky,21191.0,2534,31.0
+2022-01-09,Pendleton,West Virginia,54071.0,1416,16.0
+2022-01-10,Pendleton,Kentucky,21191.0,2591,31.0
+2022-01-10,Pendleton,West Virginia,54071.0,1419,16.0
+2022-01-11,Pendleton,Kentucky,21191.0,2628,31.0
+2022-01-11,Pendleton,West Virginia,54071.0,1434,16.0
+2022-01-12,Pendleton,Kentucky,21191.0,2671,31.0
+2022-01-12,Pendleton,West Virginia,54071.0,1451,16.0
+2022-01-13,Pendleton,Kentucky,21191.0,2715,31.0
+2022-01-13,Pendleton,West Virginia,54071.0,1466,16.0
+2022-01-14,Pendleton,Kentucky,21191.0,2754,31.0
+2022-01-14,Pendleton,West Virginia,54071.0,1494,16.0
+2022-01-15,Pendleton,Kentucky,21191.0,2754,31.0
+2022-01-15,Pendleton,West Virginia,54071.0,1516,16.0
+2022-01-16,Pendleton,Kentucky,21191.0,2754,31.0
+2022-01-16,Pendleton,West Virginia,54071.0,1527,16.0
+2022-01-17,Pendleton,Kentucky,21191.0,2754,31.0
+2022-01-17,Pendleton,West Virginia,54071.0,1543,16.0
+2022-01-18,Pendleton,Kentucky,21191.0,2854,31.0
+2022-01-18,Pendleton,West Virginia,54071.0,1547,16.0
+2022-01-19,Pendleton,Kentucky,21191.0,2892,31.0
+2022-01-19,Pendleton,West Virginia,54071.0,1559,16.0
+2022-01-20,Pendleton,Kentucky,21191.0,2937,31.0
+2022-01-20,Pendleton,West Virginia,54071.0,1584,16.0
+2022-01-21,Pendleton,Kentucky,21191.0,2964,31.0
+2022-01-21,Pendleton,West Virginia,54071.0,1606,16.0
+2022-01-22,Pendleton,Kentucky,21191.0,2964,31.0
+2022-01-22,Pendleton,West Virginia,54071.0,1636,16.0
+2022-01-23,Pendleton,Kentucky,21191.0,2964,31.0
+2022-01-23,Pendleton,West Virginia,54071.0,1662,16.0
+2022-01-24,Pendleton,Kentucky,21191.0,3034,32.0
+2022-01-24,Pendleton,West Virginia,54071.0,1672,16.0
+2022-01-25,Pendleton,Kentucky,21191.0,3063,32.0
+2022-01-25,Pendleton,West Virginia,54071.0,1682,16.0
+2022-01-26,Pendleton,Kentucky,21191.0,3105,32.0
+2022-01-26,Pendleton,West Virginia,54071.0,1695,16.0
+2022-01-27,Pendleton,Kentucky,21191.0,3139,33.0
+2022-01-27,Pendleton,West Virginia,54071.0,1717,16.0
+2022-01-28,Pendleton,Kentucky,21191.0,3186,33.0
+2022-01-28,Pendleton,West Virginia,54071.0,1733,16.0
+2022-01-29,Pendleton,Kentucky,21191.0,3186,33.0
+2022-01-29,Pendleton,West Virginia,54071.0,1749,16.0
+2022-01-30,Pendleton,Kentucky,21191.0,3186,33.0
+2022-01-30,Pendleton,West Virginia,54071.0,1760,16.0
+2022-01-31,Pendleton,Kentucky,21191.0,3233,33.0
+2022-01-31,Pendleton,West Virginia,54071.0,1772,16.0
+2022-02-01,Pendleton,Kentucky,21191.0,3254,33.0
+2022-02-01,Pendleton,West Virginia,54071.0,1783,16.0
+2022-02-02,Pendleton,Kentucky,21191.0,3275,33.0
+2022-02-02,Pendleton,West Virginia,54071.0,1793,16.0
+2022-02-03,Pendleton,Kentucky,21191.0,3289,33.0
+2022-02-03,Pendleton,West Virginia,54071.0,1812,16.0
+2022-02-04,Pendleton,Kentucky,21191.0,3295,33.0
+2022-02-04,Pendleton,West Virginia,54071.0,1828,16.0
+2022-02-05,Pendleton,Kentucky,21191.0,3295,33.0
+2022-02-05,Pendleton,West Virginia,54071.0,1835,16.0
+2022-02-06,Pendleton,Kentucky,21191.0,3295,33.0
+2022-02-06,Pendleton,West Virginia,54071.0,1836,16.0
+2022-02-07,Pendleton,Kentucky,21191.0,3304,33.0
+2022-02-07,Pendleton,West Virginia,54071.0,1840,16.0
+2022-02-08,Pendleton,Kentucky,21191.0,3311,33.0
+2022-02-08,Pendleton,West Virginia,54071.0,1844,16.0
+2022-02-09,Pendleton,Kentucky,21191.0,3328,33.0
+2022-02-09,Pendleton,West Virginia,54071.0,1849,16.0
+2022-02-10,Pendleton,Kentucky,21191.0,3336,33.0
+2022-02-10,Pendleton,West Virginia,54071.0,1861,16.0
+2022-02-11,Pendleton,Kentucky,21191.0,3340,33.0
+2022-02-11,Pendleton,West Virginia,54071.0,1867,16.0
+2022-02-12,Pendleton,Kentucky,21191.0,3340,33.0
+2022-02-12,Pendleton,West Virginia,54071.0,1867,16.0
+2022-02-13,Pendleton,Kentucky,21191.0,3340,33.0
+2022-02-13,Pendleton,West Virginia,54071.0,1870,16.0
+2022-02-14,Pendleton,Kentucky,21191.0,3362,33.0
+2022-02-14,Pendleton,West Virginia,54071.0,1873,16.0
+2022-02-15,Pendleton,Kentucky,21191.0,3367,33.0
+2022-02-15,Pendleton,West Virginia,54071.0,1877,16.0
+2022-02-16,Pendleton,Kentucky,21191.0,3372,33.0
+2022-02-16,Pendleton,West Virginia,54071.0,1877,16.0
+2022-02-17,Pendleton,Kentucky,21191.0,3374,33.0
+2022-02-17,Pendleton,West Virginia,54071.0,1888,16.0
+2022-02-18,Pendleton,Kentucky,21191.0,3376,33.0
+2022-02-18,Pendleton,West Virginia,54071.0,1891,16.0
+2022-02-19,Pendleton,Kentucky,21191.0,3376,33.0
+2022-02-19,Pendleton,West Virginia,54071.0,1891,16.0
+2022-02-20,Pendleton,Kentucky,21191.0,3376,33.0
+2022-02-20,Pendleton,West Virginia,54071.0,1891,16.0
+2022-02-21,Pendleton,Kentucky,21191.0,3388,33.0
+2022-02-21,Pendleton,West Virginia,54071.0,1911,16.0
+2022-02-22,Pendleton,Kentucky,21191.0,3394,33.0
+2022-02-22,Pendleton,West Virginia,54071.0,1913,16.0
+2022-02-23,Pendleton,Kentucky,21191.0,3397,33.0
+2022-02-23,Pendleton,West Virginia,54071.0,1910,16.0
+2022-02-24,Pendleton,Kentucky,21191.0,3397,33.0
+2022-02-24,Pendleton,West Virginia,54071.0,1911,16.0
+2022-02-25,Pendleton,Kentucky,21191.0,3406,33.0
+2022-02-25,Pendleton,West Virginia,54071.0,1914,16.0
+2022-02-26,Pendleton,Kentucky,21191.0,3406,33.0
+2022-02-26,Pendleton,West Virginia,54071.0,1914,16.0
+2022-02-27,Pendleton,Kentucky,21191.0,3406,33.0
+2022-02-27,Pendleton,West Virginia,54071.0,1914,16.0
+2022-02-28,Pendleton,Kentucky,21191.0,3408,34.0
+2022-02-28,Pendleton,West Virginia,54071.0,1915,16.0
+2022-03-01,Pendleton,Kentucky,21191.0,3409,34.0
+2022-03-01,Pendleton,West Virginia,54071.0,1918,16.0
+2022-03-02,Pendleton,Kentucky,21191.0,3410,34.0
+2022-03-02,Pendleton,West Virginia,54071.0,1919,17.0
+2022-03-03,Pendleton,Kentucky,21191.0,3412,34.0
+2022-03-03,Pendleton,West Virginia,54071.0,1918,17.0
+2022-03-04,Pendleton,Kentucky,21191.0,3415,34.0
+2022-03-04,Pendleton,West Virginia,54071.0,1920,17.0
+2022-03-05,Pendleton,Kentucky,21191.0,3415,34.0
+2022-03-05,Pendleton,West Virginia,54071.0,1920,17.0
+2022-03-06,Pendleton,Kentucky,21191.0,3415,34.0
+2022-03-06,Pendleton,West Virginia,54071.0,1920,17.0
+2022-03-07,Pendleton,Kentucky,21191.0,3416,34.0
+2022-03-07,Pendleton,West Virginia,54071.0,1924,17.0
+2022-03-08,Pendleton,Kentucky,21191.0,3416,34.0
+2022-03-08,Pendleton,West Virginia,54071.0,1924,17.0
+2022-03-09,Pendleton,Kentucky,21191.0,3416,34.0
+2022-03-09,Pendleton,West Virginia,54071.0,1925,17.0
+2022-03-10,Pendleton,Kentucky,21191.0,3416,34.0
+2022-03-10,Pendleton,West Virginia,54071.0,1927,17.0
+2022-03-11,Pendleton,Kentucky,21191.0,3416,34.0
+2022-03-11,Pendleton,West Virginia,54071.0,1927,17.0
+2022-03-12,Pendleton,Kentucky,21191.0,3416,34.0
+2022-03-12,Pendleton,West Virginia,54071.0,1927,17.0
+2022-03-13,Pendleton,Kentucky,21191.0,3416,34.0
+2022-03-13,Pendleton,West Virginia,54071.0,1927,17.0
+2022-03-14,Pendleton,Kentucky,21191.0,3429,37.0
+2022-03-14,Pendleton,West Virginia,54071.0,1927,17.0
+2022-03-15,Pendleton,Kentucky,21191.0,3429,37.0
+2022-03-15,Pendleton,West Virginia,54071.0,1927,17.0
+2022-03-16,Pendleton,Kentucky,21191.0,3429,37.0
+2022-03-16,Pendleton,West Virginia,54071.0,1928,17.0
+2022-03-17,Pendleton,Kentucky,21191.0,3429,37.0
+2022-03-17,Pendleton,West Virginia,54071.0,1929,17.0
+2022-03-18,Pendleton,Kentucky,21191.0,3429,37.0
+2022-03-18,Pendleton,West Virginia,54071.0,1932,17.0
+2022-03-19,Pendleton,Kentucky,21191.0,3429,37.0
+2022-03-19,Pendleton,West Virginia,54071.0,1932,17.0
+2022-03-20,Pendleton,Kentucky,21191.0,3429,37.0
+2022-03-20,Pendleton,West Virginia,54071.0,1932,17.0
+2022-03-21,Pendleton,Kentucky,21191.0,3435,37.0
+2022-03-21,Pendleton,West Virginia,54071.0,1933,17.0
+2022-03-22,Pendleton,Kentucky,21191.0,3435,37.0
+2022-03-22,Pendleton,West Virginia,54071.0,1933,17.0
+2022-03-23,Pendleton,Kentucky,21191.0,3435,37.0
+2022-03-23,Pendleton,West Virginia,54071.0,1935,17.0
+2022-03-24,Pendleton,Kentucky,21191.0,3435,37.0
+2022-03-24,Pendleton,West Virginia,54071.0,1936,17.0
+2022-03-25,Pendleton,Kentucky,21191.0,3435,37.0
+2022-03-25,Pendleton,West Virginia,54071.0,1938,17.0
+2022-03-26,Pendleton,Kentucky,21191.0,3435,37.0
+2022-03-26,Pendleton,West Virginia,54071.0,1938,17.0
+2022-03-27,Pendleton,Kentucky,21191.0,3435,37.0
+2022-03-27,Pendleton,West Virginia,54071.0,1938,17.0
+2022-03-28,Pendleton,Kentucky,21191.0,3471,37.0
+2022-03-28,Pendleton,West Virginia,54071.0,1941,17.0
+2022-03-29,Pendleton,Kentucky,21191.0,3471,37.0
+2022-03-29,Pendleton,West Virginia,54071.0,1942,17.0
+2022-03-30,Pendleton,Kentucky,21191.0,3471,37.0
+2022-03-30,Pendleton,West Virginia,54071.0,1943,18.0
+2022-03-31,Pendleton,Kentucky,21191.0,3471,37.0
+2022-03-31,Pendleton,West Virginia,54071.0,1943,18.0
+2022-04-01,Pendleton,Kentucky,21191.0,3471,37.0
+2022-04-01,Pendleton,West Virginia,54071.0,1943,18.0
+2022-04-02,Pendleton,Kentucky,21191.0,3471,37.0
+2022-04-02,Pendleton,West Virginia,54071.0,1943,18.0
+2022-04-03,Pendleton,Kentucky,21191.0,3471,37.0
+2022-04-03,Pendleton,West Virginia,54071.0,1943,18.0
+2022-04-04,Pendleton,Kentucky,21191.0,3475,38.0
+2022-04-04,Pendleton,West Virginia,54071.0,1945,18.0
+2022-04-05,Pendleton,Kentucky,21191.0,3475,38.0
+2022-04-05,Pendleton,West Virginia,54071.0,1947,18.0
+2022-04-06,Pendleton,Kentucky,21191.0,3475,38.0
+2022-04-06,Pendleton,West Virginia,54071.0,1948,21.0
+2022-04-07,Pendleton,Kentucky,21191.0,3475,38.0
+2022-04-07,Pendleton,West Virginia,54071.0,1948,21.0
+2022-04-08,Pendleton,Kentucky,21191.0,3475,38.0
+2022-04-08,Pendleton,West Virginia,54071.0,1953,21.0
+2022-04-09,Pendleton,Kentucky,21191.0,3475,38.0
+2022-04-09,Pendleton,West Virginia,54071.0,1953,21.0

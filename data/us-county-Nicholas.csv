@@ -1,1477 +1,1477 @@
-,date,county,state,fips,cases,deaths
-16459,2020-03-28,Nicholas,Kentucky,21181.0,1,0.0
-18370,2020-03-29,Nicholas,Kentucky,21181.0,1,0.0
-20386,2020-03-30,Nicholas,Kentucky,21181.0,1,0.0
-22491,2020-03-31,Nicholas,Kentucky,21181.0,1,0.0
-24667,2020-04-01,Nicholas,Kentucky,21181.0,1,0.0
-26916,2020-04-02,Nicholas,Kentucky,21181.0,1,0.0
-29232,2020-04-03,Nicholas,Kentucky,21181.0,1,0.0
-31608,2020-04-04,Nicholas,Kentucky,21181.0,1,0.0
-34032,2020-04-05,Nicholas,Kentucky,21181.0,1,0.0
-36490,2020-04-06,Nicholas,Kentucky,21181.0,1,0.0
-38997,2020-04-07,Nicholas,Kentucky,21181.0,1,0.0
-40530,2020-04-07,Nicholas,West Virginia,54067.0,2,0.0
-41547,2020-04-08,Nicholas,Kentucky,21181.0,1,0.0
-43102,2020-04-08,Nicholas,West Virginia,54067.0,2,0.0
-44123,2020-04-09,Nicholas,Kentucky,21181.0,1,0.0
-45698,2020-04-09,Nicholas,West Virginia,54067.0,2,0.0
-46731,2020-04-10,Nicholas,Kentucky,21181.0,1,0.0
-48326,2020-04-10,Nicholas,West Virginia,54067.0,2,0.0
-49371,2020-04-11,Nicholas,Kentucky,21181.0,1,0.0
-50985,2020-04-11,Nicholas,West Virginia,54067.0,2,0.0
-52038,2020-04-12,Nicholas,Kentucky,21181.0,1,0.0
-53662,2020-04-12,Nicholas,West Virginia,54067.0,2,0.0
-54719,2020-04-13,Nicholas,Kentucky,21181.0,1,0.0
-56352,2020-04-13,Nicholas,West Virginia,54067.0,2,0.0
-57417,2020-04-14,Nicholas,Kentucky,21181.0,1,0.0
-59059,2020-04-14,Nicholas,West Virginia,54067.0,3,0.0
-60126,2020-04-15,Nicholas,Kentucky,21181.0,1,0.0
-61778,2020-04-15,Nicholas,West Virginia,54067.0,3,0.0
-62846,2020-04-16,Nicholas,Kentucky,21181.0,1,0.0
-64511,2020-04-16,Nicholas,West Virginia,54067.0,3,0.0
-65585,2020-04-17,Nicholas,Kentucky,21181.0,1,0.0
-67259,2020-04-17,Nicholas,West Virginia,54067.0,3,0.0
-68334,2020-04-18,Nicholas,Kentucky,21181.0,1,0.0
-70021,2020-04-18,Nicholas,West Virginia,54067.0,3,0.0
-71097,2020-04-19,Nicholas,Kentucky,21181.0,1,0.0
-72790,2020-04-19,Nicholas,West Virginia,54067.0,4,0.0
-73869,2020-04-20,Nicholas,Kentucky,21181.0,1,0.0
-75566,2020-04-20,Nicholas,West Virginia,54067.0,4,0.0
-76650,2020-04-21,Nicholas,Kentucky,21181.0,1,0.0
-78349,2020-04-21,Nicholas,West Virginia,54067.0,4,0.0
-79435,2020-04-22,Nicholas,Kentucky,21181.0,1,0.0
-81142,2020-04-22,Nicholas,West Virginia,54067.0,4,0.0
-82232,2020-04-23,Nicholas,Kentucky,21181.0,1,0.0
-83943,2020-04-23,Nicholas,West Virginia,54067.0,5,0.0
-85035,2020-04-24,Nicholas,Kentucky,21181.0,1,0.0
-86750,2020-04-24,Nicholas,West Virginia,54067.0,6,0.0
-87844,2020-04-25,Nicholas,Kentucky,21181.0,1,0.0
-89566,2020-04-25,Nicholas,West Virginia,54067.0,6,0.0
-90660,2020-04-26,Nicholas,Kentucky,21181.0,1,0.0
-92384,2020-04-26,Nicholas,West Virginia,54067.0,6,0.0
-93481,2020-04-27,Nicholas,Kentucky,21181.0,1,0.0
-95213,2020-04-27,Nicholas,West Virginia,54067.0,6,0.0
-96315,2020-04-28,Nicholas,Kentucky,21181.0,1,0.0
-98058,2020-04-28,Nicholas,West Virginia,54067.0,6,0.0
-99161,2020-04-29,Nicholas,Kentucky,21181.0,1,0.0
-100908,2020-04-29,Nicholas,West Virginia,54067.0,6,0.0
-102013,2020-04-30,Nicholas,Kentucky,21181.0,1,0.0
-103763,2020-04-30,Nicholas,West Virginia,54067.0,6,0.0
-104874,2020-05-01,Nicholas,Kentucky,21181.0,1,0.0
-106627,2020-05-01,Nicholas,West Virginia,54067.0,6,0.0
-107739,2020-05-02,Nicholas,Kentucky,21181.0,1,0.0
-109496,2020-05-02,Nicholas,West Virginia,54067.0,6,0.0
-110610,2020-05-03,Nicholas,Kentucky,21181.0,1,0.0
-112370,2020-05-03,Nicholas,West Virginia,54067.0,6,0.0
-113487,2020-05-04,Nicholas,Kentucky,21181.0,1,0.0
-115253,2020-05-04,Nicholas,West Virginia,54067.0,6,0.0
-116369,2020-05-05,Nicholas,Kentucky,21181.0,1,0.0
-118212,2020-05-05,Nicholas,West Virginia,54067.0,8,0.0
-119330,2020-05-06,Nicholas,Kentucky,21181.0,1,0.0
-121177,2020-05-06,Nicholas,West Virginia,54067.0,8,0.0
-122301,2020-05-07,Nicholas,Kentucky,21181.0,1,0.0
-124157,2020-05-07,Nicholas,West Virginia,54067.0,8,0.0
-125283,2020-05-08,Nicholas,Kentucky,21181.0,1,0.0
-127142,2020-05-08,Nicholas,West Virginia,54067.0,8,0.0
-128271,2020-05-09,Nicholas,Kentucky,21181.0,1,0.0
-130132,2020-05-09,Nicholas,West Virginia,54067.0,8,0.0
-131261,2020-05-10,Nicholas,Kentucky,21181.0,1,0.0
-133122,2020-05-10,Nicholas,West Virginia,54067.0,8,0.0
-134252,2020-05-11,Nicholas,Kentucky,21181.0,1,0.0
-136112,2020-05-11,Nicholas,West Virginia,54067.0,8,1.0
-137242,2020-05-12,Nicholas,Kentucky,21181.0,1,0.0
-139103,2020-05-12,Nicholas,West Virginia,54067.0,8,1.0
-140235,2020-05-13,Nicholas,Kentucky,21181.0,1,0.0
-142099,2020-05-13,Nicholas,West Virginia,54067.0,8,1.0
-143231,2020-05-14,Nicholas,Kentucky,21181.0,1,0.0
-145096,2020-05-14,Nicholas,West Virginia,54067.0,9,1.0
-146231,2020-05-15,Nicholas,Kentucky,21181.0,1,0.0
-148099,2020-05-15,Nicholas,West Virginia,54067.0,9,1.0
-149236,2020-05-16,Nicholas,Kentucky,21181.0,1,0.0
-151108,2020-05-16,Nicholas,West Virginia,54067.0,9,1.0
-152247,2020-05-17,Nicholas,Kentucky,21181.0,1,0.0
-154119,2020-05-17,Nicholas,West Virginia,54067.0,9,1.0
-155261,2020-05-18,Nicholas,Kentucky,21181.0,1,0.0
-157136,2020-05-18,Nicholas,West Virginia,54067.0,9,1.0
-158278,2020-05-19,Nicholas,Kentucky,21181.0,1,0.0
-160160,2020-05-19,Nicholas,West Virginia,54067.0,9,1.0
-161304,2020-05-20,Nicholas,Kentucky,21181.0,1,0.0
-163188,2020-05-20,Nicholas,West Virginia,54067.0,9,1.0
-164333,2020-05-21,Nicholas,Kentucky,21181.0,1,0.0
-166217,2020-05-21,Nicholas,West Virginia,54067.0,9,1.0
-167369,2020-05-22,Nicholas,Kentucky,21181.0,1,0.0
-169253,2020-05-22,Nicholas,West Virginia,54067.0,10,1.0
-170407,2020-05-23,Nicholas,Kentucky,21181.0,1,0.0
-172294,2020-05-23,Nicholas,West Virginia,54067.0,10,1.0
-173448,2020-05-24,Nicholas,Kentucky,21181.0,1,0.0
-175337,2020-05-24,Nicholas,West Virginia,54067.0,10,1.0
-176492,2020-05-25,Nicholas,Kentucky,21181.0,1,0.0
-178382,2020-05-25,Nicholas,West Virginia,54067.0,10,1.0
-179536,2020-05-26,Nicholas,Kentucky,21181.0,1,0.0
-181426,2020-05-26,Nicholas,West Virginia,54067.0,10,1.0
-182581,2020-05-27,Nicholas,Kentucky,21181.0,3,0.0
-184477,2020-05-27,Nicholas,West Virginia,54067.0,10,1.0
-185636,2020-05-28,Nicholas,Kentucky,21181.0,3,0.0
-187534,2020-05-28,Nicholas,West Virginia,54067.0,8,1.0
-188694,2020-05-29,Nicholas,Kentucky,21181.0,3,0.0
-190598,2020-05-29,Nicholas,West Virginia,54067.0,8,1.0
-191758,2020-05-30,Nicholas,Kentucky,21181.0,3,0.0
-193664,2020-05-30,Nicholas,West Virginia,54067.0,8,1.0
-194826,2020-05-31,Nicholas,Kentucky,21181.0,3,0.0
-196734,2020-05-31,Nicholas,West Virginia,54067.0,8,1.0
-197897,2020-06-01,Nicholas,Kentucky,21181.0,3,0.0
-199807,2020-06-01,Nicholas,West Virginia,54067.0,8,1.0
-200969,2020-06-02,Nicholas,Kentucky,21181.0,3,0.0
-202883,2020-06-02,Nicholas,West Virginia,54067.0,8,1.0
-204046,2020-06-03,Nicholas,Kentucky,21181.0,3,0.0
-205962,2020-06-03,Nicholas,West Virginia,54067.0,9,1.0
-207127,2020-06-04,Nicholas,Kentucky,21181.0,3,0.0
-209044,2020-06-04,Nicholas,West Virginia,54067.0,9,1.0
-210208,2020-06-05,Nicholas,Kentucky,21181.0,4,0.0
-212129,2020-06-05,Nicholas,West Virginia,54067.0,8,1.0
-213293,2020-06-06,Nicholas,Kentucky,21181.0,4,0.0
-215216,2020-06-06,Nicholas,West Virginia,54067.0,8,1.0
-216380,2020-06-07,Nicholas,Kentucky,21181.0,4,0.0
-218306,2020-06-07,Nicholas,West Virginia,54067.0,8,1.0
-219472,2020-06-08,Nicholas,Kentucky,21181.0,4,0.0
-221398,2020-06-08,Nicholas,West Virginia,54067.0,7,1.0
-222567,2020-06-09,Nicholas,Kentucky,21181.0,4,0.0
-224494,2020-06-09,Nicholas,West Virginia,54067.0,7,1.0
-225663,2020-06-10,Nicholas,Kentucky,21181.0,4,0.0
-227594,2020-06-10,Nicholas,West Virginia,54067.0,7,1.0
-228765,2020-06-11,Nicholas,Kentucky,21181.0,4,0.0
-230698,2020-06-11,Nicholas,West Virginia,54067.0,7,1.0
-231869,2020-06-12,Nicholas,Kentucky,21181.0,4,0.0
-233803,2020-06-12,Nicholas,West Virginia,54067.0,7,1.0
-234974,2020-06-13,Nicholas,Kentucky,21181.0,4,0.0
-236910,2020-06-13,Nicholas,West Virginia,54067.0,7,1.0
-238081,2020-06-14,Nicholas,Kentucky,21181.0,4,0.0
-240018,2020-06-14,Nicholas,West Virginia,54067.0,7,1.0
-241190,2020-06-15,Nicholas,Kentucky,21181.0,4,0.0
-243129,2020-06-15,Nicholas,West Virginia,54067.0,7,1.0
-244301,2020-06-16,Nicholas,Kentucky,21181.0,4,0.0
-246242,2020-06-16,Nicholas,West Virginia,54067.0,7,1.0
-247414,2020-06-17,Nicholas,Kentucky,21181.0,4,0.0
-249354,2020-06-17,Nicholas,West Virginia,54067.0,7,1.0
-250526,2020-06-18,Nicholas,Kentucky,21181.0,4,0.0
-252469,2020-06-18,Nicholas,West Virginia,54067.0,7,1.0
-253641,2020-06-19,Nicholas,Kentucky,21181.0,5,0.0
-255588,2020-06-19,Nicholas,West Virginia,54067.0,7,1.0
-256761,2020-06-20,Nicholas,Kentucky,21181.0,5,0.0
-258715,2020-06-20,Nicholas,West Virginia,54067.0,7,1.0
-259887,2020-06-21,Nicholas,Kentucky,21181.0,5,0.0
-261842,2020-06-21,Nicholas,West Virginia,54067.0,7,1.0
-263016,2020-06-22,Nicholas,Kentucky,21181.0,5,0.0
-264971,2020-06-22,Nicholas,West Virginia,54067.0,7,1.0
-266143,2020-06-23,Nicholas,Kentucky,21181.0,5,0.0
-268100,2020-06-23,Nicholas,West Virginia,54067.0,7,1.0
-269276,2020-06-24,Nicholas,Kentucky,21181.0,5,0.0
-271234,2020-06-24,Nicholas,West Virginia,54067.0,8,1.0
-272412,2020-06-25,Nicholas,Kentucky,21181.0,5,0.0
-274374,2020-06-25,Nicholas,West Virginia,54067.0,8,1.0
-275555,2020-06-26,Nicholas,Kentucky,21181.0,5,0.0
-277522,2020-06-26,Nicholas,West Virginia,54067.0,8,1.0
-278703,2020-06-27,Nicholas,Kentucky,21181.0,5,0.0
-280670,2020-06-27,Nicholas,West Virginia,54067.0,8,1.0
-281851,2020-06-28,Nicholas,Kentucky,21181.0,5,0.0
-283816,2020-06-28,Nicholas,West Virginia,54067.0,8,1.0
-284997,2020-06-29,Nicholas,Kentucky,21181.0,5,0.0
-286962,2020-06-29,Nicholas,West Virginia,54067.0,10,1.0
-288146,2020-06-30,Nicholas,Kentucky,21181.0,5,0.0
-290112,2020-06-30,Nicholas,West Virginia,54067.0,10,1.0
-291296,2020-07-01,Nicholas,Kentucky,21181.0,5,0.0
-293265,2020-07-01,Nicholas,West Virginia,54067.0,11,1.0
-294450,2020-07-02,Nicholas,Kentucky,21181.0,6,0.0
-296420,2020-07-02,Nicholas,West Virginia,54067.0,12,1.0
-297608,2020-07-03,Nicholas,Kentucky,21181.0,8,0.0
-299582,2020-07-03,Nicholas,West Virginia,54067.0,13,1.0
-300770,2020-07-04,Nicholas,Kentucky,21181.0,8,0.0
-302746,2020-07-04,Nicholas,West Virginia,54067.0,14,1.0
-303934,2020-07-05,Nicholas,Kentucky,21181.0,8,0.0
-305910,2020-07-05,Nicholas,West Virginia,54067.0,15,1.0
-307101,2020-07-06,Nicholas,Kentucky,21181.0,9,0.0
-309078,2020-07-06,Nicholas,West Virginia,54067.0,15,1.0
-310269,2020-07-07,Nicholas,Kentucky,21181.0,9,0.0
-312247,2020-07-07,Nicholas,West Virginia,54067.0,15,1.0
-313439,2020-07-08,Nicholas,Kentucky,21181.0,11,0.0
-315422,2020-07-08,Nicholas,West Virginia,54067.0,15,1.0
-316613,2020-07-09,Nicholas,Kentucky,21181.0,11,0.0
-318595,2020-07-09,Nicholas,West Virginia,54067.0,16,1.0
-319788,2020-07-10,Nicholas,Kentucky,21181.0,13,0.0
-321774,2020-07-10,Nicholas,West Virginia,54067.0,16,1.0
-322967,2020-07-11,Nicholas,Kentucky,21181.0,13,0.0
-324955,2020-07-11,Nicholas,West Virginia,54067.0,21,1.0
-326150,2020-07-12,Nicholas,Kentucky,21181.0,12,0.0
-328141,2020-07-12,Nicholas,West Virginia,54067.0,21,1.0
-329336,2020-07-13,Nicholas,Kentucky,21181.0,12,0.0
-331327,2020-07-13,Nicholas,West Virginia,54067.0,20,1.0
-332523,2020-07-14,Nicholas,Kentucky,21181.0,12,0.0
-334520,2020-07-14,Nicholas,West Virginia,54067.0,20,1.0
-335716,2020-07-15,Nicholas,Kentucky,21181.0,13,0.0
-337715,2020-07-15,Nicholas,West Virginia,54067.0,20,1.0
-338912,2020-07-16,Nicholas,Kentucky,21181.0,13,0.0
-340911,2020-07-16,Nicholas,West Virginia,54067.0,20,1.0
-342108,2020-07-17,Nicholas,Kentucky,21181.0,13,0.0
-344110,2020-07-17,Nicholas,West Virginia,54067.0,20,1.0
-345308,2020-07-18,Nicholas,Kentucky,21181.0,14,0.0
-347310,2020-07-18,Nicholas,West Virginia,54067.0,21,1.0
-348509,2020-07-19,Nicholas,Kentucky,21181.0,17,0.0
-350511,2020-07-19,Nicholas,West Virginia,54067.0,21,1.0
-351709,2020-07-20,Nicholas,Kentucky,21181.0,17,0.0
-353713,2020-07-20,Nicholas,West Virginia,54067.0,22,1.0
-354911,2020-07-21,Nicholas,Kentucky,21181.0,16,0.0
-356916,2020-07-21,Nicholas,West Virginia,54067.0,23,1.0
-358114,2020-07-22,Nicholas,Kentucky,21181.0,16,0.0
-360121,2020-07-22,Nicholas,West Virginia,54067.0,23,1.0
-361319,2020-07-23,Nicholas,Kentucky,21181.0,17,0.0
-363327,2020-07-23,Nicholas,West Virginia,54067.0,23,1.0
-364526,2020-07-24,Nicholas,Kentucky,21181.0,20,0.0
-366534,2020-07-24,Nicholas,West Virginia,54067.0,23,1.0
-367733,2020-07-25,Nicholas,Kentucky,21181.0,20,0.0
-369744,2020-07-25,Nicholas,West Virginia,54067.0,23,1.0
-370943,2020-07-26,Nicholas,Kentucky,21181.0,20,0.0
-372956,2020-07-26,Nicholas,West Virginia,54067.0,24,1.0
-374155,2020-07-27,Nicholas,Kentucky,21181.0,20,0.0
-376170,2020-07-27,Nicholas,West Virginia,54067.0,27,1.0
-377370,2020-07-28,Nicholas,Kentucky,21181.0,20,0.0
-379386,2020-07-28,Nicholas,West Virginia,54067.0,27,1.0
-380587,2020-07-29,Nicholas,Kentucky,21181.0,20,0.0
-382603,2020-07-29,Nicholas,West Virginia,54067.0,29,1.0
-383804,2020-07-30,Nicholas,Kentucky,21181.0,20,0.0
-385821,2020-07-30,Nicholas,West Virginia,54067.0,30,1.0
-387022,2020-07-31,Nicholas,Kentucky,21181.0,20,0.0
-389038,2020-07-31,Nicholas,West Virginia,54067.0,31,1.0
-390239,2020-08-01,Nicholas,Kentucky,21181.0,20,0.0
-392255,2020-08-01,Nicholas,West Virginia,54067.0,31,1.0
-393456,2020-08-02,Nicholas,Kentucky,21181.0,20,0.0
-395471,2020-08-02,Nicholas,West Virginia,54067.0,31,1.0
-396672,2020-08-03,Nicholas,Kentucky,21181.0,20,0.0
-398687,2020-08-03,Nicholas,West Virginia,54067.0,32,1.0
-399887,2020-08-04,Nicholas,Kentucky,21181.0,20,0.0
-401903,2020-08-04,Nicholas,West Virginia,54067.0,33,1.0
-403104,2020-08-05,Nicholas,Kentucky,21181.0,20,0.0
-405121,2020-08-05,Nicholas,West Virginia,54067.0,33,1.0
-406322,2020-08-06,Nicholas,Kentucky,21181.0,20,0.0
-408341,2020-08-06,Nicholas,West Virginia,54067.0,35,1.0
-409542,2020-08-07,Nicholas,Kentucky,21181.0,20,0.0
-411560,2020-08-07,Nicholas,West Virginia,54067.0,36,1.0
-412762,2020-08-08,Nicholas,Kentucky,21181.0,20,0.0
-414780,2020-08-08,Nicholas,West Virginia,54067.0,37,1.0
-415982,2020-08-09,Nicholas,Kentucky,21181.0,20,0.0
-418001,2020-08-09,Nicholas,West Virginia,54067.0,37,1.0
-419203,2020-08-10,Nicholas,Kentucky,21181.0,20,0.0
-421222,2020-08-10,Nicholas,West Virginia,54067.0,37,1.0
-422425,2020-08-11,Nicholas,Kentucky,21181.0,20,0.0
-424443,2020-08-11,Nicholas,West Virginia,54067.0,37,1.0
-425646,2020-08-12,Nicholas,Kentucky,21181.0,20,0.0
-427667,2020-08-12,Nicholas,West Virginia,54067.0,40,1.0
-428870,2020-08-13,Nicholas,Kentucky,21181.0,20,0.0
-430895,2020-08-13,Nicholas,West Virginia,54067.0,39,1.0
-432098,2020-08-14,Nicholas,Kentucky,21181.0,20,0.0
-434120,2020-08-14,Nicholas,West Virginia,54067.0,40,1.0
-435323,2020-08-15,Nicholas,Kentucky,21181.0,21,1.0
-437346,2020-08-15,Nicholas,West Virginia,54067.0,39,1.0
-438548,2020-08-16,Nicholas,Kentucky,21181.0,21,1.0
-440572,2020-08-16,Nicholas,West Virginia,54067.0,39,1.0
-441775,2020-08-17,Nicholas,Kentucky,21181.0,21,1.0
-443798,2020-08-17,Nicholas,West Virginia,54067.0,40,1.0
-445001,2020-08-18,Nicholas,Kentucky,21181.0,21,1.0
-447025,2020-08-18,Nicholas,West Virginia,54067.0,40,1.0
-448228,2020-08-19,Nicholas,Kentucky,21181.0,21,1.0
-450253,2020-08-19,Nicholas,West Virginia,54067.0,40,1.0
-451456,2020-08-20,Nicholas,Kentucky,21181.0,21,1.0
-453481,2020-08-20,Nicholas,West Virginia,54067.0,40,1.0
-454684,2020-08-21,Nicholas,Kentucky,21181.0,21,1.0
-456709,2020-08-21,Nicholas,West Virginia,54067.0,40,1.0
-457912,2020-08-22,Nicholas,Kentucky,21181.0,22,1.0
-459936,2020-08-22,Nicholas,West Virginia,54067.0,40,1.0
-461139,2020-08-23,Nicholas,Kentucky,21181.0,22,1.0
-463165,2020-08-23,Nicholas,West Virginia,54067.0,42,1.0
-464370,2020-08-24,Nicholas,Kentucky,21181.0,22,1.0
-466394,2020-08-24,Nicholas,West Virginia,54067.0,43,1.0
-467599,2020-08-25,Nicholas,Kentucky,21181.0,22,1.0
-469623,2020-08-25,Nicholas,West Virginia,54067.0,44,1.0
-470828,2020-08-26,Nicholas,Kentucky,21181.0,22,1.0
-472855,2020-08-26,Nicholas,West Virginia,54067.0,47,1.0
-474060,2020-08-27,Nicholas,Kentucky,21181.0,22,1.0
-476088,2020-08-27,Nicholas,West Virginia,54067.0,47,1.0
-477293,2020-08-28,Nicholas,Kentucky,21181.0,22,1.0
-479321,2020-08-28,Nicholas,West Virginia,54067.0,47,1.0
-480526,2020-08-29,Nicholas,Kentucky,21181.0,22,1.0
-482555,2020-08-29,Nicholas,West Virginia,54067.0,50,2.0
-483760,2020-08-30,Nicholas,Kentucky,21181.0,22,1.0
-485790,2020-08-30,Nicholas,West Virginia,54067.0,52,2.0
-486995,2020-08-31,Nicholas,Kentucky,21181.0,22,1.0
-489023,2020-08-31,Nicholas,West Virginia,54067.0,52,2.0
-490228,2020-09-01,Nicholas,Kentucky,21181.0,23,1.0
-492256,2020-09-01,Nicholas,West Virginia,54067.0,52,2.0
-493462,2020-09-02,Nicholas,Kentucky,21181.0,25,1.0
-495490,2020-09-02,Nicholas,West Virginia,54067.0,53,3.0
-496695,2020-09-03,Nicholas,Kentucky,21181.0,25,1.0
-498723,2020-09-03,Nicholas,West Virginia,54067.0,53,3.0
-499929,2020-09-04,Nicholas,Kentucky,21181.0,27,1.0
-501957,2020-09-04,Nicholas,West Virginia,54067.0,56,3.0
-503162,2020-09-05,Nicholas,Kentucky,21181.0,27,1.0
-505191,2020-09-05,Nicholas,West Virginia,54067.0,57,3.0
-506396,2020-09-06,Nicholas,Kentucky,21181.0,27,1.0
-508423,2020-09-06,Nicholas,West Virginia,54067.0,57,3.0
-509629,2020-09-07,Nicholas,Kentucky,21181.0,27,1.0
-511656,2020-09-07,Nicholas,West Virginia,54067.0,57,3.0
-512861,2020-09-08,Nicholas,Kentucky,21181.0,27,1.0
-514889,2020-09-08,Nicholas,West Virginia,54067.0,58,3.0
-516094,2020-09-09,Nicholas,Kentucky,21181.0,27,1.0
-518124,2020-09-09,Nicholas,West Virginia,54067.0,58,3.0
-519329,2020-09-10,Nicholas,Kentucky,21181.0,29,1.0
-521361,2020-09-10,Nicholas,West Virginia,54067.0,60,3.0
-522566,2020-09-11,Nicholas,Kentucky,21181.0,29,1.0
-524597,2020-09-11,Nicholas,West Virginia,54067.0,62,3.0
-525802,2020-09-12,Nicholas,Kentucky,21181.0,29,1.0
-527833,2020-09-12,Nicholas,West Virginia,54067.0,64,3.0
-529038,2020-09-13,Nicholas,Kentucky,21181.0,29,1.0
-531070,2020-09-13,Nicholas,West Virginia,54067.0,66,3.0
-532275,2020-09-14,Nicholas,Kentucky,21181.0,29,1.0
-534305,2020-09-14,Nicholas,West Virginia,54067.0,69,3.0
-535510,2020-09-15,Nicholas,Kentucky,21181.0,29,1.0
-537541,2020-09-15,Nicholas,West Virginia,54067.0,72,3.0
-538747,2020-09-16,Nicholas,Kentucky,21181.0,29,1.0
-540778,2020-09-16,Nicholas,West Virginia,54067.0,75,3.0
-541983,2020-09-17,Nicholas,Kentucky,21181.0,29,1.0
-544014,2020-09-17,Nicholas,West Virginia,54067.0,77,3.0
-545219,2020-09-18,Nicholas,Kentucky,21181.0,29,1.0
-547251,2020-09-18,Nicholas,West Virginia,54067.0,79,3.0
-548457,2020-09-19,Nicholas,Kentucky,21181.0,29,1.0
-550490,2020-09-19,Nicholas,West Virginia,54067.0,82,3.0
-551696,2020-09-20,Nicholas,Kentucky,21181.0,29,1.0
-553729,2020-09-20,Nicholas,West Virginia,54067.0,87,3.0
-554935,2020-09-21,Nicholas,Kentucky,21181.0,29,1.0
-556966,2020-09-21,Nicholas,West Virginia,54067.0,88,3.0
-558172,2020-09-22,Nicholas,Kentucky,21181.0,31,1.0
-560202,2020-09-22,Nicholas,West Virginia,54067.0,92,3.0
-561408,2020-09-23,Nicholas,Kentucky,21181.0,31,1.0
-563441,2020-09-23,Nicholas,West Virginia,54067.0,96,3.0
-564648,2020-09-24,Nicholas,Kentucky,21181.0,31,1.0
-566682,2020-09-24,Nicholas,West Virginia,54067.0,98,3.0
-567888,2020-09-25,Nicholas,Kentucky,21181.0,32,1.0
-569923,2020-09-25,Nicholas,West Virginia,54067.0,99,3.0
-571130,2020-09-26,Nicholas,Kentucky,21181.0,32,1.0
-573165,2020-09-26,Nicholas,West Virginia,54067.0,100,3.0
-574373,2020-09-27,Nicholas,Kentucky,21181.0,32,1.0
-576409,2020-09-27,Nicholas,West Virginia,54067.0,102,3.0
-577615,2020-09-28,Nicholas,Kentucky,21181.0,33,1.0
-579650,2020-09-28,Nicholas,West Virginia,54067.0,104,3.0
-580856,2020-09-29,Nicholas,Kentucky,21181.0,34,1.0
-582889,2020-09-29,Nicholas,West Virginia,54067.0,105,3.0
-584096,2020-09-30,Nicholas,Kentucky,21181.0,37,1.0
-586129,2020-09-30,Nicholas,West Virginia,54067.0,112,3.0
-587336,2020-10-01,Nicholas,Kentucky,21181.0,39,1.0
-589370,2020-10-01,Nicholas,West Virginia,54067.0,114,3.0
-590577,2020-10-02,Nicholas,Kentucky,21181.0,40,1.0
-592610,2020-10-02,Nicholas,West Virginia,54067.0,115,3.0
-593818,2020-10-03,Nicholas,Kentucky,21181.0,46,1.0
-595852,2020-10-03,Nicholas,West Virginia,54067.0,122,3.0
-597060,2020-10-04,Nicholas,Kentucky,21181.0,49,1.0
-599095,2020-10-04,Nicholas,West Virginia,54067.0,124,3.0
-600302,2020-10-05,Nicholas,Kentucky,21181.0,52,1.0
-602338,2020-10-05,Nicholas,West Virginia,54067.0,125,3.0
-603545,2020-10-06,Nicholas,Kentucky,21181.0,53,1.0
-605580,2020-10-06,Nicholas,West Virginia,54067.0,125,3.0
-606787,2020-10-07,Nicholas,Kentucky,21181.0,58,1.0
-608823,2020-10-07,Nicholas,West Virginia,54067.0,129,3.0
-610029,2020-10-08,Nicholas,Kentucky,21181.0,61,1.0
-612065,2020-10-08,Nicholas,West Virginia,54067.0,129,3.0
-613271,2020-10-09,Nicholas,Kentucky,21181.0,61,1.0
-615306,2020-10-09,Nicholas,West Virginia,54067.0,136,3.0
-616512,2020-10-10,Nicholas,Kentucky,21181.0,64,1.0
-618548,2020-10-10,Nicholas,West Virginia,54067.0,140,3.0
-619754,2020-10-11,Nicholas,Kentucky,21181.0,68,1.0
-621791,2020-10-11,Nicholas,West Virginia,54067.0,142,3.0
-622998,2020-10-12,Nicholas,Kentucky,21181.0,68,1.0
-625034,2020-10-12,Nicholas,West Virginia,54067.0,142,3.0
-626240,2020-10-13,Nicholas,Kentucky,21181.0,71,1.0
-628277,2020-10-13,Nicholas,West Virginia,54067.0,156,3.0
-629484,2020-10-14,Nicholas,Kentucky,21181.0,80,1.0
-631521,2020-10-14,Nicholas,West Virginia,54067.0,158,3.0
-632728,2020-10-15,Nicholas,Kentucky,21181.0,85,1.0
-634766,2020-10-15,Nicholas,West Virginia,54067.0,160,3.0
-635974,2020-10-16,Nicholas,Kentucky,21181.0,86,1.0
-638011,2020-10-16,Nicholas,West Virginia,54067.0,170,3.0
-639220,2020-10-17,Nicholas,Kentucky,21181.0,89,1.0
-641258,2020-10-17,Nicholas,West Virginia,54067.0,172,3.0
-642467,2020-10-18,Nicholas,Kentucky,21181.0,90,1.0
-644506,2020-10-18,Nicholas,West Virginia,54067.0,173,3.0
-645714,2020-10-19,Nicholas,Kentucky,21181.0,91,1.0
-647752,2020-10-19,Nicholas,West Virginia,54067.0,174,3.0
-648958,2020-10-20,Nicholas,Kentucky,21181.0,98,1.0
-650996,2020-10-20,Nicholas,West Virginia,54067.0,174,3.0
-652203,2020-10-21,Nicholas,Kentucky,21181.0,103,1.0
-654241,2020-10-21,Nicholas,West Virginia,54067.0,177,3.0
-655448,2020-10-22,Nicholas,Kentucky,21181.0,103,2.0
-657486,2020-10-22,Nicholas,West Virginia,54067.0,179,3.0
-658693,2020-10-23,Nicholas,Kentucky,21181.0,104,2.0
-660730,2020-10-23,Nicholas,West Virginia,54067.0,180,3.0
-661937,2020-10-24,Nicholas,Kentucky,21181.0,104,2.0
-663974,2020-10-24,Nicholas,West Virginia,54067.0,183,3.0
-665182,2020-10-25,Nicholas,Kentucky,21181.0,105,2.0
-667219,2020-10-25,Nicholas,West Virginia,54067.0,185,3.0
-668426,2020-10-26,Nicholas,Kentucky,21181.0,107,2.0
-670462,2020-10-26,Nicholas,West Virginia,54067.0,185,3.0
-671668,2020-10-27,Nicholas,Kentucky,21181.0,110,3.0
-673704,2020-10-27,Nicholas,West Virginia,54067.0,182,3.0
-674911,2020-10-28,Nicholas,Kentucky,21181.0,116,3.0
-676947,2020-10-28,Nicholas,West Virginia,54067.0,183,3.0
-678153,2020-10-29,Nicholas,Kentucky,21181.0,119,3.0
-680190,2020-10-29,Nicholas,West Virginia,54067.0,188,3.0
-681397,2020-10-30,Nicholas,Kentucky,21181.0,119,3.0
-683433,2020-10-30,Nicholas,West Virginia,54067.0,190,3.0
-684640,2020-10-31,Nicholas,Kentucky,21181.0,120,3.0
-686676,2020-10-31,Nicholas,West Virginia,54067.0,191,3.0
-687884,2020-11-01,Nicholas,Kentucky,21181.0,120,3.0
-689921,2020-11-01,Nicholas,West Virginia,54067.0,191,3.0
-691129,2020-11-02,Nicholas,Kentucky,21181.0,121,3.0
-693165,2020-11-02,Nicholas,West Virginia,54067.0,193,3.0
-694371,2020-11-03,Nicholas,Kentucky,21181.0,123,3.0
-696407,2020-11-03,Nicholas,West Virginia,54067.0,192,3.0
-697614,2020-11-04,Nicholas,Kentucky,21181.0,126,3.0
-699651,2020-11-04,Nicholas,West Virginia,54067.0,196,3.0
-700858,2020-11-05,Nicholas,Kentucky,21181.0,127,3.0
-702894,2020-11-05,Nicholas,West Virginia,54067.0,201,3.0
-704100,2020-11-06,Nicholas,Kentucky,21181.0,129,3.0
-706137,2020-11-06,Nicholas,West Virginia,54067.0,204,3.0
-707343,2020-11-07,Nicholas,Kentucky,21181.0,129,3.0
-709381,2020-11-07,Nicholas,West Virginia,54067.0,211,3.0
-710587,2020-11-08,Nicholas,Kentucky,21181.0,132,3.0
-712625,2020-11-08,Nicholas,West Virginia,54067.0,215,3.0
-713831,2020-11-09,Nicholas,Kentucky,21181.0,135,3.0
-715869,2020-11-09,Nicholas,West Virginia,54067.0,219,3.0
-717075,2020-11-10,Nicholas,Kentucky,21181.0,132,3.0
-719112,2020-11-10,Nicholas,West Virginia,54067.0,225,4.0
-720318,2020-11-11,Nicholas,Kentucky,21181.0,132,3.0
-722355,2020-11-11,Nicholas,West Virginia,54067.0,230,4.0
-723561,2020-11-12,Nicholas,Kentucky,21181.0,134,3.0
-725598,2020-11-12,Nicholas,West Virginia,54067.0,238,4.0
-726804,2020-11-13,Nicholas,Kentucky,21181.0,137,3.0
-728841,2020-11-13,Nicholas,West Virginia,54067.0,240,3.0
-730047,2020-11-14,Nicholas,Kentucky,21181.0,139,3.0
-732086,2020-11-14,Nicholas,West Virginia,54067.0,248,3.0
-733292,2020-11-15,Nicholas,Kentucky,21181.0,140,3.0
-735332,2020-11-15,Nicholas,West Virginia,54067.0,255,3.0
-736538,2020-11-16,Nicholas,Kentucky,21181.0,143,3.0
-738576,2020-11-16,Nicholas,West Virginia,54067.0,261,3.0
-739782,2020-11-17,Nicholas,Kentucky,21181.0,146,3.0
-741823,2020-11-17,Nicholas,West Virginia,54067.0,269,3.0
-743029,2020-11-18,Nicholas,Kentucky,21181.0,146,3.0
-745070,2020-11-18,Nicholas,West Virginia,54067.0,275,5.0
-746276,2020-11-19,Nicholas,Kentucky,21181.0,147,3.0
-748316,2020-11-19,Nicholas,West Virginia,54067.0,281,4.0
-749522,2020-11-20,Nicholas,Kentucky,21181.0,151,3.0
-751562,2020-11-20,Nicholas,West Virginia,54067.0,291,4.0
-752768,2020-11-21,Nicholas,Kentucky,21181.0,153,3.0
-754808,2020-11-21,Nicholas,West Virginia,54067.0,299,5.0
-756014,2020-11-22,Nicholas,Kentucky,21181.0,152,3.0
-758055,2020-11-22,Nicholas,West Virginia,54067.0,299,5.0
-759261,2020-11-23,Nicholas,Kentucky,21181.0,156,3.0
-761300,2020-11-23,Nicholas,West Virginia,54067.0,303,5.0
-762506,2020-11-24,Nicholas,Kentucky,21181.0,160,3.0
-764545,2020-11-24,Nicholas,West Virginia,54067.0,309,5.0
-765751,2020-11-25,Nicholas,Kentucky,21181.0,165,3.0
-767790,2020-11-25,Nicholas,West Virginia,54067.0,315,5.0
-768997,2020-11-26,Nicholas,Kentucky,21181.0,165,3.0
-771036,2020-11-26,Nicholas,West Virginia,54067.0,322,5.0
-772242,2020-11-27,Nicholas,Kentucky,21181.0,169,3.0
-774281,2020-11-27,Nicholas,West Virginia,54067.0,323,5.0
-775487,2020-11-28,Nicholas,Kentucky,21181.0,173,3.0
-777526,2020-11-28,Nicholas,West Virginia,54067.0,335,5.0
-778732,2020-11-29,Nicholas,Kentucky,21181.0,174,3.0
-780772,2020-11-29,Nicholas,West Virginia,54067.0,345,5.0
-781978,2020-11-30,Nicholas,Kentucky,21181.0,175,3.0
-784017,2020-11-30,Nicholas,West Virginia,54067.0,361,5.0
-785223,2020-12-01,Nicholas,Kentucky,21181.0,178,3.0
-787261,2020-12-01,Nicholas,West Virginia,54067.0,371,5.0
-788467,2020-12-02,Nicholas,Kentucky,21181.0,178,3.0
-790506,2020-12-02,Nicholas,West Virginia,54067.0,385,5.0
-791712,2020-12-03,Nicholas,Kentucky,21181.0,178,3.0
-793751,2020-12-03,Nicholas,West Virginia,54067.0,389,5.0
-794957,2020-12-04,Nicholas,Kentucky,21181.0,180,3.0
-796996,2020-12-04,Nicholas,West Virginia,54067.0,399,5.0
-798202,2020-12-05,Nicholas,Kentucky,21181.0,182,3.0
-800241,2020-12-05,Nicholas,West Virginia,54067.0,404,5.0
-801447,2020-12-06,Nicholas,Kentucky,21181.0,187,3.0
-803486,2020-12-06,Nicholas,West Virginia,54067.0,412,6.0
-804692,2020-12-07,Nicholas,Kentucky,21181.0,189,3.0
-806731,2020-12-07,Nicholas,West Virginia,54067.0,430,5.0
-807937,2020-12-08,Nicholas,Kentucky,21181.0,191,3.0
-809976,2020-12-08,Nicholas,West Virginia,54067.0,442,5.0
-811182,2020-12-09,Nicholas,Kentucky,21181.0,193,3.0
-813220,2020-12-09,Nicholas,West Virginia,54067.0,455,5.0
-814427,2020-12-10,Nicholas,Kentucky,21181.0,194,3.0
-816466,2020-12-10,Nicholas,West Virginia,54067.0,463,5.0
-817673,2020-12-11,Nicholas,Kentucky,21181.0,200,3.0
-819712,2020-12-11,Nicholas,West Virginia,54067.0,473,6.0
-820919,2020-12-12,Nicholas,Kentucky,21181.0,201,3.0
-822958,2020-12-12,Nicholas,West Virginia,54067.0,492,6.0
-824165,2020-12-13,Nicholas,Kentucky,21181.0,204,3.0
-826205,2020-12-13,Nicholas,West Virginia,54067.0,500,6.0
-827412,2020-12-14,Nicholas,Kentucky,21181.0,208,3.0
-829451,2020-12-14,Nicholas,West Virginia,54067.0,503,6.0
-830658,2020-12-15,Nicholas,Kentucky,21181.0,211,3.0
-832698,2020-12-15,Nicholas,West Virginia,54067.0,512,6.0
-833905,2020-12-16,Nicholas,Kentucky,21181.0,212,3.0
-835944,2020-12-16,Nicholas,West Virginia,54067.0,521,6.0
-837151,2020-12-17,Nicholas,Kentucky,21181.0,217,3.0
-839189,2020-12-17,Nicholas,West Virginia,54067.0,529,6.0
-840396,2020-12-18,Nicholas,Kentucky,21181.0,222,3.0
-842434,2020-12-18,Nicholas,West Virginia,54067.0,538,6.0
-843641,2020-12-19,Nicholas,Kentucky,21181.0,225,3.0
-845680,2020-12-19,Nicholas,West Virginia,54067.0,546,6.0
-846887,2020-12-20,Nicholas,Kentucky,21181.0,231,3.0
-848925,2020-12-20,Nicholas,West Virginia,54067.0,566,6.0
-850132,2020-12-21,Nicholas,Kentucky,21181.0,231,3.0
-852170,2020-12-21,Nicholas,West Virginia,54067.0,573,6.0
-853377,2020-12-22,Nicholas,Kentucky,21181.0,232,3.0
-855415,2020-12-22,Nicholas,West Virginia,54067.0,576,7.0
-856622,2020-12-23,Nicholas,Kentucky,21181.0,236,3.0
-858660,2020-12-23,Nicholas,West Virginia,54067.0,584,7.0
-859867,2020-12-24,Nicholas,Kentucky,21181.0,236,3.0
-861905,2020-12-24,Nicholas,West Virginia,54067.0,587,7.0
-863112,2020-12-25,Nicholas,Kentucky,21181.0,236,3.0
-865150,2020-12-25,Nicholas,West Virginia,54067.0,599,7.0
-866357,2020-12-26,Nicholas,Kentucky,21181.0,250,3.0
-868395,2020-12-26,Nicholas,West Virginia,54067.0,616,7.0
-869602,2020-12-27,Nicholas,Kentucky,21181.0,249,3.0
-871640,2020-12-27,Nicholas,West Virginia,54067.0,618,7.0
-872847,2020-12-28,Nicholas,Kentucky,21181.0,250,3.0
-874885,2020-12-28,Nicholas,West Virginia,54067.0,628,7.0
-876092,2020-12-29,Nicholas,Kentucky,21181.0,250,3.0
-878130,2020-12-29,Nicholas,West Virginia,54067.0,636,7.0
-879337,2020-12-30,Nicholas,Kentucky,21181.0,255,3.0
-881375,2020-12-30,Nicholas,West Virginia,54067.0,645,7.0
-882582,2020-12-31,Nicholas,Kentucky,21181.0,255,3.0
-884620,2020-12-31,Nicholas,West Virginia,54067.0,654,8.0
-885827,2021-01-01,Nicholas,Kentucky,21181.0,255,3.0
-887865,2021-01-01,Nicholas,West Virginia,54067.0,707,8.0
-889073,2021-01-02,Nicholas,Kentucky,21181.0,282,3.0
-891112,2021-01-02,Nicholas,West Virginia,54067.0,720,8.0
-892319,2021-01-03,Nicholas,Kentucky,21181.0,293,3.0
-894358,2021-01-03,Nicholas,West Virginia,54067.0,732,8.0
-895566,2021-01-04,Nicholas,Kentucky,21181.0,299,3.0
-897604,2021-01-04,Nicholas,West Virginia,54067.0,747,8.0
-898811,2021-01-05,Nicholas,Kentucky,21181.0,304,3.0
-900849,2021-01-05,Nicholas,West Virginia,54067.0,761,8.0
-902056,2021-01-06,Nicholas,Kentucky,21181.0,317,3.0
-904094,2021-01-06,Nicholas,West Virginia,54067.0,774,8.0
-905301,2021-01-07,Nicholas,Kentucky,21181.0,329,3.0
-907340,2021-01-07,Nicholas,West Virginia,54067.0,781,9.0
-908547,2021-01-08,Nicholas,Kentucky,21181.0,339,3.0
-910585,2021-01-08,Nicholas,West Virginia,54067.0,793,9.0
-911792,2021-01-09,Nicholas,Kentucky,21181.0,346,3.0
-913830,2021-01-09,Nicholas,West Virginia,54067.0,804,9.0
-915037,2021-01-10,Nicholas,Kentucky,21181.0,354,3.0
-917075,2021-01-10,Nicholas,West Virginia,54067.0,818,9.0
-918282,2021-01-11,Nicholas,Kentucky,21181.0,353,3.0
-920320,2021-01-11,Nicholas,West Virginia,54067.0,834,9.0
-921527,2021-01-12,Nicholas,Kentucky,21181.0,363,4.0
-923565,2021-01-12,Nicholas,West Virginia,54067.0,856,9.0
-924772,2021-01-13,Nicholas,Kentucky,21181.0,367,4.0
-926811,2021-01-13,Nicholas,West Virginia,54067.0,869,9.0
-928018,2021-01-14,Nicholas,Kentucky,21181.0,370,4.0
-930056,2021-01-14,Nicholas,West Virginia,54067.0,879,9.0
-931263,2021-01-15,Nicholas,Kentucky,21181.0,374,4.0
-933301,2021-01-15,Nicholas,West Virginia,54067.0,893,9.0
-934508,2021-01-16,Nicholas,Kentucky,21181.0,378,4.0
-936546,2021-01-16,Nicholas,West Virginia,54067.0,925,9.0
-937753,2021-01-17,Nicholas,Kentucky,21181.0,378,5.0
-939791,2021-01-17,Nicholas,West Virginia,54067.0,935,9.0
-940998,2021-01-18,Nicholas,Kentucky,21181.0,380,5.0
-943036,2021-01-18,Nicholas,West Virginia,54067.0,937,9.0
-944243,2021-01-19,Nicholas,Kentucky,21181.0,390,5.0
-946283,2021-01-19,Nicholas,West Virginia,54067.0,951,9.0
-947490,2021-01-20,Nicholas,Kentucky,21181.0,395,5.0
-949529,2021-01-20,Nicholas,West Virginia,54067.0,957,9.0
-950736,2021-01-21,Nicholas,Kentucky,21181.0,397,5.0
-952774,2021-01-21,Nicholas,West Virginia,54067.0,966,9.0
-953981,2021-01-22,Nicholas,Kentucky,21181.0,400,5.0
-956019,2021-01-22,Nicholas,West Virginia,54067.0,981,9.0
-957226,2021-01-23,Nicholas,Kentucky,21181.0,404,5.0
-959265,2021-01-23,Nicholas,West Virginia,54067.0,990,10.0
-960472,2021-01-24,Nicholas,Kentucky,21181.0,404,5.0
-962510,2021-01-24,Nicholas,West Virginia,54067.0,997,10.0
-963717,2021-01-25,Nicholas,Kentucky,21181.0,404,5.0
-965755,2021-01-25,Nicholas,West Virginia,54067.0,1005,10.0
-966962,2021-01-26,Nicholas,Kentucky,21181.0,409,5.0
-968999,2021-01-26,Nicholas,West Virginia,54067.0,1016,10.0
-970206,2021-01-27,Nicholas,Kentucky,21181.0,413,5.0
-972244,2021-01-27,Nicholas,West Virginia,54067.0,1023,11.0
-973451,2021-01-28,Nicholas,Kentucky,21181.0,415,5.0
-975489,2021-01-28,Nicholas,West Virginia,54067.0,1036,11.0
-976696,2021-01-29,Nicholas,Kentucky,21181.0,416,5.0
-978734,2021-01-29,Nicholas,West Virginia,54067.0,1041,11.0
-979942,2021-01-30,Nicholas,Kentucky,21181.0,418,5.0
-981980,2021-01-30,Nicholas,West Virginia,54067.0,1046,11.0
-983188,2021-01-31,Nicholas,Kentucky,21181.0,420,5.0
-985227,2021-01-31,Nicholas,West Virginia,54067.0,1055,11.0
-986435,2021-02-01,Nicholas,Kentucky,21181.0,423,5.0
-988474,2021-02-01,Nicholas,West Virginia,54067.0,1059,11.0
-989682,2021-02-02,Nicholas,Kentucky,21181.0,423,5.0
-991720,2021-02-02,Nicholas,West Virginia,54067.0,1063,11.0
-992928,2021-02-03,Nicholas,Kentucky,21181.0,424,6.0
-994966,2021-02-03,Nicholas,West Virginia,54067.0,1069,11.0
-996174,2021-02-04,Nicholas,Kentucky,21181.0,427,6.0
-998212,2021-02-04,Nicholas,West Virginia,54067.0,1074,12.0
-999420,2021-02-05,Nicholas,Kentucky,21181.0,429,6.0
-1001458,2021-02-05,Nicholas,West Virginia,54067.0,1080,12.0
-1002666,2021-02-06,Nicholas,Kentucky,21181.0,430,6.0
-1004704,2021-02-06,Nicholas,West Virginia,54067.0,1089,12.0
-1005912,2021-02-07,Nicholas,Kentucky,21181.0,431,6.0
-1007950,2021-02-07,Nicholas,West Virginia,54067.0,1097,12.0
-1009158,2021-02-08,Nicholas,Kentucky,21181.0,433,6.0
-1011196,2021-02-08,Nicholas,West Virginia,54067.0,1102,12.0
-1012404,2021-02-09,Nicholas,Kentucky,21181.0,438,6.0
-1014441,2021-02-09,Nicholas,West Virginia,54067.0,1106,12.0
-1015649,2021-02-10,Nicholas,Kentucky,21181.0,437,6.0
-1017686,2021-02-10,Nicholas,West Virginia,54067.0,1112,12.0
-1018894,2021-02-11,Nicholas,Kentucky,21181.0,438,6.0
-1020931,2021-02-11,Nicholas,West Virginia,54067.0,1117,12.0
-1022139,2021-02-12,Nicholas,Kentucky,21181.0,439,6.0
-1024176,2021-02-12,Nicholas,West Virginia,54067.0,1120,12.0
-1025384,2021-02-13,Nicholas,Kentucky,21181.0,439,6.0
-1027421,2021-02-13,Nicholas,West Virginia,54067.0,1122,12.0
-1028629,2021-02-14,Nicholas,Kentucky,21181.0,433,6.0
-1030668,2021-02-14,Nicholas,West Virginia,54067.0,1133,12.0
-1031876,2021-02-15,Nicholas,Kentucky,21181.0,433,6.0
-1033914,2021-02-15,Nicholas,West Virginia,54067.0,1142,12.0
-1035122,2021-02-16,Nicholas,Kentucky,21181.0,436,6.0
-1037159,2021-02-16,Nicholas,West Virginia,54067.0,1143,12.0
-1038367,2021-02-17,Nicholas,Kentucky,21181.0,436,6.0
-1040404,2021-02-17,Nicholas,West Virginia,54067.0,1145,12.0
-1041612,2021-02-18,Nicholas,Kentucky,21181.0,436,6.0
-1043649,2021-02-18,Nicholas,West Virginia,54067.0,1151,12.0
-1044857,2021-02-19,Nicholas,Kentucky,21181.0,437,6.0
-1046894,2021-02-19,Nicholas,West Virginia,54067.0,1154,12.0
-1048102,2021-02-20,Nicholas,Kentucky,21181.0,444,6.0
-1050141,2021-02-20,Nicholas,West Virginia,54067.0,1156,12.0
-1051349,2021-02-21,Nicholas,Kentucky,21181.0,446,6.0
-1053388,2021-02-21,Nicholas,West Virginia,54067.0,1160,12.0
-1054596,2021-02-22,Nicholas,Kentucky,21181.0,446,6.0
-1056634,2021-02-22,Nicholas,West Virginia,54067.0,1163,12.0
-1057842,2021-02-23,Nicholas,Kentucky,21181.0,447,6.0
-1059880,2021-02-23,Nicholas,West Virginia,54067.0,1164,12.0
-1061088,2021-02-24,Nicholas,Kentucky,21181.0,451,6.0
-1063125,2021-02-24,Nicholas,West Virginia,54067.0,1170,12.0
-1064333,2021-02-25,Nicholas,Kentucky,21181.0,453,6.0
-1066370,2021-02-25,Nicholas,West Virginia,54067.0,1169,12.0
-1067578,2021-02-26,Nicholas,Kentucky,21181.0,454,6.0
-1069615,2021-02-26,Nicholas,West Virginia,54067.0,1170,12.0
-1070823,2021-02-27,Nicholas,Kentucky,21181.0,455,6.0
-1072861,2021-02-27,Nicholas,West Virginia,54067.0,1174,12.0
-1074069,2021-02-28,Nicholas,Kentucky,21181.0,457,6.0
-1076107,2021-02-28,Nicholas,West Virginia,54067.0,1179,12.0
-1077315,2021-03-01,Nicholas,Kentucky,21181.0,456,6.0
-1079352,2021-03-01,Nicholas,West Virginia,54067.0,1179,12.0
-1080560,2021-03-02,Nicholas,Kentucky,21181.0,459,6.0
-1082598,2021-03-02,Nicholas,West Virginia,54067.0,1183,12.0
-1083806,2021-03-03,Nicholas,Kentucky,21181.0,461,6.0
-1085844,2021-03-03,Nicholas,West Virginia,54067.0,1186,12.0
-1087052,2021-03-04,Nicholas,Kentucky,21181.0,464,6.0
-1089089,2021-03-04,Nicholas,West Virginia,54067.0,1191,12.0
-1090297,2021-03-05,Nicholas,Kentucky,21181.0,466,6.0
-1092335,2021-03-05,Nicholas,West Virginia,54067.0,1192,12.0
-1093543,2021-03-06,Nicholas,Kentucky,21181.0,467,6.0
-1095581,2021-03-06,Nicholas,West Virginia,54067.0,1196,12.0
-1096789,2021-03-07,Nicholas,Kentucky,21181.0,467,6.0
-1098829,2021-03-07,Nicholas,West Virginia,54067.0,1200,12.0
-1100037,2021-03-08,Nicholas,Kentucky,21181.0,467,6.0
-1102075,2021-03-08,Nicholas,West Virginia,54067.0,1202,12.0
-1103283,2021-03-09,Nicholas,Kentucky,21181.0,469,6.0
-1105321,2021-03-09,Nicholas,West Virginia,54067.0,1213,12.0
-1106529,2021-03-10,Nicholas,Kentucky,21181.0,473,6.0
-1108567,2021-03-10,Nicholas,West Virginia,54067.0,1219,12.0
-1109775,2021-03-11,Nicholas,Kentucky,21181.0,475,6.0
-1111813,2021-03-11,Nicholas,West Virginia,54067.0,1228,13.0
-1113021,2021-03-12,Nicholas,Kentucky,21181.0,474,6.0
-1115059,2021-03-12,Nicholas,West Virginia,54067.0,1237,13.0
-1116267,2021-03-13,Nicholas,Kentucky,21181.0,474,6.0
-1118306,2021-03-13,Nicholas,West Virginia,54067.0,1244,13.0
-1119514,2021-03-14,Nicholas,Kentucky,21181.0,476,6.0
-1121553,2021-03-14,Nicholas,West Virginia,54067.0,1258,13.0
-1122761,2021-03-15,Nicholas,Kentucky,21181.0,477,6.0
-1124799,2021-03-15,Nicholas,West Virginia,54067.0,1266,13.0
-1126007,2021-03-16,Nicholas,Kentucky,21181.0,477,6.0
-1128045,2021-03-16,Nicholas,West Virginia,54067.0,1274,13.0
-1129253,2021-03-17,Nicholas,Kentucky,21181.0,477,6.0
-1131292,2021-03-17,Nicholas,West Virginia,54067.0,1281,14.0
-1132501,2021-03-18,Nicholas,Kentucky,21181.0,477,6.0
-1134540,2021-03-18,Nicholas,West Virginia,54067.0,1294,14.0
-1135748,2021-03-19,Nicholas,Kentucky,21181.0,478,7.0
-1137786,2021-03-19,Nicholas,West Virginia,54067.0,1299,15.0
-1138994,2021-03-20,Nicholas,Kentucky,21181.0,478,7.0
-1141032,2021-03-20,Nicholas,West Virginia,54067.0,1309,15.0
-1142240,2021-03-21,Nicholas,Kentucky,21181.0,478,7.0
-1144279,2021-03-21,Nicholas,West Virginia,54067.0,1320,15.0
-1145487,2021-03-22,Nicholas,Kentucky,21181.0,478,7.0
-1147526,2021-03-22,Nicholas,West Virginia,54067.0,1333,15.0
-1148734,2021-03-23,Nicholas,Kentucky,21181.0,481,7.0
-1150773,2021-03-23,Nicholas,West Virginia,54067.0,1341,15.0
-1151981,2021-03-24,Nicholas,Kentucky,21181.0,484,7.0
-1154020,2021-03-24,Nicholas,West Virginia,54067.0,1348,15.0
-1155228,2021-03-25,Nicholas,Kentucky,21181.0,487,7.0
-1157267,2021-03-25,Nicholas,West Virginia,54067.0,1355,15.0
-1158475,2021-03-26,Nicholas,Kentucky,21181.0,489,7.0
-1160515,2021-03-26,Nicholas,West Virginia,54067.0,1363,15.0
-1161723,2021-03-27,Nicholas,Kentucky,21181.0,492,7.0
-1163763,2021-03-27,Nicholas,West Virginia,54067.0,1364,15.0
-1164971,2021-03-28,Nicholas,Kentucky,21181.0,492,7.0
-1167011,2021-03-28,Nicholas,West Virginia,54067.0,1369,15.0
-1168219,2021-03-29,Nicholas,Kentucky,21181.0,492,7.0
-1170259,2021-03-29,Nicholas,West Virginia,54067.0,1377,15.0
-1171467,2021-03-30,Nicholas,Kentucky,21181.0,493,7.0
-1173506,2021-03-30,Nicholas,West Virginia,54067.0,1378,15.0
-1174714,2021-03-31,Nicholas,Kentucky,21181.0,496,8.0
-1176753,2021-03-31,Nicholas,West Virginia,54067.0,1381,15.0
-1177961,2021-04-01,Nicholas,Kentucky,21181.0,500,8.0
-1180000,2021-04-01,Nicholas,West Virginia,54067.0,1389,15.0
-1181208,2021-04-02,Nicholas,Kentucky,21181.0,501,8.0
-1183247,2021-04-02,Nicholas,West Virginia,54067.0,1396,15.0
-1184455,2021-04-03,Nicholas,Kentucky,21181.0,503,8.0
-1186494,2021-04-03,Nicholas,West Virginia,54067.0,1397,15.0
-1187702,2021-04-04,Nicholas,Kentucky,21181.0,503,8.0
-1189741,2021-04-04,Nicholas,West Virginia,54067.0,1401,15.0
-1190949,2021-04-05,Nicholas,Kentucky,21181.0,506,8.0
-1192991,2021-04-05,Nicholas,West Virginia,54067.0,1405,15.0
-1194199,2021-04-06,Nicholas,Kentucky,21181.0,504,8.0
-1196239,2021-04-06,Nicholas,West Virginia,54067.0,1410,16.0
-1197447,2021-04-07,Nicholas,Kentucky,21181.0,505,8.0
-1199488,2021-04-07,Nicholas,West Virginia,54067.0,1415,16.0
-1200696,2021-04-08,Nicholas,Kentucky,21181.0,507,8.0
-1202736,2021-04-08,Nicholas,West Virginia,54067.0,1418,16.0
-1203944,2021-04-09,Nicholas,Kentucky,21181.0,509,8.0
-1205984,2021-04-09,Nicholas,West Virginia,54067.0,1429,17.0
-1207192,2021-04-10,Nicholas,Kentucky,21181.0,509,8.0
-1209232,2021-04-10,Nicholas,West Virginia,54067.0,1436,17.0
-1210441,2021-04-11,Nicholas,Kentucky,21181.0,510,8.0
-1212481,2021-04-11,Nicholas,West Virginia,54067.0,1439,17.0
-1213689,2021-04-12,Nicholas,Kentucky,21181.0,512,8.0
-1215728,2021-04-12,Nicholas,West Virginia,54067.0,1446,17.0
-1216936,2021-04-13,Nicholas,Kentucky,21181.0,514,8.0
-1218976,2021-04-13,Nicholas,West Virginia,54067.0,1461,17.0
-1220184,2021-04-14,Nicholas,Kentucky,21181.0,516,8.0
-1222224,2021-04-14,Nicholas,West Virginia,54067.0,1468,17.0
-1223432,2021-04-15,Nicholas,Kentucky,21181.0,517,8.0
-1225471,2021-04-15,Nicholas,West Virginia,54067.0,1477,19.0
-1226679,2021-04-16,Nicholas,Kentucky,21181.0,518,8.0
-1228719,2021-04-16,Nicholas,West Virginia,54067.0,1483,19.0
-1229927,2021-04-17,Nicholas,Kentucky,21181.0,520,8.0
-1231967,2021-04-17,Nicholas,West Virginia,54067.0,1499,19.0
-1233175,2021-04-18,Nicholas,Kentucky,21181.0,520,8.0
-1235215,2021-04-18,Nicholas,West Virginia,54067.0,1507,19.0
-1236422,2021-04-19,Nicholas,Kentucky,21181.0,521,8.0
-1238462,2021-04-19,Nicholas,West Virginia,54067.0,1512,19.0
-1239669,2021-04-20,Nicholas,Kentucky,21181.0,522,8.0
-1241709,2021-04-20,Nicholas,West Virginia,54067.0,1519,19.0
-1242916,2021-04-21,Nicholas,Kentucky,21181.0,524,8.0
-1244956,2021-04-21,Nicholas,West Virginia,54067.0,1522,19.0
-1246163,2021-04-22,Nicholas,Kentucky,21181.0,526,8.0
-1248203,2021-04-22,Nicholas,West Virginia,54067.0,1530,20.0
-1249410,2021-04-23,Nicholas,Kentucky,21181.0,528,8.0
-1251450,2021-04-23,Nicholas,West Virginia,54067.0,1538,20.0
-1252657,2021-04-24,Nicholas,Kentucky,21181.0,528,8.0
-1254697,2021-04-24,Nicholas,West Virginia,54067.0,1541,20.0
-1255904,2021-04-25,Nicholas,Kentucky,21181.0,529,8.0
-1257944,2021-04-25,Nicholas,West Virginia,54067.0,1547,20.0
-1259151,2021-04-26,Nicholas,Kentucky,21181.0,531,8.0
-1261191,2021-04-26,Nicholas,West Virginia,54067.0,1550,20.0
-1262398,2021-04-27,Nicholas,Kentucky,21181.0,533,8.0
-1264438,2021-04-27,Nicholas,West Virginia,54067.0,1552,18.0
-1265645,2021-04-28,Nicholas,Kentucky,21181.0,534,8.0
-1267685,2021-04-28,Nicholas,West Virginia,54067.0,1561,18.0
-1268892,2021-04-29,Nicholas,Kentucky,21181.0,538,8.0
-1270932,2021-04-29,Nicholas,West Virginia,54067.0,1568,18.0
-1272139,2021-04-30,Nicholas,Kentucky,21181.0,541,8.0
-1274179,2021-04-30,Nicholas,West Virginia,54067.0,1577,18.0
-1275386,2021-05-01,Nicholas,Kentucky,21181.0,541,8.0
-1277426,2021-05-01,Nicholas,West Virginia,54067.0,1586,18.0
-1278633,2021-05-02,Nicholas,Kentucky,21181.0,541,8.0
-1280673,2021-05-02,Nicholas,West Virginia,54067.0,1592,19.0
-1281880,2021-05-03,Nicholas,Kentucky,21181.0,544,8.0
-1283920,2021-05-03,Nicholas,West Virginia,54067.0,1600,19.0
-1285127,2021-05-04,Nicholas,Kentucky,21181.0,546,8.0
-1287166,2021-05-04,Nicholas,West Virginia,54067.0,1613,19.0
-1288373,2021-05-05,Nicholas,Kentucky,21181.0,546,8.0
-1290412,2021-05-05,Nicholas,West Virginia,54067.0,1624,19.0
-1291619,2021-05-06,Nicholas,Kentucky,21181.0,548,8.0
-1293658,2021-05-06,Nicholas,West Virginia,54067.0,1632,19.0
-1294865,2021-05-07,Nicholas,Kentucky,21181.0,548,8.0
-1296904,2021-05-07,Nicholas,West Virginia,54067.0,1644,19.0
-1298111,2021-05-08,Nicholas,Kentucky,21181.0,549,8.0
-1300151,2021-05-08,Nicholas,West Virginia,54067.0,1657,19.0
-1301358,2021-05-09,Nicholas,Kentucky,21181.0,549,8.0
-1303398,2021-05-09,Nicholas,West Virginia,54067.0,1671,19.0
-1304605,2021-05-10,Nicholas,Kentucky,21181.0,549,8.0
-1306644,2021-05-10,Nicholas,West Virginia,54067.0,1681,19.0
-1307851,2021-05-11,Nicholas,Kentucky,21181.0,551,8.0
-1309890,2021-05-11,Nicholas,West Virginia,54067.0,1685,19.0
-1311097,2021-05-12,Nicholas,Kentucky,21181.0,552,8.0
-1313137,2021-05-12,Nicholas,West Virginia,54067.0,1698,19.0
-1314344,2021-05-13,Nicholas,Kentucky,21181.0,552,8.0
-1316383,2021-05-13,Nicholas,West Virginia,54067.0,1704,19.0
-1317591,2021-05-14,Nicholas,Kentucky,21181.0,553,8.0
-1319631,2021-05-14,Nicholas,West Virginia,54067.0,1716,19.0
-1320838,2021-05-15,Nicholas,Kentucky,21181.0,553,8.0
-1322877,2021-05-15,Nicholas,West Virginia,54067.0,1725,19.0
-1324084,2021-05-16,Nicholas,Kentucky,21181.0,554,8.0
-1326123,2021-05-16,Nicholas,West Virginia,54067.0,1739,19.0
-1327330,2021-05-17,Nicholas,Kentucky,21181.0,554,8.0
-1329369,2021-05-17,Nicholas,West Virginia,54067.0,1748,19.0
-1330577,2021-05-18,Nicholas,Kentucky,21181.0,556,8.0
-1332616,2021-05-18,Nicholas,West Virginia,54067.0,1758,19.0
-1333824,2021-05-19,Nicholas,Kentucky,21181.0,556,8.0
-1335863,2021-05-19,Nicholas,West Virginia,54067.0,1772,19.0
-1337071,2021-05-20,Nicholas,Kentucky,21181.0,556,8.0
-1339110,2021-05-20,Nicholas,West Virginia,54067.0,1780,19.0
-1340318,2021-05-21,Nicholas,Kentucky,21181.0,557,8.0
-1342358,2021-05-21,Nicholas,West Virginia,54067.0,1792,19.0
-1343566,2021-05-22,Nicholas,Kentucky,21181.0,558,8.0
-1345606,2021-05-22,Nicholas,West Virginia,54067.0,1792,19.0
-1346814,2021-05-23,Nicholas,Kentucky,21181.0,559,8.0
-1348854,2021-05-23,Nicholas,West Virginia,54067.0,1792,19.0
-1350061,2021-05-24,Nicholas,Kentucky,21181.0,559,8.0
-1352100,2021-05-24,Nicholas,West Virginia,54067.0,1813,19.0
-1353307,2021-05-25,Nicholas,Kentucky,21181.0,559,8.0
-1355346,2021-05-25,Nicholas,West Virginia,54067.0,1818,20.0
-1356553,2021-05-26,Nicholas,Kentucky,21181.0,559,8.0
-1358592,2021-05-26,Nicholas,West Virginia,54067.0,1830,20.0
-1359799,2021-05-27,Nicholas,Kentucky,21181.0,559,8.0
-1361838,2021-05-27,Nicholas,West Virginia,54067.0,1832,20.0
-1363046,2021-05-28,Nicholas,Kentucky,21181.0,559,8.0
-1365084,2021-05-28,Nicholas,West Virginia,54067.0,1840,20.0
-1366292,2021-05-29,Nicholas,Kentucky,21181.0,559,8.0
-1368330,2021-05-29,Nicholas,West Virginia,54067.0,1840,20.0
-1369538,2021-05-30,Nicholas,Kentucky,21181.0,559,8.0
-1371576,2021-05-30,Nicholas,West Virginia,54067.0,1840,20.0
-1372783,2021-05-31,Nicholas,Kentucky,21181.0,559,8.0
-1374821,2021-05-31,Nicholas,West Virginia,54067.0,1840,20.0
-1376028,2021-06-01,Nicholas,Kentucky,21181.0,559,8.0
-1378067,2021-06-01,Nicholas,West Virginia,54067.0,1855,20.0
-1379274,2021-06-02,Nicholas,Kentucky,21181.0,559,8.0
-1381312,2021-06-02,Nicholas,West Virginia,54067.0,1858,20.0
-1382519,2021-06-03,Nicholas,Kentucky,21181.0,571,8.0
-1384558,2021-06-03,Nicholas,West Virginia,54067.0,1860,20.0
-1385765,2021-06-04,Nicholas,Kentucky,21181.0,590,8.0
-1387803,2021-06-04,Nicholas,West Virginia,54067.0,1862,21.0
-1389010,2021-06-05,Nicholas,Kentucky,21181.0,593,8.0
-1391048,2021-06-05,Nicholas,West Virginia,54067.0,1862,21.0
-1392255,2021-06-06,Nicholas,Kentucky,21181.0,593,8.0
-1394293,2021-06-06,Nicholas,West Virginia,54067.0,1862,21.0
-1395500,2021-06-07,Nicholas,Kentucky,21181.0,595,8.0
-1397540,2021-06-07,Nicholas,West Virginia,54067.0,1871,21.0
-1398747,2021-06-08,Nicholas,Kentucky,21181.0,600,8.0
-1400785,2021-06-08,Nicholas,West Virginia,54067.0,1874,21.0
-1401992,2021-06-09,Nicholas,Kentucky,21181.0,601,8.0
-1404030,2021-06-09,Nicholas,West Virginia,54067.0,1882,21.0
-1405237,2021-06-10,Nicholas,Kentucky,21181.0,600,8.0
-1407276,2021-06-10,Nicholas,West Virginia,54067.0,1882,21.0
-1408483,2021-06-11,Nicholas,Kentucky,21181.0,591,8.0
-1410521,2021-06-11,Nicholas,West Virginia,54067.0,1883,21.0
-1411728,2021-06-12,Nicholas,Kentucky,21181.0,590,8.0
-1413766,2021-06-12,Nicholas,West Virginia,54067.0,1883,21.0
-1414973,2021-06-13,Nicholas,Kentucky,21181.0,590,8.0
-1417012,2021-06-13,Nicholas,West Virginia,54067.0,1883,21.0
-1418219,2021-06-14,Nicholas,Kentucky,21181.0,590,8.0
-1420257,2021-06-14,Nicholas,West Virginia,54067.0,1890,21.0
-1421464,2021-06-15,Nicholas,Kentucky,21181.0,590,8.0
-1423504,2021-06-15,Nicholas,West Virginia,54067.0,1891,21.0
-1424712,2021-06-16,Nicholas,Kentucky,21181.0,590,8.0
-1426750,2021-06-16,Nicholas,West Virginia,54067.0,1893,21.0
-1427957,2021-06-17,Nicholas,Kentucky,21181.0,591,8.0
-1429995,2021-06-17,Nicholas,West Virginia,54067.0,1892,21.0
-1431202,2021-06-18,Nicholas,Kentucky,21181.0,591,8.0
-1433241,2021-06-18,Nicholas,West Virginia,54067.0,1892,21.0
-1434448,2021-06-19,Nicholas,Kentucky,21181.0,591,8.0
-1436488,2021-06-19,Nicholas,West Virginia,54067.0,1892,21.0
-1437695,2021-06-20,Nicholas,Kentucky,21181.0,591,8.0
-1439735,2021-06-20,Nicholas,West Virginia,54067.0,1892,21.0
-1440942,2021-06-21,Nicholas,Kentucky,21181.0,592,8.0
-1442980,2021-06-21,Nicholas,West Virginia,54067.0,1892,21.0
-1444187,2021-06-22,Nicholas,Kentucky,21181.0,593,8.0
-1446225,2021-06-22,Nicholas,West Virginia,54067.0,1898,21.0
-1447432,2021-06-23,Nicholas,Kentucky,21181.0,597,8.0
-1449470,2021-06-23,Nicholas,West Virginia,54067.0,1899,21.0
-1450677,2021-06-24,Nicholas,Kentucky,21181.0,597,8.0
-1452716,2021-06-24,Nicholas,West Virginia,54067.0,1903,21.0
-1453923,2021-06-25,Nicholas,Kentucky,21181.0,597,8.0
-1455961,2021-06-25,Nicholas,West Virginia,54067.0,1903,21.0
-1457168,2021-06-26,Nicholas,Kentucky,21181.0,597,8.0
-1459206,2021-06-26,Nicholas,West Virginia,54067.0,1903,21.0
-1460413,2021-06-27,Nicholas,Kentucky,21181.0,597,8.0
-1462451,2021-06-27,Nicholas,West Virginia,54067.0,1903,21.0
-1463658,2021-06-28,Nicholas,Kentucky,21181.0,597,8.0
-1465696,2021-06-28,Nicholas,West Virginia,54067.0,1905,21.0
-1466903,2021-06-29,Nicholas,Kentucky,21181.0,599,8.0
-1468941,2021-06-29,Nicholas,West Virginia,54067.0,1905,22.0
-1470148,2021-06-30,Nicholas,Kentucky,21181.0,599,8.0
-1472186,2021-06-30,Nicholas,West Virginia,54067.0,1905,22.0
-1473394,2021-07-01,Nicholas,Kentucky,21181.0,599,8.0
-1475432,2021-07-01,Nicholas,West Virginia,54067.0,1905,22.0
-1476640,2021-07-02,Nicholas,Kentucky,21181.0,599,8.0
-1478678,2021-07-02,Nicholas,West Virginia,54067.0,1905,22.0
-1479886,2021-07-03,Nicholas,Kentucky,21181.0,599,8.0
-1481925,2021-07-03,Nicholas,West Virginia,54067.0,1905,22.0
-1483133,2021-07-04,Nicholas,Kentucky,21181.0,599,8.0
-1485171,2021-07-04,Nicholas,West Virginia,54067.0,1905,22.0
-1486379,2021-07-05,Nicholas,Kentucky,21181.0,599,8.0
-1488418,2021-07-05,Nicholas,West Virginia,54067.0,1905,22.0
-1489626,2021-07-06,Nicholas,Kentucky,21181.0,599,8.0
-1491665,2021-07-06,Nicholas,West Virginia,54067.0,1908,22.0
-1492873,2021-07-07,Nicholas,Kentucky,21181.0,599,8.0
-1494912,2021-07-07,Nicholas,West Virginia,54067.0,1908,22.0
-1496119,2021-07-08,Nicholas,Kentucky,21181.0,600,8.0
-1498159,2021-07-08,Nicholas,West Virginia,54067.0,1909,22.0
-1499366,2021-07-09,Nicholas,Kentucky,21181.0,599,8.0
-1501405,2021-07-09,Nicholas,West Virginia,54067.0,1909,22.0
-1502612,2021-07-10,Nicholas,Kentucky,21181.0,599,8.0
-1504651,2021-07-10,Nicholas,West Virginia,54067.0,1909,22.0
-1505858,2021-07-11,Nicholas,Kentucky,21181.0,599,8.0
-1507897,2021-07-11,Nicholas,West Virginia,54067.0,1909,22.0
-1509104,2021-07-12,Nicholas,Kentucky,21181.0,599,8.0
-1511144,2021-07-12,Nicholas,West Virginia,54067.0,1911,22.0
-1512351,2021-07-13,Nicholas,Kentucky,21181.0,601,8.0
-1514390,2021-07-13,Nicholas,West Virginia,54067.0,1913,22.0
-1515597,2021-07-14,Nicholas,Kentucky,21181.0,601,8.0
-1517637,2021-07-14,Nicholas,West Virginia,54067.0,1914,23.0
-1518844,2021-07-15,Nicholas,Kentucky,21181.0,601,9.0
-1520885,2021-07-15,Nicholas,West Virginia,54067.0,1916,23.0
-1522092,2021-07-16,Nicholas,Kentucky,21181.0,603,9.0
-1524133,2021-07-16,Nicholas,West Virginia,54067.0,1919,23.0
-1525340,2021-07-17,Nicholas,Kentucky,21181.0,603,9.0
-1527380,2021-07-17,Nicholas,West Virginia,54067.0,1919,23.0
-1528587,2021-07-18,Nicholas,Kentucky,21181.0,603,9.0
-1530627,2021-07-18,Nicholas,West Virginia,54067.0,1919,23.0
-1531834,2021-07-19,Nicholas,Kentucky,21181.0,604,9.0
-1533874,2021-07-19,Nicholas,West Virginia,54067.0,1925,23.0
-1535081,2021-07-20,Nicholas,Kentucky,21181.0,604,9.0
-1537122,2021-07-20,Nicholas,West Virginia,54067.0,1927,23.0
-1538329,2021-07-21,Nicholas,Kentucky,21181.0,605,9.0
-1540369,2021-07-21,Nicholas,West Virginia,54067.0,1932,23.0
-1541576,2021-07-22,Nicholas,Kentucky,21181.0,606,9.0
-1543617,2021-07-22,Nicholas,West Virginia,54067.0,1935,24.0
-1544824,2021-07-23,Nicholas,Kentucky,21181.0,610,9.0
-1546864,2021-07-23,Nicholas,West Virginia,54067.0,1936,24.0
-1548071,2021-07-24,Nicholas,Kentucky,21181.0,610,9.0
-1550111,2021-07-24,Nicholas,West Virginia,54067.0,1936,24.0
-1551318,2021-07-25,Nicholas,Kentucky,21181.0,610,9.0
-1553358,2021-07-25,Nicholas,West Virginia,54067.0,1936,24.0
-1554565,2021-07-26,Nicholas,Kentucky,21181.0,611,9.0
-1556605,2021-07-26,Nicholas,West Virginia,54067.0,1943,24.0
-1557812,2021-07-27,Nicholas,Kentucky,21181.0,612,9.0
-1559852,2021-07-27,Nicholas,West Virginia,54067.0,1947,24.0
-1561059,2021-07-28,Nicholas,Kentucky,21181.0,616,9.0
-1563100,2021-07-28,Nicholas,West Virginia,54067.0,1951,24.0
-1564307,2021-07-29,Nicholas,Kentucky,21181.0,617,9.0
-1566348,2021-07-29,Nicholas,West Virginia,54067.0,1953,24.0
-1567555,2021-07-30,Nicholas,Kentucky,21181.0,618,9.0
-1569596,2021-07-30,Nicholas,West Virginia,54067.0,1955,24.0
-1570803,2021-07-31,Nicholas,Kentucky,21181.0,618,9.0
-1572844,2021-07-31,Nicholas,West Virginia,54067.0,1955,24.0
-1574051,2021-08-01,Nicholas,Kentucky,21181.0,618,9.0
-1576092,2021-08-01,Nicholas,West Virginia,54067.0,1955,24.0
-1577299,2021-08-02,Nicholas,Kentucky,21181.0,619,9.0
-1579340,2021-08-02,Nicholas,West Virginia,54067.0,1966,24.0
-1580548,2021-08-03,Nicholas,Kentucky,21181.0,619,9.0
-1582590,2021-08-03,Nicholas,West Virginia,54067.0,1968,24.0
-1583798,2021-08-04,Nicholas,Kentucky,21181.0,622,9.0
-1585840,2021-08-04,Nicholas,West Virginia,54067.0,1970,24.0
-1587048,2021-08-05,Nicholas,Kentucky,21181.0,622,9.0
-1589089,2021-08-05,Nicholas,West Virginia,54067.0,1975,24.0
-1590297,2021-08-06,Nicholas,Kentucky,21181.0,625,9.0
-1592338,2021-08-06,Nicholas,West Virginia,54067.0,1979,24.0
-1593546,2021-08-07,Nicholas,Kentucky,21181.0,625,9.0
-1595587,2021-08-07,Nicholas,West Virginia,54067.0,1979,24.0
-1596795,2021-08-08,Nicholas,Kentucky,21181.0,625,9.0
-1598836,2021-08-08,Nicholas,West Virginia,54067.0,1979,24.0
-1600043,2021-08-09,Nicholas,Kentucky,21181.0,628,9.0
-1602084,2021-08-09,Nicholas,West Virginia,54067.0,1989,25.0
-1603292,2021-08-10,Nicholas,Kentucky,21181.0,630,9.0
-1605334,2021-08-10,Nicholas,West Virginia,54067.0,1990,25.0
-1606541,2021-08-11,Nicholas,Kentucky,21181.0,635,9.0
-1608583,2021-08-11,Nicholas,West Virginia,54067.0,1994,25.0
-1609790,2021-08-12,Nicholas,Kentucky,21181.0,637,9.0
-1611830,2021-08-12,Nicholas,West Virginia,54067.0,1998,25.0
-1613038,2021-08-13,Nicholas,Kentucky,21181.0,641,9.0
-1615079,2021-08-13,Nicholas,West Virginia,54067.0,2001,25.0
-1616287,2021-08-14,Nicholas,Kentucky,21181.0,641,9.0
-1618327,2021-08-14,Nicholas,West Virginia,54067.0,2001,25.0
-1619535,2021-08-15,Nicholas,Kentucky,21181.0,641,9.0
-1621575,2021-08-15,Nicholas,West Virginia,54067.0,2001,25.0
-1622782,2021-08-16,Nicholas,Kentucky,21181.0,655,9.0
-1624822,2021-08-16,Nicholas,West Virginia,54067.0,2029,25.0
-1626029,2021-08-17,Nicholas,Kentucky,21181.0,655,9.0
-1628069,2021-08-17,Nicholas,West Virginia,54067.0,2043,26.0
-1629276,2021-08-18,Nicholas,Kentucky,21181.0,658,9.0
-1631316,2021-08-18,Nicholas,West Virginia,54067.0,2051,26.0
-1632523,2021-08-19,Nicholas,Kentucky,21181.0,667,9.0
-1634564,2021-08-19,Nicholas,West Virginia,54067.0,2062,26.0
-1635773,2021-08-20,Nicholas,Kentucky,21181.0,674,9.0
-1637814,2021-08-20,Nicholas,West Virginia,54067.0,2077,26.0
-1639023,2021-08-21,Nicholas,Kentucky,21181.0,674,9.0
-1641064,2021-08-21,Nicholas,West Virginia,54067.0,2077,26.0
-1642273,2021-08-22,Nicholas,Kentucky,21181.0,674,9.0
-1644314,2021-08-22,Nicholas,West Virginia,54067.0,2077,26.0
-1645522,2021-08-23,Nicholas,Kentucky,21181.0,695,9.0
-1647563,2021-08-23,Nicholas,West Virginia,54067.0,2111,26.0
-1648770,2021-08-24,Nicholas,Kentucky,21181.0,701,9.0
-1650812,2021-08-24,Nicholas,West Virginia,54067.0,2132,26.0
-1652019,2021-08-25,Nicholas,Kentucky,21181.0,704,9.0
-1654058,2021-08-25,Nicholas,West Virginia,54067.0,2151,27.0
-1655266,2021-08-26,Nicholas,Kentucky,21181.0,713,9.0
-1657306,2021-08-26,Nicholas,West Virginia,54067.0,2177,29.0
-1658514,2021-08-27,Nicholas,Kentucky,21181.0,726,9.0
-1660554,2021-08-27,Nicholas,West Virginia,54067.0,2197,29.0
-1661762,2021-08-28,Nicholas,Kentucky,21181.0,726,9.0
-1663802,2021-08-28,Nicholas,West Virginia,54067.0,2197,29.0
-1665010,2021-08-29,Nicholas,Kentucky,21181.0,726,9.0
-1667050,2021-08-29,Nicholas,West Virginia,54067.0,2258,29.0
-1668257,2021-08-30,Nicholas,Kentucky,21181.0,758,10.0
-1670297,2021-08-30,Nicholas,West Virginia,54067.0,2288,29.0
-1671504,2021-08-31,Nicholas,Kentucky,21181.0,775,10.0
-1673545,2021-08-31,Nicholas,West Virginia,54067.0,2303,29.0
-1674753,2021-09-01,Nicholas,Kentucky,21181.0,780,10.0
-1676792,2021-09-01,Nicholas,West Virginia,54067.0,2315,29.0
-1678000,2021-09-02,Nicholas,Kentucky,21181.0,786,10.0
-1680040,2021-09-02,Nicholas,West Virginia,54067.0,2348,29.0
-1681248,2021-09-03,Nicholas,Kentucky,21181.0,798,10.0
-1683290,2021-09-03,Nicholas,West Virginia,54067.0,2380,29.0
-1684499,2021-09-04,Nicholas,Kentucky,21181.0,798,10.0
-1686541,2021-09-04,Nicholas,West Virginia,54067.0,2408,29.0
-1687749,2021-09-05,Nicholas,Kentucky,21181.0,798,10.0
-1689791,2021-09-05,Nicholas,West Virginia,54067.0,2438,29.0
-1690999,2021-09-06,Nicholas,Kentucky,21181.0,798,10.0
-1693040,2021-09-06,Nicholas,West Virginia,54067.0,2467,29.0
-1694248,2021-09-07,Nicholas,Kentucky,21181.0,825,10.0
-1696288,2021-09-07,Nicholas,West Virginia,54067.0,2482,29.0
-1697496,2021-09-08,Nicholas,Kentucky,21181.0,833,10.0
-1699536,2021-09-08,Nicholas,West Virginia,54067.0,2512,29.0
-1700745,2021-09-09,Nicholas,Kentucky,21181.0,841,10.0
-1702785,2021-09-09,Nicholas,West Virginia,54067.0,2531,29.0
-1703995,2021-09-10,Nicholas,Kentucky,21181.0,851,10.0
-1706035,2021-09-10,Nicholas,West Virginia,54067.0,2582,29.0
-1707243,2021-09-11,Nicholas,Kentucky,21181.0,851,10.0
-1709282,2021-09-11,Nicholas,West Virginia,54067.0,2627,29.0
-1710490,2021-09-12,Nicholas,Kentucky,21181.0,851,10.0
-1712529,2021-09-12,Nicholas,West Virginia,54067.0,2657,29.0
-1713737,2021-09-13,Nicholas,Kentucky,21181.0,867,10.0
-1715775,2021-09-13,Nicholas,West Virginia,54067.0,2685,29.0
-1716983,2021-09-14,Nicholas,Kentucky,21181.0,876,10.0
-1719023,2021-09-14,Nicholas,West Virginia,54067.0,2704,29.0
-1720231,2021-09-15,Nicholas,Kentucky,21181.0,880,10.0
-1722271,2021-09-15,Nicholas,West Virginia,54067.0,2721,29.0
-1723480,2021-09-16,Nicholas,Kentucky,21181.0,887,10.0
-1725520,2021-09-16,Nicholas,West Virginia,54067.0,2751,29.0
-1726729,2021-09-17,Nicholas,Kentucky,21181.0,894,10.0
-1728770,2021-09-17,Nicholas,West Virginia,54067.0,2795,29.0
-1729979,2021-09-18,Nicholas,Kentucky,21181.0,894,10.0
-1732020,2021-09-18,Nicholas,West Virginia,54067.0,2825,29.0
-1733229,2021-09-19,Nicholas,Kentucky,21181.0,894,10.0
-1735270,2021-09-19,Nicholas,West Virginia,54067.0,2853,29.0
-1736479,2021-09-20,Nicholas,Kentucky,21181.0,912,14.0
-1738519,2021-09-20,Nicholas,West Virginia,54067.0,2876,30.0
-1739728,2021-09-21,Nicholas,Kentucky,21181.0,923,14.0
-1741768,2021-09-21,Nicholas,West Virginia,54067.0,2882,30.0
-1742977,2021-09-22,Nicholas,Kentucky,21181.0,936,14.0
-1745017,2021-09-22,Nicholas,West Virginia,54067.0,2908,31.0
-1746226,2021-09-23,Nicholas,Kentucky,21181.0,953,14.0
-1748267,2021-09-23,Nicholas,West Virginia,54067.0,2940,32.0
-1749476,2021-09-24,Nicholas,Kentucky,21181.0,966,14.0
-1751516,2021-09-24,Nicholas,West Virginia,54067.0,2983,32.0
-1752725,2021-09-25,Nicholas,Kentucky,21181.0,966,14.0
-1754764,2021-09-25,Nicholas,West Virginia,54067.0,3001,32.0
-1755973,2021-09-26,Nicholas,Kentucky,21181.0,966,14.0
-1758012,2021-09-26,Nicholas,West Virginia,54067.0,3020,32.0
-1759221,2021-09-27,Nicholas,Kentucky,21181.0,989,14.0
-1761260,2021-09-27,Nicholas,West Virginia,54067.0,3045,32.0
-1762469,2021-09-28,Nicholas,Kentucky,21181.0,999,14.0
-1764509,2021-09-28,Nicholas,West Virginia,54067.0,3069,32.0
-1765718,2021-09-29,Nicholas,Kentucky,21181.0,1015,14.0
-1767758,2021-09-29,Nicholas,West Virginia,54067.0,3097,33.0
-1768967,2021-09-30,Nicholas,Kentucky,21181.0,1024,14.0
-1771007,2021-09-30,Nicholas,West Virginia,54067.0,3128,34.0
-1772216,2021-10-01,Nicholas,Kentucky,21181.0,1037,14.0
-1774257,2021-10-01,Nicholas,West Virginia,54067.0,3150,34.0
-1775466,2021-10-02,Nicholas,Kentucky,21181.0,1037,14.0
-1777507,2021-10-02,Nicholas,West Virginia,54067.0,3176,34.0
-1778716,2021-10-03,Nicholas,Kentucky,21181.0,1037,14.0
-1780757,2021-10-03,Nicholas,West Virginia,54067.0,3186,34.0
-1781966,2021-10-04,Nicholas,Kentucky,21181.0,1051,15.0
-1784006,2021-10-04,Nicholas,West Virginia,54067.0,3203,35.0
-1785215,2021-10-05,Nicholas,Kentucky,21181.0,1063,15.0
-1787255,2021-10-05,Nicholas,West Virginia,54067.0,3209,35.0
-1788464,2021-10-06,Nicholas,Kentucky,21181.0,1075,15.0
-1790503,2021-10-06,Nicholas,West Virginia,54067.0,3222,36.0
-1791713,2021-10-07,Nicholas,Kentucky,21181.0,1088,15.0
-1793752,2021-10-07,Nicholas,West Virginia,54067.0,3247,38.0
-1794961,2021-10-08,Nicholas,Kentucky,21181.0,1092,15.0
-1797001,2021-10-08,Nicholas,West Virginia,54067.0,3274,38.0
-1798210,2021-10-09,Nicholas,Kentucky,21181.0,1092,15.0
-1800250,2021-10-09,Nicholas,West Virginia,54067.0,3300,38.0
-1801459,2021-10-10,Nicholas,Kentucky,21181.0,1092,15.0
-1803499,2021-10-10,Nicholas,West Virginia,54067.0,3323,38.0
-1804708,2021-10-11,Nicholas,Kentucky,21181.0,1101,15.0
-1806750,2021-10-11,Nicholas,West Virginia,54067.0,3338,38.0
-1807959,2021-10-12,Nicholas,Kentucky,21181.0,1115,15.0
-1809999,2021-10-12,Nicholas,West Virginia,54067.0,3350,38.0
-1811208,2021-10-13,Nicholas,Kentucky,21181.0,1127,15.0
-1813248,2021-10-13,Nicholas,West Virginia,54067.0,3374,38.0
-1814457,2021-10-14,Nicholas,Kentucky,21181.0,1131,15.0
-1816496,2021-10-14,Nicholas,West Virginia,54067.0,3406,38.0
-1817705,2021-10-15,Nicholas,Kentucky,21181.0,1132,17.0
-1819745,2021-10-15,Nicholas,West Virginia,54067.0,3433,39.0
-1820954,2021-10-16,Nicholas,Kentucky,21181.0,1132,17.0
-1822994,2021-10-16,Nicholas,West Virginia,54067.0,3468,39.0
-1824203,2021-10-17,Nicholas,Kentucky,21181.0,1132,17.0
-1826243,2021-10-17,Nicholas,West Virginia,54067.0,3485,39.0
-1827452,2021-10-18,Nicholas,Kentucky,21181.0,1140,17.0
-1829492,2021-10-18,Nicholas,West Virginia,54067.0,3511,40.0
-1830701,2021-10-19,Nicholas,Kentucky,21181.0,1149,17.0
-1832741,2021-10-19,Nicholas,West Virginia,54067.0,3525,40.0
-1833950,2021-10-20,Nicholas,Kentucky,21181.0,1167,17.0
-1835990,2021-10-20,Nicholas,West Virginia,54067.0,3540,42.0
-1837199,2021-10-21,Nicholas,Kentucky,21181.0,1172,17.0
-1839239,2021-10-21,Nicholas,West Virginia,54067.0,3564,43.0
-1840448,2021-10-22,Nicholas,Kentucky,21181.0,1183,17.0
-1842488,2021-10-22,Nicholas,West Virginia,54067.0,3580,44.0
-1843698,2021-10-23,Nicholas,Kentucky,21181.0,1183,17.0
-1845738,2021-10-23,Nicholas,West Virginia,54067.0,3599,44.0
-1846948,2021-10-24,Nicholas,Kentucky,21181.0,1183,17.0
-1848988,2021-10-24,Nicholas,West Virginia,54067.0,3616,44.0
-1850198,2021-10-25,Nicholas,Kentucky,21181.0,1184,17.0
-1852238,2021-10-25,Nicholas,West Virginia,54067.0,3632,46.0
-1853447,2021-10-26,Nicholas,Kentucky,21181.0,1184,17.0
-1855487,2021-10-26,Nicholas,West Virginia,54067.0,3648,47.0
-1856696,2021-10-27,Nicholas,Kentucky,21181.0,1185,17.0
-1858736,2021-10-27,Nicholas,West Virginia,54067.0,3656,47.0
-1859945,2021-10-28,Nicholas,Kentucky,21181.0,1189,17.0
-1861985,2021-10-28,Nicholas,West Virginia,54067.0,3673,48.0
-1863194,2021-10-29,Nicholas,Kentucky,21181.0,1192,17.0
-1865234,2021-10-29,Nicholas,West Virginia,54067.0,3703,48.0
-1866443,2021-10-30,Nicholas,Kentucky,21181.0,1192,17.0
-1868483,2021-10-30,Nicholas,West Virginia,54067.0,3724,48.0
-1869692,2021-10-31,Nicholas,Kentucky,21181.0,1192,17.0
-1871732,2021-10-31,Nicholas,West Virginia,54067.0,3735,48.0
-1872941,2021-11-01,Nicholas,Kentucky,21181.0,1194,18.0
-1874981,2021-11-01,Nicholas,West Virginia,54067.0,3752,49.0
-1876190,2021-11-02,Nicholas,Kentucky,21181.0,1195,18.0
-1878230,2021-11-02,Nicholas,West Virginia,54067.0,3774,49.0
-1879439,2021-11-03,Nicholas,Kentucky,21181.0,1196,18.0
-1881479,2021-11-03,Nicholas,West Virginia,54067.0,3795,49.0
-1882688,2021-11-04,Nicholas,Kentucky,21181.0,1202,18.0
-1884728,2021-11-04,Nicholas,West Virginia,54067.0,3812,50.0
-1885937,2021-11-05,Nicholas,Kentucky,21181.0,1205,19.0
-1887978,2021-11-05,Nicholas,West Virginia,54067.0,3832,50.0
-1889187,2021-11-06,Nicholas,Kentucky,21181.0,1205,19.0
-1891228,2021-11-06,Nicholas,West Virginia,54067.0,3872,50.0
-1892437,2021-11-07,Nicholas,Kentucky,21181.0,1205,19.0
-1894478,2021-11-07,Nicholas,West Virginia,54067.0,3896,50.0
-1895687,2021-11-08,Nicholas,Kentucky,21181.0,1209,19.0
-1897728,2021-11-08,Nicholas,West Virginia,54067.0,3902,51.0
-1898937,2021-11-09,Nicholas,Kentucky,21181.0,1214,19.0
-1900978,2021-11-09,Nicholas,West Virginia,54067.0,3914,51.0
-1902187,2021-11-10,Nicholas,Kentucky,21181.0,1216,19.0
-1904228,2021-11-10,Nicholas,West Virginia,54067.0,3929,53.0
-1905437,2021-11-11,Nicholas,Kentucky,21181.0,1216,19.0
-1907477,2021-11-11,Nicholas,West Virginia,54067.0,3950,54.0
-1908686,2021-11-12,Nicholas,Kentucky,21181.0,1219,19.0
-1910726,2021-11-12,Nicholas,West Virginia,54067.0,3961,54.0
-1911935,2021-11-13,Nicholas,Kentucky,21181.0,1219,19.0
-1913976,2021-11-13,Nicholas,West Virginia,54067.0,3975,54.0
-1915185,2021-11-14,Nicholas,Kentucky,21181.0,1219,19.0
-1917226,2021-11-14,Nicholas,West Virginia,54067.0,3998,54.0
-1918435,2021-11-15,Nicholas,Kentucky,21181.0,1219,19.0
-1920476,2021-11-15,Nicholas,West Virginia,54067.0,4019,54.0
-1921685,2021-11-16,Nicholas,Kentucky,21181.0,1223,19.0
-1923725,2021-11-16,Nicholas,West Virginia,54067.0,4030,56.0
-1924934,2021-11-17,Nicholas,Kentucky,21181.0,1227,20.0
-1926975,2021-11-17,Nicholas,West Virginia,54067.0,4044,56.0
-1928184,2021-11-18,Nicholas,Kentucky,21181.0,1233,21.0
-1930225,2021-11-18,Nicholas,West Virginia,54067.0,4071,57.0
-1931435,2021-11-19,Nicholas,Kentucky,21181.0,1239,22.0
-1933477,2021-11-19,Nicholas,West Virginia,54067.0,4095,57.0
-1934686,2021-11-20,Nicholas,Kentucky,21181.0,1239,22.0
-1936727,2021-11-20,Nicholas,West Virginia,54067.0,4115,57.0
-1937936,2021-11-21,Nicholas,Kentucky,21181.0,1239,22.0
-1939977,2021-11-21,Nicholas,West Virginia,54067.0,4126,57.0
-1941186,2021-11-22,Nicholas,Kentucky,21181.0,1242,22.0
-1943227,2021-11-22,Nicholas,West Virginia,54067.0,4138,58.0
-1944436,2021-11-23,Nicholas,Kentucky,21181.0,1246,22.0
-1946478,2021-11-23,Nicholas,West Virginia,54067.0,4146,59.0
-1947687,2021-11-24,Nicholas,Kentucky,21181.0,1253,23.0
-1949729,2021-11-24,Nicholas,West Virginia,54067.0,4170,61.0
-1950938,2021-11-25,Nicholas,Kentucky,21181.0,1253,23.0
-1952980,2021-11-25,Nicholas,West Virginia,54067.0,4170,61.0
-1954189,2021-11-26,Nicholas,Kentucky,21181.0,1253,23.0
-1956231,2021-11-26,Nicholas,West Virginia,54067.0,4170,61.0
-1957440,2021-11-27,Nicholas,Kentucky,21181.0,1253,23.0
-1959482,2021-11-27,Nicholas,West Virginia,54067.0,4170,61.0
-1960691,2021-11-28,Nicholas,Kentucky,21181.0,1253,23.0
-1962733,2021-11-28,Nicholas,West Virginia,54067.0,4170,61.0
-1963942,2021-11-29,Nicholas,Kentucky,21181.0,1265,24.0
-1965985,2021-11-29,Nicholas,West Virginia,54067.0,4261,65.0
-1967194,2021-11-30,Nicholas,Kentucky,21181.0,1266,24.0
-1969235,2021-11-30,Nicholas,West Virginia,54067.0,4276,64.0
-1970444,2021-12-01,Nicholas,Kentucky,21181.0,1268,24.0
-1972485,2021-12-01,Nicholas,West Virginia,54067.0,4300,66.0
-1973694,2021-12-02,Nicholas,Kentucky,21181.0,1272,24.0
-1975734,2021-12-02,Nicholas,West Virginia,54067.0,4329,67.0
-1976943,2021-12-03,Nicholas,Kentucky,21181.0,1275,24.0
-1978984,2021-12-03,Nicholas,West Virginia,54067.0,4355,67.0
-1980193,2021-12-04,Nicholas,Kentucky,21181.0,1275,24.0
-1982234,2021-12-04,Nicholas,West Virginia,54067.0,4371,67.0
-1983443,2021-12-05,Nicholas,Kentucky,21181.0,1275,24.0
-1985484,2021-12-05,Nicholas,West Virginia,54067.0,4401,67.0
-1986693,2021-12-06,Nicholas,Kentucky,21181.0,1282,26.0
-1988734,2021-12-06,Nicholas,West Virginia,54067.0,4423,68.0
-1989943,2021-12-07,Nicholas,Kentucky,21181.0,1284,26.0
-1991985,2021-12-07,Nicholas,West Virginia,54067.0,4443,68.0
-1993194,2021-12-08,Nicholas,Kentucky,21181.0,1285,26.0
-1995236,2021-12-08,Nicholas,West Virginia,54067.0,4458,69.0
-1996445,2021-12-09,Nicholas,Kentucky,21181.0,1290,26.0
-1998487,2021-12-09,Nicholas,West Virginia,54067.0,4480,69.0
-1999696,2021-12-10,Nicholas,Kentucky,21181.0,1294,27.0
-2001737,2021-12-10,Nicholas,West Virginia,54067.0,4496,70.0
-2002946,2021-12-11,Nicholas,Kentucky,21181.0,1294,27.0
-2004988,2021-12-11,Nicholas,West Virginia,54067.0,4531,70.0
-2006197,2021-12-12,Nicholas,Kentucky,21181.0,1294,27.0
-2008239,2021-12-12,Nicholas,West Virginia,54067.0,4553,70.0
-2009448,2021-12-13,Nicholas,Kentucky,21181.0,1298,27.0
-2011490,2021-12-13,Nicholas,West Virginia,54067.0,4563,70.0
-2012699,2021-12-14,Nicholas,Kentucky,21181.0,1304,27.0
-2014741,2021-12-14,Nicholas,West Virginia,54067.0,4580,70.0
-2015950,2021-12-15,Nicholas,Kentucky,21181.0,1307,27.0
-2017991,2021-12-15,Nicholas,West Virginia,54067.0,4596,71.0
-2019200,2021-12-16,Nicholas,Kentucky,21181.0,1312,27.0
-2021242,2021-12-16,Nicholas,West Virginia,54067.0,4639,71.0
-2022451,2021-12-17,Nicholas,Kentucky,21181.0,1315,27.0
-2024493,2021-12-17,Nicholas,West Virginia,54067.0,4675,71.0
-2025702,2021-12-18,Nicholas,Kentucky,21181.0,1315,27.0
-2027744,2021-12-18,Nicholas,West Virginia,54067.0,4696,71.0
-2028953,2021-12-19,Nicholas,Kentucky,21181.0,1315,27.0
-2030995,2021-12-19,Nicholas,West Virginia,54067.0,4711,71.0
-2032204,2021-12-20,Nicholas,Kentucky,21181.0,1318,27.0
-2034245,2021-12-20,Nicholas,West Virginia,54067.0,4729,73.0
-2035454,2021-12-21,Nicholas,Kentucky,21181.0,1323,27.0
-2037495,2021-12-21,Nicholas,West Virginia,54067.0,4742,73.0
-2038704,2021-12-22,Nicholas,Kentucky,21181.0,1326,27.0
-2040745,2021-12-22,Nicholas,West Virginia,54067.0,4758,74.0
-2041954,2021-12-23,Nicholas,Kentucky,21181.0,1326,27.0
-2043994,2021-12-23,Nicholas,West Virginia,54067.0,4772,74.0
-2045203,2021-12-24,Nicholas,Kentucky,21181.0,1326,27.0
-2047244,2021-12-24,Nicholas,West Virginia,54067.0,4772,74.0
-2048453,2021-12-25,Nicholas,Kentucky,21181.0,1326,27.0
-2050494,2021-12-25,Nicholas,West Virginia,54067.0,4772,74.0
-2051703,2021-12-26,Nicholas,Kentucky,21181.0,1326,27.0
-2053744,2021-12-26,Nicholas,West Virginia,54067.0,4772,74.0
-2054953,2021-12-27,Nicholas,Kentucky,21181.0,1336,28.0
-2056993,2021-12-27,Nicholas,West Virginia,54067.0,4823,74.0
-2058202,2021-12-28,Nicholas,Kentucky,21181.0,1340,29.0
-2060242,2021-12-28,Nicholas,West Virginia,54067.0,4843,74.0
-2061451,2021-12-29,Nicholas,Kentucky,21181.0,1342,29.0
-2063492,2021-12-29,Nicholas,West Virginia,54067.0,4868,74.0
-2064701,2021-12-30,Nicholas,Kentucky,21181.0,1342,29.0
-2066742,2021-12-30,Nicholas,West Virginia,54067.0,4910,74.0
-2067952,2021-12-31,Nicholas,Kentucky,21181.0,1342,29.0
-2069993,2021-12-31,Nicholas,West Virginia,54067.0,4910,74.0
-2071203,2022-01-01,Nicholas,Kentucky,21181.0,1342,29.0
-2073244,2022-01-01,Nicholas,West Virginia,54067.0,4910,74.0
-2074454,2022-01-02,Nicholas,Kentucky,21181.0,1342,29.0
-2076495,2022-01-02,Nicholas,West Virginia,54067.0,4910,74.0
-2077705,2022-01-03,Nicholas,Kentucky,21181.0,1370,29.0
-2079747,2022-01-03,Nicholas,West Virginia,54067.0,4990,74.0
-2080957,2022-01-04,Nicholas,Kentucky,21181.0,1375,29.0
-2082999,2022-01-04,Nicholas,West Virginia,54067.0,5013,74.0
-2084209,2022-01-05,Nicholas,Kentucky,21181.0,1386,29.0
-2086251,2022-01-05,Nicholas,West Virginia,54067.0,5034,75.0
-2087461,2022-01-06,Nicholas,Kentucky,21181.0,1393,29.0
-2089502,2022-01-06,Nicholas,West Virginia,54067.0,5070,75.0
-2090712,2022-01-07,Nicholas,Kentucky,21181.0,1403,29.0
-2092754,2022-01-07,Nicholas,West Virginia,54067.0,5099,75.0
-2093964,2022-01-08,Nicholas,Kentucky,21181.0,1403,29.0
-2096006,2022-01-08,Nicholas,West Virginia,54067.0,5132,75.0
-2097216,2022-01-09,Nicholas,Kentucky,21181.0,1403,29.0
-2099257,2022-01-09,Nicholas,West Virginia,54067.0,5140,75.0
-2100467,2022-01-10,Nicholas,Kentucky,21181.0,1424,29.0
-2102508,2022-01-10,Nicholas,West Virginia,54067.0,5163,75.0
-2103718,2022-01-11,Nicholas,Kentucky,21181.0,1434,29.0
-2105759,2022-01-11,Nicholas,West Virginia,54067.0,5179,75.0
-2106969,2022-01-12,Nicholas,Kentucky,21181.0,1447,29.0
-2109010,2022-01-12,Nicholas,West Virginia,54067.0,5203,78.0
-2110220,2022-01-13,Nicholas,Kentucky,21181.0,1453,29.0
-2112262,2022-01-13,Nicholas,West Virginia,54067.0,5241,78.0
-2113472,2022-01-14,Nicholas,Kentucky,21181.0,1463,29.0
-2115514,2022-01-14,Nicholas,West Virginia,54067.0,5271,78.0
-2116723,2022-01-15,Nicholas,Kentucky,21181.0,1463,29.0
-2118766,2022-01-15,Nicholas,West Virginia,54067.0,5322,78.0
-2119975,2022-01-16,Nicholas,Kentucky,21181.0,1463,29.0
-2122018,2022-01-16,Nicholas,West Virginia,54067.0,5358,78.0
-2123227,2022-01-17,Nicholas,Kentucky,21181.0,1463,29.0
-2125270,2022-01-17,Nicholas,West Virginia,54067.0,5402,78.0
-2126479,2022-01-18,Nicholas,Kentucky,21181.0,1514,29.0
-2128523,2022-01-18,Nicholas,West Virginia,54067.0,5448,78.0
-2129733,2022-01-19,Nicholas,Kentucky,21181.0,1520,29.0
-2131777,2022-01-19,Nicholas,West Virginia,54067.0,5507,78.0
-2132986,2022-01-20,Nicholas,Kentucky,21181.0,1533,29.0
-2135029,2022-01-20,Nicholas,West Virginia,54067.0,5584,78.0
-2136238,2022-01-21,Nicholas,Kentucky,21181.0,1561,29.0
-2138284,2022-01-21,Nicholas,West Virginia,54067.0,5686,78.0
-2139494,2022-01-22,Nicholas,Kentucky,21181.0,1561,29.0
-2141540,2022-01-22,Nicholas,West Virginia,54067.0,5805,78.0
-2142749,2022-01-23,Nicholas,Kentucky,21181.0,1561,29.0
-2144795,2022-01-23,Nicholas,West Virginia,54067.0,5895,78.0
-2146004,2022-01-24,Nicholas,Kentucky,21181.0,1610,29.0
-2148047,2022-01-24,Nicholas,West Virginia,54067.0,5966,78.0
-2149256,2022-01-25,Nicholas,Kentucky,21181.0,1620,29.0
-2151299,2022-01-25,Nicholas,West Virginia,54067.0,6015,79.0
-2152508,2022-01-26,Nicholas,Kentucky,21181.0,1635,29.0
-2154552,2022-01-26,Nicholas,West Virginia,54067.0,6055,79.0
-2155761,2022-01-27,Nicholas,Kentucky,21181.0,1647,29.0
-2157805,2022-01-27,Nicholas,West Virginia,54067.0,6118,80.0
-2159015,2022-01-28,Nicholas,Kentucky,21181.0,1678,29.0
-2161061,2022-01-28,Nicholas,West Virginia,54067.0,6203,80.0
-2162270,2022-01-29,Nicholas,Kentucky,21181.0,1678,29.0
-2164316,2022-01-29,Nicholas,West Virginia,54067.0,6284,80.0
-2165525,2022-01-30,Nicholas,Kentucky,21181.0,1678,29.0
-2167571,2022-01-30,Nicholas,West Virginia,54067.0,6331,80.0
-2168780,2022-01-31,Nicholas,Kentucky,21181.0,1703,29.0
-2170824,2022-01-31,Nicholas,West Virginia,54067.0,6371,80.0
-2172033,2022-02-01,Nicholas,Kentucky,21181.0,1719,29.0
-2174076,2022-02-01,Nicholas,West Virginia,54067.0,6414,80.0
-2175286,2022-02-02,Nicholas,Kentucky,21181.0,1728,29.0
-2177329,2022-02-02,Nicholas,West Virginia,54067.0,6451,80.0
-2178539,2022-02-03,Nicholas,Kentucky,21181.0,1740,29.0
-2180580,2022-02-03,Nicholas,West Virginia,54067.0,6501,80.0
-2181790,2022-02-04,Nicholas,Kentucky,21181.0,1744,29.0
-2183832,2022-02-04,Nicholas,West Virginia,54067.0,6540,81.0
-2185042,2022-02-05,Nicholas,Kentucky,21181.0,1744,29.0
-2187085,2022-02-05,Nicholas,West Virginia,54067.0,6600,81.0
-2188295,2022-02-06,Nicholas,Kentucky,21181.0,1744,29.0
-2190338,2022-02-06,Nicholas,West Virginia,54067.0,6623,81.0
-2191548,2022-02-07,Nicholas,Kentucky,21181.0,1761,29.0
-2193591,2022-02-07,Nicholas,West Virginia,54067.0,6650,82.0
-2194802,2022-02-08,Nicholas,Kentucky,21181.0,1774,29.0
-2196846,2022-02-08,Nicholas,West Virginia,54067.0,6678,83.0
-2198056,2022-02-09,Nicholas,Kentucky,21181.0,1776,29.0
-2200100,2022-02-09,Nicholas,West Virginia,54067.0,6705,85.0
-2201310,2022-02-10,Nicholas,Kentucky,21181.0,1780,29.0
-2203354,2022-02-10,Nicholas,West Virginia,54067.0,6752,85.0
-2204563,2022-02-11,Nicholas,Kentucky,21181.0,1788,29.0
-2206607,2022-02-11,Nicholas,West Virginia,54067.0,6789,86.0
-2207816,2022-02-12,Nicholas,Kentucky,21181.0,1788,29.0
-2209860,2022-02-12,Nicholas,West Virginia,54067.0,6821,86.0
-2211069,2022-02-13,Nicholas,Kentucky,21181.0,1788,29.0
-2213113,2022-02-13,Nicholas,West Virginia,54067.0,6844,86.0
-2214321,2022-02-14,Nicholas,Kentucky,21181.0,1805,29.0
-2216364,2022-02-14,Nicholas,West Virginia,54067.0,6862,86.0
-2217572,2022-02-15,Nicholas,Kentucky,21181.0,1812,29.0
-2219614,2022-02-15,Nicholas,West Virginia,54067.0,6886,86.0
-2220823,2022-02-16,Nicholas,Kentucky,21181.0,1816,29.0
-2222865,2022-02-16,Nicholas,West Virginia,54067.0,6906,86.0
-2224074,2022-02-17,Nicholas,Kentucky,21181.0,1824,29.0
-2226116,2022-02-17,Nicholas,West Virginia,54067.0,6940,87.0
-2227325,2022-02-18,Nicholas,Kentucky,21181.0,1829,30.0
-2229367,2022-02-18,Nicholas,West Virginia,54067.0,6958,87.0
-2230576,2022-02-19,Nicholas,Kentucky,21181.0,1829,30.0
-2232618,2022-02-19,Nicholas,West Virginia,54067.0,6958,87.0
-2233827,2022-02-20,Nicholas,Kentucky,21181.0,1829,30.0
-2235869,2022-02-20,Nicholas,West Virginia,54067.0,6958,87.0
-2237078,2022-02-21,Nicholas,Kentucky,21181.0,1835,30.0
-2239120,2022-02-21,Nicholas,West Virginia,54067.0,7008,87.0
-2240329,2022-02-22,Nicholas,Kentucky,21181.0,1838,30.0
-2242371,2022-02-22,Nicholas,West Virginia,54067.0,7028,88.0
-2243580,2022-02-23,Nicholas,Kentucky,21181.0,1847,30.0
-2245622,2022-02-23,Nicholas,West Virginia,54067.0,7039,88.0
-2246831,2022-02-24,Nicholas,Kentucky,21181.0,1847,30.0
-2248873,2022-02-24,Nicholas,West Virginia,54067.0,7053,89.0
-2250082,2022-02-25,Nicholas,Kentucky,21181.0,1862,30.0
-2252124,2022-02-25,Nicholas,West Virginia,54067.0,7065,89.0
-2253333,2022-02-26,Nicholas,Kentucky,21181.0,1862,30.0
-2255375,2022-02-26,Nicholas,West Virginia,54067.0,7065,89.0
-2256584,2022-02-27,Nicholas,Kentucky,21181.0,1862,30.0
-2258626,2022-02-27,Nicholas,West Virginia,54067.0,7065,89.0
-2259835,2022-02-28,Nicholas,Kentucky,21181.0,1865,30.0
-2261877,2022-02-28,Nicholas,West Virginia,54067.0,7118,90.0
-2263086,2022-03-01,Nicholas,Kentucky,21181.0,1870,30.0
-2265127,2022-03-01,Nicholas,West Virginia,54067.0,7124,90.0
-2266337,2022-03-02,Nicholas,Kentucky,21181.0,1872,30.0
-2268380,2022-03-02,Nicholas,West Virginia,54067.0,7133,90.0
-2269590,2022-03-03,Nicholas,Kentucky,21181.0,1874,30.0
-2271632,2022-03-03,Nicholas,West Virginia,54067.0,7177,90.0
-2272842,2022-03-04,Nicholas,Kentucky,21181.0,1878,30.0
-2274885,2022-03-04,Nicholas,West Virginia,54067.0,7190,90.0
-2276095,2022-03-05,Nicholas,Kentucky,21181.0,1878,30.0
-2278138,2022-03-05,Nicholas,West Virginia,54067.0,7190,90.0
-2279348,2022-03-06,Nicholas,Kentucky,21181.0,1878,30.0
-2281391,2022-03-06,Nicholas,West Virginia,54067.0,7190,90.0
-2282601,2022-03-07,Nicholas,Kentucky,21181.0,1880,30.0
-2284643,2022-03-07,Nicholas,West Virginia,54067.0,7217,91.0
-2285853,2022-03-08,Nicholas,Kentucky,21181.0,1880,30.0
-2287895,2022-03-08,Nicholas,West Virginia,54067.0,7226,91.0
-2289104,2022-03-09,Nicholas,Kentucky,21181.0,1880,30.0
-2291147,2022-03-09,Nicholas,West Virginia,54067.0,7234,91.0
-2292356,2022-03-10,Nicholas,Kentucky,21181.0,1880,30.0
-2294399,2022-03-10,Nicholas,West Virginia,54067.0,7239,92.0
-2295608,2022-03-11,Nicholas,Kentucky,21181.0,1880,30.0
-2297651,2022-03-11,Nicholas,West Virginia,54067.0,7248,92.0
-2298860,2022-03-12,Nicholas,Kentucky,21181.0,1880,30.0
-2300903,2022-03-12,Nicholas,West Virginia,54067.0,7248,92.0
-2302112,2022-03-13,Nicholas,Kentucky,21181.0,1880,30.0
-2304155,2022-03-13,Nicholas,West Virginia,54067.0,7248,92.0
-2305364,2022-03-14,Nicholas,Kentucky,21181.0,1909,31.0
-2307406,2022-03-14,Nicholas,West Virginia,54067.0,7260,92.0
-2308615,2022-03-15,Nicholas,Kentucky,21181.0,1909,31.0
-2310659,2022-03-15,Nicholas,West Virginia,54067.0,7263,92.0
-2311868,2022-03-16,Nicholas,Kentucky,21181.0,1909,31.0
-2313912,2022-03-16,Nicholas,West Virginia,54067.0,7268,92.0
-2315121,2022-03-17,Nicholas,Kentucky,21181.0,1909,31.0
-2317165,2022-03-17,Nicholas,West Virginia,54067.0,7272,92.0
-2318374,2022-03-18,Nicholas,Kentucky,21181.0,1909,31.0
-2320419,2022-03-18,Nicholas,West Virginia,54067.0,7273,92.0
-2321628,2022-03-19,Nicholas,Kentucky,21181.0,1909,31.0
-2323673,2022-03-19,Nicholas,West Virginia,54067.0,7273,92.0
-2324882,2022-03-20,Nicholas,Kentucky,21181.0,1909,31.0
-2326926,2022-03-20,Nicholas,West Virginia,54067.0,7273,92.0
-2328135,2022-03-21,Nicholas,Kentucky,21181.0,1940,31.0
-2330178,2022-03-21,Nicholas,West Virginia,54067.0,7281,92.0
-2331387,2022-03-22,Nicholas,Kentucky,21181.0,1940,31.0
-2333432,2022-03-22,Nicholas,West Virginia,54067.0,7281,92.0
-2334641,2022-03-23,Nicholas,Kentucky,21181.0,1940,31.0
-2336686,2022-03-23,Nicholas,West Virginia,54067.0,7284,92.0
-2337895,2022-03-24,Nicholas,Kentucky,21181.0,1940,31.0
-2339939,2022-03-24,Nicholas,West Virginia,54067.0,7287,92.0
-2341148,2022-03-25,Nicholas,Kentucky,21181.0,1940,31.0
-2343192,2022-03-25,Nicholas,West Virginia,54067.0,7287,92.0
-2344401,2022-03-26,Nicholas,Kentucky,21181.0,1940,31.0
-2346445,2022-03-26,Nicholas,West Virginia,54067.0,7287,92.0
-2347654,2022-03-27,Nicholas,Kentucky,21181.0,1940,31.0
-2349698,2022-03-27,Nicholas,West Virginia,54067.0,7287,92.0
-2350907,2022-03-28,Nicholas,Kentucky,21181.0,1970,31.0
-2352950,2022-03-28,Nicholas,West Virginia,54067.0,7290,92.0
-2354159,2022-03-29,Nicholas,Kentucky,21181.0,1970,31.0
-2356203,2022-03-29,Nicholas,West Virginia,54067.0,7294,92.0
-2357412,2022-03-30,Nicholas,Kentucky,21181.0,1970,31.0
-2359457,2022-03-30,Nicholas,West Virginia,54067.0,7295,92.0
-2360666,2022-03-31,Nicholas,Kentucky,21181.0,1970,31.0
-2362711,2022-03-31,Nicholas,West Virginia,54067.0,7294,93.0
-2363920,2022-04-01,Nicholas,Kentucky,21181.0,1970,31.0
-2365964,2022-04-01,Nicholas,West Virginia,54067.0,7296,93.0
-2367173,2022-04-02,Nicholas,Kentucky,21181.0,1970,31.0
-2369217,2022-04-02,Nicholas,West Virginia,54067.0,7296,93.0
-2370426,2022-04-03,Nicholas,Kentucky,21181.0,1970,31.0
-2372470,2022-04-03,Nicholas,West Virginia,54067.0,7296,93.0
-2373679,2022-04-04,Nicholas,Kentucky,21181.0,2028,31.0
-2375722,2022-04-04,Nicholas,West Virginia,54067.0,7298,93.0
-2376931,2022-04-05,Nicholas,Kentucky,21181.0,2028,31.0
-2378976,2022-04-05,Nicholas,West Virginia,54067.0,7298,93.0
-2380186,2022-04-06,Nicholas,Kentucky,21181.0,2028,31.0
-2382231,2022-04-06,Nicholas,West Virginia,54067.0,7299,95.0
-2383441,2022-04-07,Nicholas,Kentucky,21181.0,2028,31.0
-2385486,2022-04-07,Nicholas,West Virginia,54067.0,7299,95.0
-2386695,2022-04-08,Nicholas,Kentucky,21181.0,2028,31.0
-2388741,2022-04-08,Nicholas,West Virginia,54067.0,7300,95.0
-2389951,2022-04-09,Nicholas,Kentucky,21181.0,2028,31.0
-2391997,2022-04-09,Nicholas,West Virginia,54067.0,7300,95.0
+date,county,state,fips,cases,deaths
+2020-03-28,Nicholas,Kentucky,21181.0,1,0.0
+2020-03-29,Nicholas,Kentucky,21181.0,1,0.0
+2020-03-30,Nicholas,Kentucky,21181.0,1,0.0
+2020-03-31,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-01,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-02,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-03,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-04,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-05,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-06,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-07,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-07,Nicholas,West Virginia,54067.0,2,0.0
+2020-04-08,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-08,Nicholas,West Virginia,54067.0,2,0.0
+2020-04-09,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-09,Nicholas,West Virginia,54067.0,2,0.0
+2020-04-10,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-10,Nicholas,West Virginia,54067.0,2,0.0
+2020-04-11,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-11,Nicholas,West Virginia,54067.0,2,0.0
+2020-04-12,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-12,Nicholas,West Virginia,54067.0,2,0.0
+2020-04-13,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-13,Nicholas,West Virginia,54067.0,2,0.0
+2020-04-14,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-14,Nicholas,West Virginia,54067.0,3,0.0
+2020-04-15,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-15,Nicholas,West Virginia,54067.0,3,0.0
+2020-04-16,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-16,Nicholas,West Virginia,54067.0,3,0.0
+2020-04-17,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-17,Nicholas,West Virginia,54067.0,3,0.0
+2020-04-18,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-18,Nicholas,West Virginia,54067.0,3,0.0
+2020-04-19,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-19,Nicholas,West Virginia,54067.0,4,0.0
+2020-04-20,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-20,Nicholas,West Virginia,54067.0,4,0.0
+2020-04-21,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-21,Nicholas,West Virginia,54067.0,4,0.0
+2020-04-22,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-22,Nicholas,West Virginia,54067.0,4,0.0
+2020-04-23,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-23,Nicholas,West Virginia,54067.0,5,0.0
+2020-04-24,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-24,Nicholas,West Virginia,54067.0,6,0.0
+2020-04-25,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-25,Nicholas,West Virginia,54067.0,6,0.0
+2020-04-26,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-26,Nicholas,West Virginia,54067.0,6,0.0
+2020-04-27,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-27,Nicholas,West Virginia,54067.0,6,0.0
+2020-04-28,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-28,Nicholas,West Virginia,54067.0,6,0.0
+2020-04-29,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-29,Nicholas,West Virginia,54067.0,6,0.0
+2020-04-30,Nicholas,Kentucky,21181.0,1,0.0
+2020-04-30,Nicholas,West Virginia,54067.0,6,0.0
+2020-05-01,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-01,Nicholas,West Virginia,54067.0,6,0.0
+2020-05-02,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-02,Nicholas,West Virginia,54067.0,6,0.0
+2020-05-03,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-03,Nicholas,West Virginia,54067.0,6,0.0
+2020-05-04,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-04,Nicholas,West Virginia,54067.0,6,0.0
+2020-05-05,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-05,Nicholas,West Virginia,54067.0,8,0.0
+2020-05-06,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-06,Nicholas,West Virginia,54067.0,8,0.0
+2020-05-07,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-07,Nicholas,West Virginia,54067.0,8,0.0
+2020-05-08,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-08,Nicholas,West Virginia,54067.0,8,0.0
+2020-05-09,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-09,Nicholas,West Virginia,54067.0,8,0.0
+2020-05-10,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-10,Nicholas,West Virginia,54067.0,8,0.0
+2020-05-11,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-11,Nicholas,West Virginia,54067.0,8,1.0
+2020-05-12,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-12,Nicholas,West Virginia,54067.0,8,1.0
+2020-05-13,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-13,Nicholas,West Virginia,54067.0,8,1.0
+2020-05-14,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-14,Nicholas,West Virginia,54067.0,9,1.0
+2020-05-15,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-15,Nicholas,West Virginia,54067.0,9,1.0
+2020-05-16,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-16,Nicholas,West Virginia,54067.0,9,1.0
+2020-05-17,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-17,Nicholas,West Virginia,54067.0,9,1.0
+2020-05-18,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-18,Nicholas,West Virginia,54067.0,9,1.0
+2020-05-19,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-19,Nicholas,West Virginia,54067.0,9,1.0
+2020-05-20,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-20,Nicholas,West Virginia,54067.0,9,1.0
+2020-05-21,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-21,Nicholas,West Virginia,54067.0,9,1.0
+2020-05-22,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-22,Nicholas,West Virginia,54067.0,10,1.0
+2020-05-23,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-23,Nicholas,West Virginia,54067.0,10,1.0
+2020-05-24,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-24,Nicholas,West Virginia,54067.0,10,1.0
+2020-05-25,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-25,Nicholas,West Virginia,54067.0,10,1.0
+2020-05-26,Nicholas,Kentucky,21181.0,1,0.0
+2020-05-26,Nicholas,West Virginia,54067.0,10,1.0
+2020-05-27,Nicholas,Kentucky,21181.0,3,0.0
+2020-05-27,Nicholas,West Virginia,54067.0,10,1.0
+2020-05-28,Nicholas,Kentucky,21181.0,3,0.0
+2020-05-28,Nicholas,West Virginia,54067.0,8,1.0
+2020-05-29,Nicholas,Kentucky,21181.0,3,0.0
+2020-05-29,Nicholas,West Virginia,54067.0,8,1.0
+2020-05-30,Nicholas,Kentucky,21181.0,3,0.0
+2020-05-30,Nicholas,West Virginia,54067.0,8,1.0
+2020-05-31,Nicholas,Kentucky,21181.0,3,0.0
+2020-05-31,Nicholas,West Virginia,54067.0,8,1.0
+2020-06-01,Nicholas,Kentucky,21181.0,3,0.0
+2020-06-01,Nicholas,West Virginia,54067.0,8,1.0
+2020-06-02,Nicholas,Kentucky,21181.0,3,0.0
+2020-06-02,Nicholas,West Virginia,54067.0,8,1.0
+2020-06-03,Nicholas,Kentucky,21181.0,3,0.0
+2020-06-03,Nicholas,West Virginia,54067.0,9,1.0
+2020-06-04,Nicholas,Kentucky,21181.0,3,0.0
+2020-06-04,Nicholas,West Virginia,54067.0,9,1.0
+2020-06-05,Nicholas,Kentucky,21181.0,4,0.0
+2020-06-05,Nicholas,West Virginia,54067.0,8,1.0
+2020-06-06,Nicholas,Kentucky,21181.0,4,0.0
+2020-06-06,Nicholas,West Virginia,54067.0,8,1.0
+2020-06-07,Nicholas,Kentucky,21181.0,4,0.0
+2020-06-07,Nicholas,West Virginia,54067.0,8,1.0
+2020-06-08,Nicholas,Kentucky,21181.0,4,0.0
+2020-06-08,Nicholas,West Virginia,54067.0,7,1.0
+2020-06-09,Nicholas,Kentucky,21181.0,4,0.0
+2020-06-09,Nicholas,West Virginia,54067.0,7,1.0
+2020-06-10,Nicholas,Kentucky,21181.0,4,0.0
+2020-06-10,Nicholas,West Virginia,54067.0,7,1.0
+2020-06-11,Nicholas,Kentucky,21181.0,4,0.0
+2020-06-11,Nicholas,West Virginia,54067.0,7,1.0
+2020-06-12,Nicholas,Kentucky,21181.0,4,0.0
+2020-06-12,Nicholas,West Virginia,54067.0,7,1.0
+2020-06-13,Nicholas,Kentucky,21181.0,4,0.0
+2020-06-13,Nicholas,West Virginia,54067.0,7,1.0
+2020-06-14,Nicholas,Kentucky,21181.0,4,0.0
+2020-06-14,Nicholas,West Virginia,54067.0,7,1.0
+2020-06-15,Nicholas,Kentucky,21181.0,4,0.0
+2020-06-15,Nicholas,West Virginia,54067.0,7,1.0
+2020-06-16,Nicholas,Kentucky,21181.0,4,0.0
+2020-06-16,Nicholas,West Virginia,54067.0,7,1.0
+2020-06-17,Nicholas,Kentucky,21181.0,4,0.0
+2020-06-17,Nicholas,West Virginia,54067.0,7,1.0
+2020-06-18,Nicholas,Kentucky,21181.0,4,0.0
+2020-06-18,Nicholas,West Virginia,54067.0,7,1.0
+2020-06-19,Nicholas,Kentucky,21181.0,5,0.0
+2020-06-19,Nicholas,West Virginia,54067.0,7,1.0
+2020-06-20,Nicholas,Kentucky,21181.0,5,0.0
+2020-06-20,Nicholas,West Virginia,54067.0,7,1.0
+2020-06-21,Nicholas,Kentucky,21181.0,5,0.0
+2020-06-21,Nicholas,West Virginia,54067.0,7,1.0
+2020-06-22,Nicholas,Kentucky,21181.0,5,0.0
+2020-06-22,Nicholas,West Virginia,54067.0,7,1.0
+2020-06-23,Nicholas,Kentucky,21181.0,5,0.0
+2020-06-23,Nicholas,West Virginia,54067.0,7,1.0
+2020-06-24,Nicholas,Kentucky,21181.0,5,0.0
+2020-06-24,Nicholas,West Virginia,54067.0,8,1.0
+2020-06-25,Nicholas,Kentucky,21181.0,5,0.0
+2020-06-25,Nicholas,West Virginia,54067.0,8,1.0
+2020-06-26,Nicholas,Kentucky,21181.0,5,0.0
+2020-06-26,Nicholas,West Virginia,54067.0,8,1.0
+2020-06-27,Nicholas,Kentucky,21181.0,5,0.0
+2020-06-27,Nicholas,West Virginia,54067.0,8,1.0
+2020-06-28,Nicholas,Kentucky,21181.0,5,0.0
+2020-06-28,Nicholas,West Virginia,54067.0,8,1.0
+2020-06-29,Nicholas,Kentucky,21181.0,5,0.0
+2020-06-29,Nicholas,West Virginia,54067.0,10,1.0
+2020-06-30,Nicholas,Kentucky,21181.0,5,0.0
+2020-06-30,Nicholas,West Virginia,54067.0,10,1.0
+2020-07-01,Nicholas,Kentucky,21181.0,5,0.0
+2020-07-01,Nicholas,West Virginia,54067.0,11,1.0
+2020-07-02,Nicholas,Kentucky,21181.0,6,0.0
+2020-07-02,Nicholas,West Virginia,54067.0,12,1.0
+2020-07-03,Nicholas,Kentucky,21181.0,8,0.0
+2020-07-03,Nicholas,West Virginia,54067.0,13,1.0
+2020-07-04,Nicholas,Kentucky,21181.0,8,0.0
+2020-07-04,Nicholas,West Virginia,54067.0,14,1.0
+2020-07-05,Nicholas,Kentucky,21181.0,8,0.0
+2020-07-05,Nicholas,West Virginia,54067.0,15,1.0
+2020-07-06,Nicholas,Kentucky,21181.0,9,0.0
+2020-07-06,Nicholas,West Virginia,54067.0,15,1.0
+2020-07-07,Nicholas,Kentucky,21181.0,9,0.0
+2020-07-07,Nicholas,West Virginia,54067.0,15,1.0
+2020-07-08,Nicholas,Kentucky,21181.0,11,0.0
+2020-07-08,Nicholas,West Virginia,54067.0,15,1.0
+2020-07-09,Nicholas,Kentucky,21181.0,11,0.0
+2020-07-09,Nicholas,West Virginia,54067.0,16,1.0
+2020-07-10,Nicholas,Kentucky,21181.0,13,0.0
+2020-07-10,Nicholas,West Virginia,54067.0,16,1.0
+2020-07-11,Nicholas,Kentucky,21181.0,13,0.0
+2020-07-11,Nicholas,West Virginia,54067.0,21,1.0
+2020-07-12,Nicholas,Kentucky,21181.0,12,0.0
+2020-07-12,Nicholas,West Virginia,54067.0,21,1.0
+2020-07-13,Nicholas,Kentucky,21181.0,12,0.0
+2020-07-13,Nicholas,West Virginia,54067.0,20,1.0
+2020-07-14,Nicholas,Kentucky,21181.0,12,0.0
+2020-07-14,Nicholas,West Virginia,54067.0,20,1.0
+2020-07-15,Nicholas,Kentucky,21181.0,13,0.0
+2020-07-15,Nicholas,West Virginia,54067.0,20,1.0
+2020-07-16,Nicholas,Kentucky,21181.0,13,0.0
+2020-07-16,Nicholas,West Virginia,54067.0,20,1.0
+2020-07-17,Nicholas,Kentucky,21181.0,13,0.0
+2020-07-17,Nicholas,West Virginia,54067.0,20,1.0
+2020-07-18,Nicholas,Kentucky,21181.0,14,0.0
+2020-07-18,Nicholas,West Virginia,54067.0,21,1.0
+2020-07-19,Nicholas,Kentucky,21181.0,17,0.0
+2020-07-19,Nicholas,West Virginia,54067.0,21,1.0
+2020-07-20,Nicholas,Kentucky,21181.0,17,0.0
+2020-07-20,Nicholas,West Virginia,54067.0,22,1.0
+2020-07-21,Nicholas,Kentucky,21181.0,16,0.0
+2020-07-21,Nicholas,West Virginia,54067.0,23,1.0
+2020-07-22,Nicholas,Kentucky,21181.0,16,0.0
+2020-07-22,Nicholas,West Virginia,54067.0,23,1.0
+2020-07-23,Nicholas,Kentucky,21181.0,17,0.0
+2020-07-23,Nicholas,West Virginia,54067.0,23,1.0
+2020-07-24,Nicholas,Kentucky,21181.0,20,0.0
+2020-07-24,Nicholas,West Virginia,54067.0,23,1.0
+2020-07-25,Nicholas,Kentucky,21181.0,20,0.0
+2020-07-25,Nicholas,West Virginia,54067.0,23,1.0
+2020-07-26,Nicholas,Kentucky,21181.0,20,0.0
+2020-07-26,Nicholas,West Virginia,54067.0,24,1.0
+2020-07-27,Nicholas,Kentucky,21181.0,20,0.0
+2020-07-27,Nicholas,West Virginia,54067.0,27,1.0
+2020-07-28,Nicholas,Kentucky,21181.0,20,0.0
+2020-07-28,Nicholas,West Virginia,54067.0,27,1.0
+2020-07-29,Nicholas,Kentucky,21181.0,20,0.0
+2020-07-29,Nicholas,West Virginia,54067.0,29,1.0
+2020-07-30,Nicholas,Kentucky,21181.0,20,0.0
+2020-07-30,Nicholas,West Virginia,54067.0,30,1.0
+2020-07-31,Nicholas,Kentucky,21181.0,20,0.0
+2020-07-31,Nicholas,West Virginia,54067.0,31,1.0
+2020-08-01,Nicholas,Kentucky,21181.0,20,0.0
+2020-08-01,Nicholas,West Virginia,54067.0,31,1.0
+2020-08-02,Nicholas,Kentucky,21181.0,20,0.0
+2020-08-02,Nicholas,West Virginia,54067.0,31,1.0
+2020-08-03,Nicholas,Kentucky,21181.0,20,0.0
+2020-08-03,Nicholas,West Virginia,54067.0,32,1.0
+2020-08-04,Nicholas,Kentucky,21181.0,20,0.0
+2020-08-04,Nicholas,West Virginia,54067.0,33,1.0
+2020-08-05,Nicholas,Kentucky,21181.0,20,0.0
+2020-08-05,Nicholas,West Virginia,54067.0,33,1.0
+2020-08-06,Nicholas,Kentucky,21181.0,20,0.0
+2020-08-06,Nicholas,West Virginia,54067.0,35,1.0
+2020-08-07,Nicholas,Kentucky,21181.0,20,0.0
+2020-08-07,Nicholas,West Virginia,54067.0,36,1.0
+2020-08-08,Nicholas,Kentucky,21181.0,20,0.0
+2020-08-08,Nicholas,West Virginia,54067.0,37,1.0
+2020-08-09,Nicholas,Kentucky,21181.0,20,0.0
+2020-08-09,Nicholas,West Virginia,54067.0,37,1.0
+2020-08-10,Nicholas,Kentucky,21181.0,20,0.0
+2020-08-10,Nicholas,West Virginia,54067.0,37,1.0
+2020-08-11,Nicholas,Kentucky,21181.0,20,0.0
+2020-08-11,Nicholas,West Virginia,54067.0,37,1.0
+2020-08-12,Nicholas,Kentucky,21181.0,20,0.0
+2020-08-12,Nicholas,West Virginia,54067.0,40,1.0
+2020-08-13,Nicholas,Kentucky,21181.0,20,0.0
+2020-08-13,Nicholas,West Virginia,54067.0,39,1.0
+2020-08-14,Nicholas,Kentucky,21181.0,20,0.0
+2020-08-14,Nicholas,West Virginia,54067.0,40,1.0
+2020-08-15,Nicholas,Kentucky,21181.0,21,1.0
+2020-08-15,Nicholas,West Virginia,54067.0,39,1.0
+2020-08-16,Nicholas,Kentucky,21181.0,21,1.0
+2020-08-16,Nicholas,West Virginia,54067.0,39,1.0
+2020-08-17,Nicholas,Kentucky,21181.0,21,1.0
+2020-08-17,Nicholas,West Virginia,54067.0,40,1.0
+2020-08-18,Nicholas,Kentucky,21181.0,21,1.0
+2020-08-18,Nicholas,West Virginia,54067.0,40,1.0
+2020-08-19,Nicholas,Kentucky,21181.0,21,1.0
+2020-08-19,Nicholas,West Virginia,54067.0,40,1.0
+2020-08-20,Nicholas,Kentucky,21181.0,21,1.0
+2020-08-20,Nicholas,West Virginia,54067.0,40,1.0
+2020-08-21,Nicholas,Kentucky,21181.0,21,1.0
+2020-08-21,Nicholas,West Virginia,54067.0,40,1.0
+2020-08-22,Nicholas,Kentucky,21181.0,22,1.0
+2020-08-22,Nicholas,West Virginia,54067.0,40,1.0
+2020-08-23,Nicholas,Kentucky,21181.0,22,1.0
+2020-08-23,Nicholas,West Virginia,54067.0,42,1.0
+2020-08-24,Nicholas,Kentucky,21181.0,22,1.0
+2020-08-24,Nicholas,West Virginia,54067.0,43,1.0
+2020-08-25,Nicholas,Kentucky,21181.0,22,1.0
+2020-08-25,Nicholas,West Virginia,54067.0,44,1.0
+2020-08-26,Nicholas,Kentucky,21181.0,22,1.0
+2020-08-26,Nicholas,West Virginia,54067.0,47,1.0
+2020-08-27,Nicholas,Kentucky,21181.0,22,1.0
+2020-08-27,Nicholas,West Virginia,54067.0,47,1.0
+2020-08-28,Nicholas,Kentucky,21181.0,22,1.0
+2020-08-28,Nicholas,West Virginia,54067.0,47,1.0
+2020-08-29,Nicholas,Kentucky,21181.0,22,1.0
+2020-08-29,Nicholas,West Virginia,54067.0,50,2.0
+2020-08-30,Nicholas,Kentucky,21181.0,22,1.0
+2020-08-30,Nicholas,West Virginia,54067.0,52,2.0
+2020-08-31,Nicholas,Kentucky,21181.0,22,1.0
+2020-08-31,Nicholas,West Virginia,54067.0,52,2.0
+2020-09-01,Nicholas,Kentucky,21181.0,23,1.0
+2020-09-01,Nicholas,West Virginia,54067.0,52,2.0
+2020-09-02,Nicholas,Kentucky,21181.0,25,1.0
+2020-09-02,Nicholas,West Virginia,54067.0,53,3.0
+2020-09-03,Nicholas,Kentucky,21181.0,25,1.0
+2020-09-03,Nicholas,West Virginia,54067.0,53,3.0
+2020-09-04,Nicholas,Kentucky,21181.0,27,1.0
+2020-09-04,Nicholas,West Virginia,54067.0,56,3.0
+2020-09-05,Nicholas,Kentucky,21181.0,27,1.0
+2020-09-05,Nicholas,West Virginia,54067.0,57,3.0
+2020-09-06,Nicholas,Kentucky,21181.0,27,1.0
+2020-09-06,Nicholas,West Virginia,54067.0,57,3.0
+2020-09-07,Nicholas,Kentucky,21181.0,27,1.0
+2020-09-07,Nicholas,West Virginia,54067.0,57,3.0
+2020-09-08,Nicholas,Kentucky,21181.0,27,1.0
+2020-09-08,Nicholas,West Virginia,54067.0,58,3.0
+2020-09-09,Nicholas,Kentucky,21181.0,27,1.0
+2020-09-09,Nicholas,West Virginia,54067.0,58,3.0
+2020-09-10,Nicholas,Kentucky,21181.0,29,1.0
+2020-09-10,Nicholas,West Virginia,54067.0,60,3.0
+2020-09-11,Nicholas,Kentucky,21181.0,29,1.0
+2020-09-11,Nicholas,West Virginia,54067.0,62,3.0
+2020-09-12,Nicholas,Kentucky,21181.0,29,1.0
+2020-09-12,Nicholas,West Virginia,54067.0,64,3.0
+2020-09-13,Nicholas,Kentucky,21181.0,29,1.0
+2020-09-13,Nicholas,West Virginia,54067.0,66,3.0
+2020-09-14,Nicholas,Kentucky,21181.0,29,1.0
+2020-09-14,Nicholas,West Virginia,54067.0,69,3.0
+2020-09-15,Nicholas,Kentucky,21181.0,29,1.0
+2020-09-15,Nicholas,West Virginia,54067.0,72,3.0
+2020-09-16,Nicholas,Kentucky,21181.0,29,1.0
+2020-09-16,Nicholas,West Virginia,54067.0,75,3.0
+2020-09-17,Nicholas,Kentucky,21181.0,29,1.0
+2020-09-17,Nicholas,West Virginia,54067.0,77,3.0
+2020-09-18,Nicholas,Kentucky,21181.0,29,1.0
+2020-09-18,Nicholas,West Virginia,54067.0,79,3.0
+2020-09-19,Nicholas,Kentucky,21181.0,29,1.0
+2020-09-19,Nicholas,West Virginia,54067.0,82,3.0
+2020-09-20,Nicholas,Kentucky,21181.0,29,1.0
+2020-09-20,Nicholas,West Virginia,54067.0,87,3.0
+2020-09-21,Nicholas,Kentucky,21181.0,29,1.0
+2020-09-21,Nicholas,West Virginia,54067.0,88,3.0
+2020-09-22,Nicholas,Kentucky,21181.0,31,1.0
+2020-09-22,Nicholas,West Virginia,54067.0,92,3.0
+2020-09-23,Nicholas,Kentucky,21181.0,31,1.0
+2020-09-23,Nicholas,West Virginia,54067.0,96,3.0
+2020-09-24,Nicholas,Kentucky,21181.0,31,1.0
+2020-09-24,Nicholas,West Virginia,54067.0,98,3.0
+2020-09-25,Nicholas,Kentucky,21181.0,32,1.0
+2020-09-25,Nicholas,West Virginia,54067.0,99,3.0
+2020-09-26,Nicholas,Kentucky,21181.0,32,1.0
+2020-09-26,Nicholas,West Virginia,54067.0,100,3.0
+2020-09-27,Nicholas,Kentucky,21181.0,32,1.0
+2020-09-27,Nicholas,West Virginia,54067.0,102,3.0
+2020-09-28,Nicholas,Kentucky,21181.0,33,1.0
+2020-09-28,Nicholas,West Virginia,54067.0,104,3.0
+2020-09-29,Nicholas,Kentucky,21181.0,34,1.0
+2020-09-29,Nicholas,West Virginia,54067.0,105,3.0
+2020-09-30,Nicholas,Kentucky,21181.0,37,1.0
+2020-09-30,Nicholas,West Virginia,54067.0,112,3.0
+2020-10-01,Nicholas,Kentucky,21181.0,39,1.0
+2020-10-01,Nicholas,West Virginia,54067.0,114,3.0
+2020-10-02,Nicholas,Kentucky,21181.0,40,1.0
+2020-10-02,Nicholas,West Virginia,54067.0,115,3.0
+2020-10-03,Nicholas,Kentucky,21181.0,46,1.0
+2020-10-03,Nicholas,West Virginia,54067.0,122,3.0
+2020-10-04,Nicholas,Kentucky,21181.0,49,1.0
+2020-10-04,Nicholas,West Virginia,54067.0,124,3.0
+2020-10-05,Nicholas,Kentucky,21181.0,52,1.0
+2020-10-05,Nicholas,West Virginia,54067.0,125,3.0
+2020-10-06,Nicholas,Kentucky,21181.0,53,1.0
+2020-10-06,Nicholas,West Virginia,54067.0,125,3.0
+2020-10-07,Nicholas,Kentucky,21181.0,58,1.0
+2020-10-07,Nicholas,West Virginia,54067.0,129,3.0
+2020-10-08,Nicholas,Kentucky,21181.0,61,1.0
+2020-10-08,Nicholas,West Virginia,54067.0,129,3.0
+2020-10-09,Nicholas,Kentucky,21181.0,61,1.0
+2020-10-09,Nicholas,West Virginia,54067.0,136,3.0
+2020-10-10,Nicholas,Kentucky,21181.0,64,1.0
+2020-10-10,Nicholas,West Virginia,54067.0,140,3.0
+2020-10-11,Nicholas,Kentucky,21181.0,68,1.0
+2020-10-11,Nicholas,West Virginia,54067.0,142,3.0
+2020-10-12,Nicholas,Kentucky,21181.0,68,1.0
+2020-10-12,Nicholas,West Virginia,54067.0,142,3.0
+2020-10-13,Nicholas,Kentucky,21181.0,71,1.0
+2020-10-13,Nicholas,West Virginia,54067.0,156,3.0
+2020-10-14,Nicholas,Kentucky,21181.0,80,1.0
+2020-10-14,Nicholas,West Virginia,54067.0,158,3.0
+2020-10-15,Nicholas,Kentucky,21181.0,85,1.0
+2020-10-15,Nicholas,West Virginia,54067.0,160,3.0
+2020-10-16,Nicholas,Kentucky,21181.0,86,1.0
+2020-10-16,Nicholas,West Virginia,54067.0,170,3.0
+2020-10-17,Nicholas,Kentucky,21181.0,89,1.0
+2020-10-17,Nicholas,West Virginia,54067.0,172,3.0
+2020-10-18,Nicholas,Kentucky,21181.0,90,1.0
+2020-10-18,Nicholas,West Virginia,54067.0,173,3.0
+2020-10-19,Nicholas,Kentucky,21181.0,91,1.0
+2020-10-19,Nicholas,West Virginia,54067.0,174,3.0
+2020-10-20,Nicholas,Kentucky,21181.0,98,1.0
+2020-10-20,Nicholas,West Virginia,54067.0,174,3.0
+2020-10-21,Nicholas,Kentucky,21181.0,103,1.0
+2020-10-21,Nicholas,West Virginia,54067.0,177,3.0
+2020-10-22,Nicholas,Kentucky,21181.0,103,2.0
+2020-10-22,Nicholas,West Virginia,54067.0,179,3.0
+2020-10-23,Nicholas,Kentucky,21181.0,104,2.0
+2020-10-23,Nicholas,West Virginia,54067.0,180,3.0
+2020-10-24,Nicholas,Kentucky,21181.0,104,2.0
+2020-10-24,Nicholas,West Virginia,54067.0,183,3.0
+2020-10-25,Nicholas,Kentucky,21181.0,105,2.0
+2020-10-25,Nicholas,West Virginia,54067.0,185,3.0
+2020-10-26,Nicholas,Kentucky,21181.0,107,2.0
+2020-10-26,Nicholas,West Virginia,54067.0,185,3.0
+2020-10-27,Nicholas,Kentucky,21181.0,110,3.0
+2020-10-27,Nicholas,West Virginia,54067.0,182,3.0
+2020-10-28,Nicholas,Kentucky,21181.0,116,3.0
+2020-10-28,Nicholas,West Virginia,54067.0,183,3.0
+2020-10-29,Nicholas,Kentucky,21181.0,119,3.0
+2020-10-29,Nicholas,West Virginia,54067.0,188,3.0
+2020-10-30,Nicholas,Kentucky,21181.0,119,3.0
+2020-10-30,Nicholas,West Virginia,54067.0,190,3.0
+2020-10-31,Nicholas,Kentucky,21181.0,120,3.0
+2020-10-31,Nicholas,West Virginia,54067.0,191,3.0
+2020-11-01,Nicholas,Kentucky,21181.0,120,3.0
+2020-11-01,Nicholas,West Virginia,54067.0,191,3.0
+2020-11-02,Nicholas,Kentucky,21181.0,121,3.0
+2020-11-02,Nicholas,West Virginia,54067.0,193,3.0
+2020-11-03,Nicholas,Kentucky,21181.0,123,3.0
+2020-11-03,Nicholas,West Virginia,54067.0,192,3.0
+2020-11-04,Nicholas,Kentucky,21181.0,126,3.0
+2020-11-04,Nicholas,West Virginia,54067.0,196,3.0
+2020-11-05,Nicholas,Kentucky,21181.0,127,3.0
+2020-11-05,Nicholas,West Virginia,54067.0,201,3.0
+2020-11-06,Nicholas,Kentucky,21181.0,129,3.0
+2020-11-06,Nicholas,West Virginia,54067.0,204,3.0
+2020-11-07,Nicholas,Kentucky,21181.0,129,3.0
+2020-11-07,Nicholas,West Virginia,54067.0,211,3.0
+2020-11-08,Nicholas,Kentucky,21181.0,132,3.0
+2020-11-08,Nicholas,West Virginia,54067.0,215,3.0
+2020-11-09,Nicholas,Kentucky,21181.0,135,3.0
+2020-11-09,Nicholas,West Virginia,54067.0,219,3.0
+2020-11-10,Nicholas,Kentucky,21181.0,132,3.0
+2020-11-10,Nicholas,West Virginia,54067.0,225,4.0
+2020-11-11,Nicholas,Kentucky,21181.0,132,3.0
+2020-11-11,Nicholas,West Virginia,54067.0,230,4.0
+2020-11-12,Nicholas,Kentucky,21181.0,134,3.0
+2020-11-12,Nicholas,West Virginia,54067.0,238,4.0
+2020-11-13,Nicholas,Kentucky,21181.0,137,3.0
+2020-11-13,Nicholas,West Virginia,54067.0,240,3.0
+2020-11-14,Nicholas,Kentucky,21181.0,139,3.0
+2020-11-14,Nicholas,West Virginia,54067.0,248,3.0
+2020-11-15,Nicholas,Kentucky,21181.0,140,3.0
+2020-11-15,Nicholas,West Virginia,54067.0,255,3.0
+2020-11-16,Nicholas,Kentucky,21181.0,143,3.0
+2020-11-16,Nicholas,West Virginia,54067.0,261,3.0
+2020-11-17,Nicholas,Kentucky,21181.0,146,3.0
+2020-11-17,Nicholas,West Virginia,54067.0,269,3.0
+2020-11-18,Nicholas,Kentucky,21181.0,146,3.0
+2020-11-18,Nicholas,West Virginia,54067.0,275,5.0
+2020-11-19,Nicholas,Kentucky,21181.0,147,3.0
+2020-11-19,Nicholas,West Virginia,54067.0,281,4.0
+2020-11-20,Nicholas,Kentucky,21181.0,151,3.0
+2020-11-20,Nicholas,West Virginia,54067.0,291,4.0
+2020-11-21,Nicholas,Kentucky,21181.0,153,3.0
+2020-11-21,Nicholas,West Virginia,54067.0,299,5.0
+2020-11-22,Nicholas,Kentucky,21181.0,152,3.0
+2020-11-22,Nicholas,West Virginia,54067.0,299,5.0
+2020-11-23,Nicholas,Kentucky,21181.0,156,3.0
+2020-11-23,Nicholas,West Virginia,54067.0,303,5.0
+2020-11-24,Nicholas,Kentucky,21181.0,160,3.0
+2020-11-24,Nicholas,West Virginia,54067.0,309,5.0
+2020-11-25,Nicholas,Kentucky,21181.0,165,3.0
+2020-11-25,Nicholas,West Virginia,54067.0,315,5.0
+2020-11-26,Nicholas,Kentucky,21181.0,165,3.0
+2020-11-26,Nicholas,West Virginia,54067.0,322,5.0
+2020-11-27,Nicholas,Kentucky,21181.0,169,3.0
+2020-11-27,Nicholas,West Virginia,54067.0,323,5.0
+2020-11-28,Nicholas,Kentucky,21181.0,173,3.0
+2020-11-28,Nicholas,West Virginia,54067.0,335,5.0
+2020-11-29,Nicholas,Kentucky,21181.0,174,3.0
+2020-11-29,Nicholas,West Virginia,54067.0,345,5.0
+2020-11-30,Nicholas,Kentucky,21181.0,175,3.0
+2020-11-30,Nicholas,West Virginia,54067.0,361,5.0
+2020-12-01,Nicholas,Kentucky,21181.0,178,3.0
+2020-12-01,Nicholas,West Virginia,54067.0,371,5.0
+2020-12-02,Nicholas,Kentucky,21181.0,178,3.0
+2020-12-02,Nicholas,West Virginia,54067.0,385,5.0
+2020-12-03,Nicholas,Kentucky,21181.0,178,3.0
+2020-12-03,Nicholas,West Virginia,54067.0,389,5.0
+2020-12-04,Nicholas,Kentucky,21181.0,180,3.0
+2020-12-04,Nicholas,West Virginia,54067.0,399,5.0
+2020-12-05,Nicholas,Kentucky,21181.0,182,3.0
+2020-12-05,Nicholas,West Virginia,54067.0,404,5.0
+2020-12-06,Nicholas,Kentucky,21181.0,187,3.0
+2020-12-06,Nicholas,West Virginia,54067.0,412,6.0
+2020-12-07,Nicholas,Kentucky,21181.0,189,3.0
+2020-12-07,Nicholas,West Virginia,54067.0,430,5.0
+2020-12-08,Nicholas,Kentucky,21181.0,191,3.0
+2020-12-08,Nicholas,West Virginia,54067.0,442,5.0
+2020-12-09,Nicholas,Kentucky,21181.0,193,3.0
+2020-12-09,Nicholas,West Virginia,54067.0,455,5.0
+2020-12-10,Nicholas,Kentucky,21181.0,194,3.0
+2020-12-10,Nicholas,West Virginia,54067.0,463,5.0
+2020-12-11,Nicholas,Kentucky,21181.0,200,3.0
+2020-12-11,Nicholas,West Virginia,54067.0,473,6.0
+2020-12-12,Nicholas,Kentucky,21181.0,201,3.0
+2020-12-12,Nicholas,West Virginia,54067.0,492,6.0
+2020-12-13,Nicholas,Kentucky,21181.0,204,3.0
+2020-12-13,Nicholas,West Virginia,54067.0,500,6.0
+2020-12-14,Nicholas,Kentucky,21181.0,208,3.0
+2020-12-14,Nicholas,West Virginia,54067.0,503,6.0
+2020-12-15,Nicholas,Kentucky,21181.0,211,3.0
+2020-12-15,Nicholas,West Virginia,54067.0,512,6.0
+2020-12-16,Nicholas,Kentucky,21181.0,212,3.0
+2020-12-16,Nicholas,West Virginia,54067.0,521,6.0
+2020-12-17,Nicholas,Kentucky,21181.0,217,3.0
+2020-12-17,Nicholas,West Virginia,54067.0,529,6.0
+2020-12-18,Nicholas,Kentucky,21181.0,222,3.0
+2020-12-18,Nicholas,West Virginia,54067.0,538,6.0
+2020-12-19,Nicholas,Kentucky,21181.0,225,3.0
+2020-12-19,Nicholas,West Virginia,54067.0,546,6.0
+2020-12-20,Nicholas,Kentucky,21181.0,231,3.0
+2020-12-20,Nicholas,West Virginia,54067.0,566,6.0
+2020-12-21,Nicholas,Kentucky,21181.0,231,3.0
+2020-12-21,Nicholas,West Virginia,54067.0,573,6.0
+2020-12-22,Nicholas,Kentucky,21181.0,232,3.0
+2020-12-22,Nicholas,West Virginia,54067.0,576,7.0
+2020-12-23,Nicholas,Kentucky,21181.0,236,3.0
+2020-12-23,Nicholas,West Virginia,54067.0,584,7.0
+2020-12-24,Nicholas,Kentucky,21181.0,236,3.0
+2020-12-24,Nicholas,West Virginia,54067.0,587,7.0
+2020-12-25,Nicholas,Kentucky,21181.0,236,3.0
+2020-12-25,Nicholas,West Virginia,54067.0,599,7.0
+2020-12-26,Nicholas,Kentucky,21181.0,250,3.0
+2020-12-26,Nicholas,West Virginia,54067.0,616,7.0
+2020-12-27,Nicholas,Kentucky,21181.0,249,3.0
+2020-12-27,Nicholas,West Virginia,54067.0,618,7.0
+2020-12-28,Nicholas,Kentucky,21181.0,250,3.0
+2020-12-28,Nicholas,West Virginia,54067.0,628,7.0
+2020-12-29,Nicholas,Kentucky,21181.0,250,3.0
+2020-12-29,Nicholas,West Virginia,54067.0,636,7.0
+2020-12-30,Nicholas,Kentucky,21181.0,255,3.0
+2020-12-30,Nicholas,West Virginia,54067.0,645,7.0
+2020-12-31,Nicholas,Kentucky,21181.0,255,3.0
+2020-12-31,Nicholas,West Virginia,54067.0,654,8.0
+2021-01-01,Nicholas,Kentucky,21181.0,255,3.0
+2021-01-01,Nicholas,West Virginia,54067.0,707,8.0
+2021-01-02,Nicholas,Kentucky,21181.0,282,3.0
+2021-01-02,Nicholas,West Virginia,54067.0,720,8.0
+2021-01-03,Nicholas,Kentucky,21181.0,293,3.0
+2021-01-03,Nicholas,West Virginia,54067.0,732,8.0
+2021-01-04,Nicholas,Kentucky,21181.0,299,3.0
+2021-01-04,Nicholas,West Virginia,54067.0,747,8.0
+2021-01-05,Nicholas,Kentucky,21181.0,304,3.0
+2021-01-05,Nicholas,West Virginia,54067.0,761,8.0
+2021-01-06,Nicholas,Kentucky,21181.0,317,3.0
+2021-01-06,Nicholas,West Virginia,54067.0,774,8.0
+2021-01-07,Nicholas,Kentucky,21181.0,329,3.0
+2021-01-07,Nicholas,West Virginia,54067.0,781,9.0
+2021-01-08,Nicholas,Kentucky,21181.0,339,3.0
+2021-01-08,Nicholas,West Virginia,54067.0,793,9.0
+2021-01-09,Nicholas,Kentucky,21181.0,346,3.0
+2021-01-09,Nicholas,West Virginia,54067.0,804,9.0
+2021-01-10,Nicholas,Kentucky,21181.0,354,3.0
+2021-01-10,Nicholas,West Virginia,54067.0,818,9.0
+2021-01-11,Nicholas,Kentucky,21181.0,353,3.0
+2021-01-11,Nicholas,West Virginia,54067.0,834,9.0
+2021-01-12,Nicholas,Kentucky,21181.0,363,4.0
+2021-01-12,Nicholas,West Virginia,54067.0,856,9.0
+2021-01-13,Nicholas,Kentucky,21181.0,367,4.0
+2021-01-13,Nicholas,West Virginia,54067.0,869,9.0
+2021-01-14,Nicholas,Kentucky,21181.0,370,4.0
+2021-01-14,Nicholas,West Virginia,54067.0,879,9.0
+2021-01-15,Nicholas,Kentucky,21181.0,374,4.0
+2021-01-15,Nicholas,West Virginia,54067.0,893,9.0
+2021-01-16,Nicholas,Kentucky,21181.0,378,4.0
+2021-01-16,Nicholas,West Virginia,54067.0,925,9.0
+2021-01-17,Nicholas,Kentucky,21181.0,378,5.0
+2021-01-17,Nicholas,West Virginia,54067.0,935,9.0
+2021-01-18,Nicholas,Kentucky,21181.0,380,5.0
+2021-01-18,Nicholas,West Virginia,54067.0,937,9.0
+2021-01-19,Nicholas,Kentucky,21181.0,390,5.0
+2021-01-19,Nicholas,West Virginia,54067.0,951,9.0
+2021-01-20,Nicholas,Kentucky,21181.0,395,5.0
+2021-01-20,Nicholas,West Virginia,54067.0,957,9.0
+2021-01-21,Nicholas,Kentucky,21181.0,397,5.0
+2021-01-21,Nicholas,West Virginia,54067.0,966,9.0
+2021-01-22,Nicholas,Kentucky,21181.0,400,5.0
+2021-01-22,Nicholas,West Virginia,54067.0,981,9.0
+2021-01-23,Nicholas,Kentucky,21181.0,404,5.0
+2021-01-23,Nicholas,West Virginia,54067.0,990,10.0
+2021-01-24,Nicholas,Kentucky,21181.0,404,5.0
+2021-01-24,Nicholas,West Virginia,54067.0,997,10.0
+2021-01-25,Nicholas,Kentucky,21181.0,404,5.0
+2021-01-25,Nicholas,West Virginia,54067.0,1005,10.0
+2021-01-26,Nicholas,Kentucky,21181.0,409,5.0
+2021-01-26,Nicholas,West Virginia,54067.0,1016,10.0
+2021-01-27,Nicholas,Kentucky,21181.0,413,5.0
+2021-01-27,Nicholas,West Virginia,54067.0,1023,11.0
+2021-01-28,Nicholas,Kentucky,21181.0,415,5.0
+2021-01-28,Nicholas,West Virginia,54067.0,1036,11.0
+2021-01-29,Nicholas,Kentucky,21181.0,416,5.0
+2021-01-29,Nicholas,West Virginia,54067.0,1041,11.0
+2021-01-30,Nicholas,Kentucky,21181.0,418,5.0
+2021-01-30,Nicholas,West Virginia,54067.0,1046,11.0
+2021-01-31,Nicholas,Kentucky,21181.0,420,5.0
+2021-01-31,Nicholas,West Virginia,54067.0,1055,11.0
+2021-02-01,Nicholas,Kentucky,21181.0,423,5.0
+2021-02-01,Nicholas,West Virginia,54067.0,1059,11.0
+2021-02-02,Nicholas,Kentucky,21181.0,423,5.0
+2021-02-02,Nicholas,West Virginia,54067.0,1063,11.0
+2021-02-03,Nicholas,Kentucky,21181.0,424,6.0
+2021-02-03,Nicholas,West Virginia,54067.0,1069,11.0
+2021-02-04,Nicholas,Kentucky,21181.0,427,6.0
+2021-02-04,Nicholas,West Virginia,54067.0,1074,12.0
+2021-02-05,Nicholas,Kentucky,21181.0,429,6.0
+2021-02-05,Nicholas,West Virginia,54067.0,1080,12.0
+2021-02-06,Nicholas,Kentucky,21181.0,430,6.0
+2021-02-06,Nicholas,West Virginia,54067.0,1089,12.0
+2021-02-07,Nicholas,Kentucky,21181.0,431,6.0
+2021-02-07,Nicholas,West Virginia,54067.0,1097,12.0
+2021-02-08,Nicholas,Kentucky,21181.0,433,6.0
+2021-02-08,Nicholas,West Virginia,54067.0,1102,12.0
+2021-02-09,Nicholas,Kentucky,21181.0,438,6.0
+2021-02-09,Nicholas,West Virginia,54067.0,1106,12.0
+2021-02-10,Nicholas,Kentucky,21181.0,437,6.0
+2021-02-10,Nicholas,West Virginia,54067.0,1112,12.0
+2021-02-11,Nicholas,Kentucky,21181.0,438,6.0
+2021-02-11,Nicholas,West Virginia,54067.0,1117,12.0
+2021-02-12,Nicholas,Kentucky,21181.0,439,6.0
+2021-02-12,Nicholas,West Virginia,54067.0,1120,12.0
+2021-02-13,Nicholas,Kentucky,21181.0,439,6.0
+2021-02-13,Nicholas,West Virginia,54067.0,1122,12.0
+2021-02-14,Nicholas,Kentucky,21181.0,433,6.0
+2021-02-14,Nicholas,West Virginia,54067.0,1133,12.0
+2021-02-15,Nicholas,Kentucky,21181.0,433,6.0
+2021-02-15,Nicholas,West Virginia,54067.0,1142,12.0
+2021-02-16,Nicholas,Kentucky,21181.0,436,6.0
+2021-02-16,Nicholas,West Virginia,54067.0,1143,12.0
+2021-02-17,Nicholas,Kentucky,21181.0,436,6.0
+2021-02-17,Nicholas,West Virginia,54067.0,1145,12.0
+2021-02-18,Nicholas,Kentucky,21181.0,436,6.0
+2021-02-18,Nicholas,West Virginia,54067.0,1151,12.0
+2021-02-19,Nicholas,Kentucky,21181.0,437,6.0
+2021-02-19,Nicholas,West Virginia,54067.0,1154,12.0
+2021-02-20,Nicholas,Kentucky,21181.0,444,6.0
+2021-02-20,Nicholas,West Virginia,54067.0,1156,12.0
+2021-02-21,Nicholas,Kentucky,21181.0,446,6.0
+2021-02-21,Nicholas,West Virginia,54067.0,1160,12.0
+2021-02-22,Nicholas,Kentucky,21181.0,446,6.0
+2021-02-22,Nicholas,West Virginia,54067.0,1163,12.0
+2021-02-23,Nicholas,Kentucky,21181.0,447,6.0
+2021-02-23,Nicholas,West Virginia,54067.0,1164,12.0
+2021-02-24,Nicholas,Kentucky,21181.0,451,6.0
+2021-02-24,Nicholas,West Virginia,54067.0,1170,12.0
+2021-02-25,Nicholas,Kentucky,21181.0,453,6.0
+2021-02-25,Nicholas,West Virginia,54067.0,1169,12.0
+2021-02-26,Nicholas,Kentucky,21181.0,454,6.0
+2021-02-26,Nicholas,West Virginia,54067.0,1170,12.0
+2021-02-27,Nicholas,Kentucky,21181.0,455,6.0
+2021-02-27,Nicholas,West Virginia,54067.0,1174,12.0
+2021-02-28,Nicholas,Kentucky,21181.0,457,6.0
+2021-02-28,Nicholas,West Virginia,54067.0,1179,12.0
+2021-03-01,Nicholas,Kentucky,21181.0,456,6.0
+2021-03-01,Nicholas,West Virginia,54067.0,1179,12.0
+2021-03-02,Nicholas,Kentucky,21181.0,459,6.0
+2021-03-02,Nicholas,West Virginia,54067.0,1183,12.0
+2021-03-03,Nicholas,Kentucky,21181.0,461,6.0
+2021-03-03,Nicholas,West Virginia,54067.0,1186,12.0
+2021-03-04,Nicholas,Kentucky,21181.0,464,6.0
+2021-03-04,Nicholas,West Virginia,54067.0,1191,12.0
+2021-03-05,Nicholas,Kentucky,21181.0,466,6.0
+2021-03-05,Nicholas,West Virginia,54067.0,1192,12.0
+2021-03-06,Nicholas,Kentucky,21181.0,467,6.0
+2021-03-06,Nicholas,West Virginia,54067.0,1196,12.0
+2021-03-07,Nicholas,Kentucky,21181.0,467,6.0
+2021-03-07,Nicholas,West Virginia,54067.0,1200,12.0
+2021-03-08,Nicholas,Kentucky,21181.0,467,6.0
+2021-03-08,Nicholas,West Virginia,54067.0,1202,12.0
+2021-03-09,Nicholas,Kentucky,21181.0,469,6.0
+2021-03-09,Nicholas,West Virginia,54067.0,1213,12.0
+2021-03-10,Nicholas,Kentucky,21181.0,473,6.0
+2021-03-10,Nicholas,West Virginia,54067.0,1219,12.0
+2021-03-11,Nicholas,Kentucky,21181.0,475,6.0
+2021-03-11,Nicholas,West Virginia,54067.0,1228,13.0
+2021-03-12,Nicholas,Kentucky,21181.0,474,6.0
+2021-03-12,Nicholas,West Virginia,54067.0,1237,13.0
+2021-03-13,Nicholas,Kentucky,21181.0,474,6.0
+2021-03-13,Nicholas,West Virginia,54067.0,1244,13.0
+2021-03-14,Nicholas,Kentucky,21181.0,476,6.0
+2021-03-14,Nicholas,West Virginia,54067.0,1258,13.0
+2021-03-15,Nicholas,Kentucky,21181.0,477,6.0
+2021-03-15,Nicholas,West Virginia,54067.0,1266,13.0
+2021-03-16,Nicholas,Kentucky,21181.0,477,6.0
+2021-03-16,Nicholas,West Virginia,54067.0,1274,13.0
+2021-03-17,Nicholas,Kentucky,21181.0,477,6.0
+2021-03-17,Nicholas,West Virginia,54067.0,1281,14.0
+2021-03-18,Nicholas,Kentucky,21181.0,477,6.0
+2021-03-18,Nicholas,West Virginia,54067.0,1294,14.0
+2021-03-19,Nicholas,Kentucky,21181.0,478,7.0
+2021-03-19,Nicholas,West Virginia,54067.0,1299,15.0
+2021-03-20,Nicholas,Kentucky,21181.0,478,7.0
+2021-03-20,Nicholas,West Virginia,54067.0,1309,15.0
+2021-03-21,Nicholas,Kentucky,21181.0,478,7.0
+2021-03-21,Nicholas,West Virginia,54067.0,1320,15.0
+2021-03-22,Nicholas,Kentucky,21181.0,478,7.0
+2021-03-22,Nicholas,West Virginia,54067.0,1333,15.0
+2021-03-23,Nicholas,Kentucky,21181.0,481,7.0
+2021-03-23,Nicholas,West Virginia,54067.0,1341,15.0
+2021-03-24,Nicholas,Kentucky,21181.0,484,7.0
+2021-03-24,Nicholas,West Virginia,54067.0,1348,15.0
+2021-03-25,Nicholas,Kentucky,21181.0,487,7.0
+2021-03-25,Nicholas,West Virginia,54067.0,1355,15.0
+2021-03-26,Nicholas,Kentucky,21181.0,489,7.0
+2021-03-26,Nicholas,West Virginia,54067.0,1363,15.0
+2021-03-27,Nicholas,Kentucky,21181.0,492,7.0
+2021-03-27,Nicholas,West Virginia,54067.0,1364,15.0
+2021-03-28,Nicholas,Kentucky,21181.0,492,7.0
+2021-03-28,Nicholas,West Virginia,54067.0,1369,15.0
+2021-03-29,Nicholas,Kentucky,21181.0,492,7.0
+2021-03-29,Nicholas,West Virginia,54067.0,1377,15.0
+2021-03-30,Nicholas,Kentucky,21181.0,493,7.0
+2021-03-30,Nicholas,West Virginia,54067.0,1378,15.0
+2021-03-31,Nicholas,Kentucky,21181.0,496,8.0
+2021-03-31,Nicholas,West Virginia,54067.0,1381,15.0
+2021-04-01,Nicholas,Kentucky,21181.0,500,8.0
+2021-04-01,Nicholas,West Virginia,54067.0,1389,15.0
+2021-04-02,Nicholas,Kentucky,21181.0,501,8.0
+2021-04-02,Nicholas,West Virginia,54067.0,1396,15.0
+2021-04-03,Nicholas,Kentucky,21181.0,503,8.0
+2021-04-03,Nicholas,West Virginia,54067.0,1397,15.0
+2021-04-04,Nicholas,Kentucky,21181.0,503,8.0
+2021-04-04,Nicholas,West Virginia,54067.0,1401,15.0
+2021-04-05,Nicholas,Kentucky,21181.0,506,8.0
+2021-04-05,Nicholas,West Virginia,54067.0,1405,15.0
+2021-04-06,Nicholas,Kentucky,21181.0,504,8.0
+2021-04-06,Nicholas,West Virginia,54067.0,1410,16.0
+2021-04-07,Nicholas,Kentucky,21181.0,505,8.0
+2021-04-07,Nicholas,West Virginia,54067.0,1415,16.0
+2021-04-08,Nicholas,Kentucky,21181.0,507,8.0
+2021-04-08,Nicholas,West Virginia,54067.0,1418,16.0
+2021-04-09,Nicholas,Kentucky,21181.0,509,8.0
+2021-04-09,Nicholas,West Virginia,54067.0,1429,17.0
+2021-04-10,Nicholas,Kentucky,21181.0,509,8.0
+2021-04-10,Nicholas,West Virginia,54067.0,1436,17.0
+2021-04-11,Nicholas,Kentucky,21181.0,510,8.0
+2021-04-11,Nicholas,West Virginia,54067.0,1439,17.0
+2021-04-12,Nicholas,Kentucky,21181.0,512,8.0
+2021-04-12,Nicholas,West Virginia,54067.0,1446,17.0
+2021-04-13,Nicholas,Kentucky,21181.0,514,8.0
+2021-04-13,Nicholas,West Virginia,54067.0,1461,17.0
+2021-04-14,Nicholas,Kentucky,21181.0,516,8.0
+2021-04-14,Nicholas,West Virginia,54067.0,1468,17.0
+2021-04-15,Nicholas,Kentucky,21181.0,517,8.0
+2021-04-15,Nicholas,West Virginia,54067.0,1477,19.0
+2021-04-16,Nicholas,Kentucky,21181.0,518,8.0
+2021-04-16,Nicholas,West Virginia,54067.0,1483,19.0
+2021-04-17,Nicholas,Kentucky,21181.0,520,8.0
+2021-04-17,Nicholas,West Virginia,54067.0,1499,19.0
+2021-04-18,Nicholas,Kentucky,21181.0,520,8.0
+2021-04-18,Nicholas,West Virginia,54067.0,1507,19.0
+2021-04-19,Nicholas,Kentucky,21181.0,521,8.0
+2021-04-19,Nicholas,West Virginia,54067.0,1512,19.0
+2021-04-20,Nicholas,Kentucky,21181.0,522,8.0
+2021-04-20,Nicholas,West Virginia,54067.0,1519,19.0
+2021-04-21,Nicholas,Kentucky,21181.0,524,8.0
+2021-04-21,Nicholas,West Virginia,54067.0,1522,19.0
+2021-04-22,Nicholas,Kentucky,21181.0,526,8.0
+2021-04-22,Nicholas,West Virginia,54067.0,1530,20.0
+2021-04-23,Nicholas,Kentucky,21181.0,528,8.0
+2021-04-23,Nicholas,West Virginia,54067.0,1538,20.0
+2021-04-24,Nicholas,Kentucky,21181.0,528,8.0
+2021-04-24,Nicholas,West Virginia,54067.0,1541,20.0
+2021-04-25,Nicholas,Kentucky,21181.0,529,8.0
+2021-04-25,Nicholas,West Virginia,54067.0,1547,20.0
+2021-04-26,Nicholas,Kentucky,21181.0,531,8.0
+2021-04-26,Nicholas,West Virginia,54067.0,1550,20.0
+2021-04-27,Nicholas,Kentucky,21181.0,533,8.0
+2021-04-27,Nicholas,West Virginia,54067.0,1552,18.0
+2021-04-28,Nicholas,Kentucky,21181.0,534,8.0
+2021-04-28,Nicholas,West Virginia,54067.0,1561,18.0
+2021-04-29,Nicholas,Kentucky,21181.0,538,8.0
+2021-04-29,Nicholas,West Virginia,54067.0,1568,18.0
+2021-04-30,Nicholas,Kentucky,21181.0,541,8.0
+2021-04-30,Nicholas,West Virginia,54067.0,1577,18.0
+2021-05-01,Nicholas,Kentucky,21181.0,541,8.0
+2021-05-01,Nicholas,West Virginia,54067.0,1586,18.0
+2021-05-02,Nicholas,Kentucky,21181.0,541,8.0
+2021-05-02,Nicholas,West Virginia,54067.0,1592,19.0
+2021-05-03,Nicholas,Kentucky,21181.0,544,8.0
+2021-05-03,Nicholas,West Virginia,54067.0,1600,19.0
+2021-05-04,Nicholas,Kentucky,21181.0,546,8.0
+2021-05-04,Nicholas,West Virginia,54067.0,1613,19.0
+2021-05-05,Nicholas,Kentucky,21181.0,546,8.0
+2021-05-05,Nicholas,West Virginia,54067.0,1624,19.0
+2021-05-06,Nicholas,Kentucky,21181.0,548,8.0
+2021-05-06,Nicholas,West Virginia,54067.0,1632,19.0
+2021-05-07,Nicholas,Kentucky,21181.0,548,8.0
+2021-05-07,Nicholas,West Virginia,54067.0,1644,19.0
+2021-05-08,Nicholas,Kentucky,21181.0,549,8.0
+2021-05-08,Nicholas,West Virginia,54067.0,1657,19.0
+2021-05-09,Nicholas,Kentucky,21181.0,549,8.0
+2021-05-09,Nicholas,West Virginia,54067.0,1671,19.0
+2021-05-10,Nicholas,Kentucky,21181.0,549,8.0
+2021-05-10,Nicholas,West Virginia,54067.0,1681,19.0
+2021-05-11,Nicholas,Kentucky,21181.0,551,8.0
+2021-05-11,Nicholas,West Virginia,54067.0,1685,19.0
+2021-05-12,Nicholas,Kentucky,21181.0,552,8.0
+2021-05-12,Nicholas,West Virginia,54067.0,1698,19.0
+2021-05-13,Nicholas,Kentucky,21181.0,552,8.0
+2021-05-13,Nicholas,West Virginia,54067.0,1704,19.0
+2021-05-14,Nicholas,Kentucky,21181.0,553,8.0
+2021-05-14,Nicholas,West Virginia,54067.0,1716,19.0
+2021-05-15,Nicholas,Kentucky,21181.0,553,8.0
+2021-05-15,Nicholas,West Virginia,54067.0,1725,19.0
+2021-05-16,Nicholas,Kentucky,21181.0,554,8.0
+2021-05-16,Nicholas,West Virginia,54067.0,1739,19.0
+2021-05-17,Nicholas,Kentucky,21181.0,554,8.0
+2021-05-17,Nicholas,West Virginia,54067.0,1748,19.0
+2021-05-18,Nicholas,Kentucky,21181.0,556,8.0
+2021-05-18,Nicholas,West Virginia,54067.0,1758,19.0
+2021-05-19,Nicholas,Kentucky,21181.0,556,8.0
+2021-05-19,Nicholas,West Virginia,54067.0,1772,19.0
+2021-05-20,Nicholas,Kentucky,21181.0,556,8.0
+2021-05-20,Nicholas,West Virginia,54067.0,1780,19.0
+2021-05-21,Nicholas,Kentucky,21181.0,557,8.0
+2021-05-21,Nicholas,West Virginia,54067.0,1792,19.0
+2021-05-22,Nicholas,Kentucky,21181.0,558,8.0
+2021-05-22,Nicholas,West Virginia,54067.0,1792,19.0
+2021-05-23,Nicholas,Kentucky,21181.0,559,8.0
+2021-05-23,Nicholas,West Virginia,54067.0,1792,19.0
+2021-05-24,Nicholas,Kentucky,21181.0,559,8.0
+2021-05-24,Nicholas,West Virginia,54067.0,1813,19.0
+2021-05-25,Nicholas,Kentucky,21181.0,559,8.0
+2021-05-25,Nicholas,West Virginia,54067.0,1818,20.0
+2021-05-26,Nicholas,Kentucky,21181.0,559,8.0
+2021-05-26,Nicholas,West Virginia,54067.0,1830,20.0
+2021-05-27,Nicholas,Kentucky,21181.0,559,8.0
+2021-05-27,Nicholas,West Virginia,54067.0,1832,20.0
+2021-05-28,Nicholas,Kentucky,21181.0,559,8.0
+2021-05-28,Nicholas,West Virginia,54067.0,1840,20.0
+2021-05-29,Nicholas,Kentucky,21181.0,559,8.0
+2021-05-29,Nicholas,West Virginia,54067.0,1840,20.0
+2021-05-30,Nicholas,Kentucky,21181.0,559,8.0
+2021-05-30,Nicholas,West Virginia,54067.0,1840,20.0
+2021-05-31,Nicholas,Kentucky,21181.0,559,8.0
+2021-05-31,Nicholas,West Virginia,54067.0,1840,20.0
+2021-06-01,Nicholas,Kentucky,21181.0,559,8.0
+2021-06-01,Nicholas,West Virginia,54067.0,1855,20.0
+2021-06-02,Nicholas,Kentucky,21181.0,559,8.0
+2021-06-02,Nicholas,West Virginia,54067.0,1858,20.0
+2021-06-03,Nicholas,Kentucky,21181.0,571,8.0
+2021-06-03,Nicholas,West Virginia,54067.0,1860,20.0
+2021-06-04,Nicholas,Kentucky,21181.0,590,8.0
+2021-06-04,Nicholas,West Virginia,54067.0,1862,21.0
+2021-06-05,Nicholas,Kentucky,21181.0,593,8.0
+2021-06-05,Nicholas,West Virginia,54067.0,1862,21.0
+2021-06-06,Nicholas,Kentucky,21181.0,593,8.0
+2021-06-06,Nicholas,West Virginia,54067.0,1862,21.0
+2021-06-07,Nicholas,Kentucky,21181.0,595,8.0
+2021-06-07,Nicholas,West Virginia,54067.0,1871,21.0
+2021-06-08,Nicholas,Kentucky,21181.0,600,8.0
+2021-06-08,Nicholas,West Virginia,54067.0,1874,21.0
+2021-06-09,Nicholas,Kentucky,21181.0,601,8.0
+2021-06-09,Nicholas,West Virginia,54067.0,1882,21.0
+2021-06-10,Nicholas,Kentucky,21181.0,600,8.0
+2021-06-10,Nicholas,West Virginia,54067.0,1882,21.0
+2021-06-11,Nicholas,Kentucky,21181.0,591,8.0
+2021-06-11,Nicholas,West Virginia,54067.0,1883,21.0
+2021-06-12,Nicholas,Kentucky,21181.0,590,8.0
+2021-06-12,Nicholas,West Virginia,54067.0,1883,21.0
+2021-06-13,Nicholas,Kentucky,21181.0,590,8.0
+2021-06-13,Nicholas,West Virginia,54067.0,1883,21.0
+2021-06-14,Nicholas,Kentucky,21181.0,590,8.0
+2021-06-14,Nicholas,West Virginia,54067.0,1890,21.0
+2021-06-15,Nicholas,Kentucky,21181.0,590,8.0
+2021-06-15,Nicholas,West Virginia,54067.0,1891,21.0
+2021-06-16,Nicholas,Kentucky,21181.0,590,8.0
+2021-06-16,Nicholas,West Virginia,54067.0,1893,21.0
+2021-06-17,Nicholas,Kentucky,21181.0,591,8.0
+2021-06-17,Nicholas,West Virginia,54067.0,1892,21.0
+2021-06-18,Nicholas,Kentucky,21181.0,591,8.0
+2021-06-18,Nicholas,West Virginia,54067.0,1892,21.0
+2021-06-19,Nicholas,Kentucky,21181.0,591,8.0
+2021-06-19,Nicholas,West Virginia,54067.0,1892,21.0
+2021-06-20,Nicholas,Kentucky,21181.0,591,8.0
+2021-06-20,Nicholas,West Virginia,54067.0,1892,21.0
+2021-06-21,Nicholas,Kentucky,21181.0,592,8.0
+2021-06-21,Nicholas,West Virginia,54067.0,1892,21.0
+2021-06-22,Nicholas,Kentucky,21181.0,593,8.0
+2021-06-22,Nicholas,West Virginia,54067.0,1898,21.0
+2021-06-23,Nicholas,Kentucky,21181.0,597,8.0
+2021-06-23,Nicholas,West Virginia,54067.0,1899,21.0
+2021-06-24,Nicholas,Kentucky,21181.0,597,8.0
+2021-06-24,Nicholas,West Virginia,54067.0,1903,21.0
+2021-06-25,Nicholas,Kentucky,21181.0,597,8.0
+2021-06-25,Nicholas,West Virginia,54067.0,1903,21.0
+2021-06-26,Nicholas,Kentucky,21181.0,597,8.0
+2021-06-26,Nicholas,West Virginia,54067.0,1903,21.0
+2021-06-27,Nicholas,Kentucky,21181.0,597,8.0
+2021-06-27,Nicholas,West Virginia,54067.0,1903,21.0
+2021-06-28,Nicholas,Kentucky,21181.0,597,8.0
+2021-06-28,Nicholas,West Virginia,54067.0,1905,21.0
+2021-06-29,Nicholas,Kentucky,21181.0,599,8.0
+2021-06-29,Nicholas,West Virginia,54067.0,1905,22.0
+2021-06-30,Nicholas,Kentucky,21181.0,599,8.0
+2021-06-30,Nicholas,West Virginia,54067.0,1905,22.0
+2021-07-01,Nicholas,Kentucky,21181.0,599,8.0
+2021-07-01,Nicholas,West Virginia,54067.0,1905,22.0
+2021-07-02,Nicholas,Kentucky,21181.0,599,8.0
+2021-07-02,Nicholas,West Virginia,54067.0,1905,22.0
+2021-07-03,Nicholas,Kentucky,21181.0,599,8.0
+2021-07-03,Nicholas,West Virginia,54067.0,1905,22.0
+2021-07-04,Nicholas,Kentucky,21181.0,599,8.0
+2021-07-04,Nicholas,West Virginia,54067.0,1905,22.0
+2021-07-05,Nicholas,Kentucky,21181.0,599,8.0
+2021-07-05,Nicholas,West Virginia,54067.0,1905,22.0
+2021-07-06,Nicholas,Kentucky,21181.0,599,8.0
+2021-07-06,Nicholas,West Virginia,54067.0,1908,22.0
+2021-07-07,Nicholas,Kentucky,21181.0,599,8.0
+2021-07-07,Nicholas,West Virginia,54067.0,1908,22.0
+2021-07-08,Nicholas,Kentucky,21181.0,600,8.0
+2021-07-08,Nicholas,West Virginia,54067.0,1909,22.0
+2021-07-09,Nicholas,Kentucky,21181.0,599,8.0
+2021-07-09,Nicholas,West Virginia,54067.0,1909,22.0
+2021-07-10,Nicholas,Kentucky,21181.0,599,8.0
+2021-07-10,Nicholas,West Virginia,54067.0,1909,22.0
+2021-07-11,Nicholas,Kentucky,21181.0,599,8.0
+2021-07-11,Nicholas,West Virginia,54067.0,1909,22.0
+2021-07-12,Nicholas,Kentucky,21181.0,599,8.0
+2021-07-12,Nicholas,West Virginia,54067.0,1911,22.0
+2021-07-13,Nicholas,Kentucky,21181.0,601,8.0
+2021-07-13,Nicholas,West Virginia,54067.0,1913,22.0
+2021-07-14,Nicholas,Kentucky,21181.0,601,8.0
+2021-07-14,Nicholas,West Virginia,54067.0,1914,23.0
+2021-07-15,Nicholas,Kentucky,21181.0,601,9.0
+2021-07-15,Nicholas,West Virginia,54067.0,1916,23.0
+2021-07-16,Nicholas,Kentucky,21181.0,603,9.0
+2021-07-16,Nicholas,West Virginia,54067.0,1919,23.0
+2021-07-17,Nicholas,Kentucky,21181.0,603,9.0
+2021-07-17,Nicholas,West Virginia,54067.0,1919,23.0
+2021-07-18,Nicholas,Kentucky,21181.0,603,9.0
+2021-07-18,Nicholas,West Virginia,54067.0,1919,23.0
+2021-07-19,Nicholas,Kentucky,21181.0,604,9.0
+2021-07-19,Nicholas,West Virginia,54067.0,1925,23.0
+2021-07-20,Nicholas,Kentucky,21181.0,604,9.0
+2021-07-20,Nicholas,West Virginia,54067.0,1927,23.0
+2021-07-21,Nicholas,Kentucky,21181.0,605,9.0
+2021-07-21,Nicholas,West Virginia,54067.0,1932,23.0
+2021-07-22,Nicholas,Kentucky,21181.0,606,9.0
+2021-07-22,Nicholas,West Virginia,54067.0,1935,24.0
+2021-07-23,Nicholas,Kentucky,21181.0,610,9.0
+2021-07-23,Nicholas,West Virginia,54067.0,1936,24.0
+2021-07-24,Nicholas,Kentucky,21181.0,610,9.0
+2021-07-24,Nicholas,West Virginia,54067.0,1936,24.0
+2021-07-25,Nicholas,Kentucky,21181.0,610,9.0
+2021-07-25,Nicholas,West Virginia,54067.0,1936,24.0
+2021-07-26,Nicholas,Kentucky,21181.0,611,9.0
+2021-07-26,Nicholas,West Virginia,54067.0,1943,24.0
+2021-07-27,Nicholas,Kentucky,21181.0,612,9.0
+2021-07-27,Nicholas,West Virginia,54067.0,1947,24.0
+2021-07-28,Nicholas,Kentucky,21181.0,616,9.0
+2021-07-28,Nicholas,West Virginia,54067.0,1951,24.0
+2021-07-29,Nicholas,Kentucky,21181.0,617,9.0
+2021-07-29,Nicholas,West Virginia,54067.0,1953,24.0
+2021-07-30,Nicholas,Kentucky,21181.0,618,9.0
+2021-07-30,Nicholas,West Virginia,54067.0,1955,24.0
+2021-07-31,Nicholas,Kentucky,21181.0,618,9.0
+2021-07-31,Nicholas,West Virginia,54067.0,1955,24.0
+2021-08-01,Nicholas,Kentucky,21181.0,618,9.0
+2021-08-01,Nicholas,West Virginia,54067.0,1955,24.0
+2021-08-02,Nicholas,Kentucky,21181.0,619,9.0
+2021-08-02,Nicholas,West Virginia,54067.0,1966,24.0
+2021-08-03,Nicholas,Kentucky,21181.0,619,9.0
+2021-08-03,Nicholas,West Virginia,54067.0,1968,24.0
+2021-08-04,Nicholas,Kentucky,21181.0,622,9.0
+2021-08-04,Nicholas,West Virginia,54067.0,1970,24.0
+2021-08-05,Nicholas,Kentucky,21181.0,622,9.0
+2021-08-05,Nicholas,West Virginia,54067.0,1975,24.0
+2021-08-06,Nicholas,Kentucky,21181.0,625,9.0
+2021-08-06,Nicholas,West Virginia,54067.0,1979,24.0
+2021-08-07,Nicholas,Kentucky,21181.0,625,9.0
+2021-08-07,Nicholas,West Virginia,54067.0,1979,24.0
+2021-08-08,Nicholas,Kentucky,21181.0,625,9.0
+2021-08-08,Nicholas,West Virginia,54067.0,1979,24.0
+2021-08-09,Nicholas,Kentucky,21181.0,628,9.0
+2021-08-09,Nicholas,West Virginia,54067.0,1989,25.0
+2021-08-10,Nicholas,Kentucky,21181.0,630,9.0
+2021-08-10,Nicholas,West Virginia,54067.0,1990,25.0
+2021-08-11,Nicholas,Kentucky,21181.0,635,9.0
+2021-08-11,Nicholas,West Virginia,54067.0,1994,25.0
+2021-08-12,Nicholas,Kentucky,21181.0,637,9.0
+2021-08-12,Nicholas,West Virginia,54067.0,1998,25.0
+2021-08-13,Nicholas,Kentucky,21181.0,641,9.0
+2021-08-13,Nicholas,West Virginia,54067.0,2001,25.0
+2021-08-14,Nicholas,Kentucky,21181.0,641,9.0
+2021-08-14,Nicholas,West Virginia,54067.0,2001,25.0
+2021-08-15,Nicholas,Kentucky,21181.0,641,9.0
+2021-08-15,Nicholas,West Virginia,54067.0,2001,25.0
+2021-08-16,Nicholas,Kentucky,21181.0,655,9.0
+2021-08-16,Nicholas,West Virginia,54067.0,2029,25.0
+2021-08-17,Nicholas,Kentucky,21181.0,655,9.0
+2021-08-17,Nicholas,West Virginia,54067.0,2043,26.0
+2021-08-18,Nicholas,Kentucky,21181.0,658,9.0
+2021-08-18,Nicholas,West Virginia,54067.0,2051,26.0
+2021-08-19,Nicholas,Kentucky,21181.0,667,9.0
+2021-08-19,Nicholas,West Virginia,54067.0,2062,26.0
+2021-08-20,Nicholas,Kentucky,21181.0,674,9.0
+2021-08-20,Nicholas,West Virginia,54067.0,2077,26.0
+2021-08-21,Nicholas,Kentucky,21181.0,674,9.0
+2021-08-21,Nicholas,West Virginia,54067.0,2077,26.0
+2021-08-22,Nicholas,Kentucky,21181.0,674,9.0
+2021-08-22,Nicholas,West Virginia,54067.0,2077,26.0
+2021-08-23,Nicholas,Kentucky,21181.0,695,9.0
+2021-08-23,Nicholas,West Virginia,54067.0,2111,26.0
+2021-08-24,Nicholas,Kentucky,21181.0,701,9.0
+2021-08-24,Nicholas,West Virginia,54067.0,2132,26.0
+2021-08-25,Nicholas,Kentucky,21181.0,704,9.0
+2021-08-25,Nicholas,West Virginia,54067.0,2151,27.0
+2021-08-26,Nicholas,Kentucky,21181.0,713,9.0
+2021-08-26,Nicholas,West Virginia,54067.0,2177,29.0
+2021-08-27,Nicholas,Kentucky,21181.0,726,9.0
+2021-08-27,Nicholas,West Virginia,54067.0,2197,29.0
+2021-08-28,Nicholas,Kentucky,21181.0,726,9.0
+2021-08-28,Nicholas,West Virginia,54067.0,2197,29.0
+2021-08-29,Nicholas,Kentucky,21181.0,726,9.0
+2021-08-29,Nicholas,West Virginia,54067.0,2258,29.0
+2021-08-30,Nicholas,Kentucky,21181.0,758,10.0
+2021-08-30,Nicholas,West Virginia,54067.0,2288,29.0
+2021-08-31,Nicholas,Kentucky,21181.0,775,10.0
+2021-08-31,Nicholas,West Virginia,54067.0,2303,29.0
+2021-09-01,Nicholas,Kentucky,21181.0,780,10.0
+2021-09-01,Nicholas,West Virginia,54067.0,2315,29.0
+2021-09-02,Nicholas,Kentucky,21181.0,786,10.0
+2021-09-02,Nicholas,West Virginia,54067.0,2348,29.0
+2021-09-03,Nicholas,Kentucky,21181.0,798,10.0
+2021-09-03,Nicholas,West Virginia,54067.0,2380,29.0
+2021-09-04,Nicholas,Kentucky,21181.0,798,10.0
+2021-09-04,Nicholas,West Virginia,54067.0,2408,29.0
+2021-09-05,Nicholas,Kentucky,21181.0,798,10.0
+2021-09-05,Nicholas,West Virginia,54067.0,2438,29.0
+2021-09-06,Nicholas,Kentucky,21181.0,798,10.0
+2021-09-06,Nicholas,West Virginia,54067.0,2467,29.0
+2021-09-07,Nicholas,Kentucky,21181.0,825,10.0
+2021-09-07,Nicholas,West Virginia,54067.0,2482,29.0
+2021-09-08,Nicholas,Kentucky,21181.0,833,10.0
+2021-09-08,Nicholas,West Virginia,54067.0,2512,29.0
+2021-09-09,Nicholas,Kentucky,21181.0,841,10.0
+2021-09-09,Nicholas,West Virginia,54067.0,2531,29.0
+2021-09-10,Nicholas,Kentucky,21181.0,851,10.0
+2021-09-10,Nicholas,West Virginia,54067.0,2582,29.0
+2021-09-11,Nicholas,Kentucky,21181.0,851,10.0
+2021-09-11,Nicholas,West Virginia,54067.0,2627,29.0
+2021-09-12,Nicholas,Kentucky,21181.0,851,10.0
+2021-09-12,Nicholas,West Virginia,54067.0,2657,29.0
+2021-09-13,Nicholas,Kentucky,21181.0,867,10.0
+2021-09-13,Nicholas,West Virginia,54067.0,2685,29.0
+2021-09-14,Nicholas,Kentucky,21181.0,876,10.0
+2021-09-14,Nicholas,West Virginia,54067.0,2704,29.0
+2021-09-15,Nicholas,Kentucky,21181.0,880,10.0
+2021-09-15,Nicholas,West Virginia,54067.0,2721,29.0
+2021-09-16,Nicholas,Kentucky,21181.0,887,10.0
+2021-09-16,Nicholas,West Virginia,54067.0,2751,29.0
+2021-09-17,Nicholas,Kentucky,21181.0,894,10.0
+2021-09-17,Nicholas,West Virginia,54067.0,2795,29.0
+2021-09-18,Nicholas,Kentucky,21181.0,894,10.0
+2021-09-18,Nicholas,West Virginia,54067.0,2825,29.0
+2021-09-19,Nicholas,Kentucky,21181.0,894,10.0
+2021-09-19,Nicholas,West Virginia,54067.0,2853,29.0
+2021-09-20,Nicholas,Kentucky,21181.0,912,14.0
+2021-09-20,Nicholas,West Virginia,54067.0,2876,30.0
+2021-09-21,Nicholas,Kentucky,21181.0,923,14.0
+2021-09-21,Nicholas,West Virginia,54067.0,2882,30.0
+2021-09-22,Nicholas,Kentucky,21181.0,936,14.0
+2021-09-22,Nicholas,West Virginia,54067.0,2908,31.0
+2021-09-23,Nicholas,Kentucky,21181.0,953,14.0
+2021-09-23,Nicholas,West Virginia,54067.0,2940,32.0
+2021-09-24,Nicholas,Kentucky,21181.0,966,14.0
+2021-09-24,Nicholas,West Virginia,54067.0,2983,32.0
+2021-09-25,Nicholas,Kentucky,21181.0,966,14.0
+2021-09-25,Nicholas,West Virginia,54067.0,3001,32.0
+2021-09-26,Nicholas,Kentucky,21181.0,966,14.0
+2021-09-26,Nicholas,West Virginia,54067.0,3020,32.0
+2021-09-27,Nicholas,Kentucky,21181.0,989,14.0
+2021-09-27,Nicholas,West Virginia,54067.0,3045,32.0
+2021-09-28,Nicholas,Kentucky,21181.0,999,14.0
+2021-09-28,Nicholas,West Virginia,54067.0,3069,32.0
+2021-09-29,Nicholas,Kentucky,21181.0,1015,14.0
+2021-09-29,Nicholas,West Virginia,54067.0,3097,33.0
+2021-09-30,Nicholas,Kentucky,21181.0,1024,14.0
+2021-09-30,Nicholas,West Virginia,54067.0,3128,34.0
+2021-10-01,Nicholas,Kentucky,21181.0,1037,14.0
+2021-10-01,Nicholas,West Virginia,54067.0,3150,34.0
+2021-10-02,Nicholas,Kentucky,21181.0,1037,14.0
+2021-10-02,Nicholas,West Virginia,54067.0,3176,34.0
+2021-10-03,Nicholas,Kentucky,21181.0,1037,14.0
+2021-10-03,Nicholas,West Virginia,54067.0,3186,34.0
+2021-10-04,Nicholas,Kentucky,21181.0,1051,15.0
+2021-10-04,Nicholas,West Virginia,54067.0,3203,35.0
+2021-10-05,Nicholas,Kentucky,21181.0,1063,15.0
+2021-10-05,Nicholas,West Virginia,54067.0,3209,35.0
+2021-10-06,Nicholas,Kentucky,21181.0,1075,15.0
+2021-10-06,Nicholas,West Virginia,54067.0,3222,36.0
+2021-10-07,Nicholas,Kentucky,21181.0,1088,15.0
+2021-10-07,Nicholas,West Virginia,54067.0,3247,38.0
+2021-10-08,Nicholas,Kentucky,21181.0,1092,15.0
+2021-10-08,Nicholas,West Virginia,54067.0,3274,38.0
+2021-10-09,Nicholas,Kentucky,21181.0,1092,15.0
+2021-10-09,Nicholas,West Virginia,54067.0,3300,38.0
+2021-10-10,Nicholas,Kentucky,21181.0,1092,15.0
+2021-10-10,Nicholas,West Virginia,54067.0,3323,38.0
+2021-10-11,Nicholas,Kentucky,21181.0,1101,15.0
+2021-10-11,Nicholas,West Virginia,54067.0,3338,38.0
+2021-10-12,Nicholas,Kentucky,21181.0,1115,15.0
+2021-10-12,Nicholas,West Virginia,54067.0,3350,38.0
+2021-10-13,Nicholas,Kentucky,21181.0,1127,15.0
+2021-10-13,Nicholas,West Virginia,54067.0,3374,38.0
+2021-10-14,Nicholas,Kentucky,21181.0,1131,15.0
+2021-10-14,Nicholas,West Virginia,54067.0,3406,38.0
+2021-10-15,Nicholas,Kentucky,21181.0,1132,17.0
+2021-10-15,Nicholas,West Virginia,54067.0,3433,39.0
+2021-10-16,Nicholas,Kentucky,21181.0,1132,17.0
+2021-10-16,Nicholas,West Virginia,54067.0,3468,39.0
+2021-10-17,Nicholas,Kentucky,21181.0,1132,17.0
+2021-10-17,Nicholas,West Virginia,54067.0,3485,39.0
+2021-10-18,Nicholas,Kentucky,21181.0,1140,17.0
+2021-10-18,Nicholas,West Virginia,54067.0,3511,40.0
+2021-10-19,Nicholas,Kentucky,21181.0,1149,17.0
+2021-10-19,Nicholas,West Virginia,54067.0,3525,40.0
+2021-10-20,Nicholas,Kentucky,21181.0,1167,17.0
+2021-10-20,Nicholas,West Virginia,54067.0,3540,42.0
+2021-10-21,Nicholas,Kentucky,21181.0,1172,17.0
+2021-10-21,Nicholas,West Virginia,54067.0,3564,43.0
+2021-10-22,Nicholas,Kentucky,21181.0,1183,17.0
+2021-10-22,Nicholas,West Virginia,54067.0,3580,44.0
+2021-10-23,Nicholas,Kentucky,21181.0,1183,17.0
+2021-10-23,Nicholas,West Virginia,54067.0,3599,44.0
+2021-10-24,Nicholas,Kentucky,21181.0,1183,17.0
+2021-10-24,Nicholas,West Virginia,54067.0,3616,44.0
+2021-10-25,Nicholas,Kentucky,21181.0,1184,17.0
+2021-10-25,Nicholas,West Virginia,54067.0,3632,46.0
+2021-10-26,Nicholas,Kentucky,21181.0,1184,17.0
+2021-10-26,Nicholas,West Virginia,54067.0,3648,47.0
+2021-10-27,Nicholas,Kentucky,21181.0,1185,17.0
+2021-10-27,Nicholas,West Virginia,54067.0,3656,47.0
+2021-10-28,Nicholas,Kentucky,21181.0,1189,17.0
+2021-10-28,Nicholas,West Virginia,54067.0,3673,48.0
+2021-10-29,Nicholas,Kentucky,21181.0,1192,17.0
+2021-10-29,Nicholas,West Virginia,54067.0,3703,48.0
+2021-10-30,Nicholas,Kentucky,21181.0,1192,17.0
+2021-10-30,Nicholas,West Virginia,54067.0,3724,48.0
+2021-10-31,Nicholas,Kentucky,21181.0,1192,17.0
+2021-10-31,Nicholas,West Virginia,54067.0,3735,48.0
+2021-11-01,Nicholas,Kentucky,21181.0,1194,18.0
+2021-11-01,Nicholas,West Virginia,54067.0,3752,49.0
+2021-11-02,Nicholas,Kentucky,21181.0,1195,18.0
+2021-11-02,Nicholas,West Virginia,54067.0,3774,49.0
+2021-11-03,Nicholas,Kentucky,21181.0,1196,18.0
+2021-11-03,Nicholas,West Virginia,54067.0,3795,49.0
+2021-11-04,Nicholas,Kentucky,21181.0,1202,18.0
+2021-11-04,Nicholas,West Virginia,54067.0,3812,50.0
+2021-11-05,Nicholas,Kentucky,21181.0,1205,19.0
+2021-11-05,Nicholas,West Virginia,54067.0,3832,50.0
+2021-11-06,Nicholas,Kentucky,21181.0,1205,19.0
+2021-11-06,Nicholas,West Virginia,54067.0,3872,50.0
+2021-11-07,Nicholas,Kentucky,21181.0,1205,19.0
+2021-11-07,Nicholas,West Virginia,54067.0,3896,50.0
+2021-11-08,Nicholas,Kentucky,21181.0,1209,19.0
+2021-11-08,Nicholas,West Virginia,54067.0,3902,51.0
+2021-11-09,Nicholas,Kentucky,21181.0,1214,19.0
+2021-11-09,Nicholas,West Virginia,54067.0,3914,51.0
+2021-11-10,Nicholas,Kentucky,21181.0,1216,19.0
+2021-11-10,Nicholas,West Virginia,54067.0,3929,53.0
+2021-11-11,Nicholas,Kentucky,21181.0,1216,19.0
+2021-11-11,Nicholas,West Virginia,54067.0,3950,54.0
+2021-11-12,Nicholas,Kentucky,21181.0,1219,19.0
+2021-11-12,Nicholas,West Virginia,54067.0,3961,54.0
+2021-11-13,Nicholas,Kentucky,21181.0,1219,19.0
+2021-11-13,Nicholas,West Virginia,54067.0,3975,54.0
+2021-11-14,Nicholas,Kentucky,21181.0,1219,19.0
+2021-11-14,Nicholas,West Virginia,54067.0,3998,54.0
+2021-11-15,Nicholas,Kentucky,21181.0,1219,19.0
+2021-11-15,Nicholas,West Virginia,54067.0,4019,54.0
+2021-11-16,Nicholas,Kentucky,21181.0,1223,19.0
+2021-11-16,Nicholas,West Virginia,54067.0,4030,56.0
+2021-11-17,Nicholas,Kentucky,21181.0,1227,20.0
+2021-11-17,Nicholas,West Virginia,54067.0,4044,56.0
+2021-11-18,Nicholas,Kentucky,21181.0,1233,21.0
+2021-11-18,Nicholas,West Virginia,54067.0,4071,57.0
+2021-11-19,Nicholas,Kentucky,21181.0,1239,22.0
+2021-11-19,Nicholas,West Virginia,54067.0,4095,57.0
+2021-11-20,Nicholas,Kentucky,21181.0,1239,22.0
+2021-11-20,Nicholas,West Virginia,54067.0,4115,57.0
+2021-11-21,Nicholas,Kentucky,21181.0,1239,22.0
+2021-11-21,Nicholas,West Virginia,54067.0,4126,57.0
+2021-11-22,Nicholas,Kentucky,21181.0,1242,22.0
+2021-11-22,Nicholas,West Virginia,54067.0,4138,58.0
+2021-11-23,Nicholas,Kentucky,21181.0,1246,22.0
+2021-11-23,Nicholas,West Virginia,54067.0,4146,59.0
+2021-11-24,Nicholas,Kentucky,21181.0,1253,23.0
+2021-11-24,Nicholas,West Virginia,54067.0,4170,61.0
+2021-11-25,Nicholas,Kentucky,21181.0,1253,23.0
+2021-11-25,Nicholas,West Virginia,54067.0,4170,61.0
+2021-11-26,Nicholas,Kentucky,21181.0,1253,23.0
+2021-11-26,Nicholas,West Virginia,54067.0,4170,61.0
+2021-11-27,Nicholas,Kentucky,21181.0,1253,23.0
+2021-11-27,Nicholas,West Virginia,54067.0,4170,61.0
+2021-11-28,Nicholas,Kentucky,21181.0,1253,23.0
+2021-11-28,Nicholas,West Virginia,54067.0,4170,61.0
+2021-11-29,Nicholas,Kentucky,21181.0,1265,24.0
+2021-11-29,Nicholas,West Virginia,54067.0,4261,65.0
+2021-11-30,Nicholas,Kentucky,21181.0,1266,24.0
+2021-11-30,Nicholas,West Virginia,54067.0,4276,64.0
+2021-12-01,Nicholas,Kentucky,21181.0,1268,24.0
+2021-12-01,Nicholas,West Virginia,54067.0,4300,66.0
+2021-12-02,Nicholas,Kentucky,21181.0,1272,24.0
+2021-12-02,Nicholas,West Virginia,54067.0,4329,67.0
+2021-12-03,Nicholas,Kentucky,21181.0,1275,24.0
+2021-12-03,Nicholas,West Virginia,54067.0,4355,67.0
+2021-12-04,Nicholas,Kentucky,21181.0,1275,24.0
+2021-12-04,Nicholas,West Virginia,54067.0,4371,67.0
+2021-12-05,Nicholas,Kentucky,21181.0,1275,24.0
+2021-12-05,Nicholas,West Virginia,54067.0,4401,67.0
+2021-12-06,Nicholas,Kentucky,21181.0,1282,26.0
+2021-12-06,Nicholas,West Virginia,54067.0,4423,68.0
+2021-12-07,Nicholas,Kentucky,21181.0,1284,26.0
+2021-12-07,Nicholas,West Virginia,54067.0,4443,68.0
+2021-12-08,Nicholas,Kentucky,21181.0,1285,26.0
+2021-12-08,Nicholas,West Virginia,54067.0,4458,69.0
+2021-12-09,Nicholas,Kentucky,21181.0,1290,26.0
+2021-12-09,Nicholas,West Virginia,54067.0,4480,69.0
+2021-12-10,Nicholas,Kentucky,21181.0,1294,27.0
+2021-12-10,Nicholas,West Virginia,54067.0,4496,70.0
+2021-12-11,Nicholas,Kentucky,21181.0,1294,27.0
+2021-12-11,Nicholas,West Virginia,54067.0,4531,70.0
+2021-12-12,Nicholas,Kentucky,21181.0,1294,27.0
+2021-12-12,Nicholas,West Virginia,54067.0,4553,70.0
+2021-12-13,Nicholas,Kentucky,21181.0,1298,27.0
+2021-12-13,Nicholas,West Virginia,54067.0,4563,70.0
+2021-12-14,Nicholas,Kentucky,21181.0,1304,27.0
+2021-12-14,Nicholas,West Virginia,54067.0,4580,70.0
+2021-12-15,Nicholas,Kentucky,21181.0,1307,27.0
+2021-12-15,Nicholas,West Virginia,54067.0,4596,71.0
+2021-12-16,Nicholas,Kentucky,21181.0,1312,27.0
+2021-12-16,Nicholas,West Virginia,54067.0,4639,71.0
+2021-12-17,Nicholas,Kentucky,21181.0,1315,27.0
+2021-12-17,Nicholas,West Virginia,54067.0,4675,71.0
+2021-12-18,Nicholas,Kentucky,21181.0,1315,27.0
+2021-12-18,Nicholas,West Virginia,54067.0,4696,71.0
+2021-12-19,Nicholas,Kentucky,21181.0,1315,27.0
+2021-12-19,Nicholas,West Virginia,54067.0,4711,71.0
+2021-12-20,Nicholas,Kentucky,21181.0,1318,27.0
+2021-12-20,Nicholas,West Virginia,54067.0,4729,73.0
+2021-12-21,Nicholas,Kentucky,21181.0,1323,27.0
+2021-12-21,Nicholas,West Virginia,54067.0,4742,73.0
+2021-12-22,Nicholas,Kentucky,21181.0,1326,27.0
+2021-12-22,Nicholas,West Virginia,54067.0,4758,74.0
+2021-12-23,Nicholas,Kentucky,21181.0,1326,27.0
+2021-12-23,Nicholas,West Virginia,54067.0,4772,74.0
+2021-12-24,Nicholas,Kentucky,21181.0,1326,27.0
+2021-12-24,Nicholas,West Virginia,54067.0,4772,74.0
+2021-12-25,Nicholas,Kentucky,21181.0,1326,27.0
+2021-12-25,Nicholas,West Virginia,54067.0,4772,74.0
+2021-12-26,Nicholas,Kentucky,21181.0,1326,27.0
+2021-12-26,Nicholas,West Virginia,54067.0,4772,74.0
+2021-12-27,Nicholas,Kentucky,21181.0,1336,28.0
+2021-12-27,Nicholas,West Virginia,54067.0,4823,74.0
+2021-12-28,Nicholas,Kentucky,21181.0,1340,29.0
+2021-12-28,Nicholas,West Virginia,54067.0,4843,74.0
+2021-12-29,Nicholas,Kentucky,21181.0,1342,29.0
+2021-12-29,Nicholas,West Virginia,54067.0,4868,74.0
+2021-12-30,Nicholas,Kentucky,21181.0,1342,29.0
+2021-12-30,Nicholas,West Virginia,54067.0,4910,74.0
+2021-12-31,Nicholas,Kentucky,21181.0,1342,29.0
+2021-12-31,Nicholas,West Virginia,54067.0,4910,74.0
+2022-01-01,Nicholas,Kentucky,21181.0,1342,29.0
+2022-01-01,Nicholas,West Virginia,54067.0,4910,74.0
+2022-01-02,Nicholas,Kentucky,21181.0,1342,29.0
+2022-01-02,Nicholas,West Virginia,54067.0,4910,74.0
+2022-01-03,Nicholas,Kentucky,21181.0,1370,29.0
+2022-01-03,Nicholas,West Virginia,54067.0,4990,74.0
+2022-01-04,Nicholas,Kentucky,21181.0,1375,29.0
+2022-01-04,Nicholas,West Virginia,54067.0,5013,74.0
+2022-01-05,Nicholas,Kentucky,21181.0,1386,29.0
+2022-01-05,Nicholas,West Virginia,54067.0,5034,75.0
+2022-01-06,Nicholas,Kentucky,21181.0,1393,29.0
+2022-01-06,Nicholas,West Virginia,54067.0,5070,75.0
+2022-01-07,Nicholas,Kentucky,21181.0,1403,29.0
+2022-01-07,Nicholas,West Virginia,54067.0,5099,75.0
+2022-01-08,Nicholas,Kentucky,21181.0,1403,29.0
+2022-01-08,Nicholas,West Virginia,54067.0,5132,75.0
+2022-01-09,Nicholas,Kentucky,21181.0,1403,29.0
+2022-01-09,Nicholas,West Virginia,54067.0,5140,75.0
+2022-01-10,Nicholas,Kentucky,21181.0,1424,29.0
+2022-01-10,Nicholas,West Virginia,54067.0,5163,75.0
+2022-01-11,Nicholas,Kentucky,21181.0,1434,29.0
+2022-01-11,Nicholas,West Virginia,54067.0,5179,75.0
+2022-01-12,Nicholas,Kentucky,21181.0,1447,29.0
+2022-01-12,Nicholas,West Virginia,54067.0,5203,78.0
+2022-01-13,Nicholas,Kentucky,21181.0,1453,29.0
+2022-01-13,Nicholas,West Virginia,54067.0,5241,78.0
+2022-01-14,Nicholas,Kentucky,21181.0,1463,29.0
+2022-01-14,Nicholas,West Virginia,54067.0,5271,78.0
+2022-01-15,Nicholas,Kentucky,21181.0,1463,29.0
+2022-01-15,Nicholas,West Virginia,54067.0,5322,78.0
+2022-01-16,Nicholas,Kentucky,21181.0,1463,29.0
+2022-01-16,Nicholas,West Virginia,54067.0,5358,78.0
+2022-01-17,Nicholas,Kentucky,21181.0,1463,29.0
+2022-01-17,Nicholas,West Virginia,54067.0,5402,78.0
+2022-01-18,Nicholas,Kentucky,21181.0,1514,29.0
+2022-01-18,Nicholas,West Virginia,54067.0,5448,78.0
+2022-01-19,Nicholas,Kentucky,21181.0,1520,29.0
+2022-01-19,Nicholas,West Virginia,54067.0,5507,78.0
+2022-01-20,Nicholas,Kentucky,21181.0,1533,29.0
+2022-01-20,Nicholas,West Virginia,54067.0,5584,78.0
+2022-01-21,Nicholas,Kentucky,21181.0,1561,29.0
+2022-01-21,Nicholas,West Virginia,54067.0,5686,78.0
+2022-01-22,Nicholas,Kentucky,21181.0,1561,29.0
+2022-01-22,Nicholas,West Virginia,54067.0,5805,78.0
+2022-01-23,Nicholas,Kentucky,21181.0,1561,29.0
+2022-01-23,Nicholas,West Virginia,54067.0,5895,78.0
+2022-01-24,Nicholas,Kentucky,21181.0,1610,29.0
+2022-01-24,Nicholas,West Virginia,54067.0,5966,78.0
+2022-01-25,Nicholas,Kentucky,21181.0,1620,29.0
+2022-01-25,Nicholas,West Virginia,54067.0,6015,79.0
+2022-01-26,Nicholas,Kentucky,21181.0,1635,29.0
+2022-01-26,Nicholas,West Virginia,54067.0,6055,79.0
+2022-01-27,Nicholas,Kentucky,21181.0,1647,29.0
+2022-01-27,Nicholas,West Virginia,54067.0,6118,80.0
+2022-01-28,Nicholas,Kentucky,21181.0,1678,29.0
+2022-01-28,Nicholas,West Virginia,54067.0,6203,80.0
+2022-01-29,Nicholas,Kentucky,21181.0,1678,29.0
+2022-01-29,Nicholas,West Virginia,54067.0,6284,80.0
+2022-01-30,Nicholas,Kentucky,21181.0,1678,29.0
+2022-01-30,Nicholas,West Virginia,54067.0,6331,80.0
+2022-01-31,Nicholas,Kentucky,21181.0,1703,29.0
+2022-01-31,Nicholas,West Virginia,54067.0,6371,80.0
+2022-02-01,Nicholas,Kentucky,21181.0,1719,29.0
+2022-02-01,Nicholas,West Virginia,54067.0,6414,80.0
+2022-02-02,Nicholas,Kentucky,21181.0,1728,29.0
+2022-02-02,Nicholas,West Virginia,54067.0,6451,80.0
+2022-02-03,Nicholas,Kentucky,21181.0,1740,29.0
+2022-02-03,Nicholas,West Virginia,54067.0,6501,80.0
+2022-02-04,Nicholas,Kentucky,21181.0,1744,29.0
+2022-02-04,Nicholas,West Virginia,54067.0,6540,81.0
+2022-02-05,Nicholas,Kentucky,21181.0,1744,29.0
+2022-02-05,Nicholas,West Virginia,54067.0,6600,81.0
+2022-02-06,Nicholas,Kentucky,21181.0,1744,29.0
+2022-02-06,Nicholas,West Virginia,54067.0,6623,81.0
+2022-02-07,Nicholas,Kentucky,21181.0,1761,29.0
+2022-02-07,Nicholas,West Virginia,54067.0,6650,82.0
+2022-02-08,Nicholas,Kentucky,21181.0,1774,29.0
+2022-02-08,Nicholas,West Virginia,54067.0,6678,83.0
+2022-02-09,Nicholas,Kentucky,21181.0,1776,29.0
+2022-02-09,Nicholas,West Virginia,54067.0,6705,85.0
+2022-02-10,Nicholas,Kentucky,21181.0,1780,29.0
+2022-02-10,Nicholas,West Virginia,54067.0,6752,85.0
+2022-02-11,Nicholas,Kentucky,21181.0,1788,29.0
+2022-02-11,Nicholas,West Virginia,54067.0,6789,86.0
+2022-02-12,Nicholas,Kentucky,21181.0,1788,29.0
+2022-02-12,Nicholas,West Virginia,54067.0,6821,86.0
+2022-02-13,Nicholas,Kentucky,21181.0,1788,29.0
+2022-02-13,Nicholas,West Virginia,54067.0,6844,86.0
+2022-02-14,Nicholas,Kentucky,21181.0,1805,29.0
+2022-02-14,Nicholas,West Virginia,54067.0,6862,86.0
+2022-02-15,Nicholas,Kentucky,21181.0,1812,29.0
+2022-02-15,Nicholas,West Virginia,54067.0,6886,86.0
+2022-02-16,Nicholas,Kentucky,21181.0,1816,29.0
+2022-02-16,Nicholas,West Virginia,54067.0,6906,86.0
+2022-02-17,Nicholas,Kentucky,21181.0,1824,29.0
+2022-02-17,Nicholas,West Virginia,54067.0,6940,87.0
+2022-02-18,Nicholas,Kentucky,21181.0,1829,30.0
+2022-02-18,Nicholas,West Virginia,54067.0,6958,87.0
+2022-02-19,Nicholas,Kentucky,21181.0,1829,30.0
+2022-02-19,Nicholas,West Virginia,54067.0,6958,87.0
+2022-02-20,Nicholas,Kentucky,21181.0,1829,30.0
+2022-02-20,Nicholas,West Virginia,54067.0,6958,87.0
+2022-02-21,Nicholas,Kentucky,21181.0,1835,30.0
+2022-02-21,Nicholas,West Virginia,54067.0,7008,87.0
+2022-02-22,Nicholas,Kentucky,21181.0,1838,30.0
+2022-02-22,Nicholas,West Virginia,54067.0,7028,88.0
+2022-02-23,Nicholas,Kentucky,21181.0,1847,30.0
+2022-02-23,Nicholas,West Virginia,54067.0,7039,88.0
+2022-02-24,Nicholas,Kentucky,21181.0,1847,30.0
+2022-02-24,Nicholas,West Virginia,54067.0,7053,89.0
+2022-02-25,Nicholas,Kentucky,21181.0,1862,30.0
+2022-02-25,Nicholas,West Virginia,54067.0,7065,89.0
+2022-02-26,Nicholas,Kentucky,21181.0,1862,30.0
+2022-02-26,Nicholas,West Virginia,54067.0,7065,89.0
+2022-02-27,Nicholas,Kentucky,21181.0,1862,30.0
+2022-02-27,Nicholas,West Virginia,54067.0,7065,89.0
+2022-02-28,Nicholas,Kentucky,21181.0,1865,30.0
+2022-02-28,Nicholas,West Virginia,54067.0,7118,90.0
+2022-03-01,Nicholas,Kentucky,21181.0,1870,30.0
+2022-03-01,Nicholas,West Virginia,54067.0,7124,90.0
+2022-03-02,Nicholas,Kentucky,21181.0,1872,30.0
+2022-03-02,Nicholas,West Virginia,54067.0,7133,90.0
+2022-03-03,Nicholas,Kentucky,21181.0,1874,30.0
+2022-03-03,Nicholas,West Virginia,54067.0,7177,90.0
+2022-03-04,Nicholas,Kentucky,21181.0,1878,30.0
+2022-03-04,Nicholas,West Virginia,54067.0,7190,90.0
+2022-03-05,Nicholas,Kentucky,21181.0,1878,30.0
+2022-03-05,Nicholas,West Virginia,54067.0,7190,90.0
+2022-03-06,Nicholas,Kentucky,21181.0,1878,30.0
+2022-03-06,Nicholas,West Virginia,54067.0,7190,90.0
+2022-03-07,Nicholas,Kentucky,21181.0,1880,30.0
+2022-03-07,Nicholas,West Virginia,54067.0,7217,91.0
+2022-03-08,Nicholas,Kentucky,21181.0,1880,30.0
+2022-03-08,Nicholas,West Virginia,54067.0,7226,91.0
+2022-03-09,Nicholas,Kentucky,21181.0,1880,30.0
+2022-03-09,Nicholas,West Virginia,54067.0,7234,91.0
+2022-03-10,Nicholas,Kentucky,21181.0,1880,30.0
+2022-03-10,Nicholas,West Virginia,54067.0,7239,92.0
+2022-03-11,Nicholas,Kentucky,21181.0,1880,30.0
+2022-03-11,Nicholas,West Virginia,54067.0,7248,92.0
+2022-03-12,Nicholas,Kentucky,21181.0,1880,30.0
+2022-03-12,Nicholas,West Virginia,54067.0,7248,92.0
+2022-03-13,Nicholas,Kentucky,21181.0,1880,30.0
+2022-03-13,Nicholas,West Virginia,54067.0,7248,92.0
+2022-03-14,Nicholas,Kentucky,21181.0,1909,31.0
+2022-03-14,Nicholas,West Virginia,54067.0,7260,92.0
+2022-03-15,Nicholas,Kentucky,21181.0,1909,31.0
+2022-03-15,Nicholas,West Virginia,54067.0,7263,92.0
+2022-03-16,Nicholas,Kentucky,21181.0,1909,31.0
+2022-03-16,Nicholas,West Virginia,54067.0,7268,92.0
+2022-03-17,Nicholas,Kentucky,21181.0,1909,31.0
+2022-03-17,Nicholas,West Virginia,54067.0,7272,92.0
+2022-03-18,Nicholas,Kentucky,21181.0,1909,31.0
+2022-03-18,Nicholas,West Virginia,54067.0,7273,92.0
+2022-03-19,Nicholas,Kentucky,21181.0,1909,31.0
+2022-03-19,Nicholas,West Virginia,54067.0,7273,92.0
+2022-03-20,Nicholas,Kentucky,21181.0,1909,31.0
+2022-03-20,Nicholas,West Virginia,54067.0,7273,92.0
+2022-03-21,Nicholas,Kentucky,21181.0,1940,31.0
+2022-03-21,Nicholas,West Virginia,54067.0,7281,92.0
+2022-03-22,Nicholas,Kentucky,21181.0,1940,31.0
+2022-03-22,Nicholas,West Virginia,54067.0,7281,92.0
+2022-03-23,Nicholas,Kentucky,21181.0,1940,31.0
+2022-03-23,Nicholas,West Virginia,54067.0,7284,92.0
+2022-03-24,Nicholas,Kentucky,21181.0,1940,31.0
+2022-03-24,Nicholas,West Virginia,54067.0,7287,92.0
+2022-03-25,Nicholas,Kentucky,21181.0,1940,31.0
+2022-03-25,Nicholas,West Virginia,54067.0,7287,92.0
+2022-03-26,Nicholas,Kentucky,21181.0,1940,31.0
+2022-03-26,Nicholas,West Virginia,54067.0,7287,92.0
+2022-03-27,Nicholas,Kentucky,21181.0,1940,31.0
+2022-03-27,Nicholas,West Virginia,54067.0,7287,92.0
+2022-03-28,Nicholas,Kentucky,21181.0,1970,31.0
+2022-03-28,Nicholas,West Virginia,54067.0,7290,92.0
+2022-03-29,Nicholas,Kentucky,21181.0,1970,31.0
+2022-03-29,Nicholas,West Virginia,54067.0,7294,92.0
+2022-03-30,Nicholas,Kentucky,21181.0,1970,31.0
+2022-03-30,Nicholas,West Virginia,54067.0,7295,92.0
+2022-03-31,Nicholas,Kentucky,21181.0,1970,31.0
+2022-03-31,Nicholas,West Virginia,54067.0,7294,93.0
+2022-04-01,Nicholas,Kentucky,21181.0,1970,31.0
+2022-04-01,Nicholas,West Virginia,54067.0,7296,93.0
+2022-04-02,Nicholas,Kentucky,21181.0,1970,31.0
+2022-04-02,Nicholas,West Virginia,54067.0,7296,93.0
+2022-04-03,Nicholas,Kentucky,21181.0,1970,31.0
+2022-04-03,Nicholas,West Virginia,54067.0,7296,93.0
+2022-04-04,Nicholas,Kentucky,21181.0,2028,31.0
+2022-04-04,Nicholas,West Virginia,54067.0,7298,93.0
+2022-04-05,Nicholas,Kentucky,21181.0,2028,31.0
+2022-04-05,Nicholas,West Virginia,54067.0,7298,93.0
+2022-04-06,Nicholas,Kentucky,21181.0,2028,31.0
+2022-04-06,Nicholas,West Virginia,54067.0,7299,95.0
+2022-04-07,Nicholas,Kentucky,21181.0,2028,31.0
+2022-04-07,Nicholas,West Virginia,54067.0,7299,95.0
+2022-04-08,Nicholas,Kentucky,21181.0,2028,31.0
+2022-04-08,Nicholas,West Virginia,54067.0,7300,95.0
+2022-04-09,Nicholas,Kentucky,21181.0,2028,31.0
+2022-04-09,Nicholas,West Virginia,54067.0,7300,95.0

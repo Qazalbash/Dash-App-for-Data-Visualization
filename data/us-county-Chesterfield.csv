@@ -1,1505 +1,1505 @@
-,date,county,state,fips,cases,deaths
-2270,2020-03-14,Chesterfield,Virginia,51041.0,1,0.0
-2697,2020-03-15,Chesterfield,Virginia,51041.0,1,0.0
-3169,2020-03-16,Chesterfield,Virginia,51041.0,2,0.0
-3706,2020-03-17,Chesterfield,Virginia,51041.0,4,0.0
-4339,2020-03-18,Chesterfield,Virginia,51041.0,5,0.0
-5095,2020-03-19,Chesterfield,Virginia,51041.0,6,0.0
-5992,2020-03-20,Chesterfield,Virginia,51041.0,6,0.0
-7019,2020-03-21,Chesterfield,Virginia,51041.0,7,0.0
-8151,2020-03-22,Chesterfield,Virginia,51041.0,8,0.0
-9372,2020-03-23,Chesterfield,Virginia,51041.0,9,0.0
-10541,2020-03-24,Chesterfield,South Carolina,45025.0,1,0.0
-10719,2020-03-24,Chesterfield,Virginia,51041.0,10,0.0
-12012,2020-03-25,Chesterfield,South Carolina,45025.0,3,0.0
-12231,2020-03-25,Chesterfield,Virginia,51041.0,11,0.0
-13634,2020-03-26,Chesterfield,South Carolina,45025.0,3,0.0
-13868,2020-03-26,Chesterfield,Virginia,51041.0,12,0.0
-15381,2020-03-27,Chesterfield,South Carolina,45025.0,4,0.0
-15635,2020-03-27,Chesterfield,Virginia,51041.0,12,0.0
-17235,2020-03-28,Chesterfield,South Carolina,45025.0,4,0.0
-17509,2020-03-28,Chesterfield,Virginia,51041.0,12,0.0
-19175,2020-03-29,Chesterfield,South Carolina,45025.0,4,0.0
-19469,2020-03-29,Chesterfield,Virginia,51041.0,13,0.0
-21227,2020-03-30,Chesterfield,South Carolina,45025.0,6,0.0
-21532,2020-03-30,Chesterfield,Virginia,51041.0,21,0.0
-23365,2020-03-31,Chesterfield,South Carolina,45025.0,6,0.0
-23675,2020-03-31,Chesterfield,Virginia,51041.0,43,0.0
-25563,2020-04-01,Chesterfield,South Carolina,45025.0,9,0.0
-25891,2020-04-01,Chesterfield,Virginia,51041.0,59,0.0
-27837,2020-04-02,Chesterfield,South Carolina,45025.0,10,0.0
-28180,2020-04-02,Chesterfield,Virginia,51041.0,73,0.0
-30172,2020-04-03,Chesterfield,South Carolina,45025.0,10,0.0
-30525,2020-04-03,Chesterfield,Virginia,51041.0,89,0.0
-32563,2020-04-04,Chesterfield,South Carolina,45025.0,13,0.0
-32924,2020-04-04,Chesterfield,Virginia,51041.0,106,0.0
-34999,2020-04-05,Chesterfield,South Carolina,45025.0,13,0.0
-35362,2020-04-05,Chesterfield,Virginia,51041.0,108,0.0
-37474,2020-04-06,Chesterfield,South Carolina,45025.0,15,0.0
-37844,2020-04-06,Chesterfield,Virginia,51041.0,108,0.0
-39997,2020-04-07,Chesterfield,South Carolina,45025.0,16,0.0
-40375,2020-04-07,Chesterfield,Virginia,51041.0,128,0.0
-42557,2020-04-08,Chesterfield,South Carolina,45025.0,20,0.0
-42944,2020-04-08,Chesterfield,Virginia,51041.0,145,0.0
-45143,2020-04-09,Chesterfield,South Carolina,45025.0,21,0.0
-45538,2020-04-09,Chesterfield,Virginia,51041.0,158,0.0
-47760,2020-04-10,Chesterfield,South Carolina,45025.0,22,0.0
-48162,2020-04-10,Chesterfield,Virginia,51041.0,179,0.0
-50417,2020-04-11,Chesterfield,South Carolina,45025.0,22,0.0
-50820,2020-04-11,Chesterfield,Virginia,51041.0,203,0.0
-53090,2020-04-12,Chesterfield,South Carolina,45025.0,22,0.0
-53495,2020-04-12,Chesterfield,Virginia,51041.0,209,0.0
-55775,2020-04-13,Chesterfield,South Carolina,45025.0,23,0.0
-56184,2020-04-13,Chesterfield,Virginia,51041.0,211,5.0
-58478,2020-04-14,Chesterfield,South Carolina,45025.0,27,0.0
-58890,2020-04-14,Chesterfield,Virginia,51041.0,241,5.0
-61193,2020-04-15,Chesterfield,South Carolina,45025.0,28,0.0
-61609,2020-04-15,Chesterfield,Virginia,51041.0,254,5.0
-63919,2020-04-16,Chesterfield,South Carolina,45025.0,29,0.0
-64341,2020-04-16,Chesterfield,Virginia,51041.0,267,5.0
-66665,2020-04-17,Chesterfield,South Carolina,45025.0,31,0.0
-67089,2020-04-17,Chesterfield,Virginia,51041.0,291,5.0
-69423,2020-04-18,Chesterfield,South Carolina,45025.0,35,0.0
-69851,2020-04-18,Chesterfield,Virginia,51041.0,310,5.0
-72190,2020-04-19,Chesterfield,South Carolina,45025.0,36,0.0
-72621,2020-04-19,Chesterfield,Virginia,51041.0,311,5.0
-74965,2020-04-20,Chesterfield,South Carolina,45025.0,36,0.0
-75397,2020-04-20,Chesterfield,Virginia,51041.0,331,5.0
-77747,2020-04-21,Chesterfield,South Carolina,45025.0,37,0.0
-78179,2020-04-21,Chesterfield,Virginia,51041.0,346,7.0
-80537,2020-04-22,Chesterfield,South Carolina,45025.0,37,0.0
-80971,2020-04-22,Chesterfield,Virginia,51041.0,356,7.0
-83336,2020-04-23,Chesterfield,South Carolina,45025.0,39,0.0
-83772,2020-04-23,Chesterfield,Virginia,51041.0,402,7.0
-86140,2020-04-24,Chesterfield,South Carolina,45025.0,40,0.0
-86579,2020-04-24,Chesterfield,Virginia,51041.0,423,17.0
-88954,2020-04-25,Chesterfield,South Carolina,45025.0,44,0.0
-89394,2020-04-25,Chesterfield,Virginia,51041.0,440,18.0
-91770,2020-04-26,Chesterfield,South Carolina,45025.0,44,0.0
-92211,2020-04-26,Chesterfield,Virginia,51041.0,457,18.0
-94597,2020-04-27,Chesterfield,South Carolina,45025.0,46,0.0
-95040,2020-04-27,Chesterfield,Virginia,51041.0,457,18.0
-97436,2020-04-28,Chesterfield,South Carolina,45025.0,47,0.0
-97882,2020-04-28,Chesterfield,Virginia,51041.0,488,19.0
-100285,2020-04-29,Chesterfield,South Carolina,45025.0,48,0.0
-100732,2020-04-29,Chesterfield,Virginia,51041.0,501,19.0
-103138,2020-04-30,Chesterfield,South Carolina,45025.0,51,1.0
-103587,2020-04-30,Chesterfield,Virginia,51041.0,531,20.0
-106001,2020-05-01,Chesterfield,South Carolina,45025.0,58,1.0
-106451,2020-05-01,Chesterfield,Virginia,51041.0,557,24.0
-108868,2020-05-02,Chesterfield,South Carolina,45025.0,59,1.0
-109320,2020-05-02,Chesterfield,Virginia,51041.0,593,24.0
-111742,2020-05-03,Chesterfield,South Carolina,45025.0,59,1.0
-112194,2020-05-03,Chesterfield,Virginia,51041.0,601,24.0
-114624,2020-05-04,Chesterfield,South Carolina,45025.0,60,1.0
-115077,2020-05-04,Chesterfield,Virginia,51041.0,601,24.0
-117580,2020-05-05,Chesterfield,South Carolina,45025.0,61,1.0
-118036,2020-05-05,Chesterfield,Virginia,51041.0,646,25.0
-120542,2020-05-06,Chesterfield,South Carolina,45025.0,65,1.0
-121000,2020-05-06,Chesterfield,Virginia,51041.0,646,25.0
-123520,2020-05-07,Chesterfield,South Carolina,45025.0,69,1.0
-123981,2020-05-07,Chesterfield,Virginia,51041.0,707,26.0
-126503,2020-05-08,Chesterfield,South Carolina,45025.0,72,1.0
-126966,2020-05-08,Chesterfield,Virginia,51041.0,741,26.0
-129492,2020-05-09,Chesterfield,South Carolina,45025.0,75,1.0
-129955,2020-05-09,Chesterfield,Virginia,51041.0,765,26.0
-132481,2020-05-10,Chesterfield,South Carolina,45025.0,79,1.0
-132945,2020-05-10,Chesterfield,Virginia,51041.0,787,26.0
-135472,2020-05-11,Chesterfield,South Carolina,45025.0,80,1.0
-135935,2020-05-11,Chesterfield,Virginia,51041.0,789,26.0
-138462,2020-05-12,Chesterfield,South Carolina,45025.0,80,1.0
-138926,2020-05-12,Chesterfield,Virginia,51041.0,837,28.0
-141458,2020-05-13,Chesterfield,South Carolina,45025.0,85,1.0
-141922,2020-05-13,Chesterfield,Virginia,51041.0,862,29.0
-144454,2020-05-14,Chesterfield,South Carolina,45025.0,90,1.0
-144919,2020-05-14,Chesterfield,Virginia,51041.0,909,29.0
-147455,2020-05-15,Chesterfield,South Carolina,45025.0,93,1.0
-147922,2020-05-15,Chesterfield,Virginia,51041.0,946,29.0
-150463,2020-05-16,Chesterfield,South Carolina,45025.0,94,1.0
-150931,2020-05-16,Chesterfield,Virginia,51041.0,978,29.0
-153474,2020-05-17,Chesterfield,South Carolina,45025.0,96,1.0
-153942,2020-05-17,Chesterfield,Virginia,51041.0,988,29.0
-156491,2020-05-18,Chesterfield,South Carolina,45025.0,98,1.0
-156959,2020-05-18,Chesterfield,Virginia,51041.0,1002,29.0
-159512,2020-05-19,Chesterfield,South Carolina,45025.0,101,1.0
-159983,2020-05-19,Chesterfield,Virginia,51041.0,1043,29.0
-162539,2020-05-20,Chesterfield,South Carolina,45025.0,105,1.0
-163011,2020-05-20,Chesterfield,Virginia,51041.0,1100,29.0
-165568,2020-05-21,Chesterfield,South Carolina,45025.0,108,1.0
-166040,2020-05-21,Chesterfield,Virginia,51041.0,1132,29.0
-168604,2020-05-22,Chesterfield,South Carolina,45025.0,118,1.0
-169076,2020-05-22,Chesterfield,Virginia,51041.0,1152,29.0
-171643,2020-05-23,Chesterfield,South Carolina,45025.0,129,2.0
-172117,2020-05-23,Chesterfield,Virginia,51041.0,1193,29.0
-174685,2020-05-24,Chesterfield,South Carolina,45025.0,131,2.0
-175160,2020-05-24,Chesterfield,Virginia,51041.0,1193,29.0
-177729,2020-05-25,Chesterfield,South Carolina,45025.0,132,3.0
-178205,2020-05-25,Chesterfield,Virginia,51041.0,1200,30.0
-180772,2020-05-26,Chesterfield,South Carolina,45025.0,141,3.0
-181249,2020-05-26,Chesterfield,Virginia,51041.0,1213,32.0
-183822,2020-05-27,Chesterfield,South Carolina,45025.0,149,3.0
-184300,2020-05-27,Chesterfield,Virginia,51041.0,1263,32.0
-186879,2020-05-28,Chesterfield,South Carolina,45025.0,151,4.0
-187357,2020-05-28,Chesterfield,Virginia,51041.0,1331,36.0
-189941,2020-05-29,Chesterfield,South Carolina,45025.0,165,4.0
-190421,2020-05-29,Chesterfield,Virginia,51041.0,1400,35.0
-193006,2020-05-30,Chesterfield,South Carolina,45025.0,180,4.0
-193487,2020-05-30,Chesterfield,Virginia,51041.0,1461,35.0
-196075,2020-05-31,Chesterfield,South Carolina,45025.0,196,4.0
-196557,2020-05-31,Chesterfield,Virginia,51041.0,1548,35.0
-199148,2020-06-01,Chesterfield,South Carolina,45025.0,200,4.0
-199630,2020-06-01,Chesterfield,Virginia,51041.0,1568,35.0
-202223,2020-06-02,Chesterfield,South Carolina,45025.0,203,4.0
-202706,2020-06-02,Chesterfield,Virginia,51041.0,1627,37.0
-205300,2020-06-03,Chesterfield,South Carolina,45025.0,207,4.0
-205785,2020-06-03,Chesterfield,Virginia,51041.0,1661,37.0
-208381,2020-06-04,Chesterfield,South Carolina,45025.0,221,4.0
-208867,2020-06-04,Chesterfield,Virginia,51041.0,1721,37.0
-211463,2020-06-05,Chesterfield,South Carolina,45025.0,236,4.0
-211952,2020-06-05,Chesterfield,Virginia,51041.0,1761,37.0
-214549,2020-06-06,Chesterfield,South Carolina,45025.0,242,5.0
-215039,2020-06-06,Chesterfield,Virginia,51041.0,1797,37.0
-217639,2020-06-07,Chesterfield,South Carolina,45025.0,247,5.0
-218129,2020-06-07,Chesterfield,Virginia,51041.0,1831,37.0
-220731,2020-06-08,Chesterfield,South Carolina,45025.0,250,6.0
-221221,2020-06-08,Chesterfield,Virginia,51041.0,1866,37.0
-223826,2020-06-09,Chesterfield,South Carolina,45025.0,256,6.0
-224317,2020-06-09,Chesterfield,Virginia,51041.0,1942,37.0
-226926,2020-06-10,Chesterfield,South Carolina,45025.0,265,7.0
-227417,2020-06-10,Chesterfield,Virginia,51041.0,1995,38.0
-230030,2020-06-11,Chesterfield,South Carolina,45025.0,272,7.0
-230521,2020-06-11,Chesterfield,Virginia,51041.0,2041,38.0
-233135,2020-06-12,Chesterfield,South Carolina,45025.0,281,7.0
-233626,2020-06-12,Chesterfield,Virginia,51041.0,2109,38.0
-236240,2020-06-13,Chesterfield,South Carolina,45025.0,284,7.0
-236733,2020-06-13,Chesterfield,Virginia,51041.0,2150,39.0
-239348,2020-06-14,Chesterfield,South Carolina,45025.0,291,7.0
-239841,2020-06-14,Chesterfield,Virginia,51041.0,2181,39.0
-242457,2020-06-15,Chesterfield,South Carolina,45025.0,292,7.0
-242952,2020-06-15,Chesterfield,Virginia,51041.0,2194,39.0
-245569,2020-06-16,Chesterfield,South Carolina,45025.0,293,8.0
-246064,2020-06-16,Chesterfield,Virginia,51041.0,2259,39.0
-248682,2020-06-17,Chesterfield,South Carolina,45025.0,295,8.0
-249176,2020-06-17,Chesterfield,Virginia,51041.0,2316,40.0
-251797,2020-06-18,Chesterfield,South Carolina,45025.0,300,8.0
-252291,2020-06-18,Chesterfield,Virginia,51041.0,2375,40.0
-254912,2020-06-19,Chesterfield,South Carolina,45025.0,306,9.0
-255410,2020-06-19,Chesterfield,Virginia,51041.0,2456,46.0
-258038,2020-06-20,Chesterfield,South Carolina,45025.0,309,9.0
-258537,2020-06-20,Chesterfield,Virginia,51041.0,2541,46.0
-261165,2020-06-21,Chesterfield,South Carolina,45025.0,311,10.0
-261664,2020-06-21,Chesterfield,Virginia,51041.0,2557,46.0
-264293,2020-06-22,Chesterfield,South Carolina,45025.0,322,10.0
-264793,2020-06-22,Chesterfield,Virginia,51041.0,2577,46.0
-267421,2020-06-23,Chesterfield,South Carolina,45025.0,328,12.0
-267922,2020-06-23,Chesterfield,Virginia,51041.0,2651,49.0
-270555,2020-06-24,Chesterfield,South Carolina,45025.0,335,12.0
-271056,2020-06-24,Chesterfield,Virginia,51041.0,2710,49.0
-273694,2020-06-25,Chesterfield,South Carolina,45025.0,338,13.0
-274196,2020-06-25,Chesterfield,Virginia,51041.0,2735,49.0
-276841,2020-06-26,Chesterfield,South Carolina,45025.0,344,13.0
-277344,2020-06-26,Chesterfield,Virginia,51041.0,2784,49.0
-279989,2020-06-27,Chesterfield,South Carolina,45025.0,354,13.0
-280492,2020-06-27,Chesterfield,Virginia,51041.0,2842,49.0
-283135,2020-06-28,Chesterfield,South Carolina,45025.0,359,13.0
-283638,2020-06-28,Chesterfield,Virginia,51041.0,2856,49.0
-286280,2020-06-29,Chesterfield,South Carolina,45025.0,363,14.0
-286784,2020-06-29,Chesterfield,Virginia,51041.0,2869,49.0
-289431,2020-06-30,Chesterfield,South Carolina,45025.0,366,14.0
-289934,2020-06-30,Chesterfield,Virginia,51041.0,2897,50.0
-292583,2020-07-01,Chesterfield,South Carolina,45025.0,373,14.0
-293087,2020-07-01,Chesterfield,Virginia,51041.0,2914,53.0
-295739,2020-07-02,Chesterfield,South Carolina,45025.0,376,14.0
-296242,2020-07-02,Chesterfield,Virginia,51041.0,2939,53.0
-298898,2020-07-03,Chesterfield,South Carolina,45025.0,385,14.0
-299404,2020-07-03,Chesterfield,Virginia,51041.0,2974,53.0
-302062,2020-07-04,Chesterfield,South Carolina,45025.0,389,14.0
-302568,2020-07-04,Chesterfield,Virginia,51041.0,2972,53.0
-305225,2020-07-05,Chesterfield,South Carolina,45025.0,393,14.0
-305732,2020-07-05,Chesterfield,Virginia,51041.0,3015,53.0
-308392,2020-07-06,Chesterfield,South Carolina,45025.0,400,15.0
-308900,2020-07-06,Chesterfield,Virginia,51041.0,3026,53.0
-311561,2020-07-07,Chesterfield,South Carolina,45025.0,407,15.0
-312069,2020-07-07,Chesterfield,Virginia,51041.0,3059,56.0
-314733,2020-07-08,Chesterfield,South Carolina,45025.0,421,15.0
-315244,2020-07-08,Chesterfield,Virginia,51041.0,3078,59.0
-317906,2020-07-09,Chesterfield,South Carolina,45025.0,422,15.0
-318417,2020-07-09,Chesterfield,Virginia,51041.0,3108,61.0
-321084,2020-07-10,Chesterfield,South Carolina,45025.0,432,15.0
-321596,2020-07-10,Chesterfield,Virginia,51041.0,3135,62.0
-324264,2020-07-11,Chesterfield,South Carolina,45025.0,438,15.0
-324777,2020-07-11,Chesterfield,Virginia,51041.0,3169,62.0
-327449,2020-07-12,Chesterfield,South Carolina,45025.0,449,15.0
-327962,2020-07-12,Chesterfield,Virginia,51041.0,3189,62.0
-330635,2020-07-13,Chesterfield,South Carolina,45025.0,459,15.0
-331148,2020-07-13,Chesterfield,Virginia,51041.0,3216,62.0
-333827,2020-07-14,Chesterfield,South Carolina,45025.0,468,15.0
-334341,2020-07-14,Chesterfield,Virginia,51041.0,3278,63.0
-337021,2020-07-15,Chesterfield,South Carolina,45025.0,476,15.0
-337536,2020-07-15,Chesterfield,Virginia,51041.0,3324,63.0
-340218,2020-07-16,Chesterfield,South Carolina,45025.0,486,16.0
-340732,2020-07-16,Chesterfield,Virginia,51041.0,3359,64.0
-343416,2020-07-17,Chesterfield,South Carolina,45025.0,491,16.0
-343931,2020-07-17,Chesterfield,Virginia,51041.0,3402,64.0
-346616,2020-07-18,Chesterfield,South Carolina,45025.0,498,17.0
-347131,2020-07-18,Chesterfield,Virginia,51041.0,3427,65.0
-349816,2020-07-19,Chesterfield,South Carolina,45025.0,523,17.0
-350332,2020-07-19,Chesterfield,Virginia,51041.0,3447,65.0
-353019,2020-07-20,Chesterfield,South Carolina,45025.0,535,17.0
-353534,2020-07-20,Chesterfield,Virginia,51041.0,3472,65.0
-356222,2020-07-21,Chesterfield,South Carolina,45025.0,551,17.0
-356737,2020-07-21,Chesterfield,Virginia,51041.0,3538,65.0
-359426,2020-07-22,Chesterfield,South Carolina,45025.0,565,17.0
-359942,2020-07-22,Chesterfield,Virginia,51041.0,3564,65.0
-362632,2020-07-23,Chesterfield,South Carolina,45025.0,581,18.0
-363148,2020-07-23,Chesterfield,Virginia,51041.0,3609,65.0
-365838,2020-07-24,Chesterfield,South Carolina,45025.0,597,18.0
-366354,2020-07-24,Chesterfield,Virginia,51041.0,3673,66.0
-369047,2020-07-25,Chesterfield,South Carolina,45025.0,606,19.0
-369563,2020-07-25,Chesterfield,Virginia,51041.0,3702,66.0
-372259,2020-07-26,Chesterfield,South Carolina,45025.0,612,19.0
-372775,2020-07-26,Chesterfield,Virginia,51041.0,3730,66.0
-375472,2020-07-27,Chesterfield,South Carolina,45025.0,621,19.0
-375989,2020-07-27,Chesterfield,Virginia,51041.0,3766,66.0
-378688,2020-07-28,Chesterfield,South Carolina,45025.0,639,20.0
-379205,2020-07-28,Chesterfield,Virginia,51041.0,3796,66.0
-381905,2020-07-29,Chesterfield,South Carolina,45025.0,649,19.0
-382422,2020-07-29,Chesterfield,Virginia,51041.0,3829,69.0
-385123,2020-07-30,Chesterfield,South Carolina,45025.0,660,19.0
-385640,2020-07-30,Chesterfield,Virginia,51041.0,3877,71.0
-388340,2020-07-31,Chesterfield,South Carolina,45025.0,670,19.0
-388857,2020-07-31,Chesterfield,Virginia,51041.0,3937,72.0
-391557,2020-08-01,Chesterfield,South Carolina,45025.0,687,19.0
-392074,2020-08-01,Chesterfield,Virginia,51041.0,3968,75.0
-394773,2020-08-02,Chesterfield,South Carolina,45025.0,696,19.0
-395290,2020-08-02,Chesterfield,Virginia,51041.0,4020,75.0
-397990,2020-08-03,Chesterfield,South Carolina,45025.0,707,19.0
-398506,2020-08-03,Chesterfield,Virginia,51041.0,4097,75.0
-401205,2020-08-04,Chesterfield,South Carolina,45025.0,712,19.0
-401722,2020-08-04,Chesterfield,Virginia,51041.0,4141,75.0
-404423,2020-08-05,Chesterfield,South Carolina,45025.0,723,20.0
-404940,2020-08-05,Chesterfield,Virginia,51041.0,4170,75.0
-407642,2020-08-06,Chesterfield,South Carolina,45025.0,729,21.0
-408160,2020-08-06,Chesterfield,Virginia,51041.0,4216,77.0
-410862,2020-08-07,Chesterfield,South Carolina,45025.0,743,21.0
-411379,2020-08-07,Chesterfield,Virginia,51041.0,4283,80.0
-414082,2020-08-08,Chesterfield,South Carolina,45025.0,758,21.0
-414599,2020-08-08,Chesterfield,Virginia,51041.0,4350,80.0
-417303,2020-08-09,Chesterfield,South Carolina,45025.0,769,21.0
-417820,2020-08-09,Chesterfield,Virginia,51041.0,4362,80.0
-420523,2020-08-10,Chesterfield,South Carolina,45025.0,777,21.0
-421041,2020-08-10,Chesterfield,Virginia,51041.0,4370,80.0
-423746,2020-08-11,Chesterfield,South Carolina,45025.0,783,21.0
-424262,2020-08-11,Chesterfield,Virginia,51041.0,4439,80.0
-426969,2020-08-12,Chesterfield,South Carolina,45025.0,791,21.0
-427486,2020-08-12,Chesterfield,Virginia,51041.0,4475,80.0
-430194,2020-08-13,Chesterfield,South Carolina,45025.0,803,22.0
-430714,2020-08-13,Chesterfield,Virginia,51041.0,4512,80.0
-433420,2020-08-14,Chesterfield,South Carolina,45025.0,806,22.0
-433939,2020-08-14,Chesterfield,Virginia,51041.0,4542,80.0
-436647,2020-08-15,Chesterfield,South Carolina,45025.0,817,22.0
-437165,2020-08-15,Chesterfield,Virginia,51041.0,4596,80.0
-439872,2020-08-16,Chesterfield,South Carolina,45025.0,826,22.0
-440391,2020-08-16,Chesterfield,Virginia,51041.0,4621,80.0
-443099,2020-08-17,Chesterfield,South Carolina,45025.0,837,22.0
-443617,2020-08-17,Chesterfield,Virginia,51041.0,4623,80.0
-446325,2020-08-18,Chesterfield,South Carolina,45025.0,841,23.0
-446844,2020-08-18,Chesterfield,Virginia,51041.0,4684,81.0
-449553,2020-08-19,Chesterfield,South Carolina,45025.0,848,23.0
-450072,2020-08-19,Chesterfield,Virginia,51041.0,4720,76.0
-452781,2020-08-20,Chesterfield,South Carolina,45025.0,874,23.0
-453300,2020-08-20,Chesterfield,Virginia,51041.0,4747,76.0
-456009,2020-08-21,Chesterfield,South Carolina,45025.0,885,23.0
-456528,2020-08-21,Chesterfield,Virginia,51041.0,4772,76.0
-459237,2020-08-22,Chesterfield,South Carolina,45025.0,897,23.0
-459755,2020-08-22,Chesterfield,Virginia,51041.0,4815,76.0
-462465,2020-08-23,Chesterfield,South Carolina,45025.0,907,23.0
-462984,2020-08-23,Chesterfield,Virginia,51041.0,4853,76.0
-465694,2020-08-24,Chesterfield,South Carolina,45025.0,913,23.0
-466213,2020-08-24,Chesterfield,Virginia,51041.0,4867,76.0
-468922,2020-08-25,Chesterfield,South Carolina,45025.0,922,24.0
-469442,2020-08-25,Chesterfield,Virginia,51041.0,4888,77.0
-472154,2020-08-26,Chesterfield,South Carolina,45025.0,928,24.0
-472674,2020-08-26,Chesterfield,Virginia,51041.0,4915,77.0
-475388,2020-08-27,Chesterfield,South Carolina,45025.0,937,25.0
-475907,2020-08-27,Chesterfield,Virginia,51041.0,4946,78.0
-478621,2020-08-28,Chesterfield,South Carolina,45025.0,973,25.0
-479140,2020-08-28,Chesterfield,Virginia,51041.0,4974,82.0
-481855,2020-08-29,Chesterfield,South Carolina,45025.0,988,25.0
-482374,2020-08-29,Chesterfield,Virginia,51041.0,5013,82.0
-485090,2020-08-30,Chesterfield,South Carolina,45025.0,997,26.0
-485609,2020-08-30,Chesterfield,Virginia,51041.0,5027,82.0
-488323,2020-08-31,Chesterfield,South Carolina,45025.0,1001,26.0
-488842,2020-08-31,Chesterfield,Virginia,51041.0,5046,82.0
-491556,2020-09-01,Chesterfield,South Carolina,45025.0,1006,27.0
-492075,2020-09-01,Chesterfield,Virginia,51041.0,5106,83.0
-494790,2020-09-02,Chesterfield,South Carolina,45025.0,1010,27.0
-495309,2020-09-02,Chesterfield,Virginia,51041.0,5146,83.0
-498023,2020-09-03,Chesterfield,South Carolina,45025.0,1031,28.0
-498542,2020-09-03,Chesterfield,Virginia,51041.0,5185,83.0
-501257,2020-09-04,Chesterfield,South Carolina,45025.0,1044,29.0
-501776,2020-09-04,Chesterfield,Virginia,51041.0,5209,83.0
-504491,2020-09-05,Chesterfield,South Carolina,45025.0,1055,29.0
-505010,2020-09-05,Chesterfield,Virginia,51041.0,5251,83.0
-507723,2020-09-06,Chesterfield,South Carolina,45025.0,1059,29.0
-508242,2020-09-06,Chesterfield,Virginia,51041.0,5259,83.0
-510956,2020-09-07,Chesterfield,South Carolina,45025.0,1061,29.0
-511475,2020-09-07,Chesterfield,Virginia,51041.0,5264,83.0
-514189,2020-09-08,Chesterfield,South Carolina,45025.0,1067,29.0
-514708,2020-09-08,Chesterfield,Virginia,51041.0,5307,83.0
-517424,2020-09-09,Chesterfield,South Carolina,45025.0,1071,30.0
-517943,2020-09-09,Chesterfield,Virginia,51041.0,5347,85.0
-520660,2020-09-10,Chesterfield,South Carolina,45025.0,1082,31.0
-521180,2020-09-10,Chesterfield,Virginia,51041.0,5401,85.0
-523896,2020-09-11,Chesterfield,South Carolina,45025.0,1090,32.0
-524416,2020-09-11,Chesterfield,Virginia,51041.0,5450,85.0
-527132,2020-09-12,Chesterfield,South Carolina,45025.0,1103,31.0
-527652,2020-09-12,Chesterfield,Virginia,51041.0,5500,85.0
-530369,2020-09-13,Chesterfield,South Carolina,45025.0,1114,31.0
-530889,2020-09-13,Chesterfield,Virginia,51041.0,5540,85.0
-533604,2020-09-14,Chesterfield,South Carolina,45025.0,1123,31.0
-534124,2020-09-14,Chesterfield,Virginia,51041.0,5558,86.0
-536840,2020-09-15,Chesterfield,South Carolina,45025.0,1129,31.0
-537360,2020-09-15,Chesterfield,Virginia,51041.0,5593,87.0
-540077,2020-09-16,Chesterfield,South Carolina,45025.0,1139,32.0
-540597,2020-09-16,Chesterfield,Virginia,51041.0,5628,89.0
-543313,2020-09-17,Chesterfield,South Carolina,45025.0,1156,34.0
-543833,2020-09-17,Chesterfield,Virginia,51041.0,5656,91.0
-546550,2020-09-18,Chesterfield,South Carolina,45025.0,1176,34.0
-547070,2020-09-18,Chesterfield,Virginia,51041.0,5702,90.0
-549789,2020-09-19,Chesterfield,South Carolina,45025.0,1179,34.0
-550309,2020-09-19,Chesterfield,Virginia,51041.0,5724,90.0
-553028,2020-09-20,Chesterfield,South Carolina,45025.0,1183,35.0
-553548,2020-09-20,Chesterfield,Virginia,51041.0,5758,91.0
-556265,2020-09-21,Chesterfield,South Carolina,45025.0,1186,35.0
-556785,2020-09-21,Chesterfield,Virginia,51041.0,5797,91.0
-559502,2020-09-22,Chesterfield,South Carolina,45025.0,1189,35.0
-560021,2020-09-22,Chesterfield,Virginia,51041.0,5829,93.0
-562739,2020-09-23,Chesterfield,South Carolina,45025.0,1203,36.0
-563260,2020-09-23,Chesterfield,Virginia,51041.0,5851,94.0
-565980,2020-09-24,Chesterfield,South Carolina,45025.0,1206,36.0
-566501,2020-09-24,Chesterfield,Virginia,51041.0,5870,94.0
-569221,2020-09-25,Chesterfield,South Carolina,45025.0,1215,36.0
-569742,2020-09-25,Chesterfield,Virginia,51041.0,5916,94.0
-572463,2020-09-26,Chesterfield,South Carolina,45025.0,1226,37.0
-572984,2020-09-26,Chesterfield,Virginia,51041.0,5945,94.0
-575707,2020-09-27,Chesterfield,South Carolina,45025.0,1230,37.0
-576228,2020-09-27,Chesterfield,Virginia,51041.0,5985,94.0
-578948,2020-09-28,Chesterfield,South Carolina,45025.0,1230,37.0
-579469,2020-09-28,Chesterfield,Virginia,51041.0,6000,94.0
-582188,2020-09-29,Chesterfield,South Carolina,45025.0,1237,37.0
-582708,2020-09-29,Chesterfield,Virginia,51041.0,6036,95.0
-585428,2020-09-30,Chesterfield,South Carolina,45025.0,1242,37.0
-585948,2020-09-30,Chesterfield,Virginia,51041.0,6053,95.0
-588668,2020-10-01,Chesterfield,South Carolina,45025.0,1249,37.0
-589189,2020-10-01,Chesterfield,Virginia,51041.0,6057,95.0
-591909,2020-10-02,Chesterfield,South Carolina,45025.0,1255,37.0
-592429,2020-10-02,Chesterfield,Virginia,51041.0,6085,96.0
-595150,2020-10-03,Chesterfield,South Carolina,45025.0,1266,37.0
-595671,2020-10-03,Chesterfield,Virginia,51041.0,6132,98.0
-598393,2020-10-04,Chesterfield,South Carolina,45025.0,1268,37.0
-598914,2020-10-04,Chesterfield,Virginia,51041.0,6170,98.0
-601636,2020-10-05,Chesterfield,South Carolina,45025.0,1272,37.0
-602157,2020-10-05,Chesterfield,Virginia,51041.0,6180,98.0
-604878,2020-10-06,Chesterfield,South Carolina,45025.0,1277,38.0
-605399,2020-10-06,Chesterfield,Virginia,51041.0,6192,98.0
-608121,2020-10-07,Chesterfield,South Carolina,45025.0,1294,38.0
-608642,2020-10-07,Chesterfield,Virginia,51041.0,6207,98.0
-611363,2020-10-08,Chesterfield,South Carolina,45025.0,1316,38.0
-611884,2020-10-08,Chesterfield,Virginia,51041.0,6266,98.0
-614604,2020-10-09,Chesterfield,South Carolina,45025.0,1321,38.0
-615125,2020-10-09,Chesterfield,Virginia,51041.0,6303,98.0
-617846,2020-10-10,Chesterfield,South Carolina,45025.0,1333,38.0
-618367,2020-10-10,Chesterfield,Virginia,51041.0,6349,98.0
-621089,2020-10-11,Chesterfield,South Carolina,45025.0,1343,38.0
-621610,2020-10-11,Chesterfield,Virginia,51041.0,6364,98.0
-624332,2020-10-12,Chesterfield,South Carolina,45025.0,1353,38.0
-624853,2020-10-12,Chesterfield,Virginia,51041.0,6396,98.0
-627574,2020-10-13,Chesterfield,South Carolina,45025.0,1373,39.0
-628096,2020-10-13,Chesterfield,Virginia,51041.0,6458,98.0
-630818,2020-10-14,Chesterfield,South Carolina,45025.0,1383,39.0
-631340,2020-10-14,Chesterfield,Virginia,51041.0,6478,98.0
-634063,2020-10-15,Chesterfield,South Carolina,45025.0,1397,40.0
-634585,2020-10-15,Chesterfield,Virginia,51041.0,6546,98.0
-637309,2020-10-16,Chesterfield,South Carolina,45025.0,1406,41.0
-637830,2020-10-16,Chesterfield,Virginia,51041.0,6568,99.0
-640555,2020-10-17,Chesterfield,South Carolina,45025.0,1414,41.0
-641077,2020-10-17,Chesterfield,Virginia,51041.0,6662,99.0
-643803,2020-10-18,Chesterfield,South Carolina,45025.0,1423,41.0
-644325,2020-10-18,Chesterfield,Virginia,51041.0,6679,99.0
-647049,2020-10-19,Chesterfield,South Carolina,45025.0,1427,41.0
-647571,2020-10-19,Chesterfield,Virginia,51041.0,6695,99.0
-650293,2020-10-20,Chesterfield,South Carolina,45025.0,1435,42.0
-650815,2020-10-20,Chesterfield,Virginia,51041.0,6737,100.0
-653538,2020-10-21,Chesterfield,South Carolina,45025.0,1442,42.0
-654060,2020-10-21,Chesterfield,Virginia,51041.0,6796,100.0
-656783,2020-10-22,Chesterfield,South Carolina,45025.0,1450,42.0
-657305,2020-10-22,Chesterfield,Virginia,51041.0,6851,100.0
-660027,2020-10-23,Chesterfield,South Carolina,45025.0,1455,42.0
-660549,2020-10-23,Chesterfield,Virginia,51041.0,6869,101.0
-663271,2020-10-24,Chesterfield,South Carolina,45025.0,1466,43.0
-663793,2020-10-24,Chesterfield,Virginia,51041.0,6934,102.0
-666516,2020-10-25,Chesterfield,South Carolina,45025.0,1474,43.0
-667038,2020-10-25,Chesterfield,Virginia,51041.0,6980,102.0
-669760,2020-10-26,Chesterfield,South Carolina,45025.0,1476,43.0
-670281,2020-10-26,Chesterfield,Virginia,51041.0,7029,102.0
-673002,2020-10-27,Chesterfield,South Carolina,45025.0,1482,46.0
-673523,2020-10-27,Chesterfield,Virginia,51041.0,7058,106.0
-676245,2020-10-28,Chesterfield,South Carolina,45025.0,1484,46.0
-676766,2020-10-28,Chesterfield,Virginia,51041.0,7111,113.0
-679488,2020-10-29,Chesterfield,South Carolina,45025.0,1491,46.0
-680009,2020-10-29,Chesterfield,Virginia,51041.0,7162,118.0
-682731,2020-10-30,Chesterfield,South Carolina,45025.0,1495,46.0
-683252,2020-10-30,Chesterfield,Virginia,51041.0,7212,119.0
-685974,2020-10-31,Chesterfield,South Carolina,45025.0,1503,46.0
-686495,2020-10-31,Chesterfield,Virginia,51041.0,7274,120.0
-689219,2020-11-01,Chesterfield,South Carolina,45025.0,1513,46.0
-689740,2020-11-01,Chesterfield,Virginia,51041.0,7302,120.0
-692463,2020-11-02,Chesterfield,South Carolina,45025.0,1516,46.0
-692984,2020-11-02,Chesterfield,Virginia,51041.0,7320,120.0
-695705,2020-11-03,Chesterfield,South Carolina,45025.0,1532,46.0
-696226,2020-11-03,Chesterfield,Virginia,51041.0,7361,120.0
-698948,2020-11-04,Chesterfield,South Carolina,45025.0,1535,48.0
-699470,2020-11-04,Chesterfield,Virginia,51041.0,7407,120.0
-702192,2020-11-05,Chesterfield,South Carolina,45025.0,1540,48.0
-702713,2020-11-05,Chesterfield,Virginia,51041.0,7445,120.0
-705435,2020-11-06,Chesterfield,South Carolina,45025.0,1554,49.0
-705956,2020-11-06,Chesterfield,Virginia,51041.0,7481,120.0
-708678,2020-11-07,Chesterfield,South Carolina,45025.0,1571,49.0
-709200,2020-11-07,Chesterfield,Virginia,51041.0,7558,120.0
-711922,2020-11-08,Chesterfield,South Carolina,45025.0,1575,49.0
-712444,2020-11-08,Chesterfield,Virginia,51041.0,7619,120.0
-715166,2020-11-09,Chesterfield,South Carolina,45025.0,1576,49.0
-715688,2020-11-09,Chesterfield,Virginia,51041.0,7709,120.0
-718409,2020-11-10,Chesterfield,South Carolina,45025.0,1585,50.0
-718931,2020-11-10,Chesterfield,Virginia,51041.0,7761,120.0
-721652,2020-11-11,Chesterfield,South Carolina,45025.0,1589,50.0
-722174,2020-11-11,Chesterfield,Virginia,51041.0,7849,120.0
-724895,2020-11-12,Chesterfield,South Carolina,45025.0,1601,51.0
-725417,2020-11-12,Chesterfield,Virginia,51041.0,7924,121.0
-728139,2020-11-13,Chesterfield,South Carolina,45025.0,1616,51.0
-728660,2020-11-13,Chesterfield,Virginia,51041.0,7951,121.0
-731383,2020-11-14,Chesterfield,South Carolina,45025.0,1625,51.0
-731905,2020-11-14,Chesterfield,Virginia,51041.0,8011,121.0
-734629,2020-11-15,Chesterfield,South Carolina,45025.0,1631,51.0
-735151,2020-11-15,Chesterfield,Virginia,51041.0,8047,121.0
-737873,2020-11-16,Chesterfield,South Carolina,45025.0,1643,51.0
-738395,2020-11-16,Chesterfield,Virginia,51041.0,8169,121.0
-741119,2020-11-17,Chesterfield,South Carolina,45025.0,1652,52.0
-741642,2020-11-17,Chesterfield,Virginia,51041.0,8253,122.0
-744366,2020-11-18,Chesterfield,South Carolina,45025.0,1659,52.0
-744889,2020-11-18,Chesterfield,Virginia,51041.0,8295,123.0
-747612,2020-11-19,Chesterfield,South Carolina,45025.0,1672,52.0
-748135,2020-11-19,Chesterfield,Virginia,51041.0,8363,124.0
-750858,2020-11-20,Chesterfield,South Carolina,45025.0,1681,52.0
-751381,2020-11-20,Chesterfield,Virginia,51041.0,8451,124.0
-754104,2020-11-21,Chesterfield,South Carolina,45025.0,1686,52.0
-754627,2020-11-21,Chesterfield,Virginia,51041.0,8540,127.0
-757351,2020-11-22,Chesterfield,South Carolina,45025.0,1689,52.0
-757874,2020-11-22,Chesterfield,Virginia,51041.0,8617,127.0
-760596,2020-11-23,Chesterfield,South Carolina,45025.0,1696,52.0
-761119,2020-11-23,Chesterfield,Virginia,51041.0,8698,127.0
-763841,2020-11-24,Chesterfield,South Carolina,45025.0,1704,52.0
-764364,2020-11-24,Chesterfield,Virginia,51041.0,8827,127.0
-767086,2020-11-25,Chesterfield,South Carolina,45025.0,1721,52.0
-767609,2020-11-25,Chesterfield,Virginia,51041.0,8942,128.0
-770332,2020-11-26,Chesterfield,South Carolina,45025.0,1721,52.0
-770855,2020-11-26,Chesterfield,Virginia,51041.0,9045,129.0
-773577,2020-11-27,Chesterfield,South Carolina,45025.0,1744,52.0
-774100,2020-11-27,Chesterfield,Virginia,51041.0,9101,131.0
-776822,2020-11-28,Chesterfield,South Carolina,45025.0,1749,52.0
-777345,2020-11-28,Chesterfield,Virginia,51041.0,9181,131.0
-780068,2020-11-29,Chesterfield,South Carolina,45025.0,1756,52.0
-780591,2020-11-29,Chesterfield,Virginia,51041.0,9255,131.0
-783313,2020-11-30,Chesterfield,South Carolina,45025.0,1758,53.0
-783836,2020-11-30,Chesterfield,Virginia,51041.0,9323,131.0
-786557,2020-12-01,Chesterfield,South Carolina,45025.0,1764,53.0
-787080,2020-12-01,Chesterfield,Virginia,51041.0,9443,131.0
-789802,2020-12-02,Chesterfield,South Carolina,45025.0,1783,54.0
-790325,2020-12-02,Chesterfield,Virginia,51041.0,9563,131.0
-793047,2020-12-03,Chesterfield,South Carolina,45025.0,1800,54.0
-793570,2020-12-03,Chesterfield,Virginia,51041.0,9631,135.0
-796292,2020-12-04,Chesterfield,South Carolina,45025.0,1814,54.0
-796815,2020-12-04,Chesterfield,Virginia,51041.0,9732,135.0
-799537,2020-12-05,Chesterfield,South Carolina,45025.0,1848,55.0
-800060,2020-12-05,Chesterfield,Virginia,51041.0,9874,135.0
-802782,2020-12-06,Chesterfield,South Carolina,45025.0,1866,55.0
-803305,2020-12-06,Chesterfield,Virginia,51041.0,9957,135.0
-806027,2020-12-07,Chesterfield,South Carolina,45025.0,1877,56.0
-806550,2020-12-07,Chesterfield,Virginia,51041.0,10056,135.0
-809272,2020-12-08,Chesterfield,South Carolina,45025.0,1888,56.0
-809795,2020-12-08,Chesterfield,Virginia,51041.0,10216,139.0
-812516,2020-12-09,Chesterfield,South Carolina,45025.0,1912,57.0
-813039,2020-12-09,Chesterfield,Virginia,51041.0,10350,139.0
-815762,2020-12-10,Chesterfield,South Carolina,45025.0,1922,57.0
-816285,2020-12-10,Chesterfield,Virginia,51041.0,10445,143.0
-819008,2020-12-11,Chesterfield,South Carolina,45025.0,1937,57.0
-819531,2020-12-11,Chesterfield,Virginia,51041.0,10590,146.0
-822254,2020-12-12,Chesterfield,South Carolina,45025.0,1956,57.0
-822777,2020-12-12,Chesterfield,Virginia,51041.0,10680,148.0
-825501,2020-12-13,Chesterfield,South Carolina,45025.0,1986,57.0
-826024,2020-12-13,Chesterfield,Virginia,51041.0,10753,148.0
-828747,2020-12-14,Chesterfield,South Carolina,45025.0,2004,57.0
-829270,2020-12-14,Chesterfield,Virginia,51041.0,10822,148.0
-831994,2020-12-15,Chesterfield,South Carolina,45025.0,2018,57.0
-832517,2020-12-15,Chesterfield,Virginia,51041.0,10994,150.0
-835240,2020-12-16,Chesterfield,South Carolina,45025.0,2030,57.0
-835763,2020-12-16,Chesterfield,Virginia,51041.0,11129,151.0
-838486,2020-12-17,Chesterfield,South Carolina,45025.0,2054,57.0
-839009,2020-12-17,Chesterfield,Virginia,51041.0,11220,154.0
-841731,2020-12-18,Chesterfield,South Carolina,45025.0,2075,57.0
-842254,2020-12-18,Chesterfield,Virginia,51041.0,11409,156.0
-844977,2020-12-19,Chesterfield,South Carolina,45025.0,2096,57.0
-845500,2020-12-19,Chesterfield,Virginia,51041.0,11528,156.0
-848222,2020-12-20,Chesterfield,South Carolina,45025.0,2107,57.0
-848745,2020-12-20,Chesterfield,Virginia,51041.0,11583,156.0
-851467,2020-12-21,Chesterfield,South Carolina,45025.0,2121,58.0
-851990,2020-12-21,Chesterfield,Virginia,51041.0,11678,156.0
-854712,2020-12-22,Chesterfield,South Carolina,45025.0,2135,58.0
-855235,2020-12-22,Chesterfield,Virginia,51041.0,11896,158.0
-857957,2020-12-23,Chesterfield,South Carolina,45025.0,2172,58.0
-858480,2020-12-23,Chesterfield,Virginia,51041.0,12072,161.0
-861202,2020-12-24,Chesterfield,South Carolina,45025.0,2186,58.0
-861725,2020-12-24,Chesterfield,Virginia,51041.0,12186,163.0
-864447,2020-12-25,Chesterfield,South Carolina,45025.0,2186,58.0
-864970,2020-12-25,Chesterfield,Virginia,51041.0,12272,164.0
-867692,2020-12-26,Chesterfield,South Carolina,45025.0,2217,58.0
-868215,2020-12-26,Chesterfield,Virginia,51041.0,12321,164.0
-870937,2020-12-27,Chesterfield,South Carolina,45025.0,2269,59.0
-871460,2020-12-27,Chesterfield,Virginia,51041.0,12399,163.0
-874182,2020-12-28,Chesterfield,South Carolina,45025.0,2282,60.0
-874705,2020-12-28,Chesterfield,Virginia,51041.0,12552,163.0
-877427,2020-12-29,Chesterfield,South Carolina,45025.0,2295,60.0
-877950,2020-12-29,Chesterfield,Virginia,51041.0,12727,165.0
-880672,2020-12-30,Chesterfield,South Carolina,45025.0,2307,60.0
-881195,2020-12-30,Chesterfield,Virginia,51041.0,12876,169.0
-883917,2020-12-31,Chesterfield,South Carolina,45025.0,2336,61.0
-884440,2020-12-31,Chesterfield,Virginia,51041.0,13059,172.0
-887162,2021-01-01,Chesterfield,South Carolina,45025.0,2336,61.0
-887685,2021-01-01,Chesterfield,Virginia,51041.0,13215,171.0
-890409,2021-01-02,Chesterfield,South Carolina,45025.0,2373,61.0
-890932,2021-01-02,Chesterfield,Virginia,51041.0,13374,173.0
-893655,2021-01-03,Chesterfield,South Carolina,45025.0,2425,61.0
-894178,2021-01-03,Chesterfield,Virginia,51041.0,13505,173.0
-896901,2021-01-04,Chesterfield,South Carolina,45025.0,2445,62.0
-897424,2021-01-04,Chesterfield,Virginia,51041.0,13658,173.0
-900146,2021-01-05,Chesterfield,South Carolina,45025.0,2462,63.0
-900669,2021-01-05,Chesterfield,Virginia,51041.0,13822,174.0
-903391,2021-01-06,Chesterfield,South Carolina,45025.0,2504,63.0
-903914,2021-01-06,Chesterfield,Virginia,51041.0,13953,175.0
-906637,2021-01-07,Chesterfield,South Carolina,45025.0,2549,64.0
-907160,2021-01-07,Chesterfield,Virginia,51041.0,14142,178.0
-909882,2021-01-08,Chesterfield,South Carolina,45025.0,2570,66.0
-910405,2021-01-08,Chesterfield,Virginia,51041.0,14287,182.0
-913127,2021-01-09,Chesterfield,South Carolina,45025.0,2623,66.0
-913650,2021-01-09,Chesterfield,Virginia,51041.0,14531,183.0
-916372,2021-01-10,Chesterfield,South Carolina,45025.0,2653,66.0
-916895,2021-01-10,Chesterfield,Virginia,51041.0,14686,183.0
-919617,2021-01-11,Chesterfield,South Carolina,45025.0,2686,66.0
-920140,2021-01-11,Chesterfield,Virginia,51041.0,14778,183.0
-922862,2021-01-12,Chesterfield,South Carolina,45025.0,2699,67.0
-923385,2021-01-12,Chesterfield,Virginia,51041.0,14904,185.0
-926108,2021-01-13,Chesterfield,South Carolina,45025.0,2765,68.0
-926631,2021-01-13,Chesterfield,Virginia,51041.0,15057,186.0
-929353,2021-01-14,Chesterfield,South Carolina,45025.0,2809,69.0
-929876,2021-01-14,Chesterfield,Virginia,51041.0,15203,190.0
-932598,2021-01-15,Chesterfield,South Carolina,45025.0,2848,69.0
-933121,2021-01-15,Chesterfield,Virginia,51041.0,15425,191.0
-935843,2021-01-16,Chesterfield,South Carolina,45025.0,2890,70.0
-936366,2021-01-16,Chesterfield,Virginia,51041.0,15769,193.0
-939088,2021-01-17,Chesterfield,South Carolina,45025.0,2933,70.0
-939611,2021-01-17,Chesterfield,Virginia,51041.0,16327,193.0
-942333,2021-01-18,Chesterfield,South Carolina,45025.0,2951,70.0
-942856,2021-01-18,Chesterfield,Virginia,51041.0,16641,193.0
-945580,2021-01-19,Chesterfield,South Carolina,45025.0,2968,70.0
-946103,2021-01-19,Chesterfield,Virginia,51041.0,16897,193.0
-948826,2021-01-20,Chesterfield,South Carolina,45025.0,2992,71.0
-949349,2021-01-20,Chesterfield,Virginia,51041.0,17097,193.0
-952071,2021-01-21,Chesterfield,South Carolina,45025.0,3022,71.0
-952594,2021-01-21,Chesterfield,Virginia,51041.0,17254,194.0
-955316,2021-01-22,Chesterfield,South Carolina,45025.0,3084,71.0
-955839,2021-01-22,Chesterfield,Virginia,51041.0,17408,195.0
-958562,2021-01-23,Chesterfield,South Carolina,45025.0,3140,72.0
-959085,2021-01-23,Chesterfield,Virginia,51041.0,17542,198.0
-961807,2021-01-24,Chesterfield,South Carolina,45025.0,3176,76.0
-962330,2021-01-24,Chesterfield,Virginia,51041.0,17706,198.0
-965052,2021-01-25,Chesterfield,South Carolina,45025.0,3201,76.0
-965575,2021-01-25,Chesterfield,Virginia,51041.0,18005,198.0
-968296,2021-01-26,Chesterfield,South Carolina,45025.0,3222,77.0
-968819,2021-01-26,Chesterfield,Virginia,51041.0,18235,199.0
-971541,2021-01-27,Chesterfield,South Carolina,45025.0,3273,77.0
-972064,2021-01-27,Chesterfield,Virginia,51041.0,18451,201.0
-974786,2021-01-28,Chesterfield,South Carolina,45025.0,3294,79.0
-975309,2021-01-28,Chesterfield,Virginia,51041.0,18648,201.0
-978031,2021-01-29,Chesterfield,South Carolina,45025.0,3358,80.0
-978554,2021-01-29,Chesterfield,Virginia,51041.0,18802,202.0
-981277,2021-01-30,Chesterfield,South Carolina,45025.0,3395,80.0
-981800,2021-01-30,Chesterfield,Virginia,51041.0,18969,203.0
-984524,2021-01-31,Chesterfield,South Carolina,45025.0,3444,81.0
-985047,2021-01-31,Chesterfield,Virginia,51041.0,19150,203.0
-987771,2021-02-01,Chesterfield,South Carolina,45025.0,3470,82.0
-988294,2021-02-01,Chesterfield,Virginia,51041.0,19294,204.0
-991017,2021-02-02,Chesterfield,South Carolina,45025.0,3484,83.0
-991540,2021-02-02,Chesterfield,Virginia,51041.0,19449,206.0
-994263,2021-02-03,Chesterfield,South Carolina,45025.0,3505,83.0
-994786,2021-02-03,Chesterfield,Virginia,51041.0,19563,207.0
-997509,2021-02-04,Chesterfield,South Carolina,45025.0,3565,86.0
-998032,2021-02-04,Chesterfield,Virginia,51041.0,19697,209.0
-1000755,2021-02-05,Chesterfield,South Carolina,45025.0,3625,86.0
-1001278,2021-02-05,Chesterfield,Virginia,51041.0,19944,212.0
-1004001,2021-02-06,Chesterfield,South Carolina,45025.0,3664,87.0
-1004524,2021-02-06,Chesterfield,Virginia,51041.0,20141,214.0
-1007247,2021-02-07,Chesterfield,South Carolina,45025.0,3691,87.0
-1007770,2021-02-07,Chesterfield,Virginia,51041.0,20435,214.0
-1010493,2021-02-08,Chesterfield,South Carolina,45025.0,3708,88.0
-1011016,2021-02-08,Chesterfield,Virginia,51041.0,20654,214.0
-1013738,2021-02-09,Chesterfield,South Carolina,45025.0,3734,88.0
-1014261,2021-02-09,Chesterfield,Virginia,51041.0,20876,216.0
-1016983,2021-02-10,Chesterfield,South Carolina,45025.0,3760,89.0
-1017506,2021-02-10,Chesterfield,Virginia,51041.0,21131,216.0
-1020228,2021-02-11,Chesterfield,South Carolina,45025.0,3798,90.0
-1020751,2021-02-11,Chesterfield,Virginia,51041.0,21469,216.0
-1023473,2021-02-12,Chesterfield,South Carolina,45025.0,3890,90.0
-1023996,2021-02-12,Chesterfield,Virginia,51041.0,21701,216.0
-1026718,2021-02-13,Chesterfield,South Carolina,45025.0,3909,90.0
-1027241,2021-02-13,Chesterfield,Virginia,51041.0,22019,216.0
-1029965,2021-02-14,Chesterfield,South Carolina,45025.0,3967,91.0
-1030488,2021-02-14,Chesterfield,Virginia,51041.0,22270,215.0
-1033211,2021-02-15,Chesterfield,South Carolina,45025.0,3983,91.0
-1033734,2021-02-15,Chesterfield,Virginia,51041.0,22412,215.0
-1036456,2021-02-16,Chesterfield,South Carolina,45025.0,4002,91.0
-1036979,2021-02-16,Chesterfield,Virginia,51041.0,22541,216.0
-1039701,2021-02-17,Chesterfield,South Carolina,45025.0,4032,91.0
-1040224,2021-02-17,Chesterfield,Virginia,51041.0,22643,217.0
-1042946,2021-02-18,Chesterfield,South Carolina,45025.0,4061,92.0
-1043469,2021-02-18,Chesterfield,Virginia,51041.0,22708,216.0
-1046191,2021-02-19,Chesterfield,South Carolina,45025.0,4107,92.0
-1046714,2021-02-19,Chesterfield,Virginia,51041.0,22835,216.0
-1049438,2021-02-20,Chesterfield,South Carolina,45025.0,4128,93.0
-1049961,2021-02-20,Chesterfield,Virginia,51041.0,22919,222.0
-1052685,2021-02-21,Chesterfield,South Carolina,45025.0,4162,95.0
-1053208,2021-02-21,Chesterfield,Virginia,51041.0,23009,231.0
-1055931,2021-02-22,Chesterfield,South Carolina,45025.0,4167,95.0
-1056454,2021-02-22,Chesterfield,Virginia,51041.0,23077,246.0
-1059177,2021-02-23,Chesterfield,South Carolina,45025.0,4174,95.0
-1059700,2021-02-23,Chesterfield,Virginia,51041.0,23172,260.0
-1062422,2021-02-24,Chesterfield,South Carolina,45025.0,4198,95.0
-1062945,2021-02-24,Chesterfield,Virginia,51041.0,23245,263.0
-1065667,2021-02-25,Chesterfield,South Carolina,45025.0,4227,96.0
-1066190,2021-02-25,Chesterfield,Virginia,51041.0,23312,269.0
-1068912,2021-02-26,Chesterfield,South Carolina,45025.0,4245,96.0
-1069435,2021-02-26,Chesterfield,Virginia,51041.0,23402,287.0
-1072158,2021-02-27,Chesterfield,South Carolina,45025.0,4263,96.0
-1072681,2021-02-27,Chesterfield,Virginia,51041.0,23488,291.0
-1075404,2021-02-28,Chesterfield,South Carolina,45025.0,4274,96.0
-1075927,2021-02-28,Chesterfield,Virginia,51041.0,23546,298.0
-1078649,2021-03-01,Chesterfield,South Carolina,45025.0,4285,96.0
-1079172,2021-03-01,Chesterfield,Virginia,51041.0,23594,306.0
-1081895,2021-03-02,Chesterfield,South Carolina,45025.0,4288,96.0
-1082418,2021-03-02,Chesterfield,Virginia,51041.0,23654,324.0
-1085141,2021-03-03,Chesterfield,South Carolina,45025.0,4300,97.0
-1085664,2021-03-03,Chesterfield,Virginia,51041.0,23727,352.0
-1088386,2021-03-04,Chesterfield,South Carolina,45025.0,4307,97.0
-1088909,2021-03-04,Chesterfield,Virginia,51041.0,23757,353.0
-1091632,2021-03-05,Chesterfield,South Carolina,45025.0,4321,98.0
-1092155,2021-03-05,Chesterfield,Virginia,51041.0,23812,356.0
-1094878,2021-03-06,Chesterfield,South Carolina,45025.0,4325,98.0
-1095401,2021-03-06,Chesterfield,Virginia,51041.0,23881,359.0
-1098126,2021-03-07,Chesterfield,South Carolina,45025.0,4341,98.0
-1098649,2021-03-07,Chesterfield,Virginia,51041.0,23960,362.0
-1101372,2021-03-08,Chesterfield,South Carolina,45025.0,4346,98.0
-1101895,2021-03-08,Chesterfield,Virginia,51041.0,23997,365.0
-1104618,2021-03-09,Chesterfield,South Carolina,45025.0,4354,98.0
-1105141,2021-03-09,Chesterfield,Virginia,51041.0,24087,365.0
-1107864,2021-03-10,Chesterfield,South Carolina,45025.0,4361,98.0
-1108387,2021-03-10,Chesterfield,Virginia,51041.0,24137,366.0
-1111110,2021-03-11,Chesterfield,South Carolina,45025.0,4369,98.0
-1111633,2021-03-11,Chesterfield,Virginia,51041.0,24195,371.0
-1114356,2021-03-12,Chesterfield,South Carolina,45025.0,4381,98.0
-1114879,2021-03-12,Chesterfield,Virginia,51041.0,24254,376.0
-1117603,2021-03-13,Chesterfield,South Carolina,45025.0,4395,98.0
-1118126,2021-03-13,Chesterfield,Virginia,51041.0,24323,377.0
-1120850,2021-03-14,Chesterfield,South Carolina,45025.0,4405,98.0
-1121373,2021-03-14,Chesterfield,Virginia,51041.0,24385,378.0
-1124096,2021-03-15,Chesterfield,South Carolina,45025.0,4414,98.0
-1124619,2021-03-15,Chesterfield,Virginia,51041.0,24431,379.0
-1127342,2021-03-16,Chesterfield,South Carolina,45025.0,4421,99.0
-1127865,2021-03-16,Chesterfield,Virginia,51041.0,24494,380.0
-1130589,2021-03-17,Chesterfield,South Carolina,45025.0,4426,99.0
-1131112,2021-03-17,Chesterfield,Virginia,51041.0,24569,381.0
-1133837,2021-03-18,Chesterfield,South Carolina,45025.0,4446,99.0
-1134360,2021-03-18,Chesterfield,Virginia,51041.0,24659,383.0
-1137083,2021-03-19,Chesterfield,South Carolina,45025.0,4462,99.0
-1137606,2021-03-19,Chesterfield,Virginia,51041.0,24731,384.0
-1140329,2021-03-20,Chesterfield,South Carolina,45025.0,4479,99.0
-1140852,2021-03-20,Chesterfield,Virginia,51041.0,24806,385.0
-1143576,2021-03-21,Chesterfield,South Carolina,45025.0,4500,99.0
-1144099,2021-03-21,Chesterfield,Virginia,51041.0,24849,385.0
-1146823,2021-03-22,Chesterfield,South Carolina,45025.0,4508,99.0
-1147346,2021-03-22,Chesterfield,Virginia,51041.0,24892,386.0
-1150070,2021-03-23,Chesterfield,South Carolina,45025.0,4511,99.0
-1150593,2021-03-23,Chesterfield,Virginia,51041.0,24948,386.0
-1153317,2021-03-24,Chesterfield,South Carolina,45025.0,4521,99.0
-1153840,2021-03-24,Chesterfield,Virginia,51041.0,24999,388.0
-1156564,2021-03-25,Chesterfield,South Carolina,45025.0,4533,98.0
-1157087,2021-03-25,Chesterfield,Virginia,51041.0,25047,388.0
-1159811,2021-03-26,Chesterfield,South Carolina,45025.0,4548,98.0
-1160335,2021-03-26,Chesterfield,Virginia,51041.0,25116,388.0
-1163060,2021-03-27,Chesterfield,South Carolina,45025.0,4553,98.0
-1163583,2021-03-27,Chesterfield,Virginia,51041.0,25199,390.0
-1166308,2021-03-28,Chesterfield,South Carolina,45025.0,4554,98.0
-1166831,2021-03-28,Chesterfield,Virginia,51041.0,25271,393.0
-1169556,2021-03-29,Chesterfield,South Carolina,45025.0,4557,98.0
-1170079,2021-03-29,Chesterfield,Virginia,51041.0,25310,394.0
-1172803,2021-03-30,Chesterfield,South Carolina,45025.0,4562,98.0
-1173326,2021-03-30,Chesterfield,Virginia,51041.0,25379,396.0
-1176050,2021-03-31,Chesterfield,South Carolina,45025.0,4569,98.0
-1176573,2021-03-31,Chesterfield,Virginia,51041.0,25404,396.0
-1179297,2021-04-01,Chesterfield,South Carolina,45025.0,4579,98.0
-1179820,2021-04-01,Chesterfield,Virginia,51041.0,25457,397.0
-1182544,2021-04-02,Chesterfield,South Carolina,45025.0,4583,98.0
-1183067,2021-04-02,Chesterfield,Virginia,51041.0,25526,397.0
-1185791,2021-04-03,Chesterfield,South Carolina,45025.0,4594,98.0
-1186314,2021-04-03,Chesterfield,Virginia,51041.0,25603,397.0
-1189038,2021-04-04,Chesterfield,South Carolina,45025.0,4594,98.0
-1189561,2021-04-04,Chesterfield,Virginia,51041.0,25663,399.0
-1192287,2021-04-05,Chesterfield,South Carolina,45025.0,4594,98.0
-1192811,2021-04-05,Chesterfield,Virginia,51041.0,25714,400.0
-1195535,2021-04-06,Chesterfield,South Carolina,45025.0,4598,98.0
-1196059,2021-04-06,Chesterfield,Virginia,51041.0,25795,403.0
-1198784,2021-04-07,Chesterfield,South Carolina,45025.0,4600,99.0
-1199308,2021-04-07,Chesterfield,Virginia,51041.0,25849,404.0
-1202033,2021-04-08,Chesterfield,South Carolina,45025.0,4603,100.0
-1202556,2021-04-08,Chesterfield,Virginia,51041.0,25916,404.0
-1205281,2021-04-09,Chesterfield,South Carolina,45025.0,4608,100.0
-1205804,2021-04-09,Chesterfield,Virginia,51041.0,25979,404.0
-1208529,2021-04-10,Chesterfield,South Carolina,45025.0,4610,101.0
-1209052,2021-04-10,Chesterfield,Virginia,51041.0,26046,404.0
-1211778,2021-04-11,Chesterfield,South Carolina,45025.0,4615,101.0
-1212301,2021-04-11,Chesterfield,Virginia,51041.0,26093,405.0
-1215025,2021-04-12,Chesterfield,South Carolina,45025.0,4621,101.0
-1215548,2021-04-12,Chesterfield,Virginia,51041.0,26150,406.0
-1218273,2021-04-13,Chesterfield,South Carolina,45025.0,4627,101.0
-1218796,2021-04-13,Chesterfield,Virginia,51041.0,26266,406.0
-1221521,2021-04-14,Chesterfield,South Carolina,45025.0,4635,101.0
-1222044,2021-04-14,Chesterfield,Virginia,51041.0,26323,406.0
-1224768,2021-04-15,Chesterfield,South Carolina,45025.0,4642,102.0
-1225291,2021-04-15,Chesterfield,Virginia,51041.0,26390,407.0
-1228016,2021-04-16,Chesterfield,South Carolina,45025.0,4649,102.0
-1228539,2021-04-16,Chesterfield,Virginia,51041.0,26458,410.0
-1231264,2021-04-17,Chesterfield,South Carolina,45025.0,4657,102.0
-1231787,2021-04-17,Chesterfield,Virginia,51041.0,26520,411.0
-1234512,2021-04-18,Chesterfield,South Carolina,45025.0,4667,103.0
-1235035,2021-04-18,Chesterfield,Virginia,51041.0,26566,411.0
-1237759,2021-04-19,Chesterfield,South Carolina,45025.0,4667,103.0
-1238282,2021-04-19,Chesterfield,Virginia,51041.0,26616,411.0
-1241006,2021-04-20,Chesterfield,South Carolina,45025.0,4670,103.0
-1241529,2021-04-20,Chesterfield,Virginia,51041.0,26692,411.0
-1244253,2021-04-21,Chesterfield,South Carolina,45025.0,4677,103.0
-1244776,2021-04-21,Chesterfield,Virginia,51041.0,26735,413.0
-1247500,2021-04-22,Chesterfield,South Carolina,45025.0,4684,103.0
-1248023,2021-04-22,Chesterfield,Virginia,51041.0,26790,413.0
-1250747,2021-04-23,Chesterfield,South Carolina,45025.0,4692,103.0
-1251270,2021-04-23,Chesterfield,Virginia,51041.0,26847,413.0
-1253994,2021-04-24,Chesterfield,South Carolina,45025.0,4702,103.0
-1254517,2021-04-24,Chesterfield,Virginia,51041.0,26892,413.0
-1257241,2021-04-25,Chesterfield,South Carolina,45025.0,4713,103.0
-1257764,2021-04-25,Chesterfield,Virginia,51041.0,26942,413.0
-1260488,2021-04-26,Chesterfield,South Carolina,45025.0,4717,103.0
-1261011,2021-04-26,Chesterfield,Virginia,51041.0,26975,413.0
-1263735,2021-04-27,Chesterfield,South Carolina,45025.0,4720,103.0
-1264258,2021-04-27,Chesterfield,Virginia,51041.0,27027,416.0
-1266982,2021-04-28,Chesterfield,South Carolina,45025.0,4731,103.0
-1267505,2021-04-28,Chesterfield,Virginia,51041.0,27080,416.0
-1270229,2021-04-29,Chesterfield,South Carolina,45025.0,4740,103.0
-1270752,2021-04-29,Chesterfield,Virginia,51041.0,27138,419.0
-1273476,2021-04-30,Chesterfield,South Carolina,45025.0,4744,103.0
-1273999,2021-04-30,Chesterfield,Virginia,51041.0,27202,421.0
-1276723,2021-05-01,Chesterfield,South Carolina,45025.0,4756,103.0
-1277246,2021-05-01,Chesterfield,Virginia,51041.0,27248,421.0
-1279970,2021-05-02,Chesterfield,South Carolina,45025.0,4765,103.0
-1280493,2021-05-02,Chesterfield,Virginia,51041.0,27290,423.0
-1283217,2021-05-03,Chesterfield,South Carolina,45025.0,4774,103.0
-1283740,2021-05-03,Chesterfield,Virginia,51041.0,27325,424.0
-1286463,2021-05-04,Chesterfield,South Carolina,45025.0,4774,103.0
-1286986,2021-05-04,Chesterfield,Virginia,51041.0,27369,424.0
-1289709,2021-05-05,Chesterfield,South Carolina,45025.0,4780,103.0
-1290232,2021-05-05,Chesterfield,Virginia,51041.0,27415,426.0
-1292955,2021-05-06,Chesterfield,South Carolina,45025.0,4785,103.0
-1293478,2021-05-06,Chesterfield,Virginia,51041.0,27453,428.0
-1296201,2021-05-07,Chesterfield,South Carolina,45025.0,4795,103.0
-1296724,2021-05-07,Chesterfield,Virginia,51041.0,27501,428.0
-1299448,2021-05-08,Chesterfield,South Carolina,45025.0,4798,104.0
-1299971,2021-05-08,Chesterfield,Virginia,51041.0,27561,428.0
-1302695,2021-05-09,Chesterfield,South Carolina,45025.0,4796,104.0
-1303218,2021-05-09,Chesterfield,Virginia,51041.0,27613,428.0
-1305941,2021-05-10,Chesterfield,South Carolina,45025.0,4796,104.0
-1306464,2021-05-10,Chesterfield,Virginia,51041.0,27629,428.0
-1309187,2021-05-11,Chesterfield,South Carolina,45025.0,4796,104.0
-1309710,2021-05-11,Chesterfield,Virginia,51041.0,27665,428.0
-1312434,2021-05-12,Chesterfield,South Carolina,45025.0,4804,104.0
-1312957,2021-05-12,Chesterfield,Virginia,51041.0,27700,428.0
-1315680,2021-05-13,Chesterfield,South Carolina,45025.0,4811,104.0
-1316203,2021-05-13,Chesterfield,Virginia,51041.0,27730,430.0
-1318928,2021-05-14,Chesterfield,South Carolina,45025.0,4814,104.0
-1319451,2021-05-14,Chesterfield,Virginia,51041.0,27740,431.0
-1322174,2021-05-15,Chesterfield,South Carolina,45025.0,4824,104.0
-1322697,2021-05-15,Chesterfield,Virginia,51041.0,27764,431.0
-1325420,2021-05-16,Chesterfield,South Carolina,45025.0,4829,104.0
-1325943,2021-05-16,Chesterfield,Virginia,51041.0,27781,431.0
-1328666,2021-05-17,Chesterfield,South Carolina,45025.0,4831,104.0
-1329189,2021-05-17,Chesterfield,Virginia,51041.0,27792,431.0
-1331913,2021-05-18,Chesterfield,South Carolina,45025.0,4832,104.0
-1332436,2021-05-18,Chesterfield,Virginia,51041.0,27825,431.0
-1335160,2021-05-19,Chesterfield,South Carolina,45025.0,4833,105.0
-1335683,2021-05-19,Chesterfield,Virginia,51041.0,27851,434.0
-1338407,2021-05-20,Chesterfield,South Carolina,45025.0,4840,105.0
-1338930,2021-05-20,Chesterfield,Virginia,51041.0,27891,435.0
-1341655,2021-05-21,Chesterfield,South Carolina,45025.0,4853,105.0
-1342178,2021-05-21,Chesterfield,Virginia,51041.0,27917,436.0
-1344903,2021-05-22,Chesterfield,South Carolina,45025.0,4859,105.0
-1345426,2021-05-22,Chesterfield,Virginia,51041.0,27945,436.0
-1348151,2021-05-23,Chesterfield,South Carolina,45025.0,4863,105.0
-1348674,2021-05-23,Chesterfield,Virginia,51041.0,27952,436.0
-1351397,2021-05-24,Chesterfield,South Carolina,45025.0,4867,105.0
-1351920,2021-05-24,Chesterfield,Virginia,51041.0,27956,436.0
-1354643,2021-05-25,Chesterfield,South Carolina,45025.0,4869,105.0
-1355166,2021-05-25,Chesterfield,Virginia,51041.0,27965,437.0
-1357889,2021-05-26,Chesterfield,South Carolina,45025.0,4875,105.0
-1358412,2021-05-26,Chesterfield,Virginia,51041.0,27977,439.0
-1361135,2021-05-27,Chesterfield,South Carolina,45025.0,4880,105.0
-1361658,2021-05-27,Chesterfield,Virginia,51041.0,28001,439.0
-1364381,2021-05-28,Chesterfield,South Carolina,45025.0,4887,105.0
-1364904,2021-05-28,Chesterfield,Virginia,51041.0,28027,440.0
-1367627,2021-05-29,Chesterfield,South Carolina,45025.0,4885,105.0
-1368150,2021-05-29,Chesterfield,Virginia,51041.0,28059,440.0
-1370873,2021-05-30,Chesterfield,South Carolina,45025.0,4885,105.0
-1371396,2021-05-30,Chesterfield,Virginia,51041.0,28072,440.0
-1374118,2021-05-31,Chesterfield,South Carolina,45025.0,4887,105.0
-1374641,2021-05-31,Chesterfield,Virginia,51041.0,28082,441.0
-1377364,2021-06-01,Chesterfield,South Carolina,45025.0,4887,105.0
-1377887,2021-06-01,Chesterfield,Virginia,51041.0,28087,441.0
-1380609,2021-06-02,Chesterfield,South Carolina,45025.0,4887,105.0
-1381132,2021-06-02,Chesterfield,Virginia,51041.0,28092,441.0
-1383855,2021-06-03,Chesterfield,South Carolina,45025.0,4888,105.0
-1384378,2021-06-03,Chesterfield,Virginia,51041.0,28110,441.0
-1387100,2021-06-04,Chesterfield,South Carolina,45025.0,4893,105.0
-1387623,2021-06-04,Chesterfield,Virginia,51041.0,28124,441.0
-1390345,2021-06-05,Chesterfield,South Carolina,45025.0,4896,106.0
-1390868,2021-06-05,Chesterfield,Virginia,51041.0,28135,441.0
-1393590,2021-06-06,Chesterfield,South Carolina,45025.0,4900,106.0
-1394113,2021-06-06,Chesterfield,Virginia,51041.0,28136,441.0
-1396837,2021-06-07,Chesterfield,South Carolina,45025.0,4901,106.0
-1397360,2021-06-07,Chesterfield,Virginia,51041.0,28143,441.0
-1400082,2021-06-08,Chesterfield,South Carolina,45025.0,4902,106.0
-1400605,2021-06-08,Chesterfield,Virginia,51041.0,28153,441.0
-1403327,2021-06-09,Chesterfield,South Carolina,45025.0,4904,106.0
-1403850,2021-06-09,Chesterfield,Virginia,51041.0,28162,441.0
-1406573,2021-06-10,Chesterfield,South Carolina,45025.0,4903,106.0
-1407096,2021-06-10,Chesterfield,Virginia,51041.0,28173,442.0
-1409818,2021-06-11,Chesterfield,South Carolina,45025.0,4903,106.0
-1410341,2021-06-11,Chesterfield,Virginia,51041.0,28186,442.0
-1413063,2021-06-12,Chesterfield,South Carolina,45025.0,4903,106.0
-1413586,2021-06-12,Chesterfield,Virginia,51041.0,28189,442.0
-1416309,2021-06-13,Chesterfield,South Carolina,45025.0,4907,107.0
-1416832,2021-06-13,Chesterfield,Virginia,51041.0,28196,444.0
-1419554,2021-06-14,Chesterfield,South Carolina,45025.0,4910,107.0
-1420077,2021-06-14,Chesterfield,Virginia,51041.0,28200,447.0
-1422800,2021-06-15,Chesterfield,South Carolina,45025.0,4911,107.0
-1423324,2021-06-15,Chesterfield,Virginia,51041.0,28204,448.0
-1426047,2021-06-16,Chesterfield,South Carolina,45025.0,4911,107.0
-1426570,2021-06-16,Chesterfield,Virginia,51041.0,28220,448.0
-1429292,2021-06-17,Chesterfield,South Carolina,45025.0,4911,107.0
-1429815,2021-06-17,Chesterfield,Virginia,51041.0,28233,448.0
-1432538,2021-06-18,Chesterfield,South Carolina,45025.0,4912,107.0
-1433061,2021-06-18,Chesterfield,Virginia,51041.0,28237,448.0
-1435785,2021-06-19,Chesterfield,South Carolina,45025.0,4912,107.0
-1436308,2021-06-19,Chesterfield,Virginia,51041.0,28237,448.0
-1439032,2021-06-20,Chesterfield,South Carolina,45025.0,4912,107.0
-1439555,2021-06-20,Chesterfield,Virginia,51041.0,28235,448.0
-1442277,2021-06-21,Chesterfield,South Carolina,45025.0,4914,107.0
-1442800,2021-06-21,Chesterfield,Virginia,51041.0,28242,448.0
-1445522,2021-06-22,Chesterfield,South Carolina,45025.0,4914,107.0
-1446045,2021-06-22,Chesterfield,Virginia,51041.0,28250,448.0
-1448767,2021-06-23,Chesterfield,South Carolina,45025.0,4917,107.0
-1449290,2021-06-23,Chesterfield,Virginia,51041.0,28255,449.0
-1452013,2021-06-24,Chesterfield,South Carolina,45025.0,4923,107.0
-1452536,2021-06-24,Chesterfield,Virginia,51041.0,28260,450.0
-1455258,2021-06-25,Chesterfield,South Carolina,45025.0,4923,108.0
-1455781,2021-06-25,Chesterfield,Virginia,51041.0,28263,450.0
-1458503,2021-06-26,Chesterfield,South Carolina,45025.0,4923,108.0
-1459026,2021-06-26,Chesterfield,Virginia,51041.0,28263,450.0
-1461748,2021-06-27,Chesterfield,South Carolina,45025.0,4923,108.0
-1462271,2021-06-27,Chesterfield,Virginia,51041.0,28264,450.0
-1464993,2021-06-28,Chesterfield,South Carolina,45025.0,4926,108.0
-1465516,2021-06-28,Chesterfield,Virginia,51041.0,28264,452.0
-1468238,2021-06-29,Chesterfield,South Carolina,45025.0,4926,108.0
-1468761,2021-06-29,Chesterfield,Virginia,51041.0,28268,452.0
-1471483,2021-06-30,Chesterfield,South Carolina,45025.0,4926,108.0
-1472006,2021-06-30,Chesterfield,Virginia,51041.0,28284,452.0
-1474729,2021-07-01,Chesterfield,South Carolina,45025.0,4928,108.0
-1475252,2021-07-01,Chesterfield,Virginia,51041.0,28293,452.0
-1477975,2021-07-02,Chesterfield,South Carolina,45025.0,4928,108.0
-1478498,2021-07-02,Chesterfield,Virginia,51041.0,28300,451.0
-1481222,2021-07-03,Chesterfield,South Carolina,45025.0,4928,108.0
-1481745,2021-07-03,Chesterfield,Virginia,51041.0,28307,451.0
-1484468,2021-07-04,Chesterfield,South Carolina,45025.0,4928,108.0
-1484991,2021-07-04,Chesterfield,Virginia,51041.0,28312,451.0
-1487715,2021-07-05,Chesterfield,South Carolina,45025.0,4930,108.0
-1488238,2021-07-05,Chesterfield,Virginia,51041.0,28318,451.0
-1490962,2021-07-06,Chesterfield,South Carolina,45025.0,4930,108.0
-1491485,2021-07-06,Chesterfield,Virginia,51041.0,28321,451.0
-1494209,2021-07-07,Chesterfield,South Carolina,45025.0,4936,108.0
-1494732,2021-07-07,Chesterfield,Virginia,51041.0,28314,451.0
-1497456,2021-07-08,Chesterfield,South Carolina,45025.0,4937,108.0
-1497979,2021-07-08,Chesterfield,Virginia,51041.0,28329,451.0
-1500702,2021-07-09,Chesterfield,South Carolina,45025.0,4939,108.0
-1501225,2021-07-09,Chesterfield,Virginia,51041.0,28336,451.0
-1503948,2021-07-10,Chesterfield,South Carolina,45025.0,4939,108.0
-1504471,2021-07-10,Chesterfield,Virginia,51041.0,28341,450.0
-1507194,2021-07-11,Chesterfield,South Carolina,45025.0,4939,108.0
-1507717,2021-07-11,Chesterfield,Virginia,51041.0,28360,450.0
-1510441,2021-07-12,Chesterfield,South Carolina,45025.0,4943,108.0
-1510964,2021-07-12,Chesterfield,Virginia,51041.0,28366,450.0
-1513687,2021-07-13,Chesterfield,South Carolina,45025.0,4943,108.0
-1514210,2021-07-13,Chesterfield,Virginia,51041.0,28373,450.0
-1516934,2021-07-14,Chesterfield,South Carolina,45025.0,4946,108.0
-1517457,2021-07-14,Chesterfield,Virginia,51041.0,28393,450.0
-1520182,2021-07-15,Chesterfield,South Carolina,45025.0,4950,108.0
-1520705,2021-07-15,Chesterfield,Virginia,51041.0,28416,452.0
-1523430,2021-07-16,Chesterfield,South Carolina,45025.0,4954,108.0
-1523953,2021-07-16,Chesterfield,Virginia,51041.0,28446,453.0
-1526677,2021-07-17,Chesterfield,South Carolina,45025.0,4954,108.0
-1527200,2021-07-17,Chesterfield,Virginia,51041.0,28446,453.0
-1529924,2021-07-18,Chesterfield,South Carolina,45025.0,4954,108.0
-1530447,2021-07-18,Chesterfield,Virginia,51041.0,28446,453.0
-1533171,2021-07-19,Chesterfield,South Carolina,45025.0,4961,108.0
-1533694,2021-07-19,Chesterfield,Virginia,51041.0,28506,453.0
-1536419,2021-07-20,Chesterfield,South Carolina,45025.0,4963,108.0
-1536942,2021-07-20,Chesterfield,Virginia,51041.0,28529,454.0
-1539666,2021-07-21,Chesterfield,South Carolina,45025.0,4976,108.0
-1540189,2021-07-21,Chesterfield,Virginia,51041.0,28566,454.0
-1542914,2021-07-22,Chesterfield,South Carolina,45025.0,4999,108.0
-1543437,2021-07-22,Chesterfield,Virginia,51041.0,28597,454.0
-1546161,2021-07-23,Chesterfield,South Carolina,45025.0,5003,108.0
-1546684,2021-07-23,Chesterfield,Virginia,51041.0,28631,455.0
-1549408,2021-07-24,Chesterfield,South Carolina,45025.0,5003,108.0
-1549931,2021-07-24,Chesterfield,Virginia,51041.0,28631,455.0
-1552655,2021-07-25,Chesterfield,South Carolina,45025.0,5003,108.0
-1553178,2021-07-25,Chesterfield,Virginia,51041.0,28631,455.0
-1555902,2021-07-26,Chesterfield,South Carolina,45025.0,5029,108.0
-1556425,2021-07-26,Chesterfield,Virginia,51041.0,28664,455.0
-1559149,2021-07-27,Chesterfield,South Carolina,45025.0,5031,108.0
-1559672,2021-07-27,Chesterfield,Virginia,51041.0,28740,456.0
-1562397,2021-07-28,Chesterfield,South Carolina,45025.0,5042,108.0
-1562920,2021-07-28,Chesterfield,Virginia,51041.0,28819,456.0
-1565645,2021-07-29,Chesterfield,South Carolina,45025.0,5055,108.0
-1566168,2021-07-29,Chesterfield,Virginia,51041.0,28894,456.0
-1568893,2021-07-30,Chesterfield,South Carolina,45025.0,5072,108.0
-1569416,2021-07-30,Chesterfield,Virginia,51041.0,28952,456.0
-1572141,2021-07-31,Chesterfield,South Carolina,45025.0,5072,108.0
-1572664,2021-07-31,Chesterfield,Virginia,51041.0,28952,456.0
-1575389,2021-08-01,Chesterfield,South Carolina,45025.0,5072,108.0
-1575912,2021-08-01,Chesterfield,Virginia,51041.0,28952,456.0
-1578637,2021-08-02,Chesterfield,South Carolina,45025.0,5096,108.0
-1579160,2021-08-02,Chesterfield,Virginia,51041.0,29138,456.0
-1581886,2021-08-03,Chesterfield,South Carolina,45025.0,5104,108.0
-1582410,2021-08-03,Chesterfield,Virginia,51041.0,29207,456.0
-1585136,2021-08-04,Chesterfield,South Carolina,45025.0,5116,108.0
-1585660,2021-08-04,Chesterfield,Virginia,51041.0,29307,456.0
-1588386,2021-08-05,Chesterfield,South Carolina,45025.0,5153,108.0
-1588909,2021-08-05,Chesterfield,Virginia,51041.0,29405,455.0
-1591635,2021-08-06,Chesterfield,South Carolina,45025.0,5180,108.0
-1592158,2021-08-06,Chesterfield,Virginia,51041.0,29510,455.0
-1594884,2021-08-07,Chesterfield,South Carolina,45025.0,5180,108.0
-1595407,2021-08-07,Chesterfield,Virginia,51041.0,29510,455.0
-1598133,2021-08-08,Chesterfield,South Carolina,45025.0,5180,108.0
-1598656,2021-08-08,Chesterfield,Virginia,51041.0,29510,455.0
-1601381,2021-08-09,Chesterfield,South Carolina,45025.0,5242,110.0
-1601904,2021-08-09,Chesterfield,Virginia,51041.0,29780,455.0
-1604630,2021-08-10,Chesterfield,South Carolina,45025.0,5265,110.0
-1605154,2021-08-10,Chesterfield,Virginia,51041.0,29859,455.0
-1607879,2021-08-11,Chesterfield,South Carolina,45025.0,5275,110.0
-1608403,2021-08-11,Chesterfield,Virginia,51041.0,29970,455.0
-1611127,2021-08-12,Chesterfield,South Carolina,45025.0,5296,110.0
-1611650,2021-08-12,Chesterfield,Virginia,51041.0,30079,455.0
-1614376,2021-08-13,Chesterfield,South Carolina,45025.0,5320,112.0
-1614899,2021-08-13,Chesterfield,Virginia,51041.0,30177,455.0
-1617624,2021-08-14,Chesterfield,South Carolina,45025.0,5320,112.0
-1618147,2021-08-14,Chesterfield,Virginia,51041.0,30177,455.0
-1620872,2021-08-15,Chesterfield,South Carolina,45025.0,5320,112.0
-1621395,2021-08-15,Chesterfield,Virginia,51041.0,30177,455.0
-1624119,2021-08-16,Chesterfield,South Carolina,45025.0,5390,113.0
-1624642,2021-08-16,Chesterfield,Virginia,51041.0,30475,455.0
-1627366,2021-08-17,Chesterfield,South Carolina,45025.0,5406,113.0
-1627889,2021-08-17,Chesterfield,Virginia,51041.0,30606,455.0
-1630613,2021-08-18,Chesterfield,South Carolina,45025.0,5451,114.0
-1631136,2021-08-18,Chesterfield,Virginia,51041.0,30704,457.0
-1633860,2021-08-19,Chesterfield,South Carolina,45025.0,5462,114.0
-1634384,2021-08-19,Chesterfield,Virginia,51041.0,30868,458.0
-1637110,2021-08-20,Chesterfield,South Carolina,45025.0,5484,114.0
-1637634,2021-08-20,Chesterfield,Virginia,51041.0,31012,458.0
-1640360,2021-08-21,Chesterfield,South Carolina,45025.0,5484,114.0
-1640884,2021-08-21,Chesterfield,Virginia,51041.0,31012,458.0
-1643610,2021-08-22,Chesterfield,South Carolina,45025.0,5484,114.0
-1644134,2021-08-22,Chesterfield,Virginia,51041.0,31012,458.0
-1646859,2021-08-23,Chesterfield,South Carolina,45025.0,5559,114.0
-1647383,2021-08-23,Chesterfield,Virginia,51041.0,31406,459.0
-1650108,2021-08-24,Chesterfield,South Carolina,45025.0,5581,114.0
-1650632,2021-08-24,Chesterfield,Virginia,51041.0,31565,461.0
-1653355,2021-08-25,Chesterfield,South Carolina,45025.0,5596,115.0
-1653878,2021-08-25,Chesterfield,Virginia,51041.0,31728,462.0
-1656602,2021-08-26,Chesterfield,South Carolina,45025.0,5612,116.0
-1657125,2021-08-26,Chesterfield,Virginia,51041.0,31909,463.0
-1659851,2021-08-27,Chesterfield,South Carolina,45025.0,5634,117.0
-1660374,2021-08-27,Chesterfield,Virginia,51041.0,32062,464.0
-1663099,2021-08-28,Chesterfield,South Carolina,45025.0,5634,117.0
-1663622,2021-08-28,Chesterfield,Virginia,51041.0,32062,464.0
-1666347,2021-08-29,Chesterfield,South Carolina,45025.0,5634,117.0
-1666870,2021-08-29,Chesterfield,Virginia,51041.0,32062,464.0
-1669594,2021-08-30,Chesterfield,South Carolina,45025.0,5743,118.0
-1670117,2021-08-30,Chesterfield,Virginia,51041.0,32524,465.0
-1672842,2021-08-31,Chesterfield,South Carolina,45025.0,5764,118.0
-1673365,2021-08-31,Chesterfield,Virginia,51041.0,32685,465.0
-1676089,2021-09-01,Chesterfield,South Carolina,45025.0,5805,118.0
-1676612,2021-09-01,Chesterfield,Virginia,51041.0,32825,468.0
-1679337,2021-09-02,Chesterfield,South Carolina,45025.0,5856,118.0
-1679860,2021-09-02,Chesterfield,Virginia,51041.0,32983,469.0
-1682587,2021-09-03,Chesterfield,South Carolina,45025.0,5939,119.0
-1683110,2021-09-03,Chesterfield,Virginia,51041.0,33200,470.0
-1685838,2021-09-04,Chesterfield,South Carolina,45025.0,5939,119.0
-1686361,2021-09-04,Chesterfield,Virginia,51041.0,33200,470.0
-1689088,2021-09-05,Chesterfield,South Carolina,45025.0,5939,119.0
-1689611,2021-09-05,Chesterfield,Virginia,51041.0,33200,470.0
-1692337,2021-09-06,Chesterfield,South Carolina,45025.0,6062,120.0
-1692860,2021-09-06,Chesterfield,Virginia,51041.0,33597,472.0
-1695585,2021-09-07,Chesterfield,South Carolina,45025.0,6095,121.0
-1696108,2021-09-07,Chesterfield,Virginia,51041.0,33725,472.0
-1698833,2021-09-08,Chesterfield,South Carolina,45025.0,6126,121.0
-1699356,2021-09-08,Chesterfield,Virginia,51041.0,33895,474.0
-1702082,2021-09-09,Chesterfield,South Carolina,45025.0,6153,120.0
-1702605,2021-09-09,Chesterfield,Virginia,51041.0,34063,474.0
-1705332,2021-09-10,Chesterfield,South Carolina,45025.0,6219,120.0
-1705855,2021-09-10,Chesterfield,Virginia,51041.0,34252,474.0
-1708579,2021-09-11,Chesterfield,South Carolina,45025.0,6219,120.0
-1709102,2021-09-11,Chesterfield,Virginia,51041.0,34252,474.0
-1711826,2021-09-12,Chesterfield,South Carolina,45025.0,6219,120.0
-1712349,2021-09-12,Chesterfield,Virginia,51041.0,34252,474.0
-1715072,2021-09-13,Chesterfield,South Carolina,45025.0,6305,121.0
-1715595,2021-09-13,Chesterfield,Virginia,51041.0,34724,476.0
-1718320,2021-09-14,Chesterfield,South Carolina,45025.0,6331,121.0
-1718843,2021-09-14,Chesterfield,Virginia,51041.0,34910,476.0
-1721568,2021-09-15,Chesterfield,South Carolina,45025.0,6346,125.0
-1722091,2021-09-15,Chesterfield,Virginia,51041.0,35148,477.0
-1724817,2021-09-16,Chesterfield,South Carolina,45025.0,6372,125.0
-1725340,2021-09-16,Chesterfield,Virginia,51041.0,35286,479.0
-1728066,2021-09-17,Chesterfield,South Carolina,45025.0,6396,125.0
-1728590,2021-09-17,Chesterfield,Virginia,51041.0,35523,481.0
-1731316,2021-09-18,Chesterfield,South Carolina,45025.0,6396,125.0
-1731840,2021-09-18,Chesterfield,Virginia,51041.0,35523,481.0
-1734566,2021-09-19,Chesterfield,South Carolina,45025.0,6396,125.0
-1735090,2021-09-19,Chesterfield,Virginia,51041.0,35523,481.0
-1737816,2021-09-20,Chesterfield,South Carolina,45025.0,6504,126.0
-1738339,2021-09-20,Chesterfield,Virginia,51041.0,35874,484.0
-1741065,2021-09-21,Chesterfield,South Carolina,45025.0,6527,126.0
-1741588,2021-09-21,Chesterfield,Virginia,51041.0,36003,485.0
-1744314,2021-09-22,Chesterfield,South Carolina,45025.0,6542,126.0
-1744837,2021-09-22,Chesterfield,Virginia,51041.0,36109,486.0
-1747564,2021-09-23,Chesterfield,South Carolina,45025.0,6571,126.0
-1748087,2021-09-23,Chesterfield,Virginia,51041.0,36276,488.0
-1750813,2021-09-24,Chesterfield,South Carolina,45025.0,6608,127.0
-1751336,2021-09-24,Chesterfield,Virginia,51041.0,36397,489.0
-1754061,2021-09-25,Chesterfield,South Carolina,45025.0,6608,127.0
-1754584,2021-09-25,Chesterfield,Virginia,51041.0,36397,489.0
-1757309,2021-09-26,Chesterfield,South Carolina,45025.0,6608,127.0
-1757832,2021-09-26,Chesterfield,Virginia,51041.0,36397,489.0
-1760557,2021-09-27,Chesterfield,South Carolina,45025.0,6698,129.0
-1761080,2021-09-27,Chesterfield,Virginia,51041.0,36748,493.0
-1763806,2021-09-28,Chesterfield,South Carolina,45025.0,6709,130.0
-1764329,2021-09-28,Chesterfield,Virginia,51041.0,36859,499.0
-1767055,2021-09-29,Chesterfield,South Carolina,45025.0,6734,132.0
-1767578,2021-09-29,Chesterfield,Virginia,51041.0,36975,502.0
-1770304,2021-09-30,Chesterfield,South Carolina,45025.0,6753,132.0
-1770827,2021-09-30,Chesterfield,Virginia,51041.0,37095,503.0
-1773554,2021-10-01,Chesterfield,South Carolina,45025.0,6802,135.0
-1774077,2021-10-01,Chesterfield,Virginia,51041.0,37238,504.0
-1776804,2021-10-02,Chesterfield,South Carolina,45025.0,6802,135.0
-1777327,2021-10-02,Chesterfield,Virginia,51041.0,37238,504.0
-1780054,2021-10-03,Chesterfield,South Carolina,45025.0,6802,135.0
-1780577,2021-10-03,Chesterfield,Virginia,51041.0,37238,504.0
-1783303,2021-10-04,Chesterfield,South Carolina,45025.0,6907,135.0
-1783826,2021-10-04,Chesterfield,Virginia,51041.0,37559,507.0
-1786552,2021-10-05,Chesterfield,South Carolina,45025.0,6912,135.0
-1787075,2021-10-05,Chesterfield,Virginia,51041.0,37613,509.0
-1789800,2021-10-06,Chesterfield,South Carolina,45025.0,6930,135.0
-1790323,2021-10-06,Chesterfield,Virginia,51041.0,37778,510.0
-1793049,2021-10-07,Chesterfield,South Carolina,45025.0,6952,137.0
-1793572,2021-10-07,Chesterfield,Virginia,51041.0,37937,511.0
-1796298,2021-10-08,Chesterfield,South Carolina,45025.0,6980,139.0
-1796821,2021-10-08,Chesterfield,Virginia,51041.0,38072,515.0
-1799547,2021-10-09,Chesterfield,South Carolina,45025.0,6980,139.0
-1800070,2021-10-09,Chesterfield,Virginia,51041.0,38072,515.0
-1802796,2021-10-10,Chesterfield,South Carolina,45025.0,6980,139.0
-1803319,2021-10-10,Chesterfield,Virginia,51041.0,38072,515.0
-1806046,2021-10-11,Chesterfield,South Carolina,45025.0,7034,140.0
-1806569,2021-10-11,Chesterfield,Virginia,51041.0,38072,515.0
-1809296,2021-10-12,Chesterfield,South Carolina,45025.0,7058,141.0
-1809819,2021-10-12,Chesterfield,Virginia,51041.0,38409,522.0
-1812545,2021-10-13,Chesterfield,South Carolina,45025.0,7071,141.0
-1813068,2021-10-13,Chesterfield,Virginia,51041.0,38524,524.0
-1815793,2021-10-14,Chesterfield,South Carolina,45025.0,7096,142.0
-1816316,2021-10-14,Chesterfield,Virginia,51041.0,38640,526.0
-1819042,2021-10-15,Chesterfield,South Carolina,45025.0,7112,143.0
-1819565,2021-10-15,Chesterfield,Virginia,51041.0,38728,526.0
-1822291,2021-10-16,Chesterfield,South Carolina,45025.0,7112,143.0
-1822814,2021-10-16,Chesterfield,Virginia,51041.0,38728,526.0
-1825540,2021-10-17,Chesterfield,South Carolina,45025.0,7112,143.0
-1826063,2021-10-17,Chesterfield,Virginia,51041.0,38728,526.0
-1828789,2021-10-18,Chesterfield,South Carolina,45025.0,7150,144.0
-1829312,2021-10-18,Chesterfield,Virginia,51041.0,38939,531.0
-1832038,2021-10-19,Chesterfield,South Carolina,45025.0,7155,144.0
-1832561,2021-10-19,Chesterfield,Virginia,51041.0,38992,534.0
-1835287,2021-10-20,Chesterfield,South Carolina,45025.0,7163,144.0
-1835810,2021-10-20,Chesterfield,Virginia,51041.0,39042,538.0
-1838536,2021-10-21,Chesterfield,South Carolina,45025.0,7174,144.0
-1839059,2021-10-21,Chesterfield,Virginia,51041.0,39113,539.0
-1841785,2021-10-22,Chesterfield,South Carolina,45025.0,7186,144.0
-1842308,2021-10-22,Chesterfield,Virginia,51041.0,39201,539.0
-1845035,2021-10-23,Chesterfield,South Carolina,45025.0,7186,144.0
-1845558,2021-10-23,Chesterfield,Virginia,51041.0,39201,539.0
-1848285,2021-10-24,Chesterfield,South Carolina,45025.0,7186,144.0
-1848808,2021-10-24,Chesterfield,Virginia,51041.0,39201,539.0
-1851535,2021-10-25,Chesterfield,South Carolina,45025.0,7210,144.0
-1852058,2021-10-25,Chesterfield,Virginia,51041.0,39360,542.0
-1854784,2021-10-26,Chesterfield,South Carolina,45025.0,7217,144.0
-1855307,2021-10-26,Chesterfield,Virginia,51041.0,39421,546.0
-1858033,2021-10-27,Chesterfield,South Carolina,45025.0,7228,144.0
-1858556,2021-10-27,Chesterfield,Virginia,51041.0,39478,547.0
-1861282,2021-10-28,Chesterfield,South Carolina,45025.0,7242,144.0
-1861805,2021-10-28,Chesterfield,Virginia,51041.0,39552,547.0
-1864531,2021-10-29,Chesterfield,South Carolina,45025.0,7256,144.0
-1865054,2021-10-29,Chesterfield,Virginia,51041.0,39620,548.0
-1867780,2021-10-30,Chesterfield,South Carolina,45025.0,7256,144.0
-1868303,2021-10-30,Chesterfield,Virginia,51041.0,39620,548.0
-1871029,2021-10-31,Chesterfield,South Carolina,45025.0,7256,144.0
-1871552,2021-10-31,Chesterfield,Virginia,51041.0,39620,548.0
-1874278,2021-11-01,Chesterfield,South Carolina,45025.0,7288,144.0
-1874801,2021-11-01,Chesterfield,Virginia,51041.0,39762,549.0
-1877527,2021-11-02,Chesterfield,South Carolina,45025.0,7297,144.0
-1878050,2021-11-02,Chesterfield,Virginia,51041.0,39813,550.0
-1880776,2021-11-03,Chesterfield,South Carolina,45025.0,7299,144.0
-1881299,2021-11-03,Chesterfield,Virginia,51041.0,39897,552.0
-1884025,2021-11-04,Chesterfield,South Carolina,45025.0,7328,144.0
-1884548,2021-11-04,Chesterfield,Virginia,51041.0,39968,554.0
-1887275,2021-11-05,Chesterfield,South Carolina,45025.0,7353,144.0
-1887798,2021-11-05,Chesterfield,Virginia,51041.0,40026,555.0
-1890525,2021-11-06,Chesterfield,South Carolina,45025.0,7353,144.0
-1891048,2021-11-06,Chesterfield,Virginia,51041.0,40026,555.0
-1893775,2021-11-07,Chesterfield,South Carolina,45025.0,7353,144.0
-1894298,2021-11-07,Chesterfield,Virginia,51041.0,40026,555.0
-1897025,2021-11-08,Chesterfield,South Carolina,45025.0,7375,144.0
-1897548,2021-11-08,Chesterfield,Virginia,51041.0,40171,557.0
-1900275,2021-11-09,Chesterfield,South Carolina,45025.0,7380,144.0
-1900798,2021-11-09,Chesterfield,Virginia,51041.0,40229,557.0
-1903525,2021-11-10,Chesterfield,South Carolina,45025.0,7388,144.0
-1904048,2021-11-10,Chesterfield,Virginia,51041.0,40272,557.0
-1906774,2021-11-11,Chesterfield,South Carolina,45025.0,7388,144.0
-1907297,2021-11-11,Chesterfield,Virginia,51041.0,40336,557.0
-1910023,2021-11-12,Chesterfield,South Carolina,45025.0,7406,144.0
-1910546,2021-11-12,Chesterfield,Virginia,51041.0,40397,557.0
-1913273,2021-11-13,Chesterfield,South Carolina,45025.0,7406,144.0
-1913796,2021-11-13,Chesterfield,Virginia,51041.0,40397,557.0
-1916523,2021-11-14,Chesterfield,South Carolina,45025.0,7406,144.0
-1917046,2021-11-14,Chesterfield,Virginia,51041.0,40397,557.0
-1919773,2021-11-15,Chesterfield,South Carolina,45025.0,7423,144.0
-1920296,2021-11-15,Chesterfield,Virginia,51041.0,40531,558.0
-1923022,2021-11-16,Chesterfield,South Carolina,45025.0,7428,145.0
-1923545,2021-11-16,Chesterfield,Virginia,51041.0,40592,559.0
-1926272,2021-11-17,Chesterfield,South Carolina,45025.0,7441,145.0
-1926795,2021-11-17,Chesterfield,Virginia,51041.0,40683,561.0
-1929522,2021-11-18,Chesterfield,South Carolina,45025.0,7443,145.0
-1930045,2021-11-18,Chesterfield,Virginia,51041.0,40758,562.0
-1932773,2021-11-19,Chesterfield,South Carolina,45025.0,7450,145.0
-1933297,2021-11-19,Chesterfield,Virginia,51041.0,40818,563.0
-1936023,2021-11-20,Chesterfield,South Carolina,45025.0,7450,145.0
-1936547,2021-11-20,Chesterfield,Virginia,51041.0,40818,563.0
-1939273,2021-11-21,Chesterfield,South Carolina,45025.0,7450,145.0
-1939797,2021-11-21,Chesterfield,Virginia,51041.0,40818,563.0
-1942523,2021-11-22,Chesterfield,South Carolina,45025.0,7480,146.0
-1943047,2021-11-22,Chesterfield,Virginia,51041.0,41004,566.0
-1945774,2021-11-23,Chesterfield,South Carolina,45025.0,7484,146.0
-1946298,2021-11-23,Chesterfield,Virginia,51041.0,41071,566.0
-1949025,2021-11-24,Chesterfield,South Carolina,45025.0,7490,146.0
-1949549,2021-11-24,Chesterfield,Virginia,51041.0,41130,567.0
-1952276,2021-11-25,Chesterfield,South Carolina,45025.0,7490,146.0
-1952800,2021-11-25,Chesterfield,Virginia,51041.0,41212,569.0
-1955527,2021-11-26,Chesterfield,South Carolina,45025.0,7500,147.0
-1956051,2021-11-26,Chesterfield,Virginia,51041.0,41260,570.0
-1958778,2021-11-27,Chesterfield,South Carolina,45025.0,7500,147.0
-1959302,2021-11-27,Chesterfield,Virginia,51041.0,41260,570.0
-1962029,2021-11-28,Chesterfield,South Carolina,45025.0,7500,147.0
-1962553,2021-11-28,Chesterfield,Virginia,51041.0,41260,570.0
-1965281,2021-11-29,Chesterfield,South Carolina,45025.0,7540,147.0
-1965805,2021-11-29,Chesterfield,Virginia,51041.0,41420,572.0
-1968532,2021-11-30,Chesterfield,South Carolina,45025.0,7548,147.0
-1969055,2021-11-30,Chesterfield,Virginia,51041.0,41511,572.0
-1971782,2021-12-01,Chesterfield,South Carolina,45025.0,7551,147.0
-1972305,2021-12-01,Chesterfield,Virginia,51041.0,41580,573.0
-1975031,2021-12-02,Chesterfield,South Carolina,45025.0,7561,149.0
-1975554,2021-12-02,Chesterfield,Virginia,51041.0,41680,574.0
-1978281,2021-12-03,Chesterfield,South Carolina,45025.0,7584,149.0
-1978804,2021-12-03,Chesterfield,Virginia,51041.0,41786,574.0
-1981531,2021-12-04,Chesterfield,South Carolina,45025.0,7584,149.0
-1982054,2021-12-04,Chesterfield,Virginia,51041.0,41786,574.0
-1984781,2021-12-05,Chesterfield,South Carolina,45025.0,7584,149.0
-1985304,2021-12-05,Chesterfield,Virginia,51041.0,41786,574.0
-1988031,2021-12-06,Chesterfield,South Carolina,45025.0,7612,149.0
-1988554,2021-12-06,Chesterfield,Virginia,51041.0,42022,574.0
-1991282,2021-12-07,Chesterfield,South Carolina,45025.0,7617,149.0
-1991805,2021-12-07,Chesterfield,Virginia,51041.0,42128,578.0
-1994533,2021-12-08,Chesterfield,South Carolina,45025.0,7630,149.0
-1995056,2021-12-08,Chesterfield,Virginia,51041.0,42201,579.0
-1997784,2021-12-09,Chesterfield,South Carolina,45025.0,7656,149.0
-1998307,2021-12-09,Chesterfield,Virginia,51041.0,42376,580.0
-2001034,2021-12-10,Chesterfield,South Carolina,45025.0,7670,151.0
-2001557,2021-12-10,Chesterfield,Virginia,51041.0,42491,583.0
-2004285,2021-12-11,Chesterfield,South Carolina,45025.0,7670,151.0
-2004808,2021-12-11,Chesterfield,Virginia,51041.0,42491,583.0
-2007536,2021-12-12,Chesterfield,South Carolina,45025.0,7670,151.0
-2008059,2021-12-12,Chesterfield,Virginia,51041.0,42491,583.0
-2010787,2021-12-13,Chesterfield,South Carolina,45025.0,7708,151.0
-2011310,2021-12-13,Chesterfield,Virginia,51041.0,42841,587.0
-2014038,2021-12-14,Chesterfield,South Carolina,45025.0,7724,152.0
-2014561,2021-12-14,Chesterfield,Virginia,51041.0,42993,587.0
-2017288,2021-12-15,Chesterfield,South Carolina,45025.0,7736,153.0
-2017811,2021-12-15,Chesterfield,Virginia,51041.0,43085,587.0
-2020539,2021-12-16,Chesterfield,South Carolina,45025.0,7747,153.0
-2021062,2021-12-16,Chesterfield,Virginia,51041.0,43234,590.0
-2023790,2021-12-17,Chesterfield,South Carolina,45025.0,7760,153.0
-2024313,2021-12-17,Chesterfield,Virginia,51041.0,43361,590.0
-2027041,2021-12-18,Chesterfield,South Carolina,45025.0,7760,153.0
-2027564,2021-12-18,Chesterfield,Virginia,51041.0,43361,590.0
-2030292,2021-12-19,Chesterfield,South Carolina,45025.0,7760,153.0
-2030815,2021-12-19,Chesterfield,Virginia,51041.0,43361,590.0
-2033542,2021-12-20,Chesterfield,South Carolina,45025.0,7828,153.0
-2034065,2021-12-20,Chesterfield,Virginia,51041.0,43735,590.0
-2036792,2021-12-21,Chesterfield,South Carolina,45025.0,7838,153.0
-2037315,2021-12-21,Chesterfield,Virginia,51041.0,43970,594.0
-2040042,2021-12-22,Chesterfield,South Carolina,45025.0,7876,154.0
-2040565,2021-12-22,Chesterfield,Virginia,51041.0,44195,596.0
-2043291,2021-12-23,Chesterfield,South Carolina,45025.0,7912,155.0
-2043814,2021-12-23,Chesterfield,Virginia,51041.0,44421,600.0
-2046541,2021-12-24,Chesterfield,South Carolina,45025.0,7912,155.0
-2047064,2021-12-24,Chesterfield,Virginia,51041.0,44760,601.0
-2049791,2021-12-25,Chesterfield,South Carolina,45025.0,7912,155.0
-2050314,2021-12-25,Chesterfield,Virginia,51041.0,44760,601.0
-2053041,2021-12-26,Chesterfield,South Carolina,45025.0,7912,155.0
-2053564,2021-12-26,Chesterfield,Virginia,51041.0,44760,601.0
-2056290,2021-12-27,Chesterfield,South Carolina,45025.0,7912,155.0
-2056813,2021-12-27,Chesterfield,Virginia,51041.0,45643,602.0
-2059539,2021-12-28,Chesterfield,South Carolina,45025.0,7912,155.0
-2060062,2021-12-28,Chesterfield,Virginia,51041.0,46068,605.0
-2062789,2021-12-29,Chesterfield,South Carolina,45025.0,8015,157.0
-2063312,2021-12-29,Chesterfield,Virginia,51041.0,46708,605.0
-2066039,2021-12-30,Chesterfield,South Carolina,45025.0,8056,158.0
-2066562,2021-12-30,Chesterfield,Virginia,51041.0,47306,607.0
-2069290,2021-12-31,Chesterfield,South Carolina,45025.0,8115,158.0
-2069813,2021-12-31,Chesterfield,Virginia,51041.0,48029,607.0
-2072541,2022-01-01,Chesterfield,South Carolina,45025.0,8115,158.0
-2073064,2022-01-01,Chesterfield,Virginia,51041.0,48029,607.0
-2075792,2022-01-02,Chesterfield,South Carolina,45025.0,8115,158.0
-2076315,2022-01-02,Chesterfield,Virginia,51041.0,48029,607.0
-2079043,2022-01-03,Chesterfield,South Carolina,45025.0,8115,158.0
-2079567,2022-01-03,Chesterfield,Virginia,51041.0,50002,609.0
-2082295,2022-01-04,Chesterfield,South Carolina,45025.0,8302,162.0
-2082819,2022-01-04,Chesterfield,Virginia,51041.0,50782,609.0
-2085547,2022-01-05,Chesterfield,South Carolina,45025.0,8373,162.0
-2086071,2022-01-05,Chesterfield,Virginia,51041.0,51358,609.0
-2088798,2022-01-06,Chesterfield,South Carolina,45025.0,8488,162.0
-2089322,2022-01-06,Chesterfield,Virginia,51041.0,52119,609.0
-2092050,2022-01-07,Chesterfield,South Carolina,45025.0,8538,162.0
-2092574,2022-01-07,Chesterfield,Virginia,51041.0,52823,609.0
-2095302,2022-01-08,Chesterfield,South Carolina,45025.0,8538,162.0
-2095826,2022-01-08,Chesterfield,Virginia,51041.0,52823,609.0
-2098554,2022-01-09,Chesterfield,South Carolina,45025.0,8538,162.0
-2099077,2022-01-09,Chesterfield,Virginia,51041.0,52823,609.0
-2101805,2022-01-10,Chesterfield,South Carolina,45025.0,8796,162.0
-2102328,2022-01-10,Chesterfield,Virginia,51041.0,54959,609.0
-2105056,2022-01-11,Chesterfield,South Carolina,45025.0,8851,162.0
-2105579,2022-01-11,Chesterfield,Virginia,51041.0,55728,610.0
-2108307,2022-01-12,Chesterfield,South Carolina,45025.0,8940,163.0
-2108830,2022-01-12,Chesterfield,Virginia,51041.0,56542,610.0
-2111559,2022-01-13,Chesterfield,South Carolina,45025.0,9080,164.0
-2112082,2022-01-13,Chesterfield,Virginia,51041.0,57307,611.0
-2114811,2022-01-14,Chesterfield,South Carolina,45025.0,9236,164.0
-2115334,2022-01-14,Chesterfield,Virginia,51041.0,58244,611.0
-2118062,2022-01-15,Chesterfield,South Carolina,45025.0,9236,164.0
-2118586,2022-01-15,Chesterfield,Virginia,51041.0,58244,611.0
-2121314,2022-01-16,Chesterfield,South Carolina,45025.0,9236,164.0
-2121838,2022-01-16,Chesterfield,Virginia,51041.0,58244,611.0
-2124566,2022-01-17,Chesterfield,South Carolina,45025.0,9236,164.0
-2125090,2022-01-17,Chesterfield,Virginia,51041.0,60101,611.0
-2127818,2022-01-18,Chesterfield,South Carolina,45025.0,9642,164.0
-2128343,2022-01-18,Chesterfield,Virginia,51041.0,60476,611.0
-2131072,2022-01-19,Chesterfield,South Carolina,45025.0,9697,164.0
-2131597,2022-01-19,Chesterfield,Virginia,51041.0,61071,611.0
-2134324,2022-01-20,Chesterfield,South Carolina,45025.0,9781,164.0
-2134849,2022-01-20,Chesterfield,Virginia,51041.0,61674,611.0
-2137578,2022-01-21,Chesterfield,South Carolina,45025.0,9904,164.0
-2138103,2022-01-21,Chesterfield,Virginia,51041.0,62461,611.0
-2140834,2022-01-22,Chesterfield,South Carolina,45025.0,9904,164.0
-2141359,2022-01-22,Chesterfield,Virginia,51041.0,62461,611.0
-2144089,2022-01-23,Chesterfield,South Carolina,45025.0,9904,164.0
-2144614,2022-01-23,Chesterfield,Virginia,51041.0,62461,611.0
-2147343,2022-01-24,Chesterfield,South Carolina,45025.0,9904,164.0
-2147867,2022-01-24,Chesterfield,Virginia,51041.0,63806,613.0
-2150595,2022-01-25,Chesterfield,South Carolina,45025.0,9904,164.0
-2151119,2022-01-25,Chesterfield,Virginia,51041.0,64359,615.0
-2153847,2022-01-26,Chesterfield,South Carolina,45025.0,10401,165.0
-2154372,2022-01-26,Chesterfield,Virginia,51041.0,65031,619.0
-2157100,2022-01-27,Chesterfield,South Carolina,45025.0,10469,166.0
-2157625,2022-01-27,Chesterfield,Virginia,51041.0,65649,619.0
-2160356,2022-01-28,Chesterfield,South Carolina,45025.0,10638,167.0
-2160881,2022-01-28,Chesterfield,Virginia,51041.0,66201,622.0
-2163611,2022-01-29,Chesterfield,South Carolina,45025.0,10638,167.0
-2164136,2022-01-29,Chesterfield,Virginia,51041.0,66201,622.0
-2166866,2022-01-30,Chesterfield,South Carolina,45025.0,10638,167.0
-2167391,2022-01-30,Chesterfield,Virginia,51041.0,66201,622.0
-2170120,2022-01-31,Chesterfield,South Carolina,45025.0,10956,170.0
-2170644,2022-01-31,Chesterfield,Virginia,51041.0,66999,624.0
-2173372,2022-02-01,Chesterfield,South Carolina,45025.0,10993,170.0
-2173896,2022-02-01,Chesterfield,Virginia,51041.0,67260,625.0
-2176626,2022-02-02,Chesterfield,South Carolina,45025.0,11051,170.0
-2177149,2022-02-02,Chesterfield,Virginia,51041.0,67535,632.0
-2179877,2022-02-03,Chesterfield,South Carolina,45025.0,11113,170.0
-2180400,2022-02-03,Chesterfield,Virginia,51041.0,67826,641.0
-2183129,2022-02-04,Chesterfield,South Carolina,45025.0,11197,171.0
-2183652,2022-02-04,Chesterfield,Virginia,51041.0,68100,646.0
-2186381,2022-02-05,Chesterfield,South Carolina,45025.0,11197,171.0
-2186905,2022-02-05,Chesterfield,Virginia,51041.0,68100,646.0
-2189634,2022-02-06,Chesterfield,South Carolina,45025.0,11197,171.0
-2190158,2022-02-06,Chesterfield,Virginia,51041.0,68100,646.0
-2192888,2022-02-07,Chesterfield,South Carolina,45025.0,11308,172.0
-2193411,2022-02-07,Chesterfield,Virginia,51041.0,68645,662.0
-2196142,2022-02-08,Chesterfield,South Carolina,45025.0,11322,172.0
-2196666,2022-02-08,Chesterfield,Virginia,51041.0,68828,667.0
-2199396,2022-02-09,Chesterfield,South Carolina,45025.0,11359,173.0
-2199920,2022-02-09,Chesterfield,Virginia,51041.0,69024,671.0
-2202650,2022-02-10,Chesterfield,South Carolina,45025.0,11404,173.0
-2203174,2022-02-10,Chesterfield,Virginia,51041.0,69183,674.0
-2205903,2022-02-11,Chesterfield,South Carolina,45025.0,11404,173.0
-2206427,2022-02-11,Chesterfield,Virginia,51041.0,69316,677.0
-2209156,2022-02-12,Chesterfield,South Carolina,45025.0,11404,173.0
-2209680,2022-02-12,Chesterfield,Virginia,51041.0,69316,677.0
-2212409,2022-02-13,Chesterfield,South Carolina,45025.0,11404,173.0
-2212933,2022-02-13,Chesterfield,Virginia,51041.0,69316,677.0
-2215660,2022-02-14,Chesterfield,South Carolina,45025.0,11530,176.0
-2216184,2022-02-14,Chesterfield,Virginia,51041.0,69617,682.0
-2218911,2022-02-15,Chesterfield,South Carolina,45025.0,11547,176.0
-2219434,2022-02-15,Chesterfield,Virginia,51041.0,69688,684.0
-2222162,2022-02-16,Chesterfield,South Carolina,45025.0,11566,176.0
-2222685,2022-02-16,Chesterfield,Virginia,51041.0,69724,685.0
-2225413,2022-02-17,Chesterfield,South Carolina,45025.0,11606,177.0
-2225936,2022-02-17,Chesterfield,Virginia,51041.0,69772,686.0
-2228664,2022-02-18,Chesterfield,South Carolina,45025.0,11631,177.0
-2229187,2022-02-18,Chesterfield,Virginia,51041.0,69845,688.0
-2231915,2022-02-19,Chesterfield,South Carolina,45025.0,11631,177.0
-2232438,2022-02-19,Chesterfield,Virginia,51041.0,69845,688.0
-2235166,2022-02-20,Chesterfield,South Carolina,45025.0,11631,177.0
-2235689,2022-02-20,Chesterfield,Virginia,51041.0,69845,688.0
-2238417,2022-02-21,Chesterfield,South Carolina,45025.0,11631,177.0
-2238940,2022-02-21,Chesterfield,Virginia,51041.0,70086,698.0
-2241668,2022-02-22,Chesterfield,South Carolina,45025.0,11671,178.0
-2242191,2022-02-22,Chesterfield,Virginia,51041.0,70161,699.0
-2244919,2022-02-23,Chesterfield,South Carolina,45025.0,11687,179.0
-2245442,2022-02-23,Chesterfield,Virginia,51041.0,70237,703.0
-2248170,2022-02-24,Chesterfield,South Carolina,45025.0,11697,181.0
-2248693,2022-02-24,Chesterfield,Virginia,51041.0,70326,707.0
-2251421,2022-02-25,Chesterfield,South Carolina,45025.0,11698,181.0
-2251944,2022-02-25,Chesterfield,Virginia,51041.0,70424,710.0
-2254672,2022-02-26,Chesterfield,South Carolina,45025.0,11698,181.0
-2255195,2022-02-26,Chesterfield,Virginia,51041.0,70424,710.0
-2257923,2022-02-27,Chesterfield,South Carolina,45025.0,11698,181.0
-2258446,2022-02-27,Chesterfield,Virginia,51041.0,70424,710.0
-2261174,2022-02-28,Chesterfield,South Carolina,45025.0,11711,181.0
-2261697,2022-02-28,Chesterfield,Virginia,51041.0,70566,724.0
-2264424,2022-03-01,Chesterfield,South Carolina,45025.0,11712,182.0
-2264947,2022-03-01,Chesterfield,Virginia,51041.0,70631,724.0
-2267677,2022-03-02,Chesterfield,South Carolina,45025.0,11712,182.0
-2268200,2022-03-02,Chesterfield,Virginia,51041.0,70674,724.0
-2270929,2022-03-03,Chesterfield,South Carolina,45025.0,11718,183.0
-2271452,2022-03-03,Chesterfield,Virginia,51041.0,70734,725.0
-2274182,2022-03-04,Chesterfield,South Carolina,45025.0,11720,183.0
-2274705,2022-03-04,Chesterfield,Virginia,51041.0,70805,728.0
-2277435,2022-03-05,Chesterfield,South Carolina,45025.0,11720,183.0
-2277958,2022-03-05,Chesterfield,Virginia,51041.0,70805,728.0
-2280688,2022-03-06,Chesterfield,South Carolina,45025.0,11720,183.0
-2281211,2022-03-06,Chesterfield,Virginia,51041.0,70805,728.0
-2283940,2022-03-07,Chesterfield,South Carolina,45025.0,11728,184.0
-2284463,2022-03-07,Chesterfield,Virginia,51041.0,70998,732.0
-2287192,2022-03-08,Chesterfield,South Carolina,45025.0,11732,184.0
-2287715,2022-03-08,Chesterfield,Virginia,51041.0,71079,732.0
-2290444,2022-03-09,Chesterfield,South Carolina,45025.0,11736,184.0
-2290967,2022-03-09,Chesterfield,Virginia,51041.0,71111,733.0
-2293696,2022-03-10,Chesterfield,South Carolina,45025.0,11750,185.0
-2294219,2022-03-10,Chesterfield,Virginia,51041.0,71383,735.0
-2296948,2022-03-11,Chesterfield,South Carolina,45025.0,11751,186.0
-2297471,2022-03-11,Chesterfield,Virginia,51041.0,71502,735.0
-2300200,2022-03-12,Chesterfield,South Carolina,45025.0,11751,186.0
-2300723,2022-03-12,Chesterfield,Virginia,51041.0,71502,735.0
-2303452,2022-03-13,Chesterfield,South Carolina,45025.0,11751,186.0
-2303975,2022-03-13,Chesterfield,Virginia,51041.0,71502,735.0
-2306703,2022-03-14,Chesterfield,South Carolina,45025.0,11751,186.0
-2307226,2022-03-14,Chesterfield,Virginia,51041.0,71630,735.0
-2309956,2022-03-15,Chesterfield,South Carolina,45025.0,11767,186.0
-2310479,2022-03-15,Chesterfield,Virginia,51041.0,71667,738.0
-2313209,2022-03-16,Chesterfield,South Carolina,45025.0,11767,186.0
-2313732,2022-03-16,Chesterfield,Virginia,51041.0,71696,741.0
-2316462,2022-03-17,Chesterfield,South Carolina,45025.0,11767,186.0
-2316985,2022-03-17,Chesterfield,Virginia,51041.0,71726,744.0
-2319716,2022-03-18,Chesterfield,South Carolina,45025.0,11767,186.0
-2320239,2022-03-18,Chesterfield,Virginia,51041.0,71782,746.0
-2322970,2022-03-19,Chesterfield,South Carolina,45025.0,11767,186.0
-2323493,2022-03-19,Chesterfield,Virginia,51041.0,71782,746.0
-2326223,2022-03-20,Chesterfield,South Carolina,45025.0,11767,186.0
-2326746,2022-03-20,Chesterfield,Virginia,51041.0,71782,746.0
-2329475,2022-03-21,Chesterfield,South Carolina,45025.0,11767,186.0
-2329998,2022-03-21,Chesterfield,Virginia,51041.0,71863,747.0
-2332728,2022-03-22,Chesterfield,South Carolina,45025.0,11785,187.0
-2333251,2022-03-22,Chesterfield,Virginia,51041.0,71863,747.0
-2335982,2022-03-23,Chesterfield,South Carolina,45025.0,11785,187.0
-2336505,2022-03-23,Chesterfield,Virginia,51041.0,71998,748.0
-2339236,2022-03-24,Chesterfield,South Carolina,45025.0,11785,187.0
-2339759,2022-03-24,Chesterfield,Virginia,51041.0,72062,748.0
-2342489,2022-03-25,Chesterfield,South Carolina,45025.0,11785,187.0
-2343012,2022-03-25,Chesterfield,Virginia,51041.0,72152,749.0
-2345742,2022-03-26,Chesterfield,South Carolina,45025.0,11785,187.0
-2346265,2022-03-26,Chesterfield,Virginia,51041.0,72152,749.0
-2348995,2022-03-27,Chesterfield,South Carolina,45025.0,11785,187.0
-2349518,2022-03-27,Chesterfield,Virginia,51041.0,72152,749.0
-2352247,2022-03-28,Chesterfield,South Carolina,45025.0,11785,187.0
-2352770,2022-03-28,Chesterfield,Virginia,51041.0,72261,749.0
-2355500,2022-03-29,Chesterfield,South Carolina,45025.0,11787,188.0
-2356023,2022-03-29,Chesterfield,Virginia,51041.0,72357,750.0
-2358754,2022-03-30,Chesterfield,South Carolina,45025.0,11787,188.0
-2359277,2022-03-30,Chesterfield,Virginia,51041.0,72400,750.0
-2362008,2022-03-31,Chesterfield,South Carolina,45025.0,11787,188.0
-2362531,2022-03-31,Chesterfield,Virginia,51041.0,72454,749.0
-2365261,2022-04-01,Chesterfield,South Carolina,45025.0,11787,188.0
-2365784,2022-04-01,Chesterfield,Virginia,51041.0,72542,749.0
-2368514,2022-04-02,Chesterfield,South Carolina,45025.0,11787,188.0
-2369037,2022-04-02,Chesterfield,Virginia,51041.0,72542,749.0
-2371767,2022-04-03,Chesterfield,South Carolina,45025.0,11787,188.0
-2372290,2022-04-03,Chesterfield,Virginia,51041.0,72542,749.0
-2375019,2022-04-04,Chesterfield,South Carolina,45025.0,11787,188.0
-2375542,2022-04-04,Chesterfield,Virginia,51041.0,72617,749.0
-2378273,2022-04-05,Chesterfield,South Carolina,45025.0,11795,188.0
-2378796,2022-04-05,Chesterfield,Virginia,51041.0,72656,749.0
-2381528,2022-04-06,Chesterfield,South Carolina,45025.0,11795,188.0
-2382051,2022-04-06,Chesterfield,Virginia,51041.0,72659,749.0
-2384783,2022-04-07,Chesterfield,South Carolina,45025.0,11795,188.0
-2385306,2022-04-07,Chesterfield,Virginia,51041.0,72713,751.0
-2388037,2022-04-08,Chesterfield,South Carolina,45025.0,11795,188.0
-2388561,2022-04-08,Chesterfield,Virginia,51041.0,72748,752.0
-2391293,2022-04-09,Chesterfield,South Carolina,45025.0,11795,188.0
-2391817,2022-04-09,Chesterfield,Virginia,51041.0,72748,752.0
+date,county,state,fips,cases,deaths
+2020-03-14,Chesterfield,Virginia,51041.0,1,0.0
+2020-03-15,Chesterfield,Virginia,51041.0,1,0.0
+2020-03-16,Chesterfield,Virginia,51041.0,2,0.0
+2020-03-17,Chesterfield,Virginia,51041.0,4,0.0
+2020-03-18,Chesterfield,Virginia,51041.0,5,0.0
+2020-03-19,Chesterfield,Virginia,51041.0,6,0.0
+2020-03-20,Chesterfield,Virginia,51041.0,6,0.0
+2020-03-21,Chesterfield,Virginia,51041.0,7,0.0
+2020-03-22,Chesterfield,Virginia,51041.0,8,0.0
+2020-03-23,Chesterfield,Virginia,51041.0,9,0.0
+2020-03-24,Chesterfield,South Carolina,45025.0,1,0.0
+2020-03-24,Chesterfield,Virginia,51041.0,10,0.0
+2020-03-25,Chesterfield,South Carolina,45025.0,3,0.0
+2020-03-25,Chesterfield,Virginia,51041.0,11,0.0
+2020-03-26,Chesterfield,South Carolina,45025.0,3,0.0
+2020-03-26,Chesterfield,Virginia,51041.0,12,0.0
+2020-03-27,Chesterfield,South Carolina,45025.0,4,0.0
+2020-03-27,Chesterfield,Virginia,51041.0,12,0.0
+2020-03-28,Chesterfield,South Carolina,45025.0,4,0.0
+2020-03-28,Chesterfield,Virginia,51041.0,12,0.0
+2020-03-29,Chesterfield,South Carolina,45025.0,4,0.0
+2020-03-29,Chesterfield,Virginia,51041.0,13,0.0
+2020-03-30,Chesterfield,South Carolina,45025.0,6,0.0
+2020-03-30,Chesterfield,Virginia,51041.0,21,0.0
+2020-03-31,Chesterfield,South Carolina,45025.0,6,0.0
+2020-03-31,Chesterfield,Virginia,51041.0,43,0.0
+2020-04-01,Chesterfield,South Carolina,45025.0,9,0.0
+2020-04-01,Chesterfield,Virginia,51041.0,59,0.0
+2020-04-02,Chesterfield,South Carolina,45025.0,10,0.0
+2020-04-02,Chesterfield,Virginia,51041.0,73,0.0
+2020-04-03,Chesterfield,South Carolina,45025.0,10,0.0
+2020-04-03,Chesterfield,Virginia,51041.0,89,0.0
+2020-04-04,Chesterfield,South Carolina,45025.0,13,0.0
+2020-04-04,Chesterfield,Virginia,51041.0,106,0.0
+2020-04-05,Chesterfield,South Carolina,45025.0,13,0.0
+2020-04-05,Chesterfield,Virginia,51041.0,108,0.0
+2020-04-06,Chesterfield,South Carolina,45025.0,15,0.0
+2020-04-06,Chesterfield,Virginia,51041.0,108,0.0
+2020-04-07,Chesterfield,South Carolina,45025.0,16,0.0
+2020-04-07,Chesterfield,Virginia,51041.0,128,0.0
+2020-04-08,Chesterfield,South Carolina,45025.0,20,0.0
+2020-04-08,Chesterfield,Virginia,51041.0,145,0.0
+2020-04-09,Chesterfield,South Carolina,45025.0,21,0.0
+2020-04-09,Chesterfield,Virginia,51041.0,158,0.0
+2020-04-10,Chesterfield,South Carolina,45025.0,22,0.0
+2020-04-10,Chesterfield,Virginia,51041.0,179,0.0
+2020-04-11,Chesterfield,South Carolina,45025.0,22,0.0
+2020-04-11,Chesterfield,Virginia,51041.0,203,0.0
+2020-04-12,Chesterfield,South Carolina,45025.0,22,0.0
+2020-04-12,Chesterfield,Virginia,51041.0,209,0.0
+2020-04-13,Chesterfield,South Carolina,45025.0,23,0.0
+2020-04-13,Chesterfield,Virginia,51041.0,211,5.0
+2020-04-14,Chesterfield,South Carolina,45025.0,27,0.0
+2020-04-14,Chesterfield,Virginia,51041.0,241,5.0
+2020-04-15,Chesterfield,South Carolina,45025.0,28,0.0
+2020-04-15,Chesterfield,Virginia,51041.0,254,5.0
+2020-04-16,Chesterfield,South Carolina,45025.0,29,0.0
+2020-04-16,Chesterfield,Virginia,51041.0,267,5.0
+2020-04-17,Chesterfield,South Carolina,45025.0,31,0.0
+2020-04-17,Chesterfield,Virginia,51041.0,291,5.0
+2020-04-18,Chesterfield,South Carolina,45025.0,35,0.0
+2020-04-18,Chesterfield,Virginia,51041.0,310,5.0
+2020-04-19,Chesterfield,South Carolina,45025.0,36,0.0
+2020-04-19,Chesterfield,Virginia,51041.0,311,5.0
+2020-04-20,Chesterfield,South Carolina,45025.0,36,0.0
+2020-04-20,Chesterfield,Virginia,51041.0,331,5.0
+2020-04-21,Chesterfield,South Carolina,45025.0,37,0.0
+2020-04-21,Chesterfield,Virginia,51041.0,346,7.0
+2020-04-22,Chesterfield,South Carolina,45025.0,37,0.0
+2020-04-22,Chesterfield,Virginia,51041.0,356,7.0
+2020-04-23,Chesterfield,South Carolina,45025.0,39,0.0
+2020-04-23,Chesterfield,Virginia,51041.0,402,7.0
+2020-04-24,Chesterfield,South Carolina,45025.0,40,0.0
+2020-04-24,Chesterfield,Virginia,51041.0,423,17.0
+2020-04-25,Chesterfield,South Carolina,45025.0,44,0.0
+2020-04-25,Chesterfield,Virginia,51041.0,440,18.0
+2020-04-26,Chesterfield,South Carolina,45025.0,44,0.0
+2020-04-26,Chesterfield,Virginia,51041.0,457,18.0
+2020-04-27,Chesterfield,South Carolina,45025.0,46,0.0
+2020-04-27,Chesterfield,Virginia,51041.0,457,18.0
+2020-04-28,Chesterfield,South Carolina,45025.0,47,0.0
+2020-04-28,Chesterfield,Virginia,51041.0,488,19.0
+2020-04-29,Chesterfield,South Carolina,45025.0,48,0.0
+2020-04-29,Chesterfield,Virginia,51041.0,501,19.0
+2020-04-30,Chesterfield,South Carolina,45025.0,51,1.0
+2020-04-30,Chesterfield,Virginia,51041.0,531,20.0
+2020-05-01,Chesterfield,South Carolina,45025.0,58,1.0
+2020-05-01,Chesterfield,Virginia,51041.0,557,24.0
+2020-05-02,Chesterfield,South Carolina,45025.0,59,1.0
+2020-05-02,Chesterfield,Virginia,51041.0,593,24.0
+2020-05-03,Chesterfield,South Carolina,45025.0,59,1.0
+2020-05-03,Chesterfield,Virginia,51041.0,601,24.0
+2020-05-04,Chesterfield,South Carolina,45025.0,60,1.0
+2020-05-04,Chesterfield,Virginia,51041.0,601,24.0
+2020-05-05,Chesterfield,South Carolina,45025.0,61,1.0
+2020-05-05,Chesterfield,Virginia,51041.0,646,25.0
+2020-05-06,Chesterfield,South Carolina,45025.0,65,1.0
+2020-05-06,Chesterfield,Virginia,51041.0,646,25.0
+2020-05-07,Chesterfield,South Carolina,45025.0,69,1.0
+2020-05-07,Chesterfield,Virginia,51041.0,707,26.0
+2020-05-08,Chesterfield,South Carolina,45025.0,72,1.0
+2020-05-08,Chesterfield,Virginia,51041.0,741,26.0
+2020-05-09,Chesterfield,South Carolina,45025.0,75,1.0
+2020-05-09,Chesterfield,Virginia,51041.0,765,26.0
+2020-05-10,Chesterfield,South Carolina,45025.0,79,1.0
+2020-05-10,Chesterfield,Virginia,51041.0,787,26.0
+2020-05-11,Chesterfield,South Carolina,45025.0,80,1.0
+2020-05-11,Chesterfield,Virginia,51041.0,789,26.0
+2020-05-12,Chesterfield,South Carolina,45025.0,80,1.0
+2020-05-12,Chesterfield,Virginia,51041.0,837,28.0
+2020-05-13,Chesterfield,South Carolina,45025.0,85,1.0
+2020-05-13,Chesterfield,Virginia,51041.0,862,29.0
+2020-05-14,Chesterfield,South Carolina,45025.0,90,1.0
+2020-05-14,Chesterfield,Virginia,51041.0,909,29.0
+2020-05-15,Chesterfield,South Carolina,45025.0,93,1.0
+2020-05-15,Chesterfield,Virginia,51041.0,946,29.0
+2020-05-16,Chesterfield,South Carolina,45025.0,94,1.0
+2020-05-16,Chesterfield,Virginia,51041.0,978,29.0
+2020-05-17,Chesterfield,South Carolina,45025.0,96,1.0
+2020-05-17,Chesterfield,Virginia,51041.0,988,29.0
+2020-05-18,Chesterfield,South Carolina,45025.0,98,1.0
+2020-05-18,Chesterfield,Virginia,51041.0,1002,29.0
+2020-05-19,Chesterfield,South Carolina,45025.0,101,1.0
+2020-05-19,Chesterfield,Virginia,51041.0,1043,29.0
+2020-05-20,Chesterfield,South Carolina,45025.0,105,1.0
+2020-05-20,Chesterfield,Virginia,51041.0,1100,29.0
+2020-05-21,Chesterfield,South Carolina,45025.0,108,1.0
+2020-05-21,Chesterfield,Virginia,51041.0,1132,29.0
+2020-05-22,Chesterfield,South Carolina,45025.0,118,1.0
+2020-05-22,Chesterfield,Virginia,51041.0,1152,29.0
+2020-05-23,Chesterfield,South Carolina,45025.0,129,2.0
+2020-05-23,Chesterfield,Virginia,51041.0,1193,29.0
+2020-05-24,Chesterfield,South Carolina,45025.0,131,2.0
+2020-05-24,Chesterfield,Virginia,51041.0,1193,29.0
+2020-05-25,Chesterfield,South Carolina,45025.0,132,3.0
+2020-05-25,Chesterfield,Virginia,51041.0,1200,30.0
+2020-05-26,Chesterfield,South Carolina,45025.0,141,3.0
+2020-05-26,Chesterfield,Virginia,51041.0,1213,32.0
+2020-05-27,Chesterfield,South Carolina,45025.0,149,3.0
+2020-05-27,Chesterfield,Virginia,51041.0,1263,32.0
+2020-05-28,Chesterfield,South Carolina,45025.0,151,4.0
+2020-05-28,Chesterfield,Virginia,51041.0,1331,36.0
+2020-05-29,Chesterfield,South Carolina,45025.0,165,4.0
+2020-05-29,Chesterfield,Virginia,51041.0,1400,35.0
+2020-05-30,Chesterfield,South Carolina,45025.0,180,4.0
+2020-05-30,Chesterfield,Virginia,51041.0,1461,35.0
+2020-05-31,Chesterfield,South Carolina,45025.0,196,4.0
+2020-05-31,Chesterfield,Virginia,51041.0,1548,35.0
+2020-06-01,Chesterfield,South Carolina,45025.0,200,4.0
+2020-06-01,Chesterfield,Virginia,51041.0,1568,35.0
+2020-06-02,Chesterfield,South Carolina,45025.0,203,4.0
+2020-06-02,Chesterfield,Virginia,51041.0,1627,37.0
+2020-06-03,Chesterfield,South Carolina,45025.0,207,4.0
+2020-06-03,Chesterfield,Virginia,51041.0,1661,37.0
+2020-06-04,Chesterfield,South Carolina,45025.0,221,4.0
+2020-06-04,Chesterfield,Virginia,51041.0,1721,37.0
+2020-06-05,Chesterfield,South Carolina,45025.0,236,4.0
+2020-06-05,Chesterfield,Virginia,51041.0,1761,37.0
+2020-06-06,Chesterfield,South Carolina,45025.0,242,5.0
+2020-06-06,Chesterfield,Virginia,51041.0,1797,37.0
+2020-06-07,Chesterfield,South Carolina,45025.0,247,5.0
+2020-06-07,Chesterfield,Virginia,51041.0,1831,37.0
+2020-06-08,Chesterfield,South Carolina,45025.0,250,6.0
+2020-06-08,Chesterfield,Virginia,51041.0,1866,37.0
+2020-06-09,Chesterfield,South Carolina,45025.0,256,6.0
+2020-06-09,Chesterfield,Virginia,51041.0,1942,37.0
+2020-06-10,Chesterfield,South Carolina,45025.0,265,7.0
+2020-06-10,Chesterfield,Virginia,51041.0,1995,38.0
+2020-06-11,Chesterfield,South Carolina,45025.0,272,7.0
+2020-06-11,Chesterfield,Virginia,51041.0,2041,38.0
+2020-06-12,Chesterfield,South Carolina,45025.0,281,7.0
+2020-06-12,Chesterfield,Virginia,51041.0,2109,38.0
+2020-06-13,Chesterfield,South Carolina,45025.0,284,7.0
+2020-06-13,Chesterfield,Virginia,51041.0,2150,39.0
+2020-06-14,Chesterfield,South Carolina,45025.0,291,7.0
+2020-06-14,Chesterfield,Virginia,51041.0,2181,39.0
+2020-06-15,Chesterfield,South Carolina,45025.0,292,7.0
+2020-06-15,Chesterfield,Virginia,51041.0,2194,39.0
+2020-06-16,Chesterfield,South Carolina,45025.0,293,8.0
+2020-06-16,Chesterfield,Virginia,51041.0,2259,39.0
+2020-06-17,Chesterfield,South Carolina,45025.0,295,8.0
+2020-06-17,Chesterfield,Virginia,51041.0,2316,40.0
+2020-06-18,Chesterfield,South Carolina,45025.0,300,8.0
+2020-06-18,Chesterfield,Virginia,51041.0,2375,40.0
+2020-06-19,Chesterfield,South Carolina,45025.0,306,9.0
+2020-06-19,Chesterfield,Virginia,51041.0,2456,46.0
+2020-06-20,Chesterfield,South Carolina,45025.0,309,9.0
+2020-06-20,Chesterfield,Virginia,51041.0,2541,46.0
+2020-06-21,Chesterfield,South Carolina,45025.0,311,10.0
+2020-06-21,Chesterfield,Virginia,51041.0,2557,46.0
+2020-06-22,Chesterfield,South Carolina,45025.0,322,10.0
+2020-06-22,Chesterfield,Virginia,51041.0,2577,46.0
+2020-06-23,Chesterfield,South Carolina,45025.0,328,12.0
+2020-06-23,Chesterfield,Virginia,51041.0,2651,49.0
+2020-06-24,Chesterfield,South Carolina,45025.0,335,12.0
+2020-06-24,Chesterfield,Virginia,51041.0,2710,49.0
+2020-06-25,Chesterfield,South Carolina,45025.0,338,13.0
+2020-06-25,Chesterfield,Virginia,51041.0,2735,49.0
+2020-06-26,Chesterfield,South Carolina,45025.0,344,13.0
+2020-06-26,Chesterfield,Virginia,51041.0,2784,49.0
+2020-06-27,Chesterfield,South Carolina,45025.0,354,13.0
+2020-06-27,Chesterfield,Virginia,51041.0,2842,49.0
+2020-06-28,Chesterfield,South Carolina,45025.0,359,13.0
+2020-06-28,Chesterfield,Virginia,51041.0,2856,49.0
+2020-06-29,Chesterfield,South Carolina,45025.0,363,14.0
+2020-06-29,Chesterfield,Virginia,51041.0,2869,49.0
+2020-06-30,Chesterfield,South Carolina,45025.0,366,14.0
+2020-06-30,Chesterfield,Virginia,51041.0,2897,50.0
+2020-07-01,Chesterfield,South Carolina,45025.0,373,14.0
+2020-07-01,Chesterfield,Virginia,51041.0,2914,53.0
+2020-07-02,Chesterfield,South Carolina,45025.0,376,14.0
+2020-07-02,Chesterfield,Virginia,51041.0,2939,53.0
+2020-07-03,Chesterfield,South Carolina,45025.0,385,14.0
+2020-07-03,Chesterfield,Virginia,51041.0,2974,53.0
+2020-07-04,Chesterfield,South Carolina,45025.0,389,14.0
+2020-07-04,Chesterfield,Virginia,51041.0,2972,53.0
+2020-07-05,Chesterfield,South Carolina,45025.0,393,14.0
+2020-07-05,Chesterfield,Virginia,51041.0,3015,53.0
+2020-07-06,Chesterfield,South Carolina,45025.0,400,15.0
+2020-07-06,Chesterfield,Virginia,51041.0,3026,53.0
+2020-07-07,Chesterfield,South Carolina,45025.0,407,15.0
+2020-07-07,Chesterfield,Virginia,51041.0,3059,56.0
+2020-07-08,Chesterfield,South Carolina,45025.0,421,15.0
+2020-07-08,Chesterfield,Virginia,51041.0,3078,59.0
+2020-07-09,Chesterfield,South Carolina,45025.0,422,15.0
+2020-07-09,Chesterfield,Virginia,51041.0,3108,61.0
+2020-07-10,Chesterfield,South Carolina,45025.0,432,15.0
+2020-07-10,Chesterfield,Virginia,51041.0,3135,62.0
+2020-07-11,Chesterfield,South Carolina,45025.0,438,15.0
+2020-07-11,Chesterfield,Virginia,51041.0,3169,62.0
+2020-07-12,Chesterfield,South Carolina,45025.0,449,15.0
+2020-07-12,Chesterfield,Virginia,51041.0,3189,62.0
+2020-07-13,Chesterfield,South Carolina,45025.0,459,15.0
+2020-07-13,Chesterfield,Virginia,51041.0,3216,62.0
+2020-07-14,Chesterfield,South Carolina,45025.0,468,15.0
+2020-07-14,Chesterfield,Virginia,51041.0,3278,63.0
+2020-07-15,Chesterfield,South Carolina,45025.0,476,15.0
+2020-07-15,Chesterfield,Virginia,51041.0,3324,63.0
+2020-07-16,Chesterfield,South Carolina,45025.0,486,16.0
+2020-07-16,Chesterfield,Virginia,51041.0,3359,64.0
+2020-07-17,Chesterfield,South Carolina,45025.0,491,16.0
+2020-07-17,Chesterfield,Virginia,51041.0,3402,64.0
+2020-07-18,Chesterfield,South Carolina,45025.0,498,17.0
+2020-07-18,Chesterfield,Virginia,51041.0,3427,65.0
+2020-07-19,Chesterfield,South Carolina,45025.0,523,17.0
+2020-07-19,Chesterfield,Virginia,51041.0,3447,65.0
+2020-07-20,Chesterfield,South Carolina,45025.0,535,17.0
+2020-07-20,Chesterfield,Virginia,51041.0,3472,65.0
+2020-07-21,Chesterfield,South Carolina,45025.0,551,17.0
+2020-07-21,Chesterfield,Virginia,51041.0,3538,65.0
+2020-07-22,Chesterfield,South Carolina,45025.0,565,17.0
+2020-07-22,Chesterfield,Virginia,51041.0,3564,65.0
+2020-07-23,Chesterfield,South Carolina,45025.0,581,18.0
+2020-07-23,Chesterfield,Virginia,51041.0,3609,65.0
+2020-07-24,Chesterfield,South Carolina,45025.0,597,18.0
+2020-07-24,Chesterfield,Virginia,51041.0,3673,66.0
+2020-07-25,Chesterfield,South Carolina,45025.0,606,19.0
+2020-07-25,Chesterfield,Virginia,51041.0,3702,66.0
+2020-07-26,Chesterfield,South Carolina,45025.0,612,19.0
+2020-07-26,Chesterfield,Virginia,51041.0,3730,66.0
+2020-07-27,Chesterfield,South Carolina,45025.0,621,19.0
+2020-07-27,Chesterfield,Virginia,51041.0,3766,66.0
+2020-07-28,Chesterfield,South Carolina,45025.0,639,20.0
+2020-07-28,Chesterfield,Virginia,51041.0,3796,66.0
+2020-07-29,Chesterfield,South Carolina,45025.0,649,19.0
+2020-07-29,Chesterfield,Virginia,51041.0,3829,69.0
+2020-07-30,Chesterfield,South Carolina,45025.0,660,19.0
+2020-07-30,Chesterfield,Virginia,51041.0,3877,71.0
+2020-07-31,Chesterfield,South Carolina,45025.0,670,19.0
+2020-07-31,Chesterfield,Virginia,51041.0,3937,72.0
+2020-08-01,Chesterfield,South Carolina,45025.0,687,19.0
+2020-08-01,Chesterfield,Virginia,51041.0,3968,75.0
+2020-08-02,Chesterfield,South Carolina,45025.0,696,19.0
+2020-08-02,Chesterfield,Virginia,51041.0,4020,75.0
+2020-08-03,Chesterfield,South Carolina,45025.0,707,19.0
+2020-08-03,Chesterfield,Virginia,51041.0,4097,75.0
+2020-08-04,Chesterfield,South Carolina,45025.0,712,19.0
+2020-08-04,Chesterfield,Virginia,51041.0,4141,75.0
+2020-08-05,Chesterfield,South Carolina,45025.0,723,20.0
+2020-08-05,Chesterfield,Virginia,51041.0,4170,75.0
+2020-08-06,Chesterfield,South Carolina,45025.0,729,21.0
+2020-08-06,Chesterfield,Virginia,51041.0,4216,77.0
+2020-08-07,Chesterfield,South Carolina,45025.0,743,21.0
+2020-08-07,Chesterfield,Virginia,51041.0,4283,80.0
+2020-08-08,Chesterfield,South Carolina,45025.0,758,21.0
+2020-08-08,Chesterfield,Virginia,51041.0,4350,80.0
+2020-08-09,Chesterfield,South Carolina,45025.0,769,21.0
+2020-08-09,Chesterfield,Virginia,51041.0,4362,80.0
+2020-08-10,Chesterfield,South Carolina,45025.0,777,21.0
+2020-08-10,Chesterfield,Virginia,51041.0,4370,80.0
+2020-08-11,Chesterfield,South Carolina,45025.0,783,21.0
+2020-08-11,Chesterfield,Virginia,51041.0,4439,80.0
+2020-08-12,Chesterfield,South Carolina,45025.0,791,21.0
+2020-08-12,Chesterfield,Virginia,51041.0,4475,80.0
+2020-08-13,Chesterfield,South Carolina,45025.0,803,22.0
+2020-08-13,Chesterfield,Virginia,51041.0,4512,80.0
+2020-08-14,Chesterfield,South Carolina,45025.0,806,22.0
+2020-08-14,Chesterfield,Virginia,51041.0,4542,80.0
+2020-08-15,Chesterfield,South Carolina,45025.0,817,22.0
+2020-08-15,Chesterfield,Virginia,51041.0,4596,80.0
+2020-08-16,Chesterfield,South Carolina,45025.0,826,22.0
+2020-08-16,Chesterfield,Virginia,51041.0,4621,80.0
+2020-08-17,Chesterfield,South Carolina,45025.0,837,22.0
+2020-08-17,Chesterfield,Virginia,51041.0,4623,80.0
+2020-08-18,Chesterfield,South Carolina,45025.0,841,23.0
+2020-08-18,Chesterfield,Virginia,51041.0,4684,81.0
+2020-08-19,Chesterfield,South Carolina,45025.0,848,23.0
+2020-08-19,Chesterfield,Virginia,51041.0,4720,76.0
+2020-08-20,Chesterfield,South Carolina,45025.0,874,23.0
+2020-08-20,Chesterfield,Virginia,51041.0,4747,76.0
+2020-08-21,Chesterfield,South Carolina,45025.0,885,23.0
+2020-08-21,Chesterfield,Virginia,51041.0,4772,76.0
+2020-08-22,Chesterfield,South Carolina,45025.0,897,23.0
+2020-08-22,Chesterfield,Virginia,51041.0,4815,76.0
+2020-08-23,Chesterfield,South Carolina,45025.0,907,23.0
+2020-08-23,Chesterfield,Virginia,51041.0,4853,76.0
+2020-08-24,Chesterfield,South Carolina,45025.0,913,23.0
+2020-08-24,Chesterfield,Virginia,51041.0,4867,76.0
+2020-08-25,Chesterfield,South Carolina,45025.0,922,24.0
+2020-08-25,Chesterfield,Virginia,51041.0,4888,77.0
+2020-08-26,Chesterfield,South Carolina,45025.0,928,24.0
+2020-08-26,Chesterfield,Virginia,51041.0,4915,77.0
+2020-08-27,Chesterfield,South Carolina,45025.0,937,25.0
+2020-08-27,Chesterfield,Virginia,51041.0,4946,78.0
+2020-08-28,Chesterfield,South Carolina,45025.0,973,25.0
+2020-08-28,Chesterfield,Virginia,51041.0,4974,82.0
+2020-08-29,Chesterfield,South Carolina,45025.0,988,25.0
+2020-08-29,Chesterfield,Virginia,51041.0,5013,82.0
+2020-08-30,Chesterfield,South Carolina,45025.0,997,26.0
+2020-08-30,Chesterfield,Virginia,51041.0,5027,82.0
+2020-08-31,Chesterfield,South Carolina,45025.0,1001,26.0
+2020-08-31,Chesterfield,Virginia,51041.0,5046,82.0
+2020-09-01,Chesterfield,South Carolina,45025.0,1006,27.0
+2020-09-01,Chesterfield,Virginia,51041.0,5106,83.0
+2020-09-02,Chesterfield,South Carolina,45025.0,1010,27.0
+2020-09-02,Chesterfield,Virginia,51041.0,5146,83.0
+2020-09-03,Chesterfield,South Carolina,45025.0,1031,28.0
+2020-09-03,Chesterfield,Virginia,51041.0,5185,83.0
+2020-09-04,Chesterfield,South Carolina,45025.0,1044,29.0
+2020-09-04,Chesterfield,Virginia,51041.0,5209,83.0
+2020-09-05,Chesterfield,South Carolina,45025.0,1055,29.0
+2020-09-05,Chesterfield,Virginia,51041.0,5251,83.0
+2020-09-06,Chesterfield,South Carolina,45025.0,1059,29.0
+2020-09-06,Chesterfield,Virginia,51041.0,5259,83.0
+2020-09-07,Chesterfield,South Carolina,45025.0,1061,29.0
+2020-09-07,Chesterfield,Virginia,51041.0,5264,83.0
+2020-09-08,Chesterfield,South Carolina,45025.0,1067,29.0
+2020-09-08,Chesterfield,Virginia,51041.0,5307,83.0
+2020-09-09,Chesterfield,South Carolina,45025.0,1071,30.0
+2020-09-09,Chesterfield,Virginia,51041.0,5347,85.0
+2020-09-10,Chesterfield,South Carolina,45025.0,1082,31.0
+2020-09-10,Chesterfield,Virginia,51041.0,5401,85.0
+2020-09-11,Chesterfield,South Carolina,45025.0,1090,32.0
+2020-09-11,Chesterfield,Virginia,51041.0,5450,85.0
+2020-09-12,Chesterfield,South Carolina,45025.0,1103,31.0
+2020-09-12,Chesterfield,Virginia,51041.0,5500,85.0
+2020-09-13,Chesterfield,South Carolina,45025.0,1114,31.0
+2020-09-13,Chesterfield,Virginia,51041.0,5540,85.0
+2020-09-14,Chesterfield,South Carolina,45025.0,1123,31.0
+2020-09-14,Chesterfield,Virginia,51041.0,5558,86.0
+2020-09-15,Chesterfield,South Carolina,45025.0,1129,31.0
+2020-09-15,Chesterfield,Virginia,51041.0,5593,87.0
+2020-09-16,Chesterfield,South Carolina,45025.0,1139,32.0
+2020-09-16,Chesterfield,Virginia,51041.0,5628,89.0
+2020-09-17,Chesterfield,South Carolina,45025.0,1156,34.0
+2020-09-17,Chesterfield,Virginia,51041.0,5656,91.0
+2020-09-18,Chesterfield,South Carolina,45025.0,1176,34.0
+2020-09-18,Chesterfield,Virginia,51041.0,5702,90.0
+2020-09-19,Chesterfield,South Carolina,45025.0,1179,34.0
+2020-09-19,Chesterfield,Virginia,51041.0,5724,90.0
+2020-09-20,Chesterfield,South Carolina,45025.0,1183,35.0
+2020-09-20,Chesterfield,Virginia,51041.0,5758,91.0
+2020-09-21,Chesterfield,South Carolina,45025.0,1186,35.0
+2020-09-21,Chesterfield,Virginia,51041.0,5797,91.0
+2020-09-22,Chesterfield,South Carolina,45025.0,1189,35.0
+2020-09-22,Chesterfield,Virginia,51041.0,5829,93.0
+2020-09-23,Chesterfield,South Carolina,45025.0,1203,36.0
+2020-09-23,Chesterfield,Virginia,51041.0,5851,94.0
+2020-09-24,Chesterfield,South Carolina,45025.0,1206,36.0
+2020-09-24,Chesterfield,Virginia,51041.0,5870,94.0
+2020-09-25,Chesterfield,South Carolina,45025.0,1215,36.0
+2020-09-25,Chesterfield,Virginia,51041.0,5916,94.0
+2020-09-26,Chesterfield,South Carolina,45025.0,1226,37.0
+2020-09-26,Chesterfield,Virginia,51041.0,5945,94.0
+2020-09-27,Chesterfield,South Carolina,45025.0,1230,37.0
+2020-09-27,Chesterfield,Virginia,51041.0,5985,94.0
+2020-09-28,Chesterfield,South Carolina,45025.0,1230,37.0
+2020-09-28,Chesterfield,Virginia,51041.0,6000,94.0
+2020-09-29,Chesterfield,South Carolina,45025.0,1237,37.0
+2020-09-29,Chesterfield,Virginia,51041.0,6036,95.0
+2020-09-30,Chesterfield,South Carolina,45025.0,1242,37.0
+2020-09-30,Chesterfield,Virginia,51041.0,6053,95.0
+2020-10-01,Chesterfield,South Carolina,45025.0,1249,37.0
+2020-10-01,Chesterfield,Virginia,51041.0,6057,95.0
+2020-10-02,Chesterfield,South Carolina,45025.0,1255,37.0
+2020-10-02,Chesterfield,Virginia,51041.0,6085,96.0
+2020-10-03,Chesterfield,South Carolina,45025.0,1266,37.0
+2020-10-03,Chesterfield,Virginia,51041.0,6132,98.0
+2020-10-04,Chesterfield,South Carolina,45025.0,1268,37.0
+2020-10-04,Chesterfield,Virginia,51041.0,6170,98.0
+2020-10-05,Chesterfield,South Carolina,45025.0,1272,37.0
+2020-10-05,Chesterfield,Virginia,51041.0,6180,98.0
+2020-10-06,Chesterfield,South Carolina,45025.0,1277,38.0
+2020-10-06,Chesterfield,Virginia,51041.0,6192,98.0
+2020-10-07,Chesterfield,South Carolina,45025.0,1294,38.0
+2020-10-07,Chesterfield,Virginia,51041.0,6207,98.0
+2020-10-08,Chesterfield,South Carolina,45025.0,1316,38.0
+2020-10-08,Chesterfield,Virginia,51041.0,6266,98.0
+2020-10-09,Chesterfield,South Carolina,45025.0,1321,38.0
+2020-10-09,Chesterfield,Virginia,51041.0,6303,98.0
+2020-10-10,Chesterfield,South Carolina,45025.0,1333,38.0
+2020-10-10,Chesterfield,Virginia,51041.0,6349,98.0
+2020-10-11,Chesterfield,South Carolina,45025.0,1343,38.0
+2020-10-11,Chesterfield,Virginia,51041.0,6364,98.0
+2020-10-12,Chesterfield,South Carolina,45025.0,1353,38.0
+2020-10-12,Chesterfield,Virginia,51041.0,6396,98.0
+2020-10-13,Chesterfield,South Carolina,45025.0,1373,39.0
+2020-10-13,Chesterfield,Virginia,51041.0,6458,98.0
+2020-10-14,Chesterfield,South Carolina,45025.0,1383,39.0
+2020-10-14,Chesterfield,Virginia,51041.0,6478,98.0
+2020-10-15,Chesterfield,South Carolina,45025.0,1397,40.0
+2020-10-15,Chesterfield,Virginia,51041.0,6546,98.0
+2020-10-16,Chesterfield,South Carolina,45025.0,1406,41.0
+2020-10-16,Chesterfield,Virginia,51041.0,6568,99.0
+2020-10-17,Chesterfield,South Carolina,45025.0,1414,41.0
+2020-10-17,Chesterfield,Virginia,51041.0,6662,99.0
+2020-10-18,Chesterfield,South Carolina,45025.0,1423,41.0
+2020-10-18,Chesterfield,Virginia,51041.0,6679,99.0
+2020-10-19,Chesterfield,South Carolina,45025.0,1427,41.0
+2020-10-19,Chesterfield,Virginia,51041.0,6695,99.0
+2020-10-20,Chesterfield,South Carolina,45025.0,1435,42.0
+2020-10-20,Chesterfield,Virginia,51041.0,6737,100.0
+2020-10-21,Chesterfield,South Carolina,45025.0,1442,42.0
+2020-10-21,Chesterfield,Virginia,51041.0,6796,100.0
+2020-10-22,Chesterfield,South Carolina,45025.0,1450,42.0
+2020-10-22,Chesterfield,Virginia,51041.0,6851,100.0
+2020-10-23,Chesterfield,South Carolina,45025.0,1455,42.0
+2020-10-23,Chesterfield,Virginia,51041.0,6869,101.0
+2020-10-24,Chesterfield,South Carolina,45025.0,1466,43.0
+2020-10-24,Chesterfield,Virginia,51041.0,6934,102.0
+2020-10-25,Chesterfield,South Carolina,45025.0,1474,43.0
+2020-10-25,Chesterfield,Virginia,51041.0,6980,102.0
+2020-10-26,Chesterfield,South Carolina,45025.0,1476,43.0
+2020-10-26,Chesterfield,Virginia,51041.0,7029,102.0
+2020-10-27,Chesterfield,South Carolina,45025.0,1482,46.0
+2020-10-27,Chesterfield,Virginia,51041.0,7058,106.0
+2020-10-28,Chesterfield,South Carolina,45025.0,1484,46.0
+2020-10-28,Chesterfield,Virginia,51041.0,7111,113.0
+2020-10-29,Chesterfield,South Carolina,45025.0,1491,46.0
+2020-10-29,Chesterfield,Virginia,51041.0,7162,118.0
+2020-10-30,Chesterfield,South Carolina,45025.0,1495,46.0
+2020-10-30,Chesterfield,Virginia,51041.0,7212,119.0
+2020-10-31,Chesterfield,South Carolina,45025.0,1503,46.0
+2020-10-31,Chesterfield,Virginia,51041.0,7274,120.0
+2020-11-01,Chesterfield,South Carolina,45025.0,1513,46.0
+2020-11-01,Chesterfield,Virginia,51041.0,7302,120.0
+2020-11-02,Chesterfield,South Carolina,45025.0,1516,46.0
+2020-11-02,Chesterfield,Virginia,51041.0,7320,120.0
+2020-11-03,Chesterfield,South Carolina,45025.0,1532,46.0
+2020-11-03,Chesterfield,Virginia,51041.0,7361,120.0
+2020-11-04,Chesterfield,South Carolina,45025.0,1535,48.0
+2020-11-04,Chesterfield,Virginia,51041.0,7407,120.0
+2020-11-05,Chesterfield,South Carolina,45025.0,1540,48.0
+2020-11-05,Chesterfield,Virginia,51041.0,7445,120.0
+2020-11-06,Chesterfield,South Carolina,45025.0,1554,49.0
+2020-11-06,Chesterfield,Virginia,51041.0,7481,120.0
+2020-11-07,Chesterfield,South Carolina,45025.0,1571,49.0
+2020-11-07,Chesterfield,Virginia,51041.0,7558,120.0
+2020-11-08,Chesterfield,South Carolina,45025.0,1575,49.0
+2020-11-08,Chesterfield,Virginia,51041.0,7619,120.0
+2020-11-09,Chesterfield,South Carolina,45025.0,1576,49.0
+2020-11-09,Chesterfield,Virginia,51041.0,7709,120.0
+2020-11-10,Chesterfield,South Carolina,45025.0,1585,50.0
+2020-11-10,Chesterfield,Virginia,51041.0,7761,120.0
+2020-11-11,Chesterfield,South Carolina,45025.0,1589,50.0
+2020-11-11,Chesterfield,Virginia,51041.0,7849,120.0
+2020-11-12,Chesterfield,South Carolina,45025.0,1601,51.0
+2020-11-12,Chesterfield,Virginia,51041.0,7924,121.0
+2020-11-13,Chesterfield,South Carolina,45025.0,1616,51.0
+2020-11-13,Chesterfield,Virginia,51041.0,7951,121.0
+2020-11-14,Chesterfield,South Carolina,45025.0,1625,51.0
+2020-11-14,Chesterfield,Virginia,51041.0,8011,121.0
+2020-11-15,Chesterfield,South Carolina,45025.0,1631,51.0
+2020-11-15,Chesterfield,Virginia,51041.0,8047,121.0
+2020-11-16,Chesterfield,South Carolina,45025.0,1643,51.0
+2020-11-16,Chesterfield,Virginia,51041.0,8169,121.0
+2020-11-17,Chesterfield,South Carolina,45025.0,1652,52.0
+2020-11-17,Chesterfield,Virginia,51041.0,8253,122.0
+2020-11-18,Chesterfield,South Carolina,45025.0,1659,52.0
+2020-11-18,Chesterfield,Virginia,51041.0,8295,123.0
+2020-11-19,Chesterfield,South Carolina,45025.0,1672,52.0
+2020-11-19,Chesterfield,Virginia,51041.0,8363,124.0
+2020-11-20,Chesterfield,South Carolina,45025.0,1681,52.0
+2020-11-20,Chesterfield,Virginia,51041.0,8451,124.0
+2020-11-21,Chesterfield,South Carolina,45025.0,1686,52.0
+2020-11-21,Chesterfield,Virginia,51041.0,8540,127.0
+2020-11-22,Chesterfield,South Carolina,45025.0,1689,52.0
+2020-11-22,Chesterfield,Virginia,51041.0,8617,127.0
+2020-11-23,Chesterfield,South Carolina,45025.0,1696,52.0
+2020-11-23,Chesterfield,Virginia,51041.0,8698,127.0
+2020-11-24,Chesterfield,South Carolina,45025.0,1704,52.0
+2020-11-24,Chesterfield,Virginia,51041.0,8827,127.0
+2020-11-25,Chesterfield,South Carolina,45025.0,1721,52.0
+2020-11-25,Chesterfield,Virginia,51041.0,8942,128.0
+2020-11-26,Chesterfield,South Carolina,45025.0,1721,52.0
+2020-11-26,Chesterfield,Virginia,51041.0,9045,129.0
+2020-11-27,Chesterfield,South Carolina,45025.0,1744,52.0
+2020-11-27,Chesterfield,Virginia,51041.0,9101,131.0
+2020-11-28,Chesterfield,South Carolina,45025.0,1749,52.0
+2020-11-28,Chesterfield,Virginia,51041.0,9181,131.0
+2020-11-29,Chesterfield,South Carolina,45025.0,1756,52.0
+2020-11-29,Chesterfield,Virginia,51041.0,9255,131.0
+2020-11-30,Chesterfield,South Carolina,45025.0,1758,53.0
+2020-11-30,Chesterfield,Virginia,51041.0,9323,131.0
+2020-12-01,Chesterfield,South Carolina,45025.0,1764,53.0
+2020-12-01,Chesterfield,Virginia,51041.0,9443,131.0
+2020-12-02,Chesterfield,South Carolina,45025.0,1783,54.0
+2020-12-02,Chesterfield,Virginia,51041.0,9563,131.0
+2020-12-03,Chesterfield,South Carolina,45025.0,1800,54.0
+2020-12-03,Chesterfield,Virginia,51041.0,9631,135.0
+2020-12-04,Chesterfield,South Carolina,45025.0,1814,54.0
+2020-12-04,Chesterfield,Virginia,51041.0,9732,135.0
+2020-12-05,Chesterfield,South Carolina,45025.0,1848,55.0
+2020-12-05,Chesterfield,Virginia,51041.0,9874,135.0
+2020-12-06,Chesterfield,South Carolina,45025.0,1866,55.0
+2020-12-06,Chesterfield,Virginia,51041.0,9957,135.0
+2020-12-07,Chesterfield,South Carolina,45025.0,1877,56.0
+2020-12-07,Chesterfield,Virginia,51041.0,10056,135.0
+2020-12-08,Chesterfield,South Carolina,45025.0,1888,56.0
+2020-12-08,Chesterfield,Virginia,51041.0,10216,139.0
+2020-12-09,Chesterfield,South Carolina,45025.0,1912,57.0
+2020-12-09,Chesterfield,Virginia,51041.0,10350,139.0
+2020-12-10,Chesterfield,South Carolina,45025.0,1922,57.0
+2020-12-10,Chesterfield,Virginia,51041.0,10445,143.0
+2020-12-11,Chesterfield,South Carolina,45025.0,1937,57.0
+2020-12-11,Chesterfield,Virginia,51041.0,10590,146.0
+2020-12-12,Chesterfield,South Carolina,45025.0,1956,57.0
+2020-12-12,Chesterfield,Virginia,51041.0,10680,148.0
+2020-12-13,Chesterfield,South Carolina,45025.0,1986,57.0
+2020-12-13,Chesterfield,Virginia,51041.0,10753,148.0
+2020-12-14,Chesterfield,South Carolina,45025.0,2004,57.0
+2020-12-14,Chesterfield,Virginia,51041.0,10822,148.0
+2020-12-15,Chesterfield,South Carolina,45025.0,2018,57.0
+2020-12-15,Chesterfield,Virginia,51041.0,10994,150.0
+2020-12-16,Chesterfield,South Carolina,45025.0,2030,57.0
+2020-12-16,Chesterfield,Virginia,51041.0,11129,151.0
+2020-12-17,Chesterfield,South Carolina,45025.0,2054,57.0
+2020-12-17,Chesterfield,Virginia,51041.0,11220,154.0
+2020-12-18,Chesterfield,South Carolina,45025.0,2075,57.0
+2020-12-18,Chesterfield,Virginia,51041.0,11409,156.0
+2020-12-19,Chesterfield,South Carolina,45025.0,2096,57.0
+2020-12-19,Chesterfield,Virginia,51041.0,11528,156.0
+2020-12-20,Chesterfield,South Carolina,45025.0,2107,57.0
+2020-12-20,Chesterfield,Virginia,51041.0,11583,156.0
+2020-12-21,Chesterfield,South Carolina,45025.0,2121,58.0
+2020-12-21,Chesterfield,Virginia,51041.0,11678,156.0
+2020-12-22,Chesterfield,South Carolina,45025.0,2135,58.0
+2020-12-22,Chesterfield,Virginia,51041.0,11896,158.0
+2020-12-23,Chesterfield,South Carolina,45025.0,2172,58.0
+2020-12-23,Chesterfield,Virginia,51041.0,12072,161.0
+2020-12-24,Chesterfield,South Carolina,45025.0,2186,58.0
+2020-12-24,Chesterfield,Virginia,51041.0,12186,163.0
+2020-12-25,Chesterfield,South Carolina,45025.0,2186,58.0
+2020-12-25,Chesterfield,Virginia,51041.0,12272,164.0
+2020-12-26,Chesterfield,South Carolina,45025.0,2217,58.0
+2020-12-26,Chesterfield,Virginia,51041.0,12321,164.0
+2020-12-27,Chesterfield,South Carolina,45025.0,2269,59.0
+2020-12-27,Chesterfield,Virginia,51041.0,12399,163.0
+2020-12-28,Chesterfield,South Carolina,45025.0,2282,60.0
+2020-12-28,Chesterfield,Virginia,51041.0,12552,163.0
+2020-12-29,Chesterfield,South Carolina,45025.0,2295,60.0
+2020-12-29,Chesterfield,Virginia,51041.0,12727,165.0
+2020-12-30,Chesterfield,South Carolina,45025.0,2307,60.0
+2020-12-30,Chesterfield,Virginia,51041.0,12876,169.0
+2020-12-31,Chesterfield,South Carolina,45025.0,2336,61.0
+2020-12-31,Chesterfield,Virginia,51041.0,13059,172.0
+2021-01-01,Chesterfield,South Carolina,45025.0,2336,61.0
+2021-01-01,Chesterfield,Virginia,51041.0,13215,171.0
+2021-01-02,Chesterfield,South Carolina,45025.0,2373,61.0
+2021-01-02,Chesterfield,Virginia,51041.0,13374,173.0
+2021-01-03,Chesterfield,South Carolina,45025.0,2425,61.0
+2021-01-03,Chesterfield,Virginia,51041.0,13505,173.0
+2021-01-04,Chesterfield,South Carolina,45025.0,2445,62.0
+2021-01-04,Chesterfield,Virginia,51041.0,13658,173.0
+2021-01-05,Chesterfield,South Carolina,45025.0,2462,63.0
+2021-01-05,Chesterfield,Virginia,51041.0,13822,174.0
+2021-01-06,Chesterfield,South Carolina,45025.0,2504,63.0
+2021-01-06,Chesterfield,Virginia,51041.0,13953,175.0
+2021-01-07,Chesterfield,South Carolina,45025.0,2549,64.0
+2021-01-07,Chesterfield,Virginia,51041.0,14142,178.0
+2021-01-08,Chesterfield,South Carolina,45025.0,2570,66.0
+2021-01-08,Chesterfield,Virginia,51041.0,14287,182.0
+2021-01-09,Chesterfield,South Carolina,45025.0,2623,66.0
+2021-01-09,Chesterfield,Virginia,51041.0,14531,183.0
+2021-01-10,Chesterfield,South Carolina,45025.0,2653,66.0
+2021-01-10,Chesterfield,Virginia,51041.0,14686,183.0
+2021-01-11,Chesterfield,South Carolina,45025.0,2686,66.0
+2021-01-11,Chesterfield,Virginia,51041.0,14778,183.0
+2021-01-12,Chesterfield,South Carolina,45025.0,2699,67.0
+2021-01-12,Chesterfield,Virginia,51041.0,14904,185.0
+2021-01-13,Chesterfield,South Carolina,45025.0,2765,68.0
+2021-01-13,Chesterfield,Virginia,51041.0,15057,186.0
+2021-01-14,Chesterfield,South Carolina,45025.0,2809,69.0
+2021-01-14,Chesterfield,Virginia,51041.0,15203,190.0
+2021-01-15,Chesterfield,South Carolina,45025.0,2848,69.0
+2021-01-15,Chesterfield,Virginia,51041.0,15425,191.0
+2021-01-16,Chesterfield,South Carolina,45025.0,2890,70.0
+2021-01-16,Chesterfield,Virginia,51041.0,15769,193.0
+2021-01-17,Chesterfield,South Carolina,45025.0,2933,70.0
+2021-01-17,Chesterfield,Virginia,51041.0,16327,193.0
+2021-01-18,Chesterfield,South Carolina,45025.0,2951,70.0
+2021-01-18,Chesterfield,Virginia,51041.0,16641,193.0
+2021-01-19,Chesterfield,South Carolina,45025.0,2968,70.0
+2021-01-19,Chesterfield,Virginia,51041.0,16897,193.0
+2021-01-20,Chesterfield,South Carolina,45025.0,2992,71.0
+2021-01-20,Chesterfield,Virginia,51041.0,17097,193.0
+2021-01-21,Chesterfield,South Carolina,45025.0,3022,71.0
+2021-01-21,Chesterfield,Virginia,51041.0,17254,194.0
+2021-01-22,Chesterfield,South Carolina,45025.0,3084,71.0
+2021-01-22,Chesterfield,Virginia,51041.0,17408,195.0
+2021-01-23,Chesterfield,South Carolina,45025.0,3140,72.0
+2021-01-23,Chesterfield,Virginia,51041.0,17542,198.0
+2021-01-24,Chesterfield,South Carolina,45025.0,3176,76.0
+2021-01-24,Chesterfield,Virginia,51041.0,17706,198.0
+2021-01-25,Chesterfield,South Carolina,45025.0,3201,76.0
+2021-01-25,Chesterfield,Virginia,51041.0,18005,198.0
+2021-01-26,Chesterfield,South Carolina,45025.0,3222,77.0
+2021-01-26,Chesterfield,Virginia,51041.0,18235,199.0
+2021-01-27,Chesterfield,South Carolina,45025.0,3273,77.0
+2021-01-27,Chesterfield,Virginia,51041.0,18451,201.0
+2021-01-28,Chesterfield,South Carolina,45025.0,3294,79.0
+2021-01-28,Chesterfield,Virginia,51041.0,18648,201.0
+2021-01-29,Chesterfield,South Carolina,45025.0,3358,80.0
+2021-01-29,Chesterfield,Virginia,51041.0,18802,202.0
+2021-01-30,Chesterfield,South Carolina,45025.0,3395,80.0
+2021-01-30,Chesterfield,Virginia,51041.0,18969,203.0
+2021-01-31,Chesterfield,South Carolina,45025.0,3444,81.0
+2021-01-31,Chesterfield,Virginia,51041.0,19150,203.0
+2021-02-01,Chesterfield,South Carolina,45025.0,3470,82.0
+2021-02-01,Chesterfield,Virginia,51041.0,19294,204.0
+2021-02-02,Chesterfield,South Carolina,45025.0,3484,83.0
+2021-02-02,Chesterfield,Virginia,51041.0,19449,206.0
+2021-02-03,Chesterfield,South Carolina,45025.0,3505,83.0
+2021-02-03,Chesterfield,Virginia,51041.0,19563,207.0
+2021-02-04,Chesterfield,South Carolina,45025.0,3565,86.0
+2021-02-04,Chesterfield,Virginia,51041.0,19697,209.0
+2021-02-05,Chesterfield,South Carolina,45025.0,3625,86.0
+2021-02-05,Chesterfield,Virginia,51041.0,19944,212.0
+2021-02-06,Chesterfield,South Carolina,45025.0,3664,87.0
+2021-02-06,Chesterfield,Virginia,51041.0,20141,214.0
+2021-02-07,Chesterfield,South Carolina,45025.0,3691,87.0
+2021-02-07,Chesterfield,Virginia,51041.0,20435,214.0
+2021-02-08,Chesterfield,South Carolina,45025.0,3708,88.0
+2021-02-08,Chesterfield,Virginia,51041.0,20654,214.0
+2021-02-09,Chesterfield,South Carolina,45025.0,3734,88.0
+2021-02-09,Chesterfield,Virginia,51041.0,20876,216.0
+2021-02-10,Chesterfield,South Carolina,45025.0,3760,89.0
+2021-02-10,Chesterfield,Virginia,51041.0,21131,216.0
+2021-02-11,Chesterfield,South Carolina,45025.0,3798,90.0
+2021-02-11,Chesterfield,Virginia,51041.0,21469,216.0
+2021-02-12,Chesterfield,South Carolina,45025.0,3890,90.0
+2021-02-12,Chesterfield,Virginia,51041.0,21701,216.0
+2021-02-13,Chesterfield,South Carolina,45025.0,3909,90.0
+2021-02-13,Chesterfield,Virginia,51041.0,22019,216.0
+2021-02-14,Chesterfield,South Carolina,45025.0,3967,91.0
+2021-02-14,Chesterfield,Virginia,51041.0,22270,215.0
+2021-02-15,Chesterfield,South Carolina,45025.0,3983,91.0
+2021-02-15,Chesterfield,Virginia,51041.0,22412,215.0
+2021-02-16,Chesterfield,South Carolina,45025.0,4002,91.0
+2021-02-16,Chesterfield,Virginia,51041.0,22541,216.0
+2021-02-17,Chesterfield,South Carolina,45025.0,4032,91.0
+2021-02-17,Chesterfield,Virginia,51041.0,22643,217.0
+2021-02-18,Chesterfield,South Carolina,45025.0,4061,92.0
+2021-02-18,Chesterfield,Virginia,51041.0,22708,216.0
+2021-02-19,Chesterfield,South Carolina,45025.0,4107,92.0
+2021-02-19,Chesterfield,Virginia,51041.0,22835,216.0
+2021-02-20,Chesterfield,South Carolina,45025.0,4128,93.0
+2021-02-20,Chesterfield,Virginia,51041.0,22919,222.0
+2021-02-21,Chesterfield,South Carolina,45025.0,4162,95.0
+2021-02-21,Chesterfield,Virginia,51041.0,23009,231.0
+2021-02-22,Chesterfield,South Carolina,45025.0,4167,95.0
+2021-02-22,Chesterfield,Virginia,51041.0,23077,246.0
+2021-02-23,Chesterfield,South Carolina,45025.0,4174,95.0
+2021-02-23,Chesterfield,Virginia,51041.0,23172,260.0
+2021-02-24,Chesterfield,South Carolina,45025.0,4198,95.0
+2021-02-24,Chesterfield,Virginia,51041.0,23245,263.0
+2021-02-25,Chesterfield,South Carolina,45025.0,4227,96.0
+2021-02-25,Chesterfield,Virginia,51041.0,23312,269.0
+2021-02-26,Chesterfield,South Carolina,45025.0,4245,96.0
+2021-02-26,Chesterfield,Virginia,51041.0,23402,287.0
+2021-02-27,Chesterfield,South Carolina,45025.0,4263,96.0
+2021-02-27,Chesterfield,Virginia,51041.0,23488,291.0
+2021-02-28,Chesterfield,South Carolina,45025.0,4274,96.0
+2021-02-28,Chesterfield,Virginia,51041.0,23546,298.0
+2021-03-01,Chesterfield,South Carolina,45025.0,4285,96.0
+2021-03-01,Chesterfield,Virginia,51041.0,23594,306.0
+2021-03-02,Chesterfield,South Carolina,45025.0,4288,96.0
+2021-03-02,Chesterfield,Virginia,51041.0,23654,324.0
+2021-03-03,Chesterfield,South Carolina,45025.0,4300,97.0
+2021-03-03,Chesterfield,Virginia,51041.0,23727,352.0
+2021-03-04,Chesterfield,South Carolina,45025.0,4307,97.0
+2021-03-04,Chesterfield,Virginia,51041.0,23757,353.0
+2021-03-05,Chesterfield,South Carolina,45025.0,4321,98.0
+2021-03-05,Chesterfield,Virginia,51041.0,23812,356.0
+2021-03-06,Chesterfield,South Carolina,45025.0,4325,98.0
+2021-03-06,Chesterfield,Virginia,51041.0,23881,359.0
+2021-03-07,Chesterfield,South Carolina,45025.0,4341,98.0
+2021-03-07,Chesterfield,Virginia,51041.0,23960,362.0
+2021-03-08,Chesterfield,South Carolina,45025.0,4346,98.0
+2021-03-08,Chesterfield,Virginia,51041.0,23997,365.0
+2021-03-09,Chesterfield,South Carolina,45025.0,4354,98.0
+2021-03-09,Chesterfield,Virginia,51041.0,24087,365.0
+2021-03-10,Chesterfield,South Carolina,45025.0,4361,98.0
+2021-03-10,Chesterfield,Virginia,51041.0,24137,366.0
+2021-03-11,Chesterfield,South Carolina,45025.0,4369,98.0
+2021-03-11,Chesterfield,Virginia,51041.0,24195,371.0
+2021-03-12,Chesterfield,South Carolina,45025.0,4381,98.0
+2021-03-12,Chesterfield,Virginia,51041.0,24254,376.0
+2021-03-13,Chesterfield,South Carolina,45025.0,4395,98.0
+2021-03-13,Chesterfield,Virginia,51041.0,24323,377.0
+2021-03-14,Chesterfield,South Carolina,45025.0,4405,98.0
+2021-03-14,Chesterfield,Virginia,51041.0,24385,378.0
+2021-03-15,Chesterfield,South Carolina,45025.0,4414,98.0
+2021-03-15,Chesterfield,Virginia,51041.0,24431,379.0
+2021-03-16,Chesterfield,South Carolina,45025.0,4421,99.0
+2021-03-16,Chesterfield,Virginia,51041.0,24494,380.0
+2021-03-17,Chesterfield,South Carolina,45025.0,4426,99.0
+2021-03-17,Chesterfield,Virginia,51041.0,24569,381.0
+2021-03-18,Chesterfield,South Carolina,45025.0,4446,99.0
+2021-03-18,Chesterfield,Virginia,51041.0,24659,383.0
+2021-03-19,Chesterfield,South Carolina,45025.0,4462,99.0
+2021-03-19,Chesterfield,Virginia,51041.0,24731,384.0
+2021-03-20,Chesterfield,South Carolina,45025.0,4479,99.0
+2021-03-20,Chesterfield,Virginia,51041.0,24806,385.0
+2021-03-21,Chesterfield,South Carolina,45025.0,4500,99.0
+2021-03-21,Chesterfield,Virginia,51041.0,24849,385.0
+2021-03-22,Chesterfield,South Carolina,45025.0,4508,99.0
+2021-03-22,Chesterfield,Virginia,51041.0,24892,386.0
+2021-03-23,Chesterfield,South Carolina,45025.0,4511,99.0
+2021-03-23,Chesterfield,Virginia,51041.0,24948,386.0
+2021-03-24,Chesterfield,South Carolina,45025.0,4521,99.0
+2021-03-24,Chesterfield,Virginia,51041.0,24999,388.0
+2021-03-25,Chesterfield,South Carolina,45025.0,4533,98.0
+2021-03-25,Chesterfield,Virginia,51041.0,25047,388.0
+2021-03-26,Chesterfield,South Carolina,45025.0,4548,98.0
+2021-03-26,Chesterfield,Virginia,51041.0,25116,388.0
+2021-03-27,Chesterfield,South Carolina,45025.0,4553,98.0
+2021-03-27,Chesterfield,Virginia,51041.0,25199,390.0
+2021-03-28,Chesterfield,South Carolina,45025.0,4554,98.0
+2021-03-28,Chesterfield,Virginia,51041.0,25271,393.0
+2021-03-29,Chesterfield,South Carolina,45025.0,4557,98.0
+2021-03-29,Chesterfield,Virginia,51041.0,25310,394.0
+2021-03-30,Chesterfield,South Carolina,45025.0,4562,98.0
+2021-03-30,Chesterfield,Virginia,51041.0,25379,396.0
+2021-03-31,Chesterfield,South Carolina,45025.0,4569,98.0
+2021-03-31,Chesterfield,Virginia,51041.0,25404,396.0
+2021-04-01,Chesterfield,South Carolina,45025.0,4579,98.0
+2021-04-01,Chesterfield,Virginia,51041.0,25457,397.0
+2021-04-02,Chesterfield,South Carolina,45025.0,4583,98.0
+2021-04-02,Chesterfield,Virginia,51041.0,25526,397.0
+2021-04-03,Chesterfield,South Carolina,45025.0,4594,98.0
+2021-04-03,Chesterfield,Virginia,51041.0,25603,397.0
+2021-04-04,Chesterfield,South Carolina,45025.0,4594,98.0
+2021-04-04,Chesterfield,Virginia,51041.0,25663,399.0
+2021-04-05,Chesterfield,South Carolina,45025.0,4594,98.0
+2021-04-05,Chesterfield,Virginia,51041.0,25714,400.0
+2021-04-06,Chesterfield,South Carolina,45025.0,4598,98.0
+2021-04-06,Chesterfield,Virginia,51041.0,25795,403.0
+2021-04-07,Chesterfield,South Carolina,45025.0,4600,99.0
+2021-04-07,Chesterfield,Virginia,51041.0,25849,404.0
+2021-04-08,Chesterfield,South Carolina,45025.0,4603,100.0
+2021-04-08,Chesterfield,Virginia,51041.0,25916,404.0
+2021-04-09,Chesterfield,South Carolina,45025.0,4608,100.0
+2021-04-09,Chesterfield,Virginia,51041.0,25979,404.0
+2021-04-10,Chesterfield,South Carolina,45025.0,4610,101.0
+2021-04-10,Chesterfield,Virginia,51041.0,26046,404.0
+2021-04-11,Chesterfield,South Carolina,45025.0,4615,101.0
+2021-04-11,Chesterfield,Virginia,51041.0,26093,405.0
+2021-04-12,Chesterfield,South Carolina,45025.0,4621,101.0
+2021-04-12,Chesterfield,Virginia,51041.0,26150,406.0
+2021-04-13,Chesterfield,South Carolina,45025.0,4627,101.0
+2021-04-13,Chesterfield,Virginia,51041.0,26266,406.0
+2021-04-14,Chesterfield,South Carolina,45025.0,4635,101.0
+2021-04-14,Chesterfield,Virginia,51041.0,26323,406.0
+2021-04-15,Chesterfield,South Carolina,45025.0,4642,102.0
+2021-04-15,Chesterfield,Virginia,51041.0,26390,407.0
+2021-04-16,Chesterfield,South Carolina,45025.0,4649,102.0
+2021-04-16,Chesterfield,Virginia,51041.0,26458,410.0
+2021-04-17,Chesterfield,South Carolina,45025.0,4657,102.0
+2021-04-17,Chesterfield,Virginia,51041.0,26520,411.0
+2021-04-18,Chesterfield,South Carolina,45025.0,4667,103.0
+2021-04-18,Chesterfield,Virginia,51041.0,26566,411.0
+2021-04-19,Chesterfield,South Carolina,45025.0,4667,103.0
+2021-04-19,Chesterfield,Virginia,51041.0,26616,411.0
+2021-04-20,Chesterfield,South Carolina,45025.0,4670,103.0
+2021-04-20,Chesterfield,Virginia,51041.0,26692,411.0
+2021-04-21,Chesterfield,South Carolina,45025.0,4677,103.0
+2021-04-21,Chesterfield,Virginia,51041.0,26735,413.0
+2021-04-22,Chesterfield,South Carolina,45025.0,4684,103.0
+2021-04-22,Chesterfield,Virginia,51041.0,26790,413.0
+2021-04-23,Chesterfield,South Carolina,45025.0,4692,103.0
+2021-04-23,Chesterfield,Virginia,51041.0,26847,413.0
+2021-04-24,Chesterfield,South Carolina,45025.0,4702,103.0
+2021-04-24,Chesterfield,Virginia,51041.0,26892,413.0
+2021-04-25,Chesterfield,South Carolina,45025.0,4713,103.0
+2021-04-25,Chesterfield,Virginia,51041.0,26942,413.0
+2021-04-26,Chesterfield,South Carolina,45025.0,4717,103.0
+2021-04-26,Chesterfield,Virginia,51041.0,26975,413.0
+2021-04-27,Chesterfield,South Carolina,45025.0,4720,103.0
+2021-04-27,Chesterfield,Virginia,51041.0,27027,416.0
+2021-04-28,Chesterfield,South Carolina,45025.0,4731,103.0
+2021-04-28,Chesterfield,Virginia,51041.0,27080,416.0
+2021-04-29,Chesterfield,South Carolina,45025.0,4740,103.0
+2021-04-29,Chesterfield,Virginia,51041.0,27138,419.0
+2021-04-30,Chesterfield,South Carolina,45025.0,4744,103.0
+2021-04-30,Chesterfield,Virginia,51041.0,27202,421.0
+2021-05-01,Chesterfield,South Carolina,45025.0,4756,103.0
+2021-05-01,Chesterfield,Virginia,51041.0,27248,421.0
+2021-05-02,Chesterfield,South Carolina,45025.0,4765,103.0
+2021-05-02,Chesterfield,Virginia,51041.0,27290,423.0
+2021-05-03,Chesterfield,South Carolina,45025.0,4774,103.0
+2021-05-03,Chesterfield,Virginia,51041.0,27325,424.0
+2021-05-04,Chesterfield,South Carolina,45025.0,4774,103.0
+2021-05-04,Chesterfield,Virginia,51041.0,27369,424.0
+2021-05-05,Chesterfield,South Carolina,45025.0,4780,103.0
+2021-05-05,Chesterfield,Virginia,51041.0,27415,426.0
+2021-05-06,Chesterfield,South Carolina,45025.0,4785,103.0
+2021-05-06,Chesterfield,Virginia,51041.0,27453,428.0
+2021-05-07,Chesterfield,South Carolina,45025.0,4795,103.0
+2021-05-07,Chesterfield,Virginia,51041.0,27501,428.0
+2021-05-08,Chesterfield,South Carolina,45025.0,4798,104.0
+2021-05-08,Chesterfield,Virginia,51041.0,27561,428.0
+2021-05-09,Chesterfield,South Carolina,45025.0,4796,104.0
+2021-05-09,Chesterfield,Virginia,51041.0,27613,428.0
+2021-05-10,Chesterfield,South Carolina,45025.0,4796,104.0
+2021-05-10,Chesterfield,Virginia,51041.0,27629,428.0
+2021-05-11,Chesterfield,South Carolina,45025.0,4796,104.0
+2021-05-11,Chesterfield,Virginia,51041.0,27665,428.0
+2021-05-12,Chesterfield,South Carolina,45025.0,4804,104.0
+2021-05-12,Chesterfield,Virginia,51041.0,27700,428.0
+2021-05-13,Chesterfield,South Carolina,45025.0,4811,104.0
+2021-05-13,Chesterfield,Virginia,51041.0,27730,430.0
+2021-05-14,Chesterfield,South Carolina,45025.0,4814,104.0
+2021-05-14,Chesterfield,Virginia,51041.0,27740,431.0
+2021-05-15,Chesterfield,South Carolina,45025.0,4824,104.0
+2021-05-15,Chesterfield,Virginia,51041.0,27764,431.0
+2021-05-16,Chesterfield,South Carolina,45025.0,4829,104.0
+2021-05-16,Chesterfield,Virginia,51041.0,27781,431.0
+2021-05-17,Chesterfield,South Carolina,45025.0,4831,104.0
+2021-05-17,Chesterfield,Virginia,51041.0,27792,431.0
+2021-05-18,Chesterfield,South Carolina,45025.0,4832,104.0
+2021-05-18,Chesterfield,Virginia,51041.0,27825,431.0
+2021-05-19,Chesterfield,South Carolina,45025.0,4833,105.0
+2021-05-19,Chesterfield,Virginia,51041.0,27851,434.0
+2021-05-20,Chesterfield,South Carolina,45025.0,4840,105.0
+2021-05-20,Chesterfield,Virginia,51041.0,27891,435.0
+2021-05-21,Chesterfield,South Carolina,45025.0,4853,105.0
+2021-05-21,Chesterfield,Virginia,51041.0,27917,436.0
+2021-05-22,Chesterfield,South Carolina,45025.0,4859,105.0
+2021-05-22,Chesterfield,Virginia,51041.0,27945,436.0
+2021-05-23,Chesterfield,South Carolina,45025.0,4863,105.0
+2021-05-23,Chesterfield,Virginia,51041.0,27952,436.0
+2021-05-24,Chesterfield,South Carolina,45025.0,4867,105.0
+2021-05-24,Chesterfield,Virginia,51041.0,27956,436.0
+2021-05-25,Chesterfield,South Carolina,45025.0,4869,105.0
+2021-05-25,Chesterfield,Virginia,51041.0,27965,437.0
+2021-05-26,Chesterfield,South Carolina,45025.0,4875,105.0
+2021-05-26,Chesterfield,Virginia,51041.0,27977,439.0
+2021-05-27,Chesterfield,South Carolina,45025.0,4880,105.0
+2021-05-27,Chesterfield,Virginia,51041.0,28001,439.0
+2021-05-28,Chesterfield,South Carolina,45025.0,4887,105.0
+2021-05-28,Chesterfield,Virginia,51041.0,28027,440.0
+2021-05-29,Chesterfield,South Carolina,45025.0,4885,105.0
+2021-05-29,Chesterfield,Virginia,51041.0,28059,440.0
+2021-05-30,Chesterfield,South Carolina,45025.0,4885,105.0
+2021-05-30,Chesterfield,Virginia,51041.0,28072,440.0
+2021-05-31,Chesterfield,South Carolina,45025.0,4887,105.0
+2021-05-31,Chesterfield,Virginia,51041.0,28082,441.0
+2021-06-01,Chesterfield,South Carolina,45025.0,4887,105.0
+2021-06-01,Chesterfield,Virginia,51041.0,28087,441.0
+2021-06-02,Chesterfield,South Carolina,45025.0,4887,105.0
+2021-06-02,Chesterfield,Virginia,51041.0,28092,441.0
+2021-06-03,Chesterfield,South Carolina,45025.0,4888,105.0
+2021-06-03,Chesterfield,Virginia,51041.0,28110,441.0
+2021-06-04,Chesterfield,South Carolina,45025.0,4893,105.0
+2021-06-04,Chesterfield,Virginia,51041.0,28124,441.0
+2021-06-05,Chesterfield,South Carolina,45025.0,4896,106.0
+2021-06-05,Chesterfield,Virginia,51041.0,28135,441.0
+2021-06-06,Chesterfield,South Carolina,45025.0,4900,106.0
+2021-06-06,Chesterfield,Virginia,51041.0,28136,441.0
+2021-06-07,Chesterfield,South Carolina,45025.0,4901,106.0
+2021-06-07,Chesterfield,Virginia,51041.0,28143,441.0
+2021-06-08,Chesterfield,South Carolina,45025.0,4902,106.0
+2021-06-08,Chesterfield,Virginia,51041.0,28153,441.0
+2021-06-09,Chesterfield,South Carolina,45025.0,4904,106.0
+2021-06-09,Chesterfield,Virginia,51041.0,28162,441.0
+2021-06-10,Chesterfield,South Carolina,45025.0,4903,106.0
+2021-06-10,Chesterfield,Virginia,51041.0,28173,442.0
+2021-06-11,Chesterfield,South Carolina,45025.0,4903,106.0
+2021-06-11,Chesterfield,Virginia,51041.0,28186,442.0
+2021-06-12,Chesterfield,South Carolina,45025.0,4903,106.0
+2021-06-12,Chesterfield,Virginia,51041.0,28189,442.0
+2021-06-13,Chesterfield,South Carolina,45025.0,4907,107.0
+2021-06-13,Chesterfield,Virginia,51041.0,28196,444.0
+2021-06-14,Chesterfield,South Carolina,45025.0,4910,107.0
+2021-06-14,Chesterfield,Virginia,51041.0,28200,447.0
+2021-06-15,Chesterfield,South Carolina,45025.0,4911,107.0
+2021-06-15,Chesterfield,Virginia,51041.0,28204,448.0
+2021-06-16,Chesterfield,South Carolina,45025.0,4911,107.0
+2021-06-16,Chesterfield,Virginia,51041.0,28220,448.0
+2021-06-17,Chesterfield,South Carolina,45025.0,4911,107.0
+2021-06-17,Chesterfield,Virginia,51041.0,28233,448.0
+2021-06-18,Chesterfield,South Carolina,45025.0,4912,107.0
+2021-06-18,Chesterfield,Virginia,51041.0,28237,448.0
+2021-06-19,Chesterfield,South Carolina,45025.0,4912,107.0
+2021-06-19,Chesterfield,Virginia,51041.0,28237,448.0
+2021-06-20,Chesterfield,South Carolina,45025.0,4912,107.0
+2021-06-20,Chesterfield,Virginia,51041.0,28235,448.0
+2021-06-21,Chesterfield,South Carolina,45025.0,4914,107.0
+2021-06-21,Chesterfield,Virginia,51041.0,28242,448.0
+2021-06-22,Chesterfield,South Carolina,45025.0,4914,107.0
+2021-06-22,Chesterfield,Virginia,51041.0,28250,448.0
+2021-06-23,Chesterfield,South Carolina,45025.0,4917,107.0
+2021-06-23,Chesterfield,Virginia,51041.0,28255,449.0
+2021-06-24,Chesterfield,South Carolina,45025.0,4923,107.0
+2021-06-24,Chesterfield,Virginia,51041.0,28260,450.0
+2021-06-25,Chesterfield,South Carolina,45025.0,4923,108.0
+2021-06-25,Chesterfield,Virginia,51041.0,28263,450.0
+2021-06-26,Chesterfield,South Carolina,45025.0,4923,108.0
+2021-06-26,Chesterfield,Virginia,51041.0,28263,450.0
+2021-06-27,Chesterfield,South Carolina,45025.0,4923,108.0
+2021-06-27,Chesterfield,Virginia,51041.0,28264,450.0
+2021-06-28,Chesterfield,South Carolina,45025.0,4926,108.0
+2021-06-28,Chesterfield,Virginia,51041.0,28264,452.0
+2021-06-29,Chesterfield,South Carolina,45025.0,4926,108.0
+2021-06-29,Chesterfield,Virginia,51041.0,28268,452.0
+2021-06-30,Chesterfield,South Carolina,45025.0,4926,108.0
+2021-06-30,Chesterfield,Virginia,51041.0,28284,452.0
+2021-07-01,Chesterfield,South Carolina,45025.0,4928,108.0
+2021-07-01,Chesterfield,Virginia,51041.0,28293,452.0
+2021-07-02,Chesterfield,South Carolina,45025.0,4928,108.0
+2021-07-02,Chesterfield,Virginia,51041.0,28300,451.0
+2021-07-03,Chesterfield,South Carolina,45025.0,4928,108.0
+2021-07-03,Chesterfield,Virginia,51041.0,28307,451.0
+2021-07-04,Chesterfield,South Carolina,45025.0,4928,108.0
+2021-07-04,Chesterfield,Virginia,51041.0,28312,451.0
+2021-07-05,Chesterfield,South Carolina,45025.0,4930,108.0
+2021-07-05,Chesterfield,Virginia,51041.0,28318,451.0
+2021-07-06,Chesterfield,South Carolina,45025.0,4930,108.0
+2021-07-06,Chesterfield,Virginia,51041.0,28321,451.0
+2021-07-07,Chesterfield,South Carolina,45025.0,4936,108.0
+2021-07-07,Chesterfield,Virginia,51041.0,28314,451.0
+2021-07-08,Chesterfield,South Carolina,45025.0,4937,108.0
+2021-07-08,Chesterfield,Virginia,51041.0,28329,451.0
+2021-07-09,Chesterfield,South Carolina,45025.0,4939,108.0
+2021-07-09,Chesterfield,Virginia,51041.0,28336,451.0
+2021-07-10,Chesterfield,South Carolina,45025.0,4939,108.0
+2021-07-10,Chesterfield,Virginia,51041.0,28341,450.0
+2021-07-11,Chesterfield,South Carolina,45025.0,4939,108.0
+2021-07-11,Chesterfield,Virginia,51041.0,28360,450.0
+2021-07-12,Chesterfield,South Carolina,45025.0,4943,108.0
+2021-07-12,Chesterfield,Virginia,51041.0,28366,450.0
+2021-07-13,Chesterfield,South Carolina,45025.0,4943,108.0
+2021-07-13,Chesterfield,Virginia,51041.0,28373,450.0
+2021-07-14,Chesterfield,South Carolina,45025.0,4946,108.0
+2021-07-14,Chesterfield,Virginia,51041.0,28393,450.0
+2021-07-15,Chesterfield,South Carolina,45025.0,4950,108.0
+2021-07-15,Chesterfield,Virginia,51041.0,28416,452.0
+2021-07-16,Chesterfield,South Carolina,45025.0,4954,108.0
+2021-07-16,Chesterfield,Virginia,51041.0,28446,453.0
+2021-07-17,Chesterfield,South Carolina,45025.0,4954,108.0
+2021-07-17,Chesterfield,Virginia,51041.0,28446,453.0
+2021-07-18,Chesterfield,South Carolina,45025.0,4954,108.0
+2021-07-18,Chesterfield,Virginia,51041.0,28446,453.0
+2021-07-19,Chesterfield,South Carolina,45025.0,4961,108.0
+2021-07-19,Chesterfield,Virginia,51041.0,28506,453.0
+2021-07-20,Chesterfield,South Carolina,45025.0,4963,108.0
+2021-07-20,Chesterfield,Virginia,51041.0,28529,454.0
+2021-07-21,Chesterfield,South Carolina,45025.0,4976,108.0
+2021-07-21,Chesterfield,Virginia,51041.0,28566,454.0
+2021-07-22,Chesterfield,South Carolina,45025.0,4999,108.0
+2021-07-22,Chesterfield,Virginia,51041.0,28597,454.0
+2021-07-23,Chesterfield,South Carolina,45025.0,5003,108.0
+2021-07-23,Chesterfield,Virginia,51041.0,28631,455.0
+2021-07-24,Chesterfield,South Carolina,45025.0,5003,108.0
+2021-07-24,Chesterfield,Virginia,51041.0,28631,455.0
+2021-07-25,Chesterfield,South Carolina,45025.0,5003,108.0
+2021-07-25,Chesterfield,Virginia,51041.0,28631,455.0
+2021-07-26,Chesterfield,South Carolina,45025.0,5029,108.0
+2021-07-26,Chesterfield,Virginia,51041.0,28664,455.0
+2021-07-27,Chesterfield,South Carolina,45025.0,5031,108.0
+2021-07-27,Chesterfield,Virginia,51041.0,28740,456.0
+2021-07-28,Chesterfield,South Carolina,45025.0,5042,108.0
+2021-07-28,Chesterfield,Virginia,51041.0,28819,456.0
+2021-07-29,Chesterfield,South Carolina,45025.0,5055,108.0
+2021-07-29,Chesterfield,Virginia,51041.0,28894,456.0
+2021-07-30,Chesterfield,South Carolina,45025.0,5072,108.0
+2021-07-30,Chesterfield,Virginia,51041.0,28952,456.0
+2021-07-31,Chesterfield,South Carolina,45025.0,5072,108.0
+2021-07-31,Chesterfield,Virginia,51041.0,28952,456.0
+2021-08-01,Chesterfield,South Carolina,45025.0,5072,108.0
+2021-08-01,Chesterfield,Virginia,51041.0,28952,456.0
+2021-08-02,Chesterfield,South Carolina,45025.0,5096,108.0
+2021-08-02,Chesterfield,Virginia,51041.0,29138,456.0
+2021-08-03,Chesterfield,South Carolina,45025.0,5104,108.0
+2021-08-03,Chesterfield,Virginia,51041.0,29207,456.0
+2021-08-04,Chesterfield,South Carolina,45025.0,5116,108.0
+2021-08-04,Chesterfield,Virginia,51041.0,29307,456.0
+2021-08-05,Chesterfield,South Carolina,45025.0,5153,108.0
+2021-08-05,Chesterfield,Virginia,51041.0,29405,455.0
+2021-08-06,Chesterfield,South Carolina,45025.0,5180,108.0
+2021-08-06,Chesterfield,Virginia,51041.0,29510,455.0
+2021-08-07,Chesterfield,South Carolina,45025.0,5180,108.0
+2021-08-07,Chesterfield,Virginia,51041.0,29510,455.0
+2021-08-08,Chesterfield,South Carolina,45025.0,5180,108.0
+2021-08-08,Chesterfield,Virginia,51041.0,29510,455.0
+2021-08-09,Chesterfield,South Carolina,45025.0,5242,110.0
+2021-08-09,Chesterfield,Virginia,51041.0,29780,455.0
+2021-08-10,Chesterfield,South Carolina,45025.0,5265,110.0
+2021-08-10,Chesterfield,Virginia,51041.0,29859,455.0
+2021-08-11,Chesterfield,South Carolina,45025.0,5275,110.0
+2021-08-11,Chesterfield,Virginia,51041.0,29970,455.0
+2021-08-12,Chesterfield,South Carolina,45025.0,5296,110.0
+2021-08-12,Chesterfield,Virginia,51041.0,30079,455.0
+2021-08-13,Chesterfield,South Carolina,45025.0,5320,112.0
+2021-08-13,Chesterfield,Virginia,51041.0,30177,455.0
+2021-08-14,Chesterfield,South Carolina,45025.0,5320,112.0
+2021-08-14,Chesterfield,Virginia,51041.0,30177,455.0
+2021-08-15,Chesterfield,South Carolina,45025.0,5320,112.0
+2021-08-15,Chesterfield,Virginia,51041.0,30177,455.0
+2021-08-16,Chesterfield,South Carolina,45025.0,5390,113.0
+2021-08-16,Chesterfield,Virginia,51041.0,30475,455.0
+2021-08-17,Chesterfield,South Carolina,45025.0,5406,113.0
+2021-08-17,Chesterfield,Virginia,51041.0,30606,455.0
+2021-08-18,Chesterfield,South Carolina,45025.0,5451,114.0
+2021-08-18,Chesterfield,Virginia,51041.0,30704,457.0
+2021-08-19,Chesterfield,South Carolina,45025.0,5462,114.0
+2021-08-19,Chesterfield,Virginia,51041.0,30868,458.0
+2021-08-20,Chesterfield,South Carolina,45025.0,5484,114.0
+2021-08-20,Chesterfield,Virginia,51041.0,31012,458.0
+2021-08-21,Chesterfield,South Carolina,45025.0,5484,114.0
+2021-08-21,Chesterfield,Virginia,51041.0,31012,458.0
+2021-08-22,Chesterfield,South Carolina,45025.0,5484,114.0
+2021-08-22,Chesterfield,Virginia,51041.0,31012,458.0
+2021-08-23,Chesterfield,South Carolina,45025.0,5559,114.0
+2021-08-23,Chesterfield,Virginia,51041.0,31406,459.0
+2021-08-24,Chesterfield,South Carolina,45025.0,5581,114.0
+2021-08-24,Chesterfield,Virginia,51041.0,31565,461.0
+2021-08-25,Chesterfield,South Carolina,45025.0,5596,115.0
+2021-08-25,Chesterfield,Virginia,51041.0,31728,462.0
+2021-08-26,Chesterfield,South Carolina,45025.0,5612,116.0
+2021-08-26,Chesterfield,Virginia,51041.0,31909,463.0
+2021-08-27,Chesterfield,South Carolina,45025.0,5634,117.0
+2021-08-27,Chesterfield,Virginia,51041.0,32062,464.0
+2021-08-28,Chesterfield,South Carolina,45025.0,5634,117.0
+2021-08-28,Chesterfield,Virginia,51041.0,32062,464.0
+2021-08-29,Chesterfield,South Carolina,45025.0,5634,117.0
+2021-08-29,Chesterfield,Virginia,51041.0,32062,464.0
+2021-08-30,Chesterfield,South Carolina,45025.0,5743,118.0
+2021-08-30,Chesterfield,Virginia,51041.0,32524,465.0
+2021-08-31,Chesterfield,South Carolina,45025.0,5764,118.0
+2021-08-31,Chesterfield,Virginia,51041.0,32685,465.0
+2021-09-01,Chesterfield,South Carolina,45025.0,5805,118.0
+2021-09-01,Chesterfield,Virginia,51041.0,32825,468.0
+2021-09-02,Chesterfield,South Carolina,45025.0,5856,118.0
+2021-09-02,Chesterfield,Virginia,51041.0,32983,469.0
+2021-09-03,Chesterfield,South Carolina,45025.0,5939,119.0
+2021-09-03,Chesterfield,Virginia,51041.0,33200,470.0
+2021-09-04,Chesterfield,South Carolina,45025.0,5939,119.0
+2021-09-04,Chesterfield,Virginia,51041.0,33200,470.0
+2021-09-05,Chesterfield,South Carolina,45025.0,5939,119.0
+2021-09-05,Chesterfield,Virginia,51041.0,33200,470.0
+2021-09-06,Chesterfield,South Carolina,45025.0,6062,120.0
+2021-09-06,Chesterfield,Virginia,51041.0,33597,472.0
+2021-09-07,Chesterfield,South Carolina,45025.0,6095,121.0
+2021-09-07,Chesterfield,Virginia,51041.0,33725,472.0
+2021-09-08,Chesterfield,South Carolina,45025.0,6126,121.0
+2021-09-08,Chesterfield,Virginia,51041.0,33895,474.0
+2021-09-09,Chesterfield,South Carolina,45025.0,6153,120.0
+2021-09-09,Chesterfield,Virginia,51041.0,34063,474.0
+2021-09-10,Chesterfield,South Carolina,45025.0,6219,120.0
+2021-09-10,Chesterfield,Virginia,51041.0,34252,474.0
+2021-09-11,Chesterfield,South Carolina,45025.0,6219,120.0
+2021-09-11,Chesterfield,Virginia,51041.0,34252,474.0
+2021-09-12,Chesterfield,South Carolina,45025.0,6219,120.0
+2021-09-12,Chesterfield,Virginia,51041.0,34252,474.0
+2021-09-13,Chesterfield,South Carolina,45025.0,6305,121.0
+2021-09-13,Chesterfield,Virginia,51041.0,34724,476.0
+2021-09-14,Chesterfield,South Carolina,45025.0,6331,121.0
+2021-09-14,Chesterfield,Virginia,51041.0,34910,476.0
+2021-09-15,Chesterfield,South Carolina,45025.0,6346,125.0
+2021-09-15,Chesterfield,Virginia,51041.0,35148,477.0
+2021-09-16,Chesterfield,South Carolina,45025.0,6372,125.0
+2021-09-16,Chesterfield,Virginia,51041.0,35286,479.0
+2021-09-17,Chesterfield,South Carolina,45025.0,6396,125.0
+2021-09-17,Chesterfield,Virginia,51041.0,35523,481.0
+2021-09-18,Chesterfield,South Carolina,45025.0,6396,125.0
+2021-09-18,Chesterfield,Virginia,51041.0,35523,481.0
+2021-09-19,Chesterfield,South Carolina,45025.0,6396,125.0
+2021-09-19,Chesterfield,Virginia,51041.0,35523,481.0
+2021-09-20,Chesterfield,South Carolina,45025.0,6504,126.0
+2021-09-20,Chesterfield,Virginia,51041.0,35874,484.0
+2021-09-21,Chesterfield,South Carolina,45025.0,6527,126.0
+2021-09-21,Chesterfield,Virginia,51041.0,36003,485.0
+2021-09-22,Chesterfield,South Carolina,45025.0,6542,126.0
+2021-09-22,Chesterfield,Virginia,51041.0,36109,486.0
+2021-09-23,Chesterfield,South Carolina,45025.0,6571,126.0
+2021-09-23,Chesterfield,Virginia,51041.0,36276,488.0
+2021-09-24,Chesterfield,South Carolina,45025.0,6608,127.0
+2021-09-24,Chesterfield,Virginia,51041.0,36397,489.0
+2021-09-25,Chesterfield,South Carolina,45025.0,6608,127.0
+2021-09-25,Chesterfield,Virginia,51041.0,36397,489.0
+2021-09-26,Chesterfield,South Carolina,45025.0,6608,127.0
+2021-09-26,Chesterfield,Virginia,51041.0,36397,489.0
+2021-09-27,Chesterfield,South Carolina,45025.0,6698,129.0
+2021-09-27,Chesterfield,Virginia,51041.0,36748,493.0
+2021-09-28,Chesterfield,South Carolina,45025.0,6709,130.0
+2021-09-28,Chesterfield,Virginia,51041.0,36859,499.0
+2021-09-29,Chesterfield,South Carolina,45025.0,6734,132.0
+2021-09-29,Chesterfield,Virginia,51041.0,36975,502.0
+2021-09-30,Chesterfield,South Carolina,45025.0,6753,132.0
+2021-09-30,Chesterfield,Virginia,51041.0,37095,503.0
+2021-10-01,Chesterfield,South Carolina,45025.0,6802,135.0
+2021-10-01,Chesterfield,Virginia,51041.0,37238,504.0
+2021-10-02,Chesterfield,South Carolina,45025.0,6802,135.0
+2021-10-02,Chesterfield,Virginia,51041.0,37238,504.0
+2021-10-03,Chesterfield,South Carolina,45025.0,6802,135.0
+2021-10-03,Chesterfield,Virginia,51041.0,37238,504.0
+2021-10-04,Chesterfield,South Carolina,45025.0,6907,135.0
+2021-10-04,Chesterfield,Virginia,51041.0,37559,507.0
+2021-10-05,Chesterfield,South Carolina,45025.0,6912,135.0
+2021-10-05,Chesterfield,Virginia,51041.0,37613,509.0
+2021-10-06,Chesterfield,South Carolina,45025.0,6930,135.0
+2021-10-06,Chesterfield,Virginia,51041.0,37778,510.0
+2021-10-07,Chesterfield,South Carolina,45025.0,6952,137.0
+2021-10-07,Chesterfield,Virginia,51041.0,37937,511.0
+2021-10-08,Chesterfield,South Carolina,45025.0,6980,139.0
+2021-10-08,Chesterfield,Virginia,51041.0,38072,515.0
+2021-10-09,Chesterfield,South Carolina,45025.0,6980,139.0
+2021-10-09,Chesterfield,Virginia,51041.0,38072,515.0
+2021-10-10,Chesterfield,South Carolina,45025.0,6980,139.0
+2021-10-10,Chesterfield,Virginia,51041.0,38072,515.0
+2021-10-11,Chesterfield,South Carolina,45025.0,7034,140.0
+2021-10-11,Chesterfield,Virginia,51041.0,38072,515.0
+2021-10-12,Chesterfield,South Carolina,45025.0,7058,141.0
+2021-10-12,Chesterfield,Virginia,51041.0,38409,522.0
+2021-10-13,Chesterfield,South Carolina,45025.0,7071,141.0
+2021-10-13,Chesterfield,Virginia,51041.0,38524,524.0
+2021-10-14,Chesterfield,South Carolina,45025.0,7096,142.0
+2021-10-14,Chesterfield,Virginia,51041.0,38640,526.0
+2021-10-15,Chesterfield,South Carolina,45025.0,7112,143.0
+2021-10-15,Chesterfield,Virginia,51041.0,38728,526.0
+2021-10-16,Chesterfield,South Carolina,45025.0,7112,143.0
+2021-10-16,Chesterfield,Virginia,51041.0,38728,526.0
+2021-10-17,Chesterfield,South Carolina,45025.0,7112,143.0
+2021-10-17,Chesterfield,Virginia,51041.0,38728,526.0
+2021-10-18,Chesterfield,South Carolina,45025.0,7150,144.0
+2021-10-18,Chesterfield,Virginia,51041.0,38939,531.0
+2021-10-19,Chesterfield,South Carolina,45025.0,7155,144.0
+2021-10-19,Chesterfield,Virginia,51041.0,38992,534.0
+2021-10-20,Chesterfield,South Carolina,45025.0,7163,144.0
+2021-10-20,Chesterfield,Virginia,51041.0,39042,538.0
+2021-10-21,Chesterfield,South Carolina,45025.0,7174,144.0
+2021-10-21,Chesterfield,Virginia,51041.0,39113,539.0
+2021-10-22,Chesterfield,South Carolina,45025.0,7186,144.0
+2021-10-22,Chesterfield,Virginia,51041.0,39201,539.0
+2021-10-23,Chesterfield,South Carolina,45025.0,7186,144.0
+2021-10-23,Chesterfield,Virginia,51041.0,39201,539.0
+2021-10-24,Chesterfield,South Carolina,45025.0,7186,144.0
+2021-10-24,Chesterfield,Virginia,51041.0,39201,539.0
+2021-10-25,Chesterfield,South Carolina,45025.0,7210,144.0
+2021-10-25,Chesterfield,Virginia,51041.0,39360,542.0
+2021-10-26,Chesterfield,South Carolina,45025.0,7217,144.0
+2021-10-26,Chesterfield,Virginia,51041.0,39421,546.0
+2021-10-27,Chesterfield,South Carolina,45025.0,7228,144.0
+2021-10-27,Chesterfield,Virginia,51041.0,39478,547.0
+2021-10-28,Chesterfield,South Carolina,45025.0,7242,144.0
+2021-10-28,Chesterfield,Virginia,51041.0,39552,547.0
+2021-10-29,Chesterfield,South Carolina,45025.0,7256,144.0
+2021-10-29,Chesterfield,Virginia,51041.0,39620,548.0
+2021-10-30,Chesterfield,South Carolina,45025.0,7256,144.0
+2021-10-30,Chesterfield,Virginia,51041.0,39620,548.0
+2021-10-31,Chesterfield,South Carolina,45025.0,7256,144.0
+2021-10-31,Chesterfield,Virginia,51041.0,39620,548.0
+2021-11-01,Chesterfield,South Carolina,45025.0,7288,144.0
+2021-11-01,Chesterfield,Virginia,51041.0,39762,549.0
+2021-11-02,Chesterfield,South Carolina,45025.0,7297,144.0
+2021-11-02,Chesterfield,Virginia,51041.0,39813,550.0
+2021-11-03,Chesterfield,South Carolina,45025.0,7299,144.0
+2021-11-03,Chesterfield,Virginia,51041.0,39897,552.0
+2021-11-04,Chesterfield,South Carolina,45025.0,7328,144.0
+2021-11-04,Chesterfield,Virginia,51041.0,39968,554.0
+2021-11-05,Chesterfield,South Carolina,45025.0,7353,144.0
+2021-11-05,Chesterfield,Virginia,51041.0,40026,555.0
+2021-11-06,Chesterfield,South Carolina,45025.0,7353,144.0
+2021-11-06,Chesterfield,Virginia,51041.0,40026,555.0
+2021-11-07,Chesterfield,South Carolina,45025.0,7353,144.0
+2021-11-07,Chesterfield,Virginia,51041.0,40026,555.0
+2021-11-08,Chesterfield,South Carolina,45025.0,7375,144.0
+2021-11-08,Chesterfield,Virginia,51041.0,40171,557.0
+2021-11-09,Chesterfield,South Carolina,45025.0,7380,144.0
+2021-11-09,Chesterfield,Virginia,51041.0,40229,557.0
+2021-11-10,Chesterfield,South Carolina,45025.0,7388,144.0
+2021-11-10,Chesterfield,Virginia,51041.0,40272,557.0
+2021-11-11,Chesterfield,South Carolina,45025.0,7388,144.0
+2021-11-11,Chesterfield,Virginia,51041.0,40336,557.0
+2021-11-12,Chesterfield,South Carolina,45025.0,7406,144.0
+2021-11-12,Chesterfield,Virginia,51041.0,40397,557.0
+2021-11-13,Chesterfield,South Carolina,45025.0,7406,144.0
+2021-11-13,Chesterfield,Virginia,51041.0,40397,557.0
+2021-11-14,Chesterfield,South Carolina,45025.0,7406,144.0
+2021-11-14,Chesterfield,Virginia,51041.0,40397,557.0
+2021-11-15,Chesterfield,South Carolina,45025.0,7423,144.0
+2021-11-15,Chesterfield,Virginia,51041.0,40531,558.0
+2021-11-16,Chesterfield,South Carolina,45025.0,7428,145.0
+2021-11-16,Chesterfield,Virginia,51041.0,40592,559.0
+2021-11-17,Chesterfield,South Carolina,45025.0,7441,145.0
+2021-11-17,Chesterfield,Virginia,51041.0,40683,561.0
+2021-11-18,Chesterfield,South Carolina,45025.0,7443,145.0
+2021-11-18,Chesterfield,Virginia,51041.0,40758,562.0
+2021-11-19,Chesterfield,South Carolina,45025.0,7450,145.0
+2021-11-19,Chesterfield,Virginia,51041.0,40818,563.0
+2021-11-20,Chesterfield,South Carolina,45025.0,7450,145.0
+2021-11-20,Chesterfield,Virginia,51041.0,40818,563.0
+2021-11-21,Chesterfield,South Carolina,45025.0,7450,145.0
+2021-11-21,Chesterfield,Virginia,51041.0,40818,563.0
+2021-11-22,Chesterfield,South Carolina,45025.0,7480,146.0
+2021-11-22,Chesterfield,Virginia,51041.0,41004,566.0
+2021-11-23,Chesterfield,South Carolina,45025.0,7484,146.0
+2021-11-23,Chesterfield,Virginia,51041.0,41071,566.0
+2021-11-24,Chesterfield,South Carolina,45025.0,7490,146.0
+2021-11-24,Chesterfield,Virginia,51041.0,41130,567.0
+2021-11-25,Chesterfield,South Carolina,45025.0,7490,146.0
+2021-11-25,Chesterfield,Virginia,51041.0,41212,569.0
+2021-11-26,Chesterfield,South Carolina,45025.0,7500,147.0
+2021-11-26,Chesterfield,Virginia,51041.0,41260,570.0
+2021-11-27,Chesterfield,South Carolina,45025.0,7500,147.0
+2021-11-27,Chesterfield,Virginia,51041.0,41260,570.0
+2021-11-28,Chesterfield,South Carolina,45025.0,7500,147.0
+2021-11-28,Chesterfield,Virginia,51041.0,41260,570.0
+2021-11-29,Chesterfield,South Carolina,45025.0,7540,147.0
+2021-11-29,Chesterfield,Virginia,51041.0,41420,572.0
+2021-11-30,Chesterfield,South Carolina,45025.0,7548,147.0
+2021-11-30,Chesterfield,Virginia,51041.0,41511,572.0
+2021-12-01,Chesterfield,South Carolina,45025.0,7551,147.0
+2021-12-01,Chesterfield,Virginia,51041.0,41580,573.0
+2021-12-02,Chesterfield,South Carolina,45025.0,7561,149.0
+2021-12-02,Chesterfield,Virginia,51041.0,41680,574.0
+2021-12-03,Chesterfield,South Carolina,45025.0,7584,149.0
+2021-12-03,Chesterfield,Virginia,51041.0,41786,574.0
+2021-12-04,Chesterfield,South Carolina,45025.0,7584,149.0
+2021-12-04,Chesterfield,Virginia,51041.0,41786,574.0
+2021-12-05,Chesterfield,South Carolina,45025.0,7584,149.0
+2021-12-05,Chesterfield,Virginia,51041.0,41786,574.0
+2021-12-06,Chesterfield,South Carolina,45025.0,7612,149.0
+2021-12-06,Chesterfield,Virginia,51041.0,42022,574.0
+2021-12-07,Chesterfield,South Carolina,45025.0,7617,149.0
+2021-12-07,Chesterfield,Virginia,51041.0,42128,578.0
+2021-12-08,Chesterfield,South Carolina,45025.0,7630,149.0
+2021-12-08,Chesterfield,Virginia,51041.0,42201,579.0
+2021-12-09,Chesterfield,South Carolina,45025.0,7656,149.0
+2021-12-09,Chesterfield,Virginia,51041.0,42376,580.0
+2021-12-10,Chesterfield,South Carolina,45025.0,7670,151.0
+2021-12-10,Chesterfield,Virginia,51041.0,42491,583.0
+2021-12-11,Chesterfield,South Carolina,45025.0,7670,151.0
+2021-12-11,Chesterfield,Virginia,51041.0,42491,583.0
+2021-12-12,Chesterfield,South Carolina,45025.0,7670,151.0
+2021-12-12,Chesterfield,Virginia,51041.0,42491,583.0
+2021-12-13,Chesterfield,South Carolina,45025.0,7708,151.0
+2021-12-13,Chesterfield,Virginia,51041.0,42841,587.0
+2021-12-14,Chesterfield,South Carolina,45025.0,7724,152.0
+2021-12-14,Chesterfield,Virginia,51041.0,42993,587.0
+2021-12-15,Chesterfield,South Carolina,45025.0,7736,153.0
+2021-12-15,Chesterfield,Virginia,51041.0,43085,587.0
+2021-12-16,Chesterfield,South Carolina,45025.0,7747,153.0
+2021-12-16,Chesterfield,Virginia,51041.0,43234,590.0
+2021-12-17,Chesterfield,South Carolina,45025.0,7760,153.0
+2021-12-17,Chesterfield,Virginia,51041.0,43361,590.0
+2021-12-18,Chesterfield,South Carolina,45025.0,7760,153.0
+2021-12-18,Chesterfield,Virginia,51041.0,43361,590.0
+2021-12-19,Chesterfield,South Carolina,45025.0,7760,153.0
+2021-12-19,Chesterfield,Virginia,51041.0,43361,590.0
+2021-12-20,Chesterfield,South Carolina,45025.0,7828,153.0
+2021-12-20,Chesterfield,Virginia,51041.0,43735,590.0
+2021-12-21,Chesterfield,South Carolina,45025.0,7838,153.0
+2021-12-21,Chesterfield,Virginia,51041.0,43970,594.0
+2021-12-22,Chesterfield,South Carolina,45025.0,7876,154.0
+2021-12-22,Chesterfield,Virginia,51041.0,44195,596.0
+2021-12-23,Chesterfield,South Carolina,45025.0,7912,155.0
+2021-12-23,Chesterfield,Virginia,51041.0,44421,600.0
+2021-12-24,Chesterfield,South Carolina,45025.0,7912,155.0
+2021-12-24,Chesterfield,Virginia,51041.0,44760,601.0
+2021-12-25,Chesterfield,South Carolina,45025.0,7912,155.0
+2021-12-25,Chesterfield,Virginia,51041.0,44760,601.0
+2021-12-26,Chesterfield,South Carolina,45025.0,7912,155.0
+2021-12-26,Chesterfield,Virginia,51041.0,44760,601.0
+2021-12-27,Chesterfield,South Carolina,45025.0,7912,155.0
+2021-12-27,Chesterfield,Virginia,51041.0,45643,602.0
+2021-12-28,Chesterfield,South Carolina,45025.0,7912,155.0
+2021-12-28,Chesterfield,Virginia,51041.0,46068,605.0
+2021-12-29,Chesterfield,South Carolina,45025.0,8015,157.0
+2021-12-29,Chesterfield,Virginia,51041.0,46708,605.0
+2021-12-30,Chesterfield,South Carolina,45025.0,8056,158.0
+2021-12-30,Chesterfield,Virginia,51041.0,47306,607.0
+2021-12-31,Chesterfield,South Carolina,45025.0,8115,158.0
+2021-12-31,Chesterfield,Virginia,51041.0,48029,607.0
+2022-01-01,Chesterfield,South Carolina,45025.0,8115,158.0
+2022-01-01,Chesterfield,Virginia,51041.0,48029,607.0
+2022-01-02,Chesterfield,South Carolina,45025.0,8115,158.0
+2022-01-02,Chesterfield,Virginia,51041.0,48029,607.0
+2022-01-03,Chesterfield,South Carolina,45025.0,8115,158.0
+2022-01-03,Chesterfield,Virginia,51041.0,50002,609.0
+2022-01-04,Chesterfield,South Carolina,45025.0,8302,162.0
+2022-01-04,Chesterfield,Virginia,51041.0,50782,609.0
+2022-01-05,Chesterfield,South Carolina,45025.0,8373,162.0
+2022-01-05,Chesterfield,Virginia,51041.0,51358,609.0
+2022-01-06,Chesterfield,South Carolina,45025.0,8488,162.0
+2022-01-06,Chesterfield,Virginia,51041.0,52119,609.0
+2022-01-07,Chesterfield,South Carolina,45025.0,8538,162.0
+2022-01-07,Chesterfield,Virginia,51041.0,52823,609.0
+2022-01-08,Chesterfield,South Carolina,45025.0,8538,162.0
+2022-01-08,Chesterfield,Virginia,51041.0,52823,609.0
+2022-01-09,Chesterfield,South Carolina,45025.0,8538,162.0
+2022-01-09,Chesterfield,Virginia,51041.0,52823,609.0
+2022-01-10,Chesterfield,South Carolina,45025.0,8796,162.0
+2022-01-10,Chesterfield,Virginia,51041.0,54959,609.0
+2022-01-11,Chesterfield,South Carolina,45025.0,8851,162.0
+2022-01-11,Chesterfield,Virginia,51041.0,55728,610.0
+2022-01-12,Chesterfield,South Carolina,45025.0,8940,163.0
+2022-01-12,Chesterfield,Virginia,51041.0,56542,610.0
+2022-01-13,Chesterfield,South Carolina,45025.0,9080,164.0
+2022-01-13,Chesterfield,Virginia,51041.0,57307,611.0
+2022-01-14,Chesterfield,South Carolina,45025.0,9236,164.0
+2022-01-14,Chesterfield,Virginia,51041.0,58244,611.0
+2022-01-15,Chesterfield,South Carolina,45025.0,9236,164.0
+2022-01-15,Chesterfield,Virginia,51041.0,58244,611.0
+2022-01-16,Chesterfield,South Carolina,45025.0,9236,164.0
+2022-01-16,Chesterfield,Virginia,51041.0,58244,611.0
+2022-01-17,Chesterfield,South Carolina,45025.0,9236,164.0
+2022-01-17,Chesterfield,Virginia,51041.0,60101,611.0
+2022-01-18,Chesterfield,South Carolina,45025.0,9642,164.0
+2022-01-18,Chesterfield,Virginia,51041.0,60476,611.0
+2022-01-19,Chesterfield,South Carolina,45025.0,9697,164.0
+2022-01-19,Chesterfield,Virginia,51041.0,61071,611.0
+2022-01-20,Chesterfield,South Carolina,45025.0,9781,164.0
+2022-01-20,Chesterfield,Virginia,51041.0,61674,611.0
+2022-01-21,Chesterfield,South Carolina,45025.0,9904,164.0
+2022-01-21,Chesterfield,Virginia,51041.0,62461,611.0
+2022-01-22,Chesterfield,South Carolina,45025.0,9904,164.0
+2022-01-22,Chesterfield,Virginia,51041.0,62461,611.0
+2022-01-23,Chesterfield,South Carolina,45025.0,9904,164.0
+2022-01-23,Chesterfield,Virginia,51041.0,62461,611.0
+2022-01-24,Chesterfield,South Carolina,45025.0,9904,164.0
+2022-01-24,Chesterfield,Virginia,51041.0,63806,613.0
+2022-01-25,Chesterfield,South Carolina,45025.0,9904,164.0
+2022-01-25,Chesterfield,Virginia,51041.0,64359,615.0
+2022-01-26,Chesterfield,South Carolina,45025.0,10401,165.0
+2022-01-26,Chesterfield,Virginia,51041.0,65031,619.0
+2022-01-27,Chesterfield,South Carolina,45025.0,10469,166.0
+2022-01-27,Chesterfield,Virginia,51041.0,65649,619.0
+2022-01-28,Chesterfield,South Carolina,45025.0,10638,167.0
+2022-01-28,Chesterfield,Virginia,51041.0,66201,622.0
+2022-01-29,Chesterfield,South Carolina,45025.0,10638,167.0
+2022-01-29,Chesterfield,Virginia,51041.0,66201,622.0
+2022-01-30,Chesterfield,South Carolina,45025.0,10638,167.0
+2022-01-30,Chesterfield,Virginia,51041.0,66201,622.0
+2022-01-31,Chesterfield,South Carolina,45025.0,10956,170.0
+2022-01-31,Chesterfield,Virginia,51041.0,66999,624.0
+2022-02-01,Chesterfield,South Carolina,45025.0,10993,170.0
+2022-02-01,Chesterfield,Virginia,51041.0,67260,625.0
+2022-02-02,Chesterfield,South Carolina,45025.0,11051,170.0
+2022-02-02,Chesterfield,Virginia,51041.0,67535,632.0
+2022-02-03,Chesterfield,South Carolina,45025.0,11113,170.0
+2022-02-03,Chesterfield,Virginia,51041.0,67826,641.0
+2022-02-04,Chesterfield,South Carolina,45025.0,11197,171.0
+2022-02-04,Chesterfield,Virginia,51041.0,68100,646.0
+2022-02-05,Chesterfield,South Carolina,45025.0,11197,171.0
+2022-02-05,Chesterfield,Virginia,51041.0,68100,646.0
+2022-02-06,Chesterfield,South Carolina,45025.0,11197,171.0
+2022-02-06,Chesterfield,Virginia,51041.0,68100,646.0
+2022-02-07,Chesterfield,South Carolina,45025.0,11308,172.0
+2022-02-07,Chesterfield,Virginia,51041.0,68645,662.0
+2022-02-08,Chesterfield,South Carolina,45025.0,11322,172.0
+2022-02-08,Chesterfield,Virginia,51041.0,68828,667.0
+2022-02-09,Chesterfield,South Carolina,45025.0,11359,173.0
+2022-02-09,Chesterfield,Virginia,51041.0,69024,671.0
+2022-02-10,Chesterfield,South Carolina,45025.0,11404,173.0
+2022-02-10,Chesterfield,Virginia,51041.0,69183,674.0
+2022-02-11,Chesterfield,South Carolina,45025.0,11404,173.0
+2022-02-11,Chesterfield,Virginia,51041.0,69316,677.0
+2022-02-12,Chesterfield,South Carolina,45025.0,11404,173.0
+2022-02-12,Chesterfield,Virginia,51041.0,69316,677.0
+2022-02-13,Chesterfield,South Carolina,45025.0,11404,173.0
+2022-02-13,Chesterfield,Virginia,51041.0,69316,677.0
+2022-02-14,Chesterfield,South Carolina,45025.0,11530,176.0
+2022-02-14,Chesterfield,Virginia,51041.0,69617,682.0
+2022-02-15,Chesterfield,South Carolina,45025.0,11547,176.0
+2022-02-15,Chesterfield,Virginia,51041.0,69688,684.0
+2022-02-16,Chesterfield,South Carolina,45025.0,11566,176.0
+2022-02-16,Chesterfield,Virginia,51041.0,69724,685.0
+2022-02-17,Chesterfield,South Carolina,45025.0,11606,177.0
+2022-02-17,Chesterfield,Virginia,51041.0,69772,686.0
+2022-02-18,Chesterfield,South Carolina,45025.0,11631,177.0
+2022-02-18,Chesterfield,Virginia,51041.0,69845,688.0
+2022-02-19,Chesterfield,South Carolina,45025.0,11631,177.0
+2022-02-19,Chesterfield,Virginia,51041.0,69845,688.0
+2022-02-20,Chesterfield,South Carolina,45025.0,11631,177.0
+2022-02-20,Chesterfield,Virginia,51041.0,69845,688.0
+2022-02-21,Chesterfield,South Carolina,45025.0,11631,177.0
+2022-02-21,Chesterfield,Virginia,51041.0,70086,698.0
+2022-02-22,Chesterfield,South Carolina,45025.0,11671,178.0
+2022-02-22,Chesterfield,Virginia,51041.0,70161,699.0
+2022-02-23,Chesterfield,South Carolina,45025.0,11687,179.0
+2022-02-23,Chesterfield,Virginia,51041.0,70237,703.0
+2022-02-24,Chesterfield,South Carolina,45025.0,11697,181.0
+2022-02-24,Chesterfield,Virginia,51041.0,70326,707.0
+2022-02-25,Chesterfield,South Carolina,45025.0,11698,181.0
+2022-02-25,Chesterfield,Virginia,51041.0,70424,710.0
+2022-02-26,Chesterfield,South Carolina,45025.0,11698,181.0
+2022-02-26,Chesterfield,Virginia,51041.0,70424,710.0
+2022-02-27,Chesterfield,South Carolina,45025.0,11698,181.0
+2022-02-27,Chesterfield,Virginia,51041.0,70424,710.0
+2022-02-28,Chesterfield,South Carolina,45025.0,11711,181.0
+2022-02-28,Chesterfield,Virginia,51041.0,70566,724.0
+2022-03-01,Chesterfield,South Carolina,45025.0,11712,182.0
+2022-03-01,Chesterfield,Virginia,51041.0,70631,724.0
+2022-03-02,Chesterfield,South Carolina,45025.0,11712,182.0
+2022-03-02,Chesterfield,Virginia,51041.0,70674,724.0
+2022-03-03,Chesterfield,South Carolina,45025.0,11718,183.0
+2022-03-03,Chesterfield,Virginia,51041.0,70734,725.0
+2022-03-04,Chesterfield,South Carolina,45025.0,11720,183.0
+2022-03-04,Chesterfield,Virginia,51041.0,70805,728.0
+2022-03-05,Chesterfield,South Carolina,45025.0,11720,183.0
+2022-03-05,Chesterfield,Virginia,51041.0,70805,728.0
+2022-03-06,Chesterfield,South Carolina,45025.0,11720,183.0
+2022-03-06,Chesterfield,Virginia,51041.0,70805,728.0
+2022-03-07,Chesterfield,South Carolina,45025.0,11728,184.0
+2022-03-07,Chesterfield,Virginia,51041.0,70998,732.0
+2022-03-08,Chesterfield,South Carolina,45025.0,11732,184.0
+2022-03-08,Chesterfield,Virginia,51041.0,71079,732.0
+2022-03-09,Chesterfield,South Carolina,45025.0,11736,184.0
+2022-03-09,Chesterfield,Virginia,51041.0,71111,733.0
+2022-03-10,Chesterfield,South Carolina,45025.0,11750,185.0
+2022-03-10,Chesterfield,Virginia,51041.0,71383,735.0
+2022-03-11,Chesterfield,South Carolina,45025.0,11751,186.0
+2022-03-11,Chesterfield,Virginia,51041.0,71502,735.0
+2022-03-12,Chesterfield,South Carolina,45025.0,11751,186.0
+2022-03-12,Chesterfield,Virginia,51041.0,71502,735.0
+2022-03-13,Chesterfield,South Carolina,45025.0,11751,186.0
+2022-03-13,Chesterfield,Virginia,51041.0,71502,735.0
+2022-03-14,Chesterfield,South Carolina,45025.0,11751,186.0
+2022-03-14,Chesterfield,Virginia,51041.0,71630,735.0
+2022-03-15,Chesterfield,South Carolina,45025.0,11767,186.0
+2022-03-15,Chesterfield,Virginia,51041.0,71667,738.0
+2022-03-16,Chesterfield,South Carolina,45025.0,11767,186.0
+2022-03-16,Chesterfield,Virginia,51041.0,71696,741.0
+2022-03-17,Chesterfield,South Carolina,45025.0,11767,186.0
+2022-03-17,Chesterfield,Virginia,51041.0,71726,744.0
+2022-03-18,Chesterfield,South Carolina,45025.0,11767,186.0
+2022-03-18,Chesterfield,Virginia,51041.0,71782,746.0
+2022-03-19,Chesterfield,South Carolina,45025.0,11767,186.0
+2022-03-19,Chesterfield,Virginia,51041.0,71782,746.0
+2022-03-20,Chesterfield,South Carolina,45025.0,11767,186.0
+2022-03-20,Chesterfield,Virginia,51041.0,71782,746.0
+2022-03-21,Chesterfield,South Carolina,45025.0,11767,186.0
+2022-03-21,Chesterfield,Virginia,51041.0,71863,747.0
+2022-03-22,Chesterfield,South Carolina,45025.0,11785,187.0
+2022-03-22,Chesterfield,Virginia,51041.0,71863,747.0
+2022-03-23,Chesterfield,South Carolina,45025.0,11785,187.0
+2022-03-23,Chesterfield,Virginia,51041.0,71998,748.0
+2022-03-24,Chesterfield,South Carolina,45025.0,11785,187.0
+2022-03-24,Chesterfield,Virginia,51041.0,72062,748.0
+2022-03-25,Chesterfield,South Carolina,45025.0,11785,187.0
+2022-03-25,Chesterfield,Virginia,51041.0,72152,749.0
+2022-03-26,Chesterfield,South Carolina,45025.0,11785,187.0
+2022-03-26,Chesterfield,Virginia,51041.0,72152,749.0
+2022-03-27,Chesterfield,South Carolina,45025.0,11785,187.0
+2022-03-27,Chesterfield,Virginia,51041.0,72152,749.0
+2022-03-28,Chesterfield,South Carolina,45025.0,11785,187.0
+2022-03-28,Chesterfield,Virginia,51041.0,72261,749.0
+2022-03-29,Chesterfield,South Carolina,45025.0,11787,188.0
+2022-03-29,Chesterfield,Virginia,51041.0,72357,750.0
+2022-03-30,Chesterfield,South Carolina,45025.0,11787,188.0
+2022-03-30,Chesterfield,Virginia,51041.0,72400,750.0
+2022-03-31,Chesterfield,South Carolina,45025.0,11787,188.0
+2022-03-31,Chesterfield,Virginia,51041.0,72454,749.0
+2022-04-01,Chesterfield,South Carolina,45025.0,11787,188.0
+2022-04-01,Chesterfield,Virginia,51041.0,72542,749.0
+2022-04-02,Chesterfield,South Carolina,45025.0,11787,188.0
+2022-04-02,Chesterfield,Virginia,51041.0,72542,749.0
+2022-04-03,Chesterfield,South Carolina,45025.0,11787,188.0
+2022-04-03,Chesterfield,Virginia,51041.0,72542,749.0
+2022-04-04,Chesterfield,South Carolina,45025.0,11787,188.0
+2022-04-04,Chesterfield,Virginia,51041.0,72617,749.0
+2022-04-05,Chesterfield,South Carolina,45025.0,11795,188.0
+2022-04-05,Chesterfield,Virginia,51041.0,72656,749.0
+2022-04-06,Chesterfield,South Carolina,45025.0,11795,188.0
+2022-04-06,Chesterfield,Virginia,51041.0,72659,749.0
+2022-04-07,Chesterfield,South Carolina,45025.0,11795,188.0
+2022-04-07,Chesterfield,Virginia,51041.0,72713,751.0
+2022-04-08,Chesterfield,South Carolina,45025.0,11795,188.0
+2022-04-08,Chesterfield,Virginia,51041.0,72748,752.0
+2022-04-09,Chesterfield,South Carolina,45025.0,11795,188.0
+2022-04-09,Chesterfield,Virginia,51041.0,72748,752.0
