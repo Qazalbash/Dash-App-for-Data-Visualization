@@ -4,11 +4,11 @@ df = pd.read_csv(
     'D:/4/Data-Structure-II/CS-201-Data-Structure-II-Project/src/us-counties.csv'
 )
 
-s = set(df["county"])
+s = set(df["state"])
 
 for i in s:
-    dff = df[df["county"] == i]
+    dff = df[df["state"] == i]
     dff.to_csv(
-        f"D:/4/Data-Structure-II/CS-201-Data-Structure-II-Project/data/us-county-{i}.csv",
+        f"D:/4/Data-Structure-II/CS-201-Data-Structure-II-Project/data/us-state-{i}.csv",
         index=False)
     print(i, end="\t")
