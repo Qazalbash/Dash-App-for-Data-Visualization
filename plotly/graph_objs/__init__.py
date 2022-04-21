@@ -262,7 +262,6 @@ else:
         ],
     )
 
-
 if sys.version_info < (3, 7):
     try:
         import ipywidgets as _ipywidgets
@@ -284,7 +283,8 @@ else:
                 import ipywidgets
                 from distutils.version import LooseVersion
 
-                if LooseVersion(ipywidgets.__version__) >= LooseVersion("7.0.0"):
+                if LooseVersion(
+                        ipywidgets.__version__) >= LooseVersion("7.0.0"):
                     from ..graph_objs._figurewidget import FigureWidget
 
                     return FigureWidget

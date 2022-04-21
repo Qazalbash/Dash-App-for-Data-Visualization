@@ -1,14 +1,11 @@
 import pandas as pd
+import numpy as np
 
 df = pd.read_csv(
-    'D:/4/Data-Structure-II/CS-201-Data-Structure-II-Project/src/us-counties.csv'
+    'D:/4/Data-Structure-II/CS-201-Data-Structure-II-Project/src/us-state-death-cases-summary.csv'
 )
+df = df[df["state"] != "Puerto Rico"]
 
-s = set(df["state"])
-
-for i in s:
-    dff = df[df["state"] == i]
-    dff.to_csv(
-        f"D:/4/Data-Structure-II/CS-201-Data-Structure-II-Project/data/us-state-{i}.csv",
-        index=False)
-    print(i, end="\t")
+df.to_csv(
+    'D:/4/Data-Structure-II/CS-201-Data-Structure-II-Project/src/us-state-death-cases-summary.csv',
+    index=False)

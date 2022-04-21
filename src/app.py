@@ -1,130 +1,38 @@
-# import os
-# import pathlib
+import json
 
-# import pandas as pd
-# import plotly.express as px
-# from dash import Dash, dcc, html
-# from dash.dependencies import Input, Output
-
-# from constant import *
-
-# # Initialize app
-
-# app = Dash(__name__,
-#            meta_tags=[{
-#                "name": "viewport",
-#                "content": "width=device-width, initial-scale=1.0"
-#            }])
-
-# app.title = app_title
-# server = app.server
-
-# # Load data
-
-# APP_PATH = str(pathlib.Path(__file__).parent.resolve())
-
-# df = pd.read_csv(os.path.join(APP_PATH, "us-counties.csv"))
-
-# columns = df.columns
-
-# # App layout
-
-# app.layout = html.Div(
-#     id="root",
-#     children=[
-#         html.Div(id="header",
-#                  children=[
-#                      html.H4(children="Rate of US Covid Deaths"),
-#                      html.P(id="description",
-#                             children="Data Visualization with Python")
-#                  ]),
-#         html.Div(
-#             id="app-container",
-#             children=[
-#                 html.Div(
-#                     id="graph-container",
-#                     children=[
-#                         dcc.Dropdown(
-#                             options=[{
-#                                 "label": date,
-#                                 "value": date
-#                             } for date in columns],
-#                             multi=False,
-#                             placeholder='search',
-#                             clearable=False,
-#                             #    default="deaths",
-#                             id="chart-dropdown"),
-#                         dcc.Graph(id="box plot"),
-#                         dcc.Graph(id="bar chart"),
-#                         dcc.Graph(id="total deaths")
-#                     ])
-#             ])
-#     ])
-
-# deaths = {
-#     county: df[df["county"] == county].describe()["deaths"]["count"]
-#     for county in set(df["county"])
-# }
-
-# @app.callback(
-#     Output(component_id="box plot", component_property="figure"),
-#     Input(component_id="chart-dropdown", component_property="value"))
-# def update_figure(selected):
-
-#     figPie = px.box(df,
-#                     y=selected,
-#                     color_discrete_sequence=px.colors.sequential.RdBu)
-
-#     return figPie
-
-# if __name__ == "__main__":
-#     app.run_server(debug=True)
-
-from plotly import graph_objs as go
+import numpy as np
 import pandas as pd
-import os
-import pathlib
+from plotly import express as px
 
-APP_PATH = str(pathlib.Path(__file__).parent.resolve())
-# df = pd.read_csv(os.path.join(APP_PATH, "us-counties.csv"))
+from constant import *
+
+with open(
+        "D:/4/Data-Structure-II/CS-201-Data-Structure-II-Project/src/geojson-counties-fips.json",
+        "r") as response:
+
+    # 'https:/raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json'
+
+    counties = json.load(response)
+
 df = pd.read_csv(
-    os.path.join(
-        APP_PATH,
-        # "D:/4/Data-Structure-II/CS-201-Data-Structure-II-Project/data/us-county-Ziebach.csv"
-        "D:/4/Data-Structure-II/CS-201-Data-Structure-II-Project/src/us-counties.csv"
-    ))
+    "D:/4/Data-Structure-II/CS-201-Data-Structure-II-Project/src/us-state-death-cases-summary.csv",
+    dtype={"fips": str})
+fig = px.choropleth_mapbox(df,
+                           geojson=counties,
+                           locations='fips',
+                           color=np.log10(df["cases"]),
+                           mapbox_style="open-street-map",
+                           zoom=2.75,
+                           center={
+                               "lat": 37.0902,
+                               "lon": -95.7129
+                           },
+                           opacity=DEFAULT_OPACITY,
+                           labels={'cases': 'Cases'})
 
-# fig = go.Figure()
+fig.update_layout(
+    coloraxis_colorbar=dict(title="Cases", ticktext=[0, df["cases"].max()]))
 
-# fig.add_trace(
-#     go.Box(y=df["cases"],
-#            name="cases",
-#            marker_size=2,
-#            line_width=1,
-#            boxpoints='all',
-#            jitter=0.5,
-#            whiskerwidth=0.2))
-# fig.add_trace(
-#     go.Box(y=df["deaths"],
-#            name="deaths",
-#            marker_size=2,
-#            line_width=1,
-#            boxpoints='all',
-#            jitter=0.5,
-#            whiskerwidth=0.2))
+fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
 
-# fig.update_layout(title='Blah blah',
-#                   yaxis=dict(autorange=True,
-#                              showgrid=True,
-#                              zeroline=True,
-#                              dtick=5,
-#                              gridcolor='rgb(255, 255, 255)',
-#                              gridwidth=1,
-#                              zerolinecolor='rgb(255, 255, 255)',
-#                              zerolinewidth=2),
-#                   margin=dict(l=40, r=30, b=80, t=100),
-#                   paper_bgcolor='rgb(243, 243, 243)',
-#                   plot_bgcolor='rgb(243, 243, 243)',
-#                   showlegend=False)
-
-# fig.show()
+fig.show()

@@ -1,10 +1,5 @@
 app_title = "US Opioid Epidemic"
 
-YEARS = [
-    2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014,
-    2015
-]
-
 BINS = [
     "0-2", "2.1-4", "4.1-6", "6.1-8", "8.1-10", "10.1-12", "12.1-14",
     "14.1-16", "16.1-18", "18.1-20", "20.1-22", "22.1-24", "24.1-26",
@@ -19,5 +14,5 @@ DEFAULT_COLORSCALE = [
 
 DEFAULT_OPACITY = 0.8
 
-mapbox_access_token = "pk.eyJ1IjoicGxvdGx5bWFwYm94IiwiYSI6ImNrOWJqb2F4djBnMjEzbG50amg0dnJieG4ifQ.Zme1-Uzoi75IaFbieBDl3A"
-mapbox_style = "mapbox://styles/plotlymapbox/cjvprkf3t1kns1cqjxuxmwixz"
+DEFAULT_BDCOLOR = '#726f78'
+DEFAULT_PAPERCOLOR = '#000000'
