@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 df = pd.read_csv(
     'D:/4/Data-Structure-II/CS-201-Data-Structure-II-Project/src/us-state-death-cases-summary.csv'
