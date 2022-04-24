@@ -9,3 +9,6 @@ mapbox_style = "mapbox://styles/plotlymapbox/cjvprkf3t1kns1cqjxuxmwixz"
 
 DEFAULT_CENTER = dict(lat=38.72490, lon=-95.61446)
 DEFAULT_MAPBOX_STYLE = "carto-positron"
+
+YEARS = [2020, 2021, 2022]
+MONTHS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]

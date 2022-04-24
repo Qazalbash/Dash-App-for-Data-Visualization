@@ -102,77 +102,43 @@ class Basefont(Component):
         Text to be displayed in a tooltip when hovering over the element."""
 
     @_explicitize_args
-    def __init__(
-        self,
-        children=None,
-        id=Component.UNDEFINED,
-        n_clicks=Component.UNDEFINED,
-        n_clicks_timestamp=Component.UNDEFINED,
-        key=Component.UNDEFINED,
-        role=Component.UNDEFINED,
-        accessKey=Component.UNDEFINED,
-        className=Component.UNDEFINED,
-        contentEditable=Component.UNDEFINED,
-        contextMenu=Component.UNDEFINED,
-        dir=Component.UNDEFINED,
-        draggable=Component.UNDEFINED,
-        hidden=Component.UNDEFINED,
-        lang=Component.UNDEFINED,
-        spellCheck=Component.UNDEFINED,
-        style=Component.UNDEFINED,
-        tabIndex=Component.UNDEFINED,
-        title=Component.UNDEFINED,
-        loading_state=Component.UNDEFINED,
-        **kwargs
-    ):
+    def __init__(self,
+                 children=None,
+                 id=Component.UNDEFINED,
+                 n_clicks=Component.UNDEFINED,
+                 n_clicks_timestamp=Component.UNDEFINED,
+                 key=Component.UNDEFINED,
+                 role=Component.UNDEFINED,
+                 accessKey=Component.UNDEFINED,
+                 className=Component.UNDEFINED,
+                 contentEditable=Component.UNDEFINED,
+                 contextMenu=Component.UNDEFINED,
+                 dir=Component.UNDEFINED,
+                 draggable=Component.UNDEFINED,
+                 hidden=Component.UNDEFINED,
+                 lang=Component.UNDEFINED,
+                 spellCheck=Component.UNDEFINED,
+                 style=Component.UNDEFINED,
+                 tabIndex=Component.UNDEFINED,
+                 title=Component.UNDEFINED,
+                 loading_state=Component.UNDEFINED,
+                 **kwargs):
         self._prop_names = [
-            "children",
-            "id",
-            "accessKey",
-            "aria-*",
-            "className",
-            "contentEditable",
-            "contextMenu",
-            "data-*",
-            "dir",
-            "draggable",
-            "hidden",
-            "key",
-            "lang",
-            "loading_state",
-            "n_clicks",
-            "n_clicks_timestamp",
-            "role",
-            "spellCheck",
-            "style",
-            "tabIndex",
-            "title",
+            "children", "id", "accessKey", "aria-*", "className",
+            "contentEditable", "contextMenu", "data-*", "dir", "draggable",
+            "hidden", "key", "lang", "loading_state", "n_clicks",
+            "n_clicks_timestamp", "role", "spellCheck", "style", "tabIndex",
+            "title"
         ]
         self._type = "Basefont"
         self._namespace = "dash_html_components"
         self._valid_wildcard_attributes = ["data-", "aria-"]
         self.available_properties = [
-            "children",
-            "id",
-            "accessKey",
-            "aria-*",
-            "className",
-            "contentEditable",
-            "contextMenu",
-            "data-*",
-            "dir",
-            "draggable",
-            "hidden",
-            "key",
-            "lang",
-            "loading_state",
-            "n_clicks",
-            "n_clicks_timestamp",
-            "role",
-            "spellCheck",
-            "style",
-            "tabIndex",
-            "title",
+            "children", "id", "accessKey", "aria-*", "className",
+            "contentEditable", "contextMenu", "data-*", "dir", "draggable",
+            "hidden", "key", "lang", "loading_state", "n_clicks",
+            "n_clicks_timestamp", "role", "spellCheck", "style", "tabIndex",
+            "title"
         ]
         self.available_wildcard_properties = ["data-", "aria-"]
         _explicit_args = kwargs.pop("_explicit_args")
@@ -181,5 +147,6 @@ class Basefont(Component):
         args = {k: _locals[k] for k in _explicit_args if k != "children"}
         for k in []:
             if k not in args:
-                raise TypeError("Required argument `" + k + "` was not specified.")
+                raise TypeError("Required argument `" + k +
+                                "` was not specified.")
         super(Basefont, self).__init__(children=children, **args)
