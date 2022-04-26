@@ -29,21 +29,21 @@ class Node:
     def value(self) -> Any:
         return self._value
 
-    @property
-    def left(self) -> "Node":
-        return self._left
-
-    @property
-    def right(self) -> "Node":
-        return self._right
-
     @value.setter
     def value(self, va: Any) -> None:
         self._value = va
 
+    @property
+    def left(self) -> "Node":
+        return self._left
+
     @left.setter
     def left(self, l: Any) -> None:
         self._left = l
+
+    @property
+    def right(self) -> "Node":
+        return self._right
 
     @right.setter
     def right(self, ri: Any) -> None:

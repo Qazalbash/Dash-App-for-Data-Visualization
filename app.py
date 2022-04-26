@@ -8,12 +8,15 @@ from plotly import express as px
 
 from constant import *
 
+full_df = pd.read_csv("us-counties.csv", dtype={"fips": str})
+
 app = Dash(
     __name__,
     meta_tags=[
         {"name": "viewport", "content": "width=device-width, initial-scale=1.0"}
     ],
 )
+
 
 app.title = app_title
 server = app.server
@@ -24,20 +27,13 @@ app.layout = html.Div(
         html.Div(
             id="header",
             children=[
+                html.A(html.Button("LinkdIn", className="link-button"), href=LINKDIN),
+                html.A(html.Button("GitHub", className="link-button"), href=GITHUB),
                 html.A(
-                    html.Button("LinkdIn", className="link-button"),
-                    href="https://www.linkedin.com/in/meesumaliqazalbash/",
+                    html.Button("Source Code", className="link-button"), href=SOURCECODE
                 ),
-                html.A(
-                    html.Button("GitHub", className="link-button"),
-                    href="https://github.com/MeesumAliQazalbash",
-                ),
-                html.A(
-                    html.Button("Source Code", className="link-button"),
-                    href="https://github.com/MeesumAliQazalbash/CS-201-Data-Structure-II-Project.git",
-                ),
-                html.H4(children="US Covid 19 Stats"),
-                html.P(id="description", children="ADD description HERE"),
+                html.H4(children=app_title),
+                html.P(id="description", children=DESCRIPTION),
             ],
         ),
         html.Div(
@@ -47,7 +43,7 @@ app.layout = html.Div(
             children=[
                 html.Div(
                     className="six columns",
-                    style=dict(width="50%"),
+                    style=dict(width="15%"),
                     children=[
                         html.Div(
                             id="Radio",
@@ -67,7 +63,7 @@ app.layout = html.Div(
                 ),
                 html.Div(
                     className="six columns",
-                    style=dict(width="50%"),
+                    style=dict(width="20%"),
                     children=[
                         html.P(id="slider-year-text", children="Select year"),
                         dcc.Slider(
@@ -88,7 +84,7 @@ app.layout = html.Div(
                 ),
                 html.Div(
                     className="six columns",
-                    style=dict(width="50%"),
+                    style=dict(width="75%"),
                     children=[
                         html.Div(
                             id="sliders",
@@ -96,16 +92,16 @@ app.layout = html.Div(
                                 html.P(id="slider-month-text", children="Select Month"),
                                 dcc.Slider(
                                     id="months-slider",
-                                    min=min(MONTHS),
-                                    max=max(MONTHS),
-                                    value=MONTHS[0],
+                                    min=1,
+                                    max=12,
+                                    value=1,
                                     step=1,
                                     marks={
-                                        str(month): {
-                                            "label": str(month),
+                                        month: {
+                                            "label": MONTHS[month],
                                             "style": {"color": "#7fafdf"},
                                         }
-                                        for month in MONTHS
+                                        for month in range(1, 13)
                                     },
                                 ),
                             ],
@@ -154,12 +150,19 @@ counties = json.load(open("geojson-counties-fips.json", "r"))
         Input("Radio-Item", "value"),
     ],
 )
-def display_map(selected_year, selected_month, selected_radio):
+def display_map(
+    selected_year: int,
+    selected_month: int,
+    selected_radio: str,
+) -> px.choropleth_mapbox:
+
     if selected_year == 2022 and selected_month > 4:
         selected_month = 4
 
-    df = pd.read_csv(f"data/{selected_year}-{selected_month}.csv", dtype={"fips": str})
+    df = full_df[full_df["yearmonth"] == f"{selected_year}-{selected_month}"]
+
     data = df[selected_radio]
+
     fig = px.choropleth_mapbox(
         df,
         geojson=counties,
@@ -170,28 +173,26 @@ def display_map(selected_year, selected_month, selected_radio):
         zoom=DEFAULT_ZOOM,
         mapbox_style=DEFAULT_MAPBOX_STYLE,
         opacity=DEFAULT_OPACITY,
-        labels={selected_year: selected_year},
         hover_name="county",
         hover_data=["cases", "deaths"],
-        # title
+        title=TITLE(selected_radio),
     )
 
     fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
     fig.update_layout(
+        hoverinfo="skip",
         coloraxis_colorbar=dict(
             title=f"{selected_year}-{selected_month}",
             ticktext=[0, data.max()],
-        )
+        ),
     )
 
     return fig
 
 
-@app.callback(Output("heatmap-title", "children"), [Input("years-slider", "value")])
-def update_map_title(year):
-    return "Heatmap of age adjusted mortality rates from poisonings in year {0}".format(
-        year
-    )
+@app.callback(Output("heatmap-title", "children"), [Input("Radio-Item", "value")])
+def update_map_title(selected: str) -> str:
+    return f"Heatmap of COVID 19 {selected}"
 
 
 if __name__ == "__main__":
