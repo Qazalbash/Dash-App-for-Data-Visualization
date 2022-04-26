@@ -114,23 +114,26 @@ app.layout = html.Div(
             id="heatmap-container",
             children=[
                 html.P(id="heatmap-title"),
-                dcc.Graph(
-                    id="county-choropleth",
-                    figure=dict(
-                        layout=dict(
-                            height=600,
-                            display="inline-block",
-                            mapbox=dict(
-                                layers=[],
-                                accesstoken=mapbox_access_token,
-                                style=mapbox_style,
-                                center=DEFAULT_CENTER,
-                                zoom=DEFAULT_ZOOM,
-                                pitch=0,
-                            ),
-                            autosize=True,
-                        )
+                dcc.Loading(
+                    dcc.Graph(
+                        id="county-choropleth",
+                        figure=dict(
+                            layout=dict(
+                                height=600,
+                                display="inline-block",
+                                mapbox=dict(
+                                    layers=[],
+                                    accesstoken=mapbox_access_token,
+                                    style=mapbox_style,
+                                    center=DEFAULT_CENTER,
+                                    zoom=DEFAULT_ZOOM,
+                                    pitch=0,
+                                ),
+                                autosize=True,
+                            )
+                        ),
                     ),
+                    type="cube",
                 ),
             ],
         ),
@@ -180,7 +183,6 @@ def display_map(
 
     fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
     fig.update_layout(
-        hoverinfo="skip",
         coloraxis_colorbar=dict(
             title=f"{selected_year}-{selected_month}",
             ticktext=[0, data.max()],
