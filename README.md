@@ -1,5 +1,7 @@
-# CS-201-Data-Structure-II-Project
+# Dash App for Data Visualization
+
 ## Requirement
+
 First install the required modules by running the following command in the terminal of the directory.
 
 `pip install -r requirement.txt`
@@ -15,6 +17,7 @@ pip install plotly=5.8.0
 ```
 
 ## How to run?
+
 Run the following command in the terminal
 
 `python app.py`

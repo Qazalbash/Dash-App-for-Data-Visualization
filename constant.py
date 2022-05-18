@@ -7,8 +7,7 @@ DEFAULT_ZOOM = 3
 LINKDIN = "https://www.linkedin.com/in/meesumaliqazalbash/"
 GITHUB = "https://github.com/MeesumAliQazalbash"
 SOURCECODE = (
-    "https://github.com/MeesumAliQazalbash/CS-201-Data-Structure-II-Project.git"
-)
+    "https://github.com/MeesumAliQazalbash/Dash-App-for-Data-Visualization")
 
 DESCRIPTION = """ADD description HERE"""
 
