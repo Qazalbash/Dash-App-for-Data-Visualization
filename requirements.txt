@@ -1,0 +1,5 @@
+pathlib
+pandas=1.4.2
+numpy=1.22.3
+dash=2.4.1
+plotly=5.8.0
