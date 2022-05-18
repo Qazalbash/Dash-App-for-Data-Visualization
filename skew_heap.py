@@ -4,12 +4,15 @@ from typing import Any, Optional
 class Node:
     """A single Node in a binary tree."""
 
-    def __init__(self, value, left=None, right=None) -> None:
+    def __init__(self: "SkewHeap",
+                 value: Any,
+                 left: "Node" = None,
+                 right: "Node" = None) -> None:
         self._value: Any = value
         self._left: Node = left
         self._right: Node = right
 
-    def __repr__(self) -> str:
+    def __repr__(self: "Node") -> str:
 
         reprstr = f"Node(value: {self._value}, "
 
@@ -26,27 +29,27 @@ class Node:
         return reprstr
 
     @property
-    def value(self) -> Any:
+    def value(self: "Node") -> Any:
         return self._value
 
     @value.setter
-    def value(self, va: Any) -> None:
+    def value(self: "Node", va: Any) -> None:
         self._value = va
 
     @property
-    def left(self) -> "Node":
+    def left(self: "Node") -> "Node":
         return self._left
 
     @left.setter
-    def left(self, l: Any) -> None:
+    def left(self: "Node", l: Any) -> None:
         self._left = l
 
     @property
-    def right(self) -> "Node":
+    def right(self: "Node") -> "Node":
         return self._right
 
     @right.setter
-    def right(self, ri: Any) -> None:
+    def right(self: "Node", ri: Any) -> None:
         self._right = ri
 
 
@@ -58,7 +61,7 @@ class SkewHeap:
     the assumption that the items inserted are in random order.
     """
 
-    def __init__(self, items=tuple()):
+    def __init__(self: "SkewHeap", items=tuple()):
         """
         SkewHeap() -> new, empty, skew heap.
         SkewHeap(iterable) -> new skew heap initialized from the iterable.
@@ -67,12 +70,12 @@ class SkewHeap:
         for item in items:
             self.push(item)
 
-    def push(self, value: Any):
+    def push(self: "SkewHeap", value: Any):
         """Add an item to this heap."""
         node = Node(value, None, None)
         self.root = self.merge(self.root, node)
 
-    def pop(self):
+    def pop(self: "SkewHeap"):
         """Remove the least item in this heap and return it."""
         if self.root is None:
             raise ValueError("Cannot pop empty SkewHeap")
@@ -81,38 +84,38 @@ class SkewHeap:
             self.root = self.merge(self.root.left, self.root.right)
             return value
 
-    def peek(self):
+    def peek(self: "SkewHeap"):
         """Return the least item in this heap without modifying this heap."""
         if self.root is None:
             raise ValueError("Cannot peek into empty SkewHeap")
         else:
             return self.root.value
 
-    def union(self, other: "SkewHeap") -> "SkewHeap":
+    def union(self: "SkewHeap", other: "SkewHeap") -> "SkewHeap":
         """Return a new heap which contains all the items of this and another heap combined."""
         ret = SkewHeap()
         ret.root = self.merge(self.root, other.root)
         return ret
 
-    def __add__(self, other: "SkewHeap") -> "SkewHeap":
+    def __add__(self: "SkewHeap", other: "SkewHeap") -> "SkewHeap":
         """The plus operator returns the union of two SkewHeaps."""
         return self.union(other)
 
-    def __len__(self) -> int:
+    def __len__(self: "SkewHeap") -> int:
         """Return the number of items in this heap."""
         return self.count(self.root)
 
-    def __bool__(self) -> bool:
+    def __bool__(self: "SkewHeap") -> bool:
         """Return true iff the heap is non-empty."""
         return self.root is not None
 
-    def depth(self) -> int:
+    def depth(self: "SkewHeap") -> int:
         """Return the depth of the tree used to represent this skew heap."""
         if self.root is None:
             return 0
         return 1 + max(self.depth(self.root.left), self.depth(self.root.right))
 
-    def dfs(self, visited: Optional[Node], node: Node) -> Optional[Node]:
+    def dfs(self: "SkewHeap", visited: list[Node], node: Node) -> list[Node]:
         if node not in visited:
             visited.append(node)
             neigh = []
@@ -125,7 +128,7 @@ class SkewHeap:
         return visited
 
     @property
-    def all_nodes(self) -> Optional[Any]:
+    def all_nodes(self: "SkewHeap") -> Optional[Any]:
         return [i.value for i in self.dfs([], self.root)]
 
     @staticmethod

@@ -4,8 +4,7 @@ df = pd.read_csv("us-counties.csv")
 
 df.dropna(subset=["fips", "deaths", "cases"], inplace=True)
 df.index = pd.to_datetime(df["date"]).apply(
-    lambda x: "{year}-{month}".format(year=x.year, month=x.month)
-)
+    lambda x: "{year}-{month}".format(year=x.year, month=x.month))
 
 for date in set(df.index):
     summary = {}
