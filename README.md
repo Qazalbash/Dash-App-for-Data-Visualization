@@ -1,5 +1,7 @@
 # Dash App for Data Visualization
 
+The app is a dashboard which is utilized in visualizing the COVID-19 data of the USA from January 2020 to April 2022. It is made with the help of plotly and dash - popular python modules for interactive graphs.
+
 ## Requirement
 
 ### Create a virtual enviorment (Optional)
