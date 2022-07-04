@@ -1,4 +1,7 @@
 # Dash App for Data Visualization
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/MeesumAliQazalbash/Dash-App-for-Data-Visualization.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MeesumAliQazalbash/Dash-App-for-Data-Visualization/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/MeesumAliQazalbash/Dash-App-for-Data-Visualization.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MeesumAliQazalbash/Dash-App-for-Data-Visualization/context:python)
+
 
 The app is a dashboard which is utilized in visualizing the COVID-19 data of the USA from January 2020 to April 2022. It is made with the help of plotly and dash - popular python modules for interactive graphs.
 
